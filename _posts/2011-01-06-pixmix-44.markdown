@@ -1,0 +1,21 @@
+---
+author: admin
+comments: true
+date: 2011-01-06 10:06:03+00:00
+layout: post
+link: http://habi.gna.ch/2011/01/06/pixmix-44/
+slug: pixmix-44
+title: PixMix 44 (Recap)
+wordpress_id: 2349
+categories:
+- gadgets and gizmos
+tags:
+- keynote
+---
+
+Etwas alt, aber fur mich auch ein Test, wie das [neue iWork Prasentationen aus Keynote furs Netz](http://www.fscklog.com/2011/01/eingebettete-keynote-präsentation-ab-iwork-905.html) exportieren kann:
+Unten sind meine Notizen vom [PixMix 44](http://habi.gna.ch/2010/11/21/pix-mix-44-am-kommenden-mittwoch/) eingebunden:
+
+Diese kleine "Prasentation" habe ich an diesem Abend auf meinem iPad in [Keynote](http://itunes.apple.com/ch/app/keynote/id361285480?mt=8) als Notizen mitgenommen.
+
+Die Einbinderei von Prasentationen finde ich interessant, weil ich fur die [Vortrags-Abteilung](http://www.ana.unibe.ch/~haberthuer/talks) auf meiner [Arbeits-Homepage](http://www.ana.unibe.ch/~haberthuer/) bisher immer auf [SciVee](http://www.scivee.tv/user/habi) ausgewichen bin, was einerseits Flash bedingt und andererseits aufgrund des Exports in einen Film die einzelnen Folien-Übergange nicht wirklich gut anzeigt.

@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2015-07-17 12:22:19+00:00
+layout: post
+link: http://habi.gna.ch/2015/07/17/lac-lema/
+slug: lac-lema
+title: Lac Léman
+wordpress_id: 3992
+categories:
+- moblog
+- photos
+tags:
+- flickr
+- IFTTT
+- moblog
+- photostream
+---
+
+![](http://ift.tt/1fPJtvg)
+
+from [Flickr](http://flic.kr/p/vQxuDS) via [IFTTT](http://ift.tt/1c4nCfM).

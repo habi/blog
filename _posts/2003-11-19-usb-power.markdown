@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2003-11-19 11:20:40+00:00
+layout: post
+link: http://habi.gna.ch/2003/11/19/usb-power/
+slug: usb-power
+title: usb-power!
+wordpress_id: 352
+categories:
+- none
+---
+
+now the whole [usb-powered stuff](http://www.tomatochip.com/servlet/com.gcm.servlet.commodity.CommodityView?command=createProcurement&supplierID=473&commodityID=3366&searchIndex=3) gets a bit far off the track :-)
+
+[via [gizmodo](http://www.gizmodo.com/archives/010180.php#010180)]

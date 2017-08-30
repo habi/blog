@@ -1,0 +1,44 @@
+---
+author: admin
+comments: true
+date: 2012-01-22 17:53:13+00:00
+layout: post
+link: http://habi.gna.ch/2012/01/22/lunamod/
+slug: lunamod
+title: LunaMod
+wordpress_id: 2638
+categories:
+- gadgets and gizmos
+- personal
+- technospeak
+tags:
+- lunamod
+- sound
+- tinkering
+---
+
+Vor [einigen Monaten](http://status.davidhaberthuer.ch/notice/2292) hab' ich im damals aktuellen Makezine die Bastelanleitung für den [LunaMod](http://makezine.com/26/lunamod/) gesehen. Wie's dann so geht mit Projekten, hast ein paar Wochen gedauert, bis wir uns hinter die Teileliste gesetzt haben und alles notwendige bestellt [hatten](http://status.davidhaberthuer.ch/notice/4872). Kurz vor Weihnachten haben [Bastian](http://bastianwidmer.ch/) und ich endlich die Zeit gefunden, uns hinzusetzten und unsere Lötkünste zu trainieren.
+
+
+
+
+Nach kürzerem Soft- und Hardware-Debugging hörten wir tatsächlich zum ersten Mal Sound aus unseren Kopfhörern. Ich hab's dann beim Einbau in das Holzkistli aus der Brocki geschafft, zwei wichtige Kabel abzureissen, so dass die Spielfreude gerade wieder getrübt wurde. Aufgrund vieler Faktoren hab' ich es erst dieses Wochenende geschafft, einen neuen Druckschalter einzubauen und die Platine und alle Kabel schön in einem Holzkistli zu verpacken.
+
+
+
+
+Schlussendlich sieht dann das Ding gar nicht so schlecht aus, wenigstens von aussen. In der Kiste drin sieht's ein bisschen weniger aufgeräumt aus, aber ich bin schon etwas stolz, dass trotz meinen zwei linken Händen das Kästchen lustige Töne von sich gibt. Diese sind unten zu hören, falls sich jemand für 8bit-Lärm interessiert :)
+
+
+
+
+[![DSC_0474.JPG](http://habi.gna.ch/wp-content/uploads/2012/01/DSC_0474-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/01/DSC_04741.jpg)
+
+
+
+
+[![IMG_0477.JPG](http://habi.gna.ch/wp-content/uploads/2012/01/IMG_0477-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/01/IMG_0477.jpg)
+
+
+
+

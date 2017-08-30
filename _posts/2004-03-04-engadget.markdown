@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2004-03-04 20:55:35+00:00
+layout: post
+link: http://habi.gna.ch/2004/03/04/engadget/
+slug: engadget
+title: engadget
+wordpress_id: 458
+categories:
+- none
+---
+
+after [some guy left gizmodo](http://www.engadget.com/) he founded [engadget](http://www.engadget.com/) to abandon himself to his gadget fetish.
+
+the first entries on engadget (which is a really cool domain name, why do i never get those ideas :-) look really promising to fulfill my gadge-lust.
+looks like i need to watch an rss-feed more!

@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2006-09-25 21:06:57+00:00
+layout: post
+link: http://habi.gna.ch/2006/09/25/about/
+slug: about
+title: About me
+wordpress_id: 2
+categories:
+- none
+---
+
+my real name is david haberthür, nearly everyone calls me habi
+i worked as a messenger and will always be one in my heart, now i'm a ph.d.-student at the university of bern
+
+i studied physics and got my masters degree.
+i'm a geek.
+i live in the breitenrain (bern, switzerland).
+
+i have lots of email-addresses.
+i like to type in only small letters.

@@ -1,0 +1,20 @@
+---
+author: admin
+comments: true
+date: 2013-06-04 18:15:55+00:00
+layout: post
+link: http://habi.gna.ch/2013/06/04/jonah/
+slug: jonah
+title: Jonah
+wordpress_id: 3117
+categories:
+- linkdump
+---
+
+Jonah ist ein gelungener Kurzfilm über Grössenwahn, den [Mzungus](http://en.wikipedia.org/wiki/Mzungu) auslösen können.
+Nicht nur gelungen, weil er ein visuell üppig reale Szenen mit CGI mischt, sondern auch, weil er zu Beginn und am Ende genau das Gefühl rüberbringt, welches in [Stone Town](http://photos.davidhaberthuer.ch/index.php?type=recent&tags=zanzibar) herrscht, genauso über wie unter Wasser.
+Hoffen wir, dass es dort nie so wird wie im Mittelteil!
+
+http://vimeo.com/58646255
+
+[via [nerdcore.de](http://www.crackajack.de/2013/06/03/shorts-jonah-and-captain-tt/)]

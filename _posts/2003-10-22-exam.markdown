@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2003-10-22 15:37:56+00:00
+layout: post
+link: http://habi.gna.ch/2003/10/22/exam/
+slug: exam
+title: exam
+wordpress_id: 319
+categories:
+- none
+---
+
+if you wanna see what exam i prepared for the class today, then click on the image below, and you can download a 132kb-pdf.
+the first image is the result of [this](http://habi.gna.ch/blog/archives/000095.html), but had to bee redrawn multiple times, because it was just too difficult the way i wanted it first...
+[![](http://habi.gna.ch/blog/images/Probe1D-tm.jpg)](http://habi.gna.ch/blog/images/Probe1D.pdf)
