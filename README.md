@@ -10,4 +10,10 @@ Now I'd like to take away a ton of dependencies and just let it run by [Jekyll](
 - `git clone https://github.com/thomasf/exitwp.git ~/Dev/exitwp`
 - `cp ~/Dev/*.xml ~/Dev/exitwp/wordpress-xml`
 - `cd ~/Dev/exitwp/ && python2 exitwp.py`
-- `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/_posts/'
+- `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/_posts/`
+
+# Start this shizzle
+- `cd ~/Dev/blog && jekyll new . force`
+- Add all files in `_posts` to the Git repository
+- Push to GitHub
+- Change [Settings](https://github.com/habi/blog/settings) to enable GitHub Pages for this repository
