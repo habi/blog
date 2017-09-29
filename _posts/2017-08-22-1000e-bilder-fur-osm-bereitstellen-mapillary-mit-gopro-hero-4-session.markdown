@@ -28,45 +28,47 @@ Da der korrekte Transfer der gut 2000 Bilder zu [Mapillary](https://www.mapillar
 Als erstes muss mensch das [Garmin TPX](https://duckduckgo.com/?q=garmin+tpx&t=osx&ia=web)-File in ein normales GPX-File umwandeln (Das File landet übrigens dank [Tapiriik](https://tapiriik.com) automatisch auf meinem Computer).
 Dank GPSBabel und untenstehendem Kommando geht das ganz easy.
 
-[code lang=bash]
+````bash
 gpsbabel -i gtrnctr -f ~/Dropbox/Apps/tapiriik/2017/08017.08.04.Vom\ Ländli\ us\ ga\ schaffe_Cycling.tcx -o gpx -F ~/Desktop/thunbern.gpx
-[/code]
+````
 
 Jetzt müssen wir die Fotos vorbereiten, d.h. korrekt geotaggen und für Mapillary vorbereiten.
 
-[code lang=bash]
+````bash
 cd ~/Dev
 git clone git@github.com:mapillary/mapillary_tools.git
-[/code]
+````
 
 lädt die [Mapillary Tools](https://github.com/mapillary/mapillary_tools) auf den Kompi. Theoretisch würde das [geotag_from_gpx.py](https://github.com/mapillary/mapillary_tools/blob/master/python/geotag_from_gpx.py)-Skript das geotaggen erledigen. Das Skript hat aber einen Fehler, also muss mensch diesen [erst korrigieren](https://github.com/mapillary/mapillary_tools/pull/179).
 
 Dann klappt das Geotagging wunderbar mit
 
-[code lang=bash]
+````bash
 python ~/Dev/mapillary_tools/python/geotag_from_gpx.py ~/Pictures/GoPro/2017-08-04/HERO4 Session 1/Time Lapse 3/ ~/Desktop/thunbern.gpx
-[/code]
+````
 
 Zum hochladen der Bilder müssen zuerst sogenannte [Umgebungs-Variabeln](https://stackoverflow.com/questions/135688/setting-environment-variables-in-os-x) gesetzt werden. Die genauen Werte für deinen User-Account sind in deinen [Mapillary settings](https://www.mapillary.com/app/settings/developers) zu finden und landen in deinem `~/.bashrc`.
 
-[code lang=bash]
+````bash
 export MAPILLARY_USERNAME='habi'
 MAPILLARY_PERMISSION_HASH='GanzVieleBuchstaben'
 export MAPILLARY_SIGNATURE_HASH='NochmalVieleBuchstaben'
-[/code]
+````
 
 Dann geht das hochladen der Bilder flink und automatisch mit
 
-[code lang=bash]
+````bash
 python ~/Dev/mapillary_tools/python/upload_with_authentication.py ~/Pictures/GoPro/2017-08-04/HERO4\ Session\ 1/Time\ Lapse\ 
 3/
-[/code]
+````
 
 (Wenigstens theoretisch, ich musste die Vorgänge geotagging und hochladen ein paar Mal wiederholen, bis alle Bilder hochgeladen waren.)
 
 Das Ganze sieht dann in etwa so aus.
 
-
+{% raw %}
+<iframe width="640" height="320" src="https://embed-v1.mapillary.com/embed?version=1&filter=%5B%22all%22,%5B%22in%22,%22userKey%22,%22evSfKhZsmyAmj_TYUM3Bog%22%5D%5D&map_filter=%5B%22all%22,%5B%22in%22,%22userkey%22,%22evSfKhZsmyAmj_TYUM3Bog%22%5D%5D&image_key=Z8xwLkryVDcP8NXDRHkmeA&x=0.499999999999977&y=0.5000000000000013&client_id=ZXZTZktoWnNteUFtal9UWVVNM0JvZzowMjk4Y2M4Y2U4NTFhODdl&style=split" frameborder="0"></iframe>
+{% endraw %}
 
 Und die Fotos ermöglichen es dann dem geneigten OSM-Nutzer oder der OSM-Nutzerin, anhand der Fotos die OpenStreetMap zu verbessern, sei das z.B. um einen [neuen Kreisel einzuzeichnen](http://www.openstreetmap.org/changeset/50963529#map=19/46.90454/7.53661) oder [generell ein paar Verbesserungen zu machen](http://blog.mapillary.com/tutorials/2017/08/03/adding-building-attributes-to-openstreetmap.html).
 
