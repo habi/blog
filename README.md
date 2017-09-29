@@ -13,7 +13,7 @@ Now I'd like to take away a ton of dependencies and just let it run by [Jekyll](
 - `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/_posts/`
 
 # Start this shizzle
-- `cd ~/Dev/blog && jekyll new . force`
+- `cd ~/Dev/blog && jekyll new . --force`
 - Add all files in `_posts` to the Git repository
 - Push to GitHub
-- Change [Settings](https://github.com/habi/blog/settings) to enable GitHub Pages for this repository
+- Change repository [settings](https://github.com/habi/blog/settings) to enable GitHub Pages for this repository
