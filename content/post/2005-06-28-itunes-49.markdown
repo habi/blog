@@ -1,0 +1,28 @@
+---
+author: admin
+categories:
+- apple
+- gadgets and gizmos
+- music
+comments: true
+date: 2005-06-28T22:25:52Z
+link: http://habi.gna.ch/2005/06/29/itunes-49/
+slug: itunes-49
+title: itunes 4.9
+url: /2005/06/28/itunes-49/
+wordpress_id: 34
+---
+
+[![Itunes4.9](http://habi.gna.ch/blog/images/itunes4.9-tm.jpg)](http://habi.gna.ch/blog/images/itunes4.9.jpg)apple just released the [new itunes](http://www.apple.com/itunes/), now with included [podcast-feature](http://www.apple.com/podcasting/).
+  
+the ITMS now features a podcast-section, so apple released a directory, where anyone can add their podcast. for a start, you can go to [the top 20 of apples podcasts](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTopPodcasts), which will be more than enough to fill all your gadgets with stuff to listen to.
+
+
+
+so, you podcaster-guys and -gals, get ready for some massive bandwidth-consumption! (cause apple is only linking to your files, i download them from you...)
+
+
+
+
+
+technorati tags: [filewile](http://technorati.com/tag/filewile), [itunes](http://technorati.com/tag/itunes), [pieceoplastic](http://technorati.com/tag/pieceoplastic), [podcast](http://technorati.com/tag/podcast), [starfrosch](http://technorati.com/tag/starfrosch)

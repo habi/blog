@@ -1,0 +1,18 @@
+---
+author: admin
+categories:
+- linkdump
+- music
+comments: true
+date: 2004-06-14T20:39:27Z
+link: http://habi.gna.ch/2004/06/14/filewile-on-tv/
+slug: filewile-on-tv
+title: filewile on tv
+url: /2004/06/14/filewile-on-tv/
+wordpress_id: 556
+---
+
+if you'd like to see [filewile](http://www.filewile.com)'s videoclip Chumpnrun, then you got two options:
+
+a) [buy](http://www.filewile.com/html/shop.php) the limited edition lappi-box with the song and video
+b) [click here](http://www.sfdrs.ch/system/frames/highlights/roboclip/index.php?/content/highlights/roboclip/index.php) and vote for their clip to be played on the show roboclip on swiss telly. and watch the video on telly together with songs from faithless, beyoncÃ©, the beastie boys and alike....

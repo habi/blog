@@ -1,0 +1,35 @@
+---
+author: admin
+categories:
+- personal
+- switzerland
+comments: true
+date: 2011-05-27T16:24:58Z
+link: http://habi.gna.ch/2011/05/27/skitag-auf-der-bettmeralp/
+slug: skitag-auf-der-bettmeralp
+tags:
+- skiing
+title: Skitag auf der Bettmeralp
+url: /2011/05/27/skitag-auf-der-bettmeralp/
+wordpress_id: 2502
+---
+
+Weil 6 der letzten 7 Eintrage ein Video enthalten, hier grad nochmal, dann steigt die Quote auf 7 von 8.
+
+
+
+
+Als ich vor gut 10 Tagen das [Tauch-Video aus Boudry](http://habi.gna.ch/2011/05/20/boudry-plage/) bearbeiten wollte, hab' ich gemerkt, dass ich in meiner iMovie-Bibliothek noch gut eine Stunde Videomaterial von einem Skitag mit meiner Schwester, Dino, mir und der GoPro-Kamera von [Herrn Kung](http://kuengfu.ch/) vollig vergessen habe.
+
+
+
+
+Nach langerer Sichtung und Zusammenschnippeln des Materials ist daraus ein Video entstanden, das grad gar nicht zur Saison passt, aber trotzdem noch lustig geworden ist, finde ich. Und gleichzeitig nehme mir die Freiheit, einen Freestyle-Trick erfunden zu haben: Bei ca. 2 Minuten im Video zeige ich den "Three-Sixty to [Headbonk](http://www.mariowiki.com/Headbonk) to Fakie. Oder so". Gibt's namlich bis jetzt noch nicht als [Google-Suche](http://www.google.ch/search?client=safari&rls=en&q=Three-Sixty+to+Headbonk+to+Fakie.+Oder+so&ie=UTF-8&oe=UTF-8&redir_esc=&ei=xs_fTYWWEZHOswaQrdnSBQ#sclient=psy&hl=de&client=safari&rls=en&source=hp&q=%22Three-Sixty+to+Headbonk+to+Fakie.+Oder+so%22&aq=f&aqi=&aql=f&oq=&pbx=1&bav=on.2,or.r_gc.r_pw.&fp=bd2e95e16be97807&biw=1343&bih=799)...
+
+
+
+
+
+
+
+Und damit's [nochmal gesagt ist](http://habi.gna.ch/2011/03/18/telemark-weekend-2011/): Mersi Herr Kung fur die Kamera-Ausleihe!

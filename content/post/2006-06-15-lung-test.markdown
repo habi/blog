@@ -1,0 +1,30 @@
+---
+author: admin
+categories:
+- linkdump
+comments: true
+date: 2006-06-15T18:19:38Z
+link: http://habi.gna.ch/2006/06/15/lung-test/
+slug: lung-test
+title: lung test
+url: /2006/06/15/lung-test/
+wordpress_id: 190
+---
+
+[![Lungtester](http://habi.gna.ch/blog/images/lungtester-tm.jpg)](http://habi.gna.ch/blog/images/lungtester.jpg)do you want to see how your lung capacity compares to top athletes? for the first time it's now possible to test your lung directly on the internet through a nifty new algorithm. you can take [the free lung test here](http://lungtester.com/).
+  
+the screenshot on the left shows my capacity at the start of the test (i was better when i didn't press command-shift-4...).
+
+
+
+let me know in the comments how you did!
+
+
+
+[via [ehrensenf](http://www.ehrensenf.de/2006/06/14/lungentest-kontur-tuer-extrem-hupen/)]
+
+
+
+
+
+technorati tags: [flash](http://www.technorati.com/tag/flash), [lung](http://www.technorati.com/tag/lung), [lungtester](http://www.technorati.com/tag/lungtester), [test](http://www.technorati.com/tag/test)

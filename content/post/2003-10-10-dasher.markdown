@@ -1,0 +1,20 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2003-10-10T14:58:55Z
+link: http://habi.gna.ch/2003/10/10/dasher/
+slug: dasher
+title: Dasher.
+url: /2003/10/10/dasher/
+wordpress_id: 305
+---
+
+I just read that on [apple.slashdot](http://apple.slashdot.org/) (I should prepare my physics-lessons for next week, but the pressure is not high enough at the moment): [Dasher](http://www.inference.phy.cam.ac.uk/dasher/) is [availiable in beta for OSX](http://apple.slashdot.org/article.pl?sid=03/06/11/004239&mode=thread&tid=182&tid=185).
+Dasher looks like a really promising way to enter text on a device with limited abilities. This can intentionally be understood in both ways. Either the device has limited abilities (think about palm-sized devices or wearable computers) or the person entering text has limited abilities (think about a [paralized person](http://www.inference.phy.cam.ac.uk/dasher/SpecialNeeds.html)).
+I just [downloaded](http://www.inference.phy.cam.ac.uk/dasher/Download.html) the Beta-version of Dasher for OS X (which is also availiable for Windows, GNU/Linux and Pocket PC) and played around with it a bit (see below)
+[![](http://habi.gna.ch/blog/images/dasher1-tm.jpg)](http://habi.gna.ch/blog/images/dasher1.jpg) [![](http://habi.gna.ch/blog/images/dasher2-tm.jpg)](http://habi.gna.ch/blog/images/dasher2.jpg).
+Dasher sports some pretty nifty interface. The user point to the letters he want's to write an Dasher has some preemtive text input possibilites, so you are quite fast in writing (and also really fast in learning how to use it). The developers want to start to embed the possibility to add text to any application which should make dasher some decent fun to use!
+
+If you can't make out, what i'm rambling about, then you can read [Dashers demonstration page](http://www.inference.phy.cam.ac.uk/dasher/Novice.html) with some huge movies of Dasher in action.

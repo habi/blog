@@ -1,0 +1,142 @@
+---
+author: admin
+categories:
+- personal
+comments: true
+date: 2013-10-02T16:45:37Z
+link: http://habi.gna.ch/2013/10/02/mein-september/
+slug: mein-september
+tags:
+- 1se
+title: Mein September
+url: /2013/10/02/mein-september/
+wordpress_id: 3216
+---
+
+Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/), [Mai](http://habi.gna.ch/2013/06/01/mein-mai/), [Juni](http://habi.gna.ch/2013/07/01/mein-juni/), [Juli](http://habi.gna.ch/2013/08/02/mein-juli/) und [August](http://habi.gna.ch/2013/09/02/mein-august/) hab' ich im September jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
+
+http://vimeo.com/75913862
+
+<del>Da ich momentan (wahrscheinlich nach dem Update auf iOS 7) einige Probleme mit der App habe, ist das oben eingebundene Video sehr gering aufgelöst. Sobald die Probleme behoben sind, werd' ich das Video ersetzen.</del>
+
+<del>Nichtsdestotrotz</del> Hier die Liste:
+
+
+
+
+  
+  * Warten auf die U-Bahn, morgens um halb fünf in Berlin
+
+
+  
+  * Gschwing für einen Tag ga schaffe, die Schatten sind fängs lang am Abend.
+
+
+  
+  * Und dann schon wieder weiter, nach [Eindhoven](http://www.ecmasters2013.com).
+
+
+  
+  * Läck het das hie viu Velos!
+
+
+  
+  * Start 50m Delphin
+
+
+  
+  * Andrea kann auch nach einigen Jahren mein Name immernoch nicht halbwegs richtig aussprechen :)
+
+
+  
+  * 3km OpenWater
+
+
+  
+  * Läck het das hie viu Velos!
+
+
+  
+  * Auso wie genau?
+
+
+  
+  * Blut spenden
+
+
+  
+  * [Fabrikk](http://habi.gna.ch/2013/09/13/kurzkritik-karls-kuhne-gassenschau-fabrikk/)
+
+
+  
+  * An der EPFL hat's coole Stägegländer
+
+
+  
+  * [In der Areuse](http://habi.gna.ch/2013/09/17/in-der-areuse/)
+
+
+  
+  * Brunch
+
+
+  
+  * Starcraft 2-Einführung und Showmatch
+
+
+  
+  * Am Morgen wird's dunkel
+
+
+  
+  * PSI Volley
+
+
+  
+  * [Ga velöle](http://runkeeper.com/user/davidhaberthuer/activity/244402550)
+
+
+  
+  * Backe, backe Kuchen
+
+
+  
+  * [Ga velöle](http://runkeeper.com/user/davidhaberthuer/activity/245308136)
+
+
+  
+  * Kuchen essen
+
+
+  
+  * Der Herbst ist da, inklusive suppigem Morgen-Nebel
+
+
+  
+  * [KCBR?](http://youtu.be/Q-Ch8MeH5BI)
+
+
+  
+  * Wackelsalat zum Znacht
+
+
+  
+  * Fernseh-Abend
+
+
+  
+  * Immer diese Velorowdys!
+
+
+  
+  * Eine Fahrt mit der Gelmerbahn
+
+
+  
+  * Bowling
+
+
+  
+  * Liegestütz-Challenge, aus einer Eistee-Idee in Eindhoven entstanden: Im September jeden Tag so viele Liegestützen, wie das Datum zeigt. Heute waren also 30 dran.
+
+

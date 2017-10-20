@@ -1,0 +1,15 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2004-12-31T16:00:15Z
+link: http://habi.gna.ch/2004/12/31/oh-and/
+slug: oh-and
+title: oh, and...
+url: /2004/12/31/oh-and/
+wordpress_id: 704
+---
+
+[![Happy2005](http://habi.gna.ch/blog/images/happy2005-tm.jpg)](http://habi.gna.ch/blog/images/happy2005.jpg)
+

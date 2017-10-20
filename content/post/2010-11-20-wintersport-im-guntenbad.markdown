@@ -1,0 +1,22 @@
+---
+author: admin
+categories:
+- diving
+- movies
+comments: true
+date: 2010-11-20T10:08:16Z
+link: http://habi.gna.ch/2010/11/20/wintersport-im-guntenbad/
+slug: wintersport-im-guntenbad
+tags:
+- diving
+- renzo
+- thunersee
+title: Wintersport im Guntenbad
+url: /2010/11/20/wintersport-im-guntenbad/
+wordpress_id: 2298
+---
+
+[Letzten Samstag](http://habi.gna.ch/2010/11/13/guntenbad-40-27-3m-10%e2%80%a2/) bin ich mit Renzo in die [Unterwasser-Wintersaison](http://www.flickr.com/photos/habi/5176467574/) gestartet. Der See hat uns ob und unter der Wasserlinie mit wunderbarer Sicht begrusst, so dass wir den Tauchgang voll und ganz geniessen konnten. Dabei ist folgendes Video entstanden:
+
+
+

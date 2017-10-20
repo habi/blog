@@ -1,0 +1,20 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2004-11-03T16:18:14Z
+link: http://habi.gna.ch/2004/11/03/holy-shit/
+slug: holy-shit
+title: holy shit!
+url: /2004/11/03/holy-shit/
+wordpress_id: 666
+---
+
+[![nested](http://habi.gna.ch/blog/images/nested-tm.jpg)](http://habi.gna.ch/blog/images/nested.jpg)my internal harddisk is acting extremely funky, and making weird clicking noises all the time.
+at first i presumed it's extreme overheating, cause i was doing some very processor-intensive work yesterday eveing. (rendering a huge mosaic with MacOSaiX). but this afternoon it's not back to normal the weird clicking sound is still there.
+thank god i have got a bootable backup so i can try to do some debugging.
+after i booted from my external harddisk i started the disk utility from the backup and tried to verify the startup disk (the internal harddisk on my ibook). after a short while disk utility tells me that "the nesting of folders has exeeded the limit" which is beyond my explanation (see image on the left). i hope disk utility can fix this...
+
+[![nested2](http://habi.gna.ch/blog/images/nested2-tm.jpg)](http://habi.gna.ch/blog/images/nested2.jpg)**update:** doesn't seem so. i guess then it's time for some major debugging. maybe i can find the hundreds of nested folders...   
+

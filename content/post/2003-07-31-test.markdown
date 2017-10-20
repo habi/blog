@@ -1,0 +1,15 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2003-07-31T17:38:45Z
+link: http://habi.gna.ch/2003/07/31/test/
+slug: test
+title: Test
+url: /2003/07/31/test/
+wordpress_id: 245
+---
+
+This is the test. I'm in the train to the mountains and blogging away on my mobile. 
+So azure seems to work :-)

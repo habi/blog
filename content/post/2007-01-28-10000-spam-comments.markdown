@@ -1,0 +1,36 @@
+---
+author: admin
+categories:
+- technospeak
+comments: false
+date: 2007-01-28T21:20:39Z
+link: http://habi.gna.ch/2007/01/28/10000-spam-comments/
+slug: 10000-spam-comments
+title: 10000 spam comments
+url: /2007/01/28/10000-spam-comments/
+wordpress_id: 866
+---
+
+i've installed [wordpress](http://wordpress.org/) 4 months ago and have to say that i'm really happy with it. [1]
+]wordpress has a big bunch of useful plugins and seems to run with much less resources on the server than my old cms, [movable type](http://www.movabletype.org/). and the best thing is that wordpress has a really great comment spam filter built in, [akismet](http://akismet.com/). today, akismet caught it's 10000th spammy comment.
+to celebrate this, i'm featuring the comment here (as an image, let's not get too exited and give them google-credits:-)
+
+
+
+[![10000Th Spam](http://habi.gna.ch/wp-content/uploads/2007/01/10000th-spam-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/01/10000th-spam.png)
+
+
+
+thanks akismet!
+
+[1] one minor annoyance is [here](http://trac.wordpress.org/ticket/3662) and will hopefully be corrected soon officially. i've [updated one php-file](http://wordpress.org/support/topic/102276?replies=7) and now wordpress and ecto work together like they should and have since ever...
+
+
+
+
+
+Technorati Tags: [akismet](http://www.technorati.com/tag/akismet), [spam](http://www.technorati.com/tag/spam), [wordpress](http://www.technorati.com/tag/wordpress)
+
+
+
+

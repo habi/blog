@@ -1,0 +1,17 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2003-09-16T21:35:56Z
+link: http://habi.gna.ch/2003/09/16/ubergeek/
+slug: ubergeek
+title: ubergeek
+url: /2003/09/16/ubergeek/
+wordpress_id: 278
+---
+
+i think my geekness could only be satisfied if i [lived in japan](http://www.insomedia.com/japan7/index.html).
+i wonder when the new [clie ux50](http://www.insomedia.com/japan7/IMG_3974_JPG.html) is gonna come out here in switzerland (with integrated [wifi, bluetooth](http://www.sonystyle.com/intershoproot/eCS/Store/en/imagesProducts/ProductTour/computing/ux50/wireless.html), [keyboard](http://www.sonystyle.com/intershoproot/eCS/Store/en/imagesProducts/ProductTour/computing/ux50/keyboard.html), [camera](http://www.sonystyle.com/intershoproot/eCS/Store/en/imagesProducts/ProductTour/computing/ux50/camera.html), [a big-ass screen](http://www.sonystyle.com/intershoproot/eCS/Store/en/imagesProducts/ProductTour/computing/ux50/wide.html) and a polished [palm os](http://www.palmsource.com/palmos/intro_os5.html)...)
+
+**update**: well, it actually does come out here [somewhere in october](http://shop.sonystyle-europe.com/SonyStyle/b2c/deeplink.do?s=external&ss=clie&countryId=CH&territoryId=$&langId=DE&campaignId=0110BMBCLIE&campSonyId=Unknown&campItemId=Unknown&servername=www.sonystyle-europe.com&redirected=true&s=external&ss=clie&countryId=CH&territoryId=$&langId=DE&campaignId=0110BMBCLIE&campSonyId=Unknown&campItemId=Unknown) for a hefty entry price of 930 CHF. dream on dreamer!

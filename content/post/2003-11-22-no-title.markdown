@@ -1,0 +1,14 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2003-11-22T17:28:02Z
+link: http://habi.gna.ch/2003/11/22/no-title/
+slug: no-title
+title: no title
+url: /2003/11/22/no-title/
+wordpress_id: 356
+---
+
+i even start to edit my ID3-tags, so that the links in the sidebar work (e.g. itunes finds the songs in the ITMS)

@@ -1,0 +1,14 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2003-09-14T22:37:16Z
+link: http://habi.gna.ch/2003/09/15/usb/
+slug: usb
+title: USB
+url: /2003/09/14/usb/
+wordpress_id: 277
+---
+
+[gizmodo](http://www.gizmodo.com/) (one of my favourite gadget site) talked about a mysterious USB-powered noodle thingy ([here](http://www.gizmodo.com/archives/008429.php#008429) and [here](http://www.gizmodo.com/archives/008712.php#008712)) sometimes last week. now look at this really strange [USB gadget](http://usb.brando.com.hk/usbmassageball.php) i found on [brando's shop](http://shop.brando.com.hk/) while looking for some [other](http://usb.brando.com.hk/aten_hub.php) [USB](http://usb.brando.com.hk/mscardreader.php)-[stuff](stuff).

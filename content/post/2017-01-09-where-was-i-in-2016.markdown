@@ -1,0 +1,26 @@
+---
+author: admin
+categories:
+- personal
+- switzerland
+comments: true
+date: 2017-01-09T22:09:37Z
+link: http://habi.gna.ch/2017/01/09/where-was-i-in-2016/
+slug: where-was-i-in-2016
+tags:
+- geodata
+- jahresrückblick
+- jahresrückblick16
+title: Where was I in 2016
+url: /2017/01/09/where-was-i-in-2016/
+wordpress_id: 4979
+---
+
+Hier einer weiterer Post zum Rückblick aufs 2016. Die anderen sind unter dem Tag [`jahresrückblick16`](http://habi.gna.ch/tag/jahresruckblick16) zu finden.
+
+Weil ich dieses Jahr _viel_ mehr mit Python gearbeitet habe, habe ich meinen Geodaten-Jahresrückblick von [R](https://github.com/habi/jahresrueckblick/blob/master/OpenPaths.Rmd) in Python transferiert. In einem Jupyter-Notebook arbeitet es sich einfach viel schneller und iterativer :)
+
+Leider habe ich es nicht geschafft, den Markdown- oder HTML-Export der "Analyse" so klein zu machen, dass dieser von Wordpress-Editor geschluckt wird (> 4 MB ASCII-Text ist scheinbar zuviel).
+Deshalb sind die Details meines Bewegungs-Profils von 2016 (in Englisch) entweder hier auf [GitHub](https://github.com/habi/jahresrueckblick/blob/master/OpenPaths.ipynb), [hier mit den Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/habi/jahresrueckblick/blob/master/OpenPaths.ipynb) oder unten eingebunden zu finden.
+
+

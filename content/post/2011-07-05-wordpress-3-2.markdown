@@ -1,0 +1,14 @@
+---
+author: admin
+categories:
+- personal
+comments: true
+date: 2011-07-05T08:07:40Z
+link: http://habi.gna.ch/2011/07/05/wordpress-3-2/
+slug: wordpress-3-2
+title: Wordpress 3.2
+url: /2011/07/05/wordpress-3-2/
+wordpress_id: 2522
+---
+
+Wenn das ankommt, dann hat das mit dem Update auf [WordPress 3.2](http://wordpress.org/) geklappt, also bitte ignorieren.

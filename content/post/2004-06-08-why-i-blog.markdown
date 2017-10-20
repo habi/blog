@@ -1,0 +1,40 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2004-06-08T22:11:48Z
+link: http://habi.gna.ch/2004/06/09/why-i-blog/
+slug: why-i-blog
+title: why i blog
+url: /2004/06/08/why-i-blog/
+wordpress_id: 552
+---
+
+hamme made a smart comment on a recent [an old post](http://nick.kaywa.com/blogging_about_blogging/*staun*.html) on nicks blog which made me think about the "why do i blog".
+is it to show you all my new pretty things or is it to tell you all what i think about the world? 
+i think the whole thing started really slow for me. it was not a decision, like: "yes, from today on i want to blog". my first experience in blogging (although back then nobody called it that way, it was more like a diary) was influenced by [shannon](http://iam.bmezine.com/?glider) the brain behind [BME](http://www.bmezine.com/), which was one of the places where i spent many evenings. sometimes late on one of these evenings i discovered, that shannon made some kind of place for body-modification-adepts to gather and to exchange. withouth thinking much i logged in to IAM, registered my username (at the moment i'm the user number 98 of more than 14400) and was caught from the first moment on.
+
+<digression>
+here i think i need to explain some things inbetween before i go on. bme is - as far as i know - the oldest and most complete resource on body modification on the whole internet. if you know me a bit better, then you know that i'm modified (multiple piercings and one tattoo), so BME was a huge piece of information for me, and still is amazing to see what other people do achieve with their bodies (although i have to say, that some of the [modifications i've seen](http://www.bmeshop.com/?cmd=it&wo=161) are far off what i think is beautiful and achievable). i remember spending countless hours reading the [qod's](http://www.bmezine.com/qod3/index.html) and indulging in every piece of information i could gather on piercings and alike.
+</digression>
+
+when i signed up for iam.bmezine.com three and a half years ago (my first post's date: 2000/10/17 17:49) i never thought that i'd be caught in something deeper that will lead to the website you're reading now, it was something completely different back then. all those minor blurbs and infos on my life, most of them completely useless to anyone, just my little footprint in the vast universe of the internet. then gradually, i shared much more information with all the readers of the page (probably 5 people or so...) including some really personal stuff (breakups, falling in love, good things and bad things that happened to me on a personal scale). it used to be some kind of a diary for me, and still is, because i think most people i personally know do not read it, because nobody knows of it.
+what comes as an addition is that the features of IAM are limited, if you're not a member, e.g. there's no zooming on the images, you cannot go back more than 5 posts, and you cannot see all the features that make it a really good place (i won't tell you what it is). so the whole thing is a bit like a close-gated-community. have fun inside, get to know all the other people inside, but share a limited piece of yours with the outside world.
+
+then the day came, when i bought myself a digital camera. the problem is, that sharing the pictures is the biggest part of the fun with digital pictures, and so came it that i needed a wee bit of web-space. because i can be quite picky on the details of my projects it had to be web-space that was ad-free, with an easy to remember address (for all the lazy friends of mine) and open for all my needs. 
+after busting my traffic limit on [habi.port5.com](http://habi.port5.com/) quite easily (telling 30 people at once that the pictures of .... are online did it) i talked with [b.](http://bernhardseefeld.ch/) about my little problem. he suggested that i can use a fraction of his and chris' experiment-server ([gna.ch](http://www.gna.ch/)) to host my pictures. that's what i did. (and i am eternally thankful to both of you and still owe chris a beer, but have never met him in real life).
+
+then berni talked me into letting him install [moveabletype](http://moveabletype.org/) on my part of the server, so that i could try out that fancy thing called blogging (he didn't know i've been doing it since october 2000).
+soon i was looking for a method to circumvent the cumbersome editing-form of moveable type and found kung-log (now [ecto](http://www.kung-foo.tv/ecto/)), which i'm still using to generate and edit all the post on this part of my part of gna.ch. because using kung-log is as easy as writing an email with your email-program i've been blogging massively ever since.
+
+but remember, there's even more going on behind your eyes, because whenever i make a post with **IAMONLY** over at [IAM.bmezine](http://www.kung-foo.tv/ecto/), it's hidden from your prying eyes.
+
+
+ps: [hamme](http://66.102.9.104/search?q=cache:IpOPMsSSbk8J:www.velokurierbern.ch/html/uns/newsarchiv/01_06_Alternativliga.html+%22christoph+hämmann%22&hl=en), i'm really impressed how you manage to put that much information in one or two sentences. it's a great gift i'd love to have.
+
+ps2: i still want to get that second tattoo (and the idea for the third is growing, too...)
+
+ps3: see also this (german) post on [moving-target.de](http://www.moving-target.de/more/2896_0_1_0_M/) [via [berner gazette](http://www.bernergazette.ch/archives/000403.html)]
+
+ps4: why do i blog in english? as an exercise, nothing else!

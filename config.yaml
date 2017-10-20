@@ -1,0 +1,5 @@
+baseURL: "https://yoursite.example.com/"
+disablePathToLower: true
+languageCode: en-us
+title: Blog
+theme: slim

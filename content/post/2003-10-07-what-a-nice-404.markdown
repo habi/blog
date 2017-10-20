@@ -1,0 +1,15 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2003-10-07T20:14:46Z
+link: http://habi.gna.ch/2003/10/07/what-a-nice-404/
+slug: what-a-nice-404
+title: what a nice 404!
+url: /2003/10/07/what-a-nice-404/
+wordpress_id: 300
+---
+
+the [french ministry of culture](http://www.culture.gouv.fr/) has some really nice [404-error-pages](http://www.culture.gouv.fr/culture/actualites/politique/pagsi/)!
+(through [Boing Boing](http://boingboing.net/))

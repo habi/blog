@@ -1,0 +1,51 @@
+---
+author: admin
+categories:
+- pictures
+comments: true
+date: 2005-04-10T21:36:22Z
+link: http://habi.gna.ch/2005/04/10/finally/
+slug: finally
+title: finally!
+url: /2005/04/10/finally/
+wordpress_id: 760
+---
+
+finally i found a freeware panorama solution that works!
+  
+i confess: up to now i've used different unlegal ways to stitch my occasional panorama (read: cracked software), mostly because i just couldn't cough up the steep amounts of money needed to buy one of these programs.
+  
+but now it's over: last week i stumbled over [HuginOSX](http://homepage.mac.com/ippei_ukai/software/), a program in the very early steps of development (e.g. experimental builds), but still useable for my needs.
+  
+HuginOSX is a free port of [hugin](http://hugin.sourceforge.net/) to os x (who would have guessed...). hugin is a frontend to the excellent [panorama tools](http://www.path.unimelb.edu.au/~dersch/) by helmut dersch. the panorama tools are a set of scripts and plugins for different programs (like photoshop or graphic converter (both not free, so no option for me)) which give excellent results with panoramic images, and are free like in beer.
+  
+as i said before i am quite geeky, but definitely not the [cli-person](http://en.wikipedia.org/wiki/Command_line_interface), i prefer to use a [GUI](http://en.wikipedia.org/wiki/GUI) for most of the stuff i do. that's where HuginOSX steps in. you load in all the images you want, define control points (in quite a nifty way i must say: after you've defined one or two per image, the program is getting really accurate at suggesting the next matching control points), click on some buttons to optimize the panorama and to run the needed scripts and then can export the image in the desired format.
+  
+everything is still a bit rough on the edges - the toolbar is far away from useable, only flashes up for split-seconds - but it looks like HuginOSX is going to become a very important program for me (and my conscience :-).
+  
+for good results you should also use [enblend](http://enblend.sourceforge.net/), another free piece of software, which nicely blends the seams between the images. the combination of[![Tateblend](http://habi.gna.ch/blog/images/tateblend-tm.jpg)](http://habi.gna.ch/blog/images/tateblend.jpg)
+
+
+
+
+  * [HuginOSX](http://homepage.mac.com/ippei_ukai/software/)
+
+
+  * the [Panorama Tools](http://homepage.mac.com/ippei_ukai/software/) and
+
+
+  * [enblend](http://enblend.sourceforge.net/)[1]
+
+
+
+
+leads to images like the one seen on the right (760kb .jpg, 3410*1186 pixels).
+  
+so i guess in the coming weeks i'll have some panoramas for your delight and to help me master HuginOSX' hurdles.
+
+
+
+[1]: i couldn't get enblend to work nicely with HuginOSX, so i stumbled over [Xblend](http://www.kekus.com/xblend/) by Kevin Kratzke [2], another freeware program. Xblend is a front-end to emblend, which itself is also cli-heavy... 
+  
+[2]: Kevin is the creator of [PTMac](http://www.kekus.com/ptmac/index.html), a shareware frontend to the PanoTools which i've used before, but as i said, i prefer freeware....
+

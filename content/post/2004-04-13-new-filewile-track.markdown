@@ -1,0 +1,16 @@
+---
+author: admin
+categories:
+- music
+comments: true
+date: 2004-04-13T08:41:09Z
+link: http://habi.gna.ch/2004/04/13/new-filewile-track/
+slug: new-filewile-track
+title: new filewile-track
+url: /2004/04/13/new-filewile-track/
+wordpress_id: 498
+---
+
+coming home. checking mail. getting 29 spam emails while being offline for only 4 days. 
+sifting through the relevant email. seeing the one from dustbowl. going to [filewile.com](http://www.filewile.com/) and downloading their new track emitow (which is gonna be on the [ccc-compilation](http://www.everestrecords.ch/cccIV/)). listening to it and enjoying it.
+this day is gonna be good.

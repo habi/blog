@@ -1,11 +1,12 @@
 # habi.github.io
 
 ## Info
-[![Build Status](https://travis-ci.org/habi/habi.github.io.svg?branch=master)](https://travis-ci.org/habi/habi.github.io)
+This repository contains my blog.
 
-This is a repository containing my blog.
 Aeons ago I started with [Movable Type](https://www.movabletype.org/), then switched to [Wordpress](http://wordpress.org).
 Now I'd like to take away a ton of dependencies and just let it run by [Jekyll](https://jekyllrb.com/) on [GitHub Pages](http://pages.github.com).
+
+After thinking some more, I find [Hugo](http://gohugo.io) in combination with [Netlify](https://netlify.com/) an even more compelling solution.
 
 ## Steps to export and convert the data
 
@@ -16,14 +17,20 @@ Now I'd like to take away a ton of dependencies and just let it run by [Jekyll](
 - `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/habi.github.io/_posts/`
 
 ## Start this shizzle
+
 - `cd ~/Dev/habi.github.io && jekyll new . --force`
 - Add all files in `_posts` to the Git repository
 - Push to GitHub
 - Change repository [settings](https://github.com/habi/blog/settings) to enable GitHub Pages for this repository
 - Connect to [Travis CI](https://travis-ci.org/habi/habi.github.io), with the details given on [this GitHub page](https://help.github.com/articles/viewing-jekyll-build-error-messages/)
+- We then have a running Jekyll site at [habi.github.io/](https://habi.github.io)
 
-## Test locally
-- `bundle install
-  - [Fix for the Nokogiri problem](https://stackoverflow.com/a/27496640)
-- `jekyll serve`
-- Go to [localhost on port 4000](http://localhost:4000)
+## Convert to Hugo
+
+- Move all the Jekyll stuff (from this repository) to a temporary folder
+- `hugo import jekyll ~/Dev/temporary-folder/ ~/Devhabi.github.io/ --force`
+- `cd ~/Dev/habi.github.io/themes`
+- `git submodule add https://github.com/zhe/hugo-theme-slim slim`
+
+# Host this thing (automatically)
+- Follow [this guide](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)

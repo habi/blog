@@ -1,0 +1,22 @@
+---
+author: admin
+categories:
+- linkdump
+comments: true
+date: 2014-12-08T21:49:30Z
+link: http://habi.gna.ch/2014/12/08/hebocon/
+slug: hebocon
+tags:
+- competition
+- japan
+- robot
+title: Hebocon
+url: /2014/12/08/hebocon/
+wordpress_id: 3672
+---
+
+Wir brauchen mehr Roboter!
+
+
+
+[embed]https://www.youtube.com/watch?v=46ivFpsmEVQ[/embed]

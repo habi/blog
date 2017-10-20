@@ -1,0 +1,17 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2003-11-25T22:38:04Z
+link: http://habi.gna.ch/2003/11/26/uptime/
+slug: uptime
+title: uptime
+url: /2003/11/25/uptime/
+wordpress_id: 360
+---
+
+well, my ibook [has been up for 14 hours](http://uptimes.hostingwired.com/account.php?op=details&hid=8399) since the last reboot (had to reboot after my first kernel panic; unplugged the bluetoothmodule after update of bluetooth software through software update). 
+now i go to bed and have a good night's sleep.
+
+here's a funky image with my uptime:![](http://uptimes.hostingwired.com/remote.php?hostid=8399&bgcolor=000000&color=ffffff)

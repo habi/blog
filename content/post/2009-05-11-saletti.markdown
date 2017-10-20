@@ -1,0 +1,25 @@
+---
+author: admin
+categories:
+- tschörman
+- work
+comments: true
+date: 2009-05-11T20:28:41Z
+link: http://habi.gna.ch/2009/05/11/saletti/
+slug: saletti
+tags:
+- work
+title: saletti!
+url: /2009/05/11/saletti/
+wordpress_id: 1757
+---
+
+also, ich verabschiede mich mal, ich bin bis zum 25. mai in den usa, präsentiere am [ATS-meeting](http://www.thoracic.org/sections/meetings-and-courses/international-conference/2009/index.html) meine arbeit der letzten monate und schaue, dass ich keine [influenza a(h1n1)](http://www.who.int/csr/disease/swineflu/en/index.html) nach hause bringe.
+
+
+
+
+häbets guet und bis gli. falls online-mässig etwas geht, dann wohl am ehesten bei der open-source-variante von twitter, [hier](http://identi.ca/habi).
+
+
+

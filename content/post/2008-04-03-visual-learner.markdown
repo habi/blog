@@ -1,0 +1,30 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2008-04-03T08:09:25Z
+link: http://habi.gna.ch/2008/04/03/visual-learner/
+slug: visual-learner
+title: Visual Learner
+url: /2008/04/03/visual-learner/
+wordpress_id: 1232
+---
+
+[![](http://farm3.static.flickr.com/2368/2384973876_d62ce28d9e_m.jpg)](http://www.flickr.com/photos/habi/2384973876/)
+   
+
+ 
+  [Visual Learner](http://www.flickr.com/photos/habi/2384973876/)
+    
+
+  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+ 
+
+
+
+Experiment-Nachbau mit Lippenpomade (Sample), Kugelschreiber (Beam)  
+
+und GPS (Kamera)...
+  
+

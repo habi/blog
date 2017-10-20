@@ -1,0 +1,24 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2008-09-09T20:23:42Z
+link: http://habi.gna.ch/2008/09/09/gadget-2/
+slug: gadget-2
+title: Gadget 2
+url: /2008/09/09/gadget-2/
+wordpress_id: 1421
+---
+
+[![](http://farm4.static.flickr.com/3214/2843279555_33c401f95f_m.jpg)](http://www.flickr.com/photos/habi/2843279555/)  
+
+  [Gadget 2](http://www.flickr.com/photos/habi/2843279555/)  
+
+  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+
+
+Wer mir als erstes ein Nacktbild von sich an habi@seeframe.com mailt, dem zahl' ich ein Bier.  
+Das Ding im Vordergrund ist ein [eStarling](http://estarling.com/)-rahmen, der über WLan per mail (eben, habi@seeframe.com) oder RSS-feed Fotos empfangen kann. Cool, nicht?  
+
+

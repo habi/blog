@@ -1,0 +1,21 @@
+---
+author: admin
+categories:
+- picture of the week
+comments: true
+date: 2004-12-26T14:13:17Z
+link: http://habi.gna.ch/2004/12/26/picture-of-the-week-53/
+slug: picture-of-the-week-53
+title: picture of the week 53
+url: /2004/12/26/picture-of-the-week-53/
+wordpress_id: 699
+---
+
+this week the pictures i took underwater in sharm el sheik arrived. i will update the [sharm-gallery](http://habi.gna.ch/pics/Sharm) with them soon.
+  
+the picture below is the best of the bunch and shows steffen, our guide during the early morning dive pointing out a huge anemone with a big bunch of clown-fishes on it.
+
+
+
+[![Image022 21](http://habi.gna.ch/blog/images/Image022_21-tm.jpg)](http://habi.gna.ch/blog/images/Image022_21.jpg)
+

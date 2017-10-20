@@ -1,0 +1,33 @@
+---
+author: admin
+categories:
+- diving
+- linkdump
+comments: true
+date: 2011-05-27T16:12:39Z
+link: http://habi.gna.ch/2011/05/27/jellyfish-lake-in-palau/
+slug: jellyfish-lake-in-palau
+tags:
+- diving
+title: Jellyfish Lake in Palau
+url: /2011/05/27/jellyfish-lake-in-palau/
+wordpress_id: 2500
+---
+
+Der [Jellyfish Lake](http://de.wikipedia.org/wiki/Jellyfish_Lake) auf der Pazifikinsel [Palau](http://de.wikipedia.org/wiki/Palau) liegt zwar nahe am Meer, hat aber seit tausenden von Jahren keine direkte Verbindung und ist abgetrennt vom Meer. Durch diese Trennung entwickelten sich die im See lebenden Arten deutlich unterschiedlich zu anderen Arten. Im speziellen hat die im See lebende Quallenart keine Fressfeinde mehr und hat sich so in eine Quallenart entwickelt, die in Symbiose mit Algen leben und tagtagliche Wanderungen von der Tiefe an die Oberflache des Sees machen. Zusatzlich haben diese Quallen noch die klassische Qualleneigenschaft, namlich das Stechen verloren, weil sie eben keine Fressfeinde mehr hatten.
+
+
+
+
+Diese speziellen Zustande ermoglichen es nun dem geneigten Schnorchler, mit einer fetten Kamera, einem Unterwassergehause und einem tiefen Atemzug inmitten von Millionen von Quallen zu tauchen. [Sarosh Jacob](http://www.saroshjacob.com/) (der auch grandiose Fotos macht, seine Seite ist leider nur mit Flash zu besuchen) hat dies gemacht, herausgekommen ist unten eingebundenes Video.
+
+
+
+
+Und ich beginne nun zu sparen, damit ich das auch mal mit eigenen Augen erleben kann:
+
+
+
+
+
+Hoffentlich sehen wir nachste Woche auch ein paar spannende Sachen unter Wasser, ich bin uber Auffahrt mit dem [Divecenter Koniz](http://divecenter.ch/) ein paar Tage in der Nahe von St. Tropez am [tauchen](http://europeandiving.com/).

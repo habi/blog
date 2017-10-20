@@ -1,0 +1,17 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2004-07-20T22:03:20Z
+link: http://habi.gna.ch/2004/07/21/le-tour/
+slug: le-tour
+title: le tour
+url: /2004/07/20/le-tour/
+wordpress_id: 582
+---
+
+since the timedifference between the finishers of [le grand boucle](http://www.letour.fr/2004/us/index.html) on sunday is probably gonna be minuscule i thought it's interesting to know how people actually figure out who comes in first or not after those 180km stages.
+[engadget](http://www.engadget.com/) has a nice little [explanation](http://www.engadget.com/entry/8424422553253965/) on all the high-tech involved in the timekeeping of the [tour de france](http://www.letour.fr/2004/us/index.html).
+
+[via [engadget](http://www.engadget.com/entry/8424422553253965/)]

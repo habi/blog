@@ -1,0 +1,20 @@
+---
+author: admin
+categories:
+- personal
+comments: true
+date: 2011-02-17T18:58:51Z
+link: http://habi.gna.ch/2011/02/17/grosseltern-spielen-mit-photo-booth/
+slug: grosseltern-spielen-mit-photo-booth
+title: Grosseltern spielen mit Photo Booth
+url: /2011/02/17/grosseltern-spielen-mit-photo-booth/
+wordpress_id: 2392
+---
+
+Das kommt raus, wenn mensch seine Grosseltern mit [Photo Booth](http://www.apple.com/macosx/what-is-macosx/photo-booth.html) spielen lässt. Hilarious!
+  
+
+
+[via [alphabet.soup.io](http://alphabet.soup.io/post/109339654/Grandparents-Discover-Photo-Booth-Supercut)]
+
+

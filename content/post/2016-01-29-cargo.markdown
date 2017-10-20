@@ -1,0 +1,16 @@
+---
+author: admin
+categories:
+- personal
+comments: true
+date: 2016-01-29T21:12:17Z
+link: http://habi.gna.ch/2016/01/29/cargo/
+slug: cargo
+title: Cargo
+url: /2016/01/29/cargo/
+wordpress_id: 4344
+---
+
+Ein kurzer Zombie-Film, der etwas anders ist als alle anderen Zombie-Filme. Und mir fast ein Träänli in die Augen trieb. Aber seht selbst.
+
+https://www.youtube.com/watch?v=gryenlQKTbE

@@ -1,0 +1,18 @@
+---
+author: admin
+categories:
+- personal
+comments: true
+date: 2016-05-04T09:00:02Z
+link: http://habi.gna.ch/2016/05/04/damals/
+slug: damals
+title: Damals...
+url: /2016/05/04/damals/
+wordpress_id: 4500
+---
+
+..., als Velofahren noch anders ging. 1928.
+
+https://www.youtube.com/watch?v=8HRpVV_x3N4
+
+[via [kottke.org](http://kottke.org/16/04/penny-farthings-bicycle-race-from-1928)]

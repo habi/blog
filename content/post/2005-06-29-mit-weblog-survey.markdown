@@ -1,0 +1,24 @@
+---
+author: admin
+categories:
+- linkdump
+comments: true
+date: 2005-06-29T09:27:02Z
+link: http://habi.gna.ch/2005/06/29/mit-weblog-survey/
+slug: mit-weblog-survey
+title: mit weblog survey
+url: /2005/06/29/mit-weblog-survey/
+wordpress_id: 35
+---
+
+[![Take the MIT Weblog Survey](http://blogsurvey.media.mit.edu/images/survey-science.gif)](http://blogsurvey.media.mit.edu/request)[
+
+
+
+](http://blogsurvey.media.mit.edu/request)[via [mathias](http://www.gutfeldt.ch/matthias/blog/index.php)]
+
+
+
+
+
+technorati tags: [mit](http://technorati.com/tag/mit), [mit weblog survey](http://technorati.com/tag/mit weblog survey)

@@ -1,0 +1,15 @@
+---
+author: admin
+categories:
+- none
+comments: true
+date: 2006-11-09T07:50:07Z
+link: http://habi.gna.ch/2006/11/09/statuten/
+published: false
+slug: statuten
+title: statuten
+url: /2006/11/09/statuten/
+wordpress_id: 813
+---
+
+statuten-foto von this
