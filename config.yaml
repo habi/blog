@@ -1,5 +1,5 @@
-baseURL: "https://yoursite.example.com/"
+baseURL: "https://blog.davidhaberthuer.ch/"
 disablePathToLower: true
 languageCode: en-us
-title: Blog
-theme: slim
+title: blog.davidhaberthür.ch
+theme: hugo-theme-cactus-plus
