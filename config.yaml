@@ -1,4 +1,4 @@
-baseURL: "http://blog.davidhaberthuer.ch/"
+baseURL: "/"
 disablePathToLower: true
 languageCode: en-us
 title: blog.davidhaberthür.ch
