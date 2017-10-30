@@ -1,5 +1,5 @@
-baseURL: "https://blog.davidhaberthuer.ch/"
+baseURL: "http://blog.davidhaberthuer.ch/"
 disablePathToLower: true
 languageCode: en-us
 title: blog.davidhaberthür.ch
-theme: hugo-theme-cactus-plus
+theme: slim
