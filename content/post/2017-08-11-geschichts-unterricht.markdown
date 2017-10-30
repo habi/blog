@@ -15,6 +15,6 @@ wordpress_id: 5163
 
 40 Jahre Hip-Hop, kondensiert auf 3 Minuten.
 
-https://www.youtube.com/watch?v=fNx_3hNhCho
+{{< youtube.com fNx_3hNhCho >}}
 
 [via [/r/Videos](https://www.reddit.com/r/videos/comments/6t0g4q/40_years_of_hip_hop_in_3_minutes/)]
