@@ -1,12 +1,13 @@
-# habi.github.io
-
+# blog.davidhaberthuer.ch
 ## Info
 This repository contains my blog.
 
 Aeons ago I started with [Movable Type](https://www.movabletype.org/), then switched to [Wordpress](http://wordpress.org).
-Now I'd like to take away a ton of dependencies and just let it run by [Jekyll](https://jekyllrb.com/) on [GitHub Pages](http://pages.github.com).
 
-After thinking some more, I find [Hugo](http://gohugo.io) in combination with [Netlify](https://netlify.com/) an even more compelling solution.
+After wanting to remove a ton of dependencies and headaches I tried running it by [Jekyll](https://jekyllrb.com/) on [GitHub Pages](http://pages.github.com).
+
+After putting some more thoughts on it, I found [Hugo](http://gohugo.io) in combination with [Netlify](https://netlify.com/) an even more compelling solution.
+This means that - in theory - I'm free to move this thing to any host I want and still have the blog running from this repository.
 
 ## Steps to export and convert the data
 
