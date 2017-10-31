@@ -59,7 +59,7 @@ comments:
     email: md5
 
   # View the README at https://github.com/eduardoboucas/staticman-recaptcha
-  reCaptcha:
-    enabled: false
-    siteKey: ""
-    secret: ""
+  #reCaptcha:
+  #  enabled: false
+  #  siteKey: ""
+  #  secret: ""
