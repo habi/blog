@@ -1,5 +1,0 @@
-baseURL: "/"
-disablePathToLower: true
-languageCode: en-us
-title: blog.davidhaberthür.ch
-theme: slim
