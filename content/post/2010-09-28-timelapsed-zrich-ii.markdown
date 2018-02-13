@@ -10,7 +10,7 @@ slug: timelapsed-zrich-ii
 tags:
 - timelapse
 - webcam
-- z&#252;rich
+- zürich
 title: Timelapsed Zürich II
 url: /2010/09/28/timelapsed-zrich-ii/
 wordpress_id: 2225
