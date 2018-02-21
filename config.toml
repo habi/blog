@@ -1,24 +1,30 @@
-languageCode = "en-us"
+baseurl = "https://blog.davidhaberthuer.ch"
+DefaultContentLanguage = "en"
 title = "blog.davidhaberthuer.ch"
 theme = "beautifulhugo"
-
-[Params]
-  # Sets the meta tag description
-  description = "General geekery. Powered by Hugo"
-  # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
-  # Commit SHA in the footer (https://github.com/halogenica/beautifulhugo)
-  commit = "https://github.com/habi/blog/tree/"
-  
 metaDataFormat = "yaml"
-pygmentsUseClasses = true
 pygmentsStyle = "trac"
+pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
+
+
+[Params]
+  description = "General geekery. Powered by Hugo"
+  subtitle = "Used to be somewhere else..."
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "2. January, 2006"
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+  # Commit SHA in the footer (https://github.com/halogenica/beautifulhugo)
+  commit = "https://github.com/habi/blog/tree/"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -36,58 +42,19 @@ pygmentsCodefencesGuessSyntax = true
   name = "David Haberthür"
   website = "blog.davidhaberthuer.ch"
   email = "email@davidhaberthuer.ch"
-  #facebook = "username"
-  #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "habi"
-  #gitlab = "username"
   twitter = "habi"
   reddit = "freischwimmer"
   linkedin = "haberthuer"
-  #xing = "username"
   stackoverflow = "users/323100/habi"
-  #snapchat = "username"
-  #instagram = "username"
   youtube = "user/habi" # or channel/channelname
   soundcloud = "davidhaberthuer"
   spotify = "username"
-  #bandcamp = "username"
-  #itchio = "username"
-  #vk = "username"
-  #paypal = "username"
-  #telegram = "username"
-
-#[[menu.main]]
-    #name = "Blog"
-    #url = ""
-    #weight = 1
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
     weight = 3
-
-#[[menu.main]]
-    #identifier = "samples"
-    #name = "Samples"
-    #weight = 2
-
-#[[menu.main]]
-    #parent = "samples"
-    #name = "Big Image Sample"
-    #url = "post/2017-03-07-bigimg-sample"
-    #weight = 1
-
-#[[menu.main]]
-    #parent = "samples"
-    #name = "Math Sample"
-    #url = "post/2017-03-05-math-sample"
-    #weight = 2
-
-#[[menu.main]]
-    #parent = "samples"
-    #name = "Code Sample"
-    #url = "post/2016-03-08-code-sample"
-    #weight = 3
 
 [[menu.main]]
     name = "Tags"
