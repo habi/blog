@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- fun
 comments: true
-date: 2006-05-04T05:08:09Z
+date: 2006-05-04 05:08:09+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/04/040506-070809/
 slug: 040506-070809
 title: 04.05.06 07:08:09
-url: /2006/05/04/040506-070809/
 wordpress_id: 165
+categories:
+- fun
 ---
+
 
 "beim nachsten ton ist es 8 minuten nach 7 und 9 sekunden".
   

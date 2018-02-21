@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-12-04T12:49:58Z
+date: 2004-12-04 12:49:58+00:00
+layout: post
 link: http://habi.gna.ch/2004/12/04/suicmc04-movie-screening/
 slug: suicmc04-movie-screening
 title: SUICMC04 movie screening
-url: /2004/12/04/suicmc04-movie-screening/
 wordpress_id: 687
+categories:
+- none
 ---
+
 
 [![Trailersuicmc](http://habi.gna.ch/blog/images/trailersuicmc-tm.jpg)](http://suicmc04.ch/trailer_suicmc04_film.mpeg)
   

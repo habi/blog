@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- switzerland
 comments: true
-date: 2014-11-09T17:10:30Z
+date: 2014-11-09 17:10:30+00:00
+layout: post
 link: http://habi.gna.ch/2014/11/09/am-oeschinensee/
 slug: am-oeschinensee
+title: Am Oeschinensee
+wordpress_id: 3611
+categories:
+- switzerland
 tags:
 - november
 - oeschinensee
 - timelapse
-title: Am Oeschinensee
-url: /2014/11/09/am-oeschinensee/
-wordpress_id: 3611
 ---
 
 Kaum zu glauben, aber letztes Wochenende war trotz November Wunder-Wander-Wetter.

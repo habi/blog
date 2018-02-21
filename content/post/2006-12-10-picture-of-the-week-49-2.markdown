@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2006-12-10T22:34:11Z
+date: 2006-12-10 22:34:11+00:00
+layout: post
 link: http://habi.gna.ch/2006/12/10/picture-of-the-week-49-2/
 slug: picture-of-the-week-49-2
 title: picture of the week 49
-url: /2006/12/10/picture-of-the-week-49-2/
 wordpress_id: 832
+categories:
+- personal
 ---
 
 we've spent a wonderful weekend in [leukerbad](http://leukerbad.ch). since half of italy spent their long weekend in switzerland every hotelroom was booked [1]. so we spent the night in the marvellous [schlosshotel in leuk](http://schlosshotel-leuk.ch/), some kilometers down the road.

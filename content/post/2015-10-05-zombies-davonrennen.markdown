@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2015-10-05T19:05:01Z
+date: 2015-10-05 19:05:01+00:00
+layout: post
 link: http://habi.gna.ch/2015/10/05/zombies-davonrennen/
 slug: zombies-davonrennen
+title: Zombies davonrennen!
+wordpress_id: 4055
+categories:
+- personal
 tags:
 - jogging
 - running
 - zombies
-title: Zombies davonrennen!
-url: /2015/10/05/zombies-davonrennen/
-wordpress_id: 4055
 ---
 
 Zwischendurch mach ich am Mittag oder Abend eine Joggingrunde. Vor allem gegen Abend wurde es in letzter Zeit ziemlich gruselig. Nicht, weil’s langsam eindunkelt, sondern weil ich beim Joggen ab und an vor Zombies davonrennen muss.

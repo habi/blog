@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2008-04-28T17:34:43Z
+date: 2008-04-28 17:34:43+00:00
+layout: post
 link: http://habi.gna.ch/2008/04/28/stop-ja-neinsager-partei-svp/
 slug: stop-ja-neinsager-partei-svp
 title: Stop Ja - Neinsager-Partei SVP
-url: /2008/04/28/stop-ja-neinsager-partei-svp/
 wordpress_id: 1241
+categories:
+- none
 ---
 
-[![](http://farm3.static.flickr.com/2111/2448942091_50e03f3fa4_m.jpg)](http://www.flickr.com/photos/habi/2448942091/)
+
+ [![](http://farm3.static.flickr.com/2111/2448942091_50e03f3fa4_m.jpg)](http://www.flickr.com/photos/habi/2448942091/)
    
 
  

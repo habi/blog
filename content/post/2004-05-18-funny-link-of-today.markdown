@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2004-05-18T18:21:52Z
+date: 2004-05-18 18:21:52+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/18/funny-link-of-today/
 slug: funny-link-of-today
 title: funny link of today
-url: /2004/05/18/funny-link-of-today/
 wordpress_id: 536
+categories:
+- linkdump
 ---
 
 [this slideshow](http://www.stbride.org/conference2002/ViceCards/ViceIndex.html) here is especially for my sister.

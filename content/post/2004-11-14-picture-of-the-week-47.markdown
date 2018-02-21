@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-11-14T20:56:26Z
+date: 2004-11-14 20:56:26+00:00
+layout: post
 link: http://habi.gna.ch/2004/11/14/picture-of-the-week-47/
 slug: picture-of-the-week-47
 title: picture of the week 47
-url: /2004/11/14/picture-of-the-week-47/
 wordpress_id: 673
+categories:
+- picture of the week
 ---
+
 
 the picture of this week is especially for [raph](http://velocite.ch/article.php3?id_article=17) and [dom](http://velocite.ch/article.php3?id_article=16) from [velocite](http://velocite.ch/) which seem to be avid readers of my blog :-)
 

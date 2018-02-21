@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-10-08T10:36:46Z
+date: 2010-10-08 10:36:46+00:00
+layout: post
 link: http://habi.gna.ch/2010/10/08/diy-2/
 slug: diy-2
 title: DIY
-url: /2010/10/08/diy-2/
 wordpress_id: 2230
+categories:
+- personal
 ---
 
 http://www.flickr.com/photos/habi/5061599339/

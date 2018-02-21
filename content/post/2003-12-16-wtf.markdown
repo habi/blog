@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-12-16T21:55:39Z
+date: 2003-12-16 21:55:39+00:00
+layout: post
 link: http://habi.gna.ch/2003/12/16/wtf/
 slug: wtf
 title: wtf?
-url: /2003/12/16/wtf/
 wordpress_id: 380
+categories:
+- none
 ---
 
 [this](http://www.watch.impress.co.jp/akiba/hotline/20030315/image/npl2.html) cannot be true :-)

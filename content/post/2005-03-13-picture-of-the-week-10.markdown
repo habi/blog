@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2005-03-13T22:18:52Z
+date: 2005-03-13 22:18:52+00:00
+layout: post
 link: http://habi.gna.ch/2005/03/14/picture-of-the-week-10/
 slug: picture-of-the-week-10
 title: picture of the week 10
-url: /2005/03/13/picture-of-the-week-10/
 wordpress_id: 745
+categories:
+- picture of the week
 ---
+
 
 the past friday was absolutely amazing at work. as you might know (or not...) the swiss messengers have a collective product: [swissconnect](http://www.swissconnect.ch/). hence, if a customer wants to send a parcel to any other town in switzerland, he just gives us a call, and we do the rest.
   

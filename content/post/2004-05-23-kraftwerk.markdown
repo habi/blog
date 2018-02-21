@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-23T10:51:10Z
+date: 2004-05-23 10:51:10+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/23/kraftwerk/
 slug: kraftwerk
 title: kraftwerk
-url: /2004/05/23/kraftwerk/
 wordpress_id: 538
+categories:
+- none
 ---
 
 in case anyone of you didn't go to the kraftwerk-concert* last wednesday or thursday in the reithalle or didn't see the pictures of it in [the](http://flagr.antville.org/stories/794760/) [blog-o-hood](http://www.web-laun.ch/pieceoBlog/index.php?p=1092), then here are the ones i made:

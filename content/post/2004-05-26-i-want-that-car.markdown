@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-26T19:40:47Z
+date: 2004-05-26 19:40:47+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/26/i-want-that-car/
 slug: i-want-that-car
 title: i want that car
-url: /2004/05/26/i-want-that-car/
 wordpress_id: 541
+categories:
+- none
 ---
 
 [![volta](http://habi.gna.ch/blog/images/volta-tm.jpg)](http://habi.gna.ch/blog/images/volta.jpg) today the newest [wired](http://wired.com/wired/archive/12.06/) arrived. as always, when scanning it for worthwhile stuff to read, my eyes get caught on the ["fetish" page](http://wired.com/wired/archive/12.06/play.html?pg=12). nope, it's not your normal fetish like latex and leather and stuff like that, but shining and gleaming gadgets and gizmos.

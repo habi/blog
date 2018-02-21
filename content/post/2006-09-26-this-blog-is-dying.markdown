@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2006-09-26T20:35:49Z
+date: 2006-09-26 20:35:49+00:00
+layout: post
 link: http://habi.gna.ch/2006/09/26/this-blog-is-dying/
 slug: this-blog-is-dying
 title: this blog is now without /blog
-url: /2006/09/26/this-blog-is-dying/
 wordpress_id: 791
+categories:
+- technospeak
 ---
 
 in the last few weeks movable type stressed the server more and more. after reading a bit into it, i found out, that wordpress is much fancier and much less resource-hungry as a blog platform.

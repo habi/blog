@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- apple
-- personal
 comments: true
-date: 2004-02-29T13:26:05Z
+date: 2004-02-29 13:26:05+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/29/installing-panther/
 slug: installing-panther
 title: installing panther
-url: /2004/02/29/installing-panther/
 wordpress_id: 451
+categories:
+- apple
+- personal
 ---
 
 i will install [panther](http://www.apple.com/macosx/) now.

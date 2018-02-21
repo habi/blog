@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2005-08-22T21:33:51Z
+date: 2005-08-22 21:33:51+00:00
+layout: post
 link: http://habi.gna.ch/2005/08/22/thoughts-after-a-busy-week/
 slug: thoughts-after-a-busy-week
 title: thoughts after a busy week
-url: /2005/08/22/thoughts-after-a-busy-week/
 wordpress_id: 61
+categories:
+- personal
 ---
+
 
 - driving a [fixie](http://flickr.com/photos/tags/fixie/clusters/) with a huge backpack (clothes for week and some more stuff) through downtown basel and zürich is not so fun
   

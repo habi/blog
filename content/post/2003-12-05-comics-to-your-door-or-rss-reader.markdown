@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-12-05T13:47:23Z
+date: 2003-12-05 13:47:23+00:00
+layout: post
 link: http://habi.gna.ch/2003/12/05/comics-to-your-door-or-rss-reader/
 slug: comics-to-your-door-or-rss-reader
 title: comics to your door (or rss-reader)
-url: /2003/12/05/comics-to-your-door-or-rss-reader/
 wordpress_id: 366
+categories:
+- none
 ---
 
 [b.](http://bernhardseefeld.ch/) pointed out a nice service to me (i wonder where he gets all that stuff he forwards to me :-).

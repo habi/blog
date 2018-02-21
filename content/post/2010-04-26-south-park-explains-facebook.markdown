@@ -1,15 +1,17 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-04-26T12:32:30Z
+date: 2010-04-26 12:32:30+00:00
+layout: post
 link: http://habi.gna.ch/2010/04/26/south-park-explains-facebook/
 slug: south-park-explains-facebook
 title: south park explains facebook [update]
-url: /2010/04/26/south-park-explains-facebook/
 wordpress_id: 2099
+categories:
+- personal
 ---
+
+
 
 dieser kurze southpark-schnipsel erklärt in 48 sekunden, wieso ich meinen facebook-account gelöscht habe.
 und nur damit das klar ist; nina und [papi](http://www.facebook.com/people/Daniel-Haberthur/1453782914), es geht nicht um euch :)

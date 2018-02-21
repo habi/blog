@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
 comments: true
-date: 2009-06-11T16:26:19Z
+date: 2009-06-11 16:26:19+00:00
+layout: post
 link: http://habi.gna.ch/2009/06/11/objektiv-zu-verkaufen/
 slug: objektiv-zu-verkaufen
+title: objektiv zu verkaufen [update]
+wordpress_id: 1798
+categories:
+- gadgets and gizmos
 tags:
 - nikon
 - nikon d80
 - sell-n-buy
-title: objektiv zu verkaufen [update]
-url: /2009/06/11/objektiv-zu-verkaufen/
-wordpress_id: 1798
 ---
 
 da ich bei ricardo.ch ein unglaubliches schnäppchen gekauft habe (ein ungebrauchtes [Sigma AF 3,5-6,3/28-300 DG-Objektiv](http://www.ricardo.ch/kaufen/foto-und-optik/foto-zubehoer/objektive-autofokus/sonstige/sigma-28-300-fuer-alle-nikon/v/an572155616/) für 180.-, siehe film unten), kann ich ein anderes Objektiv aus meiner Sammlung verkaufen.

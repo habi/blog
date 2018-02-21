@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- bike
 comments: true
-date: 2008-09-14T20:40:42Z
+date: 2008-09-14 20:40:42+00:00
+layout: post
 link: http://habi.gna.ch/2008/09/14/winner-backwards-circles-suicmc08/
 slug: winner-backwards-circles-suicmc08
+title: winner backwards circles suicmc08 [video]
+wordpress_id: 1451
+categories:
+- bike
 tags:
 - bike
 - suicmc08
-title: winner backwards circles suicmc08 [video]
-url: /2008/09/14/winner-backwards-circles-suicmc08/
-wordpress_id: 1451
 ---
+
 
 unglaubliche 25 rückwärtskreise. respekt!

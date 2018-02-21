@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-10-30T17:56:47Z
+date: 2010-10-30 17:56:47+00:00
+layout: post
 link: http://habi.gna.ch/2010/10/30/planet-haberthr/
 slug: planet-haberthr
+title: Planet Haberthür
+wordpress_id: 2271
+categories:
+- personal
 tags:
 - panorama
-title: Planet Haberthür
-url: /2010/10/30/planet-haberthr/
-wordpress_id: 2271
 ---
 
 Aufmerksame Mitlesende wissen, dass meine Eltern [gezugelt haben](http://habi.gna.ch/2010/08/15/entsorgung/). Da ich fur ein Projekt meiner Schwester [Bastians Fisheye-Objektiv](http://www.dasrecht.net/v3/photography) ausleihen konnte, habe ich gedacht, ein etwas spezielleres Foto aus ihrem neuen Garten gabe eine gute Adressanderungs-Karte.

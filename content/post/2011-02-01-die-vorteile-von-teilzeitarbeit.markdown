@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-02-01T09:44:27Z
+date: 2011-02-01 09:44:27+00:00
+layout: post
 link: http://habi.gna.ch/2011/02/01/die-vorteile-von-teilzeitarbeit/
 slug: die-vorteile-von-teilzeitarbeit
 title: Die Vorteile von Teilzeitarbeit
-url: /2011/02/01/die-vorteile-von-teilzeitarbeit/
 wordpress_id: 2376
+categories:
+- personal
 ---
 
-[![](http://farm6.static.flickr.com/5172/5406738863_81e273b515_m.jpg)](http://www.flickr.com/photos/habi/5406738863/)
+
+ [![](http://farm6.static.flickr.com/5172/5406738863_81e273b515_m.jpg)](http://www.flickr.com/photos/habi/5406738863/)
    
 
  

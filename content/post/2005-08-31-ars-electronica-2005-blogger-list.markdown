@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2005-08-31T16:32:05Z
+date: 2005-08-31 16:32:05+00:00
+layout: post
 link: http://habi.gna.ch/2005/08/31/ars-electronica-2005-blogger-list/
 slug: ars-electronica-2005-blogger-list
 title: 'ars electronica 2005: Blogger List'
-url: /2005/08/31/ars-electronica-2005-blogger-list/
 wordpress_id: 67
+categories:
+- linkdump
 ---
+
 
 Jan set up a wiki-list for web-people attending/covering the [ars electronica](http://www.aec.at/en/index.asp) this year.
   

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-21T21:54:08Z
+date: 2004-10-21 21:54:08+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/21/new-feature-in-test-mode/
 slug: new-feature-in-test-mode
 title: new feature (in test mode)
-url: /2004/10/21/new-feature-in-test-mode/
 wordpress_id: 655
+categories:
+- none
 ---
 
 [![1t](http://habi.gna.ch/blog/images/1t-tm.jpg)](http://habi.gna.ch/blog/images/1t.gif) the image on the left shows the total accesses of habi.gna.ch since the start in july last year (reminds me, i missed the anniversary :-). it impressed me that the total accesses to this little site are around 20000 a day which seems huge. but be reminded that every access to every file counts, so if you watch an index-page on the pics-section this counts as more than20 accesses (9 thumbnails, 2 navigation-buttons and 8 image files for the thumbnail frames plus the html-file itself plus the css-file).  

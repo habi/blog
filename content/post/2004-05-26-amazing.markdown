@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- apple
 comments: true
-date: 2004-05-26T09:12:09Z
+date: 2004-05-26 09:12:09+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/26/amazing/
 slug: amazing
 title: amazing!
-url: /2004/05/26/amazing/
 wordpress_id: 540
+categories:
+- apple
 ---
 
 ![battery](http://habi.gna.ch/blog/images/battery.jpg)yesterday evening my ibook crashed. it locked up when i started realplayer to listen to some late-nite tunes while having [setiathome](http://setiathome2.ssl.berkeley.edu/fcgi-bin/fcgi?email=david.haberthuer%40gmx.ch&cmd=user_stats_new) running (so the processor was on full duty).

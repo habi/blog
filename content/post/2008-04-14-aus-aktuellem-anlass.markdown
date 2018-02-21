@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2008-04-14 21:20:37+00:00
+layout: post
+link: http://habi.gna.ch/2008/04/14/aus-aktuellem-anlass/
+slug: aus-aktuellem-anlass
+title: aus aktuellem anlass
+wordpress_id: 1237
 categories:
 - bike
 - tschörman
-comments: true
-date: 2008-04-14T21:20:37Z
-link: http://habi.gna.ch/2008/04/14/aus-aktuellem-anlass/
-slug: aus-aktuellem-anlass
 tags:
 - bike
 - comic
 - webcomic
-title: aus aktuellem anlass
-url: /2008/04/14/aus-aktuellem-anlass/
-wordpress_id: 1237
 ---
 
 ein neuer webcomic in meiner comics-abteilung im feedreader: [yehuda moon and the kickstand cyclery](http://www.yehudamoon.com/index.php?date=2008-02-08)

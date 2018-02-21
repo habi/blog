@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-14T17:59:02Z
+date: 2004-01-14 17:59:02+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/14/crazy-habi/
 slug: crazy-habi
 title: crazy habi!
-url: /2004/01/14/crazy-habi/
 wordpress_id: 405
+categories:
+- none
 ---
 
 [![](http://habi.gna.ch/blog/images/crazy-tm.jpg)](http://habi.gna.ch/blog/images/crazy.jpg)

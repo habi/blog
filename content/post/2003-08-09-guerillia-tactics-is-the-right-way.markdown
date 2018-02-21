@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-09T14:46:45Z
+date: 2003-08-09 14:46:45+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/09/guerillia-tactics-is-the-right-way/
 slug: guerillia-tactics-is-the-right-way
 title: guerillia tactics is the right way!
-url: /2003/08/09/guerillia-tactics-is-the-right-way/
 wordpress_id: 254
+categories:
+- none
 ---
 
 i've just seen the new [alien ant farm](http://www.alienantfarm.com/)-video on [viva](http://viva-swizz.ch/): [these days](http://www.lyricsfreak.com/a/alien-ant-farm/6035.html). (alien ant farm are known for a punked up version of michael jacksons smooth criminal).

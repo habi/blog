@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- fun
 comments: true
-date: 2006-04-07T09:48:20Z
+date: 2006-04-07 09:48:20+00:00
+layout: post
 link: http://habi.gna.ch/2006/04/07/a-funny-magic-trick/
 slug: a-funny-magic-trick
 title: a funny magic trick
-url: /2006/04/07/a-funny-magic-trick/
 wordpress_id: 155
+categories:
+- fun
 ---
+
 
 i got a chuckle out of this, 'cause it really works. makes a neat office-trick:
 

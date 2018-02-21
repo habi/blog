@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-28T09:45:40Z
+date: 2004-01-28 09:45:40+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/28/and-i-always-thought-im-geeky/
 slug: and-i-always-thought-im-geeky
 title: and i always thought i'm geeky
-url: /2004/01/28/and-i-always-thought-im-geeky/
 wordpress_id: 423
+categories:
+- none
 ---
 
 check out [phil torrones](http://www.philliptorrone.com/) portable geek gym, which he posted on his [geek-blog](http://www.flashenabled.com/).

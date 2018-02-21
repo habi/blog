@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2009-05-09 14:32:24+00:00
+layout: post
+link: http://habi.gna.ch/2009/05/09/beatenbucht/
+slug: beatenbucht
+title: beatenbucht
+wordpress_id: 1752
 categories:
 - diving
 - switzerland
-comments: true
-date: 2009-05-09T14:32:24Z
-link: http://habi.gna.ch/2009/05/09/beatenbucht/
-slug: beatenbucht
 tags:
 - diving
-title: beatenbucht
-url: /2009/05/09/beatenbucht/
-wordpress_id: 1752
 ---
 
 letzten sonntag war ich mal wieder im wasser, diesmal ([wie gesagt](http://habi.gna.ch/2009/05/03/heute-mal-etwas-tiefer/)) etwas tiefer, in der beatenbucht an der steilwand.

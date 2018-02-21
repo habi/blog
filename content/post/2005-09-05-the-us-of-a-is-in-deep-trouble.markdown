@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
-- memes
 comments: true
-date: 2005-09-05T13:45:00Z
+date: 2005-09-05 13:45:00+00:00
+layout: post
 link: http://habi.gna.ch/2005/09/05/the-us-of-a-is-in-deep-trouble/
 slug: the-us-of-a-is-in-deep-trouble
 title: the us of a is in deep trouble.
-url: /2005/09/05/the-us-of-a-is-in-deep-trouble/
 wordpress_id: 69
+categories:
+- linkdump
+- memes
 ---
+
 
 as [other people](http://blog.ch/blog/index.php/archives/2005/09/04/und-das-merkwurdige-ist/), i really suffer with all the persons that are hit by the hurricane in the states. but if you watch those two videos below, you really get a sense on how deep the trouble is gonna be once all the news get trough.
 

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-19T17:47:19Z
+date: 2003-10-19 17:47:19+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/19/more-tattoos-and-stuff-like-that/
 slug: more-tattoos-and-stuff-like-that
 title: more tattoos and stuff like that
-url: /2003/10/19/more-tattoos-and-stuff-like-that/
 wordpress_id: 316
+categories:
+- none
 ---
 
 if you're interested how it feels to get a massive tattoo on the back, then [Keith's](http://www.nootrope.net/) [Koi-blog](http://www.nootrope.net/koi/index.html) is for you to read. Funnily enough i found this on [boingboing](http://boingboing.net/2003_10_01_archive.html#106641155922478162) and some days ago i talked to [him](http://iam.bmezine.com/?nootrope) on [IAM](http://iam.bmezine.com/) :-)

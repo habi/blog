@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-12T21:30:12Z
+date: 2003-11-12 21:30:12+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/12/vocal-groove-project/
 slug: vocal-groove-project
 title: vocal groove project
-url: /2003/11/12/vocal-groove-project/
 wordpress_id: 346
+categories:
+- none
 ---
 
 i just returned from seeing [bauchklang](http://www.bauchklang.at/) live at the [bierhubeli](http://www.bierhuebeli.ch/).

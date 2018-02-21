@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2007-09-26T17:51:35Z
+date: 2007-09-26 17:51:35+00:00
+layout: post
 link: http://habi.gna.ch/2007/09/26/gps-status-ok/
 slug: gps-status-ok
 title: 'gps status: ok!'
-url: /2007/09/26/gps-status-ok/
 wordpress_id: 1045
+categories:
+- none
 ---
 
-[![](http://farm2.static.flickr.com/1171/1443140827_bd57d9ab0d_m.jpg)](http://www.flickr.com/photos/habi/1443140827/)
+
+ [![](http://farm2.static.flickr.com/1171/1443140827_bd57d9ab0d_m.jpg)](http://www.flickr.com/photos/habi/1443140827/)
    
 
  

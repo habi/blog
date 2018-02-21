@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2012-08-22T16:10:52Z
+date: 2012-08-22 16:10:52+00:00
+layout: post
 link: http://habi.gna.ch/2012/08/22/seeueberquerung-ch/
 slug: seeueberquerung-ch
 title: seeueberquerung.ch
-url: /2012/08/22/seeueberquerung-ch/
 wordpress_id: 2868
+categories:
+- personal
 ---
 
-[![](http://farm9.staticflickr.com/8301/7838948628_e85df57cae_m.jpg)](http://www.flickr.com/photos/habi/7838948628/)
+
+ [![](http://farm9.staticflickr.com/8301/7838948628_e85df57cae_m.jpg)](http://www.flickr.com/photos/habi/7838948628/)
    
 
  

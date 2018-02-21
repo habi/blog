@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-26T13:47:06Z
+date: 2003-11-26 13:47:06+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/26/how-silly-is-this/
 slug: how-silly-is-this
 title: how silly is this
-url: /2003/11/26/how-silly-is-this/
 wordpress_id: 361
+categories:
+- none
 ---
 
 i went to [interdiscount](http://www.interdiscount.ch/) because i needed some jewel cases for a gift project.

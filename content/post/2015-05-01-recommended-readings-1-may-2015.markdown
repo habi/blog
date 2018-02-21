@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2015-05-01T19:00:27Z
+date: 2015-05-01 19:00:27+00:00
+layout: post
 link: http://habi.gna.ch/2015/05/01/recommended-readings-1-may-2015/
 slug: recommended-readings-1-may-2015
+title: 'Recommended readings: 1. May 2015'
+wordpress_id: 3889
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 1. May 2015'
-url: /2015/05/01/recommended-readings-1-may-2015/
-wordpress_id: 3889
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

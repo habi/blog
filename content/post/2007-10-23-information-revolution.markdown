@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2007-10-23T20:03:49Z
+date: 2007-10-23 20:03:49+00:00
+layout: post
 link: http://habi.gna.ch/2007/10/23/information-revolution/
 slug: information-revolution
 title: Information R/evolution
-url: /2007/10/23/information-revolution/
 wordpress_id: 1063
+categories:
+- linkdump
 ---
+
 
 a movie-friend of [http://youtube.com/watch?v=NLlGopyXT_g](http://youtube.com/watch?v=NLlGopyXT_g), simply brilliant!
 

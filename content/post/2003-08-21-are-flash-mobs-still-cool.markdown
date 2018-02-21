@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-21T14:15:48Z
+date: 2003-08-21 14:15:48+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/21/are-flash-mobs-still-cool/
 slug: are-flash-mobs-still-cool
 title: are flash mobs still cool?
-url: /2003/08/21/are-flash-mobs-still-cool/
 wordpress_id: 265
+categories:
+- none
 ---
 
 yesterday there was a [flash mob](http://www.google.com/search?q=flash+mob&ie=UTF-8&oe=UTF-8) here in [bern](http://jukebox.radiox.ch:8080/spot/stories/301/) (and i missed it, i thought it's today, i confused the date...)

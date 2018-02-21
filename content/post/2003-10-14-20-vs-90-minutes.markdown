@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-14T20:30:45Z
+date: 2003-10-14 20:30:45+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/14/20-vs-90-minutes/
 slug: 20-vs-90-minutes
 title: 20 vs. 90 minutes
-url: /2003/10/14/20-vs-90-minutes/
 wordpress_id: 312
+categories:
+- none
 ---
 
 from next week on:

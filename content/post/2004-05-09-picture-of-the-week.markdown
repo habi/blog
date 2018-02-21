@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-05-09T19:19:18Z
+date: 2004-05-09 19:19:18+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/09/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
-url: /2004/05/09/picture-of-the-week/
 wordpress_id: 524
+categories:
+- picture of the week
 ---
 
 this week it's actually not a picture of the week, but a movie of the week.

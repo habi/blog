@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- personal
-- technospeak
 comments: true
-date: 2008-11-04T23:35:29Z
+date: 2008-11-04 23:35:29+00:00
+layout: post
 link: http://habi.gna.ch/2008/11/05/evolution-einer-abbildung-oder-wieso-einfach-wenns-kompliziert-einfacher-ist/
 slug: evolution-einer-abbildung-oder-wieso-einfach-wenns-kompliziert-einfacher-ist
 title: 'evolution einer abbildung oder: wieso einfach, wenn''s kompliziert einfacher
   ist'
-url: /2008/11/04/evolution-einer-abbildung-oder-wieso-einfach-wenns-kompliziert-einfacher-ist/
 wordpress_id: 1527
+categories:
+- personal
+- technospeak
 ---
 
 ich bin am skizzieren einer publikation, meine [masterarbeit](http://www.ana.unibe.ch/~haberthuer/publications) des nachdiplomstudiums soll zu einem richtigen paper werden.

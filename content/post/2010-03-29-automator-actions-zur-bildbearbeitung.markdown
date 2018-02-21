@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2010-03-29T20:22:29Z
+date: 2010-03-29 20:22:29+00:00
+layout: post
 link: http://habi.gna.ch/2010/03/29/automator-actions-zur-bildbearbeitung/
 slug: automator-actions-zur-bildbearbeitung
+title: Automator Actions zur Bildbearbeitung
+wordpress_id: 2086
+categories:
+- technospeak
 tags:
 - automator
-title: Automator Actions zur Bildbearbeitung
-url: /2010/03/29/automator-actions-zur-bildbearbeitung/
-wordpress_id: 2086
 ---
 
 [herr chm](http://bloxxs.ch/) hat kurzlich ein schones [panorama-bild](http://www.flickr.com/photos/macronix/4466763332/) von seinem balkon aus veroffentlicht, welches von [mir aus gesehen](http://www.flickr.com/photos/macronix/4466763332/comment72157623588015725/) ohne schwarzen rand viel besser aussehen wurde. da herr chm offenbar den [automator](http://www.macosxautomation.com/automator/) nicht kennt, habe ich hier einen kurzen screencast gemacht, wie ich dieses raffinierte feature verwende, welches von haus aus in OS X integriert ist. der screencast unten zeigt, wie einfach es ist, sich einen sogenannten service zu machen, um bilder schnell umzuwandeln:

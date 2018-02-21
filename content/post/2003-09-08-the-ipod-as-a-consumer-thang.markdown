@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-09-08T14:32:56Z
+date: 2003-09-08 14:32:56+00:00
+layout: post
 link: http://habi.gna.ch/2003/09/08/the-ipod-as-a-consumer-thang/
 slug: the-ipod-as-a-consumer-thang
 title: the ipod as a consumer thang...
-url: /2003/09/08/the-ipod-as-a-consumer-thang/
 wordpress_id: 272
+categories:
+- none
 ---
 
 yesterday i was in [rodersdorf](http://www.ddc.gmxhome.de/uebersicht.html), playing [ddc](http://www.wikipedia.org/wiki/DDC_Frisbee) with [jochen](http://habi.gna.ch/pics/DDC/Pages/18.html).

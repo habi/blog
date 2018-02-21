@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-05-28T20:33:24Z
+date: 2006-05-28 20:33:24+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/28/smackbook-pro/
 slug: smackbook-pro
 title: smackbook pro
-url: /2006/05/28/smackbook-pro/
 wordpress_id: 184
+categories:
+- linkdump
 ---
+
 
 it would be cool to have a recent mac. it would be even cooler with that [little program](http://blog.medallia.com/2006/05/smacbook_pro.html) you can see in the video below. the geekiest way of managing desktops ever...
 

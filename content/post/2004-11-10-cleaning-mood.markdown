@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-11-10T20:02:41Z
+date: 2004-11-10 20:02:41+00:00
+layout: post
 link: http://habi.gna.ch/2004/11/10/cleaning-mood/
 slug: cleaning-mood
 title: cleaning mood
-url: /2004/11/10/cleaning-mood/
 wordpress_id: 670
+categories:
+- none
 ---
+
 
 altough it was my free day, i had to get up early today, because we got [a new fridge](http://moblog.co.uk/view.php?id=31386), so i thought it's about time to do some cleaning. after i've cleaned out my closets and thrown away a bag full of junk i started to catalog my dvd's (call me obsessive) with the excellent [dvdpedia](http://www.bruji.com/dvdpedia/) (which i bought rightaway for 18 bucks).
   

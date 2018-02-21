@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2010-10-14 22:34:13+00:00
+layout: post
+link: http://habi.gna.ch/2010/10/15/bcher-zu-verschenken-bookcrossing/
+slug: bcher-zu-verschenken-bookcrossing
+title: Bücher zu verschenken - BookCrossing [update]
+wordpress_id: 2238
 categories:
 - fun
 - personal
 - technospeak
-comments: true
-date: 2010-10-14T22:34:13Z
-link: http://habi.gna.ch/2010/10/15/bcher-zu-verschenken-bookcrossing/
-slug: bcher-zu-verschenken-bookcrossing
 tags:
 - bookcrossing
 - books
 - fun
 - latex
-title: Bücher zu verschenken - BookCrossing [update]
-url: /2010/10/14/bcher-zu-verschenken-bookcrossing/
-wordpress_id: 2238
 ---
 
 Letzthin hab' ich ein wunderbares Buch gelesen; die Geschichte des [Herr Zbinden, die Christoph Simon](http://www.bilgerverlag.ch/index.php/trade/productview/96/50/) in poetischer und spannender Weise niedergeschrieben hat.

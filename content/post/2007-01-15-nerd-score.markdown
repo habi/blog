@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- fun
-- memes
 comments: true
-date: 2007-01-15T21:56:07Z
+date: 2007-01-15 21:56:07+00:00
+layout: post
 link: http://habi.gna.ch/2007/01/15/nerd-score/
 slug: nerd-score
 title: nerd-(s)core!
-url: /2007/01/15/nerd-score/
 wordpress_id: 843
+categories:
+- fun
+- memes
 ---
 
 just in case you wanted to know:

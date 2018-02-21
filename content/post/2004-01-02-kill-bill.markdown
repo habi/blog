@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-02T21:32:10Z
+date: 2004-01-02 21:32:10+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/02/kill-bill/
 slug: kill-bill
 title: kill bill
-url: /2004/01/02/kill-bill/
 wordpress_id: 388
+categories:
+- none
 ---
 
 that guy surely has a [foot fetish](http://216.239.59.104/search?q=cache:9lxTlif04tIJ:www.everythingtarantino.com/data/2003/0930-192005.shtml+kill+bill+foot+fetish&hl=de&ie=UTF-8)!

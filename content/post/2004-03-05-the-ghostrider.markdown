@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-05T19:51:50Z
+date: 2004-03-05 19:51:50+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/05/the-ghostrider/
 slug: the-ghostrider
 title: the ghostrider
-url: /2004/03/05/the-ghostrider/
 wordpress_id: 459
+categories:
+- none
 ---
 
 in [this months issue](http://www.wired.com/wired/archive/12.03/) of [wired](http://www.wired.com/) there was a story about [the great challenge](http://www.darpa.mil/grandchallenge/).

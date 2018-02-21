@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-27T08:30:22Z
+date: 2004-01-27 08:30:22+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/27/a-look-at-my-referrers/
 slug: a-look-at-my-referrers
 title: a look at my referrers
-url: /2004/01/27/a-look-at-my-referrers/
 wordpress_id: 419
+categories:
+- none
 ---
 
 when i take a look at my [referres](http://habi.gna.ch/usage/referers.html) (or inbound links) then something amazes me:

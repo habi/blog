@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- flickr
-- pictures
 comments: true
-date: 2005-04-19T17:56:16Z
+date: 2005-04-19 17:56:16+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/19/flickr-is-upping-the-ante-giveaway/
 slug: flickr-is-upping-the-ante-giveaway
 title: flickr is upping the ante - giveaway
-url: /2005/04/19/flickr-is-upping-the-ante-giveaway/
 wordpress_id: 771
+categories:
+- flickr
+- pictures
 ---
+
 
 today i got an email from the [flickr-team](http://flickr.com/): in the aftermath of yahoo buying flickr the guys and gals are able to provide [more stuff for all the users](http://blog.flickr.com/flickrblog/2005/04/new_prices_free.html):
 

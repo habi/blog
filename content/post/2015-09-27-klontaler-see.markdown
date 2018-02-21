@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2015-09-27 11:04:58+00:00
+layout: post
+link: http://habi.gna.ch/2015/09/27/klontaler-see/
+slug: klontaler-see
+title: Klöntaler See
+wordpress_id: 4029
 categories:
 - moblog
 - photos
-comments: true
-date: 2015-09-27T11:04:58Z
-link: http://habi.gna.ch/2015/09/27/klontaler-see/
-slug: klontaler-see
 tags:
 - flickr
 - IFTTT
 - moblog
 - seerie
-title: Klöntaler See
-url: /2015/09/27/klontaler-see/
-wordpress_id: 4029
 ---
 
 ![](http://ift.tt/1Lg2xR9)  

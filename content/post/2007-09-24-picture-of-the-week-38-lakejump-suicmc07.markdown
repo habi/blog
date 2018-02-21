@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-09-24 22:37:31+00:00
+layout: post
+link: http://habi.gna.ch/2007/09/24/picture-of-the-week-38-lakejump-suicmc07/
+slug: picture-of-the-week-38-lakejump-suicmc07
+title: 'picture of the week 38: lakejump @ suicmc07'
+wordpress_id: 1044
 categories:
 - bike
 - personal
 - picture of the week
-comments: true
-date: 2007-09-24T22:37:31Z
-link: http://habi.gna.ch/2007/09/24/picture-of-the-week-38-lakejump-suicmc07/
-slug: picture-of-the-week-38-lakejump-suicmc07
-title: 'picture of the week 38: lakejump @ suicmc07'
-url: /2007/09/24/picture-of-the-week-38-lakejump-suicmc07/
-wordpress_id: 1044
 ---
 
 the weekend was absolutely wonderful (not only because i won, but also because the weather was brilliant, the hosts/organisation were superb, the course was great,...). i'm still putting everything together, but i'd just like to thank everyone at [velocite](http://velocite.ch/), that was only minorly involved with the organisation of the suicmc07, it was great!

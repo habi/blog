@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- apple
-- technospeak
 comments: true
-date: 2005-04-26T19:33:00Z
+date: 2005-04-26 19:33:00+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/26/the-tiger-is-coming/
 slug: the-tiger-is-coming
 title: the tiger is coming
-url: /2005/04/26/the-tiger-is-coming/
 wordpress_id: 775
+categories:
+- apple
+- technospeak
 ---
+
 
 you might have heard it: apple is releasing tiger, their new flavour of os x. but now [mike bombich](http://www.bombich.com/) noted (in [this discussion](http://forums.bombich.com/viewtopic.php?t=5078=tiger)) that the marvellous [carbon copy cloner](http://www.bombich.com/software/ccc.html), a tool i use often now and then to back up my data does not work with tiger. the folks over at tuaw.com say it like so: "Consider my pre-Tiger buzz officially killed".
   

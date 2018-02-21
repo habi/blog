@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2013-06-04T18:15:55Z
+date: 2013-06-04 18:15:55+00:00
+layout: post
 link: http://habi.gna.ch/2013/06/04/jonah/
 slug: jonah
 title: Jonah
-url: /2013/06/04/jonah/
 wordpress_id: 3117
+categories:
+- linkdump
 ---
 
 Jonah ist ein gelungener Kurzfilm über Grössenwahn, den [Mzungus](http://en.wikipedia.org/wiki/Mzungu) auslösen können.

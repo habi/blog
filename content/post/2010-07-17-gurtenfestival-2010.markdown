@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2010-07-17 12:23:25+00:00
+layout: post
+link: http://habi.gna.ch/2010/07/17/gurtenfestival-2010/
+slug: gurtenfestival-2010
+title: Gurtenfestival 2010
+wordpress_id: 2154
 categories:
 - fun
 - music
 - switzerland
-comments: true
-date: 2010-07-17T12:23:25Z
-link: http://habi.gna.ch/2010/07/17/gurtenfestival-2010/
-slug: gurtenfestival-2010
 tags:
 - fun
 - gurtenfestival
 - music
-title: Gurtenfestival 2010
-url: /2010/07/17/gurtenfestival-2010/
-wordpress_id: 2154
 ---
 
 Dieses Jahr bin ich nur am Freitag 'On the Hill' gewesen, trotzdem hat sich mein Gurtenfestival schon gelohnt: [The Cribs](http://www.thecribs.com/) waren schnoddrig britisch rockend, [The Gossip](http://www.gossipyouth.com/) hat das Publikum begeistert, [Gustav](http://www.gustav.ch/) hat dem Regen getrotzt, [Faith No More](http://www.fnm.com/) haben alte Zeiten aufleben lassen, [Navel](http://www.myspace.com/navelofswitzerland) haben den Abschluss meines Gurtenfestival-Abends vorbereitet fur den famosen Old-School-Hiphop von [Sens Unik](http://en.wikipedia.org/wiki/Sens_Unik).

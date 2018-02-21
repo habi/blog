@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2006-11-03T20:19:59Z
+date: 2006-11-03 20:19:59+00:00
+layout: post
 link: http://habi.gna.ch/2006/11/03/more-plugins/
 slug: more-plugins
 title: more plugins!
-url: /2006/11/03/more-plugins/
 wordpress_id: 809
+categories:
+- technospeak
 ---
 
 since it's so easy to install plugins in wordpress (upload, activate, finished), i've installed some more plugins here:

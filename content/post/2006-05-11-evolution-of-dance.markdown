@@ -1,16 +1,19 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-05-11T09:02:15Z
+date: 2006-05-11 09:02:15+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/11/evolution-of-dance/
 slug: evolution-of-dance
 title: evolution of dance
-url: /2006/05/11/evolution-of-dance/
 wordpress_id: 173
+categories:
+- linkdump
 ---
 
+
+
+  
 i guess he scores on the dancefloor :-)
   
 watch the whole six minutes, he's quite good.

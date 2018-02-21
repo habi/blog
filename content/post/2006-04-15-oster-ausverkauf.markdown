@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2006-04-15T12:46:37Z
+date: 2006-04-15 12:46:37+00:00
+layout: post
 link: http://habi.gna.ch/2006/04/15/oster-ausverkauf/
 slug: oster-ausverkauf
 title: oster-ausverkauf!
-url: /2006/04/15/oster-ausverkauf/
 wordpress_id: 159
+categories:
+- personal
 ---
+
 
 ich hab mal in meiner dvd/games/etc-kiste gewuhlt (weil ich endlich mal alle meine dvds im [dvdmanager](http://dvdmanager.free.fr/) eintragen wollte) und dabei einige "karteileichen" gefunden.
   

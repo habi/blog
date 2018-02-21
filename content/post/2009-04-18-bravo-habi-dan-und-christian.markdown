@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-04-18T16:09:16Z
+date: 2009-04-18 16:09:16+00:00
+layout: post
 link: http://habi.gna.ch/2009/04/18/bravo-habi-dan-und-christian/
 slug: bravo-habi-dan-und-christian
 title: bravo habi, dan und christian!
-url: /2009/04/18/bravo-habi-dan-und-christian/
 wordpress_id: 1730
+categories:
+- personal
 ---
 
-[![](http://farm4.static.flickr.com/3561/3453140066_ee4968be60_m.jpg)](http://www.flickr.com/photos/habi/3453140066/)
+
+ [![](http://farm4.static.flickr.com/3561/3453140066_ee4968be60_m.jpg)](http://www.flickr.com/photos/habi/3453140066/)
    
 
  

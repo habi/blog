@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-26T20:20:50Z
+date: 2004-09-26 20:20:50+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/26/ae-fond-kiss/
 slug: ae-fond-kiss
 title: ae fond kiss
-url: /2004/09/26/ae-fond-kiss/
 wordpress_id: 627
+categories:
+- none
 ---
 
 i went to see [the last kiss](http://imdb.com/title/tt0380366/), the new film by the scottish filmmaker [ken loach](http://imdb.com/name/nm0516360/). besides that i was blown away from the language everyone in that movie speaks1 i just loved it.

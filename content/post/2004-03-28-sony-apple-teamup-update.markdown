@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- apple
 comments: true
-date: 2004-03-28T18:47:29Z
+date: 2004-03-28 18:47:29+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/28/sony-apple-teamup-update/
 slug: sony-apple-teamup-update
 title: sony - apple teamup? [update]
-url: /2004/03/28/sony-apple-teamup-update/
 wordpress_id: 487
+categories:
+- apple
 ---
 
 there's [always](http://fscklog.typepad.com/fsck/2004/02/die_alte_immerw.html) quite a bit of rumor that sony and apple might teamup sometimes (or the one is buying the other).

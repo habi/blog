@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2017-04-04T19:21:34Z
+date: 2017-04-04 19:21:34+00:00
+layout: post
 link: http://habi.gna.ch/2017/04/04/recommended-readings-4-april-2017/
 slug: recommended-readings-4-april-2017
+title: 'Recommended readings: 4. April 2017'
+wordpress_id: 5058
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 4. April 2017'
-url: /2017/04/04/recommended-readings-4-april-2017/
-wordpress_id: 5058
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

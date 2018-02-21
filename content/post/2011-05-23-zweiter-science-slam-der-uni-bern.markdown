@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2011-05-23 20:19:30+00:00
+layout: post
+link: http://habi.gna.ch/2011/05/23/zweiter-science-slam-der-uni-bern/
+slug: zweiter-science-slam-der-uni-bern
+title: Zweiter Science Slam der Uni Bern
+wordpress_id: 2498
 categories:
 - personal
 - work
-comments: true
-date: 2011-05-23T20:19:30Z
-link: http://habi.gna.ch/2011/05/23/zweiter-science-slam-der-uni-bern/
-slug: zweiter-science-slam-der-uni-bern
 tags:
 - science slam
 - ssub
-title: Zweiter Science Slam der Uni Bern
-url: /2011/05/23/zweiter-science-slam-der-uni-bern/
-wordpress_id: 2498
 ---
 
 Letzten Mittwoch nahm ich am [zweiten Science Slam der Uni Bern](http://www.generalsekretariat.unibe.ch/content/events_und_pr/index_ger.html) teil. Da die Aufforderung zum Mitmachen erst am Montag an mich gelangte, machte ich auch nicht wirklich Werbung fur den Event, denn der Abend im Schlachthaus Theater war schon ausverkauft.

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2005-10-30T16:23:40Z
+date: 2005-10-30 16:23:40+00:00
+layout: post
 link: http://habi.gna.ch/2005/10/30/images-of-the-flickr-meetup-on-saturday/
 slug: images-of-the-flickr-meetup-on-saturday
 title: images of the flickr-meetup on saturday
-url: /2005/10/30/images-of-the-flickr-meetup-on-saturday/
 wordpress_id: 91
+categories:
+- personal
+- pictures
 ---
+
 
 yesterday [a bunch of flikreebies/flickrites](http://climbtothestars.org/archives/2005/10/30/flickr-meetup-in-bern/) met here in bern. if you want to take a look at the heap of images we've taken, then you should take a look at the tag "[chflickrmeetupoct05](http://www.flickr.com/photos/tags/chflickrmeetupoct05/)".
   

@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-06-26T07:57:24Z
+date: 2010-06-26 07:57:24+00:00
+layout: post
 link: http://habi.gna.ch/2010/06/26/hallo-3/
 slug: hallo-3
 title: Hallo?
-url: /2010/06/26/hallo-3/
 wordpress_id: 2135
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4115/4735208276_4aa0705d80_m.jpg)](http://www.flickr.com/photos/habi/4735208276/)
+
+ [![](http://farm5.static.flickr.com/4115/4735208276_4aa0705d80_m.jpg)](http://www.flickr.com/photos/habi/4735208276/)
    
 
  

@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- diving
 comments: true
-date: 2011-07-29T17:06:49Z
+date: 2011-07-29 17:06:49+00:00
+layout: post
 link: http://habi.gna.ch/2011/07/29/robinson-unter-wasser/
 slug: robinson-unter-wasser
+title: Robinson, Unter Wasser
+wordpress_id: 2549
+categories:
+- diving
 tags:
 - diving
 - neuenburgersee
-title: Robinson, Unter Wasser
-url: /2011/07/29/robinson-unter-wasser/
-wordpress_id: 2549
 ---
 
 Vom [langeren Tauchgang gestern](http://habi.gna.ch/divelog/2011.07.28.robinson.pdf) im flachen Wasser gibts jetzt noch ein kurzeres Video:

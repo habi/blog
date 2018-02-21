@@ -1,20 +1,20 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2016-01-07T20:52:24Z
+date: 2016-01-07 20:52:24+00:00
+layout: post
 link: http://habi.gna.ch/2016/01/07/2015-in-fotos/
 slug: 2015-in-fotos
+title: 2015 in Fotos
+wordpress_id: 4181
+categories:
+- personal
 tags:
 - jahresrückblick
 - jahresrückblick15
 - photos
 - velocontent
 - wedding
-title: 2015 in Fotos
-url: /2016/01/07/2015-in-fotos/
-wordpress_id: 4181
 ---
 
 Wie [letzes Jahr](http://habi.gna.ch/tag/jahresruckblick14) versuche ich wieder ein-zwei-drei Rückblicke auf mein letztes Jahr zu machen.  Die gesammelten Posts dazu werden unter dem Tag [`jahresrückblick15`](http://habi.gna.ch/tag/jahresruckblick15) gesammelt.

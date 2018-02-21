@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2008-11-14 17:48:02+00:00
+layout: post
+link: http://habi.gna.ch/2008/11/14/freitag-ist-frei-tag-with-map/
+slug: freitag-ist-frei-tag-with-map
+title: freitag ist frei-tag [with map]
+wordpress_id: 1560
 categories:
 - bike
 - gps
 - personal
-comments: true
-date: 2008-11-14T17:48:02Z
-link: http://habi.gna.ch/2008/11/14/freitag-ist-frei-tag-with-map/
-slug: freitag-ist-frei-tag-with-map
 tags:
 - bike
 - gps
 - velo
 - velokurierbern
-title: freitag ist frei-tag [with map]
-url: /2008/11/14/freitag-ist-frei-tag-with-map/
-wordpress_id: 1560
 ---
 
 nachdem ich mit meinem vortrag, den ich übernächstes wochenende halten muss, schon relativ weit gekommen bin und's auch ansonsten ganz gut gepasst hat, bin ich heute nachmittag mal wieder eine schicht für den velokurier bern in die pedale gestiegen und habe einen halben ferientag im sattel verbracht.

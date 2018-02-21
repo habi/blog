@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-12-04T12:35:04Z
+date: 2004-12-04 12:35:04+00:00
+layout: post
 link: http://habi.gna.ch/2004/12/04/album-art-in-the-sidebar-update/
 slug: album-art-in-the-sidebar-update
 title: album art in the sidebar [update]
-url: /2004/12/04/album-art-in-the-sidebar-update/
 wordpress_id: 686
+categories:
+- none
 ---
+
 
 since the upgrade of my MT-installation the integration of [kungtunes](http://www.kung-foo.tv/itti.php) an my blog was a bit flaky, i got an email whenever my itunes changed a song. this was just too much.
   

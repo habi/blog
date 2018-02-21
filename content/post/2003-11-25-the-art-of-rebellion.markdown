@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-25T08:57:23Z
+date: 2003-11-25 08:57:23+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/25/the-art-of-rebellion/
 slug: the-art-of-rebellion
 title: the art of rebellion
-url: /2003/11/25/the-art-of-rebellion/
 wordpress_id: 359
+categories:
+- none
 ---
 
 yesterday i read a review of "the art of rebellion", today i surfed on [their page](http://www.the-art-of-rebellion.com/) and instantly [bought that book](http://www.buchkatalog.de/kod-bin/isuche.cgi?aktion=fullprintview&TI=art+of+rebellion&sortby=&bereich1=1-1&navigaktiv=ja).

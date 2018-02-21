@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2008-04-11 22:49:39+00:00
+layout: post
+link: http://habi.gna.ch/2008/04/11/gagukack/
+slug: gagukack
+title: gagukack! [update]
+wordpress_id: 1236
 categories:
 - personal
 - switzerland
 - tschörman
-comments: true
-date: 2008-04-11T22:49:39Z
-link: http://habi.gna.ch/2008/04/11/gagukack/
-slug: gagukack
 tags:
 - lang:de
-title: gagukack! [update]
-url: /2008/04/11/gagukack/
-wordpress_id: 1236
 ---
 
 Mir wurde gestern am hellichten Tag mitten von der Schanzenbrücke mein [BMC Alpenchallenge](http://images.google.com/images?client=safari&rls=en-us&q=bmc+alpenchallenge&ie=UTF-8&oe=UTF-8&um=1&sa=N&tab=wi) geklaut. Ja es war abgeschlossen, aber nicht an einen feststehenden Pfosten gebunden, ich weiss...  

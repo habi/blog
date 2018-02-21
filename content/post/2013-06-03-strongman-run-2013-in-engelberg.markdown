@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- fun
-- personal
 comments: true
-date: 2013-06-03T19:55:20Z
+date: 2013-06-03 19:55:20+00:00
+layout: post
 link: http://habi.gna.ch/2013/06/03/strongman-run-2013-in-engelberg/
 slug: strongman-run-2013-in-engelberg
 title: Strongman Run 2013 in Engelberg
-url: /2013/06/03/strongman-run-2013-in-engelberg/
 wordpress_id: 3116
+categories:
+- fun
+- personal
 ---
 
 Mit 6496 Anderen haben David, [Michu](http://michaelzwahlen.ch), Renzo und ich am Samstag in Engelberg am [Strongman Run](http://strongmanrun.ch/) teilgenommen.

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-09-16T21:35:56Z
+date: 2003-09-16 21:35:56+00:00
+layout: post
 link: http://habi.gna.ch/2003/09/16/ubergeek/
 slug: ubergeek
 title: ubergeek
-url: /2003/09/16/ubergeek/
 wordpress_id: 278
+categories:
+- none
 ---
 
 i think my geekness could only be satisfied if i [lived in japan](http://www.insomedia.com/japan7/index.html).

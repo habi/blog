@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2010-09-09 17:15:56+00:00
+layout: post
+link: http://habi.gna.ch/2010/09/09/panorama-des-triftgletschers/
+slug: panorama-des-triftgletschers
+title: Panorama des Triftgletschers
+wordpress_id: 2209
 categories:
 - pictures
 - switzerland
-comments: true
-date: 2010-09-09T17:15:56Z
-link: http://habi.gna.ch/2010/09/09/panorama-des-triftgletschers/
-slug: panorama-des-triftgletschers
 tags:
 - hugin
 - panorama
-title: Panorama des Triftgletschers
-url: /2010/09/09/panorama-des-triftgletschers/
-wordpress_id: 2209
 ---
 
 Vergangenes Wochenende war ich mit dem Unisport auf eine [Hochtour](http://habi.gna.ch/2010/08/26/picknick-fur-3-tage/) uber den Triftgletscher. Leider war das Wetter nicht gut genug, um wirklich tolle Fotos zu machen, ein paar schone sind trotzdem zusammengekommen, sie sind in [diesem Set auf flickr.com](http://www.flickr.com/photos/habi/sets/72157624713872163/) zu finden.

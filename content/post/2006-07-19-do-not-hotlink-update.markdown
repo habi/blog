@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2006-07-19T20:11:01Z
+date: 2006-07-19 20:11:01+00:00
+layout: post
 link: http://habi.gna.ch/2006/07/19/do-not-hotlink-update/
 slug: do-not-hotlink-update
 title: do not hotlink! [update]
-url: /2006/07/19/do-not-hotlink-update/
 wordpress_id: 203
+categories:
+- personal
+- pictures
 ---
+
 
 i've had a quick look at my referers today.
   

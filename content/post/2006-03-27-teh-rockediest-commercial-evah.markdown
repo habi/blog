@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-03-27T13:42:52Z
+date: 2006-03-27 13:42:52+00:00
+layout: post
 link: http://habi.gna.ch/2006/03/27/teh-rockediest-commercial-evah/
 slug: teh-rockediest-commercial-evah
 title: teh rockediest commercial evah!
-url: /2006/03/27/teh-rockediest-commercial-evah/
 wordpress_id: 147
+categories:
+- linkdump
 ---
+
 
 [![Evian Ad](http://habi.gna.ch/blog/images/evian_ad-tm.jpg)](http://habi.gna.ch/blog/images/evian_ad.jpg)point you browsers to this gem of a [commercial made for evian](http://www.epica-awards.org/assets/epica/2004/winners/film/flv/06037.htm). it shows the NSFW (or so) adventures of cartoony  waterboy. really cute and with a [book](http://book.urbanup.com/910471) soundtrack.
 

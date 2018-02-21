@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-28T20:06:14Z
+date: 2003-07-28 20:06:14+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/28/this-is-just-too-cool/
 slug: this-is-just-too-cool
 title: this is just too cool!
-url: /2003/07/28/this-is-just-too-cool/
 wordpress_id: 238
+categories:
+- none
 ---
 
 When i get an SMS on [my mobile phone](http://www.sonyericsson.com/t610/index.htm?overview/index.htm) while it's paired over bluetooth to my trusty little [ibook](http://www.apple.com/ibook/) i get a window like this:  

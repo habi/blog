@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2013-01-08T19:06:25Z
+date: 2013-01-08 19:06:25+00:00
+layout: post
 link: http://habi.gna.ch/2013/01/08/the-national-fanfare-of-kadebostany-walking-with-a-goast/
 slug: the-national-fanfare-of-kadebostany-walking-with-a-goast
+title: The National Fanfare of Kadebostany - Walking with a Goast
+wordpress_id: 3010
+categories:
+- music
 tags:
 - music
-title: The National Fanfare of Kadebostany - Walking with a Goast
-url: /2013/01/08/the-national-fanfare-of-kadebostany-walking-with-a-goast/
-wordpress_id: 3010
 ---
 
 http://vimeo.com/39540030

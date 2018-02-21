@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-06-09 22:42:17+00:00
+layout: post
+link: http://habi.gna.ch/2007/06/09/morgens-um-2-irgendwo-zwischen-gempenach-und-frauenkappelen-update/
+slug: morgens-um-2-irgendwo-zwischen-gempenach-und-frauenkappelen-update
+title: morgens um 2 irgendwo zwischen gempenach und frauenkappelen [update]
+wordpress_id: 958
 categories:
 - bike
 - personal
 - tschörman
-comments: true
-date: 2007-06-09T22:42:17Z
-link: http://habi.gna.ch/2007/06/09/morgens-um-2-irgendwo-zwischen-gempenach-und-frauenkappelen-update/
-slug: morgens-um-2-irgendwo-zwischen-gempenach-und-frauenkappelen-update
-title: morgens um 2 irgendwo zwischen gempenach und frauenkappelen [update]
-url: /2007/06/09/morgens-um-2-irgendwo-zwischen-gempenach-und-frauenkappelen-update/
-wordpress_id: 958
 ---
 
 mitten in der nacht ganz alleine mit dem velo von murten nach bern zu fahren ist also ziemlich ein erlebnis...

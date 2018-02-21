@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-16T12:30:37Z
+date: 2003-11-16 12:30:37+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/16/todays-fun-link/
 slug: todays-fun-link
 title: todays fun link
-url: /2003/11/16/todays-fun-link/
 wordpress_id: 349
+categories:
+- none
 ---
 
 we three in our flat have a so-called darling of the week - some piece of [bizarre news](http://www.bizarrenews.com/), some really far out whackos or just something funny out of the newspaper.

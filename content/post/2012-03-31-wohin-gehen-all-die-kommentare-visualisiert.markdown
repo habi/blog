@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2012-03-31 18:41:12+00:00
+layout: post
+link: http://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/
+slug: wohin-gehen-all-die-kommentare-visualisiert
+title: Wohin gehen all die Kommentare, visualisiert
+wordpress_id: 2709
 categories:
 - personal
 - technospeak
-comments: true
-date: 2012-03-31T18:41:12Z
-link: http://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/
-slug: wohin-gehen-all-die-kommentare-visualisiert
 tags:
 - comments
 - kommentare
 - python
 - visualization
-title: Wohin gehen all die Kommentare, visualisiert
-url: /2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/
-wordpress_id: 2709
 ---
 
 [Herr Leu hat letzthin davon geschrieben](http://leumund.ch/wohin-gehen-all-die-kommentare-0014184), dass das Kommentar-Volumen auf seinem Blog in der letzten Zeit ziemlich abgenommen hat, während die Reaktionen auf die Beiträge in anderen Kanälen stattfinden.

@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2007-09-19T06:41:14Z
+date: 2007-09-19 06:41:14+00:00
+layout: post
 link: http://habi.gna.ch/2007/09/19/hoppla/
 slug: hoppla
 title: Hoppla
-url: /2007/09/19/hoppla/
 wordpress_id: 1025
+categories:
+- none
 ---
 
-[![](http://farm2.static.flickr.com/1341/1405341675_ee8ca324f0_m.jpg)](http://www.flickr.com/photos/habi/1405341675/)
+
+ [![](http://farm2.static.flickr.com/1341/1405341675_ee8ca324f0_m.jpg)](http://www.flickr.com/photos/habi/1405341675/)
    
 
  

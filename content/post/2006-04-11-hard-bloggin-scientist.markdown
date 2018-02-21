@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-04-11T20:55:07Z
+date: 2006-04-11 20:55:07+00:00
+layout: post
 link: http://habi.gna.ch/2006/04/11/hard-bloggin-scientist/
 slug: hard-bloggin-scientist
 title: hard bloggin' scientist
-url: /2006/04/11/hard-bloggin-scientist/
 wordpress_id: 157
+categories:
+- linkdump
 ---
+
 
 naja, im moment grad nicht: aber vielleicht ab bald wieder (mehr dazu spater auf diesem kanal...)
 

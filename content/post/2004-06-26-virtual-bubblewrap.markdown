@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-26T22:39:40Z
+date: 2004-06-26 22:39:40+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/27/virtual-bubblewrap/
 slug: virtual-bubblewrap
 title: virtual bubblewrap
-url: /2004/06/26/virtual-bubblewrap/
 wordpress_id: 566
+categories:
+- none
 ---
 
 need to relieve some stress?

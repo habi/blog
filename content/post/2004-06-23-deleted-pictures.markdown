@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-23T20:40:42Z
+date: 2004-06-23 20:40:42+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/23/deleted-pictures/
 slug: deleted-pictures
 title: deleted pictures
-url: /2004/06/23/deleted-pictures/
 wordpress_id: 565
+categories:
+- none
 ---
 
 to save chris some space and to prevent bloating of my picture archive i deleted some pictures from the [/pics-section](http://habi.gna.ch/pics/).

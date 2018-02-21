@@ -1,12 +1,15 @@
 ---
 author: admin
+comments: true
+date: 2012-06-13 20:45:10+00:00
+layout: post
+link: http://habi.gna.ch/2012/06/13/das-rolex-learning-center-an-der-epfl-in-lausanne-revisited/
+slug: das-rolex-learning-center-an-der-epfl-in-lausanne-revisited
+title: Das Rolex Learning Center an der EPFL in Lausanne, revisited
+wordpress_id: 2798
 categories:
 - pictures
 - technospeak
-comments: true
-date: 2012-06-13T20:45:10Z
-link: http://habi.gna.ch/2012/06/13/das-rolex-learning-center-an-der-epfl-in-lausanne-revisited/
-slug: das-rolex-learning-center-an-der-epfl-in-lausanne-revisited
 tags:
 - epfl
 - hugin
@@ -14,9 +17,6 @@ tags:
 - pannellum
 - panorama
 - webstandards
-title: Das Rolex Learning Center an der EPFL in Lausanne, revisited
-url: /2012/06/13/das-rolex-learning-center-an-der-epfl-in-lausanne-revisited/
-wordpress_id: 2798
 ---
 
 Vor ein paar Wochen war [arbeitsmässig](http://globaldiagnostix.org/) wieder mal an einer Sitzung in Lausanne. Wie schon das letzte Mal hat mich das [Rolex Learning Center](http://www.rolexlearningcenter.ch/) in seinen Bann gezogen, dieses Mal hatte ich aber meine Panorama-Ausrüstung dabei, und nicht wie das [letzte Mal](http://habi.gna.ch/2012/01/20/rolex-learning-centre/) nur mein Telefon.

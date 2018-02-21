@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-12-22T18:29:53Z
+date: 2004-12-22 18:29:53+00:00
+layout: post
 link: http://habi.gna.ch/2004/12/22/playstation-portable-update/
 slug: playstation-portable-update
 title: playstation portable [update]
-url: /2004/12/22/playstation-portable-update/
 wordpress_id: 697
+categories:
+- none
 ---
+
 
 it's good that i've never been much of a gamer, or else i couldn't resist in going and buying [the psp](http://www.jp.playstation.com/psp/index.html) after reading [this review on engadget](http://www.engadget.com/entry/1234000510024287/)...
 

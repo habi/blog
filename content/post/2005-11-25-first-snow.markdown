@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- pictures
 comments: true
-date: 2005-11-25T15:13:09Z
+date: 2005-11-25 15:13:09+00:00
+layout: post
 link: http://habi.gna.ch/2005/11/25/first-snow/
 slug: first-snow
 title: first snow...
-url: /2005/11/25/first-snow/
 wordpress_id: 102
+categories:
+- pictures
 ---
+
 
 ... my ass!
   

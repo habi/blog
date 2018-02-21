@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2010-08-17 20:18:19+00:00
+layout: post
+link: http://habi.gna.ch/2010/08/17/island/
+slug: island
+title: Island
+wordpress_id: 2177
 categories:
 - personal
 - pictures
 - tschörman
-comments: true
-date: 2010-08-17T20:18:19Z
-link: http://habi.gna.ch/2010/08/17/island/
-slug: island
 tags:
 - iceland
 - strokkur
-title: Island
-url: /2010/08/17/island/
-wordpress_id: 2177
 ---
 
 Die Ferien in Island waren wie gesagt wunderbar, wir hatten grundsatzlich Wettergluck, d.h. geregnet hat's nur in der Nahe von heissen Quellen. Momentan bin ich die Fotos am durcharbeiten, diese werden nach und nach bei flickr oder [hier](http://grobmotoriker.ch/fotos/index.php?type=sets&setId=72157624746373110) landen.

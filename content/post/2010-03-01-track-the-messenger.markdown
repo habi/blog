@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2010-03-01T19:28:54Z
+date: 2010-03-01 19:28:54+00:00
+layout: post
 link: http://habi.gna.ch/2010/03/01/track-the-messenger/
 slug: track-the-messenger
+title: Track the messenger
+wordpress_id: 2062
+categories:
+- technospeak
 tags:
 - visualization
-title: Track the messenger
-url: /2010/03/01/track-the-messenger/
-wordpress_id: 2062
 ---
 
 [Martin Lerjen](http://www.arua.ch/) hat das wunderschon geekige Titelbild des [Velokurierbuches](http://www.velokurierbern.ch/ueber-uns/velokurierbuch.html) gestaltet. Kurzlich hat er [seine Seite](http://www.arua.ch/insp/206.html) dazu mit einem saucoolen Video aktualisiert.

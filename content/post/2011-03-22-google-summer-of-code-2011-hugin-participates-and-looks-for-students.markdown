@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2011-03-22 22:29:05+00:00
+layout: post
+link: http://habi.gna.ch/2011/03/23/google-summer-of-code-2011-hugin-participates-and-looks-for-students/
+slug: google-summer-of-code-2011-hugin-participates-and-looks-for-students
+title: 'Google Summer of Code 2011: Hugin participates and looks for Students'
+wordpress_id: 2444
 categories:
 - gadgets and gizmos
 - technospeak
-comments: true
-date: 2011-03-22T22:29:05Z
-link: http://habi.gna.ch/2011/03/23/google-summer-of-code-2011-hugin-participates-and-looks-for-students/
-slug: google-summer-of-code-2011-hugin-participates-and-looks-for-students
 tags:
 - gsoc
 - hugin
 - student
-title: 'Google Summer of Code 2011: Hugin participates and looks for Students'
-url: /2011/03/22/google-summer-of-code-2011-hugin-participates-and-looks-for-students/
-wordpress_id: 2444
 ---
 
 Readers of this blog might know that I'm an avid user of [hugin](http://hugin.sourceforge.net/). Like every year since 2007, hugin participates in the [Google Summer of Code](http://www.google-melange.com/), a global program that offers student developers stipends to write code for various open source software projects. In the past years [Yuval Levy](http://panospace.wordpress.com/) and [Alexandre Prokudine](http://prokoudine.info/) [0] spearheaded the GSoC effort for hugin.

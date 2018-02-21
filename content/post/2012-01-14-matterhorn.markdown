@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2012-01-14T14:17:34Z
+date: 2012-01-14 14:17:34+00:00
+layout: post
 link: http://habi.gna.ch/2012/01/14/matterhorn/
 slug: matterhorn
 title: Matterhorn
-url: /2012/01/14/matterhorn/
 wordpress_id: 2624
+categories:
+- personal
 ---
 
-[![](http://farm8.staticflickr.com/7168/6694935307_58365205ac_m.jpg)](http://www.flickr.com/photos/habi/6694935307/)
+
+ [![](http://farm8.staticflickr.com/7168/6694935307_58365205ac_m.jpg)](http://www.flickr.com/photos/habi/6694935307/)
    
 
  

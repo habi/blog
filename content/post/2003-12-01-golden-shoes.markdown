@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-12-01T17:34:00Z
+date: 2003-12-01 17:34:00+00:00
+layout: post
 link: http://habi.gna.ch/2003/12/01/golden-shoes/
 slug: golden-shoes
 title: golden shoes
-url: /2003/12/01/golden-shoes/
 wordpress_id: 363
+categories:
+- none
 ---
 
 you want them?

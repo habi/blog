@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2012-03-21 23:15:46+00:00
+layout: post
+link: http://habi.gna.ch/2012/03/22/bligg/
+slug: bligg
+title: Bligg
+wordpress_id: 2690
 categories:
 - music
 - personal
-comments: true
-date: 2012-03-21T23:15:46Z
-link: http://habi.gna.ch/2012/03/22/bligg/
-slug: bligg
 tags:
 - bierhübeli
 - bligg
 - music
 - youngblood brass band
-title: Bligg
-url: /2012/03/21/bligg/
-wordpress_id: 2690
 ---
 
 Heute hat [Bligg](http://bligg.ch/) mit den 10 Mannen der [Youngblood Brass Band](http://www.youngbloodbrassband.com/) [im Bierhübeli](http://habi.gna.ch/2012/01/08/bligg-feat-youngblood-brass-band/) aufgespielt. Ein solides Konzert, dessen Anfang leider von einem unmöglichen Auftritt eines (wohl selbsternannten) Komikers getrübt wurde.

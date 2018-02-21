@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-06T21:31:29Z
+date: 2004-10-06 21:31:29+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/06/google-trickery/
 slug: google-trickery
 title: google trickery
-url: /2004/10/06/google-trickery/
 wordpress_id: 636
+categories:
+- none
 ---
 
 so if i link to chregels page with the keywords [jammerlicher waschlappen](http://www.admin.ch/ch/d/cf/br/112.html) i kinda induce some funk with googles index. this sounds like fun, count me in!

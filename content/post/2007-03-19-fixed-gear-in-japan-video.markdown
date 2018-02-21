@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2007-03-19T19:58:03Z
+date: 2007-03-19 19:58:03+00:00
+layout: post
 link: http://habi.gna.ch/2007/03/19/fixed-gear-in-japan-video/
 slug: fixed-gear-in-japan-video
 title: fixed gear in japan [video]
-url: /2007/03/19/fixed-gear-in-japan-video/
 wordpress_id: 887
+categories:
+- linkdump
 ---
 
 man, those guys are crazy!

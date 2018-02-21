@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2006-01-02T14:27:17Z
+date: 2006-01-02 14:27:17+00:00
+layout: post
 link: http://habi.gna.ch/2006/01/02/indoor-panorama/
 slug: indoor-panorama
 title: indoor panorama
-url: /2006/01/02/indoor-panorama/
 wordpress_id: 121
+categories:
+- personal
+- pictures
 ---
+
 
 [![Singstar](http://habi.gna.ch/blog/images/singstar-tm.jpg)](http://habi.gna.ch/blog/images/singstar.jpg)früecher ischmä ir [pfadi](http://www.pfadi-falkenstein.ch/) umds lagerfüür umeghocket und het lieder usem [rondo](http://www.hajk.ch/h/shop_details.php?product_id=330&category_id=21084) gsunge.
 

@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2010-11-29 22:40:52+00:00
+layout: post
+link: http://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/
+slug: make-magazine-gratis-bekommen
+title: Make Magazine gratis bekommen
+wordpress_id: 2317
 categories:
 - gadgets and gizmos
 - work
-comments: true
-date: 2010-11-29T22:40:52Z
-link: http://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/
-slug: make-magazine-gratis-bekommen
 tags:
 - make
-title: Make Magazine gratis bekommen
-url: /2010/11/29/make-magazine-gratis-bekommen/
-wordpress_id: 2317
 ---
 
 Seit Jahren bin ich begeistertet Leser und Abonnent des [Make: Magazines](http://makezine.com/). Neulich bekam ich ein Mail, welches mich zur Erneuerung meines Abonnements aufforderte. Das einzige Problem, welches ich mit dem Heft habe ist, dass mir normalerweise die Zeit fehlt um die faszinierenden und packenden Projekte anzugehen, meist klappts nur mit ein bis zwei kleineren...

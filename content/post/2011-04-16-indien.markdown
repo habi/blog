@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-04-16T13:49:17Z
+date: 2011-04-16 13:49:17+00:00
+layout: post
 link: http://habi.gna.ch/2011/04/16/indien/
 slug: indien
+title: Indien
+wordpress_id: 2473
+categories:
+- personal
 tags:
 - india
-title: Indien
-url: /2011/04/16/indien/
-wordpress_id: 2473
 ---
 
 Ich bin wieder da, die zweieinhalb Wochen Indien gingen viel zu schnell vorbei.

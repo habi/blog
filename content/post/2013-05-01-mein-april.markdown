@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2013-05-01 20:25:05+00:00
+layout: post
+link: http://habi.gna.ch/2013/05/01/mein-april/
+slug: mein-april
+title: Mein April
+wordpress_id: 3092
 categories:
 - memes
 - personal
 - pictures
-comments: true
-date: 2013-05-01T20:25:05Z
-link: http://habi.gna.ch/2013/05/01/mein-april/
-slug: mein-april
 tags:
 - 1se
-title: Mein April
-url: /2013/05/01/mein-april/
-wordpress_id: 3092
 ---
 
 Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/) und [März](http://habi.gna.ch/2013/04/01/mein-marz/) hab' ich im April jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.

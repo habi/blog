@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-16T16:50:49Z
+date: 2004-09-16 16:50:49+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/16/nice-to-meet-you/
 slug: nice-to-meet-you
 title: nice to meet you
-url: /2004/09/16/nice-to-meet-you/
 wordpress_id: 621
+categories:
+- none
 ---
 
 today i met [pieceoplastic](http://www.web-laun.ch/pieceoBlog/) while i was having a break and he was going for groceries.

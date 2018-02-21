@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2013-01-07T20:36:29Z
+date: 2013-01-07 20:36:29+00:00
+layout: post
 link: http://habi.gna.ch/2013/01/07/abt-nie-richtig-alt-werden/
 slug: abt-nie-richtig-alt-werden
+title: Abt. Nie richtig alt werden
+wordpress_id: 3004
+categories:
+- linkdump
 tags:
 - awesome
 - grandpa
-title: Abt. Nie richtig alt werden
-url: /2013/01/07/abt-nie-richtig-alt-werden/
-wordpress_id: 3004
 ---
 
 Du kannst auswählen, wieso ich dieses Video poste

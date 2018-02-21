@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2014-06-21 08:20:52+00:00
+layout: post
+link: http://habi.gna.ch/2014/06/21/planeten-panoramas/
+slug: planeten-panoramas
+title: Planeten-Panoramas
+wordpress_id: 3538
 categories:
 - linkdump
 - pictures
 - technospeak
-comments: true
-date: 2014-06-21T08:20:52Z
-link: http://habi.gna.ch/2014/06/21/planeten-panoramas/
-slug: planeten-panoramas
 tags:
 - night
 - panorama
 - star trail
 - video
-title: Planeten-Panoramas
-url: /2014/06/21/planeten-panoramas/
-wordpress_id: 3538
 ---
 
 [Vincent Brady](http://www.vincentbrady.com/planetarypanoramas) verbrachte einige Nächte draussen, ausgerüstet mit vier zusammengeschraubten Kameras und den dazu passenden Fisheye-Objektiven.

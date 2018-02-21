@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- pictures
 comments: true
-date: 2006-04-04T18:05:50Z
+date: 2006-04-04 18:05:50+00:00
+layout: post
 link: http://habi.gna.ch/2006/04/04/felovignedde/
 slug: felovignedde
 title: felovignedde
-url: /2006/04/04/felovignedde/
 wordpress_id: 154
+categories:
+- pictures
 ---
 
-[![](http://static.flickr.com/39/123310208_4ff22b6d49_m.jpg)](http://www.flickr.com/photos/habi/123310208/)
+
+ [![](http://static.flickr.com/39/123310208_4ff22b6d49_m.jpg)](http://www.flickr.com/photos/habi/123310208/)
    
 
  

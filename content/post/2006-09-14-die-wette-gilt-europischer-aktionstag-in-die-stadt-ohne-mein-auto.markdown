@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2006-09-14 18:01:12+00:00
+layout: post
+link: http://habi.gna.ch/2006/09/14/die-wette-gilt-europischer-aktionstag-in-die-stadt-ohne-mein-auto/
+slug: die-wette-gilt-europischer-aktionstag-in-die-stadt-ohne-mein-auto
+title: die wette gilt! (europäischer aktionstag in die stadt - ohne mein auto)
+wordpress_id: 222
 categories:
 - linkdump
 - personal
 - tschörman
-comments: true
-date: 2006-09-14T18:01:12Z
-link: http://habi.gna.ch/2006/09/14/die-wette-gilt-europischer-aktionstag-in-die-stadt-ohne-mein-auto/
-slug: die-wette-gilt-europischer-aktionstag-in-die-stadt-ohne-mein-auto
-title: die wette gilt! (europäischer aktionstag in die stadt - ohne mein auto)
-url: /2006/09/14/die-wette-gilt-europischer-aktionstag-in-die-stadt-ohne-mein-auto/
-wordpress_id: 222
 ---
+
 
 am 22.9. ist wie mittlerweilen jedes jahr europaischer aktionstag "in die stadt - ohne mein auto".
   

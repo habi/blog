@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2008-06-09 19:42:13+00:00
+layout: post
+link: http://habi.gna.ch/2008/06/09/prioritaten/
+slug: prioritaten
+title: prioritäten...
+wordpress_id: 1281
 categories:
 - apple
 - gadgets and gizmos
 - none
 - tschörman
-comments: true
-date: 2008-06-09T19:42:13Z
-link: http://habi.gna.ch/2008/06/09/prioritaten/
-slug: prioritaten
 tags:
 - apple
 - iphone
 - keynote
-title: prioritäten...
-url: /2008/06/09/prioritaten/
-wordpress_id: 1281
 ---
 
 mein sms aus dem zug an kollege: "hey -----. bisch o am luege?: [www.macrumorslive.com](http://www.macrumorslive.com/) gruess usem zug. habi"

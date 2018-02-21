@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-09-10T11:22:05Z
+date: 2003-09-10 11:22:05+00:00
+layout: post
 link: http://habi.gna.ch/2003/09/10/i-need-a-bigger-ipod/
 slug: i-need-a-bigger-ipod
 title: i need a bigger ipod
-url: /2003/09/10/i-need-a-bigger-ipod/
 wordpress_id: 274
+categories:
+- none
 ---
 
 i just ripped an old cd i had lying around here: [Overproof](http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70309100629&sql=A2fdsa9qgi23h) from [Rockers Hi-Fi](http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70309100629&sql=Bhy63mpnd9f8o). 

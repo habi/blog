@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-25T22:38:04Z
+date: 2003-11-25 22:38:04+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/26/uptime/
 slug: uptime
 title: uptime
-url: /2003/11/25/uptime/
 wordpress_id: 360
+categories:
+- none
 ---
 
 well, my ibook [has been up for 14 hours](http://uptimes.hostingwired.com/account.php?op=details&hid=8399) since the last reboot (had to reboot after my first kernel panic; unplugged the bluetoothmodule after update of bluetooth software through software update). 

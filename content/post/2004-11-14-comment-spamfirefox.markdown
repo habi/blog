@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-11-14T21:22:58Z
+date: 2004-11-14 21:22:58+00:00
+layout: post
 link: http://habi.gna.ch/2004/11/14/comment-spamfirefox/
 slug: comment-spamfirefox
 title: comment spam/firefox
-url: /2004/11/14/comment-spamfirefox/
 wordpress_id: 674
+categories:
+- none
 ---
+
 
 the comment spam on the blog is slowly getting out of control (but will be stopped as soon as i can install the new version of moveable type, which will happen soon).
   

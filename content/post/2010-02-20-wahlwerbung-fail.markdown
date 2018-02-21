@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2010-02-20 16:52:41+00:00
+layout: post
+link: http://habi.gna.ch/2010/02/20/wahlwerbung-fail/
+slug: wahlwerbung-fail
+title: 'Wahlwerbung #FAIL'
+wordpress_id: 2045
 categories:
 - switzerland
 - tschörman
-comments: true
-date: 2010-02-20T16:52:41Z
-link: http://habi.gna.ch/2010/02/20/wahlwerbung-fail/
-slug: wahlwerbung-fail
 tags:
 - regierungsrat
 - spam
 - wahlen
-title: 'Wahlwerbung #FAIL'
-url: /2010/02/20/wahlwerbung-fail/
-wordpress_id: 2045
 ---
 
 Heute Morgen habe ich von Herrn Rothenfluh [1], offensichtlich Regierungsrats-Kandidat fur die Wahlen 2010 ein Mail bekommen. In diesem Mail empfiehlt er sich mir [2] als Kandidaten, um die Probleme der Kostenspirale im Gesundheitswesen zu losen. An sich ja eine Position, die mann vertreten konnte.

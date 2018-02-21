@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-27T21:21:34Z
+date: 2004-01-27 21:21:34+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/27/nice-recipe/
 slug: nice-recipe
 title: nice recipe
-url: /2004/01/27/nice-recipe/
 wordpress_id: 422
+categories:
+- none
 ---
 
 my wintercurry ([![](http://habi.gna.ch/blog/images/wintercurry-tm.jpg)](http://habi.gna.ch/blog/images/wintercurry.jpg)) doesn't look like the one in [the recipe](http://wastun.ch/kochen/archiv.php?vDate=040112) (german only), but was really really really tasty none the less. 

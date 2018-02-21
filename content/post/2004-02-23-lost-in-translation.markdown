@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-23T17:23:26Z
+date: 2004-02-23 17:23:26+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/23/lost-in-translation/
 slug: lost-in-translation
 title: lost in translation
-url: /2004/02/23/lost-in-translation/
 wordpress_id: 444
+categories:
+- none
 ---
 
 tonight i'll go and see [lost in translation](http://www.imdb.com/title/tt0335266/) (or was it some [other title](http://www.web-laun.ch/pieceoBlog/index.php?p=857)?) with [mike](http://www.stud.uni-karlsruhe.de/~upmw/).

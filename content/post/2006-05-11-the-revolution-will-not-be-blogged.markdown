@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
-- personal
 comments: true
-date: 2006-05-11T09:19:13Z
+date: 2006-05-11 09:19:13+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/11/the-revolution-will-not-be-blogged/
 slug: the-revolution-will-not-be-blogged
 title: the revolution will not be blogged
-url: /2006/05/11/the-revolution-will-not-be-blogged/
 wordpress_id: 174
+categories:
+- linkdump
+- personal
 ---
+
 
 i might be possible that the revolution will happen and that you won't notice it, 'cause according to [this brilliant rant](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=6942862&blogID=112034554), the revolution will not be blogged! (what a pity)
 

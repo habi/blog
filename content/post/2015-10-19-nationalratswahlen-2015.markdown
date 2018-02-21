@@ -1,20 +1,20 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2015-10-19T18:50:17Z
+date: 2015-10-19 18:50:17+00:00
+layout: post
 link: http://habi.gna.ch/2015/10/19/nationalratswahlen-2015/
 slug: nationalratswahlen-2015
+title: Nationalratswahlen 2015
+wordpress_id: 4066
+categories:
+- personal
 tags:
 - erich hess
 - nationalrat
 - smartspider
 - smartvote
 - wahlen2015
-title: Nationalratswahlen 2015
-url: /2015/10/19/nationalratswahlen-2015/
-wordpress_id: 4066
 ---
 
 Wie alle paar Jahre war es am Wochenende wieder mal soweit, die Wahlzettel auszufüllen. Wie die vergangenen Male habe ich die Hilfe von [smartvote](https://smartvote.ch) in Anspruch genommen, um mir bei der Auswahl meiner Repräsentanten im Bundeshaus zu helfen.

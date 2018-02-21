@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2009-07-12 18:24:52+00:00
+layout: post
+link: http://habi.gna.ch/2009/07/12/fun-with-a-fisheye-lens/
+slug: fun-with-a-fisheye-lens
+title: fun with a fisheye-lens
+wordpress_id: 1857
 categories:
 - pictures
 - technospeak
-comments: true
-date: 2009-07-12T18:24:52Z
-link: http://habi.gna.ch/2009/07/12/fun-with-a-fisheye-lens/
-slug: fun-with-a-fisheye-lens
 tags:
 - bern
 - hugin
 - panorama
-title: fun with a fisheye-lens
-url: /2009/07/12/fun-with-a-fisheye-lens/
-wordpress_id: 1857
 ---
 
 [bastian](http://www.dasrecht.net/) hat mir sein [Nikon 10.5mm f/2.8 DX Fisheye-objektiv](http://www.dasrecht.net/v3/photography) ausgeliehen, damit ich mal ein fisheye ausprobieren kann, dass ich nicht komplett manuell einstellen muss. mit meinem [zenitar](http://www.kenrockwell.com/zenit/zenitar-16mm.htm) bin ich zwar sehr zufrieden, es macht auch [gelungene fotos](http://www.flickr.com/photos/habi/tags/zenitar), verlangt aber nach einer vollständig manuellen einstellung und das ist zuweilen schon ein bisschen mühsam.

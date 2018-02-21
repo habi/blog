@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- apple
 comments: true
-date: 2004-10-09T14:40:33Z
+date: 2004-10-09 14:40:33+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/09/email-aliases-in-mailapp/
 slug: email-aliases-in-mailapp
 title: email aliases in mail.app
-url: /2004/10/09/email-aliases-in-mailapp/
 wordpress_id: 641
+categories:
+- apple
 ---
 
 i should have read [that post](http://www.justinfrench.com/index.php?id=47) before the suicmc04 was over!

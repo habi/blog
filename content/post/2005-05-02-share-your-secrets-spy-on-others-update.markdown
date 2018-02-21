@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2005-05-02T21:03:28Z
+date: 2005-05-02 21:03:28+00:00
+layout: post
 link: http://habi.gna.ch/2005/05/02/share-your-secrets-spy-on-others-update/
 slug: share-your-secrets-spy-on-others-update
 title: share your secrets - spy on others [update]
-url: /2005/05/02/share-your-secrets-spy-on-others-update/
 wordpress_id: 783
+categories:
+- linkdump
 ---
+
 
 i really forgot how i found that page, but, [postsecret.blogspot.com](http://postsecret.blogspot.com/) is really daunting and impressive. people are invited to "mail-in their secrets anonymously on one side of a homemade postcard". i just added the feed to my newsreader, so i'm not gonna miss any secrets ever again....
   

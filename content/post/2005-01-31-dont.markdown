@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2005-01-31 21:53:09+00:00
+layout: post
+link: http://habi.gna.ch/2005/01/31/dont/
+slug: dont
+title: don't!
+wordpress_id: 727
 categories:
 - apple
 - fun
 - music
-comments: true
-date: 2005-01-31T21:53:09Z
-link: http://habi.gna.ch/2005/01/31/dont/
-slug: dont
-title: don't!
-url: /2005/01/31/dont/
-wordpress_id: 727
 ---
+
 
 [![Picture 2](http://habi.gna.ch/blog/images/Picture%202-tm.jpg)](http://habi.gna.ch/blog/images/Picture%202.jpg)i wish i had thought of that!
 

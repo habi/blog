@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-12-01T18:59:09Z
+date: 2010-12-01 18:59:09+00:00
+layout: post
 link: http://habi.gna.ch/2010/12/01/unisport-frisbee-im-schnee-juhee/
 slug: unisport-frisbee-im-schnee-juhee
 title: Unisport-Frisbee im Schnee. Juhee!
-url: /2010/12/01/unisport-frisbee-im-schnee-juhee/
 wordpress_id: 2321
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4148/5224486964_c9d866853a_m.jpg)](http://www.flickr.com/photos/habi/5224486964/)  
+
+  [![](http://farm5.static.flickr.com/4148/5224486964_c9d866853a_m.jpg)](http://www.flickr.com/photos/habi/5224486964/)  
 
   [Unisport-Frisbee im Schnee. Juhee!](http://www.flickr.com/photos/habi/5224486964/)  
 

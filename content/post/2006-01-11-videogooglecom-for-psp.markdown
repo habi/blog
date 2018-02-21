@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2006-01-11 10:34:00+00:00
+layout: post
+link: http://habi.gna.ch/2006/01/11/videogooglecom-for-psp/
+slug: videogooglecom-for-psp
+title: video.google.com for psp
+wordpress_id: 126
 categories:
 - gadgets and gizmos
 - linkdump
 - technospeak
-comments: true
-date: 2006-01-11T10:34:00Z
-link: http://habi.gna.ch/2006/01/11/videogooglecom-for-psp/
-slug: videogooglecom-for-psp
-title: video.google.com for psp
-url: /2006/01/11/videogooglecom-for-psp/
-wordpress_id: 126
 ---
+
 
 google revamped their [video service](http://video.google.com/). you can now buy a big selection of videos. but the more important thing (for me, personally...) is, that you can download pretty much every video, readily formatted for your psp/ipod/big box on the floor.
   

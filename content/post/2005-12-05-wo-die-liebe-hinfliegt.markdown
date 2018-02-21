@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2005-12-05T21:11:30Z
+date: 2005-12-05 21:11:30+00:00
+layout: post
 link: http://habi.gna.ch/2005/12/05/wo-die-liebe-hinfliegt/
 slug: wo-die-liebe-hinfliegt
 title: wo die liebe hinfliegt
-url: /2005/12/05/wo-die-liebe-hinfliegt/
 wordpress_id: 108
+categories:
+- personal
 ---
+
 
 fur alle, dies nicht per mail gekriegt haben:
 

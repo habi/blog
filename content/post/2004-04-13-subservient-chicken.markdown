@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2004-04-13T20:22:18Z
+date: 2004-04-13 20:22:18+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/13/subservient-chicken/
 slug: subservient-chicken
 title: subservient chicken
-url: /2004/04/13/subservient-chicken/
 wordpress_id: 500
+categories:
+- linkdump
 ---
 
 tell the chicken what you want it to do (like "sit on the sofa", "turn around", "play some music") and the [subservient chicken](http://www.subservientchicken.com/) does what you want.

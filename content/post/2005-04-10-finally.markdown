@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- pictures
 comments: true
-date: 2005-04-10T21:36:22Z
+date: 2005-04-10 21:36:22+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/10/finally/
 slug: finally
 title: finally!
-url: /2005/04/10/finally/
 wordpress_id: 760
+categories:
+- pictures
 ---
+
 
 finally i found a freeware panorama solution that works!
   

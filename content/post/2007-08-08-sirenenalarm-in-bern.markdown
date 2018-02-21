@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-08-08 22:20:51+00:00
+layout: post
+link: http://habi.gna.ch/2007/08/08/sirenenalarm-in-bern/
+slug: sirenenalarm-in-bern
+title: sirenenalarm in bern
+wordpress_id: 1001
 categories:
 - personal
 - switzerland
 - tschörman
-comments: true
-date: 2007-08-08T22:20:51Z
-link: http://habi.gna.ch/2007/08/08/sirenenalarm-in-bern/
-slug: sirenenalarm-in-bern
-title: sirenenalarm in bern
-url: /2007/08/08/sirenenalarm-in-bern/
-wordpress_id: 1001
 ---
 
 22:44, sirenenalarm im breitsch. leichte hektik macht sich bereit, wo waren nur schon wieder diese komischen [kaliumjodidtabletten](http://www.google.com/search?client=safari&rls=en&q=kaliumjodid+tabletten&ie=UTF-8&oe=UTF-8)?

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-30T15:24:18Z
+date: 2003-07-30 15:24:18+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/30/plans-for-tonight/
 slug: plans-for-tonight
 title: plans for tonight
-url: /2003/07/30/plans-for-tonight/
 wordpress_id: 242
+categories:
+- none
 ---
 
 I'm gonna go and see [Akua](http://www.akua.ch/) from "Karls Kuhne Gassenschau" with [Nina](http://habi.gna.ch/pics/Aare/Pages/22.html).

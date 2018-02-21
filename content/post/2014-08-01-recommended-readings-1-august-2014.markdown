@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2014-08-01T19:00:47Z
+date: 2014-08-01 19:00:47+00:00
+layout: post
 link: http://habi.gna.ch/2014/08/01/recommended-readings-1-august-2014/
 slug: recommended-readings-1-august-2014
+title: 'Recommended readings: 1. August 2014'
+wordpress_id: 3555
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 1. August 2014'
-url: /2014/08/01/recommended-readings-1-august-2014/
-wordpress_id: 3555
 ---
 
 Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut: 

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2005-01-23T21:41:14Z
+date: 2005-01-23 21:41:14+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/23/pictures-of-the-week-03/
 slug: pictures-of-the-week-03
 title: pictures of the week 03
-url: /2005/01/23/pictures-of-the-week-03/
 wordpress_id: 721
+categories:
+- picture of the week
 ---
+
 
 like you've seen below, i've been skiing with tom yesterday.
   

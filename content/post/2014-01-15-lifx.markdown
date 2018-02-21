@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2014-01-15T13:18:39Z
+date: 2014-01-15 13:18:39+00:00
+layout: post
 link: http://habi.gna.ch/2014/01/15/lifx/
 slug: lifx
 title: LIFX
-url: /2014/01/15/lifx/
 wordpress_id: 3354
+categories:
+- personal
 ---
 
 [![LIFX by habi](http://farm3.staticflickr.com/2824/11963845773_1f70f12c31.jpg)](http://www.flickr.com/photos/habi/11963845773/)  

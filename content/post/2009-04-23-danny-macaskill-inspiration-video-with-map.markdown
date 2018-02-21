@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- bike
 comments: true
-date: 2009-04-23T07:21:29Z
+date: 2009-04-23 07:21:29+00:00
+layout: post
 link: http://habi.gna.ch/2009/04/23/danny-macaskill-inspiration-video-with-map/
 slug: danny-macaskill-inspiration-video-with-map
+title: danny macaskill, inspiration [video] [with map]
+wordpress_id: 1733
+categories:
+- bike
 tags:
 - bike
 - trial
-title: danny macaskill, inspiration [video] [with map]
-url: /2009/04/23/danny-macaskill-inspiration-video-with-map/
-wordpress_id: 1733
 ---
 
 einer um gut in den tag zu starten: der stunt bei ca. 3:15 ist unglaublich!

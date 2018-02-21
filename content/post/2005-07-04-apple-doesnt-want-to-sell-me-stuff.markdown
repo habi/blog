@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2005-07-04 20:49:51+00:00
+layout: post
+link: http://habi.gna.ch/2005/07/04/apple-doesnt-want-to-sell-me-stuff/
+slug: apple-doesnt-want-to-sell-me-stuff
+title: apple doesn't want to sell me stuff
+wordpress_id: 40
 categories:
 - apple
 - gadgets and gizmos
 - personal
-comments: true
-date: 2005-07-04T20:49:51Z
-link: http://habi.gna.ch/2005/07/04/apple-doesnt-want-to-sell-me-stuff/
-slug: apple-doesnt-want-to-sell-me-stuff
-title: apple doesn't want to sell me stuff
-url: /2005/07/04/apple-doesnt-want-to-sell-me-stuff/
-wordpress_id: 40
 ---
+
 
 [![Applestoreborked](http://habi.gna.ch/blog/images/applestoreborked-tm.jpg)](http://habi.gna.ch/blog/images/applestoreborked.jpg)dear apple.
 

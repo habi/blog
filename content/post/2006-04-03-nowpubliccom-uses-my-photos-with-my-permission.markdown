@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2006-04-03T19:44:24Z
+date: 2006-04-03 19:44:24+00:00
+layout: post
 link: http://habi.gna.ch/2006/04/03/nowpubliccom-uses-my-photos-with-my-permission/
 slug: nowpubliccom-uses-my-photos-with-my-permission
 title: nowpublic.com uses my photos (with my permission)
-url: /2006/04/03/nowpubliccom-uses-my-photos-with-my-permission/
 wordpress_id: 153
+categories:
+- personal
+- pictures
 ---
+
 
 [![Nowpublic](http://habi.gna.ch/blog/images/nowpublic-tm.jpg)](http://habi.gna.ch/blog/images/nowpublic.jpg)[my pictures from saturday evening](http://www.flickr.com/photos/habi/sets/72057594097067744/) are now part of a story at nowpublic.com.
 

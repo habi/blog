@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- switzerland
 comments: true
-date: 2013-07-18T13:21:12Z
+date: 2013-07-18 13:21:12+00:00
+layout: post
 link: http://habi.gna.ch/2013/07/18/die-sterne-uber-dem-konkordiaplatz/
 slug: die-sterne-uber-dem-konkordiaplatz
+title: Die Sterne über dem Konkordiaplatz
+wordpress_id: 3154
+categories:
+- switzerland
 tags:
 - aletschgletscher
 - glacier
 - hiking
 - konkordiahut
-title: Die Sterne über dem Konkordiaplatz
-url: /2013/07/18/die-sterne-uber-dem-konkordiaplatz/
-wordpress_id: 3154
 ---
 
 Am Wochenende kam ich zu einem verfrühtes Geburtstagsgeschenk, Nina organisierte eine Wanderung vom Jungfraujoch über die [Konkordiahütte](http://www.konkordiahuette.ch) zur Bettmeralp, mit Übernachtung in der Hütte.

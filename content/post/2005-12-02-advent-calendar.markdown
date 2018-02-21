@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- moblog
 comments: true
-date: 2005-12-02T05:48:29Z
+date: 2005-12-02 05:48:29+00:00
+layout: post
 link: http://habi.gna.ch/2005/12/02/advent-calendar/
 slug: advent-calendar
 title: advent calendar
-url: /2005/12/02/advent-calendar/
 wordpress_id: 105
+categories:
+- moblog
 ---
 
-[![](http://static.flickr.com/35/69284464_6f87352096_m.jpg)](http://www.flickr.com/photos/habi/69284464/)
+
+ [![](http://static.flickr.com/35/69284464_6f87352096_m.jpg)](http://www.flickr.com/photos/habi/69284464/)
    
 
  

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-26T17:27:05Z
+date: 2004-02-26 17:27:05+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/26/mc-h-bee/
 slug: mc-h-bee
 title: mc h-bee
-url: /2004/02/26/mc-h-bee/
 wordpress_id: 449
+categories:
+- none
 ---
 
 if you want to see me perform live on stage, then you have to come to the [baren](http://tel.search.ch/result.html?name=b%E4ren&misc=&strasse=b%FCmplizstr&ort=3018&kanton=&tel=) in [bumpliz](http://www.buempliz.ch/) tomorrow or saturday evening.

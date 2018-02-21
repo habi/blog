@@ -1,12 +1,15 @@
 ---
 author: admin
+comments: true
+date: 2016-08-28 17:16:19+00:00
+layout: post
+link: http://habi.gna.ch/2016/08/28/hihi/
+slug: hihi
+title: Hihi!
+wordpress_id: 4553
 categories:
 - moblog
 - photos
-comments: true
-date: 2016-08-28T17:16:19Z
-link: http://habi.gna.ch/2016/08/28/hihi/
-slug: hihi
 tags:
 - flickr
 - gelb
@@ -15,9 +18,6 @@ tags:
 - moblog
 - putin
 - velocontent
-title: Hihi!
-url: /2016/08/28/hihi/
-wordpress_id: 4553
 ---
 
 ![](http://ift.tt/2bAM3oc)  

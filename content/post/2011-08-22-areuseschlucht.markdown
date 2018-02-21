@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- diving
 comments: true
-date: 2011-08-22T16:15:20Z
+date: 2011-08-22 16:15:20+00:00
+layout: post
 link: http://habi.gna.ch/2011/08/22/areuseschlucht/
 slug: areuseschlucht
+title: Areuseschlucht
+wordpress_id: 2553
+categories:
+- diving
 tags:
 - areuse
 - areuseschlucht
 - boudry
 - diving
-title: Areuseschlucht
-url: /2011/08/22/areuseschlucht/
-wordpress_id: 2553
 ---
 
 Am Samstag war ich mit den Herren [Skooba](http://www.skooba.com/) und [Flückiger](http://dck.ch/das-schulungs-und-eventteam/88-pesche-flueckiger.html) in der [Areuseschlucht](http://www.boudry-historique.net/page198.html). Bei unserer knapp 40-minütigen Abkühlung im Wald entstand unten eingebundenes Filmli, dank mittäglichem Sonnenstand mit schönen Lichteffekten.

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2005-12-13T22:38:13Z
+date: 2005-12-13 22:38:13+00:00
+layout: post
 link: http://habi.gna.ch/2005/12/14/filewile-auf-bkanalch/
 slug: filewile-auf-bkanalch
 title: filewile auf bkanal.ch
-url: /2005/12/13/filewile-auf-bkanalch/
 wordpress_id: 112
+categories:
+- personal
 ---
+
 
 [dejot and andi/dustbowl](http://filewile.com/) [1] werden auf [bkanal.ch](http://bkanal.ch/) interwiut.
   

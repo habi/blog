@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-12-19T20:15:39Z
+date: 2004-12-19 20:15:39+00:00
+layout: post
 link: http://habi.gna.ch/2004/12/19/recommended-reading/
 slug: recommended-reading
 title: recommended reading
-url: /2004/12/19/recommended-reading/
 wordpress_id: 694
+categories:
+- none
 ---
+
 
 ![](http://images.amazon.com/images/P/3827005469.03._SCTHUMBZZZ_.jpg)my mother recently gave me [schotts sammelsurium](http://www.amazon.de/exec/obidos/tg/detail/-/3827005469/habignach-20), a very funny book.
   

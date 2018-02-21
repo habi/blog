@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
-- tschörman
 comments: true
-date: 2006-05-05T23:19:04Z
+date: 2006-05-05 23:19:04+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/06/bloggrrrcom/
 slug: bloggrrrcom
 title: bloggrrr.com
-url: /2006/05/05/bloggrrrcom/
 wordpress_id: 169
+categories:
+- linkdump
+- tschörman
 ---
+
 
 die sbaw waren lustig und gut.
 

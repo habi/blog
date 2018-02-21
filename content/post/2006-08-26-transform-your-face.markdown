@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2006-08-26T14:29:33Z
+date: 2006-08-26 14:29:33+00:00
+layout: post
 link: http://habi.gna.ch/2006/08/26/transform-your-face/
 slug: transform-your-face
 title: transform your face!
-url: /2006/08/26/transform-your-face/
 wordpress_id: 214
+categories:
+- personal
 ---
+
 
 [![Habi.Norml](http://habi.gna.ch/blog/images/habi.norml-tm.jpg)](http://habi.gna.ch/blog/images/habi.norml.jpg)did you ever wonder how you're gonna look in some years? or how you would look if born in another part of your world? or look when painted?
   

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-29T19:35:15Z
+date: 2003-10-29 19:35:15+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/29/tandem-movie-is-up/
 slug: tandem-movie-is-up
 title: tandem movie is up
-url: /2003/10/29/tandem-movie-is-up/
 wordpress_id: 329
+categories:
+- none
 ---
 
 well, if you're interested, one of the tandem movies [can be downloaded here](http://habi.gna.ch/blog/images/tandem_stream.mov).

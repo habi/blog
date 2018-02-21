@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2015-10-24T21:47:17Z
+date: 2015-10-24 21:47:17+00:00
+layout: post
 link: http://habi.gna.ch/2015/10/24/digitale-archivare/
 slug: digitale-archivare
 title: Digitale Archivare
-url: /2015/10/24/digitale-archivare/
 wordpress_id: 4073
+categories:
+- personal
 ---
 
 https://www.youtube.com/watch?v=NdZxI3nFVJs

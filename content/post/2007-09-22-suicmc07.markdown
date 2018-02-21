@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2007-09-22T17:57:59Z
+date: 2007-09-22 17:57:59+00:00
+layout: post
 link: http://habi.gna.ch/2007/09/22/suicmc07/
 slug: suicmc07
 title: SUICMC07
-url: /2007/09/22/suicmc07/
 wordpress_id: 1039
+categories:
+- none
 ---
 
-[![](http://farm2.static.flickr.com/1413/1424471942_24549c0b2f_m.jpg)](http://www.flickr.com/photos/habi/1424471942/)
+
+ [![](http://farm2.static.flickr.com/1413/1424471942_24549c0b2f_m.jpg)](http://www.flickr.com/photos/habi/1424471942/)
    
 
  

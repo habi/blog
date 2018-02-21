@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- picture of the week
 comments: true
-date: 2006-03-13T22:23:55Z
+date: 2006-03-13 22:23:55+00:00
+layout: post
 link: http://habi.gna.ch/2006/03/14/picture-of-the-week-10/
 slug: picture-of-the-week-10
 title: picture of the week 10
-url: /2006/03/13/picture-of-the-week-10/
 wordpress_id: 143
+categories:
+- personal
+- picture of the week
 ---
+
 
 yesterday we've been to the [zoo](http://www.zoo.ch/) in zurich, mostly to see the [masaola](http://www.zoo.ch/Masoala.967.0.html)-hall (which was really impressive).
   

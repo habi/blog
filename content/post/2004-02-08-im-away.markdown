@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-08T20:22:50Z
+date: 2004-02-08 20:22:50+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/08/im-away/
 slug: im-away
 title: i'm away!
-url: /2004/02/08/im-away/
 wordpress_id: 438
+categories:
+- none
 ---
 
 i'm gonna be in [oberwald](http://www.obergoms.ch/2index.html) for the whole next week, a teacher-friend of my sister is in charge of a skiweek with her pupils. she an her boyfriend, my sister, her boyfriend, sigi and me are gonna try to tame 21 14-year-old pupils.

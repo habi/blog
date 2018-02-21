@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- apple
-- gadgets and gizmos
 comments: true
-date: 2004-06-07T20:37:28Z
+date: 2004-06-07 20:37:28+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/07/new-apple-gadget/
 slug: new-apple-gadget
 title: new apple gadget
-url: /2004/06/07/new-apple-gadget/
 wordpress_id: 550
+categories:
+- apple
+- gadgets and gizmos
 ---
 
 i seem to be chewing up posts from other blogs tonight, but this is just too cool.

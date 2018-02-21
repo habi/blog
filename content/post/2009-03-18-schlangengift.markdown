@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-03-18T17:37:57Z
+date: 2009-03-18 17:37:57+00:00
+layout: post
 link: http://habi.gna.ch/2009/03/18/schlangengift/
 slug: schlangengift
 title: Schlangengift?
-url: /2009/03/18/schlangengift/
 wordpress_id: 1682
+categories:
+- personal
 ---
 
-[![](http://farm4.static.flickr.com/3140/3366037912_6f8fda22dd_m.jpg)](http://www.flickr.com/photos/habi/3366037912/)
+
+ [![](http://farm4.static.flickr.com/3140/3366037912_6f8fda22dd_m.jpg)](http://www.flickr.com/photos/habi/3366037912/)
    
 
  

@@ -1,22 +1,22 @@
 ---
 author: admin
+comments: true
+date: 2017-01-04 21:43:35+00:00
+layout: post
+link: http://habi.gna.ch/2017/01/04/2016-in-bildern/
+slug: 2016-in-bildern
+title: 2016 in Bildern
+wordpress_id: 4928
 categories:
 - personal
 - photos
 - pictures
-comments: true
-date: 2017-01-04T21:43:35Z
-link: http://habi.gna.ch/2017/01/04/2016-in-bildern/
-slug: 2016-in-bildern
 tags:
 - fotos
 - gallery
 - jahresrückblick
 - jahresrückblick16
 - photos
-title: 2016 in Bildern
-url: /2017/01/04/2016-in-bildern/
-wordpress_id: 4928
 ---
 
 Hier einer weiterer Post zum Rückblick aufs 2016. Die anderen sind unter dem Tag [`jahresrückblick16`](http://habi.gna.ch/tag/jahresruckblick16) zu finden.

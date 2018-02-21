@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2013-11-22T15:54:16Z
+date: 2013-11-22 15:54:16+00:00
+layout: post
 link: http://habi.gna.ch/2013/11/22/kurzkritik-linotype-the-film/
 slug: kurzkritik-linotype-the-film
+title: 'Kurzkritik: Linotype: The Film'
+wordpress_id: 3257
+categories:
+- personal
 tags:
 - kritik
 - kurzkritik
 - linotype
 - typographie
-title: 'Kurzkritik: Linotype: The Film'
-url: /2013/11/22/kurzkritik-linotype-the-film/
-wordpress_id: 3257
 ---
 
 Ebenfalls im Flugzeug zurück aus den Ferien gesehen; ein wunderschöner, ruhiger und sehenswerter Film über ein faszinierendes und mittlerweile extrem obsoletes Stück Ingenieursgeschichte.

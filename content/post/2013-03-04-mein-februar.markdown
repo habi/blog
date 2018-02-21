@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2013-03-04T21:16:17Z
+date: 2013-03-04 21:16:17+00:00
+layout: post
 link: http://habi.gna.ch/2013/03/04/mein-februar/
 slug: mein-februar
+title: Mein Februar
+wordpress_id: 3037
+categories:
+- personal
 tags:
 - 1se
 - movie
 - one second everyday
-title: Mein Februar
-url: /2013/03/04/mein-februar/
-wordpress_id: 3037
 ---
 
 Genau wie [im Januar](http://habi.gna.ch/2013/02/01/mein-januar/) habe ich im letzten Monat (fast) jeden Tag einen Videoschnipsel generiert und am Ende des Februars davon mit der [One Second Everyday App](http://1secondeveryday.com) je eine Sekunde zu einem Film kondensiert.

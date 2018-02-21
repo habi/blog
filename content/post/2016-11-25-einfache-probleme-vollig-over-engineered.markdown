@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2016-11-25 22:47:14+00:00
+layout: post
+link: http://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/
+slug: einfache-probleme-vollig-over-engineered
+title: Einfache Probleme, völlig over-engineered
+wordpress_id: 4786
 categories:
 - personal
 - technospeak
-comments: true
-date: 2016-11-25T22:47:14Z
-link: http://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/
-slug: einfache-probleme-vollig-over-engineered
 tags:
 - 3dprint
 - marokko
 - work
-title: Einfache Probleme, völlig over-engineered
-url: /2016/11/25/einfache-probleme-vollig-over-engineered/
-wordpress_id: 4786
 ---
 
 Ich weiss, ich hab' schon lange versprochen, ich schreibe mal über meine neue Arbeit. Was ich letzte Woche mal so nebenbei gemacht habe, gibt mir die Gelegenheit dazu. 3 Dinge kommen zusammen, die diesen Blog-Eintrag ausmachen: Die neue Arbeit, 3D-Drucker und ein Flug zurück von Marokko.

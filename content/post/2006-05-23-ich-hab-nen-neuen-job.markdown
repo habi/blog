@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- tschörman
 comments: true
-date: 2006-05-23T19:33:04Z
+date: 2006-05-23 19:33:04+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/23/ich-hab-nen-neuen-job/
 slug: ich-hab-nen-neuen-job
 title: ich hab 'nen neuen job!
-url: /2006/05/23/ich-hab-nen-neuen-job/
 wordpress_id: 183
+categories:
+- personal
+- tschörman
 ---
+
 
 seit zwei wochen, weiss ich, dass ich meine [drohung](http://habi.gna.ch/blog/archives/000756.html) wahr machen werde.
 

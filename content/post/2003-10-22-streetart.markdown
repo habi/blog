@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-22T22:47:24Z
+date: 2003-10-22 22:47:24+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/23/streetart/
 slug: streetart
 title: streetart
-url: /2003/10/22/streetart/
 wordpress_id: 321
+categories:
+- none
 ---
 
 [boah!](http://streetart.antville.org/).

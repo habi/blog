@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- fun
-- pictures
 comments: true
-date: 2005-05-19T17:25:20Z
+date: 2005-05-19 17:25:20+00:00
+layout: post
 link: http://habi.gna.ch/2005/05/19/huh/
 slug: huh
 title: huh?
-url: /2005/05/19/huh/
 wordpress_id: 9
+categories:
+- fun
+- pictures
 ---
+
 
 [![](http://photos11.flickr.com/14388252_ab004a0e20_m.jpg)](http://www.flickr.com/photos/lysdexia/14388252/)[
   

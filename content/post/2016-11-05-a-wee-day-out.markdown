@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2016-11-05T22:56:49Z
+date: 2016-11-05 22:56:49+00:00
+layout: post
 link: http://habi.gna.ch/2016/11/05/a-wee-day-out/
 slug: a-wee-day-out
 title: A wee day out
-url: /2016/11/05/a-wee-day-out/
 wordpress_id: 4719
+categories:
+- personal
 ---
 
 [Danny MacAskill](http://habi.gna.ch/?s=askill) hat einen Tag frei und macht ein kleines Fährtli. Wer bis ganz zum Schluss durchhält, sieht dass es nicht immer ganz so flüssig geht wie es im Video aussieht...

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-28T16:56:51Z
+date: 2003-10-28 16:56:51+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/28/hebeisen-erklrt-die-welt/
 slug: hebeisen-erklrt-die-welt
 title: Hebeisen erklärt die Welt
-url: /2003/10/28/hebeisen-erklrt-die-welt/
 wordpress_id: 327
+categories:
+- none
 ---
 
 fur einmal auf Deutsch :-)

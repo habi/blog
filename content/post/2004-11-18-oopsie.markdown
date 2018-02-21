@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-11-18T20:34:25Z
+date: 2004-11-18 20:34:25+00:00
+layout: post
 link: http://habi.gna.ch/2004/11/18/oopsie/
 slug: oopsie
 title: oopsie!
-url: /2004/11/18/oopsie/
 wordpress_id: 676
+categories:
+- none
 ---
+
 
 [this](http://zattevrienden.realroot.be/depanneren.htm) is by far the funniest set of pictures i've seen in a loong time!
 

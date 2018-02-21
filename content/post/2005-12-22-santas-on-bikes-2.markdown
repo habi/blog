@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- moblog
 comments: true
-date: 2005-12-22T20:50:11Z
+date: 2005-12-22 20:50:11+00:00
+layout: post
 link: http://habi.gna.ch/2005/12/22/santas-on-bikes-2/
 slug: santas-on-bikes-2
 title: santas on bikes
-url: /2005/12/22/santas-on-bikes-2/
 wordpress_id: 115
+categories:
+- moblog
 ---
 
-[![](http://static.flickr.com/6/76366525_f8c484972c_m.jpg)](http://www.flickr.com/photos/habi/76366525/)
+
+ [![](http://static.flickr.com/6/76366525_f8c484972c_m.jpg)](http://www.flickr.com/photos/habi/76366525/)
    
 
  

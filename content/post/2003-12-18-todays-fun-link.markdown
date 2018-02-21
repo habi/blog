@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-12-18T20:00:29Z
+date: 2003-12-18 20:00:29+00:00
+layout: post
 link: http://habi.gna.ch/2003/12/18/todays-fun-link/
 slug: todays-fun-link
 title: todays fun link
-url: /2003/12/18/todays-fun-link/
 wordpress_id: 382
+categories:
+- none
 ---
 
 it's been a while since i posted a funny link, so here's the one that also fits into holiday season: [how far can you throw santa](http://www.gloeckner-nbg.de/spiel/weihnachtsmann.htm)?

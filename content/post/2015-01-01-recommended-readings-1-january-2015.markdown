@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2015-01-01T20:00:56Z
+date: 2015-01-01 20:00:56+00:00
+layout: post
 link: http://habi.gna.ch/2015/01/01/recommended-readings-1-january-2015/
 slug: recommended-readings-1-january-2015
+title: 'Recommended readings: 1. January 2015'
+wordpress_id: 3733
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 1. January 2015'
-url: /2015/01/01/recommended-readings-1-january-2015/
-wordpress_id: 3733
 ---
 
 Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:

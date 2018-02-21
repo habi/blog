@@ -1,23 +1,23 @@
 ---
 author: admin
+comments: true
+date: 2008-08-09 15:36:26+00:00
+layout: post
+link: http://habi.gna.ch/2008/08/09/ein-halber-ferientag/
+slug: ein-halber-ferientag
+title: ein halber ferientag [with map]
+wordpress_id: 1335
 categories:
 - bike
 - gps
 - personal
 - tschörman
-comments: true
-date: 2008-08-09T15:36:26Z
-link: http://habi.gna.ch/2008/08/09/ein-halber-ferientag/
-slug: ein-halber-ferientag
 tags:
 - bern
 - bike
 - gps
 - lang:de
 - messenger
-title: ein halber ferientag [with map]
-url: /2008/08/09/ein-halber-ferientag/
-wordpress_id: 1335
 ---
 
 trotz langen ferien in kanada und relativ viel zu tun im zusammenhang mit arbeiten abgeben, findet sich noch die eine oder andere möglichkeit, mal einen nachmittag frei zu nehmen, um auch ein bisschen den kopf zu lüften. diese woche ergab sich am donnerstag eine solche gelegenheit, ich bin wieder mal eine kurier-schicht gefahren und ich konnte dann auch relativ gut lüften. [pia](http://flickr.com/photos/habi/tags/pia) hat mich grad zweimal nach niederwangen geschickt, das tracklog des (knapp) 70km-nachmittages sieht so aus:

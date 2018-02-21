@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-05-08T18:25:05Z
+date: 2006-05-08 18:25:05+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/08/theyre-made-out-of-meat-update/
 slug: theyre-made-out-of-meat-update
 title: they're made out of meat! [update]
-url: /2006/05/08/theyre-made-out-of-meat-update/
 wordpress_id: 172
+categories:
+- linkdump
 ---
+
 
 [they're made out of meat](http://www.youtube.com/watch?v=V-NAvPzdjj0) is a short-film adaptation of nebula award winner [terry bissons](http://www.terrybisson.com/) story about [two extraterrestrials having a funny and also a bit gross talk](http://www.terrybisson.com/meat.html) in restaurant at the end of the universe (or was that another story).
 

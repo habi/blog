@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-08-04T12:26:52Z
+date: 2004-08-04 12:26:52+00:00
+layout: post
 link: http://habi.gna.ch/2004/08/04/rachel-in-the-news/
 slug: rachel-in-the-news
 title: rachel in the news
-url: /2004/08/04/rachel-in-the-news/
 wordpress_id: 595
+categories:
+- none
 ---
 
 rachel from the velokurier bern has won [the european messenger championships](http://www.ecmc2004.org/) in poland.

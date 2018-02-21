@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2011-05-15 14:01:50+00:00
+layout: post
+link: http://habi.gna.ch/2011/05/15/grand-prix-von-bern-2011/
+slug: grand-prix-von-bern-2011
+title: Grand-Prix von Bern 2011
+wordpress_id: 2491
 categories:
 - pictures
 - switzerland
 - tschörman
-comments: true
-date: 2011-05-15T14:01:50Z
-link: http://habi.gna.ch/2011/05/15/grand-prix-von-bern-2011/
-slug: grand-prix-von-bern-2011
 tags:
 - bundesplatz
 - gpbern
 - grand-prix von bern
-title: Grand-Prix von Bern 2011
-url: /2011/05/15/grand-prix-von-bern-2011/
-wordpress_id: 2491
 ---
 
 Wie schon [anderswo](http://hymnos.existenz.ch/2011/05/13/das-anstrengendste-am-gp/#comments) angekundigt, konnte ich wegen Knie-Aua gestern leider den [Grand-Prix von Bern](http://gpbern.ch/) nicht rennen. Ich wollte es mir aber nicht nehmen lassen, die Stimmung zu geniessen und habe an der Ecke Zibelegassli/Kramgasse dem ganzen Feld zugeschaut. Dabei herausgekommen ist das unten eingebundene Zeitraffer-Video:

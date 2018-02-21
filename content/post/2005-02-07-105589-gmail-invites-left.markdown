@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: false
-date: 2005-02-07T13:26:34Z
+date: 2005-02-07 13:26:34+00:00
+layout: post
 link: http://habi.gna.ch/2005/02/07/105589-gmail-invites-left/
 slug: 105589-gmail-invites-left
 title: 105589 gmail invites left
-url: /2005/02/07/105589-gmail-invites-left/
 wordpress_id: 732
+categories:
+- none
 ---
+
 
 i've got 50 [gmail](http://gmail.google.com) invites left to spare.
   

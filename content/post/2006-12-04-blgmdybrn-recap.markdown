@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2006-12-04 20:34:13+00:00
+layout: post
+link: http://habi.gna.ch/2006/12/04/blgmdybrn-recap/
+slug: blgmdybrn-recap
+title: BLGMDYBRN recap
+wordpress_id: 827
 categories:
 - linkdump
 - meetings
 - personal
 - tschörman
-comments: true
-date: 2006-12-04T20:34:13Z
-link: http://habi.gna.ch/2006/12/04/blgmdybrn-recap/
-slug: blgmdybrn-recap
-title: BLGMDYBRN recap
-url: /2006/12/04/blgmdybrn-recap/
-wordpress_id: 827
 ---
 
 wiederum haben sich ein paar der berner alphageeks getroffen, und einer hat mit seinen wlan gadgets abgeräumt. leu, der preis für den gadgetigsten blogger geht an dich. mal schauen, was wir anderen bis zum nächsten mal auftreiben können.

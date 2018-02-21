@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-23T20:32:05Z
+date: 2004-03-23 20:32:05+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/23/viruses-and-trojans-are-coming/
 slug: viruses-and-trojans-are-coming
 title: viruses and trojans are coming
-url: /2004/03/23/viruses-and-trojans-are-coming/
 wordpress_id: 476
+categories:
+- none
 ---
 
 in the current [weltwoche](http://www.weltwoche.ch/)* there's an [article](http://www.weltwoche.ch/artikel/?AssetID=7248&CategoryID=60) about hackers and coders which was not too bad (although a bit pop-science).

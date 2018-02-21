@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-10-21T20:49:01Z
+date: 2010-10-21 20:49:01+00:00
+layout: post
 link: http://habi.gna.ch/2010/10/21/tedxzurich-rckblick-quasi-liveblogging/
 slug: tedxzurich-rckblick-quasi-liveblogging
+title: 'TEDxZurich: Rückblick (quasi Liveblogging) [update]'
+wordpress_id: 2249
+categories:
+- personal
 tags:
 - talks
 - tedx
 - tedxzurich
 - zuric
-title: 'TEDxZurich: Rückblick (quasi Liveblogging) [update]'
-url: /2010/10/21/tedxzurich-rckblick-quasi-liveblogging/
-wordpress_id: 2249
 ---
 
 Gestern hat in Zurich die [TED](http://www.ted.com/)-[Satellitenkonferenz](http://www.ted.com/pages/view?id=343) [TEDxZurich](http://tedxzurich.com/) stattgefunden, ich habe die Ehre gehabt, als einer von ca. 200 Teilnehmern dabeizusein und einige inspirierende Vortrage zu horen. Ich habe (ausser dem Telefon und der Kamera) bewusst jede Konnektivitat zuhause gelassen, um nicht in die Versuchung zu kommen, wahrend den Vortragen live irgendwelchen Brimborium abzusondern, stattdessen wollte ich mich moglichst ganz auf die Vortrage konzentrieren [1]. Wie Kusito namlich korrekt bemerkte, gab es schon zuviele, die ihre Multitasking-fahigkeiten etwas gar stark ausreizten:

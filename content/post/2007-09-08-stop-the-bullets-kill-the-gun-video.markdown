@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- linkdump
-- memes
 comments: true
-date: 2007-09-08T09:49:51Z
+date: 2007-09-08 09:49:51+00:00
+layout: post
 link: http://habi.gna.ch/2007/09/08/stop-the-bullets-kill-the-gun-video/
 slug: stop-the-bullets-kill-the-gun-video
 title: Stop the bullets.  Kill the gun [video]
-url: /2007/09/08/stop-the-bullets-kill-the-gun-video/
 wordpress_id: 1014
+categories:
+- linkdump
+- memes
 ---
 
 **Stop the bullets. Kill the gun**

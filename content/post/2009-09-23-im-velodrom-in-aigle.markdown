@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- bike
 comments: true
-date: 2009-09-23T21:07:02Z
+date: 2009-09-23 21:07:02+00:00
+layout: post
 link: http://habi.gna.ch/2009/09/23/im-velodrom-in-aigle/
 slug: im-velodrom-in-aigle
+title: im velodrom in aigle
+wordpress_id: 1916
+categories:
+- bike
 tags:
 - bike
 - velocontent
-title: im velodrom in aigle
-url: /2009/09/23/im-velodrom-in-aigle/
-wordpress_id: 1916
 ---
 
 so ein bisschen zum geburtstag habe ich mir einen abend mit freunden im [velodrome in aigle](http://www.cmc-aigle.ch/) geschenkt. das heisst, ich habe dort eine sogenannte "iniation a la piste" organisiert, und wir wurden in das bahnfahren eingeführt.

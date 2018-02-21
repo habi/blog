@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-10-26T10:05:48Z
+date: 2009-10-26 10:05:48+00:00
+layout: post
 link: http://habi.gna.ch/2009/10/26/so-sollten-montage-immer-sein/
 slug: so-sollten-montage-immer-sein
 title: So sollten Montage immer sein
-url: /2009/10/26/so-sollten-montage-immer-sein/
 wordpress_id: 1948
+categories:
+- personal
 ---
 
-[![](http://farm3.static.flickr.com/2444/4045554961_465a0efa5e_m.jpg)](http://www.flickr.com/photos/habi/4045554961/)
+
+ [![](http://farm3.static.flickr.com/2444/4045554961_465a0efa5e_m.jpg)](http://www.flickr.com/photos/habi/4045554961/)
    
 
  

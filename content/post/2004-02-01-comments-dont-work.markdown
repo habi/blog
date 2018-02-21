@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-01T21:03:00Z
+date: 2004-02-01 21:03:00+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/01/comments-dont-work/
 slug: comments-dont-work
 title: comments don't work
-url: /2004/02/01/comments-dont-work/
 wordpress_id: 429
+categories:
+- none
 ---
 
 i know the comments don't work at all.

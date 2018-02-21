@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-24T16:15:09Z
+date: 2003-10-24 16:15:09+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/24/today-was-fun/
 slug: today-was-fun
 title: today was fun.
-url: /2003/10/24/today-was-fun/
 wordpress_id: 323
+categories:
+- none
 ---
 
 [renzo](http://habi.gna.ch/pics/AlleycatBern03/Pages/10.html) and me drove a shift with his tandem. it was fun.

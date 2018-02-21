@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: false
-date: 2004-02-03T11:22:12Z
+date: 2004-02-03 11:22:12+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/03/new-feature-on-this-blog/
 slug: new-feature-on-this-blog
 title: new feature on this blog
-url: /2004/02/03/new-feature-on-this-blog/
 wordpress_id: 432
+categories:
+- none
 ---
 
 if you look in the sidebar then you see a new feature: "last comments".

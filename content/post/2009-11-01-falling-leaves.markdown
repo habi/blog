@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2009-11-01 19:19:48+00:00
+layout: post
+link: http://habi.gna.ch/2009/11/01/falling-leaves/
+slug: falling-leaves
+title: falling leaves
+wordpress_id: 1953
 categories:
 - diving
 - gadgets and gizmos
 - personal
 - switzerland
-comments: true
-date: 2009-11-01T19:19:48Z
-link: http://habi.gna.ch/2009/11/01/falling-leaves/
-slug: falling-leaves
 tags:
 - diving
 - thunersee
-title: falling leaves
-url: /2009/11/01/falling-leaves/
-wordpress_id: 1953
 ---
 
 ich mag ihn, den herbst.

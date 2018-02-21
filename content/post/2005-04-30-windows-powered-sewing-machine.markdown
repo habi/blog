@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2005-04-30T16:36:42Z
+date: 2005-04-30 16:36:42+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/30/windows-powered-sewing-machine/
 slug: windows-powered-sewing-machine
 title: windows powered sewing-machine
-url: /2005/04/30/windows-powered-sewing-machine/
 wordpress_id: 779
+categories:
+- none
 ---
 
 [![windows powered sewing-machine](http://photos10.flickr.com/11622233_556db06e8d_m.jpg)](http://www.flickr.com/photos/habi/11622233/)

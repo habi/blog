@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- pictures
 comments: true
-date: 2012-11-30T22:44:00Z
+date: 2012-11-30 22:44:00+00:00
+layout: post
 link: http://habi.gna.ch/2012/12/01/mein-foto-fur-die-nzz/
 slug: mein-foto-fur-die-nzz
+title: Mein Foto für die NZZ
+wordpress_id: 2968
+categories:
+- pictures
 tags:
 - creativecommons
 - eiffelturm
 - paris
 - wettbewerb
-title: Mein Foto für die NZZ
-url: /2012/11/30/mein-foto-fur-die-nzz/
-wordpress_id: 2968
 ---
 
 Bevor ich letzte Woche in die Kurz-Ferien nach Istanbul fuhr [1], bekam ich ein Mail der Kommunikationsdesign-Abteilung der NZZ, in dem mir mitgeteilt wurde, dass ein Foto von mir ([vom Eiffelturm](http://www.flickr.com/photos/habi/7945870724/), als Grundlage für [dieses Foto](http://www.flickr.com/photos/habi/7945830394/)) für eine Wettbewerbskarte verwendet wurde.

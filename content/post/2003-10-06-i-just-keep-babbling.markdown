@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-06T18:34:01Z
+date: 2003-10-06 18:34:01+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/06/i-just-keep-babbling/
 slug: i-just-keep-babbling
 title: i just keep babbling
-url: /2003/10/06/i-just-keep-babbling/
 wordpress_id: 296
+categories:
+- none
 ---
 
 today [Renzo](http://habi.gna.ch/pics/SUICMC03/Pages/25.html) gave me his [MemoryStick](http://www.memorystick.com/en/) with the pictures he made in luzern this saturday (he owns exactly the same camera a I do, funnily enough).

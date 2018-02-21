@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-20T22:06:24Z
+date: 2004-06-20 22:06:24+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/21/body-modifications-in-the-weltwoche/
 slug: body-modifications-in-the-weltwoche
 title: body modifications in the weltwoche
-url: /2004/06/20/body-modifications-in-the-weltwoche/
 wordpress_id: 561
+categories:
+- none
 ---
 
 if i could be bothered to actually write a letter to the editor i would, because [that article](http://www.weltwoche.ch/artikel/?AssetID=7899&CategoryID=66) in one of the last weltwoche's is absolutely crummy!

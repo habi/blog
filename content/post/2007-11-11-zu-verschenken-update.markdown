@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-11-11 21:54:55+00:00
+layout: post
+link: http://habi.gna.ch/2007/11/11/zu-verschenken-update/
+slug: zu-verschenken-update
+title: zu verschenken [update]
+wordpress_id: 1075
 categories:
 - gadgets and gizmos
 - personal
 - tschörman
-comments: true
-date: 2007-11-11T21:54:55Z
-link: http://habi.gna.ch/2007/11/11/zu-verschenken-update/
-slug: zu-verschenken-update
-title: zu verschenken [update]
-url: /2007/11/11/zu-verschenken-update/
-wordpress_id: 1075
 ---
 
 [![Img 0024](http://habi.gna.ch/wp-content/uploads/2007/11/img-0024-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/11/img-0024.jpg)es ist soweit! ab ersten dezember wohne ich zusammen mit nina anderweitig in bern.

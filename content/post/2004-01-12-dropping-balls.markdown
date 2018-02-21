@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-12T22:28:07Z
+date: 2004-01-12 22:28:07+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/13/dropping-balls/
 slug: dropping-balls
 title: dropping balls
-url: /2004/01/12/dropping-balls/
 wordpress_id: 403
+categories:
+- none
 ---
 
 perfect for just a tad after midnight: [balldroppings](http://www.jtnimoy.com/itp/balldroppings/), a hard to describe piece of software (available for windows and os x)

@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- switzerland
 comments: true
-date: 2010-09-24T15:15:17Z
+date: 2010-09-24 15:15:17+00:00
+layout: post
 link: http://habi.gna.ch/2010/09/24/reitschule-bietet-mehr/
 slug: reitschule-bietet-mehr
+title: Reitschule bietet mehr! [update]
+wordpress_id: 2221
+categories:
+- switzerland
 tags:
 - bern
 - reitschule
-title: Reitschule bietet mehr! [update]
-url: /2010/09/24/reitschule-bietet-mehr/
-wordpress_id: 2221
 ---
 
 Einfach, damit es hier auch noch gesagt ist: Fur ein 5:0 am 26. September legst du am Sonntag am besten ein NEIN! in die Urne.

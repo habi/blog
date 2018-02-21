@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-20T19:59:21Z
+date: 2004-01-20 19:59:21+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/20/learn-to-dance-really-radical/
 slug: learn-to-dance-really-radical
 title: learn to dance really radical
-url: /2004/01/20/learn-to-dance-really-radical/
 wordpress_id: 409
+categories:
+- none
 ---
 
 [boinboing's link-fu-competition](http://boingboing.net/2004_01_01_archive.html#107461898444256062) is always a plethora of really weird stuff, but this one blows it all!  

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-14T21:30:21Z
+date: 2004-06-14 21:30:21+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/14/new-software-mailappetizer/
 slug: new-software-mailappetizer
 title: 'new software: mail.appetizer'
-url: /2004/06/14/new-software-mailappetizer/
 wordpress_id: 558
+categories:
+- none
 ---
 
 [![screenshot_large](http://habi.gna.ch/blog/images/screenshot_large-tm.jpg)](http://habi.gna.ch/blog/images/screenshot_large.png)[leo's fscklog](http://fscklog.typepad.com/fsck/) is always a good place to discover new software (sometimes i wonder where he takes the time to fill all his [MacOrama's](http://fscklog.typepad.com/fsck/2004/06/macorama_fr_den_9.html) with interesting news).

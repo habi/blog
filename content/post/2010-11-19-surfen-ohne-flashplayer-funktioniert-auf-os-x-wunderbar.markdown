@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2010-11-19T09:20:43Z
+date: 2010-11-19 09:20:43+00:00
+layout: post
 link: http://habi.gna.ch/2010/11/19/surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar/
 slug: surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar
+title: Surfen ohne Flashplayer funktioniert auf OS X wunderbar
+wordpress_id: 2294
+categories:
+- technospeak
 tags:
 - flash
 - html5
 - vimeo
 - youtube
-title: Surfen ohne Flashplayer funktioniert auf OS X wunderbar
-url: /2010/11/19/surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar/
-wordpress_id: 2294
 ---
 
 Seit der Neuvorstellung des MacBook Airs vor ein paar Wochen ist mir aufgefallen, dass die neuen Laptops von Apple zwar mit [Flash](http://en.wikipedia.org/wiki/Flash_memory), aber ohne [Flash](http://en.wikipedia.org/wiki/Adobe_Flash) ausgeliefert werden. In den Hintergrundberichten dazu war zu lesen, dass dies unter anderem wohl aus softwarepolitischen Überlegungen gemacht wurde, wichtiger ist aber, dass die Laptops dadurch im Surf-Betrieb stabiler und stromsparender laufen, da der Flash Player prozessorintensiv und nicht ganz fehlerfrei programmiert ist. Schon seit sehr langer Zeit surfte ich mit [ClickToFlash](http://clicktoflash.com/) durch die Weiten des Internetzes, um dem Problem entgegenzuwirken. Dieses Plugin verhinderte aber nicht, dass der Flash Player im Hintergrund trotzdem geladen wird und Speicher sowie Prozessorzeit verbraucht.

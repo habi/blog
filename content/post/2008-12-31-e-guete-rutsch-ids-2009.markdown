@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2008-12-31 20:09:43+00:00
+layout: post
+link: http://habi.gna.ch/2008/12/31/e-guete-rutsch-ids-2009/
+slug: e-guete-rutsch-ids-2009
+title: e guete rutsch ids 2009!
+wordpress_id: 1606
 categories:
 - picture of the week
 - tschörman
-comments: true
-date: 2008-12-31T20:09:43Z
-link: http://habi.gna.ch/2008/12/31/e-guete-rutsch-ids-2009/
-slug: e-guete-rutsch-ids-2009
 tags:
-- "2009"
+- '2009'
 - es guets nÃ¶is
 - happy new year
-title: e guete rutsch ids 2009!
-url: /2008/12/31/e-guete-rutsch-ids-2009/
-wordpress_id: 1606
 ---
 
 für alle, die das foto nicht altmodisch per post bekommen haben, hier elektronisch: es guets nöis!

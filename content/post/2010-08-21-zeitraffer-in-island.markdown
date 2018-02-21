@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- pictures
 comments: true
-date: 2010-08-21T12:27:42Z
+date: 2010-08-21 12:27:42+00:00
+layout: post
 link: http://habi.gna.ch/2010/08/21/zeitraffer-in-island/
 slug: zeitraffer-in-island
 title: Zeitraffer in Island
-url: /2010/08/21/zeitraffer-in-island/
 wordpress_id: 2188
+categories:
+- pictures
 ---
 
 In Island habe ich nicht nur [normale fotos](http://www.flickr.com/photos/habi/sets/72157624746373110/show), sondern mit meinem [intervalometer](http://permanenttourist.ch/articles/2010/07/fun-with-timelapse-photography/#comments) auch verschiedene zeitrafferfilme gemacht.

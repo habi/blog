@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- music
-- personal
 comments: true
-date: 2007-04-21T13:26:33Z
+date: 2007-04-21 13:26:33+00:00
+layout: post
 link: http://habi.gna.ch/2007/04/21/filewile-nassau-massage/
 slug: filewile-nassau-massage
 title: filewile - nassau massage
-url: /2007/04/21/filewile-nassau-massage/
 wordpress_id: 924
+categories:
+- music
+- personal
 ---
 
 [![Filewile-Nassau-Massage](http://habi.gna.ch/wp-content/uploads/2007/04/filewile-nassau-massage-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/04/filewile-nassau-massage.jpg)andi and dänu aka [filewile](http://filewile.com/) released their second album called nassau massage (press release in [english](http://filewile.com/media/press/nassau_massage/INFO_MWCD003_E.pdf) or [german](http://filewile.com/media/press/nassau_massage/INFO_MWCD003_D.pdf)).

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-26T21:27:44Z
+date: 2004-09-26 21:27:44+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/26/picture-of-the-week-40-update/
 slug: picture-of-the-week-40-update
 title: picture of the week 40 [update]
-url: /2004/09/26/picture-of-the-week-40-update/
 wordpress_id: 628
+categories:
+- none
 ---
 
 my plan for yesterday was to go and see [freestyle.ch](http://www.freestyle.ch/freestyle2004) with [sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html), but since the [snowramp collapsed](http://www.freestyle.ch/freestyle2004/alert.php), the whole event was blown off (see a tiny pic [here](http://www.freestyle.ch/freestyle2004/mag_content/rampe.jpg)).

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
-- picture of the week
 comments: true
-date: 2005-01-02T14:37:27Z
+date: 2005-01-02 14:37:27+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/02/picture-of-the-week-00/
 slug: picture-of-the-week-00
 title: picture of the week 00
-url: /2005/01/02/picture-of-the-week-00/
 wordpress_id: 707
+categories:
+- gadgets and gizmos
+- picture of the week
 ---
+
 
 i wanted to (digitally) record the [ibrahim ferrer show](http://www.drs.ch/drsonline/gbgateinvoker.cfm?gbAction=drsContentFulldisplaySearchR&ObjectID=3A705107-CC18-4EEC-9E0B3D56FCD54DC1) that drs3 aired last thursday evening so the post about [enabling your ipod to record anything on hackaday](http://www.hackaday.com/entry/1234000147025394/) came just right. but after installing linux on my first-generation ipod  (see [here](http://www.dieselsweeties.com/shirts/index2.shtml)) with the extremely painless [ipodlinux installer](http://ipodlinuxinstl.sourceforge.net/) i could not get it to record more than 5 second snippets (but played some [games](http://www.ipodlinux.org/index.php/Screenshots) on it...) so i figured out an easier way. i started the live-stream of [drs3](http://www.drs.ch/indexdrs3.html) and used [wiretap](http://www.ambrosiasw.com/utilities/wiretap/)1 to record the concert. nonetheless i've now got two working operating systems on my ipod.
 

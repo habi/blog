@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2013-06-11T18:17:08Z
+date: 2013-06-11 18:17:08+00:00
+layout: post
 link: http://habi.gna.ch/2013/06/11/prism-surveillance-program-wikipedia-the-free-encyclopedia/
 slug: prism-surveillance-program-wikipedia-the-free-encyclopedia
 title: PRISM
-url: /2013/06/11/prism-surveillance-program-wikipedia-the-free-encyclopedia/
 wordpress_id: 3121
+categories:
+- personal
 ---
 
 [![PRISM (surveillance program) - Wikipedia, the free encyclopedia by habi](http://farm8.staticflickr.com/7428/9018667836_60a9bebd72.jpg)](http://www.flickr.com/photos/habi/9018667836/)  

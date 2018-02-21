@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- movies
 comments: true
-date: 2013-02-01T07:32:21Z
+date: 2013-02-01 07:32:21+00:00
+layout: post
 link: http://habi.gna.ch/2013/02/01/mein-januar/
 slug: mein-januar
+title: Mein Januar
+wordpress_id: 3026
+categories:
+- movies
 tags:
 - 1se
 - movies
 - one second everyday
-title: Mein Januar
-url: /2013/02/01/mein-januar/
-wordpress_id: 3026
 ---
 
 Mitte Dezember habe ich auf Kickstarter die [1 Second Everyday App](http://www.kickstarter.com/projects/cesarkuriyama/1-second-everyday-app) mit einem Füfliber unterstützt.

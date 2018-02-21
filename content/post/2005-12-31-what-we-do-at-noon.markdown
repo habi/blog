@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- pictures
 comments: true
-date: 2005-12-31T10:52:41Z
+date: 2005-12-31 10:52:41+00:00
+layout: post
 link: http://habi.gna.ch/2005/12/31/what-we-do-at-noon/
 slug: what-we-do-at-noon
 title: what we do at noon
-url: /2005/12/31/what-we-do-at-noon/
 wordpress_id: 118
+categories:
+- pictures
 ---
+
 
 yesterday - the last workday in 2005 - kude [1] made lunch for us. the perfect messenger-lunch with lots of carbohydrates (bread) and fat (cheeeeeese). fondue [2].
   

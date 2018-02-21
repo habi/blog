@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-03T17:57:26Z
+date: 2004-10-03 17:57:26+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/03/pictures-of-the-week-41/
 slug: pictures-of-the-week-41
 title: pictures of the week 41
-url: /2004/10/03/pictures-of-the-week-41/
 wordpress_id: 634
+categories:
+- none
 ---
 
 the suicmc04 is over. now i've got to see that i don't fall into a post-evental depression.

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-09-02T21:41:31Z
+date: 2003-09-02 21:41:31+00:00
+layout: post
 link: http://habi.gna.ch/2003/09/02/a-warm-welcome-back/
 slug: a-warm-welcome-back
 title: a warm welcome back :-)
-url: /2003/09/02/a-warm-welcome-back/
 wordpress_id: 268
+categories:
+- none
 ---
 
 when i came home from the [european masters championship](http://www.ffnatation.org/events/mtr_millau_2003/millau.php?idlng=gbr&idrub=new) i started up my trusty ibook to read the mails which came in through the week.

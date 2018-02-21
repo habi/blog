@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2011-10-08 14:41:54+00:00
+layout: post
+link: http://habi.gna.ch/2011/10/08/national-und-standeratswahlen-2011/
+slug: national-und-standeratswahlen-2011
+title: National- und Ständeratswahlen 2011
+wordpress_id: 2583
 categories:
 - gadgets and gizmos
 - personal
 - switzerland
-comments: true
-date: 2011-10-08T14:41:54Z
-link: http://habi.gna.ch/2011/10/08/national-und-standeratswahlen-2011/
-slug: national-und-standeratswahlen-2011
-title: National- und Ständeratswahlen 2011
-url: /2011/10/08/national-und-standeratswahlen-2011/
-wordpress_id: 2583
 ---
 
 Bürgerpflichten rufen!

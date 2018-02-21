@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2013-05-02T22:04:04Z
+date: 2013-05-02 22:04:04+00:00
+layout: post
 link: http://habi.gna.ch/2013/05/03/atom-film/
 slug: atom-film
+title: Atom-Film
+wordpress_id: 3100
+categories:
+- technospeak
 tags:
 - atoms
 - ibm
 - science
-title: Atom-Film
-url: /2013/05/02/atom-film/
-wordpress_id: 3100
 ---
 
 Forscher von IBM haben mit einem [Rasterkraftmikroskop](http://de.wikipedia.org/wiki/Rasterkraftmikroskop) einige Atome auf einer Oberfläche rumbewegt, um den kleinsten Film der Welt zu machen.

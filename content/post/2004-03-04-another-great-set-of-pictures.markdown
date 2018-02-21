@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-04T09:35:58Z
+date: 2004-03-04 09:35:58+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/04/another-great-set-of-pictures/
 slug: another-great-set-of-pictures
 title: another great set of pictures
-url: /2004/03/04/another-great-set-of-pictures/
 wordpress_id: 454
+categories:
+- none
 ---
 
 [loretta lux](http://www.yossimilogallery.com/lorettaLux/) photographs kids, scans their subjects and places them on a separate background which results in quite eerie pictures. most of the kids seem to be generated through cgi, but it's all the real thing.

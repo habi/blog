@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2006-05-01 17:22:03+00:00
+layout: post
+link: http://habi.gna.ch/2006/05/01/picture-of-the-week-17/
+slug: picture-of-the-week-17
+title: picture of the week 17
+wordpress_id: 163
 categories:
 - personal
 - picture of the week
 - pictures
-comments: true
-date: 2006-05-01T17:22:03Z
-link: http://habi.gna.ch/2006/05/01/picture-of-the-week-17/
-slug: picture-of-the-week-17
-title: picture of the week 17
-url: /2006/05/01/picture-of-the-week-17/
-wordpress_id: 163
 ---
+
 
 this weekend the 21st berner renntage have been carried out at the [klosterlistutz](http://map.search.ch/3006-bern/kloesterlistutz?x=-4&y=-72&z=1024).
   

@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2005-01-12T21:24:42Z
+date: 2005-01-12 21:24:42+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/12/how-much-can-you-make/
 slug: how-much-can-you-make
 title: how much can you make?
-url: /2005/01/12/how-much-can-you-make/
 wordpress_id: 713
+categories:
+- none
 ---
 
-[![](http://photos2.flickr.com/3286156_50b37607ba_m.jpg)](http://www.flickr.com/photos/habi/3286156/)
+
+ [![](http://photos2.flickr.com/3286156_50b37607ba_m.jpg)](http://www.flickr.com/photos/habi/3286156/)
    
 
   Originally uploaded by [habi](http://www.flickr.com/people/habi/).

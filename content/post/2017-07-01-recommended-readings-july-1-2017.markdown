@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2017-07-01T21:58:41Z
+date: 2017-07-01 21:58:41+00:00
+layout: post
 link: http://habi.gna.ch/2017/07/01/recommended-readings-july-1-2017/
 slug: recommended-readings-july-1-2017
+title: 'Recommended readings: July 1, 2017'
+wordpress_id: 5126
+categories:
+- linkdump
 tags:
 - instapaper
 - recommended readings
-title: 'Recommended readings: July 1, 2017'
-url: /2017/07/01/recommended-readings-july-1-2017/
-wordpress_id: 5126
 ---
 
 <blockquote>

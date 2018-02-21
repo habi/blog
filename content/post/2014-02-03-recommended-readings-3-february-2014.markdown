@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2014-02-03T13:41:42Z
+date: 2014-02-03 13:41:42+00:00
+layout: post
 link: http://habi.gna.ch/2014/02/03/recommended-readings-3-february-2014/
 slug: recommended-readings-3-february-2014
+title: 'Recommended readings: 3. February 2014'
+wordpress_id: 3367
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 3. February 2014'
-url: /2014/02/03/recommended-readings-3-february-2014/
-wordpress_id: 3367
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut: 

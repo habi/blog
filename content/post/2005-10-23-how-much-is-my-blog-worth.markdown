@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- fun
-- linkdump
 comments: true
-date: 2005-10-23T20:26:38Z
+date: 2005-10-23 20:26:38+00:00
+layout: post
 link: http://habi.gna.ch/2005/10/23/how-much-is-my-blog-worth/
 slug: how-much-is-my-blog-worth
 title: how much is my blog worth?
-url: /2005/10/23/how-much-is-my-blog-worth/
 wordpress_id: 86
+categories:
+- fun
+- linkdump
 ---
 
 ![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)  

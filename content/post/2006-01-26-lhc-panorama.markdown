@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- pictures
 comments: true
-date: 2006-01-26T19:21:31Z
+date: 2006-01-26 19:21:31+00:00
+layout: post
 link: http://habi.gna.ch/2006/01/26/lhc-panorama/
 slug: lhc-panorama
 title: lhc panorama
-url: /2006/01/26/lhc-panorama/
 wordpress_id: 129
+categories:
+- pictures
 ---
+
 
 [![Lhc](http://habi.gna.ch/blog/images/lhc-tm.jpg)](http://habi.gna.ch/blog/images/lhc.jpg)do you want to take a look at [the biggest microscope ever built](http://en.wikipedia.org/wiki/LHC)? do you wonder how it sounds in the huge assembly hall of the two atlas magnets?
   

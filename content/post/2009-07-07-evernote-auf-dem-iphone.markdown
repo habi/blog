@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2009-07-07 07:16:46+00:00
+layout: post
+link: http://habi.gna.ch/2009/07/07/evernote-auf-dem-iphone/
+slug: evernote-auf-dem-iphone
+title: evernote auf dem iphone [update]
+wordpress_id: 1825
 categories:
 - apple
 - gadgets and gizmos
-comments: true
-date: 2009-07-07T07:16:46Z
-link: http://habi.gna.ch/2009/07/07/evernote-auf-dem-iphone/
-slug: evernote-auf-dem-iphone
 tags:
 - apple
-title: evernote auf dem iphone [update]
-url: /2009/07/07/evernote-auf-dem-iphone/
-wordpress_id: 1825
 ---
 
 heute morgen ist [mal wieder](http://habi.gna.ch/?s=tastentest) ein kleines textli von mir in der berner zeitung erschienen, diesmal nicht im rahmen eines tastentests, sonders als untermalung des artikels über das neue iphone.  

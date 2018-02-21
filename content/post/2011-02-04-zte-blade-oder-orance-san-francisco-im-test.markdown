@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2011-02-04 22:57:44+00:00
+layout: post
+link: http://habi.gna.ch/2011/02/05/zte-blade-oder-orance-san-francisco-im-test/
+slug: zte-blade-oder-orance-san-francisco-im-test
+title: ZTE Blade oder Orance San Francisco im Test
+wordpress_id: 2381
 categories:
 - gadgets and gizmos
 - technospeak
-comments: true
-date: 2011-02-04T22:57:44Z
-link: http://habi.gna.ch/2011/02/05/zte-blade-oder-orance-san-francisco-im-test/
-slug: zte-blade-oder-orance-san-francisco-im-test
 tags:
 - orange
 - valora
 - zte
 - zteblade
-title: ZTE Blade oder Orance San Francisco im Test
-url: /2011/02/04/zte-blade-oder-orance-san-francisco-im-test/
-wordpress_id: 2381
 ---
 
 Letzthin konnte ich fur [This](http://www.borniert.com/) wieder mal ein kleines Textli in der BZ schreiben: Ich habe uber ca. 2 Wochen das Andriod-Telefon [ZTE Blade](http://www.google.com/search?&q=zte+blade), auch bekannt als Orange San Francisco getestet.

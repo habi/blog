@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-06-04 20:29:17+00:00
+layout: post
+link: http://habi.gna.ch/2007/06/04/blgmdybrn-oder-so-recap/
+slug: blgmdybrn-oder-so-recap
+title: blgmdybrn (oder so) recap
+wordpress_id: 950
 categories:
 - meetings
 - personal
 - tschörman
-comments: true
-date: 2007-06-04T20:29:17Z
-link: http://habi.gna.ch/2007/06/04/blgmdybrn-oder-so-recap/
-slug: blgmdybrn-oder-so-recap
-title: blgmdybrn (oder so) recap
-url: /2007/06/04/blgmdybrn-oder-so-recap/
-wordpress_id: 950
 ---
 
 wie jeden ersten montag im mai (oder so) trafen sich einige internetpsychopathen [1] zum gemeinsam bier- und eistee-trinken. diesmal aus bahnhofsumbauteschnischen gründen im schönen restaurant rosengarten, mit [wundervoller aussicht](http://bloxxs.org/?p=747) auf die altstadt von bern, laut roman ca. 5km vom bärengraben weg.

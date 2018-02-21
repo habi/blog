@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-15T19:52:09Z
+date: 2004-04-15 19:52:09+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/15/bluetooth-headset/
 slug: bluetooth-headset
 title: bluetooth headset
-url: /2004/04/15/bluetooth-headset/
 wordpress_id: 503
+categories:
+- none
 ---
 
 i've always wanted to get a bluetooth headset for [my mobile](http://www.sonyericsson.com/t610/overview/) (not that i needed it, but as a tech-addict you can't argue with that :-) but thought that they're far too clumsy to actually use them.

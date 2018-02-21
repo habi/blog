@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-07-10T15:19:04Z
+date: 2004-07-10 15:19:04+00:00
+layout: post
 link: http://habi.gna.ch/2004/07/10/1300925111156286160896-ways-to-spell-viagra/
 slug: 1300925111156286160896-ways-to-spell-viagra
 title: 1,300,925,111,156,286,160,896 ways to spell viagra
-url: /2004/07/10/1300925111156286160896-ways-to-spell-viagra/
 wordpress_id: 578
+categories:
+- none
 ---
 
 [this guy](http://cockeyed.com/lessons/viagra/viagra.html) took some serious calculations to see how many ways there are to spell viagra (you know, those little pills that everyone tries to sell you via email).

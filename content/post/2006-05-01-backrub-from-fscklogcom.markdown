@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
-- personal
 comments: true
-date: 2006-05-01T18:14:13Z
+date: 2006-05-01 18:14:13+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/01/backrub-from-fscklogcom/
 slug: backrub-from-fscklogcom
 title: backrub from fscklog.com
-url: /2006/05/01/backrub-from-fscklogcom/
 wordpress_id: 164
+categories:
+- linkdump
+- personal
 ---
+
 
 today, fscklog posted something about [menushade](http://www.fscklog.com/2006/05/menushade_die_d.html), which i've been using together with [backdrop](http://www.johnhaney.com/backdrop/), when [i have to read something carefully](http://www.flickr.com/photos/habi/136308780/in/pool-cs3/) and cannot be distracted by anything.
   

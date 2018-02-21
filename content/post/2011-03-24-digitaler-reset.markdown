@@ -1,20 +1,20 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-03-24T18:00:34Z
+date: 2011-03-24 18:00:34+00:00
+layout: post
 link: http://habi.gna.ch/2011/03/24/digitaler-reset/
 slug: digitaler-reset
+title: Digitaler Reset
+wordpress_id: 2422
+categories:
+- personal
 tags:
 - ferien
 - india
 - reset
 - time management
 - zen
-title: Digitaler Reset
-url: /2011/03/24/digitaler-reset/
-wordpress_id: 2422
 ---
 
 Eine Erkenntnis der letzten Wochen: Ich verbringe zuviel Zeit vor dem Computer. Gleichzeitig geniesse ich es, [Sachen](http://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) zu [basteln](http://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/), [Fotos zu machen](http://www.flickr.com/photos/habi/) und [Videos](http://vimeo.com/habi) zusammenzuschneiden. Vielfach verbringe ich aber ganze Abende und lese mich durch die News in meinen gut 150 Feeds durch. Gleichzeitig stapeln sich auf meinem Nachttisch Bucher und Comics, die ich teilweise seit mehreren Monaten lesen will [1]. Ich schaffe es mit Muhe, knapp den Stapel meiner Magazine [2] abzubauen, bevor immer wieder neue Ausgaben davon im Briefkasten landen.

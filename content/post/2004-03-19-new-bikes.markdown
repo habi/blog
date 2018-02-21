@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-19T16:05:07Z
+date: 2004-03-19 16:05:07+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/19/new-bikes/
 slug: new-bikes
 title: new bikes
-url: /2004/03/19/new-bikes/
 wordpress_id: 470
+categories:
+- none
 ---
 
 today i called [the insurance](http://www.alba.ch/) of the girl that hit me on [tuesday](http://habi.gna.ch/blog/archives/000249.html) and informed them that she did not hit a car, but destroyed a bike (they wrote: "please inform us, how expensive the repair of the motor vehicle is gonna be").

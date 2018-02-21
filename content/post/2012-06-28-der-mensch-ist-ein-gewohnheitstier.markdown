@@ -1,15 +1,19 @@
 ---
 author: admin
-categories:
-- fun
-- linkdump
 comments: true
-date: 2012-06-28T18:50:54Z
+date: 2012-06-28 18:50:54+00:00
+layout: post
 link: http://habi.gna.ch/2012/06/28/der-mensch-ist-ein-gewohnheitstier/
 slug: der-mensch-ist-ein-gewohnheitstier
 title: Der Mensch ist ein Gewohnheitstier
-url: /2012/06/28/der-mensch-ist-ein-gewohnheitstier/
 wordpress_id: 2827
+categories:
+- fun
+- linkdump
 ---
+
+
+
+
 
 Kaum ist eine Treppenstufe etwas höher als die anderen, geht das Stolpern los.

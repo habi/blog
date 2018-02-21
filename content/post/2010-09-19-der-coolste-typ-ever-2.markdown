@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-09-19T18:54:15Z
+date: 2010-09-19 18:54:15+00:00
+layout: post
 link: http://habi.gna.ch/2010/09/19/der-coolste-typ-ever-2/
 slug: der-coolste-typ-ever-2
 title: Der coolste Typ ever
-url: /2010/09/19/der-coolste-typ-ever-2/
 wordpress_id: 2213
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4111/5004172841_7a92caec19_m.jpg)](http://www.flickr.com/photos/habi/5004172841/)
+
+ [![](http://farm5.static.flickr.com/4111/5004172841_7a92caec19_m.jpg)](http://www.flickr.com/photos/habi/5004172841/)
    
 
  

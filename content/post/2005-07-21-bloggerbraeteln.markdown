@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- switzerland
 comments: true
-date: 2005-07-21T18:51:36Z
+date: 2005-07-21 18:51:36+00:00
+layout: post
 link: http://habi.gna.ch/2005/07/21/bloggerbraeteln/
 slug: bloggerbraeteln
 title: bloggerbraeteln
-url: /2005/07/21/bloggerbraeteln/
 wordpress_id: 46
+categories:
+- personal
+- switzerland
 ---
+
 
 [![ Folio Curr Img Eckenga](http://habi.gna.ch/blog/images/_folio_curr_img_eckenga-tm.jpg)](http://habi.gna.ch/blog/images/_folio_curr_img_eckenga.jpg)aus aktuellem grund mal wieder deutsch;
 

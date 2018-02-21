@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-18T10:35:32Z
+date: 2004-10-18 10:35:32+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/18/the-kleptones/
 slug: the-kleptones
 title: the kleptones
-url: /2004/10/18/the-kleptones/
 wordpress_id: 650
+categories:
+- none
 ---
 
 [piece](http://www.web-laun.ch/pieceoBlog/index.php?p=1354) lately mentioned [a night at the hip-hopera from the kleptones](http://www.kleptones.com/pages/downloads_hiphopera.html). according to me this is THE mashup album of the year. although the album as a whole is illegal it is quite brilliant, mixing the best songs from the hiphop-spere into an album with great flow.

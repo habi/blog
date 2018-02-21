@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2012-06-21T19:38:19Z
+date: 2012-06-21 19:38:19+00:00
+layout: post
 link: http://habi.gna.ch/2012/06/21/sonderzeichen-probleme/
 slug: sonderzeichen-probleme
 title: Sonderzeichen-Probleme
-url: /2012/06/21/sonderzeichen-probleme/
 wordpress_id: 2820
+categories:
+- technospeak
 ---
 
 Als ich letzthin jemandem das Filmli über [Terry Pratchett](http://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/) zeigen wollte, hab' ich im Archiv hier gegraben. Dabei ist mir aufgefallen, dass mein ganzes Wordpress-Archiv von einem komischen Sonderzeichen-[Käfer](http://en.wikipedia.org/wiki/File:H96566k.jpg) befallen war, alle Sonderzeichen wurden nicht mehr in der UTF8-Codierung angezeigt, sondern jedes ä, ö und ü war durch Ã¤, Ã¶ und Ã¼ ersetzt.

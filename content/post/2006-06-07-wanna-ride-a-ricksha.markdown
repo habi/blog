@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2006-06-07T21:12:20Z
+date: 2006-06-07 21:12:20+00:00
+layout: post
 link: http://habi.gna.ch/2006/06/07/wanna-ride-a-ricksha/
 slug: wanna-ride-a-ricksha
 title: wanna ride a ricksha?
-url: /2006/06/07/wanna-ride-a-ricksha/
 wordpress_id: 186
+categories:
+- personal
 ---
+
 
 during the [contemporary dance festival](http://tanztage.ch/d/aktuell/index.htm) here in bern the spectators have the possibility to ride a ricksha from [the center of the town](http://map.search.ch/bern/bubenbergplatz-3) down [to the festival center](http://map.search.ch/bern/marzilistr-47), sponsored by a swiss insurance and driven by people from the [velokurier bern](http://velokurierbern.ch/).
   

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-22T15:25:43Z
+date: 2003-10-22 15:25:43+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/22/minimal-porn/
 slug: minimal-porn
 title: minimal porn
-url: /2003/10/22/minimal-porn/
 wordpress_id: 318
+categories:
+- none
 ---
 
 check out [this page](http://www.ecn.org/sexyshock/start.swf) if you want to see some awesome (and only + 18 :-) minimal [flash](http://www.macromedia.com/software/flash/) art!

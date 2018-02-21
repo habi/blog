@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-11T23:05:50Z
+date: 2004-10-11 23:05:50+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/12/messengers-caught-on-film-update/
 slug: messengers-caught-on-film-update
 title: messengers caught on film [update]
-url: /2004/10/11/messengers-caught-on-film-update/
 wordpress_id: 645
+categories:
+- none
 ---
 
 the first few glimpes i've seen since the download started1 make it look like [THE uber-messenger-movie](http://www.digave.com/videos/red-web.mpg), but i definitely need to go to bed now, i'll download the whole movie tomorrow and let you know.

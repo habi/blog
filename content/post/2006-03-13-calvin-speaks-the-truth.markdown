@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-03-13T21:00:21Z
+date: 2006-03-13 21:00:21+00:00
+layout: post
 link: http://habi.gna.ch/2006/03/13/calvin-speaks-the-truth/
 slug: calvin-speaks-the-truth
 title: calvin speaks the truth
-url: /2006/03/13/calvin-speaks-the-truth/
 wordpress_id: 141
+categories:
+- linkdump
 ---
+
 
 i hope i don't get me into trouble if i seldom link to strips from calvin and hobbes, but sometimes i just cannot resist.
   

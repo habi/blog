@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2012-03-20T23:16:49Z
+date: 2012-03-20 23:16:49+00:00
+layout: post
 link: http://habi.gna.ch/2012/03/21/tanzen-in-perfektion/
 slug: tanzen-in-perfektion
+title: Tanzen in Perfektion
+wordpress_id: 2685
+categories:
+- linkdump
 tags:
 - backflash
 - dance
 - performance
 - video
-title: Tanzen in Perfektion
-url: /2012/03/20/tanzen-in-perfektion/
-wordpress_id: 2685
 ---
 
 Ich hab's schon mal gesagt, dieses Blog verkommt langsam zu einem Video-Link-Blog. Aber wie auch schon gesagt, ich mach' hier, was mir gefällt, wer nicht schauen will, muss auch nicht.

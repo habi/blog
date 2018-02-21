@@ -1,20 +1,20 @@
 ---
 author: admin
-categories:
-- photos
 comments: true
-date: 2015-06-01T20:29:12Z
+date: 2015-06-01 20:29:12+00:00
+layout: post
 link: http://habi.gna.ch/2015/06/01/big-wide-world/
 slug: big-wide-world
+title: Big Wide World
+wordpress_id: 3941
+categories:
+- photos
 tags:
 - big wide world
 - hugin
 - mark
 - panoramas
 - photos
-title: Big Wide World
-url: /2015/06/01/big-wide-world/
-wordpress_id: 3941
 ---
 
 Mein Freund [Mark](http://permanenttourist.ch/) macht nicht nur tolle Fotos, sondern kann auch prima programmieren. Vor einiger Zeit hat er mich gefragt, ob ich bei einem seiner Projekte mitmachen möchte. In [seinem Blog-post](http://permanenttourist.ch/2015/05/big-wide-world-new-photo-website-online/) schreibt Mark bescheiden davon, dass es einige Zeit dauerte, bis “the design and programming” fertig waren und wir stolz auf unseren Effort seien.

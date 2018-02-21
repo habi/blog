@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-10-27 10:30:11+00:00
+layout: post
+link: http://habi.gna.ch/2007/10/27/ich-auch/
+slug: ich-auch
+title: ich auch!
+wordpress_id: 1067
 categories:
 - apple
 - gadgets and gizmos
 - linkdump
-comments: true
-date: 2007-10-27T10:30:11Z
-link: http://habi.gna.ch/2007/10/27/ich-auch/
-slug: ich-auch
-title: ich auch!
-url: /2007/10/27/ich-auch/
-wordpress_id: 1067
 ---
 
 auch wenn mein iphone gestern in amerika gekauft wurde und nächstens den weg nach bern findet, möcht' ich natütterli so einen ipod touch gewinnen, der ist ja auch nicht ohne, drum mach ich's genau wie [herr rouge](http://www.rouge.ch/blog/index.php/vr/comments/au_ha_woelle/) und [chm](http://bloxxs.ch/?p=1131) und link auf das ipod touch gewinnspiel von [stereopoly.de](http://www.stereopoly.de/)

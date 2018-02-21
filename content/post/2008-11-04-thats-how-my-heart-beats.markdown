@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2008-11-04 21:55:56+00:00
+layout: post
+link: http://habi.gna.ch/2008/11/04/thats-how-my-heart-beats/
+slug: thats-how-my-heart-beats
+title: that's how my heart beats
+wordpress_id: 1521
 categories:
 - gadgets and gizmos
 - personal
 - technospeak
-comments: true
-date: 2008-11-04T21:55:56Z
-link: http://habi.gna.ch/2008/11/04/thats-how-my-heart-beats/
-slug: thats-how-my-heart-beats
 tags:
 - mri
-title: that's how my heart beats
-url: /2008/11/04/thats-how-my-heart-beats/
-wordpress_id: 1521
 ---
 
 whoever follows me on [identi.ca](http://identi.ca/notice/878390) (or on facebook for that matter) knows that i've spent a noon lying in a tight and noisy tube. at the inselspital they're always looking for gunia pigs for [mri](http://en.wikipedia.org/wiki/MRI)-studies, and i've been there (for the [second time](http://flickr.com/photos/habi/2071160155/) now). the reward you get afterwards is a dvd with the images of your bodypart they imaged, the last time it was my head, now - since they're working on spectroscopy of the heart muscle - i got images of my beating heart and my torso.

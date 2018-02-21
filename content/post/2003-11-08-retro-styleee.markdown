@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-08T12:44:31Z
+date: 2003-11-08 12:44:31+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/08/retro-styleee/
 slug: retro-styleee
 title: retro-styleee!
-url: /2003/11/08/retro-styleee/
 wordpress_id: 343
+categories:
+- none
 ---
 
 you got an [mms-enables mobile phone](http://mobile.sunrise.ch/mms.htm)?

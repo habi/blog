@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-24T21:26:42Z
+date: 2004-02-24 21:26:42+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/24/geocaching/
 slug: geocaching
 title: geocaching
-url: /2004/02/24/geocaching/
 wordpress_id: 448
+categories:
+- none
 ---
 
 [![](http://habi.gna.ch/blog/images/DSC03056-tm.jpg)](http://habi.gna.ch/blog/images/DSC03056.jpg)today we went [geocaching](http://www.geocaching.com/about/).

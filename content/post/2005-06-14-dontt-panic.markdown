@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- fun
 comments: true
-date: 2005-06-14T20:31:21Z
+date: 2005-06-14 20:31:21+00:00
+layout: post
 link: http://habi.gna.ch/2005/06/14/dontt-panic/
 slug: dontt-panic
 title: dont't panic!
-url: /2005/06/14/dontt-panic/
 wordpress_id: 25
+categories:
+- fun
 ---
+
 
 monday night i went to see [the hitchhiker's guide to the galaxy](http://imdb.com/title/tt0371724/) (with a towel). i finished the book on the sunday before, so i had all fresh in my mind. i thought i will be disappointed with the movie, 'cause let's face it, there's just not enough time to fit all the gags from the book into one movie (sequel anyone?).
   

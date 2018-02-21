@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
-- linkdump
 comments: true
-date: 2006-09-22T19:31:54Z
+date: 2006-09-22 19:31:54+00:00
+layout: post
 link: http://habi.gna.ch/2006/09/22/eighties-flashback-update/
 slug: eighties-flashback-update
 title: eighties flashback! [update]
-url: /2006/09/22/eighties-flashback-update/
 wordpress_id: 225
+categories:
+- gadgets and gizmos
+- linkdump
 ---
+
 
 [![Simonextreme](http://habi.gna.ch/blog/images/simonextreme-tm.jpg)](http://habi.gna.ch/blog/images/simonextreme.jpg)do you remember [simon](http://en.wikipedia.org/wiki/Simon_(game)) (**update: **or senso, like neopren-sigi [1] points out)?
   

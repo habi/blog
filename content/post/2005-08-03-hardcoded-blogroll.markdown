@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2005-08-03T17:26:24Z
+date: 2005-08-03 17:26:24+00:00
+layout: post
 link: http://habi.gna.ch/2005/08/03/hardcoded-blogroll/
 slug: hardcoded-blogroll
 title: hardcoded blogroll
-url: /2005/08/03/hardcoded-blogroll/
 wordpress_id: 55
+categories:
+- technospeak
 ---
+
 
 i was annoyed that my sidebar loaded extremely slow. now i finally found some time to fix this. i hardcoded the blogroll[1] into the template, so there are no external files loaded anymore. i used blogrolling.com for that service, so it was a bit of a chore to get that data off their site.
   

@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- linkdump
-- personal
 comments: true
-date: 2004-03-16T20:12:50Z
+date: 2004-03-16 20:12:50+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/16/4-quick-notes/
 slug: 4-quick-notes
 title: 4 quick notes
-url: /2004/03/16/4-quick-notes/
 wordpress_id: 466
+categories:
+- linkdump
+- personal
 ---
 
 - [vienna](http://habi.gna.ch/blog/archives/000247.html) was more than lovely.

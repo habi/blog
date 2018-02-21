@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-10T16:34:57Z
+date: 2004-03-10 16:34:57+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/10/memorysticks-to-sell/
 slug: memorysticks-to-sell
 title: memorysticks to sell
-url: /2004/03/10/memorysticks-to-sell/
 wordpress_id: 463
+categories:
+- none
 ---
 
 do you need a memorystick for you pda? (because for a real camera they're probably too small...)

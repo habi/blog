@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-04-23T18:31:06Z
+date: 2011-04-23 18:31:06+00:00
+layout: post
 link: http://habi.gna.ch/2011/04/23/schlafen-im-stroh-neben-lamborghini-2/
 slug: schlafen-im-stroh-neben-lamborghini-2
 title: Schlafen im Stroh neben Lamborghini
-url: /2011/04/23/schlafen-im-stroh-neben-lamborghini-2/
 wordpress_id: 2476
+categories:
+- personal
 ---
 
-[![](http://farm6.static.flickr.com/5305/5646586535_650e5d7d8f_m.jpg)](http://www.flickr.com/photos/habi/5646586535/)
+
+ [![](http://farm6.static.flickr.com/5305/5646586535_650e5d7d8f_m.jpg)](http://www.flickr.com/photos/habi/5646586535/)
    
 
  

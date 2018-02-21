@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2009-02-25 17:48:34+00:00
+layout: post
+link: http://habi.gna.ch/2009/02/25/ich-wunscht-ich-war-kreativ/
+slug: ich-wunscht-ich-war-kreativ
+title: ich wünscht' ich wär kreativ...
+wordpress_id: 1664
 categories:
 - fun
 - personal
-comments: true
-date: 2009-02-25T17:48:34Z
-link: http://habi.gna.ch/2009/02/25/ich-wunscht-ich-war-kreativ/
-slug: ich-wunscht-ich-war-kreativ
 tags:
 - eyes
 - fun
-title: ich wünscht' ich wär kreativ...
-url: /2009/02/25/ich-wunscht-ich-war-kreativ/
-wordpress_id: 1664
 ---
 
 ...oder wenigstens, dass mir die ideen zuerst kämen, dann müsst' ich die witzigen nicht nachmachen.

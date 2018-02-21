@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-22T20:59:45Z
+date: 2004-09-22 20:59:45+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/22/hohtuerli-panorama/
 slug: hohtuerli-panorama
 title: hohtuerli-panorama
-url: /2004/09/22/hohtuerli-panorama/
 wordpress_id: 624
+categories:
+- none
 ---
 
 finally i found some time to do some (minor) tweaks to the panorama i shot on the hohturli last weekend.

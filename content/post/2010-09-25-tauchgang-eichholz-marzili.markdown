@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- diving
 comments: true
-date: 2010-09-25T16:05:38Z
+date: 2010-09-25 16:05:38+00:00
+layout: post
 link: http://habi.gna.ch/2010/09/25/tauchgang-eichholz-marzili/
 slug: tauchgang-eichholz-marzili
+title: Tauchgang Eichholz-Marzili
+wordpress_id: 2222
+categories:
+- diving
 tags:
 - diving
 - eichholz
 - marzili
-title: Tauchgang Eichholz-Marzili
-url: /2010/09/25/tauchgang-eichholz-marzili/
-wordpress_id: 2222
 ---
 
 Bevor ich mich vor zwei Wochenenden in die Verzasca sturzte, wollte ich noch die reduzierte Tauchausrustung ausprobieren.

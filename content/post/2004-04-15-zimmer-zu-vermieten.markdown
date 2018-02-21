@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- none
-- tschörman
 comments: true
-date: 2004-04-15T17:59:08Z
+date: 2004-04-15 17:59:08+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/15/zimmer-zu-vermieten/
 slug: zimmer-zu-vermieten
 title: zimmer zu vermieten
-url: /2004/04/15/zimmer-zu-vermieten/
 wordpress_id: 502
+categories:
+- none
+- tschörman
 ---
 
 aus aktuellem anlass mal wieder in deutsch:

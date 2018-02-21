@@ -1,22 +1,22 @@
 ---
 author: admin
+comments: true
+date: 2011-05-30 22:04:33+00:00
+layout: post
+link: http://habi.gna.ch/2011/05/31/maman-zum-zweiten/
+slug: maman-zum-zweiten
+title: Maman zum Zweiten
+wordpress_id: 2508
 categories:
 - flickr
 - pictures
 - switzerland
 - tschörman
-comments: true
-date: 2011-05-30T22:04:33Z
-link: http://habi.gna.ch/2011/05/31/maman-zum-zweiten/
-slug: maman-zum-zweiten
 tags:
 - bundesplatz
 - flickr
 - maman
 - photography
-title: Maman zum Zweiten
-url: /2011/05/30/maman-zum-zweiten/
-wordpress_id: 2508
 ---
 
 Wie letzthin schon angetont, wollte ich auf dem Bundesplatz ein schoneres Foto von [Maman](http://enwp.org/Maman) machen, als dasjenige, welches ich vor knapp [3 Jahren in Ottawa gemacht habe](http://status.davidhaberthuer.ch/notice/1187).

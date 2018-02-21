@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2008-08-06 18:56:59+00:00
+layout: post
+link: http://habi.gna.ch/2008/08/06/softwaretipp/
+slug: softwaretipp
+title: softwaretipp für's iphone
+wordpress_id: 1331
 categories:
 - switzerland
 - technospeak
 - tschörman
-comments: true
-date: 2008-08-06T18:56:59Z
-link: http://habi.gna.ch/2008/08/06/softwaretipp/
-slug: softwaretipp
 tags:
 - iphone
-title: softwaretipp für's iphone
-url: /2008/08/06/softwaretipp/
-wordpress_id: 1331
 ---
 
 [![gottago.png](http://habi.gna.ch/wp-content/uploads/2008/08/gottago1.jpg)](http://habi.gna.ch/wp-content/uploads/2008/08/gottago.jpg)[gottago](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=285851523&mt=8) [1], ein projekt von [codesofa.com](http://codesofa.com/) und [liip.ch](http://www.liip.ch/) ist eine ausgefuchste software für das neue iphone, welche dank der location-awareness des iphone den momentanen aufenthaltsort rausfinden kann [2] und dies direkt mit einer fahrplanabfrage der sbb verbinden verbindet.

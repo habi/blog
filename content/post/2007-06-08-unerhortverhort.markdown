@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- personal
-- tschörman
 comments: true
-date: 2007-06-08T21:21:37Z
+date: 2007-06-08 21:21:37+00:00
+layout: post
 link: http://habi.gna.ch/2007/06/08/unerhortverhort/
 slug: unerhortverhort
 title: unerhörtverhört
-url: /2007/06/08/unerhortverhort/
 wordpress_id: 954
+categories:
+- personal
+- tschörman
 ---
 
 am montag abend hat [er](http://bloxxs.ch/)'s mir angedroht, kurz danach hat er seine drohung wahrgemacht und mich per [ICQ](http://en.wikipedia.org/wiki/ICQ) verhört.

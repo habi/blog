@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-06T11:12:28Z
+date: 2003-08-06 11:12:28+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/06/panorama-software/
 slug: panorama-software
 title: panorama software
-url: /2003/08/06/panorama-software/
 wordpress_id: 248
+categories:
+- none
 ---
 
 does someone of my fellow blog readers know a good panorama stitching software for OS X?

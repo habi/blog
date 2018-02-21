@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-01-08T18:05:47Z
+date: 2011-01-08 18:05:47+00:00
+layout: post
 link: http://habi.gna.ch/2011/01/08/flashback/
 slug: flashback
+title: Flashback
+wordpress_id: 2353
+categories:
+- personal
 tags:
 - flickr
 - photos
 - pummelvision
 - video
-title: Flashback
-url: /2011/01/08/flashback/
-wordpress_id: 2353
 ---
 
 Ist mir grad aufgefallen, als ich soeben in knapp 5 Minuten meine letzten 2500 Flickr-Bilder angeschaut habe: Ich hab' eigentlich ein grandioses Leben

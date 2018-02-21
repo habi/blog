@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- moblog
 comments: true
-date: 2006-11-05T16:00:12Z
+date: 2006-11-05 16:00:12+00:00
+layout: post
 link: http://habi.gna.ch/2006/11/05/real-life-cthulu/
 slug: real-life-cthulu
 title: real life cthulu [update]
-url: /2006/11/05/real-life-cthulu/
 wordpress_id: 810
+categories:
+- moblog
 ---
 
-[![](http://static.flickr.com/118/289497011_af10834420_m.jpg)](http://www.flickr.com/photos/habi/289497011/)
+
+ [![](http://static.flickr.com/118/289497011_af10834420_m.jpg)](http://www.flickr.com/photos/habi/289497011/)
    
 
  

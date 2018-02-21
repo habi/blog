@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- bike
 comments: true
-date: 2009-12-11T22:30:12Z
+date: 2009-12-11 22:30:12+00:00
+layout: post
 link: http://habi.gna.ch/2009/12/12/light-paintings/
 slug: light-paintings
+title: light paintings
+wordpress_id: 1998
+categories:
+- bike
 tags:
 - bike
 - velocontent
-title: light paintings
-url: /2009/12/11/light-paintings/
-wordpress_id: 1998
 ---
 
 nachdem ich letzthin über die [spektakulären licht-graffities](http://digital-photography-school.com/25-spectacular-light-painting-images) gestolpert bin, habe mich auch mal im malen mit photonen versucht, gestern abend mit kamera, stativ und velolämpli ein bisschen zeit im kocherpark verbracht und ein paar langzeitbelichtungen gemacht.

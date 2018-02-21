@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2005-09-04T20:31:54Z
+date: 2005-09-04 20:31:54+00:00
+layout: post
 link: http://habi.gna.ch/2005/09/04/picture-of-the-week-35/
 slug: picture-of-the-week-35
 title: picture of the week 35
-url: /2005/09/04/picture-of-the-week-35/
 wordpress_id: 68
+categories:
+- picture of the week
 ---
+
 
 this saturday i once [again](http://habi.gna.ch/blog/archives/000617.html) went to the [ropetech-seilpark](http://www.ropetech.ch/) here in bern.
   

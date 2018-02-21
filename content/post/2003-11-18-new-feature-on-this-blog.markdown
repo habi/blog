@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-18T22:17:42Z
+date: 2003-11-18 22:17:42+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/19/new-feature-on-this-blog/
 slug: new-feature-on-this-blog
 title: new feature on this blog
-url: /2003/11/18/new-feature-on-this-blog/
 wordpress_id: 351
+categories:
+- none
 ---
 
 i was reading some more about [trackback](http://www.movabletype.org/trackback/) some days ago (which still is a bit too much for my puny little head to fully get the point).  

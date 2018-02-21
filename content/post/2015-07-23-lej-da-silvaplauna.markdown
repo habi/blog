@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2015-07-23 12:20:56+00:00
+layout: post
+link: http://habi.gna.ch/2015/07/23/lej-da-silvaplauna/
+slug: lej-da-silvaplauna
+title: Lej da Silvaplauna
+wordpress_id: 3997
 categories:
 - moblog
 - photos
-comments: true
-date: 2015-07-23T12:20:56Z
-link: http://habi.gna.ch/2015/07/23/lej-da-silvaplauna/
-slug: lej-da-silvaplauna
 tags:
 - flickr
 - IFTTT
 - moblog
-title: Lej da Silvaplauna
-url: /2015/07/23/lej-da-silvaplauna/
-wordpress_id: 3997
 ---
 
 ![](http://ift.tt/1OzwE3s)  

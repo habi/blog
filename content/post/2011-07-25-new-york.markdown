@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2011-07-25 17:11:19+00:00
+layout: post
+link: http://habi.gna.ch/2011/07/25/new-york/
+slug: new-york
+title: New York [update]
+wordpress_id: 2543
 categories:
 - personal
 - pictures
-comments: true
-date: 2011-07-25T17:11:19Z
-link: http://habi.gna.ch/2011/07/25/new-york/
-slug: new-york
 tags:
 - improv everywhere
 - nyc
-title: New York [update]
-url: /2011/07/25/new-york/
-wordpress_id: 2543
 ---
 
 Die paar Tage bei Google-B. und filewile-A. waren sehr gemutlich, wenn auch ein bisschen heiss.

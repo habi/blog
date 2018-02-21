@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- picture of the week
 comments: true
-date: 2006-03-27T18:57:03Z
+date: 2006-03-27 18:57:03+00:00
+layout: post
 link: http://habi.gna.ch/2006/03/27/picture-of-the-week-12-with-competition-update/
 slug: picture-of-the-week-12-with-competition-update
 title: picture of the week 12 (with competition) [update]
-url: /2006/03/27/picture-of-the-week-12-with-competition-update/
 wordpress_id: 148
+categories:
+- personal
+- picture of the week
 ---
+
 
 [we've](http://velokurierbern.ch/) been skiing this weekend. in the morning, just before we hit the slopes i shot this panorama.
   

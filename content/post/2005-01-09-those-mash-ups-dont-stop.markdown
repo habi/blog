@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2005-01-09T13:04:57Z
+date: 2005-01-09 13:04:57+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/09/those-mash-ups-dont-stop/
 slug: those-mash-ups-dont-stop
 title: those mash-ups don't stop!
-url: /2005/01/09/those-mash-ups-dont-stop/
 wordpress_id: 709
+categories:
+- none
 ---
+
 
 i've [already mentioned some mash-ups](http://habi.gna.ch/blog/mt-search.cgi?IncludeBlogs=1&search=mash+up), here comes one more, not exactly a mash-up, but a band that mixes metallica and beatles songs: [beatallica](http://www.beatallica.com/). all 11 songs can be conveniently downloaded as [a torrent-file](http://waxy.org/bt/torrents/Beatallica.torrent) or as single .mp3-downloads. get them while they last.
 

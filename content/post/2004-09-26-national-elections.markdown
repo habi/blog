@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-26T18:56:47Z
+date: 2004-09-26 18:56:47+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/26/national-elections/
 slug: national-elections
 title: national elections
-url: /2004/09/26/national-elections/
 wordpress_id: 626
+categories:
+- none
 ---
 
 we'll now it's official: [the swiss are xenophobic](http://www.sfdrs.ch/content/home/abstimmungen.shtml)!

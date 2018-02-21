@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-27T16:29:35Z
+date: 2003-07-27 16:29:35+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/27/new-pics-are-online/
 slug: new-pics-are-online
 title: new pics are online
-url: /2003/07/27/new-pics-are-online/
 wordpress_id: 235
+categories:
+- none
 ---
 
 some new pictures are online. those from Anna's "Birthday"-Party in the [Eichholz](http://www.campingeichholz.ch/).

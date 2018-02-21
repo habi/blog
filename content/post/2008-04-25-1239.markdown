@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2008-04-25 10:01:32+00:00
+layout: post
+link: http://habi.gna.ch/2008/04/25/1239/
+slug: '1239'
+title: Spiderbait - Black Betty [video]
+wordpress_id: 1239
 categories:
 - music
 - personal
-comments: true
-date: 2008-04-25T10:01:32Z
-link: http://habi.gna.ch/2008/04/25/1239/
-slug: "1239"
 tags:
 - music
 - rock
 - video
 - youtoube
-title: Spiderbait - Black Betty [video]
-url: /2008/04/25/1239/
-wordpress_id: 1239
 ---
 
 http://youtube.com/v/UtqjmuUaYXA

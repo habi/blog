@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-19T22:43:15Z
+date: 2004-09-19 22:43:15+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/20/picture-of-the-week-39/
 slug: picture-of-the-week-39
 title: picture of the week 39
-url: /2004/09/19/picture-of-the-week-39/
 wordpress_id: 622
+categories:
+- none
 ---
 
 yesterday i've been on a big hike with nina and her sister. we walked over the so-called hohturli from the griesalp to kandersteg ([here's the explanation from another guy](http://members.aol.com/HokieHokieHi/)).

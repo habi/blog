@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- fun
 comments: true
-date: 2005-07-18T22:17:31Z
+date: 2005-07-18 22:17:31+00:00
+layout: post
 link: http://habi.gna.ch/2005/07/19/famous-detective/
 slug: famous-detective
 title: famous detective
-url: /2005/07/18/famous-detective/
 wordpress_id: 45
+categories:
+- fun
 ---
+
 
 A man suspected his wife was seeing another man, so he hired the famous Chinese detective, Chen Lee, to watch and report any activities while he was gone. A few days later, he received this report:  
 

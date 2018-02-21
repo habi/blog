@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-10T21:10:51Z
+date: 2003-08-10 21:10:51+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/10/streetparade/
 slug: streetparade
 title: streetparade
-url: /2003/08/10/streetparade/
 wordpress_id: 256
+categories:
+- none
 ---
 
 [i'm](http://www.tilllate.ch/DE/picpage.php?gid=69605&fid=447854&mode=none&tim_uid=0&chartmode=0&grid=0) really [happy](http://www.tilllate.ch/DE/picpage.php?gid=69605&fid=450397&mode=none&tim_uid=0&chartmode=0&grid=0) i [stayed](http://www.tilllate.ch/DE/picpage.php?gid=69604&fid=447124&mode=none&tim_uid=0&chartmode=0&grid=0) at [home](http://www.tilllate.ch/DE/picpage.php?gid=69604&fid=447462&mode=none&tim_uid=0&chartmode=0&grid=0) and [didn't](http://www.tilllate.ch/DE/picpage.php?gid=69603&fid=450793&mode=none&tim_uid=0&chartmode=0&grid=0) go to the [streetparade](http://www.street-parade.ch/), and went for a swim instead :-)

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- picture of the week
 comments: true
-date: 2006-02-20T21:16:54Z
+date: 2006-02-20 21:16:54+00:00
+layout: post
 link: http://habi.gna.ch/2006/02/20/picture-of-the-week-07/
 slug: picture-of-the-week-07
 title: picture of the week 07
-url: /2006/02/20/picture-of-the-week-07/
 wordpress_id: 135
+categories:
+- personal
+- picture of the week
 ---
+
 
 yesterday i spent a wonderful day in [oberwald](http://map.search.ch/oberwald-vs). ninas mother spends at least a week per year there, mostly with some friends. she invited nina and me for the weekend, to do some [cross-country skiing](http://koni-sport.ch/).
   

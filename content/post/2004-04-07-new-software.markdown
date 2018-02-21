@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-07T21:33:38Z
+date: 2004-04-07 21:33:38+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/07/new-software/
 slug: new-software
 title: new software
-url: /2004/04/07/new-software/
 wordpress_id: 495
+categories:
+- none
 ---
 
 those of you of which english is not your maternal language have probably used a bunch of translation services on the net or use a dictionary from time to time to look up unknown words.

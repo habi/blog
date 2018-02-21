@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2007-03-05 21:39:14+00:00
+layout: post
+link: http://habi.gna.ch/2007/03/05/blgmndybrn-2/
+slug: blgmndybrn-2
+title: blgmndybrn
+wordpress_id: 877
 categories:
 - meetings
 - memes
 - personal
 - tschörman
-comments: true
-date: 2007-03-05T21:39:14Z
-link: http://habi.gna.ch/2007/03/05/blgmndybrn-2/
-slug: blgmndybrn-2
-title: blgmndybrn
-url: /2007/03/05/blgmndybrn-2/
-wordpress_id: 877
 ---
 
 wie jeden ersten montag im monat fand auch heute der [blgmndybrn](http://leumund.ch/v3/comments/blgmndybrn-heute-abend/) im domino statt.

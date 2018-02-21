@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-08-17T16:21:50Z
+date: 2011-08-17 16:21:50+00:00
+layout: post
 link: http://habi.gna.ch/2011/08/17/mittwoch-abend/
 slug: mittwoch-abend
 title: Mittwoch Abend
-url: /2011/08/17/mittwoch-abend/
 wordpress_id: 2551
+categories:
+- personal
 ---
 
-[![](http://farm7.static.flickr.com/6077/6053397038_d279e2df96_m.jpg)](http://www.flickr.com/photos/habi/6053397038/)
+
+ [![](http://farm7.static.flickr.com/6077/6053397038_d279e2df96_m.jpg)](http://www.flickr.com/photos/habi/6053397038/)
    
 
  

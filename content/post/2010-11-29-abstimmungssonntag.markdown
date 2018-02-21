@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2010-11-29T22:52:41Z
+date: 2010-11-29 22:52:41+00:00
+layout: post
 link: http://habi.gna.ch/2010/11/30/abstimmungssonntag/
 slug: abstimmungssonntag
 title: AbstimmungsSonntag
-url: /2010/11/29/abstimmungssonntag/
 wordpress_id: 2319
+categories:
+- linkdump
 ---
 
 Matthias hat den gestrigen Abstimmungs-Sonntag gut [zusammengefasst](http://matthias.gutfeldt.ch/blog/singleblog.php?entry=1290991681). Traurig, aber wahr.

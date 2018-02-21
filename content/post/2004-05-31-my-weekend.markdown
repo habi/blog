@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-31T21:10:59Z
+date: 2004-05-31 21:10:59+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/31/my-weekend/
 slug: my-weekend
 title: my weekend
-url: /2004/05/31/my-weekend/
 wordpress_id: 544
+categories:
+- none
 ---
 
 simu wants to ride [the alpenbrevet](http://www.alpenbrevet.ch/inhalt/deutsch/strecken_d.htm), so he talked some of us into that little tour.

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-08-31T21:06:52Z
+date: 2004-08-31 21:06:52+00:00
+layout: post
 link: http://habi.gna.ch/2004/08/31/skype-for-osx/
 slug: skype-for-osx
 title: skype for osx
-url: /2004/08/31/skype-for-osx/
 wordpress_id: 606
+categories:
+- none
 ---
 
 after i've been fooling around with an unofficial beta-version today the official beta version of [skype](http://www.skype.com/) was [released for os x](http://www.skype.com/download_osx.html). (and could not call anybody, because only bruni had it installed and he has troubles with his microphone...)

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
 comments: true
-date: 2014-07-25T20:22:47Z
+date: 2014-07-25 20:22:47+00:00
+layout: post
 link: http://habi.gna.ch/2014/07/25/lumix-gm-1/
 slug: lumix-gm-1
 title: Lumix GM-1
-url: /2014/07/25/lumix-gm-1/
 wordpress_id: 3551
+categories:
+- gadgets and gizmos
 ---
 
 Ich wusste ja, dass die [Lumix GM-1](http://www.dpreview.com/reviews/panasonic-lumix-dmc-gm1), die ich mir second-hand kaufte (mit 300 Auslösungen, für über 100.- weniger als der Neupreis) selbst für eine Micro-Four-Thirds Kamera mit Wechselobjektiv eine kleine Kamera ist.

@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-03-26T18:51:43Z
+date: 2010-03-26 18:51:43+00:00
+layout: post
 link: http://habi.gna.ch/2010/03/26/les-queues-des-sardines/
 slug: les-queues-des-sardines
 title: Les Queues des Sardines
-url: /2010/03/26/les-queues-des-sardines/
 wordpress_id: 2084
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4018/4465482286_2bfb800467_m.jpg)](http://www.flickr.com/photos/habi/4465482286/)
+
+ [![](http://farm5.static.flickr.com/4018/4465482286_2bfb800467_m.jpg)](http://www.flickr.com/photos/habi/4465482286/)
    
 
  

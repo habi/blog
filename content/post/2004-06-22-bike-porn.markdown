@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- bike
-- pictures
 comments: true
-date: 2004-06-22T10:32:01Z
+date: 2004-06-22 10:32:01+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/22/bike-porn/
 slug: bike-porn
 title: bike porn
-url: /2004/06/22/bike-porn/
 wordpress_id: 563
+categories:
+- bike
+- pictures
 ---
 
 i'm in the process of looking for a fixed gear hub for my polish frame

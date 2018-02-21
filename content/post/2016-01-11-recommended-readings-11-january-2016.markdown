@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2016-01-11T21:33:18Z
+date: 2016-01-11 21:33:18+00:00
+layout: post
 link: http://habi.gna.ch/2016/01/11/recommended-readings-11-january-2016/
 slug: recommended-readings-11-january-2016
+title: 'Recommended readings: 11. January 2016'
+wordpress_id: 4203
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 11. January 2016'
-url: /2016/01/11/recommended-readings-11-january-2016/
-wordpress_id: 4203
 ---
 
 Die _Recommended readings_ kommen deutlich später als auch schon, weil mein [Delicious curator](https://wordpress.org/plugins/delicious-curator/)-Plugin seine Dienste verweigert hat, bis ich heute [dank Nerdcore.de](http://www.nerdcore.de/2016/01/01/wptouch-und-so/) herausgefunden habe, dass die del.icio.us-RSS-Feeds neuerdings von einer anderen URL kommen. Mit einem kleinen Umweg über [Cyberduck](https://cyberduck.io) ist `delicious-curator.php` schnell editiert und voila, weiter geht's.

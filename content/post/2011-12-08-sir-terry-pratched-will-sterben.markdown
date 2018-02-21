@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2011-12-08 19:04:45+00:00
+layout: post
+link: http://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/
+slug: sir-terry-pratched-will-sterben
+title: Sir Terry Pratched will sterben
+wordpress_id: 2594
 categories:
 - movies
 - personal
 - tschörman
-comments: true
-date: 2011-12-08T19:04:45Z
-link: http://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/
-slug: sir-terry-pratched-will-sterben
-title: Sir Terry Pratched will sterben
-url: /2011/12/08/sir-terry-pratched-will-sterben/
-wordpress_id: 2594
 ---
 
 Vor einiger Zeit bin ich - wie genau ist mir unklar - auf die Dokumentation über Sterbehilfe gestossen. Damals habe ich das Video zu meiner 'Watch later' liste hinzugefügt. Jetzt habe ich mir auf einer Zugfahrt die Zeit genommen und mich der Dokumentation gewidmet [1].

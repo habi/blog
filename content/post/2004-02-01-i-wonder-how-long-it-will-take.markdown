@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-01T16:21:55Z
+date: 2004-02-01 16:21:55+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/01/i-wonder-how-long-it-will-take/
 slug: i-wonder-how-long-it-will-take
 title: i wonder how long it will take
-url: /2004/02/01/i-wonder-how-long-it-will-take/
 wordpress_id: 428
+categories:
+- none
 ---
 
 i thought it's time that i tidy up my desk a bit

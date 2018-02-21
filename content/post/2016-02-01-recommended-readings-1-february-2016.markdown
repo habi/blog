@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2016-02-01T20:00:56Z
+date: 2016-02-01 20:00:56+00:00
+layout: post
 link: http://habi.gna.ch/2016/02/01/recommended-readings-1-february-2016/
 slug: recommended-readings-1-february-2016
+title: 'Recommended readings: 1. February 2016'
+wordpress_id: 4348
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 1. February 2016'
-url: /2016/02/01/recommended-readings-1-february-2016/
-wordpress_id: 4348
 ---
 
 (Sorry, ist im `Draft`-Modus stecken geblieben).

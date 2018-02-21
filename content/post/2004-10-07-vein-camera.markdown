@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-07T21:06:42Z
+date: 2004-10-07 21:06:42+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/07/vein-camera/
 slug: vein-camera
 title: vein camera
-url: /2004/10/07/vein-camera/
 wordpress_id: 640
+categories:
+- none
 ---
 
 i for one welcome our [medicine overlords](http://www.newscientist.com/news/news.jsp?id=ns99996497)!

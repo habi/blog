@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- moblog
 comments: true
-date: 2006-06-28T15:18:32Z
+date: 2006-06-28 15:18:32+00:00
+layout: post
 link: http://habi.gna.ch/2006/06/28/imilk/
 slug: imilk
 title: imilk
-url: /2006/06/28/imilk/
 wordpress_id: 195
+categories:
+- moblog
 ---
 
-[![](http://static.flickr.com/54/177065345_d445734cc9_m.jpg)](http://www.flickr.com/photos/habi/177065345/)
+
+ [![](http://static.flickr.com/54/177065345_d445734cc9_m.jpg)](http://www.flickr.com/photos/habi/177065345/)
    
 
  

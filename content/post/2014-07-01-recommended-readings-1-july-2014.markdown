@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2014-07-01T20:10:31Z
+date: 2014-07-01 20:10:31+00:00
+layout: post
 link: http://habi.gna.ch/2014/07/01/recommended-readings-1-july-2014/
 slug: recommended-readings-1-july-2014
+title: 'Recommended readings: 1. July 2014'
+wordpress_id: 3545
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 1. July 2014'
-url: /2014/07/01/recommended-readings-1-july-2014/
-wordpress_id: 3545
 ---
 
 Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:

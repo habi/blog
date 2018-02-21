@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2011-07-23 07:49:45+00:00
+layout: post
+link: http://habi.gna.ch/2011/07/23/gehirnakrobatik/
+slug: gehirnakrobatik
+title: Gehirnakrobatik
+wordpress_id: 2535
 categories:
 - linkdump
 - technospeak
-comments: true
-date: 2011-07-23T07:49:45Z
-link: http://habi.gna.ch/2011/07/23/gehirnakrobatik/
-slug: gehirnakrobatik
 tags:
 - science
 - video
-title: Gehirnakrobatik
-url: /2011/07/23/gehirnakrobatik/
-wordpress_id: 2535
 ---
 
 Ich find's immer wieder erstaunlich, wie einfach sich unser Gehirn tauschen lasst.

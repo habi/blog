@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-04T20:37:34Z
+date: 2004-03-04 20:37:34+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/04/mike-van-audenhove/
 slug: mike-van-audenhove
 title: mike van audenhove
-url: /2004/03/04/mike-van-audenhove/
 wordpress_id: 457
+categories:
+- none
 ---
 
 last sunday my parents, my sister and me had a brunch in the [marzilibruggli](http://www.taberna.ch/) (where [nina](http://habi.gna.ch/blog/images/hn2.jpg) works). during the brunch the nose of my father started running (not that this is an event that needs to be blogged :-) and then a comicstrip from [mike van audenhove](http://www.zueritipp.ch/dyn/zuerichbymike/ssi/index.html) came to my mind.

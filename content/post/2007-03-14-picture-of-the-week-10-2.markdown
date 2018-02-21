@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- personal
-- picture of the week
 comments: true
-date: 2007-03-14T07:28:47Z
+date: 2007-03-14 07:28:47+00:00
+layout: post
 link: http://habi.gna.ch/2007/03/14/picture-of-the-week-10-2/
 slug: picture-of-the-week-10-2
 title: picture of the week 10
-url: /2007/03/14/picture-of-the-week-10-2/
 wordpress_id: 884
+categories:
+- personal
+- picture of the week
 ---
 
 quite some time ago (for my birthday actually) i got a voucher for a weekend in the snow with a big surprise from my love. this weekend we finally managed to find a weekend with snow and free time. in the end it turned out that she planned a weekend on the [bettmeralp](http://www.bettmeralp.ch/) for skiing and some wellness in the [hotel bettmerhof](http://www.bettmeralp.ch/). the weather was absolutely gorgeous and also the slopes were really good.

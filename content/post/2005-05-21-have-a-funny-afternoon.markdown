@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- fun
 comments: true
-date: 2005-05-21T11:07:25Z
+date: 2005-05-21 11:07:25+00:00
+layout: post
 link: http://habi.gna.ch/2005/05/21/have-a-funny-afternoon/
 slug: have-a-funny-afternoon
 title: have a funny afternoon
-url: /2005/05/21/have-a-funny-afternoon/
 wordpress_id: 13
+categories:
+- fun
 ---
+
 
 in case you need something a bit funny to get you over the lazy saturday afternoon, you can watch those ringtone dancer movies over at [contagiousmedia.org](http://ringtonedancer.contagiousmedia.org/) (you might want to turn off the sound if you're at work...).
   

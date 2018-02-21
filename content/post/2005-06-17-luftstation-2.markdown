@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2005-06-17T22:09:42Z
+date: 2005-06-17 22:09:42+00:00
+layout: post
 link: http://habi.gna.ch/2005/06/18/luftstation-2/
 slug: luftstation-2
 title: luftstation
-url: /2005/06/17/luftstation-2/
 wordpress_id: 28
+categories:
+- personal
 ---
+
 
 [![Dsc00734](http://habi.gna.ch/blog/images/DSC00734-tm.jpg)](http://habi.gna.ch/blog/images/DSC00734.jpg)yesterday evening i went to see the [luftstation](http://oeffoeff.ch/projects/luftstation.php), the newest production from the [offoff-team](http://oeffoeff.ch/).
   

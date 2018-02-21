@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
-- technospeak
 comments: true
-date: 2013-08-19T18:17:28Z
+date: 2013-08-19 18:17:28+00:00
+layout: post
 link: http://habi.gna.ch/2013/08/19/mein-review-der-pebble-uhr/
 slug: mein-review-der-pebble-uhr
 title: Mein "Review" der Pebble-Uhr
-url: /2013/08/19/mein-review-der-pebble-uhr/
 wordpress_id: 3170
+categories:
+- gadgets and gizmos
+- technospeak
 ---
 
 [Letzthin](http://habi.gna.ch/2013/06/20/pebble/) konnte ich einen Neuzuwachs in meiner Sammlung spezieller Uhren machen und hab' mir eine [Pebble](http://getpebble.com/) gekitscht.

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2005-01-05T17:51:06Z
+date: 2005-01-05 17:51:06+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/05/spy-on-other-people-update2/
 slug: spy-on-other-people-update2
 title: spy on other people [update2]
-url: /2005/01/05/spy-on-other-people-update2/
 wordpress_id: 708
+categories:
+- none
 ---
+
 
 this reminds me of the old days on the internet, where one was able to [steer a model train via a remote interface](http://rr.informatik.tu-freiberg.de/index.php?con=home&sel=&lang=eng&js=1&) [1]:
   

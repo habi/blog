@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2013-03-18T19:20:38Z
+date: 2013-03-18 19:20:38+00:00
+layout: post
 link: http://habi.gna.ch/2013/03/18/loleduc/
 slug: loleduc
 title: Lo & Leduc
-url: /2013/03/18/loleduc/
 wordpress_id: 3063
+categories:
+- personal
 ---
 
 Am Fritig Abend kamen [Lo & Leduc](http://www.lo-leduc.ch/) im Radio.

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-06-27T21:48:38Z
+date: 2004-06-27 21:48:38+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/27/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
-url: /2004/06/27/picture-of-the-week/
 wordpress_id: 569
+categories:
+- picture of the week
 ---
 
 today i went down the river [aare](http://www.aaremarzili.info/) with sigi and some friends.

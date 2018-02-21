@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2008-10-17 06:00:28+00:00
+layout: post
+link: http://habi.gna.ch/2008/10/17/gut-gerahmt/
+slug: gut-gerahmt
+title: gut gerahmt [update]
+wordpress_id: 1492
 categories:
 - gadgets and gizmos
 - personal
-comments: true
-date: 2008-10-17T06:00:28Z
-link: http://habi.gna.ch/2008/10/17/gut-gerahmt/
-slug: gut-gerahmt
 tags:
 - bernerzeitung
 - citizen journalism
 - tastentest
-title: gut gerahmt [update]
-url: /2008/10/17/gut-gerahmt/
-wordpress_id: 1492
 ---
 
 [this](http://www.borniert.com/this-is-this/) hat mich [mal wieder](http://habi.gna.ch/?s=tastentest) gefragt, ob ich bereit wäre, für die BZ in die tasten zu greifen. in untenstehendem text versuche ich die freude an meinem [neuesten gadget](http://habi.gna.ch/2008/09/09/gadget-2/) in allgemeinverständliche form zu fassen. der text sollte heute in der BZ erscheinen, falls es denn möglich sein sollte auf der etwas unpraktischen neuen seite danach zu suchen ([hier](http://www.bernerzeitung.ch/service/suche/suche.html?key=tastentest) geht nämlich nix und [espace.ch/tastentest](http://espace.ch/tastentest) ist auch tot. auf [tastentest.bernerzeitung.ch](http://www.bernerzeitung.ch//digital/dossier/tasten-test/dossier.html) ist auch noch nix zu finden...)

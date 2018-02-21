@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-12-31T21:33:43Z
+date: 2011-12-31 21:33:43+00:00
+layout: post
 link: http://habi.gna.ch/2011/12/31/randen-schoggi-kuchen/
 slug: randen-schoggi-kuchen
 title: Randen-Schoggi-Kuchen
-url: /2011/12/31/randen-schoggi-kuchen/
 wordpress_id: 2609
+categories:
+- personal
 ---
 
-[![](http://farm8.staticflickr.com/7158/6608846455_59027598a6_m.jpg)](http://www.flickr.com/photos/habi/6608846455/)
+
+ [![](http://farm8.staticflickr.com/7158/6608846455_59027598a6_m.jpg)](http://www.flickr.com/photos/habi/6608846455/)
    
 
  

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2013-07-17T18:35:04Z
+date: 2013-07-17 18:35:04+00:00
+layout: post
 link: http://habi.gna.ch/2013/07/17/file-under-coole-videos/
 slug: file-under-coole-videos
 title: File under "coole Videos"
-url: /2013/07/17/file-under-coole-videos/
 wordpress_id: 3143
+categories:
+- linkdump
 ---
 
 http://youtu.be/IxPbgnO81sQ

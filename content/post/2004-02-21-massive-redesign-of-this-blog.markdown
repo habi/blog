@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-21T21:57:21Z
+date: 2004-02-21 21:57:21+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/21/massive-redesign-of-this-blog/
 slug: massive-redesign-of-this-blog
 title: (massive) redesign of this blog
-url: /2004/02/21/massive-redesign-of-this-blog/
 wordpress_id: 443
+categories:
+- none
 ---
 
 because i had no plans for tonight (except burning 25 cd's with the oberwald-hitparade) i started to fiddle around with the design of the blog and now it looks quite different.

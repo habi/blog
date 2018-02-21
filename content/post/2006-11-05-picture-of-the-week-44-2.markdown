@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- personal
-- picture of the week
 comments: true
-date: 2006-11-05T22:15:05Z
+date: 2006-11-05 22:15:05+00:00
+layout: post
 link: http://habi.gna.ch/2006/11/06/picture-of-the-week-44-2/
 slug: picture-of-the-week-44-2
 title: picture of the week 44
-url: /2006/11/05/picture-of-the-week-44-2/
 wordpress_id: 811
+categories:
+- personal
+- picture of the week
 ---
 
 yesterday i went for a walk with nina, onto the [tower of moron](http://www.tourdemoron.ch/). only today i realized that it's quite a funny name in english :-)

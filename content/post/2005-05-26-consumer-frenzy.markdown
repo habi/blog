@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2005-05-26T17:31:15Z
+date: 2005-05-26 17:31:15+00:00
+layout: post
 link: http://habi.gna.ch/2005/05/26/consumer-frenzy/
 slug: consumer-frenzy
 title: consumer frenzy
-url: /2005/05/26/consumer-frenzy/
 wordpress_id: 16
+categories:
+- personal
 ---
+
 
 [![Threadlesss](http://habi.gna.ch/blog/images/threadlesss-tm.jpg)](http://habi.gna.ch/blog/images/threadlesss.jpg)omg! 
   

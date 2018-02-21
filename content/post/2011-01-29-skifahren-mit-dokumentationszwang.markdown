@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2011-01-29 17:37:02+00:00
+layout: post
+link: http://habi.gna.ch/2011/01/29/skifahren-mit-dokumentationszwang/
+slug: skifahren-mit-dokumentationszwang
+title: Skifahren mit Dokumentationszwang
+wordpress_id: 2373
 categories:
 - personal
 - switzerland
 - technospeak
-comments: true
-date: 2011-01-29T17:37:02Z
-link: http://habi.gna.ch/2011/01/29/skifahren-mit-dokumentationszwang/
-slug: skifahren-mit-dokumentationszwang
 tags:
 - dokumentationszwang
-title: Skifahren mit Dokumentationszwang
-url: /2011/01/29/skifahren-mit-dokumentationszwang/
-wordpress_id: 2373
 ---
 
 [Skiline.cc](http://www.skiline.cc) ist perfekt fur Menschen mit Dokumentationszwang: So kann ich nach einem wunderbaren Skitag nicht nur schauen, wo [genau ich durchgefahren bin](http://www.gpsies.com/map.do?fileId=cvsjilsvblimjmbx), sondern auch, [wieviel Zeit ich auf welchem Lift](http://www.skiline.cc/skiing_day/1mj4otpssjg) (und beim Mittagessen) verbracht habe :)

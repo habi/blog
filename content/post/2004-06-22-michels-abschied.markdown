@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-22T21:01:07Z
+date: 2004-06-22 21:01:07+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/22/michels-abschied/
 slug: michels-abschied
 title: michels abschied
-url: /2004/06/22/michels-abschied/
 wordpress_id: 564
+categories:
+- none
 ---
 
 aus aktuellem grund mal wieder in deutsch:

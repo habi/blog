@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2012-08-07T19:28:54Z
+date: 2012-08-07 19:28:54+00:00
+layout: post
 link: http://habi.gna.ch/2012/08/07/bullet-time-an-den-olympischen-spiele-2012/
 slug: bullet-time-an-den-olympischen-spiele-2012
+title: '"Bullet Time"  an den Olympischen Spiele 2012'
+wordpress_id: 2838
+categories:
+- technospeak
 tags:
 - olympic games
 - sports
-title: '"Bullet Time"  an den Olympischen Spiele 2012'
-url: /2012/08/07/bullet-time-an-den-olympischen-spiele-2012/
-wordpress_id: 2838
 ---
 
 Ich schaue ja nicht wirklich bei den Olympischen Spielen zu, aber in der Berichterstattung ist mir aufgefallen, dass bei den gymnastischen Sprungbewerben [Bullet Time](http://de.wikipedia.org/wiki/Bullet_Time)-Effekte (wie bei den Matrix-Filmen) eingesetzt [1].

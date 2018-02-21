@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- moblog
-- none
 comments: true
-date: 2006-11-03T12:45:52Z
+date: 2006-11-03 12:45:52+00:00
+layout: post
 link: http://habi.gna.ch/2006/11/03/hugo-koblet/
 slug: hugo-koblet
 title: Hugo Koblet
-url: /2006/11/03/hugo-koblet/
 wordpress_id: 808
+categories:
+- moblog
+- none
 ---
 
 [![](http://static.flickr.com/118/287647248_2f8a29310c_m.jpg)](http://www.flickr.com/photos/habi/287647248/)

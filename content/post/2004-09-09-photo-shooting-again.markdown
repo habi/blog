@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-09T21:04:17Z
+date: 2004-09-09 21:04:17+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/09/photo-shooting-again/
 slug: photo-shooting-again
 title: photo-shooting again
-url: /2004/09/09/photo-shooting-again/
 wordpress_id: 613
+categories:
+- none
 ---
 
 today i was again at a photo-shooting. a [customer](http://www.polyconsult.ch/) of the velokurier was looking for a model which was willing to show his ass to two old ladies (really!)

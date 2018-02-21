@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2012-10-01 20:34:24+00:00
+layout: post
+link: http://habi.gna.ch/2012/10/01/in-den-bergen-ist-freiheit/
+slug: in-den-bergen-ist-freiheit
+title: In den Bergen ist Freiheit
+wordpress_id: 2913
 categories:
 - pictures
 - switzerland
-comments: true
-date: 2012-10-01T20:34:24Z
-link: http://habi.gna.ch/2012/10/01/in-den-bergen-ist-freiheit/
-slug: in-den-bergen-ist-freiheit
 tags:
 - balmhorn
 - gasterntal
 - in den bergen ist freiheit
-title: In den Bergen ist Freiheit
-url: /2012/10/01/in-den-bergen-ist-freiheit/
-wordpress_id: 2913
 ---
 
 Trotz dem schlechten Wetter wagten wir uns am Wochenende etwas in die Höhe. Am Samstag hing der Nebel im Gasterntal so tief, dass wir von Kandersteg nur bis zum [Hotel Waldhaus](http://de.wikipedia.org/wiki/Gasterntal#Hotel_Waldhaus) wanderten und dort einen gemütlichen Abend bei Kerzenlicht verbrachten. Am Sonntag war der Nebel immernoch dicht, aber die Wetterprognose verhiess besseres, so dass wir uns auf eine kleinere Wanderung zur [Balmhornhütte](http://www.sac-altels.ch/huetten/balmhornhuette.php) wagten.

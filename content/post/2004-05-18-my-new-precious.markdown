@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-18T17:01:16Z
+date: 2004-05-18 17:01:16+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/18/my-new-precious/
 slug: my-new-precious
 title: my new precious
-url: /2004/05/18/my-new-precious/
 wordpress_id: 534
+categories:
+- none
 ---
 
 it's here.

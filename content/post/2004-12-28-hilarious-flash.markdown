@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-12-28T19:06:44Z
+date: 2004-12-28 19:06:44+00:00
+layout: post
 link: http://habi.gna.ch/2004/12/28/hilarious-flash/
 slug: hilarious-flash
 title: hilarious flash
-url: /2004/12/28/hilarious-flash/
 wordpress_id: 701
+categories:
+- none
 ---
+
 
 i remember that i saw this flash linked somewhere, but i cannot remember where. yesterday evening i played it so many times that the boyfriend of my flatmate asked me if i'm insane. 
   

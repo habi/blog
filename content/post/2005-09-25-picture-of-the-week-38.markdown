@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2005-09-25T18:03:23Z
+date: 2005-09-25 18:03:23+00:00
+layout: post
 link: http://habi.gna.ch/2005/09/25/picture-of-the-week-38/
 slug: picture-of-the-week-38
 title: picture of the week 38
-url: /2005/09/25/picture-of-the-week-38/
 wordpress_id: 74
+categories:
+- picture of the week
 ---
+
 
 i'm back.
   

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2005-03-21T22:12:17Z
+date: 2005-03-21 22:12:17+00:00
+layout: post
 link: http://habi.gna.ch/2005/03/22/new-badge-update/
 slug: new-badge-update
 title: new badge [update]
-url: /2005/03/21/new-badge-update/
 wordpress_id: 751
+categories:
+- technospeak
 ---
+
 
 i've added a new badge to the collection on the lower left: [![GeoURL](http://i.geourl.org/80x15/simple.png)](http://geourl.org/near?p=http://habi.gna.ch)
   

@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2006-11-02 14:01:04+00:00
+layout: post
+link: http://habi.gna.ch/2006/11/02/hmmmmm/
+slug: hmmmmm
+title: hmmmmm [update]
+wordpress_id: 807
 categories:
 - apple
 - linkdump
 - personal
-comments: true
-date: 2006-11-02T14:01:04Z
-link: http://habi.gna.ch/2006/11/02/hmmmmm/
-slug: hmmmmm
-title: hmmmmm [update]
-url: /2006/11/02/hmmmmm/
-wordpress_id: 807
 ---
 
 [![3400Superpunkte](http://habi.gna.ch/wp-content/uploads/2006/11/images/3400superpunkte-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/11/images/3400superpunkte.jpg)[should i or should i not?](https://store.ethz.ch/cgi-bin/offer.fastpl?language=g)

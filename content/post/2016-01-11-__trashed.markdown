@@ -1,12 +1,12 @@
 ---
 author: admin
 comments: true
-date: 2016-01-11T22:12:11Z
+date: 2016-01-11 22:12:11+00:00
+layout: post
 link: http://habi.gna.ch/2016/01/11/__trashed/
 published: false
 slug: __trashed
 title: Mein Blog-Jahr 2015, mit
-url: /2016/01/11/__trashed/
 wordpress_id: 4274
 ---
 

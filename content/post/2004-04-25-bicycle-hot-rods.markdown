@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-25T19:33:06Z
+date: 2004-04-25 19:33:06+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/25/bicycle-hot-rods/
 slug: bicycle-hot-rods
 title: bicycle hot rods
-url: /2004/04/25/bicycle-hot-rods/
 wordpress_id: 514
+categories:
+- none
 ---
 
 after seeing [this bike](http://www.bikehotrod.co.uk/kbhr14.html) at the [velo zuri](http://www.velozueri.ch/) last weekend, i just cannot seem to get the idea to buy a bike like this out of my head.

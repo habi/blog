@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-06T21:46:40Z
+date: 2004-06-06 21:46:40+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/06/coffee-and-cigarettes/
 slug: coffee-and-cigarettes
 title: coffee and cigarettes
-url: /2004/06/06/coffee-and-cigarettes/
 wordpress_id: 548
+categories:
+- none
 ---
 
 oh, and if you don't want to go and watch troy (which is what we haven't done on friday evening) then you should better go and see [coffee and cigarettes](http://imdb.com/title/tt0379217/), i presume that it must be much better than any sandal movie ever made (and has no goof as opposed to the at least 27 [goofs](http://imdb.com/title/tt0332452/goofs) in troy).

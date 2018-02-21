@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-21T22:31:43Z
+date: 2003-10-21 22:31:43+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/22/tomorrows-plans/
 slug: tomorrows-plans
 title: tomorrows plans
-url: /2003/10/21/tomorrows-plans/
 wordpress_id: 317
+categories:
+- none
 ---
 
 tomorrow i give two double lessons:

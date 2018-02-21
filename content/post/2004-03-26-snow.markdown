@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-26T12:58:39Z
+date: 2004-03-26 12:58:39+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/26/snow/
 slug: snow
 title: snow
-url: /2004/03/26/snow/
 wordpress_id: 482
+categories:
+- none
 ---
 
 sigi... your phd sounds cool... (no pun intended) and speaking of snow I'm reading a really cool book at the moment called "high risk" (i think, not got the book handy... doh!) and it's about avalanches and Everest... really enjoyable page turner...

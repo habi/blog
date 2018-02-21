@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-15T21:59:08Z
+date: 2004-04-15 21:59:08+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/15/the-fly/
 slug: the-fly
 title: the fly
-url: /2004/04/15/the-fly/
 wordpress_id: 504
+categories:
+- none
 ---
 
 instead of reading way too much rss-feeds and stuff on tha intaweb i instead watched  [the fly](http://imdb.com/title/tt0091064/) (the 1986 version, not [the original](http://imdb.com/title/tt0051622/) or [the upcoming remake](http://imdb.com/title/tt0379788/)).

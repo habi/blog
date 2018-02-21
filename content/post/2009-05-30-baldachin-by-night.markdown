@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-05-30T21:01:54Z
+date: 2009-05-30 21:01:54+00:00
+layout: post
 link: http://habi.gna.ch/2009/05/30/baldachin-by-night/
 slug: baldachin-by-night
 title: Baldachin by Night
-url: /2009/05/30/baldachin-by-night/
 wordpress_id: 1767
+categories:
+- personal
 ---
 
-[![](http://farm4.static.flickr.com/3648/3578928895_c7434e89fd_m.jpg)](http://www.flickr.com/photos/habi/3578928895/)
+
+ [![](http://farm4.static.flickr.com/3648/3578928895_c7434e89fd_m.jpg)](http://www.flickr.com/photos/habi/3578928895/)
    
 
  

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-20T21:34:57Z
+date: 2004-04-20 21:34:57+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/20/georbe-dubya-is-boring/
 slug: georbe-dubya-is-boring
 title: georbe dubya is boring!
-url: /2004/04/20/georbe-dubya-is-boring/
 wordpress_id: 509
+categories:
+- none
 ---
 
 reading one of the latest editions of the [weltwoche](http://www.weltwoche.ch/artikel/?AssetID=7421&CategoryID=63) i stumbled over that funny little story.

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2005-01-11T21:20:26Z
+date: 2005-01-11 21:20:26+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/11/new-filewile-track-on-the-web/
 slug: new-filewile-track-on-the-web
 title: new filewile track on the web
-url: /2005/01/11/new-filewile-track-on-the-web/
 wordpress_id: 712
+categories:
+- music
 ---
+
 
 dustbowl and deejot have released a new track. this time they did not release it on their page, but on the [alpinechic-label](http://www.alpinechic.net). you can grab the whole compilation SWISS CIRCUS IN STEREO Compilation #2 as one big zip-file [here](http://www.alpinechic.net/ac/zip/ac011.zip) (84.6mb .zip) or only the filewile-track Attila [here](http://www.alpinechic.net/ac/mp3/ac011-05_filewile-attila.mp3) (7.59mb .mp3).
 

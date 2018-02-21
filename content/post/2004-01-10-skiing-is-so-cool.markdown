@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-10T11:45:53Z
+date: 2004-01-10 11:45:53+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/10/skiing-is-so-cool/
 slug: skiing-is-so-cool
 title: skiing is so cool
-url: /2004/01/10/skiing-is-so-cool/
 wordpress_id: 400
+categories:
+- none
 ---
 
 i had to go in town (which is a nuisance on saturdays, but i had to get my prescription for the pain-killers...) and ended up in a [bookstore](http://www.jaeggi.ch/index_home.php) where they had a big sale, including a lot of dvd's.

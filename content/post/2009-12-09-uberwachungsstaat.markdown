@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-12-09T14:32:02Z
+date: 2009-12-09 14:32:02+00:00
+layout: post
 link: http://habi.gna.ch/2009/12/09/uberwachungsstaat/
 slug: uberwachungsstaat
 title: überwachungsstaat [with map]
-url: /2009/12/09/uberwachungsstaat/
 wordpress_id: 1993
+categories:
+- personal
 ---
 
-[![](http://farm3.static.flickr.com/2499/4170687873_eedbe82668_m.jpg)](http://www.flickr.com/photos/matthiasg/4170687873/)
+
+ [![](http://farm3.static.flickr.com/2499/4170687873_eedbe82668_m.jpg)](http://www.flickr.com/photos/matthiasg/4170687873/)
    
 
  

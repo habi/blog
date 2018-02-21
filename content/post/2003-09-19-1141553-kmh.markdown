@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-09-19T19:23:24Z
+date: 2003-09-19 19:23:24+00:00
+layout: post
 link: http://habi.gna.ch/2003/09/19/1141553-kmh/
 slug: 1141553-kmh
 title: 1.141553 km/h
-url: /2003/09/19/1141553-kmh/
 wordpress_id: 281
+categories:
+- none
 ---
 
 ![](http://habi.gna.ch/blog/images/4454km.jpg)

@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- personal
-- technospeak
 comments: true
-date: 2017-05-15T19:52:27Z
+date: 2017-05-15 19:52:27+00:00
+layout: post
 link: http://habi.gna.ch/2017/05/15/keine-recommended-readings-mehr/
 slug: keine-recommended-readings-mehr
 title: Keine 'recommended readings' mehr
-url: /2017/05/15/keine-recommended-readings-mehr/
 wordpress_id: 5073
+categories:
+- personal
+- technospeak
 ---
 
 In naher Zukunft wird es hier keine ['recommended readings'](http://habi.gna.ch/tag/instapaper/) mehr geben.

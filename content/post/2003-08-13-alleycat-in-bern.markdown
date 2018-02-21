@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-13T19:33:00Z
+date: 2003-08-13 19:33:00+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/13/alleycat-in-bern/
 slug: alleycat-in-bern
 title: alleycat  in bern
-url: /2003/08/13/alleycat-in-bern/
 wordpress_id: 260
+categories:
+- none
 ---
 
 if you see some freaks on bikes driving around bern like mad on friday night, then you know it's an alleycat1 organised by bene and me :-)

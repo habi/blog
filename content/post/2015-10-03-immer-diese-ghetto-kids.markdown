@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2015-10-03 06:34:25+00:00
+layout: post
+link: http://habi.gna.ch/2015/10/03/immer-diese-ghetto-kids/
+slug: immer-diese-ghetto-kids
+title: Immer diese Ghetto-Kids!
+wordpress_id: 4053
 categories:
 - moblog
 - photos
-comments: true
-date: 2015-10-03T06:34:25Z
-link: http://habi.gna.ch/2015/10/03/immer-diese-ghetto-kids/
-slug: immer-diese-ghetto-kids
 tags:
 - flickr
 - IFTTT
 - moblog
-title: Immer diese Ghetto-Kids!
-url: /2015/10/03/immer-diese-ghetto-kids/
-wordpress_id: 4053
 ---
 
 ![](http://ift.tt/1OdJqrw)  

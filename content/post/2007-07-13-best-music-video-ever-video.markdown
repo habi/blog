@@ -1,15 +1,17 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2007-07-13T22:28:15Z
+date: 2007-07-13 22:28:15+00:00
+layout: post
 link: http://habi.gna.ch/2007/07/13/best-music-video-ever-video/
 slug: best-music-video-ever-video
 title: best. music video. ever! [video]
-url: /2007/07/13/best-music-video-ever-video/
 wordpress_id: 993
+categories:
+- music
 ---
+
+
 
 now that's one creative music video! it's hard to take the eyes off the real-world video effects, but don't miss the real progress bar at the bottom, very clever! hard to believe that the video was taken in one shot...
 oh, and the song is very catchy, too...

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2005-10-26T12:25:04Z
+date: 2005-10-26 12:25:04+00:00
+layout: post
 link: http://habi.gna.ch/2005/10/26/im-on-uncluttering-mission/
 slug: im-on-uncluttering-mission
 title: i'm on uncluttering mission
-url: /2005/10/26/im-on-uncluttering-mission/
 wordpress_id: 89
+categories:
+- personal
+- pictures
 ---
+
 
 i've officially killed my [two](http://habi.bild.li/) [moblogs](http://moblog.co.uk/blogs.php?show=835) [1]. from now on, all my (seldom) moblogging is going to happen here: [http://flickr.com/photos/habi/tags/moblog/](http://flickr.com/photos/habi/tags/moblog/). regarding that, i've also uncluttered my sidebar a bit. the latest images-section now shows the five latest images i posted to flickr. on top there's the latest moblog, then the four latest "normal" images.
 

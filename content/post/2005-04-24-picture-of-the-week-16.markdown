@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2005-04-24T22:35:03Z
+date: 2005-04-24 22:35:03+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/25/picture-of-the-week-16/
 slug: picture-of-the-week-16
 title: picture of the week 16
-url: /2005/04/24/picture-of-the-week-16/
 wordpress_id: 772
+categories:
+- picture of the week
 ---
+
 
 this wednesday i went to luzern, to spend a day [reading comics](http://fumetto.ch/05) and stare onto hundreds of panels from different comic authors.
   

@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- bike
-- picture of the week
 comments: true
-date: 2005-01-30T15:56:12Z
+date: 2005-01-30 15:56:12+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/30/picture-of-the-week-04-2/
 slug: picture-of-the-week-04-2
 title: picture of the week 04
-url: /2005/01/30/picture-of-the-week-04-2/
 wordpress_id: 724
+categories:
+- bike
+- picture of the week
 ---
 
 this week was really busy, i was giving computer science lessons in [kirchberg](http://www.schule-kirchberg.ch/) while still working nearly normally.

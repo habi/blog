@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-10-14T14:37:36Z
+date: 2009-10-14 14:37:36+00:00
+layout: post
 link: http://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/
 slug: durchschnittliche-hochzeitsbesucher
 title: Durchschnittliche Hochzeitsbesucher
-url: /2009/10/14/durchschnittliche-hochzeitsbesucher/
 wordpress_id: 1944
+categories:
+- personal
 ---
 
-[![](http://farm3.static.flickr.com/2613/4010213441_87f74436fd_m.jpg)](http://www.flickr.com/photos/habi/4010213441/)
+
+ [![](http://farm3.static.flickr.com/2613/4010213441_87f74436fd_m.jpg)](http://www.flickr.com/photos/habi/4010213441/)
    
 
  

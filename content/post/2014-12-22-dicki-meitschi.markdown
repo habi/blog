@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2014-12-22T18:32:39Z
+date: 2014-12-22 18:32:39+00:00
+layout: post
 link: http://habi.gna.ch/2014/12/22/dicki-meitschi/
 slug: dicki-meitschi
+title: Dicki Meitschi
+wordpress_id: 3677
+categories:
+- linkdump
 tags:
 - dicki meitschi
 - kummerbuben
 - video
-title: Dicki Meitschi
-url: /2014/12/22/dicki-meitschi/
-wordpress_id: 3677
 ---
 
 http://youtu.be/aAYhMnsFXvI

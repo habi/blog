@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-29T17:48:30Z
+date: 2003-07-29 17:48:30+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/29/energy4u-todays-fun-link/
 slug: energy4u-todays-fun-link
 title: Energy4u - todays fun link
-url: /2003/07/29/energy4u-todays-fun-link/
 wordpress_id: 239
+categories:
+- none
 ---
 
 while i had a break today at [work](http://www.velokurierbern.ch) (it's summer holidays here, so a lot of our clients do not work thus we sometimes get a break...) a guy came chatting me up.

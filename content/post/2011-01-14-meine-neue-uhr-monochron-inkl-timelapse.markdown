@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2011-01-14 09:25:50+00:00
+layout: post
+link: http://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/
+slug: meine-neue-uhr-monochron-inkl-timelapse
+title: 'Meine neue Uhr: MONOCHRON [inkl. Timelapse] [update]'
+wordpress_id: 2358
 categories:
 - gadgets and gizmos
 - personal
 - technospeak
-comments: true
-date: 2011-01-14T09:25:50Z
-link: http://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/
-slug: meine-neue-uhr-monochron-inkl-timelapse
 tags:
 - bz
 - clock
 - monochron
-title: 'Meine neue Uhr: MONOCHRON [inkl. Timelapse] [update]'
-url: /2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/
-wordpress_id: 2358
 ---
 
 Vor ein paar Monaten habe ich meine Uhrensammlung erweitert: ich hab' mir bei [Adafuit Industries](http://adafruit.com/) [1] eine [MONOCHRON](http://www.ladyada.net/make/monochron/index.html)-Uhr gekauft (nachdem ich im [Make](http://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) daruber gelesen habe).

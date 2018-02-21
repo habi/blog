@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2014-05-03T19:00:30Z
+date: 2014-05-03 19:00:30+00:00
+layout: post
 link: http://habi.gna.ch/2014/05/03/recommended-readings-3-may-2014/
 slug: recommended-readings-3-may-2014
+title: 'Recommended readings: 3. May 2014'
+wordpress_id: 3433
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 3. May 2014'
-url: /2014/05/03/recommended-readings-3-may-2014/
-wordpress_id: 3433
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

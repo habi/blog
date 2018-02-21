@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-12-08T13:47:09Z
+date: 2003-12-08 13:47:09+00:00
+layout: post
 link: http://habi.gna.ch/2003/12/08/becoming-famous-or-not/
 slug: becoming-famous-or-not
 title: becoming famous (or not)
-url: /2003/12/08/becoming-famous-or-not/
 wordpress_id: 370
+categories:
+- none
 ---
 
 **becoming famous:**  

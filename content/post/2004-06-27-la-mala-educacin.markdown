@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-27T21:21:56Z
+date: 2004-06-27 21:21:56+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/27/la-mala-educacin/
 slug: la-mala-educacin
 title: la mala educación
-url: /2004/06/27/la-mala-educacin/
 wordpress_id: 568
+categories:
+- none
 ---
 
 yesterday i wanted to go to the [theater](http://www.dastheater-effingerstr.ch/aktuell.shtml) with franzi, but the whole evening came different than planned. since it was a birthday gift for her, we wanted to go and have a little drink before, so we met quite early. but when we drove over the kornhausplatz her bike got caught in the tramway tracks and she fell really hard. fortunately she wasn't injured much, "only" little rashes on pretty much every protruding part of her body (hands, elbows, hips, knees). 

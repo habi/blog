@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-06T21:14:29Z
+date: 2004-01-06 21:14:29+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/06/todays-task-left-none/
 slug: todays-task-left-none
 title: 'todays task left: none.'
-url: /2004/01/06/todays-task-left-none/
 wordpress_id: 397
+categories:
+- none
 ---
 
 that's what i wanted to do before i go to bed: here's my updated [cv](http://habi.gna.ch/cv/cv.html).

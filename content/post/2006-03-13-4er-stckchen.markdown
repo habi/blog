@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- memes
-- personal
 comments: true
-date: 2006-03-13T21:26:23Z
+date: 2006-03-13 21:26:23+00:00
+layout: post
 link: http://habi.gna.ch/2006/03/13/4er-stckchen/
 slug: 4er-stckchen
 title: 4er stöckchen
-url: /2006/03/13/4er-stckchen/
 wordpress_id: 142
+categories:
+- memes
+- personal
 ---
+
 
 pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stockchen/), heute abend komm ich auch noch dazu, mir was dazu zu uberlegen:
 

@@ -1,20 +1,20 @@
 ---
 author: admin
-categories:
-- diving
 comments: true
-date: 2012-03-16T22:35:56Z
+date: 2012-03-16 22:35:56+00:00
+layout: post
 link: http://habi.gna.ch/2012/03/17/tansania/
 slug: tansania
+title: Tansania [update]
+wordpress_id: 2668
+categories:
+- diving
 tags:
 - diving
 - holidays
 - kilimanjaro
 - tanzania
 - travel
-title: Tansania [update]
-url: /2012/03/16/tansania/
-wordpress_id: 2668
 ---
 
 Wie ihr vielleicht gemerkt habt, bin ich wieder aus den Ferien retour. Dieses Mal hat es Nina und mich nach Tansania verschlagen. Wie von [Herr Hosae gewüscht](http://habi.gna.ch/2012/02/09/tschese/#comment-14800), hier so quasi ein Rückblick, angereichtert mit einigen Fotos.

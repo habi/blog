@@ -1,23 +1,23 @@
 ---
 author: admin
+comments: true
+date: 2017-02-25 21:36:14+00:00
+layout: post
+link: http://habi.gna.ch/2017/02/25/wintersport-ort/
+slug: wintersport-ort
+title: Wintersport-Ort
+wordpress_id: 5032
 categories:
 - moblog
 - photos
-comments: true
-date: 2017-02-25T21:36:14Z
-link: http://habi.gna.ch/2017/02/25/wintersport-ort/
-slug: wintersport-ort
 tags:
-- "258"
+- '258'
 - fischbalmen
 - flickr
 - IFTTT
 - iphone
 - moblog
 - thunersee
-title: Wintersport-Ort
-url: /2017/02/25/wintersport-ort/
-wordpress_id: 5032
 ---
 
 ![](http://ift.tt/2lRDNH9)  

@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2013-04-15 20:27:04+00:00
+layout: post
+link: http://habi.gna.ch/2013/04/15/pixmix-60/
+slug: pixmix-60
+title: PixMix 60 [update]
+wordpress_id: 3083
 categories:
 - diving
 - personal
 - pictures
 - switzerland
-comments: true
-date: 2013-04-15T20:27:04Z
-link: http://habi.gna.ch/2013/04/15/pixmix-60/
-slug: pixmix-60
 tags:
 - diving
-title: PixMix 60 [update]
-url: /2013/04/15/pixmix-60/
-wordpress_id: 3083
 ---
 
 Am kommenden Mittwoch findet im Foyer der Dampzentrale der 60. [PixMix](http://pix-mix.ch) statt.

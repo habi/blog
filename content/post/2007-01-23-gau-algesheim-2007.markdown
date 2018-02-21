@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- personal
-- tschörman
 comments: true
-date: 2007-01-23T22:51:57Z
+date: 2007-01-23 22:51:57+00:00
+layout: post
 link: http://habi.gna.ch/2007/01/23/gau-algesheim-2007/
 slug: gau-algesheim-2007
 title: 18. Internationaler Masters Wettkampf des SSV Ingelheim [update]
-url: /2007/01/23/gau-algesheim-2007/
 wordpress_id: 855
+categories:
+- personal
+- tschörman
 ---
 
 [![Hpim0076](http://habi.gna.ch/wp-content/uploads/2007/01/hpim0076-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/01/hpim0076.jpg)wie schon 17 mal zuvor fand am 3. wochenende des noch jungen jahres der internationale masters-wettkampf des [ssv ingelheim](http://ssv-ingelheim.de/) in deutschland statt.

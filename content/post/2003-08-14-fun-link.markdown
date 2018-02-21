@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-14T22:24:49Z
+date: 2003-08-14 22:24:49+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/15/fun-link/
 slug: fun-link
 title: fun link
-url: /2003/08/14/fun-link/
 wordpress_id: 261
+categories:
+- none
 ---
 
 i'm not shure if [these guys](http://www.hcrs.at/BILDER/HCRS.JPG) make fun of themself, but [their page](http://www.hcrs.at/) is quite useful, if you're looking for some little experiments for school (which is what i'm doing extensively at the moment :)

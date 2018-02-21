@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- linkdump
-- music
 comments: true
-date: 2004-09-29T21:13:58Z
+date: 2004-09-29 21:13:58+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/29/mixed-tape-03/
 slug: mixed-tape-03
 title: mixed tape 03
-url: /2004/09/29/mixed-tape-03/
 wordpress_id: 632
+categories:
+- linkdump
+- music
 ---
 
 the quite excellent (and completely free and legal) mp3's from [mercedes' mix-tape](http://www3.mercedes-benz.com/mixedtape/mixedtape.html) are available in the third edition.

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-04-12T18:01:52Z
+date: 2006-04-12 18:01:52+00:00
+layout: post
 link: http://habi.gna.ch/2006/04/12/starwars-uber-oldschool-version/
 slug: starwars-uber-oldschool-version
 title: starwars uber-oldschool-version
-url: /2006/04/12/starwars-uber-oldschool-version/
 wordpress_id: 158
+categories:
+- linkdump
 ---
+
 
 if: are you bored and want to see starwars episode iv, but don't have the dvd lying around? but have a terminal emulator or CLI next to you?
 

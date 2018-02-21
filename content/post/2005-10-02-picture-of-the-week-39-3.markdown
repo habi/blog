@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2005-10-02 20:33:59+00:00
+layout: post
+link: http://habi.gna.ch/2005/10/02/picture-of-the-week-39-3/
+slug: picture-of-the-week-39-3
+title: picture of the week 39
+wordpress_id: 78
 categories:
 - diving
 - picture of the week
 - pictures
-comments: true
-date: 2005-10-02T20:33:59Z
-link: http://habi.gna.ch/2005/10/02/picture-of-the-week-39-3/
-slug: picture-of-the-week-39-3
-title: picture of the week 39
-url: /2005/10/02/picture-of-the-week-39-3/
-wordpress_id: 78
 ---
+
 
 i didn't shoot any pictures this week, so i'm picking another one from our holidays on the philippines. although the [nudibranch](http://en.wikipedia.org/wiki/Nudibranchia) is not in focus i quite like the image below, mostly because of its vibrant colors. you can see some more images from our holidays in the [pictures section](http://habi.gna.ch/pics/philippinen05/) or on [flickr](http://flickr.com/photos/habi/tags/philippines/) (which is better for the panoramas, 'cause you can see them in a bigger size...).
 

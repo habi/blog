@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-06-05T09:23:09Z
+date: 2010-06-05 09:23:09+00:00
+layout: post
 link: http://habi.gna.ch/2010/06/05/hotel-giessbachfalle/
 slug: hotel-giessbachfalle
 title: Hotel Giessbachfälle
-url: /2010/06/05/hotel-giessbachfalle/
 wordpress_id: 2132
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4063/4670810719_d01b8c0ceb_m.jpg)](http://www.flickr.com/photos/habi/4670810719/)
+
+ [![](http://farm5.static.flickr.com/4063/4670810719_d01b8c0ceb_m.jpg)](http://www.flickr.com/photos/habi/4670810719/)
    
 
  

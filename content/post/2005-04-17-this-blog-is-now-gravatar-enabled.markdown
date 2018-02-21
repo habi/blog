@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2005-04-17T14:08:50Z
+date: 2005-04-17 14:08:50+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/17/this-blog-is-now-gravatar-enabled/
 slug: this-blog-is-now-gravatar-enabled
 title: this blog is now gravatar enabled
-url: /2005/04/17/this-blog-is-now-gravatar-enabled/
 wordpress_id: 769
+categories:
+- technospeak
 ---
+
 
 to make posting comments a little bit more rewarding i implemented [gravatars](http://gravatar.com/) on this blog.
   

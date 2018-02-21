@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-25T15:28:14Z
+date: 2003-07-25 15:28:14+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/25/some-other-blogs-near-my-epicentre/
 slug: some-other-blogs-near-my-epicentre
 title: some other blogs near my epicentre
-url: /2003/07/25/some-other-blogs-near-my-epicentre/
 wordpress_id: 231
+categories:
+- none
 ---
 
 ok, i thought it's about time to jump the bandwagon and list some friends with a blog:

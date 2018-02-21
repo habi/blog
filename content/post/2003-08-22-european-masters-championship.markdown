@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-22T18:17:22Z
+date: 2003-08-22 18:17:22+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/22/european-masters-championship/
 slug: european-masters-championship
 title: European Masters Championship
-url: /2003/08/22/european-masters-championship/
 wordpress_id: 267
+categories:
+- none
 ---
 
 Next week i will probably not update my blog at all, because i'll be at the [European Masters Championship](http://www.ffnatation.org/events/mtr_millau_2003/index.html) in [Millau](http://www.wunderground.com/global/stations/07558.html), [France](http://www.ffnatation.org/events/mtr_millau_2003/millau.php?idlng=gbr&idrub=mil).

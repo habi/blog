@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-21T16:51:19Z
+date: 2004-01-21 16:51:19+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/21/take-the-minipop-quiz/
 slug: take-the-minipop-quiz
 title: take the minipop-quiz!
-url: /2004/01/21/take-the-minipop-quiz/
 wordpress_id: 411
+categories:
+- none
 ---
 
 how good do you know famous people?

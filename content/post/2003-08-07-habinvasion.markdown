@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-08-07T18:54:26Z
+date: 2003-08-07 18:54:26+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/07/habinvasion/
 slug: habinvasion
 title: HABinvasion
-url: /2003/08/07/habinvasion/
 wordpress_id: 252
+categories:
+- none
 ---
 
 how nice!

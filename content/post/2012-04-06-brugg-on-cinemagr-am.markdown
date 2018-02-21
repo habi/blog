@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2012-04-06 09:13:04+00:00
+layout: post
+link: http://habi.gna.ch/2012/04/06/brugg-on-cinemagr-am/
+slug: brugg-on-cinemagr-am
+title: Brugg on cinemagr.am
+wordpress_id: 2719
 categories:
 - gadgets and gizmos
 - memes
 - pictures
 - switzerland
-comments: true
-date: 2012-04-06T09:13:04Z
-link: http://habi.gna.ch/2012/04/06/brugg-on-cinemagr-am/
-slug: brugg-on-cinemagr-am
 tags:
 - photography
-title: Brugg on cinemagr.am
-url: /2012/04/06/brugg-on-cinemagr-am/
-wordpress_id: 2719
 ---
 
 Letzhin hab' ich eine neue App installiert: [cinemagr.am](http://itunes.apple.com/app/cinemagram/id487225881?mt=8)

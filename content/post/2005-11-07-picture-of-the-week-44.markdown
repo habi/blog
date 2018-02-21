@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2005-11-07T20:15:29Z
+date: 2005-11-07 20:15:29+00:00
+layout: post
 link: http://habi.gna.ch/2005/11/07/picture-of-the-week-44/
 slug: picture-of-the-week-44
 title: picture of the week 44
-url: /2005/11/07/picture-of-the-week-44/
 wordpress_id: 97
+categories:
+- picture of the week
 ---
+
 
 this weekend we had the berner schwimmtage, a two-day swimming event, including the [sprintnight](http://sprintnacht.ch), which was absolutely fabulous (see some more pictures [here](http://sprintnacht.ch/index2.php?x=1264&y=868&value=./galerie/iframe.php&link=31) or [here](http://flickr.com/photos/tags/berner+schwimmtage/)). chantal cavin [1] swam a new world record for disabled swimmers, a lot of swimmers swam new meeting records and even more swam new personal records [2].
   

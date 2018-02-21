@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-01T17:13:27Z
+date: 2003-10-01 17:13:27+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/01/todays-fun-link/
 slug: todays-fun-link
 title: todays fun link
-url: /2003/10/01/todays-fun-link/
 wordpress_id: 286
+categories:
+- none
 ---
 
 cannot afford an ipod?

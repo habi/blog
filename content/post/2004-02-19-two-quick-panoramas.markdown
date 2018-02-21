@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-19T21:56:26Z
+date: 2004-02-19 21:56:26+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/19/two-quick-panoramas/
 slug: two-quick-panoramas
 title: two quick panoramas
-url: /2004/02/19/two-quick-panoramas/
 wordpress_id: 440
+categories:
+- none
 ---
 
 these are two panoramas (both [qtvr](http://www.apple.com/quicktime/qtvr/))i made last week, both of 'em just little dirty hacks, because i did not use a tripod, just free-hand photography:

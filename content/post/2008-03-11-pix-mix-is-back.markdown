@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2008-03-11 18:32:02+00:00
+layout: post
+link: http://habi.gna.ch/2008/03/11/pix-mix-is-back/
+slug: pix-mix-is-back
+title: pix-mix is back!
+wordpress_id: 1212
 categories:
 - pictures
 - switzerland
 - tschörman
-comments: true
-date: 2008-03-11T18:32:02Z
-link: http://habi.gna.ch/2008/03/11/pix-mix-is-back/
-slug: pix-mix-is-back
 tags:
 - lang:de
 - ph
 - pixmix
-title: pix-mix is back!
-url: /2008/03/11/pix-mix-is-back/
-wordpress_id: 1212
 ---
 
 keine idee, wie ich darüber gestolpert bin, aber eine erwähnung ist das auf alle fälle wert: [pix-mix](http://www.pix-mix.ch/) is back!

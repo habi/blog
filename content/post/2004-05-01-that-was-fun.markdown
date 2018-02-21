@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-01T11:43:39Z
+date: 2004-05-01 11:43:39+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/01/that-was-fun/
 slug: that-was-fun
 title: that was fun!
-url: /2004/05/01/that-was-fun/
 wordpress_id: 518
+categories:
+- none
 ---
 
 [![thoemu-bikeline](http://habi.gna.ch/blog/images/thoemu-bikeline-tm.jpg)](http://habi.gna.ch/blog/images/thoemu-bikeline.png)this morning i went to [thomu](http://www.thoemus.ch) to see if he has any good bikes to offer (he has). i knew that my mom went to [roschu](http://bikeline.ch/) around noon to buy a bike for herself today, so i tried to be there as fast as possible (because i wanted to help her a bit and was already late).  

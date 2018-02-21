@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- apple
-- technospeak
 comments: true
-date: 2004-10-29T19:57:12Z
+date: 2004-10-29 19:57:12+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/29/address-book-apple-script/
 slug: address-book-apple-script
 title: address book apple-script
-url: /2004/10/29/address-book-apple-script/
 wordpress_id: 663
+categories:
+- apple
+- technospeak
 ---
 
 the [powerbook blog](http://powerbook.blogger.de/stories/167895/) linked to a nice hint on [macosxhints.ch](http://www.macosxhints.ch/index.php?page=2&hintid=1163) (features german translations of [osxhints.com](http://www.macosxhints.com/), but also original german hints).

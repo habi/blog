@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2005-10-31T13:27:37Z
+date: 2005-10-31 13:27:37+00:00
+layout: post
 link: http://habi.gna.ch/2005/10/31/bollocks-my-design-is-b0rked/
 slug: bollocks-my-design-is-b0rked
 title: bollocks! my design is b0rked.
-url: /2005/10/31/bollocks-my-design-is-b0rked/
 wordpress_id: 92
+categories:
+- technospeak
 ---
+
 
 i've updated my blog to [MT 3.2](http://www.sixapart.com/movabletype/) [1] and now i lost all my customizations to the sidebar and stuff like that [2]. good that i documented the odds and ends, so i might be able to rebuild it rather fast. in the moment you must bear with the rather terrible view on /blog when you visit in the browser. if you access my blog through the feed, you shouldn't notice a thing.
   

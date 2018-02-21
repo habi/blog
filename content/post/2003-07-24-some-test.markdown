@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-24T21:19:30Z
+date: 2003-07-24 21:19:30+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/24/some-test/
 slug: some-test
 title: some test
-url: /2003/07/24/some-test/
 wordpress_id: 337
+categories:
+- none
 ---
 
 i am testing a program to update my blog from my mac without logging into movable type on my server.

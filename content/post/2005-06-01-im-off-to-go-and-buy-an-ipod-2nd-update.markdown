@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- apple
-- gadgets and gizmos
 comments: true
-date: 2005-06-01T07:24:58Z
+date: 2005-06-01 07:24:58+00:00
+layout: post
 link: http://habi.gna.ch/2005/06/01/im-off-to-go-and-buy-an-ipod-2nd-update/
 slug: im-off-to-go-and-buy-an-ipod-2nd-update
 title: i'm off to go and buy an ipod [2nd update]
-url: /2005/06/01/im-off-to-go-and-buy-an-ipod-2nd-update/
 wordpress_id: 19
+categories:
+- apple
+- gadgets and gizmos
 ---
 
 'cause they now come with [tetris](http://www.appleinsider.com/article.php?id=1101). i'm now really gonna buy a new one. or shall i wait 'till after [wwdc](http://developer.apple.com/wwdc/) next monday?

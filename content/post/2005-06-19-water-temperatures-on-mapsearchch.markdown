@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
-- linkdump
 comments: true
-date: 2005-06-19T18:41:19Z
+date: 2005-06-19 18:41:19+00:00
+layout: post
 link: http://habi.gna.ch/2005/06/19/water-temperatures-on-mapsearchch/
 slug: water-temperatures-on-mapsearchch
 title: water temperatures on map.search.ch
-url: /2005/06/19/water-temperatures-on-mapsearchch/
 wordpress_id: 29
+categories:
+- gadgets and gizmos
+- linkdump
 ---
+
 
 [![Wassertemperaturen](http://habi.gna.ch/blog/images/wassertemperaturen-tm.jpg)](http://habi.gna.ch/blog/images/wassertemperaturen.jpg)[those guys](http://about.search.ch/) are geeks, but also know where to make some funny additions to their code :-)
 

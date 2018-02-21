@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2006-02-13T21:32:55Z
+date: 2006-02-13 21:32:55+00:00
+layout: post
 link: http://habi.gna.ch/2006/02/13/picture-of-the-week-06/
 slug: picture-of-the-week-06
 title: picture of the week 06
-url: /2006/02/13/picture-of-the-week-06/
 wordpress_id: 134
+categories:
+- picture of the week
 ---
+
 
 the past saturday i've spent a day in [plan-les-ouates](http://map.search.ch/planlesouates), near geneva at the first masters meeting of the [swim team of plan-les-ouates](http://plo-natation.ch/). martin and me were the ones starting for [bern](http://plo-natation.ch/), kurt and pesche started for [basel](http://www.svbasel.ch/).
   

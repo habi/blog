@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2012-09-10T17:59:55Z
+date: 2012-09-10 17:59:55+00:00
+layout: post
 link: http://habi.gna.ch/2012/09/10/tedxbern/
 slug: tedxbern
+title: TEDxBern
+wordpress_id: 2890
+categories:
+- personal
 tags:
 - bern
 - ted
 - tedx
-title: TEDxBern
-url: /2012/09/10/tedxbern/
-wordpress_id: 2890
 ---
 
 Letzte Woche hat im [BrainGym](http://www.swisscom.ch/solutions/News-Dialogue/BrainGym-das-Treibhaus-der-Inspiration) der Swisscom die [TED](http://www.ted.com)-Satellitenkonferenz TEDxBern stattgefunden. Herbeigerufen von [Berner Internetprominenz](http://tedxbern.com/#team) hatte eine mittelgrosse Gruppe von ZuschauerInnen die Gelegenheit, Inputs aus verschiedensten Richtungen zu bekommen.

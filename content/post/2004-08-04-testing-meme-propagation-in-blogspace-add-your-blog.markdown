@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-08-04T08:32:30Z
+date: 2004-08-04 08:32:30+00:00
+layout: post
 link: http://habi.gna.ch/2004/08/04/testing-meme-propagation-in-blogspace-add-your-blog/
 slug: testing-meme-propagation-in-blogspace-add-your-blog
 title: 'Testing Meme Propagation In Blogspace: Add Your Blog!'
-url: /2004/08/04/testing-meme-propagation-in-blogspace-add-your-blog/
 wordpress_id: 594
+categories:
+- none
 ---
 
 This posting is a community experiment started by [Minding the Planet](http://novaspivack.typepad.com/nova_spivacks_weblog/2004/08/a_sonar_ping_of.html) to see how a meme represented by a blog posting spreads across blogspace, physical space and time. It will help to show how ideas travel across blogs in space and time and how blogs are connected. It may also help to show which blogs are most influential in the propagation of memes. The original posting for this experiment is located at: Minding the Planet; results and commentary will appear there in the future. 

@@ -9,28 +9,21 @@ After wanting to remove a ton of dependencies and headaches I tried running it b
 After putting some more thoughts on it, I found [Hugo](http://gohugo.io) in combination with [Netlify](https://netlify.com/) an even more compelling solution.
 This means that - in theory - I'm free to move this thing to any host I want and still have the blog running from this repository.
 
-## Steps to export and convert the data
+## Steps to export and convert the data to a Jekyll site
 
-- Export an XML file from http://habi.gna.ch/wp-admin/export.php (gives you habignach.wordpress.2017-08-30.xml as per today).
+- Export an XML file from http://habi.gna.ch/wp-admin/export.php (gives you habignach.wordpress.2018-02-21.xml as per today).
 - `git clone https://github.com/thomasf/exitwp.git ~/Dev/exitwp`
 - `cp ~/Dev/*.xml ~/Dev/exitwp/wordpress-xml`
 - `cd ~/Dev/exitwp/ && python2 exitwp.py`
-- `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/habi.github.io/_posts/`
+- `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/_posts/`
 
-## Start this shizzle
-
-- `cd ~/Dev/habi.github.io && jekyll new . --force`
-- Add all files in `_posts` to the Git repository
-- Push to GitHub
-- Change repository [settings](https://github.com/habi/blog/settings) to enable GitHub Pages for this repository
-- Connect to [Travis CI](https://travis-ci.org/habi/habi.github.io), with the details given on [this GitHub page](https://help.github.com/articles/viewing-jekyll-build-error-messages/)
-- We then have a running Jekyll site at [habi.github.io/](https://habi.github.io)
+The exoprted posts are geared toward a 'Jekyll' site, but also work with 'hugo'.
 
 ## Convert to Hugo
 
 - Move all the Jekyll stuff (from this repository) to a temporary folder
-- `hugo import jekyll ~/Dev/temporary-folder/ ~/Devhabi.github.io/ --force`
-- `cd ~/Dev/habi.github.io/themes`
+- `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/content/post/`
+- `cd ~/Dev/blog/themes`
 - Add a theme with `cd themes && git submodule add ThemeURL`, since Netlify doesn't support the usual `git clone ThemeURL` way of installing Hugo themes.
 
 # Host this thing (automatically)

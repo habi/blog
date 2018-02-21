@@ -1,13 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2013-03-19 21:50:08+00:00
+layout: post
+link: http://habi.gna.ch/2013/03/19/die-swiss-light-source-im-2012/
+slug: die-swiss-light-source-im-2012
+title: Die Swiss Light Source im 2012
+wordpress_id: 3069
 categories:
 - movies
 - personal
 - technospeak
-comments: true
-date: 2013-03-19T21:50:08Z
-link: http://habi.gna.ch/2013/03/19/die-swiss-light-source-im-2012/
-slug: die-swiss-light-source-im-2012
 tags:
 - hugin
 - movies
@@ -15,9 +18,6 @@ tags:
 - sls
 - swiss light source
 - video
-title: Die Swiss Light Source im 2012
-url: /2013/03/19/die-swiss-light-source-im-2012/
-wordpress_id: 3069
 ---
 
 Wer meinen flickr-Stream etwas im Auge behält, weiss, dass ich im 2012 jeden Monat ein Panorama im Innenhof der [Swiss Light Source](http://www.psi.ch/sls/) gemacht habe.

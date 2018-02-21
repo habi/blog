@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2007-10-14T20:42:46Z
+date: 2007-10-14 20:42:46+00:00
+layout: post
 link: http://habi.gna.ch/2007/10/14/liebe-ist-2/
 slug: liebe-ist-2
 title: liebe ist...
-url: /2007/10/14/liebe-ist-2/
 wordpress_id: 1057
+categories:
+- none
 ---
 
-[![](http://farm3.static.flickr.com/2196/1571326929_29d1f7055c_m.jpg)](http://www.flickr.com/photos/habi/1571326929/)
+
+ [![](http://farm3.static.flickr.com/2196/1571326929_29d1f7055c_m.jpg)](http://www.flickr.com/photos/habi/1571326929/)
    
 
  
@@ -23,6 +24,7 @@ wordpress_id: 1057
 
 
 
-...sich am samstag mittag für ein spontanes zeltli-wochenende im tessin zu entscheiden!ï¿¼
+
+...sich am samstag mittag für ein spontanes zeltli-wochenende im tessin zu entscheiden!
   
 

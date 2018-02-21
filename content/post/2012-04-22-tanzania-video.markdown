@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2012-04-22 21:49:16+00:00
+layout: post
+link: http://habi.gna.ch/2012/04/22/tanzania-video/
+slug: tanzania-video
+title: Tanzania-Video
+wordpress_id: 2733
 categories:
 - movies
 - personal
 - tschörman
-comments: true
-date: 2012-04-22T21:49:16Z
-link: http://habi.gna.ch/2012/04/22/tanzania-video/
-slug: tanzania-video
 tags:
 - africa
 - ferien
 - tanzania
-title: Tanzania-Video
-url: /2012/04/22/tanzania-video/
-wordpress_id: 2733
 ---
 
 Vor gut [einem Monat hab' ich Herr Hosae versprochen](http://habi.gna.ch/2012/03/17/tansania/), dass es dann noch ein Video aus den Tanzania-Ferien gibt.

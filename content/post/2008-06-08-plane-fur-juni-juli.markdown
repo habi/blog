@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2008-06-08T21:11:49Z
+date: 2008-06-08 21:11:49+00:00
+layout: post
 link: http://habi.gna.ch/2008/06/08/plane-fur-juni-juli/
 slug: plane-fur-juni-juli
+title: pläne für juni-juli [with map]
+wordpress_id: 1280
+categories:
+- personal
 tags:
 - canada
-title: pläne für juni-juli [with map]
-url: /2008/06/08/plane-fur-juni-juli/
-wordpress_id: 1280
 ---
 
 tipp: einen sonntag nachmittag im wohnzimmer auf den isoliermätteli im zelt zu verbringen [1] und mit google maps zu planen, was man in einem monat kanada so in etwa sehen will, kann zu akutem reisefieber führen!

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2005-09-29T20:14:30Z
+date: 2005-09-29 20:14:30+00:00
+layout: post
 link: http://habi.gna.ch/2005/09/29/abtimmen-update/
 slug: abtimmen-update
 title: abstimmen! [update]
-url: /2005/09/29/abtimmen-update/
 wordpress_id: 76
+categories:
+- personal
+- pictures
 ---
+
 
 [in den bergen ist freiheit](http://www.indenbergenistfreiheit.ch/) lancierte einen bergfotowettbewerb (um irgendein monopol zu brechen [1]). jetzt kann bis nächsten samstag (8.10.) abgestimmt werden, damit dann ein foto das schönste ist.
   

@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-04-06T22:07:30Z
+date: 2010-04-06 22:07:30+00:00
+layout: post
 link: http://habi.gna.ch/2010/04/07/17-minuten-krieg/
 slug: 17-minuten-krieg
+title: 17 minuten krieg [update]
+wordpress_id: 2093
+categories:
+- personal
 tags:
 - notwendig.
-title: 17 minuten krieg [update]
-url: /2010/04/06/17-minuten-krieg/
-wordpress_id: 2093
 ---
 
 der [bugsierer](http://henusodeblog.blogspot.com/2010/04/17-minuten-krieg.html) linkt zu einem video, welches wirklich nur angeschaut werden soll, wenn mensch in die hassliche fratze des krieges schauen will. wirklich. echt. ansonsten lasst mensch es lieber sein und wundert sich, wieso [facebook beginnt, zensur auszuuben](http://habi.soup.io/post/52099248/RT-brokep-RT-parasight-Facebook-is-censoring).

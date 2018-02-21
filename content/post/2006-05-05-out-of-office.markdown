@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2006-05-05T13:08:49Z
+date: 2006-05-05 13:08:49+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/05/out-of-office/
 slug: out-of-office
 title: out of office
-url: /2006/05/05/out-of-office/
 wordpress_id: 167
+categories:
+- personal
 ---
+
 
 [![Sbaw Outofoffice](http://habi.gna.ch/blog/images/sbaw_outofoffice-tm.jpg)](http://habi.gna.ch/blog/images/sbaw_outofoffice.jpg)
 

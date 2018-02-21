@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2014-04-02T21:20:32Z
+date: 2014-04-02 21:20:32+00:00
+layout: post
 link: http://habi.gna.ch/2014/04/02/die-neue-solikarte/
 slug: die-neue-solikarte
+title: Die neue Solikarte
+wordpress_id: 3415
+categories:
+- personal
 tags:
 - solikarte
-title: Die neue Solikarte
-url: /2014/04/02/die-neue-solikarte/
-wordpress_id: 3415
 ---
 
 Die sture Migros hat’s tatsächlich geschafft, die [Einfachheit der Solikarte](http://habi.gna.ch/2013/07/01/einfach-fluchtlingen-helfen/) zu zerstören, seit gestern können mit dem gäbigen Solikarten-Kleber keine Cumulus-Punkte mehr gesammelt werden, etwas Hintergründe dazu gibt’s [hier](http://solicarte.ch/de/).

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2005-07-18T19:04:36Z
+date: 2005-07-18 19:04:36+00:00
+layout: post
 link: http://habi.gna.ch/2005/07/18/gravatar-is-down-update/
 slug: gravatar-is-down-update
 title: gravatar is down [update]
-url: /2005/07/18/gravatar-is-down-update/
 wordpress_id: 44
+categories:
+- technospeak
 ---
+
 
 you might have noticed that my [gravatars](http://habi.gna.ch/blog/archives/000576.html) are not displayed anymore. this is because gravatar.com is down at the moment[1].
   

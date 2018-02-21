@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2015-11-04 08:44:34+00:00
+layout: post
+link: http://habi.gna.ch/2015/11/04/hallo-november/
+slug: hallo-november
+title: Hallo November!
+wordpress_id: 4091
 categories:
 - moblog
 - photos
-comments: true
-date: 2015-11-04T08:44:34Z
-link: http://habi.gna.ch/2015/11/04/hallo-november/
-slug: hallo-november
 tags:
 - flickr
 - IFTTT
 - moblog
-title: Hallo November!
-url: /2015/11/04/hallo-november/
-wordpress_id: 4091
 ---
 
 ![](http://ift.tt/1krDEWo)  

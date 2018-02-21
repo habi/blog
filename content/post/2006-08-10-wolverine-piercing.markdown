@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
-- linkdump
 comments: true
-date: 2006-08-10T17:24:36Z
+date: 2006-08-10 17:24:36+00:00
+layout: post
 link: http://habi.gna.ch/2006/08/10/wolverine-piercing/
 slug: wolverine-piercing
 title: wolverine piercing
-url: /2006/08/10/wolverine-piercing/
 wordpress_id: 210
+categories:
+- gadgets and gizmos
+- linkdump
 ---
+
 
 it's just a temporary piercing, but looks soo cool. if it weren't so impracticable for typing, i'd get one tonight [1]!
 

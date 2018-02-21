@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-08T22:31:40Z
+date: 2004-09-08 22:31:40+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/09/grand-raid-pictures/
 slug: grand-raid-pictures
 title: grand raid pictures
-url: /2004/09/08/grand-raid-pictures/
 wordpress_id: 610
+categories:
+- none
 ---
 
 one of the sponsors of the [grand raid christalp](http://www.grand-raid-cristalp.ch/) is the [fotolabo club](http://www.fotolaboclub.ch/) which had lots a bunch of photographers along the track.

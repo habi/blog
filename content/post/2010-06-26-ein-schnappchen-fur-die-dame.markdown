@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-06-26T21:19:53Z
+date: 2010-06-26 21:19:53+00:00
+layout: post
 link: http://habi.gna.ch/2010/06/26/ein-schnappchen-fur-die-dame/
 slug: ein-schnappchen-fur-die-dame
 title: Ein Schnäppchen für die Dame [Video]
-url: /2010/06/26/ein-schnappchen-fur-die-dame/
 wordpress_id: 2136
+categories:
+- personal
 ---
 
 http://www.flickr.com/photos/habi/4736805060/

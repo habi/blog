@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
-- personal
 comments: true
-date: 2006-08-10T17:37:00Z
+date: 2006-08-10 17:37:00+00:00
+layout: post
 link: http://habi.gna.ch/2006/08/10/mash-sf/
 slug: mash-sf
 title: mash sf
-url: /2006/08/10/mash-sf/
 wordpress_id: 211
+categories:
+- linkdump
+- personal
 ---
+
 
 and here's another one of those short blurbs (i'm a bit in a hurry):
   

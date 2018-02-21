@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-11-05T06:21:01Z
+date: 2004-11-05 06:21:01+00:00
+layout: post
 link: http://habi.gna.ch/2004/11/05/ibook-disassembly/
 slug: ibook-disassembly
 title: ibook disassembly
-url: /2004/11/05/ibook-disassembly/
 wordpress_id: 667
+categories:
+- none
 ---
 
 after i partially unscrewed my ibook last night i gave up at two o'clock in the morning (mostly because i was too tired to go on and couldn't see the screws anymore :-)

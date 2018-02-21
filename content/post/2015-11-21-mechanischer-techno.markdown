@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2015-11-21T12:03:58Z
+date: 2015-11-21 12:03:58+00:00
+layout: post
 link: http://habi.gna.ch/2015/11/21/mechanischer-techno/
 slug: mechanischer-techno
 title: Mechanischer Techno
-url: /2015/11/21/mechanischer-techno/
 wordpress_id: 4099
+categories:
+- personal
 ---
 
 Und da sag' einer noch, Technomusik sei seelenlos.

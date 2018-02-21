@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2012-01-06T17:49:19Z
+date: 2012-01-06 17:49:19+00:00
+layout: post
 link: http://habi.gna.ch/2012/01/06/press-pause-play/
 slug: press-pause-play
+title: Press Pause Play
+wordpress_id: 2618
+categories:
+- music
 tags:
 - art
 - film
 - music
-title: Press Pause Play
-url: /2012/01/06/press-pause-play/
-wordpress_id: 2618
 ---
 
 Das schöne am Zugfahren ist ja, dass mensch nicht nur zum Fenster rausgucken kann, sondern ab und an auch einen Film anschauen kann. Heute habe ich mir auf der Hin- und Rückfahrt zur Arbeit [Press Pause Play](http://www.presspauseplay.com/) angeschaut.

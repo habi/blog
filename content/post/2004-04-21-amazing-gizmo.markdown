@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-21T15:57:13Z
+date: 2004-04-21 15:57:13+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/21/amazing-gizmo/
 slug: amazing-gizmo
 title: amazing gizmo
-url: /2004/04/21/amazing-gizmo/
 wordpress_id: 510
+categories:
+- none
 ---
 
 ![purple_open](http://habi.gna.ch/blog/images/purple_open.jpg)tired of having a dimpled and bruised banana?

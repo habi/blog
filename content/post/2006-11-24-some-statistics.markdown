@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2006-11-24 19:01:35+00:00
+layout: post
+link: http://habi.gna.ch/2006/11/24/some-statistics/
+slug: some-statistics
+title: some statistics
+wordpress_id: 818
 categories:
 - gadgets and gizmos
 - personal
 - technospeak
-comments: true
-date: 2006-11-24T19:01:35Z
-link: http://habi.gna.ch/2006/11/24/some-statistics/
-slug: some-statistics
-title: some statistics
-url: /2006/11/24/some-statistics/
-wordpress_id: 818
 ---
 
 since i've been mentioned in the [berner zeitung](http://www.espace.ch/artikel_75459.html) two weeks ago i thought it's time to take a look at the access-statistics of my site once again [1].

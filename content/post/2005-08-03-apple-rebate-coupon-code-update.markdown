@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- apple
-- gadgets and gizmos
 comments: true
-date: 2005-08-03T17:32:36Z
+date: 2005-08-03 17:32:36+00:00
+layout: post
 link: http://habi.gna.ch/2005/08/03/apple-rebate-coupon-code-update/
 slug: apple-rebate-coupon-code-update
 title: apple rebate coupon code [update]
-url: /2005/08/03/apple-rebate-coupon-code-update/
 wordpress_id: 56
+categories:
+- apple
+- gadgets and gizmos
 ---
 
 i finally ordered an ipod from apple ([jan](http://pieceoplastic.com/), don't flame me, please :-).

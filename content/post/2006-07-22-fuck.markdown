@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-07-22T16:13:05Z
+date: 2006-07-22 16:13:05+00:00
+layout: post
 link: http://habi.gna.ch/2006/07/22/fuck/
 slug: fuck
 title: fuck!
-url: /2006/07/22/fuck/
 wordpress_id: 204
+categories:
+- linkdump
 ---
+
 
 do not click on the play-button below if you have a low tolerance to rude words!
 

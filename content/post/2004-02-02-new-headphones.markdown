@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-02T17:29:39Z
+date: 2004-02-02 17:29:39+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/02/new-headphones/
 slug: new-headphones
 title: new headphones
-url: /2004/02/02/new-headphones/
 wordpress_id: 430
+categories:
+- none
 ---
 
 today my cheapo headphone was killed in an accident (it fell out my bag while i was on the bike and the cord was ripped off, no big deal, it only costed 9.90 a year ago.)

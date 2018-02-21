@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-20T22:24:37Z
+date: 2004-06-20 22:24:37+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/21/musical-convulsions/
 slug: musical-convulsions
 title: musical convulsions
-url: /2004/06/20/musical-convulsions/
 wordpress_id: 562
+categories:
+- none
 ---
 
 so here's something funny for all of you which don't want to be bothered with my rant below.

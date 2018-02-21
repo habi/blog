@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2006-05-08T09:06:30Z
+date: 2006-05-08 09:06:30+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/08/sbaw-a-retrospective-and-picture-of-the-week-18/
 slug: sbaw-a-retrospective-and-picture-of-the-week-18
 title: SBAW, a retrospective and picture of the week 18
-url: /2006/05/08/sbaw-a-retrospective-and-picture-of-the-week-18/
 wordpress_id: 171
+categories:
+- picture of the week
 ---
+
 
 i really liked it on [friday night in biel](http://swissblogawards.ch/).
   

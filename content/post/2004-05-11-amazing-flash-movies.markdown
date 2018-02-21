@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-11T17:48:21Z
+date: 2004-05-11 17:48:21+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/11/amazing-flash-movies/
 slug: amazing-flash-movies
 title: amazing flash-movies
-url: /2004/05/11/amazing-flash-movies/
 wordpress_id: 525
+categories:
+- none
 ---
 
 the [flagrant blogger](http://flagr.antville.org/) links to an [amazing movie](http://koti.mbnet.fi/reagan/lodger/ilove.html), but i think the [other movie](http://hkkk.fi/~laari/lodger/doorsteps.html) of that guy is even better. 

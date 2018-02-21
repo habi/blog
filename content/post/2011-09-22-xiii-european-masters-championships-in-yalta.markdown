@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-09-22T22:59:28Z
+date: 2011-09-22 22:59:28+00:00
+layout: post
 link: http://habi.gna.ch/2011/09/23/xiii-european-masters-championships-in-yalta/
 slug: xiii-european-masters-championships-in-yalta
+title: XIII European Masters Championships in Yalta
+wordpress_id: 2560
+categories:
+- personal
 tags:
 - competition
 - swimming
 - yalta
-title: XIII European Masters Championships in Yalta
-url: /2011/09/22/xiii-european-masters-championships-in-yalta/
-wordpress_id: 2560
 ---
 
 Vom 3.-12. September war ich auf der [Krim](http://de.wikipedia.org/wiki/Krim) und habe an den Masters-Europameisterschaften im Schwimmen teilgenommen. Die geschwommenen Zeiten waren eher zweitrangig (oder noch weniger :), trotzdem hatte das Team SKBE, verstärkt durch einen Schwimmer der Limmat Sharks Zürich eine gute Woche in Yalta. Wer sich wirklich für die Resultate interessiert, findet [hier](http://yaltamasters2011.org/competition/results) die offizielle Resultateliste, ich bin 200m Lagen, 50m Delphin, 100m und 50m Crawl sowie 3km Openwater geschwommenâ€¦ Das Bild unten zeigt zwei Schwimmerinnen des SKBE plus das komplette Team der Limmat Sharks, der dritte SKBE-Schwimmer steht hinter der Kamera.

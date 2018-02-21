@@ -1,12 +1,15 @@
 ---
 author: admin
+comments: true
+date: 2016-09-12 14:19:27+00:00
+layout: post
+link: http://habi.gna.ch/2016/09/12/heidsee-sommerlich/
+slug: heidsee-sommerlich
+title: Heidsee, sommerlich
+wordpress_id: 4626
 categories:
 - moblog
 - photos
-comments: true
-date: 2016-09-12T14:19:27Z
-link: http://habi.gna.ch/2016/09/12/heidsee-sommerlich/
-slug: heidsee-sommerlich
 tags:
 - flickr
 - heidsee
@@ -15,9 +18,6 @@ tags:
 - lenzerheide
 - moblog
 - seerie
-title: Heidsee, sommerlich
-url: /2016/09/12/heidsee-sommerlich/
-wordpress_id: 4626
 ---
 
 ![](http://ift.tt/2clUB3c)  

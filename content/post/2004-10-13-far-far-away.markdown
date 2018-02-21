@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-13T22:57:12Z
+date: 2004-10-13 22:57:12+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/14/far-far-away/
 slug: far-far-away
 title: far far away
-url: /2004/10/13/far-far-away/
 wordpress_id: 648
+categories:
+- none
 ---
 
 i'm on the [weissfluhjoch](http://www.slf.ch/images/wfj-gr.jpg) to visit [sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html) until sunday, so you might not want to expect any updates here.

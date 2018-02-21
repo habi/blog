@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2012-10-13 21:43:01+00:00
+layout: post
+link: http://habi.gna.ch/2012/10/13/der-niesen/
+slug: der-niesen
+title: Der Niesen
+wordpress_id: 2933
 categories:
 - diving
 - personal
 - pictures
 - switzerland
-comments: true
-date: 2012-10-13T21:43:01Z
-link: http://habi.gna.ch/2012/10/13/der-niesen/
-slug: der-niesen
 tags:
 - diving
 - niesen
-title: Der Niesen
-url: /2012/10/13/der-niesen/
-wordpress_id: 2933
 ---
 
 Ich war heute morgen um halb zehn am (und dann im) Thunersee. Und ihr so?

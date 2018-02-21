@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-06T21:50:13Z
+date: 2004-10-06 21:50:13+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/06/new-pictures-are-online/
 slug: new-pictures-are-online
 title: new pictures are online
-url: /2004/10/06/new-pictures-are-online/
 wordpress_id: 637
+categories:
+- none
 ---
 
 my pictures from the suicmc04 are online.

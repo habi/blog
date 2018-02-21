@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2012-10-11T17:18:51Z
+date: 2012-10-11 17:18:51+00:00
+layout: post
 link: http://habi.gna.ch/2012/10/11/neuenburgersee/
 slug: neuenburgersee
 title: Neuenburgersee
-url: /2012/10/11/neuenburgersee/
 wordpress_id: 2929
+categories:
+- personal
 ---
 
-[![](http://farm9.staticflickr.com/8195/8077503897_ba1d2548db_m.jpg)](http://www.flickr.com/photos/habi/8077503897/)
+
+ [![](http://farm9.staticflickr.com/8195/8077503897_ba1d2548db_m.jpg)](http://www.flickr.com/photos/habi/8077503897/)
    
 
  

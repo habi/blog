@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-23T21:10:43Z
+date: 2004-03-23 21:10:43+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/23/mt-blacklist/
 slug: mt-blacklist
 title: MT-Blacklist
-url: /2004/03/23/mt-blacklist/
 wordpress_id: 477
+categories:
+- none
 ---
 
 i was not absolutely happy with [MT-Blacklist](http://www.jayallen.org/projects/mt-blacklist/) up to now, because i still get some comment from day to day.

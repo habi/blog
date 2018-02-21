@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2007-08-23T19:06:08Z
+date: 2007-08-23 19:06:08+00:00
+layout: post
 link: http://habi.gna.ch/2007/08/23/auf-dem-heimweg/
 slug: auf-dem-heimweg
 title: auf dem heimweg
-url: /2007/08/23/auf-dem-heimweg/
 wordpress_id: 1008
+categories:
+- none
 ---
 
-[![](http://farm2.static.flickr.com/1074/1216263660_7043211fc7_m.jpg)](http://www.flickr.com/photos/habi/1216263660/)
+
+ [![](http://farm2.static.flickr.com/1074/1216263660_7043211fc7_m.jpg)](http://www.flickr.com/photos/habi/1216263660/)
    
 
  

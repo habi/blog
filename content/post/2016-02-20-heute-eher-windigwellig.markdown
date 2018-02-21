@@ -1,12 +1,15 @@
 ---
 author: admin
+comments: true
+date: 2016-02-20 12:58:42+00:00
+layout: post
+link: http://habi.gna.ch/2016/02/20/heute-eher-windigwellig/
+slug: heute-eher-windigwellig
+title: Heute eher windig/wellig
+wordpress_id: 4352
 categories:
 - moblog
 - photos
-comments: true
-date: 2016-02-20T12:58:42Z
-link: http://habi.gna.ch/2016/02/20/heute-eher-windigwellig/
-slug: heute-eher-windigwellig
 tags:
 - divecenter
 - flickr
@@ -15,9 +18,6 @@ tags:
 - moblog
 - seerie
 - thunersee
-title: Heute eher windig/wellig
-url: /2016/02/20/heute-eher-windigwellig/
-wordpress_id: 4352
 ---
 
 ![](http://ift.tt/1XDEvS5)  

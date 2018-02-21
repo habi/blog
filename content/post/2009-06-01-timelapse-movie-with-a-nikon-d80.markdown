@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- technospeak
 comments: true
-date: 2009-06-01T15:00:09Z
+date: 2009-06-01 15:00:09+00:00
+layout: post
 link: http://habi.gna.ch/2009/06/01/timelapse-movie-with-a-nikon-d80/
 slug: timelapse-movie-with-a-nikon-d80
+title: timelapse-movie with a nikon d80
+wordpress_id: 1782
+categories:
+- technospeak
 tags:
 - chives
 - nikon d80
 - time-lapse
-title: timelapse-movie with a nikon d80
-url: /2009/06/01/timelapse-movie-with-a-nikon-d80/
-wordpress_id: 1782
 ---
 
 lately, there has been quite a [hype](http://leumund.ch/2009/info/timelapse-movie-mit-chdk/) around timelapse-movies (one fabulous example by the amazing [keith loutit](http://vimeo.com/channels/keithloutitssydney): [Metal Heart](http://vimeo.com/2317118) ), so i wanted to jump the bandwagon: as there is no addon firmware for [my camera](http://www.flickr.com/cameras/nikon/d80/) as there is for [certain canon models](http://chdk.wikia.com/wiki/CHDK) i'm confined either using an [intervalometer](http://www.google.com/search?hl=en&client=safari&rls=en-us&q=intervalometer+arduino+nikon&btnG=Search&aq=f&oq=&aqi=) or an external software to trigger the time-lapse process. luckily for me there exists an donation-ware called [sofortbild.app](http://www.sofortbildapp.com/) which allows for tethered shooting with os x.

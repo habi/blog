@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-10-18T09:41:05Z
+date: 2004-10-18 09:41:05+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/18/picture-of-the-week-43/
 slug: picture-of-the-week-43
 title: picture of the week 43
-url: /2004/10/18/picture-of-the-week-43/
 wordpress_id: 649
+categories:
+- picture of the week
 ---
 
 this is sigi on the ridge leading from the weissfluhjoch to nowhere.

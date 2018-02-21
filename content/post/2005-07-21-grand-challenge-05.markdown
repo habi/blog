@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
 comments: true
-date: 2005-07-21T22:22:20Z
+date: 2005-07-21 22:22:20+00:00
+layout: post
 link: http://habi.gna.ch/2005/07/22/grand-challenge-05/
 slug: grand-challenge-05
 title: grand challenge 05
-url: /2005/07/21/grand-challenge-05/
 wordpress_id: 47
+categories:
+- gadgets and gizmos
 ---
+
 
 hopefully this year's [grand challenge](http://www.darpa.mil/grandchallenge/) will be more of a success than [the last one](http://habi.gna.ch/blog/mt-search.cgi?IncludeBlogs=1&search=grand+challenge).
   

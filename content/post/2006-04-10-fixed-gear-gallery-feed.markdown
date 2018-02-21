@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2006-04-10 17:07:59+00:00
+layout: post
+link: http://habi.gna.ch/2006/04/10/fixed-gear-gallery-feed/
+slug: fixed-gear-gallery-feed
+title: fixed-gear-gallery feed [update]
+wordpress_id: 156
 categories:
 - bike
 - linkdump
 - personal
-comments: true
-date: 2006-04-10T17:07:59Z
-link: http://habi.gna.ch/2006/04/10/fixed-gear-gallery-feed/
-slug: fixed-gear-gallery-feed
-title: fixed-gear-gallery feed [update]
-url: /2006/04/10/fixed-gear-gallery-feed/
-wordpress_id: 156
 ---
+
 
 [raph/dom/blaize](http://velocite.ch/), this one is for you [1]:
 

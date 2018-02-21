@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-26T20:16:33Z
+date: 2004-01-26 20:16:33+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/26/dont-dis-my-blog-sucka/
 slug: dont-dis-my-blog-sucka
 title: don't dis my blog, sucka!
-url: /2004/01/26/dont-dis-my-blog-sucka/
 wordpress_id: 418
+categories:
+- none
 ---
 
 <rap-mode>

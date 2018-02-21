@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2005-11-04T07:09:18Z
+date: 2005-11-04 07:09:18+00:00
+layout: post
 link: http://habi.gna.ch/2005/11/04/ich-in-der-zeitung/
 slug: ich-in-der-zeitung
 title: ich in der zeitung
-url: /2005/11/04/ich-in-der-zeitung/
 wordpress_id: 93
+categories:
+- personal
+- pictures
 ---
+
 
 hey, ich bin in der zeitung! [this born](http://www.borniert.com/) hat in seiner kolumne [weblog](http://www.espace.ch/page_183.html) uber das [flickr-treffen](http://www.flickr.com/photos/tags/chflickrmeetupoct05/) geschrieben, und - obwohl wir uns am samstag verpasst haben - mich erwahnt [1]. wer den artikel in der bz nicht gesehen hat, kann das [hier](http://www.espace.ch/artikel_146219.html) nachholen.
   

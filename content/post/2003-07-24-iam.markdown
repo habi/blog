@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-24T21:54:53Z
+date: 2003-07-24 21:54:53+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/24/iam/
 slug: iam
 title: I.AM
-url: /2003/07/24/iam/
 wordpress_id: 230
+categories:
+- none
 ---
 
 ok.  
@@ -31,6 +31,6 @@ erm. this entry is here to get you to know me a bit better (if you already don't
   
 
 the image on the left shows me with glasses, which i really don't wear that often, and the one on the right shows me having fun with my mobile, the [sonyericsson T610](http://www.sonyericsson.com/t610/overview/) (which is by the way the first mobile i own).
-<!--more-->
+<!-- more -->
   
 listening to: Secret Agent: The soundtrack for your stylish, mysterious, dangerous life. For Spys and P.I.'s too! [SomaFM]

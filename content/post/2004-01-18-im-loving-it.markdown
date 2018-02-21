@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-18T22:11:39Z
+date: 2004-01-18 22:11:39+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/19/im-loving-it/
 slug: im-loving-it
 title: i'm loving it!
-url: /2004/01/18/im-loving-it/
 wordpress_id: 408
+categories:
+- none
 ---
 
 i just love that quote:  

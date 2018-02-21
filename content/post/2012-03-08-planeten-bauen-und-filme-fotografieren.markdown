@@ -1,11 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2012-03-08T21:55:22Z
+date: 2012-03-08 21:55:22+00:00
+layout: post
 link: http://habi.gna.ch/2012/03/08/planeten-bauen-und-filme-fotografieren/
 slug: planeten-bauen-und-filme-fotografieren
+title: Planeten bauen und Filme fotografieren
+wordpress_id: 2653
+categories:
+- personal
 tags:
 - bern
 - bernereitung
@@ -13,9 +16,6 @@ tags:
 - photography
 - planet
 - timelapse
-title: Planeten bauen und Filme fotografieren
-url: /2012/03/08/planeten-bauen-und-filme-fotografieren/
-wordpress_id: 2653
 ---
 
 Wie öppendie mal wieder hat mich [This](http://www.borniert.com/) gefragt, ob ich ein Textli für die [Berner Zeitung](http://www.bernerzeitung.ch/) schreiben würde. Diesmal wurde es ein längeres Traktat, sogar mit Foto.

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-05T20:44:25Z
+date: 2004-02-05 20:44:25+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/05/4-pics/
 slug: 4-pics
 title: 4 pics
-url: /2004/02/05/4-pics/
 wordpress_id: 435
+categories:
+- none
 ---
 
 [![](http://habi.gna.ch/blog/images/prokredit2-tm.jpg)](http://habi.gna.ch/blog/images/prokredit2.jpg) [![](http://habi.gna.ch/blog/images/prokredit1-tm.jpg)](http://habi.gna.ch/blog/images/prokredit1.jpg)

@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- diving
 comments: true
-date: 2013-11-05T22:09:40Z
+date: 2013-11-05 22:09:40+00:00
+layout: post
 link: http://habi.gna.ch/2013/11/05/tauchen-im-lac-st-leonard/
 slug: tauchen-im-lac-st-leonard
+title: Tauchen im Lac St-Léonard
+wordpress_id: 3246
+categories:
+- diving
 tags:
 - diving
 - lac souterrain
 - wallis
-title: Tauchen im Lac St-Léonard
-url: /2013/11/05/tauchen-im-lac-st-leonard/
-wordpress_id: 3246
 ---
 
 Ich hör’ die Tekkies schon aufschreien, wenn ich das sage, aber ich hab’ am Samstag einen Höhlentauchgang [1] gemacht.

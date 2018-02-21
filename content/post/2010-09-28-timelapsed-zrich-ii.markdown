@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2010-09-28 17:36:56+00:00
+layout: post
+link: http://habi.gna.ch/2010/09/28/timelapsed-zrich-ii/
+slug: timelapsed-zrich-ii
+title: Timelapsed Zürich II
+wordpress_id: 2225
 categories:
 - pictures
 - technospeak
-comments: true
-date: 2010-09-28T17:36:56Z
-link: http://habi.gna.ch/2010/09/28/timelapsed-zrich-ii/
-slug: timelapsed-zrich-ii
 tags:
 - timelapse
 - webcam
-- zürich
-title: Timelapsed Zürich II
-url: /2010/09/28/timelapsed-zrich-ii/
-wordpress_id: 2225
+- z&#252;rich
 ---
 
 Herr Hosae hat [gefragt](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/#comment-13517), wieso ich die [Timelapse-Filme von Zurich](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/) stundlich gemacht habe, und nicht einen einzigen Monster-Zeitraffer-Film davon erstellt habe. Die einfache Antwort war, dass der Film so nicht so schon aussieht, viel zu nervos.

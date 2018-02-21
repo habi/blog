@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-02T21:24:09Z
+date: 2003-11-02 21:24:09+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/02/tandem-movie-ii/
 slug: tandem-movie-ii
 title: tandem movie II
-url: /2003/11/02/tandem-movie-ii/
 wordpress_id: 335
+categories:
+- none
 ---
 
 today i finally got the time to grab renzos pictures and movies from last friday. 

@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2005-10-30T16:20:09Z
+date: 2005-10-30 16:20:09+00:00
+layout: post
 link: http://habi.gna.ch/2005/10/30/picture-of-the-week-43/
 slug: picture-of-the-week-43
 title: picture of the week 43
-url: /2005/10/30/picture-of-the-week-43/
 wordpress_id: 90
+categories:
+- picture of the week
 ---
+
 
 i've been to zurich this wednesday (ninas birthday...) and was greeted with a wonderful morning when i went home. while walking over the [dammsteg](http://flickr.com/photos/habi/56969569/) i couln't resist to take some pictures. the link before is one of them. the one below shows a detail of the mill on the left of the panorama.
 

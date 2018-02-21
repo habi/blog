@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-12-14 20:54:17+00:00
+layout: post
+link: http://habi.gna.ch/2007/12/14/neuer-ghuder-kalender-fur-bern-b1/
+slug: neuer-ghuder-kalender-fur-bern-b1
+title: neuer ghüder-kalender für bern, B1
+wordpress_id: 1087
 categories:
 - personal
 - switzerland
 - tschörman
-comments: true
-date: 2007-12-14T20:54:17Z
-link: http://habi.gna.ch/2007/12/14/neuer-ghuder-kalender-fur-bern-b1/
-slug: neuer-ghuder-kalender-fur-bern-b1
-title: neuer ghüder-kalender für bern, B1
-url: /2007/12/14/neuer-ghuder-kalender-fur-bern-b1/
-wordpress_id: 1087
 ---
 
 ich bin umgezogen und wohne neuerdings nicht mehr im breitenrain, sondern im berner abfallkreis B1. vor [einiger zeit](http://habi.gna.ch/2006/12/22/ghuder/) habe ich mal die speziellen müllabfuhr-daten veröffentlicht, diese nützen mir aber nun nix mehr.

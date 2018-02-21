@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
 comments: true
-date: 2011-01-06T10:06:03Z
+date: 2011-01-06 10:06:03+00:00
+layout: post
 link: http://habi.gna.ch/2011/01/06/pixmix-44/
 slug: pixmix-44
+title: PixMix 44 (Recap)
+wordpress_id: 2349
+categories:
+- gadgets and gizmos
 tags:
 - keynote
-title: PixMix 44 (Recap)
-url: /2011/01/06/pixmix-44/
-wordpress_id: 2349
 ---
 
 Etwas alt, aber fur mich auch ein Test, wie das [neue iWork Prasentationen aus Keynote furs Netz](http://www.fscklog.com/2011/01/eingebettete-keynote-präsentation-ab-iwork-905.html) exportieren kann:

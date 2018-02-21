@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-02T11:46:12Z
+date: 2004-05-02 11:46:12+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/02/votezch/
 slug: votezch
 title: votez.ch
-url: /2004/05/02/votezch/
 wordpress_id: 519
+categories:
+- none
 ---
 
 ![votez_logo_klein](http://habi.gna.ch/blog/images/votez_logo_klein.gif)if you're like me and think that voting is a big part of democracy then this site might be the right thing for you: [votez.ch](http://www.votez.ch/) (for obvious reasons only in german).

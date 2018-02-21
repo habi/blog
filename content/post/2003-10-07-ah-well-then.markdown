@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-07T16:40:47Z
+date: 2003-10-07 16:40:47+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/07/ah-well-then/
 slug: ah-well-then
 title: ah well then!
-url: /2003/10/07/ah-well-then/
 wordpress_id: 299
+categories:
+- none
 ---
 
 this is a fast [reaction](http://habi.gna.ch/blog/archives/000077.html)!  

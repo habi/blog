@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-30T21:02:13Z
+date: 2004-06-30 21:02:13+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/30/diy/
 slug: diy
 title: DIY
-url: /2004/06/30/diy/
 wordpress_id: 572
+categories:
+- none
 ---
 
 [![radial2](http://habi.gna.ch/blog/images/radial2-tm.jpg)](http://habi.gna.ch/blog/images/radial2.jpg) [![radial1](http://habi.gna.ch/blog/images/radial1-tm.jpg)](http://habi.gna.ch/blog/images/radial1.jpg) in the true sense of [do it yourself](http://www.google.com/search?q=diy&ie=UTF-8&oe=UTF-8) i laced my own front wheel today. remember that i bought a frame from poland quite some time ago. now that i know all the relevant parts are gonna fit i'm in the process of turning that frame into a lean, mean riding machine :-)

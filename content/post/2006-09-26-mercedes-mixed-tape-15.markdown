@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- linkdump
-- music
 comments: true
-date: 2006-09-26T20:13:31Z
+date: 2006-09-26 20:13:31+00:00
+layout: post
 link: http://habi.gna.ch/2006/09/26/mercedes-mixed-tape-15/
 slug: mercedes-mixed-tape-15
 title: 'update: mercedes mixed-tape 15 14'
-url: /2006/09/26/mercedes-mixed-tape-15/
 wordpress_id: 790
+categories:
+- linkdump
+- music
 ---
 
 as always once in about 10 weeks, mercedes released a [new mixed-tape](http://www.mercedes-benz.com/mixedtape). this time it's already number 15 14, a handful of groovy tracks.

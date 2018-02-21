@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-07T20:02:24Z
+date: 2004-06-07 20:02:24+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/07/moblog-frenzy/
 slug: moblog-frenzy
 title: moblog frenzy!
-url: /2004/06/07/moblog-frenzy/
 wordpress_id: 549
+categories:
+- none
 ---
 
 [urs gehrig reports](http://circle.ch/blog/p1453.html) that one of the mobile phone providers here in switzerland starts with an 5 bucks "all you can download"1 GPRS-plan. i've been looking forward for something like this for a long time (because everywhere else on the world there are a lot of flatrate GPRS-plans (just look at [phil torrones moblog ](http://pt.textamerica.com/)for instance, he uses it massively).

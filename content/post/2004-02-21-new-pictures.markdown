@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-21T10:29:49Z
+date: 2004-02-21 10:29:49+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/21/new-pictures/
 slug: new-pictures
 title: new pictures
-url: /2004/02/21/new-pictures/
 wordpress_id: 442
+categories:
+- none
 ---
 
 the pictures of my last week in oberwald are [online](http://habi.gna.ch/pics/Oberwald/) in the [pictures-section](http://habi.gna.ch/pics/). 

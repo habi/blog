@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-19T22:23:47Z
+date: 2004-10-19 22:23:47+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/20/parsenn-tunnel/
 slug: parsenn-tunnel
 title: parsenn-tunnel
-url: /2004/10/19/parsenn-tunnel/
 wordpress_id: 653
+categories:
+- none
 ---
 
-[![](http://www.flickr.com/photos/955167_439aaf4943_m.jpg)](http://www.flickr.com/photos/habi/955167/)
+
+ [![](http://www.flickr.com/photos/955167_439aaf4943_m.jpg)](http://www.flickr.com/photos/habi/955167/)
    
 
   Originally uploaded by [habi](http://www.flickr.com/people/habi/).

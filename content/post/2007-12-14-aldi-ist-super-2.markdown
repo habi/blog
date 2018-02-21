@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2007-12-14T22:31:30Z
+date: 2007-12-14 22:31:30+00:00
+layout: post
 link: http://habi.gna.ch/2007/12/14/aldi-ist-super-2/
 slug: aldi-ist-super-2
 title: aldi ist super!
-url: /2007/12/14/aldi-ist-super-2/
 wordpress_id: 1092
+categories:
+- none
 ---
 
-[![](http://farm3.static.flickr.com/2125/2111622470_d6ae2b72c5_m.jpg)](http://www.flickr.com/photos/habi/2111622470/)
+
+ [![](http://farm3.static.flickr.com/2125/2111622470_d6ae2b72c5_m.jpg)](http://www.flickr.com/photos/habi/2111622470/)
    
 
  

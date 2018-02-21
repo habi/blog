@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2013-09-02T07:45:43Z
+date: 2013-09-02 07:45:43+00:00
+layout: post
 link: http://habi.gna.ch/2013/09/02/mein-august/
 slug: mein-august
+title: Mein August
+wordpress_id: 3188
+categories:
+- personal
 tags:
 - 1se
 - one second everyday
-title: Mein August
-url: /2013/09/02/mein-august/
-wordpress_id: 3188
 ---
 
 Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/), [Mai](http://habi.gna.ch/2013/06/01/mein-mai/), [Juni](http://habi.gna.ch/2013/07/01/mein-juni/) und [Juli](http://habi.gna.ch/2013/08/02/mein-juli/) hab' ich im August (fast) jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.

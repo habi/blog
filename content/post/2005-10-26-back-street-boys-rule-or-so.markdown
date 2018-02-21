@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2005-10-26T10:23:29Z
+date: 2005-10-26 10:23:29+00:00
+layout: post
 link: http://habi.gna.ch/2005/10/26/back-street-boys-rule-or-so/
 slug: back-street-boys-rule-or-so
 title: back street boys rule! (or so...)
-url: /2005/10/26/back-street-boys-rule-or-so/
 wordpress_id: 88
+categories:
+- linkdump
 ---
+
 
 [![](http://www.boingboing.net/images/bsbsina.jpg)](http://video.google.com/videoplay?docid=-6739710473912337648) click on the image on the left to check out this really hilarious viral back street boys video that [xeni jardin](http://www.xeni.net/) linked on boingboing. it shows two basketball dorks in a chinese dorm performing a video of the back street boys (while their roommate silently [frags](http://www.urbandictionary.com/define.php?term=frag) away...). xeni is gonna talk about viral videos on NBC TODAY tonight (see [here](http://msnbc.msn.com/id/3032633/)) and this video is gonna be the centerpiece of the show:
 

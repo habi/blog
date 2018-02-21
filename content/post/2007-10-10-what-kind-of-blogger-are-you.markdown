@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- memes
 comments: true
-date: 2007-10-10T22:26:54Z
+date: 2007-10-10 22:26:54+00:00
+layout: post
 link: http://habi.gna.ch/2007/10/10/what-kind-of-blogger-are-you/
 slug: what-kind-of-blogger-are-you
 title: what kind of blogger are you?
-url: /2007/10/10/what-kind-of-blogger-are-you/
 wordpress_id: 1051
+categories:
+- memes
 ---
 
 i am a: [

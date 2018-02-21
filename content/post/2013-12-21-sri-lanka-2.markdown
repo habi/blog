@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2013-12-21T16:45:34Z
+date: 2013-12-21 16:45:34+00:00
+layout: post
 link: http://habi.gna.ch/2013/12/21/sri-lanka-2/
 slug: sri-lanka-2
 title: Sri Lanka
-url: /2013/12/21/sri-lanka-2/
 wordpress_id: 3285
+categories:
+- personal
 ---
 
 Wie [gesagt](http://habi.gna.ch/2013/12/03/mein-november/) waren wir zwei Wochen in Sri Lanka in den Ferien.  

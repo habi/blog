@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-12-25T23:07:57Z
+date: 2009-12-25 23:07:57+00:00
+layout: post
 link: http://habi.gna.ch/2009/12/26/schoni-wienachte/
 slug: schoni-wienachte
 title: Schöni Wienachte
-url: /2009/12/25/schoni-wienachte/
 wordpress_id: 2003
+categories:
+- personal
 ---
 
-[![](http://farm3.static.flickr.com/2601/4213684427_172ea85f8f_m.jpg)](http://www.flickr.com/photos/habi/4213684427/)
+
+ [![](http://farm3.static.flickr.com/2601/4213684427_172ea85f8f_m.jpg)](http://www.flickr.com/photos/habi/4213684427/)
    
 
  

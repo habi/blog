@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- none
-- tschörman
 comments: true
-date: 2005-01-10T19:33:55Z
+date: 2005-01-10 19:33:55+00:00
+layout: post
 link: http://habi.gna.ch/2005/01/10/dreiknigskuchen-geheimnis-gelst-with-short-english-explanation/
 slug: dreiknigskuchen-geheimnis-gelst-with-short-english-explanation
 title: dreikönigskuchen-geheimnis gelöst (with short english explanation)
-url: /2005/01/10/dreiknigskuchen-geheimnis-gelst-with-short-english-explanation/
 wordpress_id: 711
+categories:
+- none
+- tschörman
 ---
+
 
 aus aktuellem anlass und schweizbezug in deutsch:
   

@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-06-06T12:26:37Z
+date: 2009-06-06 12:26:37+00:00
+layout: post
 link: http://habi.gna.ch/2009/06/06/ikea/
 slug: ikea
 title: IKEA
-url: /2009/06/06/ikea/
 wordpress_id: 1788
+categories:
+- personal
 ---
 
-[![](http://farm4.static.flickr.com/3319/3599763779_eda5bfed43_m.jpg)](http://www.flickr.com/photos/habi/3599763779/)
+
+ [![](http://farm4.static.flickr.com/3319/3599763779_eda5bfed43_m.jpg)](http://www.flickr.com/photos/habi/3599763779/)
    
 
  

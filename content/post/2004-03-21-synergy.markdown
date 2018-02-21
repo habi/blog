@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-21T13:02:43Z
+date: 2004-03-21 13:02:43+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/21/synergy/
 slug: synergy
 title: synergy
-url: /2004/03/21/synergy/
 wordpress_id: 474
+categories:
+- none
 ---
 
 since my migration to panther i was looking for a decent controller for itunes. the problem was, that my favorite freeware app ([PTHitunesnotifier](http://www.versiontracker.com/dyn/moreinfo/macosx/16107&vid=109046), now a 70$ shareware: [youcontrol](http://www.yousoftware.com/products/control.php)) to control itunes did not work on panther.

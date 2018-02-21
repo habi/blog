@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-12T19:04:42Z
+date: 2003-10-12 19:04:42+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/12/stolen-bike/
 slug: stolen-bike
 title: stolen bike!
-url: /2003/10/12/stolen-bike/
 wordpress_id: 309
+categories:
+- none
 ---
 
 somebody stole my bike!

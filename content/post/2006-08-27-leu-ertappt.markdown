@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- pictures
 comments: true
-date: 2006-08-27T00:39:32Z
+date: 2006-08-27 00:39:32+00:00
+layout: post
 link: http://habi.gna.ch/2006/08/27/leu-ertappt/
 slug: leu-ertappt
 title: leu ertappt!
-url: /2006/08/27/leu-ertappt/
 wordpress_id: 215
+categories:
+- personal
+- pictures
 ---
+
 
 lieber herr leu.
   

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- technospeak
 comments: true
-date: 2005-06-29T10:32:23Z
+date: 2005-06-29 10:32:23+00:00
+layout: post
 link: http://habi.gna.ch/2005/06/29/my-phonebill-puzzles-me-update/
 slug: my-phonebill-puzzles-me-update
 title: my phonebill puzzles me [update]
-url: /2005/06/29/my-phonebill-puzzles-me-update/
 wordpress_id: 36
+categories:
+- personal
+- technospeak
 ---
+
 
 today i just got my sunrise mobile phone-bill, and i was quite puzzled by one item on it. i've used gprs three times this month (not a hardcore user, am i...).
   

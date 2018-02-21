@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2015-12-01T20:21:38Z
+date: 2015-12-01 20:21:38+00:00
+layout: post
 link: http://habi.gna.ch/2015/12/01/recommended-readings-1-december-2015/
 slug: recommended-readings-1-december-2015
+title: 'Recommended readings: 1. December 2015'
+wordpress_id: 4111
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 1. December 2015'
-url: /2015/12/01/recommended-readings-1-december-2015/
-wordpress_id: 4111
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

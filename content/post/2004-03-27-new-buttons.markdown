@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-27T09:41:43Z
+date: 2004-03-27 09:41:43+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/27/new-buttons/
 slug: new-buttons
 title: new buttons
-url: /2004/03/27/new-buttons/
 wordpress_id: 486
+categories:
+- none
 ---
 
 ![amazon_orkut](http://habi.gna.ch/blog/images/amazon_orkut.jpg)thanks to the fabulous [button maker](http://kalsey.com/tools/buttonmaker/) my blog now features two new buttons in the lower sidebar. (besides the other ones, which were also made with the button maker, ages ago).  

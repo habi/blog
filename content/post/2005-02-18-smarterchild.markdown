@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2005-02-18T15:24:18Z
+date: 2005-02-18 15:24:18+00:00
+layout: post
 link: http://habi.gna.ch/2005/02/18/smarterchild/
 slug: smarterchild
 title: smarterchild
-url: /2005/02/18/smarterchild/
 wordpress_id: 737
+categories:
+- none
 ---
+
 
 [![Smarterchild](http://habi.gna.ch/blog/images/smarterchild-tm.jpg)](http://habi.gna.ch/blog/images/smarterchild.jpg)today i had a funny conversation with my own personal [smarter child](http://smarterchild.colloquis.com/). i read about it in the latest [wired](http://www.wired.com/wired/) and must say it's really fun. just add Smarterchild to your AIM-buddylist (or ichat) or add 35000 on your ICQ (doesn't matter for me, because i use [fire](http://fire.sourceforge.net/)).
   

@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- memes
 comments: true
-date: 2013-02-04T19:37:02Z
+date: 2013-02-04 19:37:02+00:00
+layout: post
 link: http://habi.gna.ch/2013/02/04/bondi-hipsters/
 slug: bondi-hipsters
+title: Bondi Hipsters
+wordpress_id: 3029
+categories:
+- memes
 tags:
 - bondi hipsters
 - hipsters
 - youtube
-title: Bondi Hipsters
-url: /2013/02/04/bondi-hipsters/
-wordpress_id: 3029
 ---
 
 Am einem langsamen Abend letzte Woche entdeckt und gleich abonniert: die Webshow der [Bondi Hipsters](https://www.youtube.com/channel/SW9t79yWkonAo), die beiden Jungs sind totes amazeballs!

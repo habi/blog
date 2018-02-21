@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- movies
 comments: true
-date: 2012-07-16T21:09:21Z
+date: 2012-07-16 21:09:21+00:00
+layout: post
 link: http://habi.gna.ch/2012/07/16/kurzkritik-moonrise-kingdom/
 slug: kurzkritik-moonrise-kingdom
+title: 'Kurzkritik: Moonrise Kingdom'
+wordpress_id: 2833
+categories:
+- movies
 tags:
 - kritik
 - kurzkritik
-title: 'Kurzkritik: Moonrise Kingdom'
-url: /2012/07/16/kurzkritik-moonrise-kingdom/
-wordpress_id: 2833
 ---
 
 Ein wunderhübscher, streng stilisierter Film mit Staraufgebot in ebenso wunderhübschen Rollen. Macht Lust darauf, in der Brocki einen batteriebetriebenen Plattenspieler zu kaufen, ein Zelt zu packen und mit der Liebsten an einem See zu campieren.

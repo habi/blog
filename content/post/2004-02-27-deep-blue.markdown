@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-02-27T08:11:24Z
+date: 2004-02-27 08:11:24+00:00
+layout: post
 link: http://habi.gna.ch/2004/02/27/deep-blue/
 slug: deep-blue
 title: deep blue
-url: /2004/02/27/deep-blue/
 wordpress_id: 450
+categories:
+- none
 ---
 
 yesterday we went to see [deep blue](http://www.deepbluethemovie.com/) ([german site](http://www.deepblue-derfilm.de)).

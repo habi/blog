@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-04T21:26:17Z
+date: 2004-04-04 21:26:17+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/04/guitar-god/
 slug: guitar-god
 title: guitar god
-url: /2004/04/04/guitar-god/
 wordpress_id: 493
+categories:
+- none
 ---
 
 did you ever play too much video games, so that you had nightmares? 

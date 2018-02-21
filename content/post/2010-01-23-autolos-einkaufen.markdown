@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-01-23T16:28:47Z
+date: 2010-01-23 16:28:47+00:00
+layout: post
 link: http://habi.gna.ch/2010/01/23/autolos-einkaufen/
 slug: autolos-einkaufen
 title: autolos einkaufen
-url: /2010/01/23/autolos-einkaufen/
 wordpress_id: 2029
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4067/4297321349_3d90c5388a_m.jpg)](http://www.flickr.com/photos/habi/4297321349/)
+
+ [![](http://farm5.static.flickr.com/4067/4297321349_3d90c5388a_m.jpg)](http://www.flickr.com/photos/habi/4297321349/)
    
 
  

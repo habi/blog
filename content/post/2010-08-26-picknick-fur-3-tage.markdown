@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-08-26T19:24:39Z
+date: 2010-08-26 19:24:39+00:00
+layout: post
 link: http://habi.gna.ch/2010/08/26/picknick-fur-3-tage/
 slug: picknick-fur-3-tage
 title: Picknick für 3 Tage
-url: /2010/08/26/picknick-fur-3-tage/
 wordpress_id: 2193
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4141/4930242768_c5b8cf7c88_m.jpg)](http://www.flickr.com/photos/habi/4930242768/)
+
+ [![](http://farm5.static.flickr.com/4141/4930242768_c5b8cf7c88_m.jpg)](http://www.flickr.com/photos/habi/4930242768/)
    
 
  

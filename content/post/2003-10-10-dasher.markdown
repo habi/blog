@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-10T14:58:55Z
+date: 2003-10-10 14:58:55+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/10/dasher/
 slug: dasher
 title: Dasher.
-url: /2003/10/10/dasher/
 wordpress_id: 305
+categories:
+- none
 ---
 
 I just read that on [apple.slashdot](http://apple.slashdot.org/) (I should prepare my physics-lessons for next week, but the pressure is not high enough at the moment): [Dasher](http://www.inference.phy.cam.ac.uk/dasher/) is [availiable in beta for OSX](http://apple.slashdot.org/article.pl?sid=03/06/11/004239&mode=thread&tid=182&tid=185).

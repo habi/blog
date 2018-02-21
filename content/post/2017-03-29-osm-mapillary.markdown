@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2017-03-29T20:08:19Z
+date: 2017-03-29 20:08:19+00:00
+layout: post
 link: http://habi.gna.ch/2017/03/29/osm-mapillary/
 slug: osm-mapillary
 title: Mit 3D-gedrucktem Zeugs rum(ve)lölen
-url: /2017/03/29/osm-mapillary/
 wordpress_id: 5045
+categories:
+- personal
 ---
 
 Ich hab' ja [letzthin](http://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/) schon mal über den 3D-Drucker geschrieben, den wir im Büro haben.

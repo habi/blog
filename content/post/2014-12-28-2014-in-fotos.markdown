@@ -1,19 +1,19 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2014-12-28T17:35:30Z
+date: 2014-12-28 17:35:30+00:00
+layout: post
 link: http://habi.gna.ch/2014/12/28/2014-in-fotos/
 slug: 2014-in-fotos
+title: 2014 in Fotos
+wordpress_id: 3713
+categories:
+- personal
 tags:
-- "2014"
+- '2014'
 - jahresrückblick
 - jahresrückblick14
 - photos
-title: 2014 in Fotos
-url: /2014/12/28/2014-in-fotos/
-wordpress_id: 3713
 ---
 
 Das ist der erste meiner Jahresrückblick 2014-Posts.

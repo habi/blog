@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-11-20T14:57:01Z
+date: 2004-11-20 14:57:01+00:00
+layout: post
 link: http://habi.gna.ch/2004/11/20/my-05-chance-to-win-a-million/
 slug: my-05-chance-to-win-a-million
 title: my 0.5% chance to win a million
-url: /2004/11/20/my-05-chance-to-win-a-million/
 wordpress_id: 677
+categories:
+- none
 ---
+
 
 maybe you've seen the ubiquitous ads for the american express bluecard, promoting the link [win-a-million.ch](http://www.americanexpress.ch/d/personal/cards/benefits/PC_Ben_AmBlueInfo.php?lang=de&sc=S41191IP31).
   

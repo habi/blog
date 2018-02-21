@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- switzerland
-- technospeak
 comments: true
-date: 2005-04-30T17:54:32Z
+date: 2005-04-30 17:54:32+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/30/freefluxnet-opened/
 slug: freefluxnet-opened
 title: freeflux.net opened
-url: /2005/04/30/freefluxnet-opened/
 wordpress_id: 780
+categories:
+- switzerland
+- technospeak
 ---
+
 
 have you ever thought that you need to start a blog, but you don't have access to a server (or friends who can spare some place)? then you should check out [freeflux.net](http://freeflux.net/), which just opened some days ago. check out the entry page to see the important things. the most important is on top: it's free :-)
   

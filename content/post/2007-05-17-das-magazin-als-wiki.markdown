@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2007-05-17 14:22:49+00:00
+layout: post
+link: http://habi.gna.ch/2007/05/17/das-magazin-als-wiki/
+slug: das-magazin-als-wiki
+title: das magazin als wiki
+wordpress_id: 946
 categories:
 - personal
 - switzerland
 - technospeak
 - tschörman
-comments: true
-date: 2007-05-17T14:22:49Z
-link: http://habi.gna.ch/2007/05/17/das-magazin-als-wiki/
-slug: das-magazin-als-wiki
-title: das magazin als wiki
-url: /2007/05/17/das-magazin-als-wiki/
-wordpress_id: 946
 ---
 
 [![Dasmagazin](http://habi.gna.ch/wp-content/uploads/2007/05/dasmagazin-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/05/dasmagazin.jpg)das [tagi](http://www.tagesanzeiger.ch/) [magazin](http://www.dasmagazin.ch/index.php/Main_Page) hat neuerdings einen überarbeiteten webauftritt. das ganze:

@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-04-17T11:31:42Z
+date: 2010-04-17 11:31:42+00:00
+layout: post
 link: http://habi.gna.ch/2010/04/17/gruessech-herr-legende/
 slug: gruessech-herr-legende
 title: Grüessech Herr Legende
-url: /2010/04/17/gruessech-herr-legende/
 wordpress_id: 2097
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4016/4528085634_1c866f829c_m.jpg)](http://www.flickr.com/photos/habi/4528085634/)
+
+ [![](http://farm5.static.flickr.com/4016/4528085634_1c866f829c_m.jpg)](http://www.flickr.com/photos/habi/4528085634/)
    
 
  

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
-- music
 comments: true
-date: 2005-06-21T17:25:01Z
+date: 2005-06-21 17:25:01+00:00
+layout: post
 link: http://habi.gna.ch/2005/06/21/mixed-tape-07-birthday-edition/
 slug: mixed-tape-07-birthday-edition
 title: mixed-tape 07 (birthday edition)
-url: /2005/06/21/mixed-tape-07-birthday-edition/
 wordpress_id: 31
+categories:
+- linkdump
+- music
 ---
+
 
 mercedes just re-released the seventh mixed-tape with a new song, including an exclusive song that never appeared before.
   

@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-11-28T20:22:19Z
+date: 2011-11-28 20:22:19+00:00
+layout: post
 link: http://habi.gna.ch/2011/11/28/on-the-road/
 slug: on-the-road
 title: On the Road
-url: /2011/11/28/on-the-road/
 wordpress_id: 2592
+categories:
+- personal
 ---
 
-[![](http://farm8.staticflickr.com/7141/6420542167_f6cc6e9e0f_m.jpg)](http://www.flickr.com/photos/habi/6420542167/)
+
+ [![](http://farm8.staticflickr.com/7141/6420542167_f6cc6e9e0f_m.jpg)](http://www.flickr.com/photos/habi/6420542167/)
    
 
  

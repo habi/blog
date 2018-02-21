@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- linkdump
-- personal
 comments: true
-date: 2014-01-04T22:23:08Z
+date: 2014-01-04 22:23:08+00:00
+layout: post
 link: http://habi.gna.ch/2014/01/04/stephen-fry-out-there/
 slug: stephen-fry-out-there
 title: 'Stephen Fry: Out There'
-url: /2014/01/04/stephen-fry-out-there/
 wordpress_id: 3345
+categories:
+- linkdump
+- personal
 ---
 
 Diese zwei Stunden sind schon länger in meiner “Mal anschauen”-Warteschlange, heute Abend kam ich endlich mal dazu, [Stephen Fry](http://en.wikipedia.org/wiki/Stephen_Fry) zuzuschauen, wie er homosexuelle Brennpunkte in der Welt besucht und spannende, packende und emotionale Momente zeigt. Nebenbei entlarvt er extrem eloquent rückständige Priester in Uganda und ziemlich unerträgliche Politiker in St. Petersburg.

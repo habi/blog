@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- diving
-- picture of the week
 comments: true
-date: 2005-05-09T20:16:07Z
+date: 2005-05-09 20:16:07+00:00
+layout: post
 link: http://habi.gna.ch/2005/05/09/picture-of-the-week-18/
 slug: picture-of-the-week-18
 title: picture of the week 18
-url: /2005/05/09/picture-of-the-week-18/
 wordpress_id: 785
+categories:
+- diving
+- picture of the week
 ---
+
 
 i've been diving this weekend, and christened my [underwater-case](http://images.google.com/images?q=mpk-thb&hl=en&lr=&c2coff=1&safe=off&client=safari&rls=en&sa=N&tab=wi) for my digital camera. turns out that it's quite hard to take good pictures in the Mediterranean in may. i'm sorting through all the pictures, but at a first glance i liked the one below quite good.
   

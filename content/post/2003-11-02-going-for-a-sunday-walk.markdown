@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-02T13:59:38Z
+date: 2003-11-02 13:59:38+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/02/going-for-a-sunday-walk/
 slug: going-for-a-sunday-walk
 title: going for a sunday walk
-url: /2003/11/02/going-for-a-sunday-walk/
 wordpress_id: 334
+categories:
+- none
 ---
 
 today i thought i needed to go for a little walk. 

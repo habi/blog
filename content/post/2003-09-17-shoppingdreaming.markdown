@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-09-17T20:33:17Z
+date: 2003-09-17 20:33:17+00:00
+layout: post
 link: http://habi.gna.ch/2003/09/17/shoppingdreaming/
 slug: shoppingdreaming
 title: shopping/dreaming
-url: /2003/09/17/shoppingdreaming/
 wordpress_id: 279
+categories:
+- none
 ---
 
 today i went shopping a little bit (free afternoon, because all my classes are already on holidays and i'm only biking around 50 % of my time...): some little stuff for the upcoming week, i'll be in [greece](http://www.wunderground.com/global/stations/16742.html), and then went to [jaggi](http://www.jaeggi.ch/index_home.php), because you can read all the comics you want without bein bothered.  

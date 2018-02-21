@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2010-01-07T21:52:40Z
+date: 2010-01-07 21:52:40+00:00
+layout: post
 link: http://habi.gna.ch/2010/01/07/become-an-album-producer/
 slug: become-an-album-producer
+title: become an album producer
+wordpress_id: 2023
+categories:
+- music
 tags:
 - filewile
 - vinyl
-title: become an album producer
-url: /2010/01/07/become-an-album-producer/
-wordpress_id: 2023
 ---
 
 filewile recently released their new album [blueskywell](http://www.filewile.com/discography/) (which you can play below) using the fairtilizer-player.

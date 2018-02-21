@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- personal
-- tschörman
 comments: true
-date: 2005-04-14T21:27:32Z
+date: 2005-04-14 21:27:32+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/14/pixmix/
 slug: pixmix
 title: pixmix
-url: /2005/04/14/pixmix/
 wordpress_id: 765
+categories:
+- personal
+- tschörman
 ---
+
 
 [![Derblaueadler](http://habi.gna.ch/blog/images/derblaueadler-tm.jpg)](http://habi.gna.ch/blog/images/derblaueadler.jpg)aus akutellem und bernbezogenem anlass in deutsch:
 

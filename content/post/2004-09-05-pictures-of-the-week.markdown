@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-09-05T19:12:08Z
+date: 2004-09-05 19:12:08+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/05/pictures-of-the-week/
 slug: pictures-of-the-week
 title: pictures of the week
-url: /2004/09/05/pictures-of-the-week/
 wordpress_id: 608
+categories:
+- picture of the week
 ---
 
 this week nina received the pictures we made underwater in egypt.

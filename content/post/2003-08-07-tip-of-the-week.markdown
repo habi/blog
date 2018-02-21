@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2003-08-07T19:38:26Z
+date: 2003-08-07 19:38:26+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/07/tip-of-the-week/
 slug: tip-of-the-week
 title: tip of the week
-url: /2003/08/07/tip-of-the-week/
 wordpress_id: 253
+categories:
+- music
 ---
 
 tomorrow night [filewile.com](http://www.filewile.com/filewile.php) are [performing live](http://www.becult.ch/events/kdz/FMPro?-db=bkdate.fp5&-format=spielplan.html&-lay=cgikdz&-sortfield=dat.am&-sortfield=dat.beginn&dat.am=07.08.2003...&id.anl=kdz&-token.9=sd&-find=&-token.9=detailsd&-skip=1&-max=1) at the dampfzentrale here in bern.

@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- diving
 comments: true
-date: 2011-01-25T20:07:49Z
+date: 2011-01-25 20:07:49+00:00
+layout: post
 link: http://habi.gna.ch/2011/01/25/beatenbucht-8-1-11-renzo-48-21m-3/
 slug: beatenbucht-8-1-11-renzo-48-21m-3
+title: Beatenbucht 8.1.11 | Renzo | 48' | 21m | 3°
+wordpress_id: 2370
+categories:
+- diving
 tags:
 - diving
 - thunersee
-title: Beatenbucht 8.1.11 | Renzo | 48' | 21m | 3°
-url: /2011/01/25/beatenbucht-8-1-11-renzo-48-21m-3/
-wordpress_id: 2370
 ---
 
 Am 8. Janner lud das Wetter am Thunersee zum Bade, [dabei](http://habi.gna.ch/divelog/2011.01.08.beatenbucht.pdf) ist folgendes, unten eingebundenes Video entstanden:

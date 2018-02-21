@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2006-12-31T11:00:00Z
+date: 2006-12-31 11:00:00+00:00
+layout: post
 link: http://habi.gna.ch/2006/12/31/happy-2007/
 slug: happy-2007
 title: happy 2007!
-url: /2006/12/31/happy-2007/
 wordpress_id: 837
+categories:
+- personal
 ---
 
 [![2007](http://habi.gna.ch/wp-content/uploads/2006/12/2007-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/12/2007.jpg)

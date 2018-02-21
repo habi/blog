@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2006-03-07T20:09:12Z
+date: 2006-03-07 20:09:12+00:00
+layout: post
 link: http://habi.gna.ch/2006/03/07/creative-commons-in-full-effect/
 slug: creative-commons-in-full-effect
 title: creative commons in full effect
-url: /2006/03/07/creative-commons-in-full-effect/
 wordpress_id: 140
+categories:
+- personal
 ---
+
 
 through my [ego-surfing-feed](http://services.newsgator.com/ngws/svc/KeywordRSS.aspx?fid=18703&fid2=414518&fid2=414518) [1] i found [this story](http://www.austinist.com/archives/2006/03/01/breaking_news_downtown_fire.php) in the austinist, a website from austin (i presume :-).
   

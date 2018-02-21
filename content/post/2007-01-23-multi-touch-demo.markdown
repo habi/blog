@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- gadgets and gizmos
-- technospeak
 comments: true
-date: 2007-01-23T21:54:23Z
+date: 2007-01-23 21:54:23+00:00
+layout: post
 link: http://habi.gna.ch/2007/01/23/multi-touch-demo/
 slug: multi-touch-demo
 title: multi-touch-demo
-url: /2007/01/23/multi-touch-demo/
 wordpress_id: 847
+categories:
+- gadgets and gizmos
+- technospeak
 ---
 
 i've written about jeff han [already](http://habi.gna.ch/2006/08/29/the-future-of-interfaces/), now i've stumbled over a new demo of the multi-touch-gui he and his colleagues are developing (they've been contacted by apple for the iphone-gui, but are not involved with it).

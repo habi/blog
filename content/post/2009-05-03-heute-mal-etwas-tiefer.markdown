@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-05-03T11:55:39Z
+date: 2009-05-03 11:55:39+00:00
+layout: post
 link: http://habi.gna.ch/2009/05/03/heute-mal-etwas-tiefer/
 slug: heute-mal-etwas-tiefer
 title: Heute mal etwas tiefer
-url: /2009/05/03/heute-mal-etwas-tiefer/
 wordpress_id: 1740
+categories:
+- personal
 ---
 
-[![](http://farm4.static.flickr.com/3636/3497030664_8f7a098a1d_m.jpg)](http://www.flickr.com/photos/habi/3497030664/)
+
+ [![](http://farm4.static.flickr.com/3636/3497030664_8f7a098a1d_m.jpg)](http://www.flickr.com/photos/habi/3497030664/)
    
 
  

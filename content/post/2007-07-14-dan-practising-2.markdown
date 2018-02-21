@@ -1,18 +1,19 @@
 ---
 author: admin
-categories:
-- moblog
-- none
 comments: true
-date: 2007-07-14T18:30:24Z
+date: 2007-07-14 18:30:24+00:00
+layout: post
 link: http://habi.gna.ch/2007/07/14/dan-practising-2/
 slug: dan-practising-2
 title: dan practising
-url: /2007/07/14/dan-practising-2/
 wordpress_id: 995
+categories:
+- moblog
+- none
 ---
 
-[![](http://farm2.static.flickr.com/1097/810813330_003ebab81f_m.jpg)](http://www.flickr.com/photos/habi/810813330/)
+
+ [![](http://farm2.static.flickr.com/1097/810813330_003ebab81f_m.jpg)](http://www.flickr.com/photos/habi/810813330/)
    
 
  

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-05-31T17:33:57Z
+date: 2004-05-31 17:33:57+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/31/yeehaw-picture-of-the-week/
 slug: yeehaw-picture-of-the-week
 title: yeehaw! (picture of the week)
-url: /2004/05/31/yeehaw-picture-of-the-week/
 wordpress_id: 543
+categories:
+- picture of the week
 ---
 
 [osxhints](http://www.macosxhints.com/) made that little [hint on Descent2](http://www.macosxhints.com/article.php?story=20040527005641179), that has brought me back to old ages.

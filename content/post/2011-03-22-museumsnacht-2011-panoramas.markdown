@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2011-03-22 21:46:47+00:00
+layout: post
+link: http://habi.gna.ch/2011/03/22/museumsnacht-2011-panoramas/
+slug: museumsnacht-2011-panoramas
+title: Museumsnacht 2011 - Panoramas [update]
+wordpress_id: 2441
 categories:
 - flickr
 - pictures
-comments: true
-date: 2011-03-22T21:46:47Z
-link: http://habi.gna.ch/2011/03/22/museumsnacht-2011-panoramas/
-slug: museumsnacht-2011-panoramas
 tags:
 - bern
 - bundesplatz
 - flickr
 - museumsnacht
 - panorama
-title: Museumsnacht 2011 - Panoramas [update]
-url: /2011/03/22/museumsnacht-2011-panoramas/
-wordpress_id: 2441
 ---
 
 Mit Freunden unterwegs in Museen von Bern. Das war ich am Freitag Abend.

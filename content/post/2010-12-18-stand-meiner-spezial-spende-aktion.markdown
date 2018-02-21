@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- switzerland
 comments: true
-date: 2010-12-18T12:49:46Z
+date: 2010-12-18 12:49:46+00:00
+layout: post
 link: http://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/
 slug: stand-meiner-spezial-spende-aktion
 title: Stand meiner Spezial-Spende-Aktion [update 2]
-url: /2010/12/18/stand-meiner-spezial-spende-aktion/
 wordpress_id: 2337
+categories:
+- switzerland
 ---
 
 Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotter an [Jeder Rappen zahlt](http://www.jrz.ch/www/de/drs3/jeder-rappen-zaehlt.html) ubergeben. Heute morgen habe ich rundum die Dampfzentrale gesehen (in SichtbarkeitsReihenfolge):

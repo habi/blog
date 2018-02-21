@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-09-14T23:07:56Z
+date: 2004-09-14 23:07:56+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/15/picture-of-the-week-38/
 slug: picture-of-the-week-38
 title: picture of the week 38
-url: /2004/09/14/picture-of-the-week-38/
 wordpress_id: 616
+categories:
+- picture of the week
 ---
 
 i spent the past weekend in italy with my family. we went to the region called barbaresco in the piemont in the northern part of italy. the region is well renowned for it's viniculture so we spent quite some time at trying different wines (exept me, i don't drink) and walking through different cities and villages in the region. it was really relaxing and really nice to spend a weekend with the extended family (nina, my girlfriend and bjorn, my sisters boyfriend came with us).

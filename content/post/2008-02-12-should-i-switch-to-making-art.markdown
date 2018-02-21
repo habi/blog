@@ -1,19 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2008-02-12 18:40:51+00:00
+layout: post
+link: http://habi.gna.ch/2008/02/12/should-i-switch-to-making-art/
+slug: should-i-switch-to-making-art
+title: should i switch to making art instead of science?
+wordpress_id: 1188
 categories:
 - movies
 - personal
 - technospeak
-comments: true
-date: 2008-02-12T18:40:51Z
-link: http://habi.gna.ch/2008/02/12/should-i-switch-to-making-art/
-slug: should-i-switch-to-making-art
-title: should i switch to making art instead of science?
-url: /2008/02/12/should-i-switch-to-making-art/
-wordpress_id: 1188
 ---
 
-[![Video thumbnail. Click to play](http://blip.tv/file/get/Habi-shouldISwitchToMakingArt733.avi.jpg)](http://blip.tv/file/get/Habi-shouldISwitchToMakingArt733.avi)					  
+																									
+
+					[![Video thumbnail. Click to play](http://blip.tv/file/get/Habi-shouldISwitchToMakingArt733.avi.jpg)](http://blip.tv/file/get/Habi-shouldISwitchToMakingArt733.avi)					  
 					[Click to Play](http://blip.tv/file/get/Habi-shouldISwitchToMakingArt733.avi)					
 
 										

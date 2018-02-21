@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2005-10-19T08:09:47Z
+date: 2005-10-19 08:09:47+00:00
+layout: post
 link: http://habi.gna.ch/2005/10/19/flickrgroupsswiss-meeting-291005/
 slug: flickrgroupsswiss-meeting-291005
 title: flickr/groups/swiss-meeting @ 29.10.05
-url: /2005/10/19/flickrgroupsswiss-meeting-291005/
 wordpress_id: 84
+categories:
+- personal
 ---
+
 
 samstag in einer woche, am 29.10 treffen sich schweizer flickr-user um 14.00 auf dem [bundesplatz](http://flickr.com/photos/tags/bundesplatz/) in bern. wer auch kommen will, soll sich [hier anmelden](http://www.flickr.com/groups/swiss/discuss/103961/), wer sich den werdegang des meetings zu gemüte führen will, kann [diesen diskussions-thread durchlesen](http://www.flickr.com/groups/swiss/discuss/84050/).
   

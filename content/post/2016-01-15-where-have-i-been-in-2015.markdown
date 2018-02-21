@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2016-01-15T21:48:02Z
+date: 2016-01-15 21:48:02+00:00
+layout: post
 link: http://habi.gna.ch/2016/01/15/where-have-i-been-in-2015/
 slug: where-have-i-been-in-2015
 title: Where have I been in 2015
-url: /2016/01/15/where-have-i-been-in-2015/
 wordpress_id: 4301
+categories:
+- personal
 ---
 
 Hier ein weiterer meiner Jahresrückblick 2015-Posts. Die anderen sind unter dem Tag [`jahresrückblick15`](http://habi.gna.ch/tag/jahresruckblick15) zu finden.

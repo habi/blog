@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-05-15T15:31:47Z
+date: 2010-05-15 15:31:47+00:00
+layout: post
 link: http://habi.gna.ch/2010/05/15/us-amerikanischer-unsinn-walmart/
 slug: us-amerikanischer-unsinn-walmart
 title: 'US-amerikanischer Unsinn: Walmart'
-url: /2010/05/15/us-amerikanischer-unsinn-walmart/
 wordpress_id: 2127
+categories:
+- personal
 ---
 
-[![](http://farm2.static.flickr.com/1339/4609199032_c6c47993fb_m.jpg)](http://www.flickr.com/photos/habi/4609199032/)
+
+ [![](http://farm2.static.flickr.com/1339/4609199032_c6c47993fb_m.jpg)](http://www.flickr.com/photos/habi/4609199032/)
    
 
  

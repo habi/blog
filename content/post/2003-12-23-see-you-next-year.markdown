@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-12-23T14:39:14Z
+date: 2003-12-23 14:39:14+00:00
+layout: post
 link: http://habi.gna.ch/2003/12/23/see-you-next-year/
 slug: see-you-next-year
 title: see you next year!
-url: /2003/12/23/see-you-next-year/
 wordpress_id: 386
+categories:
+- none
 ---
 
 [![](http://habi.gna.ch/blog/images/extralineophobia-tm.jpg)](http://habi.gna.ch/blog/images/extralineophobia.jpg)

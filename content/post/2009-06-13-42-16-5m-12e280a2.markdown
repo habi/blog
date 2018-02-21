@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-06-13T12:45:17Z
+date: 2009-06-13 12:45:17+00:00
+layout: post
 link: http://habi.gna.ch/2009/06/13/42-16-5m-12%e2%80%a2/
 slug: 42-16-5m-12%e2%80%a2
 title: 42' - 16.5m - 12â€¢
-url: /2009/06/13/42-16-5m-12e280a2/
 wordpress_id: 1807
+categories:
+- personal
 ---
 
-[![](http://farm4.static.flickr.com/3353/3622136226_797e86b310_m.jpg)](http://www.flickr.com/photos/habi/3622136226/)
+
+ [![](http://farm4.static.flickr.com/3353/3622136226_797e86b310_m.jpg)](http://www.flickr.com/photos/habi/3622136226/)
    
 
  

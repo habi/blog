@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-18T11:39:16Z
+date: 2004-01-18 11:39:16+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/18/war-is-fucking-stupid/
 slug: war-is-fucking-stupid
 title: war is fucking stupid!
-url: /2004/01/18/war-is-fucking-stupid/
 wordpress_id: 407
+categories:
+- none
 ---
 
 take a look at these two videos:

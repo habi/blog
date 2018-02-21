@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-10-06T20:39:44Z
+date: 2003-10-06 20:39:44+00:00
+layout: post
 link: http://habi.gna.ch/2003/10/06/wired-vs-sonntagszeitung/
 slug: wired-vs-sonntagszeitung
 title: Wired vs. Sonntagszeitung
-url: /2003/10/06/wired-vs-sonntagszeitung/
 wordpress_id: 297
+categories:
+- none
 ---
 
 Well, if you compare the following two articles, once in the latest [WIRED](http://www.wired.com/wired/archive/11.09/diamond.html?pg=1&topic=&topic_set=) and then in the swiss paper [Sonntagszeitung](http://www.sonntagszeitung.ch/dyn/news/wissen/312598.html) of last sunday, then - if you speak English and German - then something must come to your mind.  

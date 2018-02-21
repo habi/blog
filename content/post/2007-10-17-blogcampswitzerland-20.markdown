@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-10-17 17:22:21+00:00
+layout: post
+link: http://habi.gna.ch/2007/10/17/blogcampswitzerland-20/
+slug: blogcampswitzerland-20
+title: BlogCampSwitzerland 2.0
+wordpress_id: 1058
 categories:
 - personal
 - technospeak
 - tschörman
-comments: true
-date: 2007-10-17T17:22:21Z
-link: http://habi.gna.ch/2007/10/17/blogcampswitzerland-20/
-slug: blogcampswitzerland-20
-title: BlogCampSwitzerland 2.0
-url: /2007/10/17/blogcampswitzerland-20/
-wordpress_id: 1058
 ---
 
 diesen samstag findet in zürich an der eth das [BlogCampSwitzerland 2.0](http://barcamp.ch/BlogCampSwitzerland_2-0) statt und ich plane, daran teilzunehmen [1]. hat jemand lust, mit mir als marginalem morgenmuffel am samstag gemeinsam zug zu fahren? wer kommt mit?

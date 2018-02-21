@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2006-11-09 19:43:03+00:00
+layout: post
+link: http://habi.gna.ch/2006/11/09/citizen-journalism/
+slug: citizen-journalism
+title: citizen journalism [update]
+wordpress_id: 814
 categories:
 - gadgets and gizmos
 - linkdump
 - personal
 - tschörman
-comments: true
-date: 2006-11-09T19:43:03Z
-link: http://habi.gna.ch/2006/11/09/citizen-journalism/
-slug: citizen-journalism
-title: citizen journalism [update]
-url: /2006/11/09/citizen-journalism/
-wordpress_id: 814
 ---
 
 [![ Images 337108 Habi](http://habi.gna.ch/wp-content/uploads/2006/11/images/_images_337108_habi-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/11/images/_images_337108_habi.jpg)vor längerer zeit wurde ich von [this](http://borniert.com/) gefragt, ob ich mal beim [tastentest](http://espace.ch/artikel_257714.html) mitmachen möcht.

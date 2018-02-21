@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2009-08-07 23:16:40+00:00
+layout: post
+link: http://habi.gna.ch/2009/08/08/habi-fahrt-ans-buskers-timelapse/
+slug: habi-fahrt-ans-buskers-timelapse
+title: habi fährt ans buskers - timelapse
+wordpress_id: 1890
 categories:
 - fun
 - pictures
 - switzerland
 - tschörman
-comments: true
-date: 2009-08-07T23:16:40Z
-link: http://habi.gna.ch/2009/08/08/habi-fahrt-ans-buskers-timelapse/
-slug: habi-fahrt-ans-buskers-timelapse
 tags:
 - fun
-title: habi fährt ans buskers - timelapse
-url: /2009/08/07/habi-fahrt-ans-buskers-timelapse/
-wordpress_id: 1890
 ---
 
 nachdem [mark gezeigt](http://permanenttourist.ch/articles/2009/07/stop-motion-tram-ride/) hat, dass mann sogar im tram timelapse-filme machen kann, habe ich heute abend beim velofahren den auslöser meiner kamera gedrückt gehalten, während ich in die stadt gefahren bin. das endresultat ist ein wackeliges timelapse-filmli von mir zuhause bis knapp vors [buskers](http://www.buskersbern.ch).

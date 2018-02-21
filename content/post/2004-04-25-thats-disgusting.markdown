@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-25T16:40:18Z
+date: 2004-04-25 16:40:18+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/25/thats-disgusting/
 slug: thats-disgusting
 title: that's disgusting
-url: /2004/04/25/thats-disgusting/
 wordpress_id: 511
+categories:
+- none
 ---
 
 [this survey](http://www.bbc.co.uk/science/humanbody/mind/surveys/disgust/) by [the auntie's](http://www.bbc.co.uk/) science department is really interesting.

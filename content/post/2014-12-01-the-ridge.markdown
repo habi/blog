@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2014-12-01T21:03:54Z
+date: 2014-12-01 21:03:54+00:00
+layout: post
 link: http://habi.gna.ch/2014/12/01/the-ridge/
 slug: the-ridge
+title: The Ridge
+wordpress_id: 3639
+categories:
+- linkdump
 tags:
 - isle of skye
 - scotland
 - velocontent
-title: The Ridge
-url: /2014/12/01/the-ridge/
-wordpress_id: 3639
 ---
 
 Von Danny Mc Askill hatten wir’s schon ein paar Mal, hier im Blog aber [erst einmal](http://habi.gna.ch/?s=askill).

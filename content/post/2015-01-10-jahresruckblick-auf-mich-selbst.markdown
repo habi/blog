@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2015-01-10 22:50:12+00:00
+layout: post
+link: http://habi.gna.ch/2015/01/10/jahresruckblick-auf-mich-selbst/
+slug: jahresruckblick-auf-mich-selbst
+title: Jahresrückblick auf mich selbst
+wordpress_id: 3786
 categories:
 - personal
 - technospeak
-comments: true
-date: 2015-01-10T22:50:12Z
-link: http://habi.gna.ch/2015/01/10/jahresruckblick-auf-mich-selbst/
-slug: jahresruckblick-auf-mich-selbst
 tags:
 - everyday
 - face
 - jahresrückblick
 - jahresrückblick14
 - python
-title: Jahresrückblick auf mich selbst
-url: /2015/01/10/jahresruckblick-auf-mich-selbst/
-wordpress_id: 3786
 ---
 
 Das ist der dritte meiner Jahresrückblick 2014-Posts. Die anderen sind unter dem Tag [`jahresrückblick14`](http://habi.gna.ch/tag/jahresruckblick14) zu finden.

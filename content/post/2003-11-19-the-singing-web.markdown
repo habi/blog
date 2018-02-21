@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-19T16:37:27Z
+date: 2003-11-19 16:37:27+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/19/the-singing-web/
 slug: the-singing-web
 title: the singing web
-url: /2003/11/19/the-singing-web/
 wordpress_id: 353
+categories:
+- none
 ---
 
 following up [my entry of yesterday evening](http://habi.gna.ch/blog/archives/000129.html) here's a link for all of you to enjoy: a [website](http://www.sr.se/cgi-bin/p1/src/sing/default.asp?key=83j5ARjO) that takes the words you want as an input, converts them to a song. that song consisting of sampled words of some other songs.

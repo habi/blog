@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-22T16:33:23Z
+date: 2003-11-22 16:33:23+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/22/small-update/
 slug: small-update
 title: small update
-url: /2003/11/22/small-update/
 wordpress_id: 355
+categories:
+- none
 ---
 
 now you can also see the [last five](http://habi.gna.ch/blog/ipod/lastfive.html) or the [last 30 songs](http://habi.gna.ch/blog/ipod/last30.html) i listened.

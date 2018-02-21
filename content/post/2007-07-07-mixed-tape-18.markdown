@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2007-07-07T12:43:05Z
+date: 2007-07-07 12:43:05+00:00
+layout: post
 link: http://habi.gna.ch/2007/07/07/mixed-tape-18/
 slug: mixed-tape-18
 title: mixed-tape 18
-url: /2007/07/07/mixed-tape-18/
 wordpress_id: 977
+categories:
+- music
 ---
 
 mercedes released another [mixed-tape](http://www.mixed-tape.com), this time its the last version, the 18th. they're having a break until further notice. if you've downloaded all the past mixed-tapes (if you haven't [here](http://broadcast.sexy-admin.de/) you can find them all), there is no need to download the new one, since it's just a best-of all the previously released tracks.

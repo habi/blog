@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2011-03-03 18:53:45+00:00
+layout: post
+link: http://habi.gna.ch/2011/03/03/eistauchen-2011-der-film/
+slug: eistauchen-2011-der-film
+title: Eistauchen 2011 - Der Film
+wordpress_id: 2399
 categories:
 - diving
 - switzerland
-comments: true
-date: 2011-03-03T18:53:45Z
-link: http://habi.gna.ch/2011/03/03/eistauchen-2011-der-film/
-slug: eistauchen-2011-der-film
 tags:
 - divecenter.ch
 - diving
 - icediving
 - oeschinensee
 - winter
-title: Eistauchen 2011 - Der Film
-url: /2011/03/03/eistauchen-2011-der-film/
-wordpress_id: 2399
 ---
 
 Nachdem ich [letzte Woche](http://habi.gna.ch/2011/02/21/trailer-eistauchen/) gschwing einen Trailer furs Eistauchen rausgehauen habe, kommt jetzt noch the real deal:

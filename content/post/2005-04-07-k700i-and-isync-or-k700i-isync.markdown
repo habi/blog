@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- apple
-- technospeak
 comments: true
-date: 2005-04-07T21:53:34Z
+date: 2005-04-07 21:53:34+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/07/k700i-and-isync-or-k700i-isync/
 slug: k700i-and-isync-or-k700i-isync
 title: k700i and isync (or k700i & isync :-)
-url: /2005/04/07/k700i-and-isync-or-k700i-isync/
 wordpress_id: 757
+categories:
+- apple
+- technospeak
 ---
+
 
 yesterday i went to prolong my contract with my mobile phone provider, so i was able to cheaply get a new mobile phone. after looking at the different mobiles [compatible with isync](http://www.apple.com/isync/devices.html) i decided (mostly for monetary reasons) to get the [Sony Ericsson K700i](http://www.sonyericsson.com/k700/).
   

@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2015-02-19T21:42:11Z
+date: 2015-02-19 21:42:11+00:00
+layout: post
 link: http://habi.gna.ch/2015/02/19/bosozoku/
 slug: bosozoku
+title: Bosozoku
+wordpress_id: 3832
+categories:
+- linkdump
 tags:
 - japan
 - video
-title: Bosozoku
-url: /2015/02/19/bosozoku/
-wordpress_id: 3832
 ---
 
 https://www.youtube.com/watch?v=s0MDY9fl-IA

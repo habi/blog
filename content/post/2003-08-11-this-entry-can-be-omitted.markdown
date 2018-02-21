@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: false
-date: 2003-08-11T13:59:22Z
+date: 2003-08-11 13:59:22+00:00
+layout: post
 link: http://habi.gna.ch/2003/08/11/this-entry-can-be-omitted/
 slug: this-entry-can-be-omitted
 title: this entry can be omitted...
-url: /2003/08/11/this-entry-can-be-omitted/
 wordpress_id: 258
+categories:
+- none
 ---
 
 ...if you haven't been at the lerbermatt-gymer :-) (probably all my blog-readers exept [B.](http://www.bernhardseefeld.ch/), [Miklos](http://www.kozary.com/mt/) and [Arni](http://www.arnoldseefeld.com/blog/))

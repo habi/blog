@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-08-15T14:32:10Z
+date: 2010-08-15 14:32:10+00:00
+layout: post
 link: http://habi.gna.ch/2010/08/15/entsorgung/
 slug: entsorgung
 title: Entsorgung
-url: /2010/08/15/entsorgung/
 wordpress_id: 2174
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4135/4894129320_c574545e3f_m.jpg)](http://www.flickr.com/photos/habi/4894129320/)
+
+ [![](http://farm5.static.flickr.com/4135/4894129320_c574545e3f_m.jpg)](http://www.flickr.com/photos/habi/4894129320/)
    
 
  

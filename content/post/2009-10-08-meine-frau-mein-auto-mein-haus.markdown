@@ -1,21 +1,21 @@
 ---
 author: admin
+comments: true
+date: 2009-10-08 18:59:00+00:00
+layout: post
+link: http://habi.gna.ch/2009/10/08/meine-frau-mein-auto-mein-haus/
+slug: meine-frau-mein-auto-mein-haus
+title: meine frau, mein auto, mein haus
+wordpress_id: 1928
 categories:
 - apple
 - linkdump
 - memes
 - personal
-comments: true
-date: 2009-10-08T18:59:00Z
-link: http://habi.gna.ch/2009/10/08/meine-frau-mein-auto-mein-haus/
-slug: meine-frau-mein-auto-mein-haus
 tags:
 - apple
 - cs4
 - screenshot
-title: meine frau, mein auto, mein haus
-url: /2009/10/08/meine-frau-mein-auto-mein-haus/
-wordpress_id: 1928
 ---
 
 [bastian interessierts](http://blog.dasrecht.net/2009/10/07/desktop-07-10-2009/), wie meine arbeitsoberfläche gestaltet ist. momentan sieht mein desktop für meine verhältnisse sehr überladen aus, denn ich bin ein verfechter eines [minimalen macs](http://minimalmac.com/).

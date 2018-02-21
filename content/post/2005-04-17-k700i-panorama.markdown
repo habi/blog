@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2005-04-17T14:11:30Z
+date: 2005-04-17 14:11:30+00:00
+layout: post
 link: http://habi.gna.ch/2005/04/17/k700i-panorama/
 slug: k700i-panorama
 title: k700i panorama
-url: /2005/04/17/k700i-panorama/
 wordpress_id: 770
+categories:
+- none
 ---
+
 
 [![k700i panorama](http://photos5.flickr.com/9658017_5cbc76d5ed_m.jpg)](http://www.flickr.com/photos/habi/9658017/)
 

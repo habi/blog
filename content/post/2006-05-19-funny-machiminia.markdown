@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-05-19T22:27:03Z
+date: 2006-05-19 22:27:03+00:00
+layout: post
 link: http://habi.gna.ch/2006/05/20/funny-machiminia/
 slug: funny-machiminia
 title: '"funny" machiminia'
-url: /2006/05/19/funny-machiminia/
 wordpress_id: 178
+categories:
+- linkdump
 ---
+
 
 do you like video-games? or don't you? whatever!
   

@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- bike
-- personal
 comments: true
-date: 2005-12-07T14:30:05Z
+date: 2005-12-07 14:30:05+00:00
+layout: post
 link: http://habi.gna.ch/2005/12/07/chillin-messengers/
 slug: chillin-messengers
 title: chillin' messengers
-url: /2005/12/07/chillin-messengers/
 wordpress_id: 109
+categories:
+- bike
+- personal
 ---
+
 
 sometimes at noon we need to take a break.
   

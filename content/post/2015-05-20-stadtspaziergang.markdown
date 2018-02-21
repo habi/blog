@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2015-05-20 12:46:53+00:00
+layout: post
+link: http://habi.gna.ch/2015/05/20/stadtspaziergang/
+slug: stadtspaziergang
+title: Stadtspaziergang
+wordpress_id: 3925
 categories:
 - moblog
 - photos
-comments: true
-date: 2015-05-20T12:46:53Z
-link: http://habi.gna.ch/2015/05/20/stadtspaziergang/
-slug: stadtspaziergang
 tags:
 - flickr
 - IFTTT
 - moblog
-title: Stadtspaziergang
-url: /2015/05/20/stadtspaziergang/
-wordpress_id: 3925
 ---
 
 ![](http://ift.tt/1EXs5Jr)  

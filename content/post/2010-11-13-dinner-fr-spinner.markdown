@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-11-13T07:59:19Z
+date: 2010-11-13 07:59:19+00:00
+layout: post
 link: http://habi.gna.ch/2010/11/13/dinner-fr-spinner/
 slug: dinner-fr-spinner
 title: Dinner für Spinner
-url: /2010/11/13/dinner-fr-spinner/
 wordpress_id: 2287
+categories:
+- personal
 ---
 
 Vergangenge Woche hat Tinu mal wieder sein jahrliches Dinner fur Spinner organisiert. Dieses Mal waren wir auf dem Bantiger und haben unter anderem

@@ -1,18 +1,19 @@
 ---
 author: admin
-categories:
-- fun
-- moblog
 comments: true
-date: 2005-09-10T15:28:37Z
+date: 2005-09-10 15:28:37+00:00
+layout: post
 link: http://habi.gna.ch/2005/09/10/official-hummer-salute/
 slug: official-hummer-salute
 title: official hummer salute
-url: /2005/09/10/official-hummer-salute/
 wordpress_id: 70
+categories:
+- fun
+- moblog
 ---
 
-[![](http://static.flickr.com/24/42072998_b598bc187e_m.jpg)](http://www.flickr.com/photos/habi/42072998/)
+
+ [![](http://static.flickr.com/24/42072998_b598bc187e_m.jpg)](http://www.flickr.com/photos/habi/42072998/)
    
 
  

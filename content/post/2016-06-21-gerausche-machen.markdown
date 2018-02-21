@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2016-06-21T20:32:04Z
+date: 2016-06-21 20:32:04+00:00
+layout: post
 link: http://habi.gna.ch/2016/06/21/gerausche-machen/
 slug: gerausche-machen
 title: Geräusche machen
-url: /2016/06/21/gerausche-machen/
 wordpress_id: 4517
+categories:
+- personal
 ---
 
 13 Minuten ohne Worte, aber mit viel Leidenschaft.

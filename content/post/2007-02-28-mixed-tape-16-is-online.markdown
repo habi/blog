@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- music
 comments: true
-date: 2007-02-28T22:49:51Z
+date: 2007-02-28 22:49:51+00:00
+layout: post
 link: http://habi.gna.ch/2007/02/28/mixed-tape-16-is-online/
 slug: mixed-tape-16-is-online
 title: mixed-tape 16 is online
-url: /2007/02/28/mixed-tape-16-is-online/
 wordpress_id: 874
+categories:
+- music
 ---
 
 the new mercedes mixed tape is now [online](http://www.mercedes-benz.com/mixedtape).

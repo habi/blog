@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-04-26T13:14:05Z
+date: 2004-04-26 13:14:05+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/26/the-librie-is-not-so-hot/
 slug: the-librie-is-not-so-hot
 title: the librie is not so hot
-url: /2004/04/26/the-librie-is-not-so-hot/
 wordpress_id: 515
+categories:
+- none
 ---
 
 some weeks ago i made a little post about the lastest drool-over-gadget from sony, [the librie](http://habi.gna.ch/blog/archives/000280.html). now [dottocomu](http://www.dottocomu.com/b/archives/002571.html) posted a first look on the e-book reader which doesn't seem to be so hot at all.

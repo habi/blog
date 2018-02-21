@@ -1,12 +1,15 @@
 ---
 author: admin
+comments: true
+date: 2015-01-07 20:47:51+00:00
+layout: post
+link: http://habi.gna.ch/2015/01/07/where-was-i-in-2014/
+slug: where-was-i-in-2014
+title: Where was I in 2014
+wordpress_id: 3752
 categories:
 - personal
 - technospeak
-comments: true
-date: 2015-01-07T20:47:51Z
-link: http://habi.gna.ch/2015/01/07/where-was-i-in-2014/
-slug: where-was-i-in-2014
 tags:
 - data
 - iphone
@@ -14,9 +17,6 @@ tags:
 - jahresrückblick14
 - location
 - R
-title: Where was I in 2014
-url: /2015/01/07/where-was-i-in-2014/
-wordpress_id: 3752
 ---
 
 This is the <del>first </del>second of some of my _look back on 2014_ posts. To see the other ones, take a look at the [`jahresrückblick14`](http://habi.gna.ch/tag/jahresruckblick14)-tag

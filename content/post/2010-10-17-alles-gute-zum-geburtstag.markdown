@@ -1,17 +1,17 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-10-17T15:49:35Z
+date: 2010-10-17 15:49:35+00:00
+layout: post
 link: http://habi.gna.ch/2010/10/17/alles-gute-zum-geburtstag/
 slug: alles-gute-zum-geburtstag
+title: Alles Gute zum Geburtstag!
+wordpress_id: 2233
+categories:
+- personal
 tags:
 - birthday
 - retrospektive
-title: Alles Gute zum Geburtstag!
-url: /2010/10/17/alles-gute-zum-geburtstag/
-wordpress_id: 2233
 ---
 
 Meine Abenteuer im Internetz haben heute Geburtstag. Am 17. Oktober 2000 um 17.49 (amerikanischer Ortszeit) habe ich zum ersten Mal meine Fussstapfen im weltweiten Computer-Verbund hinterlassen, wie schon letzthin bei [Herr Jacomet kundgetan](http://blog.jacomet.ch/?p=551) (siehe Kommentare)

@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2008-03-03 20:59:08+00:00
+layout: post
+link: http://habi.gna.ch/2008/03/03/blgmdybrn-recap-2/
+slug: blgmdybrn-recap-2
+title: blgmdybrn recap
+wordpress_id: 1198
 categories:
 - switzerland
 - technospeak
 - tschörman
-comments: true
-date: 2008-03-03T20:59:08Z
-link: http://habi.gna.ch/2008/03/03/blgmdybrn-recap-2/
-slug: blgmdybrn-recap-2
 tags:
 - blgmndybrn
-title: blgmdybrn recap
-url: /2008/03/03/blgmdybrn-recap-2/
-wordpress_id: 1198
 ---
 
 dabei waren:

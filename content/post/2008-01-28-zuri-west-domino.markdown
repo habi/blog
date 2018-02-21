@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2008-01-28 20:04:48+00:00
+layout: post
+link: http://habi.gna.ch/2008/01/28/zuri-west-domino/
+slug: zuri-west-domino
+title: züri west domino
+wordpress_id: 1167
 categories:
 - memes
 - music
 - personal
 - switzerland
 - tschörman
-comments: true
-date: 2008-01-28T20:04:48Z
-link: http://habi.gna.ch/2008/01/28/zuri-west-domino/
-slug: zuri-west-domino
-title: züri west domino
-url: /2008/01/28/zuri-west-domino/
-wordpress_id: 1167
 ---
 
 hossa! schon seit einiger zeit fliegt ein stöckchen in der schweizer blogosphäre rum, das ich jeweils ziemlich schnell überflogen habe. ich hab zwar im breitsch öppendie den kuno im coop gesehen, mein itunes-züri-west quotient [1] beträgt aber aktuell 5724:0 für "alle songs" zu "züri west". selbst die kürzlich fusionierte cd-sammlung konnte mich nicht davor bewahren, die [züri-west-homepage](http://www.zueriwest.ch/) zu besuchen, um nicht ein simples "i schänke dir mis härz" an kusitos stockwurf hintenanzuhängen...

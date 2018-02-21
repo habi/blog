@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2008-10-25T14:44:19Z
+date: 2008-10-25 14:44:19+00:00
+layout: post
 link: http://habi.gna.ch/2008/10/25/virtualbox-rocks/
 slug: virtualbox-rocks
 title: virtualbox rocks!
-url: /2008/10/25/virtualbox-rocks/
 wordpress_id: 1513
+categories:
+- none
 ---
 
-[![](http://farm4.static.flickr.com/3165/2971881028_0cd0f0711f_m.jpg)](http://www.flickr.com/photos/habi/2971881028/)
+
+ [![](http://farm4.static.flickr.com/3165/2971881028_0cd0f0711f_m.jpg)](http://www.flickr.com/photos/habi/2971881028/)
    
 
  

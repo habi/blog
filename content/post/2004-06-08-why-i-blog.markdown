@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-06-08T22:11:48Z
+date: 2004-06-08 22:11:48+00:00
+layout: post
 link: http://habi.gna.ch/2004/06/09/why-i-blog/
 slug: why-i-blog
 title: why i blog
-url: /2004/06/08/why-i-blog/
 wordpress_id: 552
+categories:
+- none
 ---
 
 hamme made a smart comment on a recent [an old post](http://nick.kaywa.com/blogging_about_blogging/*staun*.html) on nicks blog which made me think about the "why do i blog".

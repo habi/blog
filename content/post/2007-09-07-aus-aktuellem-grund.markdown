@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- fun
 comments: true
-date: 2007-09-07T22:29:21Z
+date: 2007-09-07 22:29:21+00:00
+layout: post
 link: http://habi.gna.ch/2007/09/07/aus-aktuellem-grund/
 slug: aus-aktuellem-grund
 title: aus aktuellem grund...
-url: /2007/09/07/aus-aktuellem-grund/
 wordpress_id: 1013
+categories:
+- fun
 ---
 
 savage chicken: [Where Am I?](http://www.savagechickens.com/blog/2007/09/where-am-i.html):

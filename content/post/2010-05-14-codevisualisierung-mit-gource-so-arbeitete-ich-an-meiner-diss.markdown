@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- technospeak
-- tschörman
 comments: true
-date: 2010-05-14T20:49:05Z
+date: 2010-05-14 20:49:05+00:00
+layout: post
 link: http://habi.gna.ch/2010/05/14/codevisualisierung-mit-gource-so-arbeitete-ich-an-meiner-diss/
 slug: codevisualisierung-mit-gource-so-arbeitete-ich-an-meiner-diss
 title: Codevisualisierung mit Gource - So arbeitete ich an meiner Diss
-url: /2010/05/14/codevisualisierung-mit-gource-so-arbeitete-ich-an-meiner-diss/
 wordpress_id: 2125
+categories:
+- technospeak
+- tschörman
 ---
 
 Meine Diss ist auf der Post, im Moment heissts nur noch warten, was die beiden Korrigierenden dazu meinen. Anschliessend gibt's noch einiges zu tun bis Ende Juni, wenn ich meinen Diss-Vortrag halten muss. Aber im Moment hab' ich etwas mehr Zeit zum rumspielen.

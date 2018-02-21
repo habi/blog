@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2013-09-15 14:12:08+00:00
+layout: post
+link: http://habi.gna.ch/2013/09/15/mein-bisher-langstes-zeitrafferfilmi/
+slug: mein-bisher-langstes-zeitrafferfilmi
+title: Mein bisher längstes Zeitrafferfilmi
+wordpress_id: 3199
 categories:
 - movies
 - personal
 - technospeak
 - work
-comments: true
-date: 2013-09-15T14:12:08Z
-link: http://habi.gna.ch/2013/09/15/mein-bisher-langstes-zeitrafferfilmi/
-slug: mein-bisher-langstes-zeitrafferfilmi
 tags:
 - movies
-title: Mein bisher längstes Zeitrafferfilmi
-url: /2013/09/15/mein-bisher-langstes-zeitrafferfilmi/
-wordpress_id: 3199
 ---
 
 Der Film selber ist gar nicht so lang, aber die Herstellung dauerte lange.

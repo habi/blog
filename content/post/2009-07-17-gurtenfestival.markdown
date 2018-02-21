@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2009-07-17T13:54:11Z
+date: 2009-07-17 13:54:11+00:00
+layout: post
 link: http://habi.gna.ch/2009/07/17/gurtenfestival/
 slug: gurtenfestival
 title: Gurtenfestival
-url: /2009/07/17/gurtenfestival/
 wordpress_id: 1865
+categories:
+- personal
 ---
 
-[![](http://farm3.static.flickr.com/2616/3728838011_d42318561c_m.jpg)](http://www.flickr.com/photos/habi/3728838011/)
+
+ [![](http://farm3.static.flickr.com/2616/3728838011_d42318561c_m.jpg)](http://www.flickr.com/photos/habi/3728838011/)
    
 
  

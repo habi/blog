@@ -1,19 +1,19 @@
 ---
 author: admin
+comments: true
+date: 2010-07-06 21:30:09+00:00
+layout: post
+link: http://habi.gna.ch/2010/07/06/kulturtipp-der-woche-loutop-attache/
+slug: kulturtipp-der-woche-loutop-attache
+title: 'Kulturtipp der Woche: Loutop ATTACHE'
+wordpress_id: 2143
 categories:
 - switzerland
 - tschörman
-comments: true
-date: 2010-07-06T21:30:09Z
-link: http://habi.gna.ch/2010/07/06/kulturtipp-der-woche-loutop-attache/
-slug: kulturtipp-der-woche-loutop-attache
 tags:
 - bern
 - dance
 - loutop
-title: 'Kulturtipp der Woche: Loutop ATTACHE'
-url: /2010/07/06/kulturtipp-der-woche-loutop-attache/
-wordpress_id: 2143
 ---
 
 [![076.JPG](http://habi.gna.ch/wp-content/uploads/2010/07/076-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2010/07/076.jpg)Heute Abend war ich auf der [Munsterplattform](http://foursquare.com/venue/4122427) und habe ein wunderbares Tanzstuck der [Compagnie Loutop](http://loutop.com/) gesehen.

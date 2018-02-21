@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2013-08-21 21:22:44+00:00
+layout: post
+link: http://habi.gna.ch/2013/08/21/ich-war-ein-paar-tage-in-den-bergen/
+slug: ich-war-ein-paar-tage-in-den-bergen
+title: Ich war ein paar Tage in den Bergen
+wordpress_id: 3184
 categories:
 - personal
 - pictures
 - switzerland
-comments: true
-date: 2013-08-21T21:22:44Z
-link: http://habi.gna.ch/2013/08/21/ich-war-ein-paar-tage-in-den-bergen/
-slug: ich-war-ein-paar-tage-in-den-bergen
 tags:
 - in den bergen ist freiheit
-title: Ich war ein paar Tage in den Bergen
-url: /2013/08/21/ich-war-ein-paar-tage-in-den-bergen/
-wordpress_id: 3184
 ---
 
 Manchmal gehen solche Sachen spontaner als mensch denkt; am Mittwoch eröffnete sich die Möglichkeit auf eine Bergtour zu gehen, am Sonntag übernachteten wir schon in Zermatt, um uns zu anklimatisieren.

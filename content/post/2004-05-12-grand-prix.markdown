@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-05-12T19:22:11Z
+date: 2004-05-12 19:22:11+00:00
+layout: post
 link: http://habi.gna.ch/2004/05/12/grand-prix/
 slug: grand-prix
 title: grand prix
-url: /2004/05/12/grand-prix/
 wordpress_id: 531
+categories:
+- none
 ---
 
 last weekend i ran [the grand prix of bern](http://www.gpbern.ch/). i'm not really a big runner, nonetheless i managed to run the ten most beautiful miles on earth in a time of 1h, 9min and 27 seconds. not too bad for that my training consisted of going for a run three times prior to the race :-)

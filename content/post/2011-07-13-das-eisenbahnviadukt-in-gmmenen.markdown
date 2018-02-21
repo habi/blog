@@ -1,20 +1,20 @@
 ---
 author: admin
+comments: true
+date: 2011-07-13 21:40:37+00:00
+layout: post
+link: http://habi.gna.ch/2011/07/13/das-eisenbahnviadukt-in-gmmenen/
+slug: das-eisenbahnviadukt-in-gmmenen
+title: Das Eisenbahnviadukt in Gümmenen
+wordpress_id: 2533
 categories:
 - pictures
 - switzerland
 - technospeak
-comments: true
-date: 2011-07-13T21:40:37Z
-link: http://habi.gna.ch/2011/07/13/das-eisenbahnviadukt-in-gmmenen/
-slug: das-eisenbahnviadukt-in-gmmenen
 tags:
-- gümmenen
+- g&#252;mmenen
 - panorama
 - velocontent
-title: Das Eisenbahnviadukt in Gümmenen
-url: /2011/07/13/das-eisenbahnviadukt-in-gmmenen/
-wordpress_id: 2533
 ---
 
 Am Montag Abend habe ich ein kleines [Velofahrtli](http://runkeeper.com/user/davidhaberthuer/activity/42870384) gemacht um mal das Eisenbahnviadukt neben [Gummenen](http://de.wikipedia.org/wiki/G%C3%BCmmenen) im Abendlicht zu fotografieren. Mit dem 8mm Fischauge-Objektiv, dass ich momentan zur Evaluation von [Martin Bichsel](http://martinbichsel.ch/) ausgeliehen habe, entstanden dann einige schone Fotos des Viaduktes. Dank dem extrem weitwinklichen Objektiv konnte ich mit 6 Fotos (ohne Stativ) komplette Rundumansichten des Viaduktes machen.

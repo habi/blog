@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-03-26T18:37:51Z
+date: 2004-03-26 18:37:51+00:00
+layout: post
 link: http://habi.gna.ch/2004/03/26/locked-outside/
 slug: locked-outside
 title: Locked Outside!
-url: /2004/03/26/locked-outside/
 wordpress_id: 484
+categories:
+- none
 ---
 
 I pulled this out of my old school composition book. Typed fresh and posting here, I don't know if anyone is going to like this or not.

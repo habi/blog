@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-15T20:27:05Z
+date: 2004-09-15 20:27:05+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/15/pimp-watch/
 slug: pimp-watch
 title: pimp-watch
-url: /2004/09/15/pimp-watch/
 wordpress_id: 618
+categories:
+- none
 ---
 
 i think i need [a watch](http://www.tokyoflash.com/viewwatch.php?id=53&from=W1) to fit with my belt buckle!

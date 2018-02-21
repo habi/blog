@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- movies
 comments: false
-date: 2015-02-24T22:07:04Z
+date: 2015-02-24 22:07:04+00:00
+layout: post
 link: http://habi.gna.ch/2015/02/24/kurzkritik-birdman/
 slug: kurzkritik-birdman
+title: 'Kurzkritik: Birdman'
+wordpress_id: 3841
+categories:
+- movies
 tags:
 - kino
 - kritik
 - kurzkritik
-title: 'Kurzkritik: Birdman'
-url: /2015/02/24/kurzkritik-birdman/
-wordpress_id: 3841
 ---
 
 Ich liebe Theater, ich liebe Kino.

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-07-20T22:03:20Z
+date: 2004-07-20 22:03:20+00:00
+layout: post
 link: http://habi.gna.ch/2004/07/21/le-tour/
 slug: le-tour
 title: le tour
-url: /2004/07/20/le-tour/
 wordpress_id: 582
+categories:
+- none
 ---
 
 since the timedifference between the finishers of [le grand boucle](http://www.letour.fr/2004/us/index.html) on sunday is probably gonna be minuscule i thought it's interesting to know how people actually figure out who comes in first or not after those 180km stages.

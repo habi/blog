@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-08-30T11:33:40Z
+date: 2004-08-30 11:33:40+00:00
+layout: post
 link: http://habi.gna.ch/2004/08/30/my-weekend/
 slug: my-weekend
 title: my weekend
-url: /2004/08/30/my-weekend/
 wordpress_id: 604
+categories:
+- none
 ---
 
 the past weekend i spent in italy. a good friend of mine had his wedding in the hometown of his girlfriend, now wife. i met kim seven (!) years ago, when we both made a kind of student exchange in australia and we both managed to keep in touch through all these years, amazing!

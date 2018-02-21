@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-11-03T17:00:03Z
+date: 2003-11-03 17:00:03+00:00
+layout: post
 link: http://habi.gna.ch/2003/11/03/panoramas/
 slug: panoramas
 title: panoramas
-url: /2003/11/03/panoramas/
 wordpress_id: 339
+categories:
+- none
 ---
 
 well, i have to say the demo-version of [realviz' stitcher](http://www.realviz.com/products/st/index.php) is quite capable.

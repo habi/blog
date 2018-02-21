@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-09T15:57:23Z
+date: 2004-10-09 15:57:23+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/09/newmapsearchch/
 slug: newmapsearchch
 title: newmap.search.ch
-url: /2004/10/09/newmapsearchch/
 wordpress_id: 642
+categories:
+- none
 ---
 
 finally!

@@ -1,12 +1,15 @@
 ---
 author: admin
+comments: true
+date: 2016-11-12 13:44:34+00:00
+layout: post
+link: http://habi.gna.ch/2016/11/12/ein-schoner-einstieg-in-die-wintersport-saison-thunersee-2/
+slug: ein-schoner-einstieg-in-die-wintersport-saison-thunersee-2
+title: Ein schöner Einstieg in die Wintersport-Saison, Thunersee
+wordpress_id: 4783
 categories:
 - moblog
 - photos
-comments: true
-date: 2016-11-12T13:44:34Z
-link: http://habi.gna.ch/2016/11/12/ein-schoner-einstieg-in-die-wintersport-saison-thunersee-2/
-slug: ein-schoner-einstieg-in-die-wintersport-saison-thunersee-2
 tags:
 - diving
 - flickr
@@ -16,9 +19,6 @@ tags:
 - moblog
 - serie
 - thunersee
-title: Ein schöner Einstieg in die Wintersport-Saison, Thunersee
-url: /2016/11/12/ein-schoner-einstieg-in-die-wintersport-saison-thunersee-2/
-wordpress_id: 4783
 ---
 
 ![](http://ift.tt/2fMfkhx)  

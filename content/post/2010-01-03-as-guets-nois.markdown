@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-01-03T18:17:05Z
+date: 2010-01-03 18:17:05+00:00
+layout: post
 link: http://habi.gna.ch/2010/01/03/as-guets-nois/
 slug: as-guets-nois
 title: äs guets nöis!
-url: /2010/01/03/as-guets-nois/
 wordpress_id: 2006
+categories:
+- personal
 ---
 
 [![2010.jpg](http://habi.gna.ch/wp-content/uploads/2009/12/2010-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2009/12/2010.jpg)

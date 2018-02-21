@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- personal
-- tschörman
 comments: true
-date: 2007-03-06T17:18:50Z
+date: 2007-03-06 17:18:50+00:00
+layout: post
 link: http://habi.gna.ch/2007/03/06/things-that-make-you-go-hmmmm/
 slug: things-that-make-you-go-hmmmm
 title: things that make you go hmmmm....
-url: /2007/03/06/things-that-make-you-go-hmmmm/
 wordpress_id: 878
+categories:
+- personal
+- tschörman
 ---
 
 fragen, die sich einem [momentan-pendler](http://www.biomechanics.ethz.ch/phalanx/) so stellen:

@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- picture of the week
 comments: true
-date: 2004-04-18T17:21:16Z
+date: 2004-04-18 17:21:16+00:00
+layout: post
 link: http://habi.gna.ch/2004/04/18/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
-url: /2004/04/18/picture-of-the-week/
 wordpress_id: 507
+categories:
+- picture of the week
 ---
 
 this friendly door looks like [weebl and bobs](http://www.weebl.jolt.co.uk/) big brother, don't you think?

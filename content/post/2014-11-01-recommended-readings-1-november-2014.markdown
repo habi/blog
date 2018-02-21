@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2014-11-01T22:15:44Z
+date: 2014-11-01 22:15:44+00:00
+layout: post
 link: http://habi.gna.ch/2014/11/01/recommended-readings-1-november-2014/
 slug: recommended-readings-1-november-2014
+title: 'Recommended readings: 1. November 2014'
+wordpress_id: 3601
+categories:
+- linkdump
 tags:
 - instapaper
-title: 'Recommended readings: 1. November 2014'
-url: /2014/11/01/recommended-readings-1-november-2014/
-wordpress_id: 3601
 ---
 
 Im letzten Monat las ich folgende Texte/sah folgende Videos [1] und fand diese gut:

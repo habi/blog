@@ -1,18 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2014-03-23T20:08:58Z
+date: 2014-03-23 20:08:58+00:00
+layout: post
 link: http://habi.gna.ch/2014/03/23/die-sterne-im-hasliberg/
 slug: die-sterne-im-hasliberg
+title: Die Sterne im Hasliberg
+wordpress_id: 3401
+categories:
+- personal
 tags:
 - hasliberg
 - timelapse
 - zeitraffer
-title: Die Sterne im Hasliberg
-url: /2014/03/23/die-sterne-im-hasliberg/
-wordpress_id: 3401
 ---
 
 Letzthin war ich ein Wochenende im Hasliberg Skifahren (inkl. [Nachtskifahren](http://runkeeper.com/user/davidhaberthuer/activity/315005242?&tripIdBase36=57jnlm)).

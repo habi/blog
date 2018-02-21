@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-26T19:39:58Z
+date: 2003-07-26 19:39:58+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/26/canyoning/
 slug: canyoning
 title: Canyoning
-url: /2003/07/26/canyoning/
 wordpress_id: 233
+categories:
+- none
 ---
 
 Today i went Canyoning into the Canyon called "chli Schlieren" with Nina, Jacky, Claudsche, Peschi and Sigi!  

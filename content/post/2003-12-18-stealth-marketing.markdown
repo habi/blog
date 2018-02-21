@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-12-18T20:40:46Z
+date: 2003-12-18 20:40:46+00:00
+layout: post
 link: http://habi.gna.ch/2003/12/18/stealth-marketing/
 slug: stealth-marketing
 title: stealth marketing
-url: /2003/12/18/stealth-marketing/
 wordpress_id: 383
+categories:
+- none
 ---
 
 take a look at [this website](http://www.irobotnow.com/index.php) for a too-good-to-be-true robot, the NS-5.

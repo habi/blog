@@ -1,15 +1,15 @@
 ---
 author: admin
-categories:
-- linkdump
-- personal
 comments: true
-date: 2011-07-08T20:21:43Z
+date: 2011-07-08 20:21:43+00:00
+layout: post
 link: http://habi.gna.ch/2011/07/08/the-big-apple/
 slug: the-big-apple
 title: The Big Apple
-url: /2011/07/08/the-big-apple/
 wordpress_id: 2524
+categories:
+- linkdump
+- personal
 ---
 
 Nachste Woche fliege ich fur ein paar Tage nach New York. Ich sag dies jetzt nicht, um euch alle neidisch zu machen, sondern weil das zwei Konsequenzen hat:

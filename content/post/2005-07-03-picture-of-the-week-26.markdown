@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2005-07-03 21:28:09+00:00
+layout: post
+link: http://habi.gna.ch/2005/07/03/picture-of-the-week-26/
+slug: picture-of-the-week-26
+title: picture of the week 26
+wordpress_id: 38
 categories:
 - bike
 - picture of the week
 - pictures
-comments: true
-date: 2005-07-03T21:28:09Z
-link: http://habi.gna.ch/2005/07/03/picture-of-the-week-26/
-slug: picture-of-the-week-26
-title: picture of the week 26
-url: /2005/07/03/picture-of-the-week-26/
-wordpress_id: 38
 ---
 
 i've been experimenting with panoramas quite a bit lately [1]. and with huginosx it's really easy to align ramarkably good panoramas even with handheld pictures, like i've done it in the one below.

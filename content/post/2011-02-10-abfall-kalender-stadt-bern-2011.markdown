@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2011-02-10T09:50:01Z
+date: 2011-02-10 09:50:01+00:00
+layout: post
 link: http://habi.gna.ch/2011/02/10/abfall-kalender-stadt-bern-2011/
 slug: abfall-kalender-stadt-bern-2011
 title: Abfall-Kalender Stadt Bern 2011
-url: /2011/02/10/abfall-kalender-stadt-bern-2011/
 wordpress_id: 2386
+categories:
+- personal
 ---
 
 In den [letzten Jahren](http://habi.gna.ch/?s=abfallkalender) habe ich den Abfallkalender der Stadt Bern als Google-Kalender zur Verfügung gestellt. Jetzt hat's [Entsorgung + Recycling Stadt Bern (ERB)](http://www.bern.ch/leben_in_bern/wohnen/abfaelle) geschafft [1], den Abfallkalender in einem praktischen Format auf der Seite der Stadt Bern zu veröffentlichen.

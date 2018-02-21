@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2003-07-28T19:45:02Z
+date: 2003-07-28 19:45:02+00:00
+layout: post
 link: http://habi.gna.ch/2003/07/28/good-thinking-bad-man/
 slug: good-thinking-bad-man
 title: good thinking bad man!
-url: /2003/07/28/good-thinking-bad-man/
 wordpress_id: 237
+categories:
+- none
 ---
 
 The [US Code](http://www4.law.cornell.edu/uscode/) [Title 4, Chapter 1, Section 8 (g)](http://www4.law.cornell.edu/uscode/4/8.html) says:

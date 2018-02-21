@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2010-09-06 19:08:14+00:00
+layout: post
+link: http://habi.gna.ch/2010/09/06/ted-comes-to-zrich/
+slug: ted-comes-to-zrich
+title: TED comes to Zürich [update]
+wordpress_id: 2194
 categories:
 - personal
 - switzerland
-comments: true
-date: 2010-09-06T19:08:14Z
-link: http://habi.gna.ch/2010/09/06/ted-comes-to-zrich/
-slug: ted-comes-to-zrich
 tags:
 - ted
-title: TED comes to Zürich [update]
-url: /2010/09/06/ted-comes-to-zrich/
-wordpress_id: 2194
 ---
 
 Schon-Lange-Mitleser hier wissen, dass ich ein grosser Freund der [TED-Talks](http://www.ted.com/) bin, immer wieder begeistern mich die vorgestellten Ideen und fasziniert mich die Rhetorik der Redner und Rednerinnen. Heute habe ich bei [Bastian druben](http://blog.dasrecht.net/2010/09/06/tedxzurich/) gelesen, dass die TED-Konferenz als [Satellitenkonferenz](http://www.ted.com/tedx) nach Zurich kommt, und zwar als [TEDxZurich](http://tedxzurich.com/).

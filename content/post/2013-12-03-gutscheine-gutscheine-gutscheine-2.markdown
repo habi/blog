@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2013-12-03T23:34:26Z
+date: 2013-12-03 23:34:26+00:00
+layout: post
 link: http://habi.gna.ch/2013/12/04/gutscheine-gutscheine-gutscheine-2/
 slug: gutscheine-gutscheine-gutscheine-2
 title: Gutscheine, Gutscheine, Gutscheine!
-url: /2013/12/03/gutscheine-gutscheine-gutscheine-2/
 wordpress_id: 3269
+categories:
+- linkdump
 ---
 
 Offensichtlich scheint’s überall zu weihnachten. Obwohl ich eine Newsletter-Allergie habe und wenn möglich jede unpersönliche Email einer Firma abbestelle, trudelten in den letzten Tagen einige Angebote in meinem Emailpostfach ein. Da ich bei den Angeboten schon zufriedener Kunde bin, stelle ich die Gutscheine hier zur Verfügung, à la “dr ender isch dr Gschwinder”.

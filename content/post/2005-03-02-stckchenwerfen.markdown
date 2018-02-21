@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2005-03-02T20:16:06Z
+date: 2005-03-02 20:16:06+00:00
+layout: post
 link: http://habi.gna.ch/2005/03/02/stckchenwerfen/
 slug: stckchenwerfen
 title: stöckchenwerfen
-url: /2005/03/02/stckchenwerfen/
 wordpress_id: 742
+categories:
+- none
 ---
+
 
 folgendes stockchen wurde mir von [rage](http://lesen.twoday.net/) [zugeworfen](http://lesen.twoday.net/stories/515845/):
 

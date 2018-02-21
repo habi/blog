@@ -1,17 +1,18 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2010-05-18T15:49:48Z
+date: 2010-05-18 15:49:48+00:00
+layout: post
 link: http://habi.gna.ch/2010/05/18/us-amerikanischer-unsinn-free-shuttle/
 slug: us-amerikanischer-unsinn-free-shuttle
 title: 'US-amerikanischer Unsinn: Free Shuttle'
-url: /2010/05/18/us-amerikanischer-unsinn-free-shuttle/
 wordpress_id: 2129
+categories:
+- personal
 ---
 
-[![](http://farm5.static.flickr.com/4038/4618471437_4f39f28e1d_m.jpg)](http://www.flickr.com/photos/habi/4618471437/)
+
+ [![](http://farm5.static.flickr.com/4038/4618471437_4f39f28e1d_m.jpg)](http://www.flickr.com/photos/habi/4618471437/)
    
 
  

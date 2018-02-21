@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2013-12-29 13:20:18+00:00
+layout: post
+link: http://habi.gna.ch/2013/12/29/ein-jahr-in-fotos/
+slug: ein-jahr-in-fotos
+title: Ein Jahr in Fotos
+wordpress_id: 3324
 categories:
 - personal
 - picture of the week
 - pictures
-comments: true
-date: 2013-12-29T13:20:18Z
-link: http://habi.gna.ch/2013/12/29/ein-jahr-in-fotos/
-slug: ein-jahr-in-fotos
-title: Ein Jahr in Fotos
-url: /2013/12/29/ein-jahr-in-fotos/
-wordpress_id: 3324
 ---
 
 Das Jahresende verleitet zu Rückblicken [1].  

@@ -1,17 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2005-11-07 17:08:24+00:00
+layout: post
+link: http://habi.gna.ch/2005/11/07/swiss-blog-awards/
+slug: swiss-blog-awards
+title: swiss blog awards
+wordpress_id: 96
 categories:
 - linkdump
 - switzerland
 - technospeak
-comments: true
-date: 2005-11-07T17:08:24Z
-link: http://habi.gna.ch/2005/11/07/swiss-blog-awards/
-slug: swiss-blog-awards
-title: swiss blog awards
-url: /2005/11/07/swiss-blog-awards/
-wordpress_id: 96
 ---
+
 
 there's been cooking something for [quite a long time](http://habi.gna.ch/blog/archives/000575.html), now everything seems to be going along really fine.
   

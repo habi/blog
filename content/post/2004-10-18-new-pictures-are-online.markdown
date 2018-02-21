@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-18T21:16:53Z
+date: 2004-10-18 21:16:53+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/18/new-pictures-are-online/
 slug: new-pictures-are-online
 title: new pictures are online
-url: /2004/10/18/new-pictures-are-online/
 wordpress_id: 652
+categories:
+- none
 ---
 
 [the christening of anna-lena](http://habi.gna.ch/pics/Anna-Lena/) - ninas godchild - which took place last sunday was the reason i returned a day earlier from the weissfluhjoch.

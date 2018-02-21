@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- personal
 comments: true
-date: 2016-10-10T21:31:50Z
+date: 2016-10-10 21:31:50+00:00
+layout: post
 link: http://habi.gna.ch/2016/10/10/hossa/
 slug: hossa
 title: Hossa!
-url: /2016/10/10/hossa/
 wordpress_id: 4698
+categories:
+- personal
 ---
 
 Ist Werbung, aber _was_ für eine!

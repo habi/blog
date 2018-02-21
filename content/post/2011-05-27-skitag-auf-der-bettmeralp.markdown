@@ -1,17 +1,17 @@
 ---
 author: admin
+comments: true
+date: 2011-05-27 16:24:58+00:00
+layout: post
+link: http://habi.gna.ch/2011/05/27/skitag-auf-der-bettmeralp/
+slug: skitag-auf-der-bettmeralp
+title: Skitag auf der Bettmeralp
+wordpress_id: 2502
 categories:
 - personal
 - switzerland
-comments: true
-date: 2011-05-27T16:24:58Z
-link: http://habi.gna.ch/2011/05/27/skitag-auf-der-bettmeralp/
-slug: skitag-auf-der-bettmeralp
 tags:
 - skiing
-title: Skitag auf der Bettmeralp
-url: /2011/05/27/skitag-auf-der-bettmeralp/
-wordpress_id: 2502
 ---
 
 Weil 6 der letzten 7 Eintrage ein Video enthalten, hier grad nochmal, dann steigt die Quote auf 7 von 8.

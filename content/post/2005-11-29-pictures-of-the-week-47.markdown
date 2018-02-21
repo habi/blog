@@ -1,16 +1,17 @@
 ---
 author: admin
-categories:
-- picture of the week
-- pictures
 comments: true
-date: 2005-11-29T08:49:51Z
+date: 2005-11-29 08:49:51+00:00
+layout: post
 link: http://habi.gna.ch/2005/11/29/pictures-of-the-week-47/
 slug: pictures-of-the-week-47
 title: pictures of the week 47
-url: /2005/11/29/pictures-of-the-week-47/
 wordpress_id: 104
+categories:
+- picture of the week
+- pictures
 ---
+
 
 as in the last two years nina and me went to the [polyball](http://www.polyball.ethz.ch/polyball2005/index.html) in zurich. it was a blast, although we couldn't dance that much this year 'cause ninas back ached a bit after an hour of salsa :-)
   

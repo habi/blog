@@ -1,12 +1,15 @@
 ---
 author: admin
+comments: true
+date: 2016-01-24 10:37:56+00:00
+layout: post
+link: http://habi.gna.ch/2016/01/24/heidsee/
+slug: heidsee
+title: Heidsee
+wordpress_id: 4342
 categories:
 - moblog
 - photos
-comments: true
-date: 2016-01-24T10:37:56Z
-link: http://habi.gna.ch/2016/01/24/heidsee/
-slug: heidsee
 tags:
 - flickr
 - IFTTT
@@ -14,9 +17,6 @@ tags:
 - lenzerheide
 - moblog
 - seerie
-title: Heidsee
-url: /2016/01/24/heidsee/
-wordpress_id: 4342
 ---
 
 ![](http://ift.tt/1OGAR6q)  

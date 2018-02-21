@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-09-29T19:28:58Z
+date: 2004-09-29 19:28:58+00:00
+layout: post
 link: http://habi.gna.ch/2004/09/29/motorola-razr-v3/
 slug: motorola-razr-v3
 title: motorola razr v3
-url: /2004/09/29/motorola-razr-v3/
 wordpress_id: 630
+categories:
+- none
 ---
 
 gadget envy.

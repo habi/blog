@@ -1,15 +1,16 @@
 ---
 author: admin
-categories:
-- linkdump
 comments: true
-date: 2006-08-29T21:42:59Z
+date: 2006-08-29 21:42:59+00:00
+layout: post
 link: http://habi.gna.ch/2006/08/29/the-future-of-interfaces/
 slug: the-future-of-interfaces
 title: the future of interfaces
-url: /2006/08/29/the-future-of-interfaces/
 wordpress_id: 217
+categories:
+- linkdump
 ---
+
 
 [jeff han](http://mrl.nyu.edu/~jhan/) [1] is a researcher at the new york university. he gave a [talk](http://www.ted.com/tedtalks/tedtalksplayer.cfm?key=j_han) at the [ted-conference](http://www.ted.com/). if you're a bit interested in the - possible - future of interface design, you have to watch the ~9 minute-long video below. it nearly blew my socks of, when i imagined how i could swipe through my 7000+ images on my hd like that. handling of big chunks of date seems to be really fun with that kind of interface.
 

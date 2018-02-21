@@ -1,16 +1,16 @@
 ---
 author: admin
-categories:
-- switzerland
 comments: true
-date: 2010-03-22T21:25:31Z
+date: 2010-03-22 21:25:31+00:00
+layout: post
 link: http://habi.gna.ch/2010/03/22/regierungsratswahlen/
 slug: regierungsratswahlen
+title: Regierungs- und Grossrats-Wahlen 2010 in Bern
+wordpress_id: 2073
+categories:
+- switzerland
 tags:
 - smar
-title: Regierungs- und Grossrats-Wahlen 2010 in Bern
-url: /2010/03/22/regierungsratswahlen/
-wordpress_id: 2073
 ---
 
 wieder einmal war es soweit, dass in bern der regierungs- und der grossrat gewahlt werden. nachdem ich auf [smartvote.ch](http://smartvote.ch) die deluxe-variante durchgespielt habe und die paar namen auf die betreffenden zettel geschrieben habe hier ein paar beobachtugen:

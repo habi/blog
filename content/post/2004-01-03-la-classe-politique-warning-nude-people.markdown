@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-01-03T20:57:37Z
+date: 2004-01-03 20:57:37+00:00
+layout: post
 link: http://habi.gna.ch/2004/01/03/la-classe-politique-warning-nude-people/
 slug: la-classe-politique-warning-nude-people
 title: 'la classe politique WARNING: nude people!'
-url: /2004/01/03/la-classe-politique-warning-nude-people/
 wordpress_id: 392
+categories:
+- none
 ---
 
 do you need a calendar for '04? 

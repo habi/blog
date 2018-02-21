@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-09-06 21:01:41+00:00
+layout: post
+link: http://habi.gna.ch/2007/09/06/gps-logger-sammelbestellung/
+slug: gps-logger-sammelbestellung
+title: gps-logger-sammelbestellung
+wordpress_id: 1011
 categories:
 - personal
 - technospeak
 - tschörman
-comments: true
-date: 2007-09-06T21:01:41Z
-link: http://habi.gna.ch/2007/09/06/gps-logger-sammelbestellung/
-slug: gps-logger-sammelbestellung
-title: gps-logger-sammelbestellung
-url: /2007/09/06/gps-logger-sammelbestellung/
-wordpress_id: 1011
 ---
 
 am montag abend haben wir unter anderem auch über gps-logger gesprochen. this hat das dann sehr kurz darauf schön umgesetzt, und jetzt will ich das auch probieren! (eigentlich wollt' ich schon zu kurierzeiten immer mal einen tag mit gps rumvelölen, aber eben...).

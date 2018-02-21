@@ -1,14 +1,14 @@
 ---
 author: admin
-categories:
-- none
 comments: true
-date: 2004-10-20T09:09:06Z
+date: 2004-10-20 09:09:06+00:00
+layout: post
 link: http://habi.gna.ch/2004/10/20/dubyas-bulge/
 slug: dubyas-bulge
 title: dubyas bulge
-url: /2004/10/20/dubyas-bulge/
 wordpress_id: 654
+categories:
+- none
 ---
 
 [![idebate](http://habi.gna.ch/blog/images/idebate-tm.jpg)](http://habi.gna.ch/blog/images/idebate.gif)this is [joi ito](http://joi.ito.com/)s view of the debate if or if not dubya bush was wired when he debated with kerry..  

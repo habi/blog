@@ -1,16 +1,16 @@
 ---
 author: admin
+comments: true
+date: 2007-10-01 15:00:52+00:00
+layout: post
+link: http://habi.gna.ch/2007/10/01/gps-plugin-test/
+slug: gps-plugin-test
+title: gps-plugin-test
+wordpress_id: 1047
 categories:
 - gadgets and gizmos
 - gps
 - technospeak
-comments: true
-date: 2007-10-01T15:00:52Z
-link: http://habi.gna.ch/2007/10/01/gps-plugin-test/
-slug: gps-plugin-test
-title: gps-plugin-test
-url: /2007/10/01/gps-plugin-test/
-wordpress_id: 1047
 ---
 
 [dies ist die karte von meinem kurier-nami am letzten mittwoch](http://habi.gna.ch/gps/goog.kml), geladen mit dem [google-maps-plugin](http://wordpress.org/extend/plugins/xml-google-maps/) für wordpress.

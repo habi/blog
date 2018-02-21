@@ -1,18 +1,18 @@
 ---
 author: admin
+comments: true
+date: 2010-09-24 10:25:34+00:00
+layout: post
+link: http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/
+slug: zrich-im-zeitraffer
+title: Zürich im Zeitraffer
+wordpress_id: 2215
 categories:
 - switzerland
 - technospeak
 - tschörman
-comments: true
-date: 2010-09-24T10:25:34Z
-link: http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/
-slug: zrich-im-zeitraffer
 tags:
 - timelapse
-title: Zürich im Zeitraffer
-url: /2010/09/24/zrich-im-zeitraffer/
-wordpress_id: 2215
 ---
 
 Letzthin ist mir aufgefallen, dass die Bilder der [SWITCH](http://switch.ch/)-[Webcam](http://cam.switch.ch/about.en.html), die seit 2008 schon sauberlich in einem [Archiv](http://cam.switch.ch/cgi-bin/pano2.pl) auf denen ihrem Webserver abgespeichert werden. Da die SWITCH-Cam jede Stunde ein Panoramabild der Innenstadtregion, der ETH und dem unteren Seebecken macht, habe ich mir gedacht, dass so schone Zeitrafferaufnahmen entstehen konnten.
