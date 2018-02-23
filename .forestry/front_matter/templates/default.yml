@@ -1,4 +1,6 @@
 ---
+pages:
+- post/this-is-a-test-post-from-forestry.io.md
 hide_body: false
 fields:
 - name: title
