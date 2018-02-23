@@ -19,4 +19,4 @@ Vor ein paar Wochenenden war ich in Österreich, im Hotel am Fernsteinsee. Das 
 
 Dank extrem klarem Wasser (vor allem im Samarangersee) entstanden nicht nur ein [paar Fotos](http://fotos.davidhaberth%C3%BCr.ch/index.php?type=sets&setId=72157627549305382), sondern auch ein Video, das unten eingebunden ist.
 
-http://vimeo.com/29221358
+{{< vimeo 29221358 >}}
