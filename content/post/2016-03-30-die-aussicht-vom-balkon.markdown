@@ -14,6 +14,6 @@ Mitte März waren wir für eine Woche auf der Bettmeralp, im [Chalet Rosemarie](
 
 In zwei Nächten war extrem klare Sicht vom Balkon und ich hab' meine Kamera rausgestellt. Dabei entstand folgende kurze Zeitraffer-Sequenz.
 
-https://vimeo.com/160804994
+{{< vimeo 160804994 >}}
 
 Wer ein paar Fotos sehen will, findet diese [hier](https://www.flickr.com/photos/habi/albums/72157665900001506).

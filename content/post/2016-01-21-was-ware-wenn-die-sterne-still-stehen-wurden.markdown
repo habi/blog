@@ -14,13 +14,13 @@ wordpress_id: 4338
 
 Weil ich den Fotoapparat aufs Dach gestellt habe, ist diese kurze Zeitraffer-Sequenz herausgekommen. Gut zwei Stunden, komprimiert auf 10 Sekunden.
 
-http://vimeo.com/152613595
+{{< vimeo 152613595 >}}
 
 Dann habe ich mich gefragt, wie es ächt aussehen würde, wenn die Sterne stillstehen und habe die Fotos als Fingerübung mit [hugin](http://hugin.sf.net) ao ausgerichtet, dass die Sterne fixiert bleiben (Wen's interessiert _wie_, der/die fragt in den Kommentaren nacht).
 
 Mit still stehenden Sternen sieht das dann so aus.
 
-http://vimeo.com/152613659
+{{< vimeo 152613659 >}}
 
 Und - wie schon in der [Konkordia-Hütte](http://habi.gna.ch/2013/07/18/die-sterne-uber-dem-konkordiaplatz/) - hab' ich auch ohne Kompass wieder recht gut gegen Norden gezielt
 

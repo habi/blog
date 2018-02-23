@@ -15,7 +15,7 @@ wordpress_id: 3059
 In den paar Zugfahrten seit Samstag habe ich nun meine Videoschnipsel versucht zu einem Film zusammenzusetzen.
 Das Resultat - das Video vom Eintauchen 2013 - ist unten eingebunden.
 
-{{< vimeo.com 61219041 >}}
+{{< vimeo 61219041 >}}
 
 Wer auch noch sehen möchte, wie's am Samstag auf dem Eis ausgesehen hat, kann das in diesem Panorama unten tun:
 

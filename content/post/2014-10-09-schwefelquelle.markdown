@@ -20,4 +20,4 @@ Die beiden anderen Male bin ich als offiziell zertifizierter DiveMaster zweimal 
 
 Dabei sind das unten eingebundene Video, [diese Fotos](http://fotos.davidhaberthür.ch/index.php?type=sets&setId=72157647818573212) und [diese](http://divelog.davidhaberthuer.ch/2014.09.19.schwefelquelle.1.pdf) [beiden](http://divelog.davidhaberthuer.ch/2014.09.19.schwefelquelle.2.pdf) Divelogs entstanden.
 
-https://vimeo.com/108325712
+{{< vimeo 108325712 >}}

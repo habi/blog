@@ -19,6 +19,6 @@ Jetzt haben wir's doch noch geschafft! Bruni hat mir zum letzten Geburi eine SUP
 
 Lustig war's, so hat's ausgesehen.
 
-https://vimeo.com/230655342
+{{< vimeo 230655342 >}}
 
 Mersi Bruni!

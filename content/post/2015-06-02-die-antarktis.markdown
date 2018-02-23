@@ -15,4 +15,4 @@ wordpress_id: 3948
 
 Kalle Ljung ist mit seinem Vater auf dessen Segelboot 16 Tage durch die Antarktis gesegelt. Dabei war auch eine GoPro HERO3+ Black Edition an einem DJI Phantom 2 Quadrocopter. Was dabei herauskam ist unglaublich atemberaubend schön.
 
-https://vimeo.com/124858722
+{{< vimeo 124858722 >}}
