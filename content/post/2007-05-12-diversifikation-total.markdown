@@ -1,19 +1,17 @@
 ---
 author: admin
+categories:
+- fun
+- moblog
 comments: true
-date: 2007-05-12 11:09:13+00:00
-layout: post
+date: 2007-05-12T11:09:13Z
 link: http://habi.gna.ch/2007/05/12/diversifikation-total/
 slug: diversifikation-total
 title: diversifikation total
 wordpress_id: 938
-categories:
-- fun
-- moblog
 ---
 
-
- [![](http://farm1.static.flickr.com/202/494652807_57af3844e8_m.jpg)](http://www.flickr.com/photos/habi/494652807/)
+[![](http://farm1.static.flickr.com/202/494652807_57af3844e8_m.jpg)](http://www.flickr.com/photos/habi/494652807/)
    
 
  

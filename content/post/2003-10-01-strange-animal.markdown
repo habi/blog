@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-01 21:19:47+00:00
-layout: post
+date: 2003-10-01T21:19:47Z
 link: http://habi.gna.ch/2003/10/01/strange-animal/
 slug: strange-animal
 title: strange animal
 wordpress_id: 289
-categories:
-- none
 ---
 
 i you know what kind of grasshopper this is, then post a comment :-)

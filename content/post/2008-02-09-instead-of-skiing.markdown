@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2008-02-09 15:47:51+00:00
-layout: post
-link: http://habi.gna.ch/2008/02/09/instead-of-skiing/
-slug: instead-of-skiing
-title: instead of skiing [with map]
-wordpress_id: 1172
 categories:
 - bike
 - gps
 - personal
 - switzerland
+comments: true
+date: 2008-02-09T15:47:51Z
+link: http://habi.gna.ch/2008/02/09/instead-of-skiing/
+slug: instead-of-skiing
+title: instead of skiing [with map]
+wordpress_id: 1172
 ---
 
 actually i wanted to go skiing today, because the weather was so fine. but due to not finding anybody to join me i went for a bike-ride with bruni instead [1].

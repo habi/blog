@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2009-10-08 19:28:20+00:00
-layout: post
-link: http://habi.gna.ch/2009/10/08/blogparade-dieses-bild-variante-a/
-slug: blogparade-dieses-bild-variante-a
-title: 'blogparade: dieses bild... (variante a)'
-wordpress_id: 1941
 categories:
 - personal
 - pictures
+comments: true
+date: 2009-10-08T19:28:20Z
+link: http://habi.gna.ch/2009/10/08/blogparade-dieses-bild-variante-a/
+slug: blogparade-dieses-bild-variante-a
 tags:
 - panorama
+title: 'blogparade: dieses bild... (variante a)'
+wordpress_id: 1941
 ---
 
 dieses bild erinnert mich auch im kalten und regnerischen deutschland, wo ich grad einige tage verbringe an die wunderbaren ferien zurück, die ich vor kurzer zeit mit meiner liebsten genossen habe. um halb fünf uhr morgens haben wir uns mit dem jeep auf den ausichtspunkt neben dem [gunung bromo](http://en.wikipedia.org/wiki/Mount_Bromo) gemacht, um dort den sonnenaufgang anzusehen.

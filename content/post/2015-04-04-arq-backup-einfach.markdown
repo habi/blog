@@ -1,14 +1,11 @@
 ---
 author: admin
-comments: true
-date: 2015-04-04 18:04:26+00:00
-layout: post
-link: http://habi.gna.ch/2015/04/04/arq-backup-einfach/
-slug: arq-backup-einfach
-title: 'Arq: Backup einfach!'
-wordpress_id: 3873
 categories:
 - technospeak
+comments: true
+date: 2015-04-04T18:04:26Z
+link: http://habi.gna.ch/2015/04/04/arq-backup-einfach/
+slug: arq-backup-einfach
 tags:
 - arq
 - backup
@@ -16,6 +13,8 @@ tags:
 - google
 - offsite
 - onedrive
+title: 'Arq: Backup einfach!'
+wordpress_id: 3873
 ---
 
 Unter anderem, weil [Philip](http://fime.ch/article/weekendreader2015-14.html) grad von Backups schrieb.

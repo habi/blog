@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-06-06 20:35:24+00:00
-layout: post
+date: 2004-06-06T20:35:24Z
 link: http://habi.gna.ch/2004/06/06/pictures-of-the-year/
 slug: pictures-of-the-year
 title: pictures of the year
 wordpress_id: 546
-categories:
-- none
 ---
 
 my picture of the week is coming soon, for the moment here are the pictures of the past year.

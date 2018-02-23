@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-08-22 19:34:34+00:00
-layout: post
+date: 2004-08-22T19:34:34Z
 link: http://habi.gna.ch/2004/08/22/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
 wordpress_id: 599
-categories:
-- none
 ---
 
 the grand-raid was really exhausting. renzo and me underestimated how hard it can get to ride 76 km on a tandem.

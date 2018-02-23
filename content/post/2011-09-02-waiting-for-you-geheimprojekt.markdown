@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2011-09-02 22:02:02+00:00
-layout: post
-link: http://habi.gna.ch/2011/09/03/waiting-for-you-geheimprojekt/
-slug: waiting-for-you-geheimprojekt
-title: 'Waiting for You - #Geheimprojekt'
-wordpress_id: 2554
 categories:
 - music
 - switzerland
+comments: true
+date: 2011-09-02T22:02:02Z
+link: http://habi.gna.ch/2011/09/03/waiting-for-you-geheimprojekt/
+slug: waiting-for-you-geheimprojekt
 tags:
 - aare
 - dan
 - danward
 - music
 - timelapse
+title: 'Waiting for You - #Geheimprojekt'
+wordpress_id: 2554
 ---
 
 Ich war ja schon seit einiger Zeit mal wieder an einem [#Geheimprojekt](http://status.davidhaberthuer.ch/tag/geheimprojekt) dran, jetzt ist es an der Zeit, dieses der Ã–ffentlichkeit vorzustellen.

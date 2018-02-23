@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
+- memes
 comments: true
-date: 2014-10-02 19:30:46+00:00
-layout: post
+date: 2014-10-02T19:30:46Z
 link: http://habi.gna.ch/2014/10/02/gopfertami/
 slug: gopfertami
 title: Gopfertami!
 wordpress_id: 3583
-categories:
-- linkdump
-- memes
 ---
 
 I tue ja zwüschedüre gärn mau eis flueche, und mit sogenanntenannte "[single serving sites](https://delicious.com/habi/singleservingwebsite)" chamemi schon fei chli zum schmunzle bringe.

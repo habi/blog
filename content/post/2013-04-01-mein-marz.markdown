@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2013-04-01 20:36:01+00:00
-layout: post
-link: http://habi.gna.ch/2013/04/01/mein-marz/
-slug: mein-marz
-title: Mein März
-wordpress_id: 3076
 categories:
 - personal
+comments: true
+date: 2013-04-01T20:36:01Z
+link: http://habi.gna.ch/2013/04/01/mein-marz/
+slug: mein-marz
 tags:
 - 1se
+title: Mein März
+wordpress_id: 3076
 ---
 
 Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/) und [Februar](http://habi.gna.ch/2013/03/04/mein-februar/) hab' ich im März jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese 30 Sekunden.

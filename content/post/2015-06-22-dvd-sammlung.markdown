@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2015-06-22 19:21:00+00:00
-layout: post
-link: http://habi.gna.ch/2015/06/22/dvd-sammlung/
-slug: dvd-sammlung
-title: Meine DVD-Sammlung, die muss gehn'
-wordpress_id: 3956
 categories:
 - personal
+comments: true
+date: 2015-06-22T19:21:00Z
+link: http://habi.gna.ch/2015/06/22/dvd-sammlung/
+slug: dvd-sammlung
 tags:
 - adieu
 - dvd
 - sell-n-buy
+title: Meine DVD-Sammlung, die muss gehn"
+wordpress_id: 3956
 ---
 
 In Bälde werden wir umziehen. Es gibt zwar dort dann etwas mehr Platz, nichtsdestotrotz löse ich meine DVD-Sammlung auf. Wer eine DVD aus [meiner Liste](http://habi.gna.ch/DVDs/) (gemischt zwischen Regionen 1 und 2, alle mit Original-Tonspur) möchte, schreibt mir ein Mail oder macht unten einen Kommentar mit Preisvorstellung.

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2016-01-21 20:06:05+00:00
-layout: post
+date: 2016-01-21T20:06:05Z
 link: http://habi.gna.ch/2016/01/21/was-ware-wenn-die-sterne-still-stehen-wurden/
 slug: was-ware-wenn-die-sterne-still-stehen-wurden
 title: Was wäre, wenn die Sterne still stehen würden?
 wordpress_id: 4338
-categories:
-- personal
 ---
 
 Über Neujahr waren wir in [Unterbäch](https://www.airbnb.com/rooms/7641285). Vom Dachfenster aus hatten wir eine prima Sicht aufs [Bietschhorn](https://de.wikipedia.org/wiki/Bietschhorn), leider war der Himmel nur an einem Abend halbwegs wolkenlos.

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2013-04-26 11:24:30+00:00
-layout: post
+date: 2013-04-26T11:24:30Z
 link: http://habi.gna.ch/2013/04/26/ulmizer/
 slug: ulmizer
 title: Ulmizer
 wordpress_id: 3087
-categories:
-- personal
 ---
 
 [![Ulmizer by habi](http://farm9.staticflickr.com/8528/8680536559_8039940cfc.jpg)](http://www.flickr.com/photos/habi/8680536559/)  

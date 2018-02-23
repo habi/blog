@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2017-09-01 21:42:13+00:00
-layout: post
+date: 2017-09-01T21:42:13Z
 link: http://habi.gna.ch/2017/09/01/recommended-readings-august-2017/
 slug: recommended-readings-august-2017
 title: 'Recommended readings: August 2017'
 wordpress_id: 5182
-categories:
-- personal
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

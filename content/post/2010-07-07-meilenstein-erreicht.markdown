@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-07-07 08:26:26+00:00
-layout: post
+date: 2010-07-07T08:26:26Z
 link: http://habi.gna.ch/2010/07/07/meilenstein-erreicht/
 slug: meilenstein-erreicht
 title: Meilenstein erreicht [Update]
 wordpress_id: 2144
-categories:
-- personal
 ---
 
 Seit letztem Mittwoch habe ich meinen Doktortitel [1]. Die Kulmination meiner Arbeit zur höchstaufgelösten Röntgentomographie zur Untersuchung der Lungenentwicklung am Institut für Anatomie fand letzten Mittwoch statt. Im altehrwürdigen alten Hörsaal am Institut habe ich meine Arbeit verteidigt. Mein Vortrag, in dem ich versucht habe, die Arbeit der vergangenen 3.75 Jahre zusammenzufassen ist untendran zu sehen.

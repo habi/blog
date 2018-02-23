@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-07-14 20:42:28+00:00
-layout: post
+date: 2004-07-14T20:42:28Z
 link: http://habi.gna.ch/2004/07/14/new-blogs-in-town/
 slug: new-blogs-in-town
 title: new blogs in town
 wordpress_id: 580
-categories:
-- none
 ---
 
 here are the three new blogs i added to my rss-reader:

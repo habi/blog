@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2016-12-02 18:19:10+00:00
-layout: post
+date: 2016-12-02T18:19:10Z
 link: http://habi.gna.ch/2016/12/02/geld-weitergeben/
 slug: geld-weitergeben
 title: Geld weitergeben
 wordpress_id: 4849
-categories:
-- personal
 ---
 
 Wer mir bei Twitter folgt, hat's letzthin evtl. schon gesehen, ich habe mit Lizenzierungsgebühren von meinen zwei Panoramafotos vom Times Square in New York [[1](https://www.360cities.net/image/nyc-times-square-1)] und [[2](https://www.360cities.net/image/nyc-times-square-2)] 250 € verdient.

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2006-10-19 22:03:21+00:00
-layout: post
+date: 2006-10-19T22:03:21Z
 link: http://habi.gna.ch/2006/10/20/updating-here-and-there/
 slug: updating-here-and-there
 title: updating here and there
 wordpress_id: 801
-categories:
-- technospeak
 ---
 
 i'm updating the site on different ends, correcting importing errors, and assigning categories to post that haven't been categorized. so bear with me (and ignore the possible quirks in the feed for some days), everything will resume to normal state soon.

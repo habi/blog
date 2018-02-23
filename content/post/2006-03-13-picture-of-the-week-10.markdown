@@ -1,19 +1,17 @@
 ---
 author: admin
+categories:
+- personal
+- picture of the week
 comments: true
-date: 2006-03-13 22:23:55+00:00
-layout: post
+date: 2006-03-13T22:23:55Z
 link: http://habi.gna.ch/2006/03/14/picture-of-the-week-10/
 slug: picture-of-the-week-10
 title: picture of the week 10
 wordpress_id: 143
-categories:
-- personal
-- picture of the week
 ---
 
-
-yesterday we've been to the [zoo](http://www.zoo.ch/) in zurich, mostly to see the [masaola](http://www.zoo.ch/Masoala.967.0.html)-hall (which was really impressive).
+yesterday we've been to the [zoo](http://www.zoo.ch/) in zürich, mostly to see the [masaola](http://www.zoo.ch/Masoala.967.0.html)-hall (which was really impressive).
   
 during our stroll through the zoo we passed at the enclosure of the otters where i snapped an image of this little fellow passing out in his bed (which is what i'm gonna do now).
 

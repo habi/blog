@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- tschörman
 comments: true
-date: 2008-01-21 22:22:34+00:00
-layout: post
+date: 2008-01-21T22:22:34Z
 link: http://habi.gna.ch/2008/01/21/19-internationale-masters-2008-in-gau-algesheim/
 slug: 19-internationale-masters-2008-in-gau-algesheim
 title: 19. Internationale Masters 2008 in Gau-Algesheim
 wordpress_id: 1159
-categories:
-- personal
-- tschörman
 ---
 
 Wie immer am dritten Wochenende im Januar fanden heuer die Internationalen Masters-Wettkämpfe des [1. SSV Ingelheim](http://ssv-ingelheim.de/Masters.php) in Gau-Algesheim statt, diesmal die 19. Austragung. Eine kleine Delegtion des Schwimmvereins beider Basel wurde von einer noch kleineren Delegation des SKBE begleitet. Nachdem wir uns um 6 Uhr in der Früh in Basel eingefunden haben, wurde im Zug gefrühstückt, neueste Schwimm-News ausgetauscht und noch die eine oder andere verpasste Stunde Schlaf nachgeholt.

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-09-08 18:09:33+00:00
-layout: post
+date: 2003-09-08T18:09:33Z
 link: http://habi.gna.ch/2003/09/08/an-early-start/
 slug: an-early-start
 title: an early start?
 wordpress_id: 273
-categories:
-- none
 ---
 
 [susi](http://habi.gna.ch/pics/Millau/Pages/57.html) sent me some pictures which she made in [millau](http://habi.gna.ch/blog/archives/000046.html)

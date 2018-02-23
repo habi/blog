@@ -1,16 +1,14 @@
 ---
 author: admin
-comments: true
-date: 2006-05-23 19:11:16+00:00
-layout: post
-link: http://habi.gna.ch/2006/05/23/thats-a-hummer-id-get/
-slug: thats-a-hummer-id-get
-title: that's a hummer i'd get
-wordpress_id: 182
 categories:
 - linkdump
+comments: true
+date: 2006-05-23T19:11:16Z
+link: http://habi.gna.ch/2006/05/23/thats-a-hummer-id-get/
+slug: thats-a-hummer-id-get
+title: that"s a hummer i"d get
+wordpress_id: 182
 ---
-
 
 ![Suv11](http://www.makezine.com/blog/suv11.jpg)
   

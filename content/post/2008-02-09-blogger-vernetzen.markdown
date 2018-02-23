@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2008-02-09 21:33:56+00:00
-layout: post
-link: http://habi.gna.ch/2008/02/09/blogger-vernetzen/
-slug: blogger-vernetzen
-title: blogger vernetzen
-wordpress_id: 1182
 categories:
 - switzerland
 - tschörman
+comments: true
+date: 2008-02-09T21:33:56Z
+link: http://habi.gna.ch/2008/02/09/blogger-vernetzen/
+slug: blogger-vernetzen
 tags:
 - blogospherahelvetica
 - xing
+title: blogger vernetzen
+wordpress_id: 1182
 ---
 
 [herr chm](http://bloxxs.ch/) schlägt vor, ein adressbuch der aktiven blogger in der schweiz herzustellen.

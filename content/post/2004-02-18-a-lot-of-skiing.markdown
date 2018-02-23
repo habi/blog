@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-02-18 19:05:43+00:00
-layout: post
+date: 2004-02-18T19:05:43Z
 link: http://habi.gna.ch/2004/02/18/a-lot-of-skiing/
 slug: a-lot-of-skiing
 title: a lot of skiing
 wordpress_id: 439
-categories:
-- none
 ---
 
 well, here i am again, after quite a bunch of skiing

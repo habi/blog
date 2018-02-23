@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-03 22:16:40+00:00
-layout: post
+date: 2003-10-03T22:16:40Z
 link: http://habi.gna.ch/2003/10/04/todays-plans-or-fun-link/
 slug: todays-plans-or-fun-link
 title: todays plans or fun link
 wordpress_id: 292
-categories:
-- none
 ---
 
 you decide which link is funny and which is my plans for tomorrow :-)

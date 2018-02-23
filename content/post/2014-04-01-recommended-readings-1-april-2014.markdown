@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2014-04-01 19:06:57+00:00
-layout: post
-link: http://habi.gna.ch/2014/04/01/recommended-readings-1-april-2014/
-slug: recommended-readings-1-april-2014
-title: 'Recommended readings: 1. April 2014'
-wordpress_id: 3412
 categories:
 - linkdump
+comments: true
+date: 2014-04-01T19:06:57Z
+link: http://habi.gna.ch/2014/04/01/recommended-readings-1-april-2014/
+slug: recommended-readings-1-april-2014
 tags:
 - instapaper
+title: 'Recommended readings: 1. April 2014'
+wordpress_id: 3412
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

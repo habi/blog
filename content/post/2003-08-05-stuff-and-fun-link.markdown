@@ -1,19 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-08-05 19:12:39+00:00
-layout: post
+date: 2003-08-05T19:12:39Z
 link: http://habi.gna.ch/2003/08/05/stuff-and-fun-link/
 slug: stuff-and-fun-link
 title: stuff and fun link
 wordpress_id: 246
-categories:
-- none
 ---
 
-
-	
-  * silvaplana was so great, that bruni bought a kite and a board from a [guy](http://kitesurfshop.ch/) that was up there.
+* silvaplana was so great, that bruni bought a kite and a board from a [guy](http://kitesurfshop.ch/) that was up there.
 
 
 	

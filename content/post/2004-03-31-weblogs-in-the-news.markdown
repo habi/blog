@@ -1,17 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-31 19:54:25+00:00
-layout: post
+date: 2004-03-31T19:54:25Z
 link: http://habi.gna.ch/2004/03/31/weblogs-in-the-news/
 slug: weblogs-in-the-news
 title: weblogs in the news
 wordpress_id: 489
-categories:
-- none
 ---
 
-[nick luthi](http://www.bernergazette.ch/archives/000251.html) (one of the bloggers over at the [berner gazette](http://www.bernergazette.ch/)) wrote [a nice article](http://www.ebund.ch/artikel_11603.html) about weblogs in (one of) [the local newspaper](http://www.ebund.ch/)s.
+[nick lüthi](http://www.bernergazette.ch/archives/000251.html) (one of the bloggers over at the [berner gazette](http://www.bernergazette.ch/)) wrote [a nice article](http://www.ebund.ch/artikel_11603.html) about weblogs in (one of) [the local newspaper](http://www.ebund.ch/)s.
 he nicely explains terms like blogosphere and points out some hints on how to start your own weblog.
 give it a read!
 

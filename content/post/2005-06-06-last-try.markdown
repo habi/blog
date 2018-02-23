@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2005-06-06 09:56:39+00:00
-layout: post
+date: 2005-06-06T09:56:39Z
 link: http://habi.gna.ch/2005/06/06/last-try/
 slug: last-try
 title: last try :-)
 wordpress_id: 20
-categories:
-- none
 ---
 
 [Technorati Profile](http://www.technorati.com/claim/ga46p8wn7)

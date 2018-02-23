@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- diving
+- picture of the week
 comments: true
-date: 2005-01-09 19:17:50+00:00
-layout: post
+date: 2005-01-09T19:17:50Z
 link: http://habi.gna.ch/2005/01/09/picture-of-the-week-01/
 slug: picture-of-the-week-01
 title: picture of the week 01
 wordpress_id: 710
-categories:
-- diving
-- picture of the week
 ---
-
 
 yesterday i've been diving again. yes, diving in the cold [thuner-see](http://map.search.ch/oberhofen-be?x=254&y=126), the water was around 5Â°C. we've [again](http://habi.gna.ch/blog/archives/000386.html) been at the schönörtli (german for nice place).
   

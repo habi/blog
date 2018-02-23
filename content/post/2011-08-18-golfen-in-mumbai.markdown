@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2011-08-18 21:47:38+00:00
-layout: post
-link: http://habi.gna.ch/2011/08/18/golfen-in-mumbai/
-slug: golfen-in-mumbai
-title: Golfen In Mumbai
-wordpress_id: 2552
 categories:
 - linkdump
+comments: true
+date: 2011-08-18T21:47:38Z
+link: http://habi.gna.ch/2011/08/18/golfen-in-mumbai/
+slug: golfen-in-mumbai
 tags:
 - go
 - golf
 - india
 - mumbai
+title: Golfen In Mumbai
+wordpress_id: 2552
 ---
 
 An einigen Orten, wo wir in Mumbai waren, wird mit grosser Hingabe Golf gespielt.

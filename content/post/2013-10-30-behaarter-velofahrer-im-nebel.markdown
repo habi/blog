@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2013-10-30 07:59:43+00:00
-layout: post
+date: 2013-10-30T07:59:43Z
 link: http://habi.gna.ch/2013/10/30/behaarter-velofahrer-im-nebel/
 slug: behaarter-velofahrer-im-nebel
 title: Behaarter Velofahrer im Nebel
 wordpress_id: 3235
-categories:
-- personal
 ---
 
 [![Behaarter Velofahrer im Nebel by habi](http://farm3.staticflickr.com/2893/10570517613_695fd59ba5.jpg)](http://www.flickr.com/photos/habi/10570517613/)  

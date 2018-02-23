@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2005-01-24 19:54:34+00:00
-layout: post
+date: 2005-01-24T19:54:34Z
 link: http://habi.gna.ch/2005/01/24/more-dropdowns/
 slug: more-dropdowns
 title: more dropdowns
 wordpress_id: 722
-categories:
-- none
 ---
-
 
 [![Dropdowns](http://habi.gna.ch/blog/images/dropdowns-tm.jpg)](http://habi.gna.ch/blog/images/dropdowns.jpg)thanks to [pete bevin](http://www.petebevin.com/archives/2002/03/12/drop_down_menus.html), my sidebar now sports some more dropdowns. i fiddled with the code he provides on his page, so now it's marginally different. for my MT3 installation the code looks as follows:  
 

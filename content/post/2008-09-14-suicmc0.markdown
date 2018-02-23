@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2008-09-14 19:48:30+00:00
-layout: post
-link: http://habi.gna.ch/2008/09/14/suicmc0/
-slug: suicmc0
-title: suicmc08
-wordpress_id: 1433
 categories:
 - bike
 - personal
+comments: true
+date: 2008-09-14T19:48:30Z
+link: http://habi.gna.ch/2008/09/14/suicmc0/
+slug: suicmc0
 tags:
 - bike
 - sui
+title: suicmc08
+wordpress_id: 1433
 ---
 
 seit heute nachmittag um ca. 16 uhr bin ich offiziell nicht mehr der schnellste kurier der schweiz. an den [16. schweizermeisterschaften der velokuriere](http://www.suicmc08.ch/) hat bei den herren [raphael faiss](http://velocite.ch/coursiers/coursiers/raphael/raphael.html) aus lausanne den titel in einem hart umkämpften finale vor [päde wettstein](http://www.pawe.ch/) und [raphael pfeiffer](http://velocite.ch/weblogtoo/?p=658) errungen. [pia christen](http://flickr.com/photos/habi/tags/piachristen) aus bern hat es geschafft, den schweizermeistertitel zum sechtsten mal in folge nach bern zu holen, zweimal davon schon persönlich. regula und judith kamen als zweite repspektiv dritte ins ziel. bravo!

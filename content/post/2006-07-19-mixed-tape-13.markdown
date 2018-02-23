@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- linkdump
+- music
 comments: true
-date: 2006-07-19 19:54:16+00:00
-layout: post
+date: 2006-07-19T19:54:16Z
 link: http://habi.gna.ch/2006/07/19/mixed-tape-13/
 slug: mixed-tape-13
 title: mixed tape 13
 wordpress_id: 202
-categories:
-- linkdump
-- music
 ---
-
 
 mercedes released yet another [mixed tape](http://mixed-tape.com/), this time number 13.
   

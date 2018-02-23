@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-31 13:32:23+00:00
-layout: post
+date: 2004-01-31T13:32:23Z
 link: http://habi.gna.ch/2004/01/31/boah-this-is-what-i-call-spamming/
 slug: boah-this-is-what-i-call-spamming
 title: boah, this is what i call spamming!
 wordpress_id: 426
-categories:
-- none
 ---
 
 today when i checked my mail i nearly couldn't believe it, i got 176 new mails in my [gna](http://gna.ch/)-inbox. first i thought it's a major hit of [mydoom.a](http://de.trendmicro-europe.com/enterprise/security_info/ve_detail.php?VName=WORM_MYDOOM.A), but then i found out, that it's just a major issue of blog-spam.

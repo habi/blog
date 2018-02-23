@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2007-11-16 17:16:04+00:00
-layout: post
-link: http://habi.gna.ch/2007/11/16/tastentest-ii/
-slug: tastentest-ii
-title: tastentest II
-wordpress_id: 1078
 categories:
 - personal
 - switzerland
 - technospeak
 - tschörman
+comments: true
+date: 2007-11-16T17:16:04Z
+link: http://habi.gna.ch/2007/11/16/tastentest-ii/
+slug: tastentest-ii
+title: tastentest II
+wordpress_id: 1078
 ---
 
 so langsam werd' ich zum journalisten: heute ist mein zweiter artikel in einer tageszeitung erschienen. für die BZ hab ich zum [zweiten mal](http://habi.gna.ch/2006/11/09/citizen-journalism/) in die tasten gehauen, und einen tastentest zu meinem [gps-logger](http://habi.gna.ch/?s=gps) verfasst. wer die BZ heute nicht auf toten bäumen gelesen hat, kann den artikel hier in bits und bytes-form auf der [espace-seite](http://espace.ch/artikel_445663.html) nachlesen

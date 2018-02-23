@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2017-08-22 20:31:14+00:00
-layout: post
-link: http://habi.gna.ch/2017/08/22/1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session/
-slug: 1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session
-title: 1000e Bilder für OSM bereitstellen | Mapillary mit GoPro Hero 4 Session
-wordpress_id: 5168
 categories:
 - technospeak
+comments: true
+date: 2017-08-22T20:31:14Z
+link: http://habi.gna.ch/2017/08/22/1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session/
+slug: 1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session
 tags:
 - geodata
 - geoinformation
 - mapillary
 - openstreetmap
+title: 1000e Bilder für OSM bereitstellen | Mapillary mit GoPro Hero 4 Session
+wordpress_id: 5168
 ---
 
 Vor [einiger Zeit](http://habi.gna.ch/2017/03/29/osm-mapillary/) hab ich ja schon mal darüber geschrieben, wie mensch die <del>Welt</del> [kostenloses Kartenmaterial](http://osm.org) verbessern kann.
@@ -50,9 +49,9 @@ python ~/Dev/mapillary_tools/python/geotag_from_gpx.py ~/Pictures/GoPro/2017-08-
 Zum hochladen der Bilder müssen zuerst sogenannte [Umgebungs-Variabeln](https://stackoverflow.com/questions/135688/setting-environment-variables-in-os-x) gesetzt werden. Die genauen Werte für deinen User-Account sind in deinen [Mapillary settings](https://www.mapillary.com/app/settings/developers) zu finden und landen in deinem `~/.bashrc`.
 
 [code lang=bash]
-export MAPILLARY_USERNAME='habi'
-MAPILLARY_PERMISSION_HASH='GanzVieleBuchstaben'
-export MAPILLARY_SIGNATURE_HASH='NochmalVieleBuchstaben'
+export MAPILLARY_USERNAME="habi"
+MAPILLARY_PERMISSION_HASH="GanzVieleBuchstaben"
+export MAPILLARY_SIGNATURE_HASH="NochmalVieleBuchstaben"
 [/code]
 
 Dann geht das hochladen der Bilder flink und automatisch mit

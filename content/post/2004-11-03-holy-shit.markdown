@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-11-03 16:18:14+00:00
-layout: post
+date: 2004-11-03T16:18:14Z
 link: http://habi.gna.ch/2004/11/03/holy-shit/
 slug: holy-shit
 title: holy shit!
 wordpress_id: 666
-categories:
-- none
 ---
 
 [![nested](http://habi.gna.ch/blog/images/nested-tm.jpg)](http://habi.gna.ch/blog/images/nested.jpg)my internal harddisk is acting extremely funky, and making weird clicking noises all the time.

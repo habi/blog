@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2008-09-20 19:37:12+00:00
-layout: post
-link: http://habi.gna.ch/2008/09/20/verdauungsspaziergang-aufs-morgenberghorn-with-map/
-slug: verdauungsspaziergang-aufs-morgenberghorn-with-map
-title: verdauungsspaziergang aufs morgenberghorn [with map]
-wordpress_id: 1478
 categories:
 - personal
 - picture of the week
 - switzerland
+comments: true
+date: 2008-09-20T19:37:12Z
+link: http://habi.gna.ch/2008/09/20/verdauungsspaziergang-aufs-morgenberghorn-with-map/
+slug: verdauungsspaziergang-aufs-morgenberghorn-with-map
+title: verdauungsspaziergang aufs morgenberghorn [with map]
+wordpress_id: 1478
 ---
 
 bruni und bettina haben gestern geheiratet [1]. nach der ziviltrauung auf dem [harder](http://habi.gna.ch/2008/09/19/der-zweite-brautstrauss/) haben wir dann in saxeten gefeiert und viel zu viel gegessen, weil's so fein war.
@@ -53,7 +52,7 @@ PS: wenn wir's schon von bildern haben: die bilder der [suicmc08](http://habi.gn
 [1]: bravo, gratuliere subi yeah!
 
 
-<!-- more -->
+<!--more-->
 
 
   [2008-09-20-Morgenberghorn.gpx [maptype=G_SATELLITE_TYPE;gpxelevation=show]](http://habi.gna.ch/wp-content/uploads/2008/09/2008-09-20-morgenberghorn.gpx)

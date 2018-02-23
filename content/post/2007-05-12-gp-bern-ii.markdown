@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2007-05-12 14:36:48+00:00
-layout: post
-link: http://habi.gna.ch/2007/05/12/gp-bern-ii/
-slug: gp-bern-ii
-title: gp bern II [update]
-wordpress_id: 939
 categories:
 - gadgets and gizmos
 - personal
 - technospeak
 - tschörman
+comments: true
+date: 2007-05-12T14:36:48Z
+link: http://habi.gna.ch/2007/05/12/gp-bern-ii/
+slug: gp-bern-ii
+title: gp bern II [update]
+wordpress_id: 939
 ---
 
 also schlussendlich hab' ichs in 1:12.03 geschafft.

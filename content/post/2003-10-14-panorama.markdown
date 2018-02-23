@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-14 22:29:10+00:00
-layout: post
+date: 2003-10-14T22:29:10Z
 link: http://habi.gna.ch/2003/10/15/panorama/
 slug: panorama
 title: panorama
 wordpress_id: 313
-categories:
-- none
 ---
 
 do you remember that I'm on the [ search for a good panorama stitching software](http://habi.gna.ch/blog/archives/000026.html) for the mac?

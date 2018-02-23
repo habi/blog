@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2005-04-30 18:07:18+00:00
-layout: post
+date: 2005-04-30T18:07:18Z
 link: http://habi.gna.ch/2005/04/30/technorati-tags/
 slug: technorati-tags
 title: technorati tags
 wordpress_id: 781
-categories:
-- technospeak
 ---
-
 
 oh, and if you're wondering why my tags are not working (e.g see the [tag:emmen](http://www.technorati.com/tag/emmen), which i [pinged some days ago](http://habi.gna.ch/blog/archives/000581.html)): technorati has some problems accessing my site:
 

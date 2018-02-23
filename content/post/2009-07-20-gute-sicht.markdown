@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2009-07-20 18:47:13+00:00
-layout: post
+date: 2009-07-20T18:47:13Z
 link: http://habi.gna.ch/2009/07/20/gute-sicht/
 slug: gute-sicht
 title: Gute Sicht
 wordpress_id: 1869
-categories:
-- personal
 ---
 
-
- [![](http://farm3.static.flickr.com/2616/3739336421_c5337e6fb5_m.jpg)](http://www.flickr.com/photos/habi/3739336421/)
+[![](http://farm3.static.flickr.com/2616/3739336421_c5337e6fb5_m.jpg)](http://www.flickr.com/photos/habi/3739336421/)
    
 
  

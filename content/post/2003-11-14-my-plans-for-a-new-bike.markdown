@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-11-14 16:54:55+00:00
-layout: post
+date: 2003-11-14T16:54:55Z
 link: http://habi.gna.ch/2003/11/14/my-plans-for-a-new-bike/
 slug: my-plans-for-a-new-bike
 title: my  plans for a new bike!
 wordpress_id: 347
-categories:
-- none
 ---
 
 yesterday evening i was surfing around some messenger-sites and found that site here: [ostro](http://www.ostro.com.pl/en/main.htm), some shop in poland which sells nice [steel track frames](http://www.ostro.com.pl/en/shop/frames.htm) for an unbelievably low price. 

@@ -1,14 +1,11 @@
 ---
 author: admin
-comments: true
-date: 2018-01-03 21:24:05+00:00
-layout: post
-link: http://habi.gna.ch/2018/01/03/wo-war-ich-im-2017/
-slug: wo-war-ich-im-2017
-title: Wo war ich im 2017
-wordpress_id: 5264
 categories:
 - technospeak
+comments: true
+date: 2018-01-03T21:24:05Z
+link: http://habi.gna.ch/2018/01/03/wo-war-ich-im-2017/
+slug: wo-war-ich-im-2017
 tags:
 - folium
 - geodata
@@ -16,6 +13,8 @@ tags:
 - jahresrückblick17
 - map
 - python
+title: Wo war ich im 2017
+wordpress_id: 5264
 ---
 
 Anfangs Jahr ist ein guter Zeitpunkt, um aufs vergangene Jahr zurückzublicken. Das heisst, es gibt mal wieder ein paar nerdige Blogeinträge. Der Rest (wenn er dann kommt) ist unter dem Tag [`jahresrückblick17`](http://habi.gna.ch/tag/jahresruckblick17) zu finden.
@@ -35,7 +34,7 @@ import folium
 Laden wir mal das exportierte File in eine [Pandas Tabelle](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html)
 
 [code lang=python]
-locations = pandas.read_csv('journey.csv')
+locations = pandas.read_csv("journey.csv")
 [/code]
 
 Das sieht doch schon mal ganz gut aus, wir haben nämlich 6233 Datenpunkte.
@@ -213,9 +212,9 @@ Mit etwas Hilfe von [Folium](http://python-visualization.github.io/folium/) kön
 
 [code lang=python]
 from folium.plugins import HeatMap
-xy = [[row['Latitude'], row['Longitude']] for index, row in locations.iterrows()]
-m = folium.Map(location=[locations['Latitude'].mean(),
-                         locations['Longitude'].mean()], tiles='Stamen Toner', zoom_start=9)
+xy = [[row["Latitude"], row["Longitude"]] for index, row in locations.iterrows()]
+m = folium.Map(location=[locations["Latitude"].mean(),
+                         locations["Longitude"].mean()], tiles="Stamen Toner", zoom_start=9)
 folium.plugins.HeatMap(xy).add_to(m)
 m
 [/code]

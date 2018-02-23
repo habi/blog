@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- pictures
 comments: true
-date: 2010-09-07 09:15:21+00:00
-layout: post
+date: 2010-09-07T09:15:21Z
 link: http://habi.gna.ch/2010/09/07/copyrightverletzung-bei-germanblogs-de/
 slug: copyrightverletzung-bei-germanblogs-de
 title: Copyrightverletzung bei germanblogs.de [update]
 wordpress_id: 2199
-categories:
-- pictures
 ---
 
 [![](http://habi.gna.ch/wp-content/uploads/2010/09/Ischiasschmerzen-â€“-Bandscheibenvorfall-oder-eingeklemmter-Nerv-gesundheits-blog-183x300.png)](http://habi.gna.ch/wp-content/uploads/2010/09/Ischiasschmerzen-â€“-Bandscheibenvorfall-oder-eingeklemmter-Nerv-gesundheits-blog.png)Dank einem [google Alert](http://www.google.com/alerts) bin ich immer relativ gut über mein Auftauchen im Internetz informiert. Heute morgen tauchte bei der Bildersuche ein Bild auf, welches mir bekannt vorkam.

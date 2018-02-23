@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2003-07-25 15:44:48+00:00
-layout: post
-link: http://habi.gna.ch/2003/07/25/egger-bier-todays-fun-link/
-slug: egger-bier-todays-fun-link
-title: Egger Bier - Todays fun link
-wordpress_id: 232
 categories:
 - fun
 - linkdump
 - music
+comments: true
+date: 2003-07-25T15:44:48Z
+link: http://habi.gna.ch/2003/07/25/egger-bier-todays-fun-link/
+slug: egger-bier-todays-fun-link
+title: Egger Bier - Todays fun link
+wordpress_id: 232
 ---
 
 The [Egger Bier](http://www.eggerbier.ch/) Brewery has a funky little [Organigramm](http://www.eggerbier.ch/images+text/Mitarbeiter/organigramm.htm) on their page.  

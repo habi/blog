@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- pictures
+- technospeak
 comments: true
-date: 2006-10-27 15:44:31+00:00
-layout: post
+date: 2006-10-27T15:44:31Z
 link: http://habi.gna.ch/2006/10/27/wordpress-plugins-are-great/
 slug: wordpress-plugins-are-great
 title: wordpress plugins are great!
 wordpress_id: 803
-categories:
-- pictures
-- technospeak
 ---
 
 [wordpress-plugins](http://wp-plugins.net/) are really neat!

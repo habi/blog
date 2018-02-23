@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- music
 comments: true
-date: 2005-06-27 19:31:07+00:00
-layout: post
+date: 2005-06-27T19:31:07Z
 link: http://habi.gna.ch/2005/06/27/filewile-on-itunes/
 slug: filewile-on-itunes
 title: filewile on itunes
 wordpress_id: 33
-categories:
-- music
 ---
-
 
 [dejot and dustbowl](http://filewile.com/) released a new track today. you can grab their remix of sunnydays from melody & rider [here](http://filewile.com/html/en/tracks_download/index.php). it's another pay per listen release, 'cause those laptop jugglers need to make some cash, too... (and a dollar is not too much, innit?)
   

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2003-07-24 21:24:41+00:00
-layout: post
+date: 2003-07-24T21:24:41Z
 link: http://habi.gna.ch/2003/07/24/filewilecom/
 slug: filewilecom
 title: filewile.com
 wordpress_id: 229
-categories:
-- personal
 ---
 
 I went to see [filewile.com](http://filewile.com) tonight in the city.  

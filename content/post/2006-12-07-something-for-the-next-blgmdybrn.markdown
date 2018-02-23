@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2006-12-07 20:49:47+00:00
-layout: post
-link: http://habi.gna.ch/2006/12/07/something-for-the-next-blgmdybrn/
-slug: something-for-the-next-blgmdybrn
-title: something for the next BLGMDYBRN
-wordpress_id: 831
 categories:
 - fun
 - gadgets and gizmos
 - meetings
+comments: true
+date: 2006-12-07T20:49:47Z
+link: http://habi.gna.ch/2006/12/07/something-for-the-next-blgmdybrn/
+slug: something-for-the-next-blgmdybrn
+title: something for the next BLGMDYBRN
+wordpress_id: 831
 ---
 
 we got to take along our macbooks or macbook pros, and then we can talk on the [skype phone](http://feeds.feedburner.com/~r/DerLeumund/~3/57206090/) and play pong at the same time!

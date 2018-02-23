@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2006-09-07 16:42:41+00:00
-layout: post
+date: 2006-09-07T16:42:41Z
 link: http://habi.gna.ch/2006/09/07/abt-gut-nachgedacht/
 slug: abt-gut-nachgedacht
 title: abt. gut nachgedacht...
 wordpress_id: 220
-categories:
-- moblog
 ---
 
-
- [![](http://static.flickr.com/95/236934535_7969a85fb8_m.jpg)](http://www.flickr.com/photos/habi/236934535/)
+[![](http://static.flickr.com/95/236934535_7969a85fb8_m.jpg)](http://www.flickr.com/photos/habi/236934535/)
    
 
  

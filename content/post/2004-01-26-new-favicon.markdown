@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-26 17:31:52+00:00
-layout: post
+date: 2004-01-26T17:31:52Z
 link: http://habi.gna.ch/2004/01/26/new-favicon/
 slug: new-favicon
 title: new favicon
 wordpress_id: 417
-categories:
-- none
 ---
 
 my new feature on this page only works on non-safari-browsers:

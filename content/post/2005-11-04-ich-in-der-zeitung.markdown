@@ -1,21 +1,19 @@
 ---
 author: admin
+categories:
+- personal
+- pictures
 comments: true
-date: 2005-11-04 07:09:18+00:00
-layout: post
+date: 2005-11-04T07:09:18Z
 link: http://habi.gna.ch/2005/11/04/ich-in-der-zeitung/
 slug: ich-in-der-zeitung
 title: ich in der zeitung
 wordpress_id: 93
-categories:
-- personal
-- pictures
 ---
 
-
-hey, ich bin in der zeitung! [this born](http://www.borniert.com/) hat in seiner kolumne [weblog](http://www.espace.ch/page_183.html) uber das [flickr-treffen](http://www.flickr.com/photos/tags/chflickrmeetupoct05/) geschrieben, und - obwohl wir uns am samstag verpasst haben - mich erwahnt [1]. wer den artikel in der bz nicht gesehen hat, kann das [hier](http://www.espace.ch/artikel_146219.html) nachholen.
+hey, ich bin in der zeitung! [this born](http://www.borniert.com/) hat in seiner kolumne [weblog](http://www.espace.ch/page_183.html) über das [flickr-treffen](http://www.flickr.com/photos/tags/chflickrmeetupoct05/) geschrieben, und - obwohl wir uns am samstag verpasst haben - mich erwähnt [1]. wer den artikel in der bz nicht gesehen hat, kann das [hier](http://www.espace.ch/artikel_146219.html) nachholen.
   
-ich sollte meine local-feeds haufiger lesen, dann hatten wir [gestern abend](http://upcoming.org/event/39539/) noch ein bisschen mehr gesprachsstoff gehabt...
+ich sollte meine local-feeds häufiger lesen, dann hätten wir [gestern abend](http://upcoming.org/event/39539/) noch ein bisschen mehr gesprächsstoff gehabt...
 
 
 

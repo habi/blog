@@ -1,16 +1,14 @@
 ---
 author: admin
-comments: true
-date: 2007-12-27 14:26:48+00:00
-layout: post
-link: http://habi.gna.ch/2007/12/27/1114/
-slug: '1114'
-title: FIX-Push [video]
-wordpress_id: 1114
 categories:
 - none
+comments: true
+date: 2007-12-27T14:26:48Z
+link: http://habi.gna.ch/2007/12/27/1114/
+slug: "1114"
+title: FIX-Push [video]
+wordpress_id: 1114
 ---
 
-  
 donâ€™t think about it if you donâ€™t get itâ€¦  
 

@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2009-06-30 21:46:09+00:00
-layout: post
-link: http://habi.gna.ch/2009/06/30/bregg/
-slug: bregg
-title: Bäregg - 29.06.09 - 17.5m - 47' - 13° [with video]
-wordpress_id: 1819
 categories:
 - diving
 - personal
+comments: true
+date: 2009-06-30T21:46:09Z
+link: http://habi.gna.ch/2009/06/30/bregg/
+slug: bregg
 tags:
 - diving
+title: Bäregg - 29.06.09 - 17.5m - 47" - 13° [with video]
+wordpress_id: 1819
 ---
 
 Am montag abend waren wir für den montagabendlichen tauchgang mal nur zu dritt. Das wetter hat kurz vor dem tauchgang aufgeklart, das gewitter war zum glück schon vorbei, so dass wir unter wasser theoretisch genug gesehen hätten. In der praxis war dann die sichtweite doch nicht so toll. Deshalb haben wir in etwas geringerer tiefe ein bisschen sight-seeing gemacht und Jüre hat noch den thunersee-boden geputzt :)

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2004-06-06 21:02:35+00:00
-layout: post
+date: 2004-06-06T21:02:35Z
 link: http://habi.gna.ch/2004/06/06/pictures-of-the-week/
 slug: pictures-of-the-week
 title: picture(s) of the week
 wordpress_id: 547
-categories:
-- picture of the week
 ---
 
 since the [swiss farmers](http://www.schweizerbauer.ch/) lately informed me on the radio that the swiss strawberries are here and that they're sweet and gorgeous and stuff like that i could hardly resist to buy some on friday. but the farmers must have some really strange fertilizers, because one of the strawberries was huuuuuge!

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- bike
 comments: true
-date: 2005-11-24 19:30:58+00:00
-layout: post
+date: 2005-11-24T19:30:58Z
 link: http://habi.gna.ch/2005/11/24/critical-mass-in-bern/
 slug: critical-mass-in-bern
 title: critical mass in bern
 wordpress_id: 101
-categories:
-- bike
 ---
 
 [![Critical Mass-1](http://habi.gna.ch/blog/images/critical_mass-1-tm.jpg)](http://habi.gna.ch/blog/images/critical_mass-1.jpg)

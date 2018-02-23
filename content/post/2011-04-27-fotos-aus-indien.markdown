@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2011-04-27 09:16:22+00:00
-layout: post
+date: 2011-04-27T09:16:22Z
 link: http://habi.gna.ch/2011/04/27/fotos-aus-indien/
 slug: fotos-aus-indien
 title: Fotos aus Indien
 wordpress_id: 2478
-categories:
-- personal
 ---
 
 Jetzt bin ich doch endlich dazugekommen, alle Fotos aus Indien hochzuladen. Wen's interessiert, findet die Fotos [in meinem Indien-Set auf flickr](http://www.flickr.com/photos/habi/sets/72157626384437621/).  

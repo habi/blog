@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-08-20 23:56:29+00:00
-layout: post
+date: 2004-08-20T23:56:29Z
 link: http://habi.gna.ch/2004/08/21/grand-raid/
 slug: grand-raid
 title: grand raid
 wordpress_id: 598
-categories:
-- none
 ---
 
 tomorrow renzo and me have a [new project](http://habi.gna.ch/blog/archives/000103.html) with his tandem: we're gonna [ride](http://services.datasport.com/2004/mtb/GrandRaid/START021.HTM) the [grand raid christalp](http://www.grand-raid-cristalp.ch) (76km mostly up and down :-).

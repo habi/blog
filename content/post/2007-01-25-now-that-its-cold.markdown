@@ -1,15 +1,14 @@
 ---
 author: admin
-comments: true
-date: 2007-01-25 23:29:59+00:00
-layout: post
-link: http://habi.gna.ch/2007/01/26/now-that-its-cold/
-slug: now-that-its-cold
-title: now that it's cold...
-wordpress_id: 858
 categories:
 - fun
 - linkdump
+comments: true
+date: 2007-01-25T23:29:59Z
+link: http://habi.gna.ch/2007/01/26/now-that-its-cold/
+slug: now-that-its-cold
+title: now that it"s cold...
+wordpress_id: 858
 ---
 
 you can get [stuck to a pole](http://www.stucktoapole.com/), so pay attention where you lick!

@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- memes
+- personal
 comments: true
-date: 2005-11-23 18:00:16+00:00
-layout: post
+date: 2005-11-23T18:00:16Z
 link: http://habi.gna.ch/2005/11/23/keeping-a-promise/
 slug: keeping-a-promise
 title: keeping a promise
 wordpress_id: 100
-categories:
-- memes
-- personal
 ---
-
 
 [matthias](http://blog.ch/) posted "[I'll Ask You Something I've Always Wondered About You?](http://www.gutfeldt.ch/matthias/blog/singleblog.php?entry=1129859418)" quite some time ago on his personal [blog](http://www.gutfeldt.ch/matthias/blog/index.php).
   

@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2013-09-26 17:34:32+00:00
-excerpt: <p>Die Jungs und Mädels von Bot &amp; Dolly</p>
-layout: post
-link: http://habi.gna.ch/2013/09/26/roboter-ubernehmen-sie/
-slug: roboter-ubernehmen-sie
-title: Roboter, übernehmen Sie
-wordpress_id: 3212
 categories:
 - linkdump
 - movies
 - technospeak
+comments: true
+date: 2013-09-26T17:34:32Z
+excerpt: <p>Die Jungs und Mädels von Bot &amp; Dolly</p>
+link: http://habi.gna.ch/2013/09/26/roboter-ubernehmen-sie/
+slug: roboter-ubernehmen-sie
 tags:
 - movies
 - robot
 - robot overlords
+title: Roboter, übernehmen Sie
+wordpress_id: 3212
 ---
 
 Die Jungs und Mädels von [Bot & Dolly](http://www.botndolly.com) montierten auf mehrere Industrieroboter zwei Leinwände, Projektoren und eine Kamera (was auch Ihr Business ist).

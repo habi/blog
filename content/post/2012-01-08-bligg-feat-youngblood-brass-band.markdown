@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2012-01-08 12:42:28+00:00
-layout: post
-link: http://habi.gna.ch/2012/01/08/bligg-feat-youngblood-brass-band/
-slug: bligg-feat-youngblood-brass-band
-title: Bligg feat. Youngblood Brass Band
-wordpress_id: 2621
 categories:
 - music
+comments: true
+date: 2012-01-08T12:42:28Z
+link: http://habi.gna.ch/2012/01/08/bligg-feat-youngblood-brass-band/
+slug: bligg-feat-youngblood-brass-band
 tags:
 - bligg
 - music
 - youngblood brass band
+title: Bligg feat. Youngblood Brass Band
+wordpress_id: 2621
 ---
 
 Ein klassischer Zielkonflikt: Ich finde [Bligg](http://bligg.ch) etwas doof, die [Youngblood Brass Band](http://www.youngbloodbrassband.com/) dagegen uhuere geil [1]. Bis jetzt hatte ich noch nie den Wunsch, ein Konzert von Bligg zu besuchen, die Youngblood Brass Band hab' ich schon dreimal live gesehen.

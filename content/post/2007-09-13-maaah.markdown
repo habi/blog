@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- tschörman
 comments: true
-date: 2007-09-13 20:19:45+00:00
-layout: post
+date: 2007-09-13T20:19:45Z
 link: http://habi.gna.ch/2007/09/13/maaah/
 slug: maaah
 title: määäh!
 wordpress_id: 1020
-categories:
-- personal
-- tschörman
 ---
 
 [![](http://www.schaf.whoever.ch/img/schaf_banner.gif)](http://www.schaf.whoever.ch)

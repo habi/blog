@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- linkdump
 comments: true
-date: 2004-05-11 21:10:53+00:00
-layout: post
+date: 2004-05-11T21:10:53Z
 link: http://habi.gna.ch/2004/05/11/funny-link/
 slug: funny-link
 title: funny link
 wordpress_id: 529
-categories:
-- linkdump
 ---
 
 since i've keep posting only small blurbs tonight, i'll try to stick to it:

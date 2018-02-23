@@ -1,20 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2013-03-20 06:32:35+00:00
-layout: post
-link: http://habi.gna.ch/2013/03/20/liebes-bund-lektorat/
-slug: liebes-bund-lektorat
-title: Liebes Bund-Lektorat
-wordpress_id: 3070
 categories:
 - personal
+comments: true
+date: 2013-03-20T06:32:35Z
+link: http://habi.gna.ch/2013/03/20/liebes-bund-lektorat/
+slug: liebes-bund-lektorat
 tags:
 - first world problems
+title: Liebes Bund-Lektorat
+wordpress_id: 3070
 ---
 
-
- [![](http://farm9.staticflickr.com/8231/8574336134_d4b38ba264_m.jpg)](http://www.flickr.com/photos/habi/8574336134/)
+[![](http://farm9.staticflickr.com/8231/8574336134_d4b38ba264_m.jpg)](http://www.flickr.com/photos/habi/8574336134/)
    
 
  

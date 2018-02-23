@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-11-08 12:29:19+00:00
-layout: post
+date: 2003-11-08T12:29:19Z
 link: http://habi.gna.ch/2003/11/08/new-software/
 slug: new-software
 title: new software
 wordpress_id: 342
-categories:
-- none
 ---
 
 if you own a [mac](http://www.apple.com/), then go and download these two:  

@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2009-04-10 19:51:26+00:00
-layout: post
-link: http://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/
-slug: panoramas-from-low-quality-movies
-title: panoramas from (low quality) movies [update]
-wordpress_id: 1722
 categories:
 - gadgets and gizmos
 - technospeak
+comments: true
+date: 2009-04-10T19:51:26Z
+link: http://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/
+slug: panoramas-from-low-quality-movies
 tags:
 - cycoder
 - hugin
 - imagej
 - iphone
 - panorama
+title: panoramas from (low quality) movies [update]
+wordpress_id: 1722
 ---
 
 whenever i'm spending a day outdoor, i love to take pictures, many of them turn out to be [panoramas](http://www.flickr.com/photos/habi/tags/panorama).

@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2015-10-30 21:22:06+00:00
-layout: post
-link: http://habi.gna.ch/2015/10/30/konsumations-empfehlung-mr-robot/
-slug: konsumations-empfehlung-mr-robot
-title: 'Konsumations-Empfehlung: Mr. Robot'
-wordpress_id: 4082
 categories:
 - linkdump
+comments: true
+date: 2015-10-30T21:22:06Z
+link: http://habi.gna.ch/2015/10/30/konsumations-empfehlung-mr-robot/
+slug: konsumations-empfehlung-mr-robot
 tags:
 - mr. robot
 - series
 - tv
+title: 'Konsumations-Empfehlung: Mr. Robot'
+wordpress_id: 4082
 ---
 
 Vor längerer Zeit hab' ich mal im [Wired](http://www.wired.com/2015/07/mr-robot-fact-check/) darüber gelesen, nach ein paar Folgen kann ich sagen: [Mr. Robot](http://www.usanetwork.com/mrrobot) ist unglaublich gut.

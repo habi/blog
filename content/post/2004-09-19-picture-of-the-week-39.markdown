@@ -1,17 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-09-19 22:43:15+00:00
-layout: post
+date: 2004-09-19T22:43:15Z
 link: http://habi.gna.ch/2004/09/20/picture-of-the-week-39/
 slug: picture-of-the-week-39
 title: picture of the week 39
 wordpress_id: 622
-categories:
-- none
 ---
 
-yesterday i've been on a big hike with nina and her sister. we walked over the so-called hohturli from the griesalp to kandersteg ([here's the explanation from another guy](http://members.aol.com/HokieHokieHi/)).
+yesterday i've been on a big hike with nina and her sister. we walked over the so-called hohtürli from the griesalp to kandersteg ([here's the explanation from another guy](http://members.aol.com/HokieHokieHi/)).
 
 on the descent to kandersteg we witnessed the sun going down over the hills on the other side of the valley. since the air was a little hazy i was able to catch the sun rays quite nice.
 

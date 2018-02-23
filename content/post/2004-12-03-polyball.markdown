@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-12-03 14:29:49+00:00
-layout: post
+date: 2004-12-03T14:29:49Z
 link: http://habi.gna.ch/2004/12/03/polyball/
 slug: polyball
 title: polyball
 wordpress_id: 685
-categories:
-- none
 ---
-
 
 [![self-portrait](http://photos2.flickr.com/1885190_45c7426cd4_t.jpg)](http://photos2.flickr.com/1885190_45c7426cd4.jpg)if you'd like to see me in a suit, then you might want to check out my [polyball foto set](http://www.flickr.com/photos/habi/sets/44879/) on flickr. but be warned, there are some really cheesy pictures in that set...
 

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-03 16:03:32+00:00
-layout: post
+date: 2003-12-03T16:03:32Z
 link: http://habi.gna.ch/2003/12/03/polyball-pictures/
 slug: polyball-pictures
 title: polyball pictures
 wordpress_id: 364
-categories:
-- none
 ---
 
 [unartig](http://unartig.ch/) uploaded the [pictures they made at the polyball](http://unartig.ch/projects/projects_polyball_2003_start.html) to their site. 

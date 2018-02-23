@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-14 23:19:57+00:00
-layout: post
+date: 2003-12-14T23:19:57Z
 link: http://habi.gna.ch/2003/12/15/bacteria-and-fungi-remixing-songs/
 slug: bacteria-and-fungi-remixing-songs
 title: bacteria and fungi remixing songs
 wordpress_id: 378
-categories:
-- none
 ---
 
 want to listen to remixes of well known songs by bacteria and [fungi](http://dict.leo.org/?search=fungi)?

@@ -1,20 +1,18 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2005-03-13 22:18:52+00:00
-layout: post
+date: 2005-03-13T22:18:52Z
 link: http://habi.gna.ch/2005/03/14/picture-of-the-week-10/
 slug: picture-of-the-week-10
 title: picture of the week 10
 wordpress_id: 745
-categories:
-- picture of the week
 ---
-
 
 the past friday was absolutely amazing at work. as you might know (or not...) the swiss messengers have a collective product: [swissconnect](http://www.swissconnect.ch/). hence, if a customer wants to send a parcel to any other town in switzerland, he just gives us a call, and we do the rest.
   
-pick it up at his door, drive to the train station, put it on a train, and another partner grabs it from that train and delivers the parcel. anything goes. passports from lausanne, movie rolls from [ostermundigen](http://map.search.ch/ostermundigen) to zurich.
+pick it up at his door, drive to the train station, put it on a train, and another partner grabs it from that train and delivers the parcel. anything goes. passports from lausanne, movie rolls from [ostermundigen](http://map.search.ch/ostermundigen) to zürich.
   
 normally  all those swissconnects are a little relief from all the other pickups and drops you do, you get a little break at the trainstation and stuff like that. but this friday was absolutely crazy!
 
@@ -28,7 +26,7 @@ every parcel has to be entered on that central site, so every partner (and big d
 
 the best day-revenue of the whole year up to now. way to go![![Wochenrapport](http://habi.gna.ch/blog/images/wochenrapport-tm.jpg)](http://habi.gna.ch/blog/images/wochenrapport.jpg)
   
-the funniest parcel involved a passport, a russian diplomat, and some [muhsam zuschlag](http://velocite.ch/weblogtoo/?p=95) from our side, but as i said to dom, it was only one of those 3 swissconnects per hour we had this friday.
+the funniest parcel involved a passport, a russian diplomat, and some [mühsam zuschlag](http://velocite.ch/weblogtoo/?p=95) from our side, but as i said to dom, it was only one of those 3 swissconnects per hour we had this friday.
 
 
 

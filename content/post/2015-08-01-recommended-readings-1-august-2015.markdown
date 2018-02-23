@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2015-08-01 19:00:28+00:00
-layout: post
-link: http://habi.gna.ch/2015/08/01/recommended-readings-1-august-2015/
-slug: recommended-readings-1-august-2015
-title: 'Recommended readings: 1. August 2015'
-wordpress_id: 4002
 categories:
 - linkdump
+comments: true
+date: 2015-08-01T19:00:28Z
+link: http://habi.gna.ch/2015/08/01/recommended-readings-1-august-2015/
+slug: recommended-readings-1-august-2015
 tags:
 - instapaper
+title: 'Recommended readings: 1. August 2015'
+wordpress_id: 4002
 ---
 
 Im letzten Monat las ich folgende (etwas Verschlüsselungs-lastige) Texte und fand diese gut:

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-11 02:15:04+00:00
-layout: post
+date: 2003-10-11T02:15:04Z
 link: http://habi.gna.ch/2003/10/11/alleycat-in-lausanne/
 slug: alleycat-in-lausanne
 title: alleycat in lausanne
 wordpress_id: 306
-categories:
-- none
 ---
 
 i just returned from a very cool [alleycat](http://www.google.com/search?hl=de&ie=UTF-8&oe=UTF-8&q=alleycat+messenger+race&btnG=Google+Suche&lr=) in lausanne. normally an alleycat is about 30km "go as fast as you can".

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-14 17:53:45+00:00
-layout: post
+date: 2004-01-14T17:53:45Z
 link: http://habi.gna.ch/2004/01/14/ego-pumping/
 slug: ego-pumping
 title: ego-pumping
 wordpress_id: 404
-categories:
-- none
 ---
 
 well, that's nice, and does pump my ego a bit (not that i actually needed it :-)

@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- linkdump
+- music
 comments: true
-date: 2005-07-27 12:43:54+00:00
-layout: post
+date: 2005-07-27T12:43:54Z
 link: http://habi.gna.ch/2005/07/27/mixed-tape-08-and-a-new-filewile-tracks-are-online/
 slug: mixed-tape-08-and-a-new-filewile-tracks-are-online
 title: mixed tape 08 and a new filewile tracks are online
 wordpress_id: 49
-categories:
-- linkdump
-- music
 ---
-
 
 mercedes again gives you 15 nice tracks to download. go to [mixed-tape.com](http://www.mercedes-benz.com/mixedtape) and download the 102 mb .zip-file including the artwork (annoying flash navigation, so no direct link).
   

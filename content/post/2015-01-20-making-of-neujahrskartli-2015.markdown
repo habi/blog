@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2015-01-20 21:14:39+00:00
-layout: post
-link: http://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/
-slug: making-of-neujahrskartli-2015
-title: 'Making Of: Neujahrskärtli 2015'
-wordpress_id: 3805
 categories:
 - personal
 - photos
+comments: true
+date: 2015-01-20T21:14:39Z
+link: http://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/
+slug: making-of-neujahrskartli-2015
 tags:
 - happy new year
 - happy2015
 - hugin
 - photo
+title: 'Making Of: Neujahrskärtli 2015'
+wordpress_id: 3805
 ---
 
 Dieses Jahr versuchte ich mal wieder, für meine Neujahrskarte eine etwas spezielle Idee umzusetzen.

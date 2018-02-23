@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2014-05-27 20:15:34+00:00
-layout: post
-link: http://habi.gna.ch/2014/05/27/augdemented-reality/
-slug: augdemented-reality
-title: Aug(De)Mented Reality
-wordpress_id: 3450
 categories:
 - linkdump
+comments: true
+date: 2014-05-27T20:15:34Z
+link: http://habi.gna.ch/2014/05/27/augdemented-reality/
+slug: augdemented-reality
 tags:
 - animation
 - video
+title: Aug(De)Mented Reality
+wordpress_id: 3450
 ---
 
 Wir hatten schon lange kein Video mehr hier, deshalb passt das hier doch gut.

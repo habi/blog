@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2012-11-10 15:14:28+00:00
-layout: post
-link: http://habi.gna.ch/2012/11/10/schlitz-scanner-kamera-musik-video-test/
-slug: schlitz-scanner-kamera-musik-video-test
-title: Schlitz-Scanner-Kamera-Musik-Video-Test
-wordpress_id: 2950
 categories:
 - linkdump
+comments: true
+date: 2012-11-10T15:14:28Z
+link: http://habi.gna.ch/2012/11/10/schlitz-scanner-kamera-musik-video-test/
+slug: schlitz-scanner-kamera-musik-video-test
 tags:
 - linkdump
 - slitscan
 - vimeo
+title: Schlitz-Scanner-Kamera-Musik-Video-Test
+wordpress_id: 2950
 ---
 
 Ich weiss nicht, ob Schlitz-Scanner-Kamera die korrekte Übersetzung von slitscan camera ist, aber jedenfalls sind die Bilder, die mit solchen [Kameras](http://en.wikipedia.org/wiki/Slit-scan_photography) (oder Software-Effekten) hergestellt werden, ein frischer Wind für die bildergewohnten Augen.

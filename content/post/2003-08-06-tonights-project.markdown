@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-08-06 21:40:05+00:00
-layout: post
+date: 2003-08-06T21:40:05Z
 link: http://habi.gna.ch/2003/08/06/tonights-project/
 slug: tonights-project
 title: tonights project
 wordpress_id: 251
-categories:
-- none
 ---
 
 room clearance status: successful  

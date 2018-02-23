@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2017-12-25 12:56:15+00:00
-layout: post
-link: http://habi.gna.ch/2017/12/25/es-langt-fur-ubere-nabu/
-slug: es-langt-fur-ubere-nabu
-title: Es längt für übere Näbu!
-wordpress_id: 5246
 categories:
 - moblog
 - photos
+comments: true
+date: 2017-12-25T12:56:15Z
+link: http://habi.gna.ch/2017/12/25/es-langt-fur-ubere-nabu/
+slug: es-langt-fur-ubere-nabu
 tags:
 - flickr
 - fog
@@ -19,6 +16,8 @@ tags:
 - moblog
 - nebel
 - tree
+title: Es längt für übere Näbu!
+wordpress_id: 5246
 ---
 
 ![](http://ift.tt/2BMYeOG)  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-04 22:23:11+00:00
-layout: post
+date: 2003-10-04T22:23:11Z
 link: http://habi.gna.ch/2003/10/05/suicmc03/
 slug: suicmc03
 title: SUICMC03
 wordpress_id: 293
-categories:
-- none
 ---
 
 well, who would have guessed, i was at the [SUICMC03](http://www.suicmc03.ch/html/d/hello.html) and just returned back home.  

@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2013-09-17 20:13:45+00:00
-layout: post
-link: http://habi.gna.ch/2013/09/17/in-der-areuse/
-slug: in-der-areuse
-title: In der Areuse
-wordpress_id: 3203
 categories:
 - personal
+comments: true
+date: 2013-09-17T20:13:45Z
+link: http://habi.gna.ch/2013/09/17/in-der-areuse/
+slug: in-der-areuse
 tags:
 - areuse
 - river
+title: In der Areuse
+wordpress_id: 3203
 ---
 
 Nach etwas über zwei Jahren war ich mal wieder (mit der Kamera) in der Areuseschlucht.

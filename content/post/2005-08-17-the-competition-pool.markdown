@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2005-08-17 10:05:01+00:00
-layout: post
+date: 2005-08-17T10:05:01Z
 link: http://habi.gna.ch/2005/08/17/the-competition-pool/
 slug: the-competition-pool
 title: The competition pool
 wordpress_id: 59
-categories:
-- moblog
 ---
 
-
- [![](http://photos23.flickr.com/34774857_93eac644c6_m.jpg)](http://www.flickr.com/photos/habi/34774857/)
+[![](http://photos23.flickr.com/34774857_93eac644c6_m.jpg)](http://www.flickr.com/photos/habi/34774857/)
    
 
  

@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2011-11-07 21:13:51+00:00
-layout: post
-link: http://habi.gna.ch/2011/11/07/unter-wasser/
-slug: unter-wasser
-title: Unter Wasser
-wordpress_id: 2590
 categories:
 - diving
 - switzerland
+comments: true
+date: 2011-11-07T21:13:51Z
+link: http://habi.gna.ch/2011/11/07/unter-wasser/
+slug: unter-wasser
 tags:
 - aare
 - diving
 - renzo
 - simu
+title: Unter Wasser
+wordpress_id: 2590
 ---
 
 Dank katholischem Feiertag in meinem neuen Arbeitskanton hatte ich letzten Dienstag frei, so hab' ich's innert vier Tagen zu vier Tauchgängen gebracht. Zwei davon waren zwar "nur" im Hallenbad in Frutigen, dafür habe ich (und andere) im Rahmen der Dive-Con-Ausbildung dort mal wieder einiges an Theorie und Praxis repetiert und geübt.

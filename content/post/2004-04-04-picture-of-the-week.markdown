@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2004-04-04 18:49:06+00:00
-layout: post
+date: 2004-04-04T18:49:06Z
 link: http://habi.gna.ch/2004/04/04/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
 wordpress_id: 492
-categories:
-- picture of the week
 ---
 
 this friday i was at the [aquaparc](http://www.aquaparc.ch/index_en.html) with [mike](http://www.stud.uni-karlsruhe.de/~upmw/).

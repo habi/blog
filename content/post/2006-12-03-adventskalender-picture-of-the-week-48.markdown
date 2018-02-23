@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2006-12-03 09:52:39+00:00
-layout: post
-link: http://habi.gna.ch/2006/12/03/adventskalender-picture-of-the-week-48/
-slug: adventskalender-picture-of-the-week-48
-title: adventskalender (picture of the week 48)
-wordpress_id: 826
 categories:
 - personal
 - picture of the week
 - tschörman
+comments: true
+date: 2006-12-03T09:52:39Z
+link: http://habi.gna.ch/2006/12/03/adventskalender-picture-of-the-week-48/
+slug: adventskalender-picture-of-the-week-48
+title: adventskalender (picture of the week 48)
+wordpress_id: 826
 ---
 
 merci bella!

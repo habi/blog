@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2014-05-04 11:54:37+00:00
-layout: post
-link: http://habi.gna.ch/2014/05/04/bergsteigen-im-flachland/
-slug: bergsteigen-im-flachland
-title: Bergsteigen im Flachland
-wordpress_id: 3440
 categories:
 - personal
+comments: true
+date: 2014-05-04T11:54:37Z
+link: http://habi.gna.ch/2014/05/04/bergsteigen-im-flachland/
+slug: bergsteigen-im-flachland
 tags:
 - buch
 - reading
 - vernissage
+title: Bergsteigen im Flachland
+wordpress_id: 3440
 ---
 
 Als wir noch zusammen Velo fuhren, schlug ich [Urs](http://de.wikipedia.org/wiki/Urs_Mannhart) vor, einen Newsletter mit Hinweisen auf seine kommenden Aktionen und Auftritte zu versenden. Eigentlich dacht’ ich damals an eine digitale Ausgabe. Umso mehr freut es mich, ab und an analoge Post von einem Schriftsteller mit Einladungen zu Vernissagen und Lesungen zu bekommen.

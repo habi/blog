@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2012-05-12 17:41:52+00:00
-layout: post
-link: http://habi.gna.ch/2012/05/12/ziel-erreicht/
-slug: ziel-erreicht
-title: Ziel erreicht [update]
-wordpress_id: 2755
 categories:
 - gadgets and gizmos
 - personal
+comments: true
+date: 2012-05-12T17:41:52Z
+link: http://habi.gna.ch/2012/05/12/ziel-erreicht/
+slug: ziel-erreicht
 tags:
 - bern
 - grand prix
+title: Ziel erreicht [update]
+wordpress_id: 2755
 ---
 
 Das Ziel am diesä¤hrigen [GP](http://www.gpbern.ch/) war: Unter 1:15:00 zu rennen und nicht hönne zu leiden.

@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2005-03-01 20:40:16+00:00
-layout: post
+date: 2005-03-01T20:40:16Z
 link: http://habi.gna.ch/2005/03/01/skype-me-update-2/
 slug: skype-me-update-2
 title: skype me [update 2]
 wordpress_id: 741
-categories:
-- none
 ---
-
 
 since [nina](http://flickr.com/photos/habi/tags/nina/) also started to use skype i thought i'd might give it another go.
   

@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2015-01-20 21:47:40+00:00
-layout: post
-link: http://habi.gna.ch/2015/01/20/kommentare-sind-wohl-wirklich-tot/
-slug: kommentare-sind-wohl-wirklich-tot
-title: Kommentare sind wohl wirklich tot
-wordpress_id: 3812
 categories:
 - personal
 - technospeak
+comments: true
+date: 2015-01-20T21:47:40Z
+link: http://habi.gna.ch/2015/01/20/kommentare-sind-wohl-wirklich-tot/
+slug: kommentare-sind-wohl-wirklich-tot
 tags:
 - comments
 - jahresrückblick
@@ -17,6 +14,8 @@ tags:
 - kommentare
 - python
 - visualization
+title: Kommentare sind wohl wirklich tot
+wordpress_id: 3812
 ---
 
 Dies ist der vierte und letzte meiner Jahresrückblick 2014-Posts. Die anderen sind unter dem Tag [`jahresrückblick14`](http://habi.gna.ch/tag/jahresruckblick14) zu finden.

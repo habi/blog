@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-11-30 23:04:51+00:00
-layout: post
+date: 2003-11-30T23:04:51Z
 link: http://habi.gna.ch/2003/12/01/polyball/
 slug: polyball
 title: polyball
 wordpress_id: 362
-categories:
-- none
 ---
 
 [it](http://www.polyball.ch/) was lovely, thanks for asking.

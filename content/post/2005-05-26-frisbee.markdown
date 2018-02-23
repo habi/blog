@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2005-05-26 21:07:41+00:00
-layout: post
+date: 2005-05-26T21:07:41Z
 link: http://habi.gna.ch/2005/05/26/frisbee/
 slug: frisbee
 title: frisbee
 wordpress_id: 17
-categories:
-- personal
 ---
-
 
 i've been playing ultimate frisbee today, we had the swiss university championships here in bern (quite a fancy name for a little tournament with 4 teams). if you'd like to see the 14 good images of the bunch i took, then step over to the [/pics-section](http://habi.gna.ch/pics/Frisbeeturnier05/) please. thank you.
 

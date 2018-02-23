@@ -1,20 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2011-01-14 11:46:49+00:00
-layout: post
-link: http://habi.gna.ch/2011/01/14/neues-hinterrad/
-slug: neues-hinterrad
-title: Neues Hinterrad
-wordpress_id: 2365
 categories:
 - personal
+comments: true
+date: 2011-01-14T11:46:49Z
+link: http://habi.gna.ch/2011/01/14/neues-hinterrad/
+slug: neues-hinterrad
 tags:
 - velocontent
+title: Neues Hinterrad
+wordpress_id: 2365
 ---
 
-
- [![](http://farm6.static.flickr.com/5168/5354423634_fa87b92cb7_m.jpg)](http://www.flickr.com/photos/habi/5354423634/)
+[![](http://farm6.static.flickr.com/5168/5354423634_fa87b92cb7_m.jpg)](http://www.flickr.com/photos/habi/5354423634/)
    
 
  

@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-12-17 11:00:45+00:00
-layout: post
+date: 2010-12-17T11:00:45Z
 link: http://habi.gna.ch/2010/12/17/post-verpackung-fail/
 slug: post-verpackung-fail
 title: 'Post-Verpackung #Fail'
 wordpress_id: 2335
-categories:
-- personal
 ---
 
-
- [![](http://farm6.static.flickr.com/5089/5267937129_c96c1cd1b9_m.jpg)](http://www.flickr.com/photos/habi/5267937129/)
+[![](http://farm6.static.flickr.com/5089/5267937129_c96c1cd1b9_m.jpg)](http://www.flickr.com/photos/habi/5267937129/)
    
 
  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-11-02 13:50:12+00:00
-layout: post
+date: 2003-11-02T13:50:12Z
 link: http://habi.gna.ch/2003/11/02/moving-an-original/
 slug: moving-an-original
 title: moving an original
 wordpress_id: 333
-categories:
-- none
 ---
 
 yesterday i helped a friend of mine to move. she owns an [original ball chair by aarnio eero](http://www.eero-aarnio.com/index.cfm/page/8/title/Ball_Chair.htm) which is quite a pain in the ass to move.

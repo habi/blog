@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-09-06 10:49:12+00:00
-layout: post
+date: 2003-09-06T10:49:12Z
 link: http://habi.gna.ch/2003/09/06/uglyfootballerscom/
 slug: uglyfootballerscom
 title: uglyfootballers.com
 wordpress_id: 270
-categories:
-- none
 ---
 
 i found the fun link of the week (while looking at the website of [iguana tatau](http://www.iguanatatau.com); for no [apparent reason](http://habi.bmezine.com) (yes, i'm thinking about a new one...) :-)

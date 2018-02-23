@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2005-03-16 16:34:47+00:00
-layout: post
+date: 2005-03-16T16:34:47Z
 link: http://habi.gna.ch/2005/03/16/googles-dock-update/
 slug: googles-dock-update
 title: googles dock [update]
 wordpress_id: 748
-categories:
-- none
 ---
-
 
 if you cannot be without the dock magnification effect, then you abolutely must start to use [google X](http://labs.google.com/googlex/) from now on. quite nifty!
 

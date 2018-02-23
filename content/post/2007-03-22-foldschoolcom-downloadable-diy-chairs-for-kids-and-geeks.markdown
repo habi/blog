@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-03-22 13:57:31+00:00
-layout: post
-link: http://habi.gna.ch/2007/03/22/foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks/
-slug: foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks
-title: foldschool.com - downloadable DIY chairs for kids and geeks [update]
-wordpress_id: 893
 categories:
 - gadgets and gizmos
 - personal
 - switzerland
+comments: true
+date: 2007-03-22T13:57:31Z
+link: http://habi.gna.ch/2007/03/22/foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks/
+slug: foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks
+title: foldschool.com - downloadable DIY chairs for kids and geeks [update]
+wordpress_id: 893
 ---
 
 [![Signatur Def](http://habi.gna.ch/wp-content/uploads/2007/03/signatur-def-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/03/signatur-def.jpg)

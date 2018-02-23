@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2013-02-04 19:19:11+00:00
-layout: post
-link: http://habi.gna.ch/2013/02/04/sprachexperiment/
-slug: sprachexperiment
-title: Sprachexperiment
-wordpress_id: 3028
 categories:
 - memes
 - technospeak
+comments: true
+date: 2013-02-04T19:19:11Z
+link: http://habi.gna.ch/2013/02/04/sprachexperiment/
+slug: sprachexperiment
 tags:
 - upgoerfive
+title: Sprachexperiment
+wordpress_id: 3028
 ---
 
 Ich bin ein grosser Freund von Webcomics, [xkcd](http://xkcd.com/) von [Randall Munroe](http://en.wikipedia.org/wiki/Randall_Munroe) hat es mir sehr angetan. Vor einiger Zeit hat er eine Beschreibung der [Saturn V-Mondrakete](http://de.wikipedia.org/wiki/Saturn_(Rakete)#Saturn_V) veröffentlicht, bei der er nur die 10 100 häufigsten Wörter in Englisch gebraucht hat (1000 ist nicht dabei, deshalb 10 100 :).

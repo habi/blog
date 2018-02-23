@@ -1,22 +1,21 @@
 ---
 author: admin
-comments: true
-date: 2011-02-21 19:07:48+00:00
-layout: post
-link: http://habi.gna.ch/2011/02/21/trailer-eistauchen/
-slug: trailer-eistauchen
-title: Trailer Eistauchen 2011
-wordpress_id: 2395
 categories:
 - diving
 - flickr
 - personal
 - pictures
 - switzerland
+comments: true
+date: 2011-02-21T19:07:48Z
+link: http://habi.gna.ch/2011/02/21/trailer-eistauchen/
+slug: trailer-eistauchen
 tags:
 - diving
 - flickr
 - oeschinen
+title: Trailer Eistauchen 2011
+wordpress_id: 2395
 ---
 
 Am vergangenen Samschtig war ich wieder mal mit dem [divecenter.ch](http://divecenter.ch/) im Wasser. Wie immer Anfang Jahr führen die Jungs ein Eistauchen im Oeschinensee durch. Schon wie die letzen beiden Male hatten wir grandioses Wetterglück und konnten zwei Supertauchgänge und einen wunderbaren Tag im und am Oeschinensee geniessen.

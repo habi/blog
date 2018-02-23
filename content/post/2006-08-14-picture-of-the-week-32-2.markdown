@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- picture of the week
 comments: true
-date: 2006-08-14 19:21:33+00:00
-layout: post
+date: 2006-08-14T19:21:33Z
 link: http://habi.gna.ch/2006/08/14/picture-of-the-week-32-2/
 slug: picture-of-the-week-32-2
 title: picture of the week 32
 wordpress_id: 212
-categories:
-- personal
-- picture of the week
 ---
 
 this weekend ninas [brother](http://flickr.com/photos/habi/tags/andi/) got married to [karin](http://flickr.com/photos/habi/tags/karin/). they planned a big party in their garden, but unfortunately the weather was a bit more like november than august. so they had to last-minute-reschedule the whole wedding to a restaurant. in the end everything turned out really great, and the party ended quite early in the morning. a wedding to remember; congratulations karin and andi!

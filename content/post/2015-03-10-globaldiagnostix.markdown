@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2015-03-10 17:18:23+00:00
-layout: post
-link: http://habi.gna.ch/2015/03/10/globaldiagnostix/
-slug: globaldiagnostix
-title: GlobalDiagnostiX
-wordpress_id: 3858
 categories:
 - personal
 - work
+comments: true
+date: 2015-03-10T17:18:23Z
+link: http://habi.gna.ch/2015/03/10/globaldiagnostix/
+slug: globaldiagnostix
 tags:
 - globaldiagnostix
+title: GlobalDiagnostiX
+wordpress_id: 3858
 ---
 
 Seit [gut zwei Jahren](https://github.com/habi/GlobalDiagnostiX/commits/master) arbeite ich im Rahmen meiner PostDoc-Stelle in der [Röntgen-Tomographie-Gruppe](http://www.psi.ch/lsb-tomography/) am [GlobalDiagnostiX](http://globaldiagnostix.org)-Projekt mit.

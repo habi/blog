@@ -1,18 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2005-06-28 22:25:52+00:00
-layout: post
-link: http://habi.gna.ch/2005/06/29/itunes-49/
-slug: itunes-49
-title: itunes 4.9
-wordpress_id: 34
 categories:
 - apple
 - gadgets and gizmos
 - music
+comments: true
+date: 2005-06-28T22:25:52Z
+link: http://habi.gna.ch/2005/06/29/itunes-49/
+slug: itunes-49
+title: itunes 4.9
+wordpress_id: 34
 ---
-
 
 [![Itunes4.9](http://habi.gna.ch/blog/images/itunes4.9-tm.jpg)](http://habi.gna.ch/blog/images/itunes4.9.jpg)apple just released the [new itunes](http://www.apple.com/itunes/), now with included [podcast-feature](http://www.apple.com/podcasting/).
   

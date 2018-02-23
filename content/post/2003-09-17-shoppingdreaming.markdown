@@ -1,17 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-09-17 20:33:17+00:00
-layout: post
+date: 2003-09-17T20:33:17Z
 link: http://habi.gna.ch/2003/09/17/shoppingdreaming/
 slug: shoppingdreaming
 title: shopping/dreaming
 wordpress_id: 279
-categories:
-- none
 ---
 
-today i went shopping a little bit (free afternoon, because all my classes are already on holidays and i'm only biking around 50 % of my time...): some little stuff for the upcoming week, i'll be in [greece](http://www.wunderground.com/global/stations/16742.html), and then went to [jaggi](http://www.jaeggi.ch/index_home.php), because you can read all the comics you want without bein bothered.  
+today i went shopping a little bit (free afternoon, because all my classes are already on holidays and i'm only biking around 50 % of my time...): some little stuff for the upcoming week, i'll be in [greece](http://www.wunderground.com/global/stations/16742.html), and then went to [jäggi](http://www.jaeggi.ch/index_home.php), because you can read all the comics you want without bein bothered.  
 
 near the comics [FUST](http://shop.fust.ch/fust/default.asp) has an electronica-shop which i never can resist and always go and have a little look: today i spotted the perfect replacement for my old VCR, which is not far away from dying: the [Panasonic DMR-HS2 ](http://www.edgereview.com/ataglance.cfm?category=Video&ID=359), a combination of HD- and DVD-recorder which can fit up to 52 hours of video on its disk.  
 

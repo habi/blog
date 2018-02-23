@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2004-05-16 21:54:35+00:00
-layout: post
+date: 2004-05-16T21:54:35Z
 link: http://habi.gna.ch/2004/05/16/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
 wordpress_id: 533
-categories:
-- picture of the week
 ---
 
 yesterday, urs, simu and me went to winterthur, because the guys from [staffel x](http://www.staffelx.ch/) made an [alleycat](http://www.fahrradkurier.ch/aktuell/alley150504.jpg).

@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-04-09 11:30:08+00:00
-layout: post
+date: 2010-04-09T11:30:08Z
 link: http://habi.gna.ch/2010/04/09/gratispfosten/
 slug: gratispfosten
 title: Gratispfosten
 wordpress_id: 2095
-categories:
-- personal
 ---
 
-
- [![](http://farm5.static.flickr.com/4001/4505218160_baeaf7c61d_m.jpg)](http://www.flickr.com/photos/habi/4505218160/)
+[![](http://farm5.static.flickr.com/4001/4505218160_baeaf7c61d_m.jpg)](http://www.flickr.com/photos/habi/4505218160/)
    
 
  

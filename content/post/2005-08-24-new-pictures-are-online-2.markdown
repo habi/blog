@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- pictures
 comments: true
-date: 2005-08-24 21:03:21+00:00
-layout: post
+date: 2005-08-24T21:03:21Z
 link: http://habi.gna.ch/2005/08/24/new-pictures-are-online-2/
 slug: new-pictures-are-online-2
 title: new pictures are online
 wordpress_id: 64
-categories:
-- pictures
 ---
-
 
 i finally found a free minute to sift through my pile of images, and was able to upload a first batch of images from the ecmc in basel.
   

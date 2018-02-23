@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2005-11-06 16:57:55+00:00
-layout: post
+date: 2005-11-06T16:57:55Z
 link: http://habi.gna.ch/2005/11/06/comment-feed/
 slug: comment-feed
 title: comment feed
 wordpress_id: 95
-categories:
-- technospeak
 ---
-
 
 [chregu recently mentioned](http://blog.bitflux.ch/archive/2005/11/04/more-latest-comments-feeds.html) that he wants a feed for every blog (actually for every blog software...)
   

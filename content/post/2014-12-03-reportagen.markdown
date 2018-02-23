@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2014-12-03 22:25:38+00:00
-layout: post
-link: http://habi.gna.ch/2014/12/03/reportagen/
-slug: reportagen
-title: Reportagen
-wordpress_id: 3658
 categories:
 - personal
+comments: true
+date: 2014-12-03T22:25:38Z
+link: http://habi.gna.ch/2014/12/03/reportagen/
+slug: reportagen
 tags:
 - lesen
 - papier
 - reading
 - reportagen
+title: Reportagen
+wordpress_id: 3658
 ---
 
 Ich lese gerne Reportagen. Das ist wahrscheinlich dem aufmerksamen Zuschauer anhand meiner [monatlichen Lesetipps](http://habi.gna.ch/?s=recommended) schon aufgefallen. Seit einiger Zeit abonniere ich das [Reportagen-Magazin](http://reportagen.com) und lese jede Ausgabe mit Freude. Wie schon [letztes Jahr](http://habi.gna.ch/2013/12/04/gutscheine-gutscheine-gutscheine-2/) habe ich nun die Möglichkeit, ein Jahresabo des Magazins mit 20% Rabatt zu _verschenken_ (100.- statt 125.-).

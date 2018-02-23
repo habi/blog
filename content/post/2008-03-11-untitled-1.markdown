@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2008-03-11 18:41:24+00:00
-layout: post
-link: http://habi.gna.ch/2008/03/11/untitled-1/
-slug: untitled-1
-title: i own 1796
-wordpress_id: 1213
 categories:
 - linkdump
 - personal
 - technospeak
+comments: true
+date: 2008-03-11T18:41:24Z
+link: http://habi.gna.ch/2008/03/11/untitled-1/
+slug: untitled-1
+title: i own 1796
+wordpress_id: 1213
 ---
 
 [I Own Number1796MillionNumbers.com](http://millionnumbers.com/number/1796/)  

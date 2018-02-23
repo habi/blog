@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2013-12-03 22:24:49+00:00
-layout: post
-link: http://habi.gna.ch/2013/12/03/mein-november/
-slug: mein-november
-title: Mein November
-wordpress_id: 3263
 categories:
 - personal
+comments: true
+date: 2013-12-03T22:24:49Z
+link: http://habi.gna.ch/2013/12/03/mein-november/
+slug: mein-november
 tags:
 - 1se
+title: Mein November
+wordpress_id: 3263
 ---
 
 Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/), [Mai](http://habi.gna.ch/2013/06/01/mein-mai/), [Juni](http://habi.gna.ch/2013/07/01/mein-juni/), [Juli](http://habi.gna.ch/2013/08/02/mein-juli/), [August](http://habi.gna.ch/2013/09/02/mein-august/), [September](http://habi.gna.ch/2013/10/02/mein-september/) und [Oktober](http://habi.gna.ch/2013/11/03/mein-oktober/) hab’ ich im November jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.

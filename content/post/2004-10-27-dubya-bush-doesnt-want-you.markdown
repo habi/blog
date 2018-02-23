@@ -1,14 +1,13 @@
 ---
 author: admin
-comments: true
-date: 2004-10-27 18:01:28+00:00
-layout: post
-link: http://habi.gna.ch/2004/10/27/dubya-bush-doesnt-want-you/
-slug: dubya-bush-doesnt-want-you
-title: dubya bush doesn't want you
-wordpress_id: 660
 categories:
 - none
+comments: true
+date: 2004-10-27T18:01:28Z
+link: http://habi.gna.ch/2004/10/27/dubya-bush-doesnt-want-you/
+slug: dubya-bush-doesnt-want-you
+title: dubya bush doesn"t want you
+wordpress_id: 660
 ---
 
 [![dubyasite](http://habi.gna.ch/blog/images/dubyasite-tm.jpg)](http://habi.gna.ch/blog/images/dubyasite.jpg)so, let's assume you're part of the internationally interested population and want to read george dubya bushs weblog to see what he (or his blogger) wants to tell you. or do you just want inform yourself about his view on different things that are important to yourself? but since monday morning you cannot  access his website (www.georgewbush.com) from europe (or just about any other part of the non-us-world)? since quite a long time the website just times out on you and since monday morning you get one of these funky error messages seen in the image on the left. hm, then you're left out behind and must stick to [kerry's page](http://www.johnkerry.com) :-)

@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- apple
 comments: true
-date: 2005-03-16 13:30:31+00:00
-layout: post
+date: 2005-03-16T13:30:31Z
 link: http://habi.gna.ch/2005/03/16/18-and-rising/
 slug: 18-and-rising
 title: 18° and rising.
 wordpress_id: 747
-categories:
-- apple
 ---
-
 
 ![Menubar-1](http://habi.gna.ch/blog/images/menubar-1.jpg)
   

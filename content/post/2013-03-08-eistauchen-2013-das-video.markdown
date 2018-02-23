@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2013-03-08 19:38:46+00:00
-layout: post
-link: http://habi.gna.ch/2013/03/08/eistauchen-2013-das-video/
-slug: eistauchen-2013-das-video
-title: Eistauchen 2013, das Video
-wordpress_id: 3059
 categories:
 - diving
+comments: true
+date: 2013-03-08T19:38:46Z
+link: http://habi.gna.ch/2013/03/08/eistauchen-2013-das-video/
+slug: eistauchen-2013-das-video
 tags:
 - diving
+title: Eistauchen 2013, das Video
+wordpress_id: 3059
 ---
 
 In den paar Zugfahrten seit Samstag habe ich nun meine Videoschnipsel versucht zu einem Film zusammenzusetzen.

@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2008-07-30 18:17:10+00:00
-layout: post
+date: 2008-07-30T18:17:10Z
 link: http://habi.gna.ch/2008/07/30/beereli-chueche/
 slug: beereli-chueche
 title: beereli-chueche
 wordpress_id: 1322
-categories:
-- none
 ---
 
-
-  [![](http://farm4.static.flickr.com/3050/2716805913_31dff3b2af_m.jpg)](http://www.flickr.com/photos/habi/2716805913/)  
+[![](http://farm4.static.flickr.com/3050/2716805913_31dff3b2af_m.jpg)](http://www.flickr.com/photos/habi/2716805913/)  
 
   [beereli-chueche](http://www.flickr.com/photos/habi/2716805913/)  
 

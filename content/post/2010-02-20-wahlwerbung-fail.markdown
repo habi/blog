@@ -1,37 +1,36 @@
 ---
 author: admin
-comments: true
-date: 2010-02-20 16:52:41+00:00
-layout: post
-link: http://habi.gna.ch/2010/02/20/wahlwerbung-fail/
-slug: wahlwerbung-fail
-title: 'Wahlwerbung #FAIL'
-wordpress_id: 2045
 categories:
 - switzerland
 - tschörman
+comments: true
+date: 2010-02-20T16:52:41Z
+link: http://habi.gna.ch/2010/02/20/wahlwerbung-fail/
+slug: wahlwerbung-fail
 tags:
 - regierungsrat
 - spam
 - wahlen
+title: 'Wahlwerbung #FAIL'
+wordpress_id: 2045
 ---
 
-Heute Morgen habe ich von Herrn Rothenfluh [1], offensichtlich Regierungsrats-Kandidat fur die Wahlen 2010 ein Mail bekommen. In diesem Mail empfiehlt er sich mir [2] als Kandidaten, um die Probleme der Kostenspirale im Gesundheitswesen zu losen. An sich ja eine Position, die mann vertreten konnte.
+Heute Morgen habe ich von Herrn Rothenfluh [1], offensichtlich Regierungsrats-Kandidat für die Wahlen 2010 ein Mail bekommen. In diesem Mail empfiehlt er sich mir [2] als Kandidaten, um die Probleme der Kostenspirale im Gesundheitswesen zu lösen. An sich ja eine Position, die mann vertreten könnte.
 
 
 
 
-Herr Rothenfluh hat sich aber jeglichste noch so kleine Unterstutzung verspielt, weil er namlich mit dem Versand seiner Nachricht gegen [Artikel 3 des Bundesgesetzes uber unlauteren Wettbewerb](http://www.admin.ch/ch/d/sr/241/a3.html) verstossen hat, denn seit dem 1. April 2007 ist in der Schweiz der Versand von Spam untersagt.
+Herr Rothenfluh hat sich aber jeglichste noch so kleine Unterstützung verspielt, weil er nämlich mit dem Versand seiner Nachricht gegen [Artikel 3 des Bundesgesetzes über unlauteren Wettbewerb](http://www.admin.ch/ch/d/sr/241/a3.html) verstossen hat, denn seit dem 1. April 2007 ist in der Schweiz der Versand von Spam untersagt.
 
 
 
 
-Ein Massenversand (ich gehe mal davon aus, dass dies ein Massenversand war, denn mindesten 2 andere Schweizer Onliner haben seine Nachricht auch bekommen, siehe [2]) ist nur erlaubt, wenn der Empfanger dem Erhalt zugestimmt hat. Dies ist nicht der Fall, ich hore zum ersten Mal von Herr Rothenfluh. Weiter muss der Absender klar erkennbar sein, was hier der Fall ist. Der dritte Punkt der Voraussetzungen ist nur theoretisch gegeben. Herr Rothenfluh schreibt schon im Ersten Abschnitt, wie mensch sich von seiner Liste entfernen lassen kann (ubrigens mit Schreibfehler), die Abmelde-Adresse enthalt aber auch einen Tippfehler, so dass diese Voraussetzung nicht erfullt ist, denn die Abmelde-Nachricht wird so gar nie eintreffen
+Ein Massenversand (ich gehe mal davon aus, dass dies ein Massenversand war, denn mindesten 2 andere Schweizer Onliner haben seine Nachricht auch bekommen, siehe [2]) ist nur erlaubt, wenn der Empfänger dem Erhalt zugestimmt hat. Dies ist nicht der Fall, ich höre zum ersten Mal von Herr Rothenfluh. Weiter muss der Absender klar erkennbar sein, was hier der Fall ist. Der dritte Punkt der Voraussetzungen ist nur theoretisch gegeben. Herr Rothenfluh schreibt schon im Ersten Abschnitt, wie mensch sich von seiner Liste entfernen lassen kann (übrigens mit Schreibfehler), die Abmelde-Adresse enthält aber auch einen Tippfehler, so dass diese Voraussetzung nicht erfüllt ist, denn die Abmelde-Nachricht wird so gar nie eintreffen
 
 
 
 
-Fazit: Herr Rothenfluh, Sie haben auf ganzer Linie versagt! Und weil Sie Ihre Spamnachricht von Ihrem Provider green.ch uber Ihren Mailserver bei solnet.ch [3] verschickt haben, glaube ich, dass mensch sie sogar verklagen oder zumindest bei der [Polizei anzeigen](http://www.swissinfo.ch/ger/Neues_Gesetz_-_Schweiz_belegt_Spam_mit_Bann.html?cid=5814432) sollte!  
+Fazit: Herr Rothenfluh, Sie haben auf ganzer Linie versagt! Und weil Sie Ihre Spamnachricht von Ihrem Provider green.ch über Ihren Mailserver bei solnet.ch [3] verschickt haben, glaube ich, dass mensch sie sogar verklagen oder zumindest bei der [Polizei anzeigen](http://www.swissinfo.ch/ger/Neues_Gesetz_-_Schweiz_belegt_Spam_mit_Bann.html?cid=5814432) sollte!  
 
 
 

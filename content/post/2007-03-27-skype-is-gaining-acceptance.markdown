@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2007-03-27 08:05:14+00:00
-layout: post
+date: 2007-03-27T08:05:14Z
 link: http://habi.gna.ch/2007/03/27/skype-is-gaining-acceptance/
 slug: skype-is-gaining-acceptance
 title: skype is gaining acceptance...
 wordpress_id: 895
-categories:
-- personal
 ---
 
 even my parents can now chat me up :-)

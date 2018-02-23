@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-09-18 20:55:54+00:00
-layout: post
-link: http://habi.gna.ch/2007/09/18/picture-of-the-week-37-meiringen-axalp/
-slug: picture-of-the-week-37-meiringen-axalp
-title: 'picture of the week 37: meiringen-axalp '
-wordpress_id: 1024
 categories:
 - personal
 - picture of the week
 - switzerland
+comments: true
+date: 2007-09-18T20:55:54Z
+link: http://habi.gna.ch/2007/09/18/picture-of-the-week-37-meiringen-axalp/
+slug: picture-of-the-week-37-meiringen-axalp
+title: 'picture of the week 37: meiringen-axalp '
+wordpress_id: 1024
 ---
 
 since nina finally returned from her internship at the cancer institute in london, we were able to go for a nice hike this weekend. we walked from [meiringen to the axalp](http://tinyurl.com/2zxpop). the weather was absolutely stunning, so we had a great day (most days together with nina are great, so this was not really a surprise :-)

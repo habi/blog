@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-03 20:23:13+00:00
-layout: post
+date: 2004-01-03T20:23:13Z
 link: http://habi.gna.ch/2004/01/03/new-pictures-are-online/
 slug: new-pictures-are-online
 title: new pictures are online
 wordpress_id: 390
-categories:
-- none
 ---
 
 the pictures of [max's](http://habi.gna.ch/pics/Silvester0304/Pages/20.html), [chrigi's](http://habi.gna.ch/pics/Silvester0304/Pages/43.html) and [simi's](http://habi.gna.ch/pics/Silvester0304/Pages/1.html) new-years-eve party at  the [eclipse-bar](http://www.eclipse-bar.ch/) are [online in the picture section](http://habi.gna.ch/pics/Silvester0304/).

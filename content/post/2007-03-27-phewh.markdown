@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- tschörman
 comments: true
-date: 2007-03-27 14:45:17+00:00
-layout: post
+date: 2007-03-27T14:45:17Z
 link: http://habi.gna.ch/2007/03/27/phewh/
 slug: phewh
 title: phewh!
 wordpress_id: 904
-categories:
-- personal
-- tschörman
 ---
 
 [![Steuern06](http://habi.gna.ch/wp-content/uploads/2007/03/steuern06-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/03/steuern06.jpg)die steuererklärung ist ausgefüllt.

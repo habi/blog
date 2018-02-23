@@ -1,19 +1,17 @@
 ---
 author: admin
+categories:
+- linkdump
+- tschörman
 comments: true
-date: 2006-09-17 21:33:12+00:00
-layout: post
+date: 2006-09-17T21:33:12Z
 link: http://habi.gna.ch/2006/09/17/weisheiten-zum-sonntag-abend/
 slug: weisheiten-zum-sonntag-abend
 title: weisheiten zum sonntag abend
 wordpress_id: 224
-categories:
-- linkdump
-- tschörman
 ---
 
-
-[rollstuhlfahren](http://www.devilducky.com/media/50728/) und rumdreckeln mit [4x4](http://www.youtube.com/watch?v=yLsWEn2wXjA)-autos konnen ganz schon gefahrlich sein!
+[rollstuhlfahren](http://www.devilducky.com/media/50728/) und rumdreckeln mit [4x4](http://www.youtube.com/watch?v=yLsWEn2wXjA)-autos können ganz schön gefährlich sein!
 
 
 

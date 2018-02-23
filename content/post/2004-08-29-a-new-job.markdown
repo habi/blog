@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-08-29 20:27:27+00:00
-layout: post
+date: 2004-08-29T20:27:27Z
 link: http://habi.gna.ch/2004/08/29/a-new-job/
 slug: a-new-job
 title: a new job?
 wordpress_id: 602
-categories:
-- none
 ---
 
 if my new [model-career](http://moblog.co.uk/view.php?id=21321) is not gonna pay off i can still start working in the oil-business:

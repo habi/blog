@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- fun
+- linkdump
 comments: true
-date: 2006-02-20 21:44:37+00:00
-layout: post
+date: 2006-02-20T21:44:37Z
 link: http://habi.gna.ch/2006/02/20/the-it-crowd/
 slug: the-it-crowd
 title: the it crowd
 wordpress_id: 136
-categories:
-- fun
-- linkdump
 ---
-
 
 [![ Entertainment Tv Microsites I Itcrowd Images Gallery1](http://habi.gna.ch/blog/images/_entertainment_tv_microsites_I_itcrowd_images_gallery1-tm.jpg)](http://habi.gna.ch/blog/images/_entertainment_tv_microsites_I_itcrowd_images_gallery1.jpg)while on the way to [oberwald](http://habi.gna.ch/blog/archives/000733.html) i finally found some time to watch [the it crowd](http://channel4.com/entertainment/tv/microsites/I/itcrowd/) (on my [psp](http://www.nullriver.com/index/products/pspware)). since cory doctorow posted about that new show on [boingboing](http://www.boingboing.net/2006/02/07/the_it_crowd_the_gee.html), i've been [downloading](http://tz.searching.com/search_the-it-crowd) all the episodes of the ultimate geek comedy.
 

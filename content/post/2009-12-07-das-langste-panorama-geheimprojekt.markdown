@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2009-12-07 22:01:55+00:00
-layout: post
-link: http://habi.gna.ch/2009/12/08/das-langste-panorama-geheimprojekt/
-slug: das-langste-panorama-geheimprojekt
-title: das längste panorama (#geheimprojekt)
-wordpress_id: 1988
 categories:
 - personal
 - picture of the week
 - pictures
+comments: true
+date: 2009-12-07T22:01:55Z
+link: http://habi.gna.ch/2009/12/08/das-langste-panorama-geheimprojekt/
+slug: das-langste-panorama-geheimprojekt
 tags:
 - gyrenbad
 - panorama
 - wedding
+title: das längste panorama (#geheimprojekt)
+wordpress_id: 1988
 ---
 
 meine stalker wissen, dass ich schon seit einiger zeit an einem #geheimprojekt dran bin, seit freitag abend ist es nicht mehr so geheim wie auch schon.

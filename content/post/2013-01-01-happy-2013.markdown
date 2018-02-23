@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2013-01-01 10:11:34+00:00
-layout: post
+date: 2013-01-01T10:11:34Z
 link: http://habi.gna.ch/2013/01/01/happy-2013/
 slug: happy-2013
 title: Happy 2013!
 wordpress_id: 2998
-categories:
-- personal
 ---
 
 Für alle, die mein Neujahrsfoto nicht auf totem Holz bekommen haben, hier noch als immersives Panorama:

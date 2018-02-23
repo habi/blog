@@ -1,17 +1,14 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2015-02-03 23:06:32+00:00
-layout: post
+date: 2015-02-03T23:06:32Z
 link: http://habi.gna.ch/2015/02/04/mit-kunst-die-gesellschaft-hacken/
 slug: mit-kunst-die-gesellschaft-hacken
 title: Mit Kunst die Gesellschaft hacken
 wordpress_id: 3827
-categories:
-- personal
 ---
-
-
 
 Der Vortrag des [Zentrums für Politische Schönheit](http://www.politicalbeauty.de/) am [31C3-Kongress](https://events.ccc.de/category/31c3/) ist etwas hin-und-her wirr, mit etwas Second-Screen-Recherche aber gut verfolgbar und macht Lust auf mehr.
 Nachdem ich nämlich obigen Vortrag geschaut habe, frage ich mich schon, ob eine Aktion wie [diese hier](http://www.politicalbeauty.de/25000.html) auch in der Schweiz möglich wäre.

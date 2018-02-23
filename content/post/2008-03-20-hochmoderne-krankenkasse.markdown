@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2008-03-20 17:49:01+00:00
-layout: post
-link: http://habi.gna.ch/2008/03/20/hochmoderne-krankenkasse/
-slug: hochmoderne-krankenkasse
-title: hochmoderne Krankenkasse [with video] [update]
-wordpress_id: 1221
 categories:
 - technospeak
 - tschörman
+comments: true
+date: 2008-03-20T17:49:01Z
+link: http://habi.gna.ch/2008/03/20/hochmoderne-krankenkasse/
+slug: hochmoderne-krankenkasse
 tags:
 - avanex
 - flash
 - krankenkasse
 - screenshot
 - video
+title: hochmoderne Krankenkasse [with video] [update]
+wordpress_id: 1221
 ---
 
 das will mann hochmodern mit seiner krankenkasse kontakt aufnehmen (nachdem deren website mit safari nicht läuft...) und klickt auf den lustigen skype-me-böttön, der da angeboten wird, um mal zu schauen, ob kurz vor ostern noch jemand dort arbeitet. und ist dann doch ein bisschen erstaunt, wer unter der nummer [avanex-agent01](callto://avanex-agent01) [1] antwortet... aber seht, bzw. hört selbst!

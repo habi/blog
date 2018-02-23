@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2013-11-05 07:33:28+00:00
-layout: post
+date: 2013-11-05T07:33:28Z
 link: http://habi.gna.ch/2013/11/05/zmorge-am-see/
 slug: zmorge-am-see
 title: Zmorge am See
 wordpress_id: 3244
-categories:
-- personal
 ---
 
 [![Zmorge am See by habi](http://farm4.staticflickr.com/3716/10686102943_5d210a943c.jpg)](http://www.flickr.com/photos/habi/10686102943/)  

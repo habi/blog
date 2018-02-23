@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- fun
+- tschörman
 comments: true
-date: 2006-09-28 22:06:13+00:00
-layout: post
+date: 2006-09-28T22:06:13Z
 link: http://habi.gna.ch/2006/09/29/werbung-sollte-gegengelesen-werden/
 slug: werbung-sollte-gegengelesen-werden
 title: werbung sollte gegengelesen werden
 wordpress_id: 793
-categories:
-- fun
-- tschörman
 ---
 
 da sollte man doch meinen, dass die directories genug geld haben um sich ein lektorat für die werbe-sms zu leisten, und nun dies:

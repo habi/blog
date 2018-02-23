@@ -1,14 +1,13 @@
 ---
 author: admin
-comments: true
-date: 2004-03-20 23:18:32+00:00
-layout: post
-link: http://habi.gna.ch/2004/03/21/there-was-quite-a-lot-of-em/
-slug: there-was-quite-a-lot-of-em
-title: there was quite a lot of 'em
-wordpress_id: 473
 categories:
 - none
+comments: true
+date: 2004-03-20T23:18:32Z
+link: http://habi.gna.ch/2004/03/21/there-was-quite-a-lot-of-em/
+slug: there-was-quite-a-lot-of-em
+title: there was quite a lot of "em
+wordpress_id: 473
 ---
 
 it was not like you will read in the newspaper today!
@@ -25,7 +24,7 @@ that's what they say and what it was like:
 
 
 
-<blockquote>Nach Auflosung des Abendspaziergangs kam es im Bollwerk zu unnotigen Scharmutzeln. Vereinzelte Demonstrierende liessen sich auf das von der Polizei provozierte Spiel ein. Das ist nicht in unserem Sinn: Wir wollen Inhalte vermitteln - und werden dies auch in Zukunft tun.</blockquote>
+<blockquote>Nach Auflösung des Abendspaziergangs kam es im Bollwerk zu unnötigen Scharmützeln. Vereinzelte Demonstrierende liessen sich auf das von der Polizei provozierte Spiel ein. Das ist nicht in unserem Sinn: Wir wollen Inhalte vermitteln - und werden dies auch in Zukunft tun.</blockquote>
 
 
 

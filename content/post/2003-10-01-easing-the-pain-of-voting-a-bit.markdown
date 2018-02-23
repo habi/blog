@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-01 19:38:40+00:00
-layout: post
+date: 2003-10-01T19:38:40Z
 link: http://habi.gna.ch/2003/10/01/easing-the-pain-of-voting-a-bit/
 slug: easing-the-pain-of-voting-a-bit
 title: easing the pain of voting a bit
 wordpress_id: 288
-categories:
-- none
 ---
 
 [Smartvote](http://www.smartvote.ch/)1 seems like a good approach to the [upcoming parliament elections](http://www.admin.ch/ch/d/pore/nrw03/) here in [switzerland](http://ch.ch/) because it helps you narrow down your possible candidates to elect.

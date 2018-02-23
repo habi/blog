@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-03 20:39:03+00:00
-layout: post
+date: 2004-01-03T20:39:03Z
 link: http://habi.gna.ch/2004/01/03/call-me-impulsive/
 slug: call-me-impulsive
 title: call me impulsive!
 wordpress_id: 391
-categories:
-- none
 ---
 
 guess who is [sxe](http://www.ricardo.ch/cgi-bin/auk?lng=de;cmd=viewlot;lotid=308357235) :-)

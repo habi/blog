@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- apple
 comments: true
-date: 2005-01-31 19:19:23+00:00
-layout: post
+date: 2005-01-31T19:19:23Z
 link: http://habi.gna.ch/2005/01/31/whoah/
 slug: whoah
 title: whoah!
 wordpress_id: 725
-categories:
-- apple
 ---
-
 
 i just bought a [power mac](http://www.ricardo.ch/cgi-bin/auk?cmd=viewlot&lotid=346835423) :-) i've been bidding on it, because i thought, that's such a cheap prize that i'm never gonna win and was not really inclined to buy it.
   

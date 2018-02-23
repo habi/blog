@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2004-08-30 17:41:37+00:00
-layout: post
+date: 2004-08-30T17:41:37Z
 link: http://habi.gna.ch/2004/08/30/update-the-fate-of-a-geek/
 slug: update-the-fate-of-a-geek
 title: '[update] the fate of a geek'
 wordpress_id: 605
-categories:
-- personal
 ---
 
 [franziska](http://www.foto-ff.com/) informed me that i got the job, so i'll be featured in a campaign of postfinance.

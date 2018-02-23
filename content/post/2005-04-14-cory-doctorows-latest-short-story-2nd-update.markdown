@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2005-04-14 22:00:01+00:00
-layout: post
+date: 2005-04-14T22:00:01Z
 link: http://habi.gna.ch/2005/04/15/cory-doctorows-latest-short-story-2nd-update/
 slug: cory-doctorows-latest-short-story-2nd-update
 title: cory doctorows latest short story [2nd update]
 wordpress_id: 766
-categories:
-- personal
 ---
-
 
 cory doctorow (of [boingboing-fame](http://boingboing.net/)) released a short story called [i, robot](http://www.boingboing.net/2005/02/16/corys_latest_short_s.html). since i like reading stuff on my clie while on the train or so i made a palm-doc file of the story.
   

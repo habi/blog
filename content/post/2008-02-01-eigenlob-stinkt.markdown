@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2008-02-01 16:01:07+00:00
-layout: post
-link: http://habi.gna.ch/2008/02/01/eigenlob-stinkt/
-slug: eigenlob-stinkt
-title: (Eigen)lob stinkt
-wordpress_id: 1168
 categories:
 - personal
 - technospeak
 - tschörman
+comments: true
+date: 2008-02-01T16:01:07Z
+link: http://habi.gna.ch/2008/02/01/eigenlob-stinkt/
+slug: eigenlob-stinkt
+title: (Eigen)lob stinkt
+wordpress_id: 1168
 ---
 
 Die letzten beiden Woche war ich ziemlich beschäftigt, erst ein Poster gezeigt, am [CIMST-Symposium](http://habi.gna.ch/2008/01/22/cimst-symposium/), dann ein zweiwöchiger Blockkurs an der ETH, gestern das [2nd Graduate School Students' Symposium](http://www.gcb.unibe.ch/lenya/gcb/live/News.html), wo ich das Poster nochmals gezeigt habe, dann heute morgen Abschluss des Blockkurses in Zürich und direkt anschliessend daran einen Vortrag vor dem Institut, am sogenannten Tag der Anatomie. Da ist es doch schön zu hören, wenn einer der Zuhörenden anschliessend sagt: "You've got amazing presentation skills".

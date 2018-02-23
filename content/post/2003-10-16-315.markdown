@@ -1,14 +1,13 @@
 ---
 author: admin
-comments: true
-date: 2003-10-16 19:35:56+00:00
-layout: post
-link: http://habi.gna.ch/2003/10/16/315/
-slug: '315'
-title: ???
-wordpress_id: 315
 categories:
 - none
+comments: true
+date: 2003-10-16T19:35:56Z
+link: http://habi.gna.ch/2003/10/16/315/
+slug: "315"
+title: ???
+wordpress_id: 315
 ---
 
 if you guess right on what i'm working at the moment, then i pay you a beer next time i see you:

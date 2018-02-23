@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
 comments: true
-date: 2006-03-22 20:54:41+00:00
-layout: post
+date: 2006-03-22T20:54:41Z
 link: http://habi.gna.ch/2006/03/22/bob-is-bloggin/
 slug: bob-is-bloggin
 title: bob is bloggin!
 wordpress_id: 145
-categories:
-- linkdump
 ---
-
 
 [![Weeblblog](http://habi.gna.ch/blog/images/weeblblog-tm.jpg)](http://habi.gna.ch/blog/images/weeblblog.jpg)look who's got himself a new blog!
   

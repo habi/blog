@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-20 16:44:20+00:00
-layout: post
+date: 2003-12-20T16:44:20Z
 link: http://habi.gna.ch/2003/12/20/fun-link/
 slug: fun-link
 title: fun link
 wordpress_id: 384
-categories:
-- none
 ---
 
 call my humor a bit depraved, but i think the movies on [rathergood](http://www.rathergood.com/) are rather good!

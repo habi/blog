@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
+- personal
 comments: true
-date: 2003-07-29 18:08:50+00:00
-layout: post
+date: 2003-07-29T18:08:50Z
 link: http://habi.gna.ch/2003/07/29/filewilecom-on-telly/
 slug: filewilecom-on-telly
 title: filewile.com on telly
 wordpress_id: 240
-categories:
-- linkdump
-- personal
 ---
 
 I'm becoming a [superstar](http://habi.gna.ch/blog/archives/000011.html) more and more :-)

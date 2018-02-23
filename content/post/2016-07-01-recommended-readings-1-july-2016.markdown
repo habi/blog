@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2016-07-01 20:05:07+00:00
-layout: post
-link: http://habi.gna.ch/2016/07/01/recommended-readings-1-july-2016/
-slug: recommended-readings-1-july-2016
-title: 'Recommended readings: 1. July 2016'
-wordpress_id: 4526
 categories:
 - linkdump
+comments: true
+date: 2016-07-01T20:05:07Z
+link: http://habi.gna.ch/2016/07/01/recommended-readings-1-july-2016/
+slug: recommended-readings-1-july-2016
 tags:
 - instapaper
+title: 'Recommended readings: 1. July 2016'
+wordpress_id: 4526
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

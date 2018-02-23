@@ -1,17 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
 comments: true
-date: 2006-04-03 17:33:54+00:00
-layout: post
+date: 2006-04-03T17:33:54Z
 link: http://habi.gna.ch/2006/04/03/does-your-weblog-own-you/
 slug: does-your-weblog-own-you
 title: does your weblog own you?
 wordpress_id: 152
-categories:
-- linkdump
 ---
-
-  
 
 <table cellpadding="0" width="320" cellspacing="0" border="1" bgcolor="#003060" ><tr >
 <td width="60" bgcolor="#FF6800" >18.75 %

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2011-03-15 13:54:39+00:00
-layout: post
+date: 2011-03-15T13:54:39Z
 link: http://habi.gna.ch/2011/03/15/roman-signer-point/
 slug: roman-signer-point
 title: 'Roman Signer: Point'
 wordpress_id: 2409
-categories:
-- personal
 ---
 
 Seit ich etwa im 2004 in der [Lokremise](http://www.lokremise.ch/) eine [Roman Signer](http://www.romansigner.ch/) Retrospektive gesehen habe, inspiriert mich seine Kunst immer wieder und regt meine Schmunzel-Muskeln an. Das unten eingebundene Video der  Installation/Intervention "Point" ist mir letzhin unter die Maus gekommen; ich finde sie einfach nur grandios.

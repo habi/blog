@@ -1,18 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2006-02-21 20:41:13+00:00
-layout: post
-link: http://habi.gna.ch/2006/02/21/the-sound-of-traffic-update/
-slug: the-sound-of-traffic-update
-title: the sound of traffic [update]
-wordpress_id: 137
 categories:
 - gadgets and gizmos
 - linkdump
 - music
+comments: true
+date: 2006-02-21T20:41:13Z
+link: http://habi.gna.ch/2006/02/21/the-sound-of-traffic-update/
+slug: the-sound-of-traffic-update
+title: the sound of traffic [update]
+wordpress_id: 137
 ---
-
 
 [![Soundoftraffic](http://habi.gna.ch/blog/images/soundoftraffic-tm.jpg)](http://habi.gna.ch/blog/images/soundoftraffic.jpg)it's been quite a long time since i've posted something about new software additions to my mac. [this app](http://www.smokinggun.com/projects/soundoftraffic/) here is actually completely useless, but nonetheless it's been running since half an hour.
   

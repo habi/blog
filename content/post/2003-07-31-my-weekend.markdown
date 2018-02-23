@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-07-31 11:49:18+00:00
-layout: post
+date: 2003-07-31T11:49:18Z
 link: http://habi.gna.ch/2003/07/31/my-weekend/
 slug: my-weekend
 title: my weekend
 wordpress_id: 244
-categories:
-- none
 ---
 
 i'm gonna be in [silvaplana](http://www.silvaplana.ch/) at the lake this weekend.

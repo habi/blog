@@ -1,20 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2007-02-23 19:32:40+00:00
-layout: post
-link: http://habi.gna.ch/2007/02/23/foto-automat-error-im-migros/
-slug: foto-automat-error-im-migros
-title: foto-automat-error im migros
-wordpress_id: 872
 categories:
 - gadgets and gizmos
 - moblog
 - technospeak
+comments: true
+date: 2007-02-23T19:32:40Z
+link: http://habi.gna.ch/2007/02/23/foto-automat-error-im-migros/
+slug: foto-automat-error-im-migros
+title: foto-automat-error im migros
+wordpress_id: 872
 ---
 
-
- [![](http://farm1.static.flickr.com/188/400017499_49e506c2a7_m.jpg)](http://www.flickr.com/photos/habi/400017499/)
+[![](http://farm1.static.flickr.com/188/400017499_49e506c2a7_m.jpg)](http://www.flickr.com/photos/habi/400017499/)
    
 
  

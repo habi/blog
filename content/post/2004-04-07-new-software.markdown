@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-04-07 21:33:38+00:00
-layout: post
+date: 2004-04-07T21:33:38Z
 link: http://habi.gna.ch/2004/04/07/new-software/
 slug: new-software
 title: new software
 wordpress_id: 495
-categories:
-- none
 ---
 
 those of you of which english is not your maternal language have probably used a bunch of translation services on the net or use a dictionary from time to time to look up unknown words.
@@ -25,7 +24,7 @@ and the best thing is, that the software is a mere 156kb big. i thought i'd neve
 the second software i installed in the last few days is [quicksilver](http://blacktree.com/apps/quicksilver/) ([the new gunslinger](http://whatdoiknow.org/archives/001601.shtml), i just love that quote!).
 i've never got the hang of [launchbar](http://www.obdev.at/products/launchbar/) et.al. although a lot of people praise that kind of software to high heavens. but some days ago i stumbled over [this post on mactechnews.de](http://www.mactechnews.de/index.php?id=6168) praising quicksilver as the ultimate power-tool for os x. and i have to say, since i installed it i hardly can work at any mac without it, it's so amazingly cool.
 let's say i want to email a file to someone i know: up to now i switched to my finder, navigated about three hundred folders down into my hierarchy, then grabbed that file, dragged it to the mail icon in the dock, inserted the name of the recipient and then was able to write my text. time: 25 seconds (or so..).
-now i just press command+space, type the name of the file, press tab, write email, press tab, and write the name of the recipient. mail fires up with the desired file in a new email to the desired person. voila. time: 3 seconds.
+now i just press command+space, type the name of the file, press tab, write email, press tab, and write the name of the recipient. mail fires up with the desired file in a new email to the desired person. voilà. time: 3 seconds.
 but that's not all. need to fire up that certain application buried deep inside your structure? (like [seti@home](http://setiathome.berkeley.edu/) on my ibook, it's buried inside /applications/netz/distributed/seti@home). just press command+space, type stihme (which stands for **s**e**ti**at**h**o**me**: quicksilver works with any consecutive letter in the filename) and press enter. voila.
 
 [![qs_kurier](http://habi.gna.ch/blog/images/qs_kurier-tm.jpg)](http://habi.gna.ch/blog/images/qs_kurier.jpg)or, do you want to look up that phone-number of someone? again, command+space, type in the name of that person, press left, select the desired number and press enter. and the number is there, in shiny big letters on top of my windows (with the number at work done on the left, not that i'd forget that one, but i thought none of my friends would be happy if i post their phone-number on the web :-). hundred times faster than starting the address book, scrolling to the k or typing in "kurier" in the search boy and then squinting at the tiny phone-number.

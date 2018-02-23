@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- bike
+- pictures
 comments: true
-date: 2004-08-25 18:30:18+00:00
-layout: post
+date: 2004-08-25T18:30:18Z
 link: http://habi.gna.ch/2004/08/25/i-has-got-me-a-new-bike/
 slug: i-has-got-me-a-new-bike
 title: i has got me a new bike
 wordpress_id: 600
-categories:
-- bike
-- pictures
 ---
 
 this morning i went to finish my latest addition to the pool of bikes i own.

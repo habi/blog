@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- tschörman
 comments: true
-date: 2007-05-15 17:02:40+00:00
-layout: post
+date: 2007-05-15T17:02:40Z
 link: http://habi.gna.ch/2007/05/15/galerieartspace-milieu/
 slug: galerieartspace-milieu
 title: Galerie/Artspace MILIEU
 wordpress_id: 943
-categories:
-- personal
-- tschörman
 ---
 
 [![Milieu Opening](http://habi.gna.ch/wp-content/uploads/2007/05/milieu-opening-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/05/milieu-opening.jpg)nicola (sowie remy und die beiden jungs von [yuhzimi](http://www.yuhzimi.com/)) gibt gas, nachdem die [stühle](http://habi.gna.ch/2007/03/22/foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks/) online sind, wird nun eine galerie eröffnet!

@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2015-06-01 20:29:12+00:00
-layout: post
-link: http://habi.gna.ch/2015/06/01/big-wide-world/
-slug: big-wide-world
-title: Big Wide World
-wordpress_id: 3941
 categories:
 - photos
+comments: true
+date: 2015-06-01T20:29:12Z
+link: http://habi.gna.ch/2015/06/01/big-wide-world/
+slug: big-wide-world
 tags:
 - big wide world
 - hugin
 - mark
 - panoramas
 - photos
+title: Big Wide World
+wordpress_id: 3941
 ---
 
 Mein Freund [Mark](http://permanenttourist.ch/) macht nicht nur tolle Fotos, sondern kann auch prima programmieren. Vor einiger Zeit hat er mich gefragt, ob ich bei einem seiner Projekte mitmachen möchte. In [seinem Blog-post](http://permanenttourist.ch/2015/05/big-wide-world-new-photo-website-online/) schreibt Mark bescheiden davon, dass es einige Zeit dauerte, bis “the design and programming” fertig waren und wir stolz auf unseren Effort seien.
@@ -41,7 +40,7 @@ Wir freuen uns über zahlreiche Mit-Betrachterinnen und Kommentare!
 
 
   1. 
-Normalerweise mit [hugin](http://hugin.sf.net). Da Apple das Fotoprogramm meiner Wahl (Aperture) nicht mehr weiterentwickelt, werde ich nächster Zeit wahrscheinlich auf [Lightroom](https://lightroom.adobe.com) wechseln, das kann das auch für einfache Panoramas [auch von Haus aus](https://www.youtube.com/watch?v=qy_HDGx3nWs). ↩
+Normalerweise mit [hugin](http://hugin.sf.net). Da Apple das Fotoprogramm meiner Wahl (Aperture) nicht mehr weiterentwickelt, werde ich nächster Zeit wahrscheinlich auf [Lightroom](https://lightroom.adobe.com) wechseln, das kann das auch für einfache Panoramas [auch von Haus aus](https://www.youtube.com/watch?v=qy_HDGx3nWs).  
 
 
 

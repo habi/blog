@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- gadgets and gizmos
+- technospeak
 comments: true
-date: 2007-03-22 20:36:23+00:00
-layout: post
+date: 2007-03-22T20:36:23Z
 link: http://habi.gna.ch/2007/03/22/new-mobile-phone/
 slug: new-mobile-phone
 title: new mobile phone
 wordpress_id: 894
-categories:
-- gadgets and gizmos
-- technospeak
 ---
 
 i has got me a [new mobile phone](http://images.google.com/images?q=k610i&ie=UTF-8&oe=UTF-8). it is supposed to be able to do video calls via UMTS. the person in the sunrise-shop that sold me the phone told me that it is possible to make videocalls between all the swiss providers, but contrary to that it doesn't work. i know three people with an UMTS-video-enabled mobile phone, and none of them is provided by sunrise.

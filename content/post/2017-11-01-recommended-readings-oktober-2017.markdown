@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2017-11-01 21:50:35+00:00
-layout: post
-link: http://habi.gna.ch/2017/11/01/recommended-readings-oktober-2017/
-slug: recommended-readings-oktober-2017
-title: 'Recommended readings: Oktober 2017'
-wordpress_id: 5215
 categories:
 - linkdump
 - personal
+comments: true
+date: 2017-11-01T21:50:35Z
+link: http://habi.gna.ch/2017/11/01/recommended-readings-oktober-2017/
+slug: recommended-readings-oktober-2017
 tags:
 - monthly readings
 - readings
 - recommended readings
+title: 'Recommended readings: Oktober 2017'
+wordpress_id: 5215
 ---
 
 Dank [minimalen Änderungen](https://github.com/habi/pinboard-angelesen/commit/66422061c922cb2ae8cc71a476bf7f478d40e58e) an [Bastians Skript](https://github.com/dasrecht/pinboard-angelesen) muss ich nun noch weniger copy-pasten, so flutschen die ['Recommended Readings'](http://habi.gna.ch/category/linkdump/) noch einfacher aus der Feder.

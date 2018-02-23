@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2010-02-02 18:48:27+00:00
-layout: post
-link: http://habi.gna.ch/2010/02/02/elektronischer-abfallkalender-bern-2010-fur-alle-kreise/
-slug: elektronischer-abfallkalender-bern-2010-fur-alle-kreise
-title: elektronischer Abfallkalender Bern 2010 für alle Kreise
-wordpress_id: 2034
 categories:
 - personal
 - switzerland
 - tschörman
+comments: true
+date: 2010-02-02T18:48:27Z
+link: http://habi.gna.ch/2010/02/02/elektronischer-abfallkalender-bern-2010-fur-alle-kreise/
+slug: elektronischer-abfallkalender-bern-2010-fur-alle-kreise
 tags:
 - abfall
 - bern
 - calendar
 - google
+title: elektronischer Abfallkalender Bern 2010 für alle Kreise
+wordpress_id: 2034
 ---
 
 Gestern Abend am [BLGMNDYBRN-Rauschdichten-Special](http://blgmndybrn.ch/?p=58) im [MusigBistrot](http://musigbistrot.ch/) hat sich [Frau Chnübler](http://www.chliitierchnuebler.ch/) beschwert, dass sie neuerdings nicht mehr wisse, wann sie ihr gebündeltes Papier auf die Strasse stellen solle, seit mein Kalender, den ich [letzes Jahr](http://habi.gna.ch/2009/01/06/abfallkalender-bern-2009-fur-kreis-b/) veröffentlicht habe, abgelaufen ist.

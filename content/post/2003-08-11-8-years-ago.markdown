@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-08-11 12:57:17+00:00
-layout: post
+date: 2003-08-11T12:57:17Z
 link: http://habi.gna.ch/2003/08/11/8-years-ago/
 slug: 8-years-ago
 title: 8 years ago
 wordpress_id: 257
-categories:
-- none
 ---
 
 8 years ago this week, [Microsoft](http://www.microsoft.com/) launched the war between the browsers (was there any other than netscape back then) with the release of the first version of the [Internet Explorer](http://www.microsoft.com/windows/ie/).  

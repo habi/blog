@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- apple
+- linkdump
 comments: true
-date: 2003-11-24 22:20:59+00:00
-layout: post
+date: 2003-11-24T22:20:59Z
 link: http://habi.gna.ch/2003/11/25/the-little-dirty-secret/
 slug: the-little-dirty-secret
 title: the little dirty secret
 wordpress_id: 358
-categories:
-- apple
-- linkdump
 ---
 
 learn more about the [ipod's dirty little secret](http://www.ipodsdirtysecret.com/).

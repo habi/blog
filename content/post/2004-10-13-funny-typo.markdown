@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-10-13 22:15:54+00:00
-layout: post
+date: 2004-10-13T22:15:54Z
 link: http://habi.gna.ch/2004/10/14/funny-typo/
 slug: funny-typo
 title: funny typo
 wordpress_id: 647
-categories:
-- none
 ---
 
 i think dell has a really bad lectorer.

@@ -1,19 +1,17 @@
 ---
 author: admin
+categories:
+- memes
+- personal
 comments: true
-date: 2006-03-13 21:26:23+00:00
-layout: post
+date: 2006-03-13T21:26:23Z
 link: http://habi.gna.ch/2006/03/13/4er-stckchen/
 slug: 4er-stckchen
 title: 4er stöckchen
 wordpress_id: 142
-categories:
-- memes
-- personal
 ---
 
-
-pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stockchen/), heute abend komm ich auch noch dazu, mir was dazu zu uberlegen:
+pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stockchen/), heute abend komm ich auch noch dazu, mir was dazu zu überlegen:
 
 
 
@@ -21,7 +19,7 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
   
 - IT-Supporter bei der Swisscom
   
-- Regalauffuller beim Coop
+- Regalauffüller beim Coop
   
 - Physiklehrer
   
@@ -51,7 +49,7 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
   
 - Mailand
   
-- Munsingen
+- Münsingen
   
 - Bern
   
@@ -59,7 +57,7 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
 
 
 
-**4 TV Serien die ich gerne sehe **(aber mir ausser fur lost nie zeit dafur nehme...)**:**
+**4 TV Serien die ich gerne sehe **(aber mir ausser für lost nie zeit dafür nehme...)**:**
   
 - [Lost](http://www.torrentspy.com/directory.asp?mode=sub&id=303)
   
@@ -89,15 +87,15 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
   
 - Curries
   
-- Hornli mit Brosmeli von [Gosi](http://flickr.com/photos/habi/71188032/)
+- Hörnli mit Brösmeli von [Gosi](http://flickr.com/photos/habi/71188032/)
   
 - alles ohne Blumenkohl und Fenchel von Regine
 
 
 
-**139 Webseiten die ich taglich besuche:**
+**139 Webseiten die ich täglich besuche:**
   
-- [meine feeds](http://habi.gna.ch/MySubscriptions.opml) und ein paar zerdruckte, namlich
+- [meine feeds](http://habi.gna.ch/MySubscriptions.opml) und ein paar zerdrückte, nämlich
   
 - google
   
@@ -107,7 +105,7 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
 
 
 
-**4 Platze, wo ich gerne im Augenblick sein mochte**
+**4 Plätze, wo ich gerne im Augenblick sein möchte**
   
 - bei Ihr
   
@@ -115,13 +113,13 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
   
 - im Bett
   
-- aufm [Popocatepetl](http://images.google.com/images?hl=en&client=safari&rls=en&q=Popocatepetl&spell=1&sa=N&tab=wi) oder in der [Atacama](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=Atacama&btnG=Search)-Wuste, oder am [Titicacasee](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=titicaca&btnG=Search) (der war fur [Wolf](http://flickr.com/photos/habi/tags/wolf/))
+- aufm [Popocatepetl](http://images.google.com/images?hl=en&client=safari&rls=en&q=Popocatepetl&spell=1&sa=N&tab=wi) oder in der [Atacama](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=Atacama&btnG=Search)-Wüste, oder am [Titicacasee](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=titicaca&btnG=Search) (der war für [Wolf](http://flickr.com/photos/habi/tags/wolf/))
 
 
 
-**4 Blogger die das mitmachen sollen / durfen:**
+**4 Blogger die das mitmachen sollen / dürfen:**
   
-- [Sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html), damit er endlich sein [blog](http://sigi.freeflux.net/) richtig eroffnet
+- [Sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html), damit er endlich sein [blog](http://sigi.freeflux.net/) richtig eröffnet
   
 - [Jan](http://pieceoplastic.com/), damit ich endlich weiss, was er mal alles gearbeitet hat
   
@@ -133,4 +131,4 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
 
 
 
-technorati tags: [meme](http://www.technorati.com/tag/meme), [showandtell](http://www.technorati.com/tag/showandtell), [sigi](http://www.technorati.com/tag/sigi), [stockchen](http://www.technorati.com/tag/stöckchen)
+technorati tags: [meme](http://www.technorati.com/tag/meme), [showandtell](http://www.technorati.com/tag/showandtell), [sigi](http://www.technorati.com/tag/sigi), [stöckchen](http://www.technorati.com/tag/stöckchen)

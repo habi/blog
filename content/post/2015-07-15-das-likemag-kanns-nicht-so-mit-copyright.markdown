@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2015-07-15 15:08:16+00:00
-layout: post
-link: http://habi.gna.ch/2015/07/15/das-likemag-kanns-nicht-so-mit-copyright/
-slug: das-likemag-kanns-nicht-so-mit-copyright
-title: Das LikeMag kann's nicht so mit Copyright
-wordpress_id: 3982
 categories:
 - personal
+comments: true
+date: 2015-07-15T15:08:16Z
+link: http://habi.gna.ch/2015/07/15/das-likemag-kanns-nicht-so-mit-copyright/
+slug: das-likemag-kanns-nicht-so-mit-copyright
 tags:
 - copyright
 - creative commons
 - like mag
+title: Das LikeMag kann"s nicht so mit Copyright
+wordpress_id: 3982
 ---
 
 Ich bin eigentlich resistent gegen Click-Bait, aber die Links, die Mark vertwittert, schau ich mir amigs schon an. Letzhin hat er einen Link auf das LikeMag geteilt.

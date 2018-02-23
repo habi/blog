@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2005-05-29 22:19:55+00:00
-layout: post
+date: 2005-05-29T22:19:55Z
 link: http://habi.gna.ch/2005/05/30/picture-of-the-week-21/
 slug: picture-of-the-week-21
 title: picture of the week 21
 wordpress_id: 18
-categories:
-- picture of the week
 ---
-
 
 summer is here: we were having a little boat trip down the aare, passing [heavy waves](http://map.search.ch/thun?x=-1947&y=-3190&z=512), hanging around from [bridges](http://map.search.ch/thun?x=-2443&y=-4689&z=512) and then [chillaxing](http://www.boingboing.net/2005/05/29/w00t_is_a_favored_no.html) in the [eichholz](http://map.search.ch/thun?x=-15848&y=-25354&z=1024&e=1).
   

@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-11-28 21:46:07+00:00
-layout: post
+date: 2004-11-28T21:46:07Z
 link: http://habi.gna.ch/2004/11/28/no-million/
 slug: no-million
 title: no million
 wordpress_id: 682
-categories:
-- none
 ---
-
 
 just a short blurb to inform you: i didn't [win a million](http://habi.gna.ch/blog/archives/000477.html), it was [someone else](http://ch.tilllate.com/DE/picpage.php?gid=144500&fid=1671674).
   

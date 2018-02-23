@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- music
 comments: true
-date: 2004-04-13 08:41:09+00:00
-layout: post
+date: 2004-04-13T08:41:09Z
 link: http://habi.gna.ch/2004/04/13/new-filewile-track/
 slug: new-filewile-track
 title: new filewile-track
 wordpress_id: 498
-categories:
-- music
 ---
 
 coming home. checking mail. getting 29 spam emails while being offline for only 4 days. 

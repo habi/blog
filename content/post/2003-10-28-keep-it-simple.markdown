@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-28 21:36:29+00:00
-layout: post
+date: 2003-10-28T21:36:29Z
 link: http://habi.gna.ch/2003/10/28/keep-it-simple/
 slug: keep-it-simple
 title: keep it simple
 wordpress_id: 328
-categories:
-- none
 ---
 
 do you remember [the movies i made last friday](http://habi.gna.ch/blog/archives/000104.html)? i've been fooling around with 'em in [imovie](http://www.apple.com/imovie/) and must say that this app is quite straight-forward (as soon as you figure out how to import the sound from non-standard-mpegs which my camera produces).

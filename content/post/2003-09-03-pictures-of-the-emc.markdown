@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-09-03 23:04:38+00:00
-layout: post
+date: 2003-09-03T23:04:38Z
 link: http://habi.gna.ch/2003/09/04/pictures-of-the-emc/
 slug: pictures-of-the-emc
 title: Pictures of the EMC
 wordpress_id: 269
-categories:
-- none
 ---
 
 the pictures i made in Millau at the [Swimming Championsship](http://www.ffnatation.org/events/mtr_millau_2003/millau.php?idlng=gbr&idrub=acc&idact=hom) are [online here](http://habi.gna.ch/pics/Millau/).

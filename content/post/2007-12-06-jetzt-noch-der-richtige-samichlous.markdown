@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2007-12-06 20:33:58+00:00
-layout: post
+date: 2007-12-06T20:33:58Z
 link: http://habi.gna.ch/2007/12/06/jetzt-noch-der-richtige-samichlous/
 slug: jetzt-noch-der-richtige-samichlous
 title: Jetzt noch der richtige Samichlous
 wordpress_id: 1083
-categories:
-- none
 ---
 
-
- [![](http://farm3.static.flickr.com/2113/2091966238_c8e582374c_m.jpg)](http://www.flickr.com/photos/habi/2091966238/)
+[![](http://farm3.static.flickr.com/2113/2091966238_c8e582374c_m.jpg)](http://www.flickr.com/photos/habi/2091966238/)
    
 
  

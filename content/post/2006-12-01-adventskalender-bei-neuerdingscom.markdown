@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2006-12-01 10:32:08+00:00
-layout: post
-link: http://habi.gna.ch/2006/12/01/adventskalender-bei-neuerdingscom/
-slug: adventskalender-bei-neuerdingscom
-title: adventskalender bei neuerdings.com
-wordpress_id: 821
 categories:
 - gadgets and gizmos
 - linkdump
 - technospeak
 - tschörman
+comments: true
+date: 2006-12-01T10:32:08Z
+link: http://habi.gna.ch/2006/12/01/adventskalender-bei-neuerdingscom/
+slug: adventskalender-bei-neuerdingscom
+title: adventskalender bei neuerdings.com
+wordpress_id: 821
 ---
 
 [neuerdings.com](http://neuerdings.com/) verschenkt im ganzen dezember [adventskalendermässig](http://neuerdings.com/2006/12/01/der-neuerdings-adventskalender-24-tage-24-gewinne/) tolle gadgets.

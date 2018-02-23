@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- music
 comments: true
-date: 2005-12-07 15:07:44+00:00
-layout: post
+date: 2005-12-07T15:07:44Z
 link: http://habi.gna.ch/2005/12/07/q-unit-in-da-house/
 slug: q-unit-in-da-house
 title: q-unit in da house!
 wordpress_id: 110
-categories:
-- music
 ---
-
 
 [![ Images Qunitsmall](http://habi.gna.ch/blog/images/_images_qunitsmall-tm.jpg)](http://habi.gna.ch/blog/images/_images_qunitsmall.jpg)q-unit is in da house.
   

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-06 14:33:13+00:00
-layout: post
+date: 2004-01-06T14:33:13Z
 link: http://habi.gna.ch/2004/01/06/friend-of-a-friend/
 slug: friend-of-a-friend
 title: friend of a friend
 wordpress_id: 395
-categories:
-- none
 ---
 
 i have to admit, that i slowly start to get the whole thing behind [FOAF](http://www.foaf-project.org/), mostly because i started my journey through the foaf-space againg after reading [B.'s post](http://www.bernhardseefeld.ch/archives/000079.html). 

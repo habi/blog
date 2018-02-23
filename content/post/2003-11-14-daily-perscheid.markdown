@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-11-14 17:23:02+00:00
-layout: post
+date: 2003-11-14T17:23:02Z
 link: http://habi.gna.ch/2003/11/14/daily-perscheid/
 slug: daily-perscheid
 title: daily perscheid
 wordpress_id: 348
-categories:
-- none
 ---
 
 since quite a long time i get some daily comics via mail: [calvin and hobbes ](http://www.ucomics.com/calvinandhobbes/)and [the daily perscheid](http://www.raffiniert.ch/stuff.html).

@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- linkdump
+- pictures
 comments: true
-date: 2006-02-21 21:35:48+00:00
-layout: post
+date: 2006-02-21T21:35:48Z
 link: http://habi.gna.ch/2006/02/21/the-most-important-6-seconds-in-music-history/
 slug: the-most-important-6-seconds-in-music-history
 title: the most important 6 seconds in music history
 wordpress_id: 138
-categories:
-- linkdump
-- pictures
 ---
-
 
 [![Amen Break](http://habi.gna.ch/blog/images/amen_break-tm.jpg)](http://habi.gna.ch/blog/images/amen_break.jpg)since i seem to be in a musical mood, here's another post for sound lovers:
 

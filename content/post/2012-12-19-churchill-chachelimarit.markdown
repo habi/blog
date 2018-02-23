@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2012-12-19 19:43:08+00:00
-layout: post
-link: http://habi.gna.ch/2012/12/19/churchill-chachelimarit/
-slug: churchill-chachelimarit
-title: Churchill - Chachelimärit
-wordpress_id: 2988
 categories:
 - diving
+comments: true
+date: 2012-12-19T19:43:08Z
+link: http://habi.gna.ch/2012/12/19/churchill-chachelimarit/
+slug: churchill-chachelimarit
 tags:
 - chachelimärit
 - churchill
 - diving
 - thunersee
+title: Churchill - Chachelimärit
+wordpress_id: 2988
 ---
 
 Nachdem wir das [letzte Mal](http://habi.gna.ch/2012/01/02/letzter-tauchgang-im-2011/) etwas abkürzen mussten, tauchten Renzo und ich am Sonntag in 45 Minuten die ca. 400 Meter vom Churchill-Denkmal zur Schiffländte in Oberhöfen (inklusive Punktlandung genau am Steg).

@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
 comments: true
-date: 2006-08-08 21:04:13+00:00
-layout: post
+date: 2006-08-08T21:04:13Z
 link: http://habi.gna.ch/2006/08/08/getting-rid-of-comment-spam/
 slug: getting-rid-of-comment-spam
 title: getting rid of comment spam
 wordpress_id: 209
-categories:
-- linkdump
 ---
-
 
 just a quick note to all the [MT](http://www.sixapart.com/movabletype/)-users under my readers: since i've implemented [this anti-spam measure](http://habi.gna.ch/blog/archives/000802.html) a month ago, i've gotten TWO single comment spams. i didn't even bother analyzing them carefully, wether they've been submitted by a robot or a human.
 

@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2014-10-01 19:00:54+00:00
-layout: post
-link: http://habi.gna.ch/2014/10/01/recommended-readings-1-october-2014/
-slug: recommended-readings-1-october-2014
-title: 'Recommended readings: 1. October 2014'
-wordpress_id: 3578
 categories:
 - linkdump
+comments: true
+date: 2014-10-01T19:00:54Z
+link: http://habi.gna.ch/2014/10/01/recommended-readings-1-october-2014/
+slug: recommended-readings-1-october-2014
 tags:
 - instapaper
+title: 'Recommended readings: 1. October 2014'
+wordpress_id: 3578
 ---
 
 Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:

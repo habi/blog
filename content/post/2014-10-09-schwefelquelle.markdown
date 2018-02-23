@@ -1,16 +1,15 @@
 ---
 author: admin
+categories:
+- diving
 comments: true
-date: 2014-10-09 20:21:14+00:00
-layout: post
+date: 2014-10-09T20:21:14Z
 link: http://habi.gna.ch/2014/10/09/schwefelquelle/
+post_format:
+- Video
 slug: schwefelquelle
 title: Schwefelquelle
 wordpress_id: 3591
-categories:
-- diving
-post_format:
-- Video
 ---
 
 Nach ein [paar Jahren](http://habi.gna.ch/2010/05/04/schwefelquelle-31-min-11-m-8/) hab' ich's endlich mal wieder geschafft, bei den Schwefelquellen im Thunersee abzutauchen.

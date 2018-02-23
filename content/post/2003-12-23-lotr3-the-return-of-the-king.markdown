@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-23 13:47:42+00:00
-layout: post
+date: 2003-12-23T13:47:42Z
 link: http://habi.gna.ch/2003/12/23/lotr3-the-return-of-the-king/
 slug: lotr3-the-return-of-the-king
 title: 'lotr3: the return of the king'
 wordpress_id: 385
-categories:
-- none
 ---
 
 sunday evening i went to see [the return of the king](http://www.imdb.com/title/tt0167260/), which was really good.

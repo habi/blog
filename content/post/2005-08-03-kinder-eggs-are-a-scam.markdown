@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- fun
+- personal
 comments: true
-date: 2005-08-03 16:35:20+00:00
-layout: post
+date: 2005-08-03T16:35:20Z
 link: http://habi.gna.ch/2005/08/03/kinder-eggs-are-a-scam/
 slug: kinder-eggs-are-a-scam
 title: kinder eggs are a scam!
 wordpress_id: 54
-categories:
-- fun
-- personal
 ---
-
 
 [![Dsc01118](http://habi.gna.ch/blog/images/DSC01118-tm.jpg)](http://habi.gna.ch/blog/images/DSC01118.jpg)past saturday i went to the migros to buy some stuff for my weekend. and just because we had acute chocolate craving, nina and me bought two [kinder eggs](http://images.google.com/images?q=kinder+egg&ie=UTF-8&oe=UTF-8) at the checkout. when i opened mine back home, i was quite stunned that there was a little car in it (which is not really stunning per se). the car was a [smart forfour](http://images.google.com/images?q=smart+forfour&ie=UTF-8&oe=UTF-8) which consisted of four parts, so it was not even a challenge to put the thing together. since when do they put advertisement into chocolate?
 

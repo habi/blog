@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-01 21:33:26+00:00
-layout: post
+date: 2003-10-01T21:33:26Z
 link: http://habi.gna.ch/2003/10/01/last-entry-for-tonight/
 slug: last-entry-for-tonight
 title: last entry for tonight.
 wordpress_id: 290
-categories:
-- none
 ---
 
 well, this is the fifth entry for tonight, and definitely time to go to bed.

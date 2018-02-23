@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2005-03-20 21:38:55+00:00
-layout: post
+date: 2005-03-20T21:38:55Z
 link: http://habi.gna.ch/2005/03/20/picture-of-the-week-11/
 slug: picture-of-the-week-11
 title: picture of the week 11
 wordpress_id: 750
-categories:
-- picture of the week
 ---
-
 
 i again spent a weekend on the slopes. this time i spent it with some folk from work.
   

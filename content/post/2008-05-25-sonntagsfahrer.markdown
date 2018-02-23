@@ -1,23 +1,22 @@
 ---
 author: admin
-comments: true
-date: 2008-05-25 16:42:55+00:00
-layout: post
-link: http://habi.gna.ch/2008/05/25/sonntagsfahrer/
-slug: sonntagsfahrer
-title: sonntagsfahrer!
-wordpress_id: 1271
 categories:
 - gps
 - personal
 - switzerland
 - tschörman
+comments: true
+date: 2008-05-25T16:42:55Z
+link: http://habi.gna.ch/2008/05/25/sonntagsfahrer/
+slug: sonntagsfahrer
 tags:
 - bike
 - gps
 - murten
 - münchenwiler
 - wedding
+title: sonntagsfahrer!
+wordpress_id: 1271
 ---
 
 heute war mal wieder ein idealer tag für eine kleine velotour. [bruni](http://flickr.com/photos/habi/tags/bruni) hat vorgeschlagen, dass wir das [schloss münchenwiler](http://www.schlossmuenchenwiler.ch/) anschauen, denn im herbst plant er dort 'was grosses [1]. das fährtli war lustig, vor allem, weil wir die rückfahrt von münchenwiler in unter einer stunde reinpressen musste, damit bruni noch rechtzeitig zu seiner znachteinladung kam...

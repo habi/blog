@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-07-07 20:55:29+00:00
-layout: post
+date: 2004-07-07T20:55:29Z
 link: http://habi.gna.ch/2004/07/07/spiderman-2/
 slug: spiderman-2
 title: spiderman 2
 wordpress_id: 577
-categories:
-- none
 ---
 
 thomas allenbach from [the bund](http://www.bund.ch/) wrote a pretty good [review](http://www.bund.ch/artikel_26352.html) of the upcoming movie [spiderman 2](http://imdb.com/title/tt0316654/) (although he managed to call peter parker - who is spiderman - peter barker at least six times and no-one noticed...).

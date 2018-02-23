@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-12-16 22:16:55+00:00
-layout: post
+date: 2004-12-16T22:16:55Z
 link: http://habi.gna.ch/2004/12/17/google-address-book-plugin/
 slug: google-address-book-plugin
 title: google address book plugin
 wordpress_id: 693
-categories:
-- none
 ---
-
 
 if you liked ["my" address book plugin](http://habi.gna.ch/blog/archives/000460.html), then you might dig [this script](http://www.macosxhints.com/article.php?story=20041215134140510) posted on osxhints.com.
   

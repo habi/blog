@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-09-09 20:14:22+00:00
-layout: post
+date: 2004-09-09T20:14:22Z
 link: http://habi.gna.ch/2004/09/09/newsfire-02/
 slug: newsfire-02
 title: newsfire 0.2
 wordpress_id: 612
-categories:
-- none
 ---
 
 [![newsfire](http://habi.gna.ch/blog/images/newsfire-tm.jpg)](http://habi.gna.ch/blog/images/newsfire.jpg)i can hardly remember the last time i blogged about new software i installed on my trusty ibook. now [newsfire 0.2](http://www.newsfirerss.com/) (!) gets the honor to be featured here.

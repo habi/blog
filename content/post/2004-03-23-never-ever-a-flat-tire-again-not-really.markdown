@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-23 19:50:27+00:00
-layout: post
+date: 2004-03-23T19:50:27Z
 link: http://habi.gna.ch/2004/03/23/never-ever-a-flat-tire-again-not-really/
 slug: never-ever-a-flat-tire-again-not-really
 title: never ever a flat tire again? (not really)
 wordpress_id: 475
-categories:
-- none
 ---
 
 [![l_scia040322](http://habi.gna.ch/blog/images/l_scia040322-tm.jpg)](http://habi.gna.ch/blog/images/l_scia040322.jpg)[engadget](http://www.engadget.com/entry/5721628849559352/) pointed out [this device](http://www.jinjapan.org/trends/science/sci040322.html#) installed on a bike. the pump in the hub prevent you from ever having a flat tire again. the problem is, that the tire is not actually refilled when punctured by driving into a splinter, sherds or just too fast over an edge (resulting in a [snakebite](http://66.102.9.104/search?q=cache:1XgAh-oyK2sJ:www.velotique.com/clinic-r.htm+snakebite+double+puncture&hl=en&start=5&ie=UTF-8)) but it designed to prevent the tire getting flat from the "normal" air loss.

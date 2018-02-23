@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-04-09 09:02:27+00:00
-layout: post
+date: 2004-04-09T09:02:27Z
 link: http://habi.gna.ch/2004/04/09/happy-easter/
 slug: happy-easter
 title: happy easter
 wordpress_id: 497
-categories:
-- none
 ---
 
 oh, and by the way, i wish you all a happy easter, i'll be away skiing until monday or tuesday.

@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- personal
+- picture of the week
 comments: true
-date: 2006-01-02 12:36:45+00:00
-layout: post
+date: 2006-01-02T12:36:45Z
 link: http://habi.gna.ch/2006/01/02/picture-of-the-week-52/
 slug: picture-of-the-week-52
 title: picture of the week 52
 wordpress_id: 120
-categories:
-- personal
-- picture of the week
 ---
-
 
 after we had [two performances](http://habi.gna.ch/blog/archives/000705.html) in a row on saturday i drove all the way up to [eywald](http://map.search.ch/eywald?z=64) to our new years eve-party. the conditions on the road were a bit tricky, so i arrived just in time for a toast to the new year.
   

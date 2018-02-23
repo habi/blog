@@ -1,17 +1,14 @@
 ---
 author: admin
-comments: true
-date: 2013-06-24 21:58:18+00:00
-layout: post
-link: http://habi.gna.ch/2013/06/24/ecmc-2013/
-slug: ecmc-2013
-title: ECMC 2013
-wordpress_id: 3131
 categories:
 - movies
 - personal
 - switzerland
 - tschörman
+comments: true
+date: 2013-06-24T21:58:18Z
+link: http://habi.gna.ch/2013/06/24/ecmc-2013/
+slug: ecmc-2013
 tags:
 - bern
 - ecmc
@@ -19,6 +16,8 @@ tags:
 - lorraine
 - movies
 - velocontent
+title: ECMC 2013
+wordpress_id: 3131
 ---
 
 Am letzten Wochenende fanden in Bern die [Europameisterschaften der Velokuriere und Velokurierinnen](http://ecmc2013.ch) statt.

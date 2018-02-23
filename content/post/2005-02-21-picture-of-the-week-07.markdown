@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2005-02-21 21:17:45+00:00
-layout: post
+date: 2005-02-21T21:17:45Z
 link: http://habi.gna.ch/2005/02/21/picture-of-the-week-07/
 slug: picture-of-the-week-07
 title: picture of the week 07
 wordpress_id: 738
-categories:
-- picture of the week
 ---
-
 
 i just can't stop skiing....
   

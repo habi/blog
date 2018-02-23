@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2013-01-07 22:42:26+00:00
-layout: post
-link: http://habi.gna.ch/2013/01/07/2013-pay-it-forward/
-slug: 2013-pay-it-forward
-title: 2013 - Pay it forward
-wordpress_id: 3005
 categories:
 - memes
 - personal
+comments: true
+date: 2013-01-07T22:42:26Z
+link: http://habi.gna.ch/2013/01/07/2013-pay-it-forward/
+slug: 2013-pay-it-forward
 tags:
-- '2013'
+- "2013"
 - meme
+title: 2013 - Pay it forward
+wordpress_id: 3005
 ---
 
 Bastian hat es [vorgemacht](http://blog.dasrecht.net/2013/01/06/2013-pay-it-forward/), bzw. die Idee von [Jrene](http://hellojrene.ch) weiterverbreitet:

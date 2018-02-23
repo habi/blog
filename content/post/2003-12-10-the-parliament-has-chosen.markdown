@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-10 10:54:40+00:00
-layout: post
+date: 2003-12-10T10:54:40Z
 link: http://habi.gna.ch/2003/12/10/the-parliament-has-chosen/
 slug: the-parliament-has-chosen
 title: the parliament has chosen
 wordpress_id: 372
-categories:
-- none
 ---
 
 holy shite!

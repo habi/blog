@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2008-01-14 23:34:06+00:00
-layout: post
-link: http://habi.gna.ch/2008/01/15/skifahren-auf-der-bettmeralp-with-map/
-slug: skifahren-auf-der-bettmeralp-with-map
-title: skifahren auf der bettmeralp [with map]
-wordpress_id: 1140
 categories:
 - gps
 - personal
 - switzerland
 - technospeak
 - tschörman
+comments: true
+date: 2008-01-14T23:34:06Z
+link: http://habi.gna.ch/2008/01/15/skifahren-auf-der-bettmeralp-with-map/
+slug: skifahren-auf-der-bettmeralp-with-map
+title: skifahren auf der bettmeralp [with map]
+wordpress_id: 1140
 ---
 
 [Tracks-2008-01-13-Bettmeralp.gpx](http://habi.gna.ch/wp-content/uploads/2008/01/tracks-2008-01-13-bettmeralp.gpx)  

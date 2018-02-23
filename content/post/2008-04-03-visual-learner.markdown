@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2008-04-03 08:09:25+00:00
-layout: post
+date: 2008-04-03T08:09:25Z
 link: http://habi.gna.ch/2008/04/03/visual-learner/
 slug: visual-learner
 title: Visual Learner
 wordpress_id: 1232
-categories:
-- none
 ---
 
-
- [![](http://farm3.static.flickr.com/2368/2384973876_d62ce28d9e_m.jpg)](http://www.flickr.com/photos/habi/2384973876/)
+[![](http://farm3.static.flickr.com/2368/2384973876_d62ce28d9e_m.jpg)](http://www.flickr.com/photos/habi/2384973876/)
    
 
  

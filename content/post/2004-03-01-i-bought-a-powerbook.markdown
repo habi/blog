@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- gadgets and gizmos
+- music
 comments: true
-date: 2004-03-01 22:13:54+00:00
-layout: post
+date: 2004-03-01T22:13:54Z
 link: http://habi.gna.ch/2004/03/02/i-bought-a-powerbook/
 slug: i-bought-a-powerbook
 title: i bought a powerbook :-)
 wordpress_id: 452
-categories:
-- gadgets and gizmos
-- music
 ---
 
 but it is only made from cardboard :-)

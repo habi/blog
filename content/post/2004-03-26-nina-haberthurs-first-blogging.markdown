@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-26 11:28:52+00:00
-layout: post
+date: 2004-03-26T11:28:52Z
 link: http://habi.gna.ch/2004/03/26/nina-haberthurs-first-blogging/
 slug: nina-haberthurs-first-blogging
 title: nina haberthürs first blogging
 wordpress_id: 481
-categories:
-- none
 ---
 
 My Name is Nina, actually Anina (which is a palindrome ;-)

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- diving
 comments: true
-date: 2004-08-04 13:00:02+00:00
-layout: post
+date: 2004-08-04T13:00:02Z
 link: http://habi.gna.ch/2004/08/04/blog-in-sleep-mode/
 slug: blog-in-sleep-mode
 title: /blog in sleep mode
 wordpress_id: 596
-categories:
-- diving
 ---
 
 there won't be any updates here for at least the next two weeks, because i'm on holidays.

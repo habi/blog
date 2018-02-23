@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-26 22:32:33+00:00
-layout: post
+date: 2003-10-26T22:32:33Z
 link: http://habi.gna.ch/2003/10/27/ego-googling/
 slug: ego-googling
 title: ego-googling
 wordpress_id: 325
-categories:
-- none
 ---
 
 taking a look at the [referers](http://habi.gna.ch/usage/referers.html) to [habi.gna.ch](http://habi.gna.ch/) i found that when you [search for habi](http://www.google.com/search?q=habi&ie=UTF-8&oe=UTF-8) on [google](http://www.google.com/), then you get quite relevant hits:

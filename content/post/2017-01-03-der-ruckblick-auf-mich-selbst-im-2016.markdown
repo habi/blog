@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2017-01-03 21:02:52+00:00
-layout: post
-link: http://habi.gna.ch/2017/01/03/der-ruckblick-auf-mich-selbst-im-2016/
-slug: der-ruckblick-auf-mich-selbst-im-2016
-title: Der Rückblick auf mich selbst im 2016
-wordpress_id: 4899
 categories:
 - personal
+comments: true
+date: 2017-01-03T21:02:52Z
+link: http://habi.gna.ch/2017/01/03/der-ruckblick-auf-mich-selbst-im-2016/
+slug: der-ruckblick-auf-mich-selbst-im-2016
 tags:
 - jahresrückblick
 - jahresrückblick16
+title: Der Rückblick auf mich selbst im 2016
+wordpress_id: 4899
 ---
 
 Hier einer meiner Post zum Jahresrückblick aufs 2016. Die anderen (kommenden) sind unter dem Tag [`jahresrückblick16`](http://habi.gna.ch/tag/jahresruckblick16) zu finden.

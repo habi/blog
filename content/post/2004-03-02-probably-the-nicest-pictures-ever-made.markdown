@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-02 22:25:54+00:00
-layout: post
+date: 2004-03-02T22:25:54Z
 link: http://habi.gna.ch/2004/03/03/probably-the-nicest-pictures-ever-made/
 slug: probably-the-nicest-pictures-ever-made
 title: probably the nicest pictures ever made!
 wordpress_id: 453
-categories:
-- none
 ---
 
 [![](http://habi.gna.ch/blog/images/hn2-tm.jpg)](http://habi.gna.ch/blog/images/hn2.jpg)

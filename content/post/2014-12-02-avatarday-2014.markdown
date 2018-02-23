@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2014-12-02 19:11:40+00:00
-layout: post
-link: http://habi.gna.ch/2014/12/02/avatarday-2014/
-slug: avatarday-2014
-title: AvatarDay 2014
-wordpress_id: 3644
 categories:
 - personal
+comments: true
+date: 2014-12-02T19:11:40Z
+link: http://habi.gna.ch/2014/12/02/avatarday-2014/
+slug: avatarday-2014
 tags:
 - avatarday
 - bern
 - photo
+title: AvatarDay 2014
+wordpress_id: 3644
 ---
 
 Am Samstag fand wieder mal der alljährliche [AvatarDay](http://avatarday.ch/) von und mit Frau [pictura](http://www.pictura.ch) statt. Nachdem ich die letzten paar Jahre immer anderweitig beschäftigt war, hab ich’s mal wieder geschafft, mir ein neues Profilfoto machen zu lassen.

@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- tschörman
 comments: true
-date: 2007-08-08 22:34:23+00:00
-layout: post
+date: 2007-08-08T22:34:23Z
 link: http://habi.gna.ch/2007/08/08/ach-und-ubrigens/
 slug: ach-und-ubrigens
 title: ach und übrigens...
 wordpress_id: 1002
-categories:
-- personal
-- tschörman
 ---
 
 [das](http://habi.gna.ch/2007/08/08/agenturmeldung-20/) war das 1000ste post in diesem kleinen blog auf diesem server...

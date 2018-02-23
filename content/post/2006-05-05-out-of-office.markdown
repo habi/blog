@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2006-05-05 13:08:49+00:00
-layout: post
+date: 2006-05-05T13:08:49Z
 link: http://habi.gna.ch/2006/05/05/out-of-office/
 slug: out-of-office
 title: out of office
 wordpress_id: 167
-categories:
-- personal
 ---
-
 
 [![Sbaw Outofoffice](http://habi.gna.ch/blog/images/sbaw_outofoffice-tm.jpg)](http://habi.gna.ch/blog/images/sbaw_outofoffice.jpg)
 
@@ -18,7 +16,7 @@ categories:
 
 [geduscht](http://swissblogawards.ch/2006/05/05/ohmygod-were-goin/)? check
   
-[zahne geputzt](http://swissblogawards.ch/2006/05/05/ohmygod-were-goin/)? check
+[zähne geputzt](http://swissblogawards.ch/2006/05/05/ohmygod-were-goin/)? check
   
 namensschild? check
   
@@ -26,13 +24,13 @@ kamera dabei? check
   
 notizbuch? check: namics hipster pda, nicht als [einziger](http://flickr.com/photos/digifreax/139829362/)
   
-gepackt fur [morgen](http://schwimmen.dsv.de/Modules/Schedule/Meet.aspx?MeetID=1582006&Lang=de-DE)? leider nein
+gepackt für [morgen](http://schwimmen.dsv.de/Modules/Schedule/Meet.aspx?MeetID=1582006&Lang=de-DE)? leider nein
   
 [velo](http://leo.freeflux.net/blog/archiv/an-den-blog-award-2.html) gesattelt? leider nein:[![Sbaw.Rain](http://habi.gna.ch/blog/images/sbaw.rain-tm.jpg)](http://habi.gna.ch/blog/images/sbaw.rain.jpg)
 
 
 
-hui, und der zug fahr in 20 minuten. jetzt aber ab die post!
+hui, und der zug fähr in 20 minuten. jetzt aber ab die post!
 
 
 

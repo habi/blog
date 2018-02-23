@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2005-10-05 23:44:52+00:00
-layout: post
+date: 2005-10-05T23:44:52Z
 link: http://habi.gna.ch/2005/10/06/my-upcomingorg-events-in-the-sidebar/
 slug: my-upcomingorg-events-in-the-sidebar
 title: my upcoming.org events in the sidebar
 wordpress_id: 82
-categories:
-- technospeak
 ---
-
 
 [![Upcoming Events](http://habi.gna.ch/blog/images/upcoming_events-tm.jpg)](http://habi.gna.ch/blog/images/upcoming_events.jpg)i'm starting to really dig those social web-apps.
   

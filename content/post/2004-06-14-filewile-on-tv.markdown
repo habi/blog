@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
+- music
 comments: true
-date: 2004-06-14 20:39:27+00:00
-layout: post
+date: 2004-06-14T20:39:27Z
 link: http://habi.gna.ch/2004/06/14/filewile-on-tv/
 slug: filewile-on-tv
 title: filewile on tv
 wordpress_id: 556
-categories:
-- linkdump
-- music
 ---
 
 if you'd like to see [filewile](http://www.filewile.com)'s videoclip Chumpnrun, then you got two options:

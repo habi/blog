@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-04-18 17:12:02+00:00
-layout: post
+date: 2004-04-18T17:12:02Z
 link: http://habi.gna.ch/2004/04/18/noooo/
 slug: noooo
 title: noooo!
 wordpress_id: 506
-categories:
-- none
 ---
 
 i just nearly broke my neck.

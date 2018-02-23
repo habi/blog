@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-02-28 11:48:50+00:00
-layout: post
+date: 2010-02-28T11:48:50Z
 link: http://habi.gna.ch/2010/02/28/oschinensee/
 slug: oschinensee
 title: Oeschinensee
 wordpress_id: 2060
-categories:
-- personal
 ---
 
-
- [![](http://farm5.static.flickr.com/4004/4394822088_cba7697723_m.jpg)](http://www.flickr.com/photos/habi/4394822088/)
+[![](http://farm5.static.flickr.com/4004/4394822088_cba7697723_m.jpg)](http://www.flickr.com/photos/habi/4394822088/)
    
 
  

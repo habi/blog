@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2010-05-08 18:43:24+00:00
-layout: post
-link: http://habi.gna.ch/2010/05/08/zeitraffer-rund-um-bern/
-slug: zeitraffer-rund-um-bern
-title: 'Zeitraffer: Rund um Bern [Video]'
-wordpress_id: 2117
 categories:
 - bike
 - gps
 - technospeak
+comments: true
+date: 2010-05-08T18:43:24Z
+link: http://habi.gna.ch/2010/05/08/zeitraffer-rund-um-bern/
+slug: zeitraffer-rund-um-bern
 tags:
 - bike
+title: 'Zeitraffer: Rund um Bern [Video]'
+wordpress_id: 2117
 ---
 
 Mann nehme:
@@ -30,7 +29,7 @@ Mann nehme:
 
 
   
-  * Gummelis
+  * Gümmelis
 
 
   
@@ -68,4 +67,4 @@ Fotos in Quicktime importieren, 6 Bilder pro Sekunde, so dass eine Stunde Velofa
 [
 
 
-Fertig ist das Samschti-Nami-Velofahrtli-Zeitraffer-Filmli.
+Fertig ist das Samschti-Nami-Velofährtli-Zeitraffer-Filmli.

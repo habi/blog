@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2013-10-03 16:46:49+00:00
-layout: post
+date: 2013-10-03T16:46:49Z
 link: http://habi.gna.ch/2013/10/03/comic-sans/
 slug: comic-sans
 title: Comic Sans?!?!?
 wordpress_id: 3226
-categories:
-- personal
 ---
 
 [![Comic Sans? by habi](http://farm4.staticflickr.com/3798/10071821166_62ec4f5912.jpg)](http://www.flickr.com/photos/habi/10071821166/)  

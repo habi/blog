@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-22 19:28:50+00:00
-layout: post
+date: 2003-10-22T19:28:50Z
 link: http://habi.gna.ch/2003/10/22/improving-safari/
 slug: improving-safari
 title: improving safari
 wordpress_id: 320
-categories:
-- none
 ---
 
 ever wanted to surf full-screen with all the screen-estate you can afford using [safari](http://www.apple.com/safari/) (like [opera](http://www.opera.com/) can do)?

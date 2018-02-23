@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-05-20 10:47:11+00:00
-layout: post
+date: 2004-05-20T10:47:11Z
 link: http://habi.gna.ch/2004/05/20/handy-dandy/
 slug: handy-dandy
 title: handy dandy!
 wordpress_id: 537
-categories:
-- none
 ---
 
 after submitting a comment spam to the MT-Blacklist, i stopped by at [jayallens blog](http://www.jayallen.org/comment_spam/), and found an interesting link.

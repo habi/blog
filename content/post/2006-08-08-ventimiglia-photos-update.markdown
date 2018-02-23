@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- pictures
 comments: true
-date: 2006-08-08 19:49:10+00:00
-layout: post
+date: 2006-08-08T19:49:10Z
 link: http://habi.gna.ch/2006/08/08/ventimiglia-photos-update/
 slug: ventimiglia-photos-update
 title: ventimiglia photos [update]
 wordpress_id: 207
-categories:
-- pictures
 ---
-
 
 today i finally managed to put the images from ventimiglia online.
   

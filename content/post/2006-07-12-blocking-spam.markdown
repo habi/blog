@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2006-07-12 22:08:15+00:00
-layout: post
+date: 2006-07-12T22:08:15Z
 link: http://habi.gna.ch/2006/07/13/blocking-spam/
 slug: blocking-spam
 title: blocking spam
 wordpress_id: 199
-categories:
-- technospeak
 ---
-
 
 i just cannot seem to stop it!
   

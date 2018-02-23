@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2017-09-09 14:08:23+00:00
-layout: post
+date: 2017-09-09T14:08:23Z
 link: http://habi.gna.ch/2017/09/09/gemeinderatswahlen-koniz/
 slug: gemeinderatswahlen-koniz
 title: Gemeinderatswahlen Köniz
 wordpress_id: 5191
-categories:
-- personal
 ---
 
 Immer mal wieder ist es an der Zeit, Bürgerpflichten wahrzunehmen.

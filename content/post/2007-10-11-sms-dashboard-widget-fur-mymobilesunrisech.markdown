@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- apple
+- gadgets and gizmos
 comments: true
-date: 2007-10-11 21:34:18+00:00
-layout: post
+date: 2007-10-11T21:34:18Z
 link: http://habi.gna.ch/2007/10/11/sms-dashboard-widget-fur-mymobilesunrisech/
 slug: sms-dashboard-widget-fur-mymobilesunrisech
 title: sms dashboard-widget für mymobile.sunrise.ch
 wordpress_id: 1053
-categories:
-- apple
-- gadgets and gizmos
 ---
 
 [![Dashboard-1](http://habi.gna.ch/wp-content/uploads/2007/10/dashboard-1-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/10/dashboard-1.jpg)hey super!

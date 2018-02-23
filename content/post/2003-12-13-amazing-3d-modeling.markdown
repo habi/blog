@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-13 11:25:32+00:00
-layout: post
+date: 2003-12-13T11:25:32Z
 link: http://habi.gna.ch/2003/12/13/amazing-3d-modeling/
 slug: amazing-3d-modeling
 title: amazing 3d-modeling!
 wordpress_id: 376
-categories:
-- none
 ---
 
 [miklos](http://www.kozary.com/mt/), this one is especially for you!

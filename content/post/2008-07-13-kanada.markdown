@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2008-07-13 09:33:10+00:00
-layout: post
+date: 2008-07-13T09:33:10Z
 link: http://habi.gna.ch/2008/07/13/kanada/
 slug: kanada
 title: kanada
 wordpress_id: 1287
-categories:
-- personal
 ---
 
 einen fetten packen post, 220 ungelesene mails, viele dreckige wäsche zum waschen und unzählige fotos erwarten mich bei der rückkehr aus kanada; die ferien waren wunderbar.

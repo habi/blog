@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2018-01-16 20:21:20+00:00
-layout: post
-link: http://habi.gna.ch/2018/01/16/2017-in-fotos/
-slug: 2017-in-fotos
-title: 2017 in Fotos
-wordpress_id: 5273
 categories:
 - personal
 - photos
+comments: true
+date: 2018-01-16T20:21:20Z
+link: http://habi.gna.ch/2018/01/16/2017-in-fotos/
+slug: 2017-in-fotos
 tags:
 - jahresrückblick
 - jahresrückblick17
 - photos
+title: 2017 in Fotos
+wordpress_id: 5273
 ---
 
 Hier einer weiterer Post zum Rückblick aufs 2017; ein Foto für jeden Monat im Jahr.

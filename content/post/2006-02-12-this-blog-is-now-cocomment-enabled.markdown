@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2006-02-12 22:07:03+00:00
-layout: post
+date: 2006-02-12T22:07:03Z
 link: http://habi.gna.ch/2006/02/13/this-blog-is-now-cocomment-enabled/
 slug: this-blog-is-now-cocomment-enabled
 title: this blog is now cocomment enabled!
 wordpress_id: 133
-categories:
-- technospeak
 ---
-
 
 after [reading](http://climbtothestars.org/archives/2006/02/06/how-will-cocomment-change-our-commenting-habits/) a lot of [buzz](http://technorati.com/chart/tag:cocomment) about [cocomment](http://www.cocomment.com/) (explained a [wee bit here](http://www.cocomment.com/teamblog/?p=25) :-) i thought it's about time to jump the bandwagon. 
   

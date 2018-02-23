@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2010-09-24 13:07:58+00:00
-layout: post
-link: http://habi.gna.ch/2010/09/24/aare-altreu/
-slug: aare-altreu
-title: Aare, Altreu
-wordpress_id: 2220
 categories:
 - switzerland
+comments: true
+date: 2010-09-24T13:07:58Z
+link: http://habi.gna.ch/2010/09/24/aare-altreu/
+slug: aare-altreu
 tags:
 - aare
 - altreu
 - tauchen
+title: Aare, Altreu
+wordpress_id: 2220
 ---
 
 Letzen Samstag habe ich gemeinsam mit [Simu](http://www.kummerbuben.com/de/bio/) und [Louis](http://www.lomotion.ch/team.phtml) den Wels in der Aare bei [Altreu](http://map.search.ch/altreu-selzach) besucht. Neben der Beiz mit dem geilsten Namen der Schweiz (dr grüen Aff) liegt ein schöner Tauchplatz, an dem gemütlich durch die Kurve der Aare getaucht werden kann. Die Sicht war weniger gut als auch schon, aber trotzdem konnten wir die spätsommerlichen Temperaturen im Fluss geniessen.

@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2009-01-29 22:18:18+00:00
-layout: post
-link: http://habi.gna.ch/2009/01/29/ich-krieg-keinen-bonus/
-slug: ich-krieg-keinen-bonus
-title: ich krieg' keinen bonus!
-wordpress_id: 1632
 categories:
 - personal
 - tschörman
+comments: true
+date: 2009-01-29T22:18:18Z
+link: http://habi.gna.ch/2009/01/29/ich-krieg-keinen-bonus/
+slug: ich-krieg-keinen-bonus
 tags:
 - kiva
 - lang:de
 - mikrokredite
+title: ich krieg" keinen bonus!
+wordpress_id: 1632
 ---
 
 ganz im sinne von "tue gutes und sprich darüber" hat [herr chm](http://bloxxs.ch/?p=2003) letzthin von seinen erfahrungen mit [kiva.org](http://kiva.org/) [1] berichtet. schon beim ersten mal wollte ich mich eigentlich auch mikrokredit-mässig engagieren, hab's aber dann irgendwie verschlafen. mit der hilfe von kiva und menschen aus reichen industrieländern, werden direkt personen oder projekte in entwicklungsländern gefördert.

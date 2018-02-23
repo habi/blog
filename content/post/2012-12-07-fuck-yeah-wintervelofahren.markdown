@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2012-12-07 17:37:07+00:00
-layout: post
-link: http://habi.gna.ch/2012/12/07/fuck-yeah-wintervelofahren/
-slug: fuck-yeah-wintervelofahren
-title: Fuck Yeah Wintervelofahren!
-wordpress_id: 2975
 categories:
 - personal
+comments: true
+date: 2012-12-07T17:37:07Z
+link: http://habi.gna.ch/2012/12/07/fuck-yeah-wintervelofahren/
+slug: fuck-yeah-wintervelofahren
 tags:
 - moblog
 - velocontent
+title: Fuck Yeah Wintervelofahren!
+wordpress_id: 2975
 ---
 
 [![](http://farm9.staticflickr.com/8069/8252013713_531811beb5_m.jpg)](http://www.flickr.com/photos/habi/8252013713/)   

@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2017-03-01 21:40:01+00:00
-layout: post
-link: http://habi.gna.ch/2017/03/01/recommended-readings-1-march-2017/
-slug: recommended-readings-1-march-2017
-title: 'Recommended readings: 1. March 2017'
-wordpress_id: 5036
 categories:
 - linkdump
+comments: true
+date: 2017-03-01T21:40:01Z
+link: http://habi.gna.ch/2017/03/01/recommended-readings-1-march-2017/
+slug: recommended-readings-1-march-2017
 tags:
 - instapaper
+title: 'Recommended readings: 1. March 2017'
+wordpress_id: 5036
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

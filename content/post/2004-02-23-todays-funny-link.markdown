@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-02-23 18:22:07+00:00
-layout: post
+date: 2004-02-23T18:22:07Z
 link: http://habi.gna.ch/2004/02/23/todays-funny-link/
 slug: todays-funny-link
 title: todays funny link
 wordpress_id: 446
-categories:
-- none
 ---
 
 i haven't posted a funny link in a long time, [this one here](http://www.biondamasken.ch/bilder/konfetti.jpg) is funny! (but only in german)

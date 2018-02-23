@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2011-04-16 13:49:17+00:00
-layout: post
-link: http://habi.gna.ch/2011/04/16/indien/
-slug: indien
-title: Indien
-wordpress_id: 2473
 categories:
 - personal
+comments: true
+date: 2011-04-16T13:49:17Z
+link: http://habi.gna.ch/2011/04/16/indien/
+slug: indien
 tags:
 - india
+title: Indien
+wordpress_id: 2473
 ---
 
 Ich bin wieder da, die zweieinhalb Wochen Indien gingen viel zu schnell vorbei.
@@ -38,7 +37,7 @@ Weiter
 
 
   
-  * bin ich froh, dass ich immer noch viel lesen kann, in anderthalb Tagen habe ich am Strand und wahrend Zugfahrten [Martin Suters perfekten Freund](http://de.wikipedia.org/wiki/Ein_perfekter_Freund) (ca. 300 Seiten) und [Ben Eltons Dead Famous](http://www.bookcrossing.com/journal/9777831) (ca. 400 Seiten) gelesen.
+  * bin ich froh, dass ich immer noch viel lesen kann, in anderthalb Tagen habe ich am Strand und während Zugfahrten [Martin Suters perfekten Freund](http://de.wikipedia.org/wiki/Ein_perfekter_Freund) (ca. 300 Seiten) und [Ben Eltons Dead Famous](http://www.bookcrossing.com/journal/9777831) (ca. 400 Seiten) gelesen.
 
 
 

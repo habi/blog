@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- linkdump
 comments: true
-date: 2008-11-22 00:57:16+00:00
-layout: post
+date: 2008-11-22T00:57:16Z
 link: http://habi.gna.ch/2008/11/22/the-it-crowd-ist-zuruck-oder-tv-on-demand/
 slug: the-it-crowd-ist-zuruck-oder-tv-on-demand
 title: the IT crowd ist zurück - oder TV on demand
 wordpress_id: 1561
-categories:
-- linkdump
 ---
 
 nachdem ich mich die letzten monate mit der [big bang theory](http://www.cbs.com/primetime/big_bang_theory/) beschäftigt habe, kommt ein lang ersehntes stück fernsehen wieder zurück. [the it crowd](http://www.channel4.com/entertainment/tv/microsites/I/itcrowd/) geht in die dritte season. hoffentlich schaffen's die macher dieser bisher unglaublich lustigen serie, in mich in einer weiteren staffel zu beschäftigen!

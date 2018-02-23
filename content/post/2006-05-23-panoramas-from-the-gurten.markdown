@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- pictures
 comments: true
-date: 2006-05-23 09:45:49+00:00
-layout: post
+date: 2006-05-23T09:45:49Z
 link: http://habi.gna.ch/2006/05/23/panoramas-from-the-gurten/
 slug: panoramas-from-the-gurten
 title: panoramas from the gurten
 wordpress_id: 181
-categories:
-- pictures
 ---
-
 
 as mentioned [before](http://habi.gna.ch/blog/archives/000782.html), i also shot two panoramas from the watch-tower yesterday. because i'm on holiday preparation, i found some time to stitch them with the excellent [hugin](http://hugin.sourceforge.net/) [1].
   

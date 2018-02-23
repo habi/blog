@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2009-06-10 19:57:45+00:00
-layout: post
-link: http://habi.gna.ch/2009/06/10/i-can-haz-ceiling-cat/
-slug: i-can-haz-ceiling-cat
-title: i can haz ceiling cat?
-wordpress_id: 1793
 categories:
 - memes
+comments: true
+date: 2009-06-10T19:57:45Z
+link: http://habi.gna.ch/2009/06/10/i-can-haz-ceiling-cat/
+slug: i-can-haz-ceiling-cat
 tags:
 - ceilingcat
 - lolcat
+title: i can haz ceiling cat?
+wordpress_id: 1793
 ---
 
 TODAI I STUMBLD OVAR [TEH NICE PAPERCRAFT CEILIN KAT](http://www.doobybrain.com/2008/03/20/ceiling-cat-papercraft/) AN THOT ID MAK WAN 4 MAH OFFICE CEILIN. SO NAO I HAS CEILIN KAT WHICH IZ WATCHIN ME COMPUTERIN. KTHXBYE!

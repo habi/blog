@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2012-09-21 20:49:08+00:00
-layout: post
+date: 2012-09-21T20:49:08Z
 link: http://habi.gna.ch/2012/09/21/blick-am-abend/
 slug: blick-am-abend
 title: Blick am Abend
 wordpress_id: 2903
-categories:
-- personal
 ---
 
-
- [![](http://farm9.staticflickr.com/8447/8010170061_dc1b995d04_m.jpg)](http://www.flickr.com/photos/habi/8010170061/)
+[![](http://farm9.staticflickr.com/8447/8010170061_dc1b995d04_m.jpg)](http://www.flickr.com/photos/habi/8010170061/)
    
 
  

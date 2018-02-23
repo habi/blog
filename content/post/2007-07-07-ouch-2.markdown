@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- bike
 comments: true
-date: 2007-07-07 16:03:16+00:00
-layout: post
+date: 2007-07-07T16:03:16Z
 link: http://habi.gna.ch/2007/07/07/ouch-2/
 slug: ouch-2
 title: ouch!
 wordpress_id: 990
-categories:
-- bike
 ---
 
 even with a [nice bike](http://habi.gna.ch/2007/06/30/my-new-toy/) some bad stuff can happen:

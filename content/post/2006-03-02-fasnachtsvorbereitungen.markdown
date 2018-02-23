@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2006-03-02 17:23:41+00:00
-layout: post
+date: 2006-03-02T17:23:41Z
 link: http://habi.gna.ch/2006/03/02/fasnachtsvorbereitungen/
 slug: fasnachtsvorbereitungen
 title: fasnachtsvorbereitungen
 wordpress_id: 139
-categories:
-- personal
 ---
 
-
- [![](http://static.flickr.com/36/106851594_530ad41854_m.jpg)](http://www.flickr.com/photos/habi/106851594/)
+[![](http://static.flickr.com/36/106851594_530ad41854_m.jpg)](http://www.flickr.com/photos/habi/106851594/)
    
 
  

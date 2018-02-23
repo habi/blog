@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-04 10:04:56+00:00
-layout: post
+date: 2004-03-04T10:04:56Z
 link: http://habi.gna.ch/2004/03/04/expos-is-just-soo-cool/
 slug: expos-is-just-soo-cool
 title: exposé is just soo cool
 wordpress_id: 455
-categories:
-- none
 ---
 
 as i [installed](http://habi.gna.ch/blog/archives/000233.html) everything from scratch, [clutter](http://www.sprote.com/clutter/index.html) now lacks quite a lot of my albums pictures.

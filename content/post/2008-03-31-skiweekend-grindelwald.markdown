@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2008-03-31 19:29:16+00:00
-layout: post
-link: http://habi.gna.ch/2008/03/31/skiweekend-grindelwald/
-slug: skiweekend-grindelwald
-title: skiweekend grindelwald [with map]
-wordpress_id: 1229
 categories:
 - gps
 - personal
+comments: true
+date: 2008-03-31T19:29:16Z
+link: http://habi.gna.ch/2008/03/31/skiweekend-grindelwald/
+slug: skiweekend-grindelwald
 tags:
 - gps
 - skiing
+title: skiweekend grindelwald [with map]
+wordpress_id: 1229
 ---
 
 this weekend i've been in the snow - maybe the last time for this year. i've been to grindelwald, in a lovely hut organized by [bill.](http://flickr.com/photos/habi/tags/bill/)

@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2017-05-17 19:28:38+00:00
-layout: post
-link: http://habi.gna.ch/2017/05/17/mein-19-gp/
-slug: mein-19-gp
-title: Mein 19. GP
-wordpress_id: 5081
 categories:
 - personal
+comments: true
+date: 2017-05-17T19:28:38Z
+link: http://habi.gna.ch/2017/05/17/mein-19-gp/
+slug: mein-19-gp
 tags:
 - bern
 - gp
 - gpbern
 - jogging
 - racing
+title: Mein 19. GP
+wordpress_id: 5081
 ---
 
 Am Samstag bin ich zum 19. Mal den GP gerannt. Dank etwas intensiviertem Training gegenüber anderen Jahren habe ich mein Ziel voll und ganz erreicht: Wenn möglich unter 1:15 und danach noch einen gemütlichen Abend haben.

@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2016-10-01 20:22:42+00:00
-layout: post
-link: http://habi.gna.ch/2016/10/01/recommended-readings-1-october-2016/
-slug: recommended-readings-1-october-2016
-title: 'Recommended readings: 1. October 2016'
-wordpress_id: 4637
 categories:
 - linkdump
+comments: true
+date: 2016-10-01T20:22:42Z
+link: http://habi.gna.ch/2016/10/01/recommended-readings-1-october-2016/
+slug: recommended-readings-1-october-2016
 tags:
 - instapaper
+title: 'Recommended readings: 1. October 2016'
+wordpress_id: 4637
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

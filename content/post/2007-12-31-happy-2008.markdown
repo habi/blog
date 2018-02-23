@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- tschörman
 comments: true
-date: 2007-12-31 22:00:55+00:00
-layout: post
+date: 2007-12-31T22:00:55Z
 link: http://habi.gna.ch/2007/12/31/happy-2008/
 slug: happy-2008
 title: happy 2008!
 wordpress_id: 1120
-categories:
-- personal
-- tschörman
 ---
 
 ![](http://habi.gna.ch/wp-content/uploads/2007/12/happy2008.png)

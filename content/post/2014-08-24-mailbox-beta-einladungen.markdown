@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2014-08-24 16:07:28+00:00
-layout: post
+date: 2014-08-24T16:07:28Z
 link: http://habi.gna.ch/2014/08/24/mailbox-beta-einladungen/
 slug: mailbox-beta-einladungen
 title: Mailbox Beta-Einladungen
 wordpress_id: 3563
-categories:
-- technospeak
 ---
 
 Vor längerem hab' ich mal die [Mailbox](http://www.mailboxapp.com/)-App auf meinem Telefon installiert gehabt.

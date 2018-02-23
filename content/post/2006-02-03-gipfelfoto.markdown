@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2006-02-03 11:44:54+00:00
-layout: post
+date: 2006-02-03T11:44:54Z
 link: http://habi.gna.ch/2006/02/03/gipfelfoto/
 slug: gipfelfoto
 title: gipfelfoto
 wordpress_id: 131
-categories:
-- moblog
 ---
 
-
- [![](http://static.flickr.com/25/94906693_cf9830a401_m.jpg)](http://www.flickr.com/photos/habi/94906693/)
+[![](http://static.flickr.com/25/94906693_cf9830a401_m.jpg)](http://www.flickr.com/photos/habi/94906693/)
    
 
  

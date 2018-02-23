@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2017-06-25 20:35:07+00:00
-layout: post
-link: http://habi.gna.ch/2017/06/25/tg-nummer-259/
-slug: tg-nummer-259
-title: TG Nummer 259
-wordpress_id: 5121
 categories:
 - moblog
 - photos
+comments: true
+date: 2017-06-25T20:35:07Z
+link: http://habi.gna.ch/2017/06/25/tg-nummer-259/
+slug: tg-nummer-259
 tags:
 - boudry
 - flickr
@@ -20,6 +17,8 @@ tags:
 - photostream
 - plage
 - seerie
+title: TG Nummer 259
+wordpress_id: 5121
 ---
 
 ![](http://ift.tt/2sbdDyg)  

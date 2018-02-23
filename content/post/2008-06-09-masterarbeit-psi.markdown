@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2008-06-09 21:38:40+00:00
-layout: post
-link: http://habi.gna.ch/2008/06/09/masterarbeit-psi/
-slug: masterarbeit-psi
-title: masterarbeit @ psi
-wordpress_id: 1284
 categories:
 - personal
 - technospeak
 - tschörman
+comments: true
+date: 2008-06-09T21:38:40Z
+link: http://habi.gna.ch/2008/06/09/masterarbeit-psi/
+slug: masterarbeit-psi
+title: masterarbeit @ psi
+wordpress_id: 1284
 ---
 
 einerseits ist es gut, dass am ende ziemlich genau das rauskommt, was mann in den ersten wochen simuliert hat, andererseits ist es auch ein bisschen frustrierend, dass sich zwei monate [nachdiplomstudiums-masterarbeit](http://www.biomed.ee.ethz.ch/nds/) zum thema wide-field-tomographie so in etwa mit untenstehendem screenshot zusammenfassen lassen. das bild zeigt den fehlerbalken von verschiedenen tomographischen messprotokollen verglichen zum sogenannten gold-standard, einer messung, die mit maximaler auflösung erfolgte. im plot entspricht dies dem protokoll b. protokolle e und f haben den vorteil, dass der user die messung in 50 bis 30% der zeit machen kann, ohne grosse einbussen der qualität zu haben. zu beachten ist übrigens die systemzeit, der screenshot stammt von letztem freitag abend, nach der rückkehr vom fanzonenbesuch, nachdem mein macbook pro den ganzen nachmittag per ssh und x-server mit dem rechner im psi verbunden war, und brav gearbeitet hat, während ich mich vergnügt habe...

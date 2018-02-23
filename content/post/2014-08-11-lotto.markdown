@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- fun
+- technospeak
 comments: true
-date: 2014-08-11 16:55:24+00:00
-layout: post
+date: 2014-08-11T16:55:24Z
 link: http://habi.gna.ch/2014/08/11/lotto/
 slug: lotto
 title: Lotto
 wordpress_id: 3559
-categories:
-- fun
-- technospeak
 ---
 
 Ich hab' ja die Angewohnheit, Lotto als [Steuer für Dumme](https://www.google.ch/search?client=safari&rls=en&q=lotto+steuer+f%C3%BCr+dumme&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=vvPoU9LKNquG8QectIC4Dw) zu bezeichnen, wenn aber der [aktuelle Jackpot der grösste in der Geschichte des Schweizer Zahlenlottos ist](http://), kann ich mich auch nicht zurückhalten.

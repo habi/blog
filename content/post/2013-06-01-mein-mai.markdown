@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2013-06-01 20:24:49+00:00
-layout: post
-link: http://habi.gna.ch/2013/06/01/mein-mai/
-slug: mein-mai
-title: Mein Mai
-wordpress_id: 3114
 categories:
 - memes
 - personal
+comments: true
+date: 2013-06-01T20:24:49Z
+link: http://habi.gna.ch/2013/06/01/mein-mai/
+slug: mein-mai
 tags:
 - 1se
+title: Mein Mai
+wordpress_id: 3114
 ---
 
 Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/) und [April](http://habi.gna.ch/2013/05/01/mein-april/) hab' ich im Mai (fast) jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.

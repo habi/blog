@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2016-04-09 13:58:35+00:00
-layout: post
-link: http://habi.gna.ch/2016/04/09/saisonabschluss-par-excellence/
-slug: saisonabschluss-par-excellence
-title: Saisonabschluss par excellence!
-wordpress_id: 4443
 categories:
 - moblog
 - photos
+comments: true
+date: 2016-04-09T13:58:35Z
+link: http://habi.gna.ch/2016/04/09/saisonabschluss-par-excellence/
+slug: saisonabschluss-par-excellence
 tags:
 - engstligenalp
 - flickr
@@ -19,6 +16,8 @@ tags:
 - iphone
 - moblog
 - telemark
+title: Saisonabschluss par excellence!
+wordpress_id: 4443
 ---
 
 ![](http://ift.tt/23kjT8b)  

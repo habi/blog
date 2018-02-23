@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2015-05-01 22:34:01+00:00
-layout: post
-link: http://habi.gna.ch/2015/05/02/so-entstehen-meine-recommended-readings/
-slug: so-entstehen-meine-recommended-readings
-title: So entstehen meine 'Recommended readings'
-wordpress_id: 3892
 categories:
 - technospeak
+comments: true
+date: 2015-05-01T22:34:01Z
+link: http://habi.gna.ch/2015/05/02/so-entstehen-meine-recommended-readings/
+slug: so-entstehen-meine-recommended-readings
 tags:
 - instapaper
+title: So entstehen meine "Recommended readings"
+wordpress_id: 3892
 ---
 
 Seit einiger Zeit versuche ich immer Anfangs Monat ein Blogpost mit Texten und Videos zu machen, die mir letzten Monat gut gefallen haben.

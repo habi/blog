@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-02 11:06:12+00:00
-layout: post
+date: 2004-01-02T11:06:12Z
 link: http://habi.gna.ch/2004/01/02/back-on-track/
 slug: back-on-track
 title: back on track
 wordpress_id: 387
-categories:
-- none
 ---
 
 happy 04 everyone:

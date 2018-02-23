@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2014-04-16 19:05:56+00:00
-layout: post
-link: http://habi.gna.ch/2014/04/16/zu-nachtschlafender-zyt/
-slug: zu-nachtschlafender-zyt
-title: Zu nachtschlafender Zyt
-wordpress_id: 3426
 categories:
 - personal
+comments: true
+date: 2014-04-16T19:05:56Z
+link: http://habi.gna.ch/2014/04/16/zu-nachtschlafender-zyt/
+slug: zu-nachtschlafender-zyt
 tags:
 - bern
 - hyperlapse
 - timelapse
 - video
+title: Zu nachtschlafender Zyt
+wordpress_id: 3426
 ---
 
 Mein [ehemaliger Mitbewohner](http://studium-punctum.ch) hat sich die letzten <del>Wochen</del> Monate ein paar Abende in der Stadt mit fotografieren beschäftigt.

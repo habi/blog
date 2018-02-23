@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: false
-date: 2014-01-28 19:00:39+00:00
-layout: post
+date: 2014-01-28T19:00:39Z
 link: http://habi.gna.ch/2014/01/28/eine-neue-festplatte/
 slug: eine-neue-festplatte
 title: Eine neue Festplatte, gefühlt ein neuer Mac
 wordpress_id: 3361
-categories:
-- personal
 ---
 
 Zu Weihnachten leistete ich mir eine [neue Festplatte](https://www.digitec.ch/?param=toppreise&wert=280460).

@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2015-11-01 20:00:40+00:00
-layout: post
-link: http://habi.gna.ch/2015/11/01/recommended-readings-1-november-2015/
-slug: recommended-readings-1-november-2015
-title: 'Recommended readings: 1. November 2015'
-wordpress_id: 4086
 categories:
 - linkdump
+comments: true
+date: 2015-11-01T20:00:40Z
+link: http://habi.gna.ch/2015/11/01/recommended-readings-1-november-2015/
+slug: recommended-readings-1-november-2015
 tags:
 - instapaper
+title: 'Recommended readings: 1. November 2015'
+wordpress_id: 4086
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

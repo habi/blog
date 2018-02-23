@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2006-08-17 05:45:36+00:00
-layout: post
+date: 2006-08-17T05:45:36Z
 link: http://habi.gna.ch/2006/08/17/paeckli/
 slug: paeckli
 title: Paeckli
 wordpress_id: 213
-categories:
-- moblog
 ---
 
-
- [![](http://static.flickr.com/82/217454509_9d3e8a9374_m.jpg)](http://www.flickr.com/photos/habi/217454509/)
+[![](http://static.flickr.com/82/217454509_9d3e8a9374_m.jpg)](http://www.flickr.com/photos/habi/217454509/)
    
 
  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-04-18 18:10:17+00:00
-layout: post
+date: 2004-04-18T18:10:17Z
 link: http://habi.gna.ch/2004/04/18/blogrolls/
 slug: blogrolls
 title: blogrolls
 wordpress_id: 508
-categories:
-- none
 ---
 
 [![fscklogblogroll](http://habi.gna.ch/blog/images/fscklogblogroll-tm.jpg)](http://habi.gna.ch/blog/images/fscklogblogroll.jpg)while having a look at my [referrers](http://habi.gna.ch/usage/referers.html) something struck me. 

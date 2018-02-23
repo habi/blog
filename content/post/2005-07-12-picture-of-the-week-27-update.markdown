@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2005-07-12 11:57:44+00:00
-layout: post
+date: 2005-07-12T11:57:44Z
 link: http://habi.gna.ch/2005/07/12/picture-of-the-week-27-update/
 slug: picture-of-the-week-27-update
 title: picture of the week 27 [update]
 wordpress_id: 42
-categories:
-- picture of the week
 ---
-
 
 i spent the past weekend with [renzo and eveline](http://team.gigathlon.ch/home/results_team_show.aspx?teamID=3259&resultview=0) which competed in the [gigathlon](http://www.gigathlon.ch/), a race [across switzerland](http://www.gigathlon.ch/DesktopDefault.aspx/tabid-965/1214_read-7829/) involving swimming, inline skating, road- and mountain-biking and running from locarno to basel via luzern. all the athletes and their supporters were housed in two camps, the picture below shows a panorama of the tents in the camp in airolo.
 

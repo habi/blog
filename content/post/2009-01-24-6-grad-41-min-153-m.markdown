@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2009-01-24 13:10:21+00:00
-layout: post
+date: 2009-01-24T13:10:21Z
 link: http://habi.gna.ch/2009/01/24/6-grad-41-min-153-m/
 slug: 6-grad-41-min-153-m
 title: 6 Grad, 41 min, 15.3 m
 wordpress_id: 1631
-categories:
-- personal
 ---
 
-
- [![](http://farm4.static.flickr.com/3087/3222633040_dd0aafd382_m.jpg)](http://www.flickr.com/photos/habi/3222633040/)
+[![](http://farm4.static.flickr.com/3087/3222633040_dd0aafd382_m.jpg)](http://www.flickr.com/photos/habi/3222633040/)
    
 
  

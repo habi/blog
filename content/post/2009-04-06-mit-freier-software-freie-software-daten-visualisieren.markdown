@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2009-04-06 22:24:48+00:00
-layout: post
-link: http://habi.gna.ch/2009/04/06/mit-freier-software-freie-software-daten-visualisieren/
-slug: mit-freier-software-freie-software-daten-visualisieren
-title: mit freier software freie software-daten visualisieren [update]
-wordpress_id: 1702
 categories:
 - gadgets and gizmos
 - technospeak
+comments: true
+date: 2009-04-06T22:24:48Z
+link: http://habi.gna.ch/2009/04/06/mit-freier-software-freie-software-daten-visualisieren/
+slug: mit-freier-software-freie-software-daten-visualisieren
 tags:
 - identi.ca
 - latex
 - microblog
 - pgf
 - python
+title: mit freier software freie software-daten visualisieren [update]
+wordpress_id: 1702
 ---
 
 seit einen [halben jahr](http://identi.ca/notice/685038) beantworte ich die frage "what's up?" nicht bei twitter, sondern der [quell-offenen](http://laconi.ca/trac/) alternative, bei [identi.ca](http://identi.ca/) [1]. über die beweggründe, eine offene alternative zum fail whale zu benutzen soll hier nicht die rede sein [2].

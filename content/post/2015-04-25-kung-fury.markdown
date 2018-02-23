@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2015-04-25 09:46:06+00:00
-layout: post
-link: http://habi.gna.ch/2015/04/25/kung-fury/
-slug: kung-fury
-title: Kung Fury
-wordpress_id: 3884
 categories:
 - linkdump
 - movies
+comments: true
+date: 2015-04-25T09:46:06Z
+link: http://habi.gna.ch/2015/04/25/kung-fury/
+slug: kung-fury
 tags:
 - kung fury
 - movie
 - the hoff
+title: Kung Fury
+wordpress_id: 3884
 ---
 
 Ich hab’ schon öppendie von Kickstarter geschrieben, auf deren Seite mensch verschiedenster Projekte unterstützen kann.

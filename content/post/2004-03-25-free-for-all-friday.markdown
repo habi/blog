@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-25 07:27:04+00:00
-layout: post
+date: 2004-03-25T07:27:04Z
 link: http://habi.gna.ch/2004/03/25/free-for-all-friday/
 slug: free-for-all-friday
 title: Free-For-All Friday
 wordpress_id: 479
-categories:
-- none
 ---
 
 today is the free-for-all friday! (from now on until sometimes late tomorrow night)

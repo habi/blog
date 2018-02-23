@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-01 18:37:59+00:00
-layout: post
+date: 2003-10-01T18:37:59Z
 link: http://habi.gna.ch/2003/10/01/proce55ing/
 slug: proce55ing
 title: Proce55ing
 wordpress_id: 287
-categories:
-- none
 ---
 
 well, i have to admit, that [Proce55ing](http://www.proce55ing.net/) looks like the next thing to be with graphical fooling around on the net. 

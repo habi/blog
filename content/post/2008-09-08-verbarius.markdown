@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2008-09-08 11:44:51+00:00
-layout: post
+date: 2008-09-08T11:44:51Z
 link: http://habi.gna.ch/2008/09/08/verbarius/
 slug: verbarius
 title: verbarius
 wordpress_id: 1419
-categories:
-- none
 ---
 
-
- [![](http://farm4.static.flickr.com/3080/2838891821_c26bc2176a_m.jpg)](http://www.flickr.com/photos/habi/2838891821/)
+[![](http://farm4.static.flickr.com/3080/2838891821_c26bc2176a_m.jpg)](http://www.flickr.com/photos/habi/2838891821/)
    
 
  

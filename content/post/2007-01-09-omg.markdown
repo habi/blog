@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- apple
 comments: true
-date: 2007-01-09 17:59:52+00:00
-layout: post
+date: 2007-01-09T17:59:52Z
 link: http://habi.gna.ch/2007/01/09/omg/
 slug: omg
 title: OMG! [update]
 wordpress_id: 840
-categories:
-- apple
 ---
 
 <fanboymode>

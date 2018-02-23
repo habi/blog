@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2012-05-28 19:53:51+00:00
-layout: post
-link: http://habi.gna.ch/2012/05/28/quasi-ein-pfi-la/
-slug: quasi-ein-pfi-la
-title: Quasi ein Pfi-La
-wordpress_id: 2770
 categories:
 - personal
+comments: true
+date: 2012-05-28T19:53:51Z
+link: http://habi.gna.ch/2012/05/28/quasi-ein-pfi-la/
+slug: quasi-ein-pfi-la
 tags:
 - velocontent
+title: Quasi ein Pfi-La
+wordpress_id: 2770
 ---
 
 Fast wie früher in der Pfadi war ich über Pfingsten mit Velo und Zelt unterwegs. Nicht ganz wie früher haben wir zusammen einige Kilometer durch schöne Teile der Schweiz gemacht.

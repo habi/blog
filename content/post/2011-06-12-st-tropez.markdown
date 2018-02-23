@@ -1,29 +1,28 @@
 ---
 author: admin
-comments: true
-date: 2011-06-12 19:08:44+00:00
-layout: post
-link: http://habi.gna.ch/2011/06/12/st-tropez/
-slug: st-tropez
-title: St. Tropez
-wordpress_id: 2515
 categories:
 - diving
 - personal
+comments: true
+date: 2011-06-12T19:08:44Z
+link: http://habi.gna.ch/2011/06/12/st-tropez/
+slug: st-tropez
 tags:
 - divecenter.ch
 - diving
 - france
 - ramatuelle
 - st.tropez
+title: St. Tropez
+wordpress_id: 2515
 ---
 
-Über Auffahrt tauchte ich mal wieder ab. Mit dem [divecenter.ch](http://divecenter.ch/) fuhren wir nach Ramatuelle in der Nahe von St. Tropez. Im recht lustigen [Kon Tiki-Dorf](http://de.riviera-villages.com/Unsere-Dorfer/Kon-Tiki) verbrachten wir ein paar spannende Tage und machten insgesamt 7 grandiose Tauchgange mit [European Diving](http://europeandiving.com/). Die Kuste vor St. Tropez bietet viele Tauchplatze mit Wracks an, unter anderem dem U-Boot Le Rubis [1], das nach dem zweiten Weltkrieg als Sonar-Ziel in 40 m Tiefe versenkt wurde. Aber auch die anderen Tauchplatze boten viel zum sehen. Unter Wasser habe ich einige Fotos gemacht, wer diese sehen will, kann das gerne [hier](http://fotos.davidhaberthür.ch/index.php?type=sets&setId=72157626902195314) tun [2], Kommentare und so gerne bei [flickr](http://www.flickr.com/photos/habi/sets/72157626902195314/).
+über Auffahrt tauchte ich mal wieder ab. Mit dem [divecenter.ch](http://divecenter.ch/) fuhren wir nach Ramatuelle in der Nähe von St. Tropez. Im recht lustigen [Kon Tiki-Dorf](http://de.riviera-villages.com/Unsere-Dorfer/Kon-Tiki) verbrachten wir ein paar spannende Tage und machten insgesamt 7 grandiose Tauchgänge mit [European Diving](http://europeandiving.com/). Die Küste vor St. Tropez bietet viele Tauchplätze mit Wracks an, unter anderem dem U-Boot Le Rubis [1], das nach dem zweiten Weltkrieg als Sonar-Ziel in 40 m Tiefe versenkt wurde. Aber auch die anderen Tauchplätze boten viel zum sehen. Unter Wasser habe ich einige Fotos gemacht, wer diese sehen will, kann das gerne [hier](http://fotos.davidhaberthür.ch/index.php?type=sets&setId=72157626902195314) tun [2], Kommentare und so gerne bei [flickr](http://www.flickr.com/photos/habi/sets/72157626902195314/).
 
 
 
 
-Naturlich konnte ich es mir nicht nehmen lassen auch ein Video zu machen. Dieses ist unten eingebunden, 5 Minuten Unterwasserwelt zum traumen und abtauchen.
+Natürlich konnte ich es mir nicht nehmen lassen auch ein Video zu machen. Dieses ist unten eingebunden, 5 Minuten Unterwasserwelt zum träumen und abtauchen.
 
 
 
@@ -36,4 +35,4 @@ Naturlich konnte ich es mir nicht nehmen lassen auch ein Video zu machen. Dieses
 
 
 
-[2]: Dem geneigten Leser fallt auf, dass [grobmotoriker.ch/fotos](http://grobmotoriker.ch/fotos/) zu [fotos.davidhaberthur.ch](http://fotos.davidhaberthür.ch/) wurde, obwohls noch dasselbe Verzeichnis auf dem Server ist. Irgendwann plane ich, alles mogliche aus meinem Online-Leben unter meiner Domain zu sammeln. Wenn nur der Tag mehr als 24 Stunden hatte.
+[2]: Dem geneigten Leser fällt auf, dass [grobmotoriker.ch/fotos](http://grobmotoriker.ch/fotos/) zu [fotos.davidhaberthür.ch](http://fotos.davidhaberthür.ch/) wurde, obwohls noch dasselbe Verzeichnis auf dem Server ist. Irgendwann plane ich, alles mögliche aus meinem Online-Leben unter meiner Domain zu sammeln. Wenn nur der Tag mehr als 24 Stunden hätte.

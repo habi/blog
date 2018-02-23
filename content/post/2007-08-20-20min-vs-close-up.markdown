@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-08-20 12:16:38+00:00
-layout: post
-link: http://habi.gna.ch/2007/08/20/20min-vs-close-up/
-slug: 20min-vs-close-up
-title: 20min vs. close-up!
-wordpress_id: 1005
 categories:
 - movies
 - personal
 - tschörman
+comments: true
+date: 2007-08-20T12:16:38Z
+link: http://habi.gna.ch/2007/08/20/20min-vs-close-up/
+slug: 20min-vs-close-up
+title: 20min vs. close-up!
+wordpress_id: 1005
 ---
 
 manchmal komm ich aus langeweile dazu, ins 20Minuten zu blicken. heute ist mir dabei etwas lustiges aufgefallen: das [kleine interview](http://www.20min.ch/tools/suchen/story/16929236) mit jessica alba zum filmstart von "fantastic four: the rise of the silver surfer" kam mir seltsam bekannt vor, fast so, als hätt' ich das schon mal gelesen...

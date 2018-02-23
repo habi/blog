@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-14 20:30:45+00:00
-layout: post
+date: 2003-10-14T20:30:45Z
 link: http://habi.gna.ch/2003/10/14/20-vs-90-minutes/
 slug: 20-vs-90-minutes
 title: 20 vs. 90 minutes
 wordpress_id: 312
-categories:
-- none
 ---
 
 from next week on:
@@ -25,7 +24,7 @@ from next week on:
 <td >habi: Bern
 </td>
 		
-<td >nina: <strike>Bern</strike> Zurich
+<td >nina: <strike>Bern</strike> Zürich
 </td>
 	</tr>
 </table>  
@@ -34,7 +33,7 @@ and i already feel lonely.
 
 
 
-explanation: nina has to finish her studies (pharmaceutics) in either zurich, basel or geneva and she chose zurich for obvius reasons (the [ETH](http://www.ethz.ch/) in zurich is very renowned).  
+explanation: nina has to finish her studies (pharmaceutics) in either zürich, basel or geneva and she chose zürich for obvius reasons (the [ETH](http://www.ethz.ch/) in zürich is very renowned).  
 
 i stay here in bern for the moment. so we stop living 20 minutes apart, which makes me kinda sad.  
 

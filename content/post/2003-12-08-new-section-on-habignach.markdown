@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-08 21:52:18+00:00
-layout: post
+date: 2003-12-08T21:52:18Z
 link: http://habi.gna.ch/2003/12/08/new-section-on-habignach/
 slug: new-section-on-habignach
 title: new section on habi.gna.ch
 wordpress_id: 371
-categories:
-- none
 ---
 
 as i'm still looking for a phd in the near future i keep looking for stuff that interests me, medical laser physics-stuff. (i really really reallylove being a messenger, but like kevin bacon says in [quicksilver](http://www.imdb.com/title/tt0091814/):  "you can't get old on a bike")

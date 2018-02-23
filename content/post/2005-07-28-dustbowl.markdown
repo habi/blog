@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2005-07-28 18:43:22+00:00
-layout: post
+date: 2005-07-28T18:43:22Z
 link: http://habi.gna.ch/2005/07/28/dustbowl/
 slug: dustbowl
 title: dustbowl
 wordpress_id: 50
-categories:
-- none
 ---
 
-
- [![](http://photos23.flickr.com/29260439_4349019c55_m.jpg)](http://www.flickr.com/photos/habi/29260439/)
+[![](http://photos23.flickr.com/29260439_4349019c55_m.jpg)](http://www.flickr.com/photos/habi/29260439/)
    
 
  

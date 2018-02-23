@@ -1,35 +1,34 @@
 ---
 author: admin
-comments: true
-date: 2011-05-30 22:04:33+00:00
-layout: post
-link: http://habi.gna.ch/2011/05/31/maman-zum-zweiten/
-slug: maman-zum-zweiten
-title: Maman zum Zweiten
-wordpress_id: 2508
 categories:
 - flickr
 - pictures
 - switzerland
 - tschörman
+comments: true
+date: 2011-05-30T22:04:33Z
+link: http://habi.gna.ch/2011/05/31/maman-zum-zweiten/
+slug: maman-zum-zweiten
 tags:
 - bundesplatz
 - flickr
 - maman
 - photography
+title: Maman zum Zweiten
+wordpress_id: 2508
 ---
 
-Wie letzthin schon angetont, wollte ich auf dem Bundesplatz ein schoneres Foto von [Maman](http://enwp.org/Maman) machen, als dasjenige, welches ich vor knapp [3 Jahren in Ottawa gemacht habe](http://status.davidhaberthuer.ch/notice/1187).
+Wie letzthin schon angetönt, wollte ich auf dem Bundesplatz ein schöneres Foto von [Maman](http://enwp.org/Maman) machen, als dasjenige, welches ich vor knapp [3 Jahren in Ottawa gemacht habe](http://status.davidhaberthuer.ch/notice/1187).
 
 
 
 
-Vergangene Samstag Nami war ich nun kurz in der Stadt und habe einige Fotos aufgenommen. Da der Panoramakopf dabei war, sind dabei nicht nur "normale Ansichten", sonder auch verschiedene speziellere Blickwinkel entstanden. Alle Fotos sind in [diesem Set hier auf flickr](http://flic.kr/s/aHsjuWq2LN) zu sehen, speziell verweisen mochte ich auf zwei, diese sind unten eingebunden.
+Vergangene Samstag Nami war ich nun kurz in der Stadt und habe einige Fotos aufgenommen. Da der Panoramakopf dabei war, sind dabei nicht nur "normale Ansichten", sonder auch verschiedene speziellere Blickwinkel entstanden. Alle Fotos sind in [diesem Set hier auf flickr](http://flic.kr/s/aHsjuWq2LN) zu sehen, speziell verweisen möchte ich auf zwei, diese sind unten eingebunden.
 
 
 
 
-Das erste Bild zeigt die eindrucksvolle Grosse der Skulptur, die doch ein bisschen gefahrlich aussieht so. [Arachnophobiker](http://) mussen halt wegschauen jetzt (oder wenigstens nicht aufs Bild klicken, ums gross anzuschauen).
+Das erste Bild zeigt die eindrucksvolle Grösse der Skulptur, die doch ein bisschen gefährlich aussieht so. [Arachnophobiker](http://) müssen halt wegschauen jetzt (oder wenigstens nicht aufs Bild klicken, ums gross anzuschauen).
 
 
 
@@ -42,7 +41,7 @@ Das erste Bild zeigt die eindrucksvolle Grosse der Skulptur, die doch ein bissch
 
 
 
-Das zweite Bild zeigt, wie sich [Louise Bourgeois](http://de.wikipedia.org/wiki/Louise_Bourgeois) die Skulptur vielleicht vorgestellt hat. Namlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschutzt und ernahrt hat.
+Das zweite Bild zeigt, wie sich [Louise Bourgeois](http://de.wikipedia.org/wiki/Louise_Bourgeois) die Skulptur vielleicht vorgestellt hat. Nämlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschützt und ernährt hat.
 
 
 
@@ -52,7 +51,7 @@ Das zweite Bild zeigt, wie sich [Louise Bourgeois](http://de.wikipedia.org/wiki/
 
 
 
-Wer schlussendlich ganz unter die Spinne eintauchen mochte, kann sich auf dem Bild umsehen, dass ich bei [360cities.net](http://www.360cities.net/image/maman) hochgeladen habe, oder im unten eingebetteten Viewer mit dem Mauszeiger rumfahren (leider nur mit Flash).
+Wer schlussendlich ganz unter die Spinne eintauchen möchte, kann sich auf dem Bild umsehen, dass ich bei [360cities.net](http://www.360cities.net/image/maman) hochgeladen habe, oder im unten eingebetteten Viewer mit dem Mauszeiger rumfahren (leider nur mit Flash).
 
 
 
@@ -66,6 +65,6 @@ Wer schlussendlich ganz unter die Spinne eintauchen mochte, kann sich auf dem Bi
 
   
 
-PS: Und nur damit das klar ist: [Herr Lauer](http://habi.gna.ch/2011/04/16/indien/#comment-14584), es ging nicht darum, Sie mit dem Foto zu schlagen, ich ware sehr gespannt, ihre fruhmorgendliche Ansicht zu sehen!  
+PS: Und nur damit das klar ist: [Herr Lauer](http://habi.gna.ch/2011/04/16/indien/#comment-14584), es ging nicht darum, Sie mit dem Foto zu schlagen, ich wäre sehr gespannt, ihre frühmorgendliche Ansicht zu sehen!  
 
 

@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
 comments: true
-date: 2006-06-15 18:19:38+00:00
-layout: post
+date: 2006-06-15T18:19:38Z
 link: http://habi.gna.ch/2006/06/15/lung-test/
 slug: lung-test
 title: lung test
 wordpress_id: 190
-categories:
-- linkdump
 ---
-
 
 [![Lungtester](http://habi.gna.ch/blog/images/lungtester-tm.jpg)](http://habi.gna.ch/blog/images/lungtester.jpg)do you want to see how your lung capacity compares to top athletes? for the first time it's now possible to test your lung directly on the internet through a nifty new algorithm. you can take [the free lung test here](http://lungtester.com/).
   

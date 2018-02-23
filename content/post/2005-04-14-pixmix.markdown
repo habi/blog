@@ -1,27 +1,25 @@
 ---
 author: admin
+categories:
+- personal
+- tschörman
 comments: true
-date: 2005-04-14 21:27:32+00:00
-layout: post
+date: 2005-04-14T21:27:32Z
 link: http://habi.gna.ch/2005/04/14/pixmix/
 slug: pixmix
 title: pixmix
 wordpress_id: 765
-categories:
-- personal
-- tschörman
 ---
-
 
 [![Derblaueadler](http://habi.gna.ch/blog/images/derblaueadler-tm.jpg)](http://habi.gna.ch/blog/images/derblaueadler.jpg)aus akutellem und bernbezogenem anlass in deutsch:
 
 
 
-nachsten mittwoch abend findet [pixmix vol III](http://www.starfrosch.ch/starfrosch/module-pagesetter-viewpub-tid-8-pid-39.html)[1] in der dampfzentrale statt. der [urs](http://www.flickr.com/photos/habi/sets/22039/) (bzw. der luchs), gosi und [splint](http://splint.ch) machen da eine kleine, sicherlich sehr lustige geschichte, namlich ein tag im leben eines prototypen des postmodernen proletariats: der fahrrad-eilbote. das heisst, der urs wird eine 7minutige geschichte in 20 bildern erzahlen die splint fotografiert hat und auf denen gosi zu sehen ist. so cool wie der flyer ruberkommt, muss das ja gut werden. wenn du links auf das bild klickts, kannst du den flyer in seiner ganzen grosse und herrlichkeit runterladen.
+nächsten mittwoch abend findet [pixmix vol III](http://www.starfrosch.ch/starfrosch/module-pagesetter-viewpub-tid-8-pid-39.html)[1] in der dampfzentrale statt. der [urs](http://www.flickr.com/photos/habi/sets/22039/) (bzw. der luchs), gosi und [splint](http://splint.ch) machen da eine kleine, sicherlich sehr lustige geschichte, nämlich ein tag im leben eines prototypen des postmodernen proletariats: der fahrrad-eilbote. das heisst, der urs wird eine 7minütige geschichte in 20 bildern erzählen die splint fotografiert hat und auf denen gosi zu sehen ist. so cool wie der flyer rüberkommt, muss das ja gut werden. wenn du links auf das bild klickts, kannst du den flyer in seiner ganzen grösse und herrlichkeit runterladen.
   
 nebenbei werden auch noch [einige andere](http://www.starfrosch.ch/starfrosch/module-pagesetter-viewpub-tid-6-pid-167.html) dort sein und ihre pixes mixen, das ganze wird also sicher ein gfreuter abend...
 
 
 
-[1] der [leumund](http://leumund.ch/) hat glaubich auch schon mal was daruber geschrieben, und [starfrosch.ch](http://www.starfrosch.ch/) ist ein cooles musik-netlabel-ding, dessen macher ich schon immer mal treffen wollte. mal schauen, wie das wird....
+[1] der [leumund](http://leumund.ch/) hat glaubich auch schon mal was darüber geschrieben, und [starfrosch.ch](http://www.starfrosch.ch/) ist ein cooles musik-netlabel-ding, dessen macher ich schon immer mal treffen wollte. mal schauen, wie das wird....
 

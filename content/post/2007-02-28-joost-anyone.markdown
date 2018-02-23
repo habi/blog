@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- gadgets and gizmos
+- technospeak
 comments: true
-date: 2007-02-28 22:38:08+00:00
-layout: post
+date: 2007-02-28T22:38:08Z
 link: http://habi.gna.ch/2007/02/28/joost-anyone/
 slug: joost-anyone
 title: joost anyone?
 wordpress_id: 873
-categories:
-- gadgets and gizmos
-- technospeak
 ---
 
 is any of my readers interested to try out [joost](http://joost.com/)? it's the thing that was formerly called [the venice project](http://www.google.com/search?client=safari&rls=en&q=the+venice+project&ie=UTF-8&oe=UTF-8) and is a bit the same as [zattoo](http://zattoo.com/), but not enterly [1]. read more about joost in the last [wired here](http://www.wired.com/wired/archive/15.02/trouble.html).

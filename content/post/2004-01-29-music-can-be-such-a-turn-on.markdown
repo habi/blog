@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-29 21:58:22+00:00
-layout: post
+date: 2004-01-29T21:58:22Z
 link: http://habi.gna.ch/2004/01/29/music-can-be-such-a-turn-on/
 slug: music-can-be-such-a-turn-on
 title: music can be such a turn-on
 wordpress_id: 425
-categories:
-- none
 ---
 
 i couldn't live without music!

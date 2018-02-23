@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2008-01-21 23:22:43+00:00
-layout: post
+date: 2008-01-21T23:22:43Z
 link: http://habi.gna.ch/2008/01/22/cimst-symposium/
 slug: cimst-symposium
 title: CIMST-Symposium
 wordpress_id: 1164
-categories:
-- technospeak
 ---
 
-
-  [![I am a hard bloggin' scientist. Read the Manifesto.](http://www.hardbloggingscientists.de/logos/hardbloggin_normal.gif)](http://www.hardbloggingscientists.de/?page_id=14)the last few days were quite busy at work: i'm doing a block-course in "Biomaterials" at the ETHZ, starting today, so there was quite some catching up to do, and I also wanted to present a poster at the [CIMST-Symposium](http://www.cimst.ethz.ch/news/symposium) which takes place during the first two days of this blockcourse. next week I have another symposium and a talk in front of the whole institute covering the work I did in the last year. this means that I some quite long days, but the results so far are worth it.
+[![I am a hard bloggin' scientist. Read the Manifesto.](http://www.hardbloggingscientists.de/logos/hardbloggin_normal.gif)](http://www.hardbloggingscientists.de/?page_id=14)the last few days were quite busy at work: i'm doing a block-course in "Biomaterials" at the ETHZ, starting today, so there was quite some catching up to do, and I also wanted to present a poster at the [CIMST-Symposium](http://www.cimst.ethz.ch/news/symposium) which takes place during the first two days of this blockcourse. next week I have another symposium and a talk in front of the whole institute covering the work I did in the last year. this means that I some quite long days, but the results so far are worth it.
 
 
 

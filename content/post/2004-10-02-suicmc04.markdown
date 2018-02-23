@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- bike
+- none
 comments: true
-date: 2004-10-02 14:19:28+00:00
-layout: post
+date: 2004-10-02T14:19:28Z
 link: http://habi.gna.ch/2004/10/02/suicmc04/
 slug: suicmc04
 title: suicmc04
 wordpress_id: 633
-categories:
-- bike
-- none
 ---
 
 here's the flyer to the suicmc04 here in bern.

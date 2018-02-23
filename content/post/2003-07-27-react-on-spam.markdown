@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-07-27 21:13:46+00:00
-layout: post
+date: 2003-07-27T21:13:46Z
 link: http://habi.gna.ch/2003/07/27/react-on-spam/
 slug: react-on-spam
 title: React on SPAM!
 wordpress_id: 236
-categories:
-- none
 ---
 
 The [Sonntagszeitung](http://www.sonntagszeitung.ch/) (the sunday paper here in Switzerland) of today had a [funny article](http://www.sonntagszeitung.ch/dyn/news/multimedia/295019.html) on the SPAM i get quite a lot lately... 

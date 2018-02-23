@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2014-09-01 19:00:14+00:00
-layout: post
-link: http://habi.gna.ch/2014/09/01/recommended-readings-01-september-2014/
-slug: recommended-readings-01-september-2014
-title: 'Recommended readings: 1. September 2014'
-wordpress_id: 3570
 categories:
 - linkdump
+comments: true
+date: 2014-09-01T19:00:14Z
+link: http://habi.gna.ch/2014/09/01/recommended-readings-01-september-2014/
+slug: recommended-readings-01-september-2014
 tags:
 - instapaper
+title: 'Recommended readings: 1. September 2014'
+wordpress_id: 3570
 ---
 
 Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:

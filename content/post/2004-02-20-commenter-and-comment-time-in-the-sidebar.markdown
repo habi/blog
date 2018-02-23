@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-02-20 17:59:39+00:00
-layout: post
+date: 2004-02-20T17:59:39Z
 link: http://habi.gna.ch/2004/02/20/commenter-and-comment-time-in-the-sidebar/
 slug: commenter-and-comment-time-in-the-sidebar
 title: commenter and comment time in the sidebar
 wordpress_id: 441
-categories:
-- none
 ---
 
 using [b.](http://www.bernhardseefeld.ch/)'s code he wrote for my [itunes-trackback-thingie](http://habi.gna.ch/blog/archives/000129.html) i prettied up the comment stuff a bit. (i hope the code he sucked out of his brain is "freeware" :-)

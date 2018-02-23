@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-07-27 21:19:41+00:00
-layout: post
+date: 2004-07-27T21:19:41Z
 link: http://habi.gna.ch/2004/07/27/easy-come-easy-go/
 slug: easy-come-easy-go
 title: easy come, easy go
 wordpress_id: 589
-categories:
-- none
 ---
 
 easy come: 

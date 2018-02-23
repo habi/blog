@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2007-01-23 18:58:31+00:00
-layout: post
+date: 2007-01-23T18:58:31Z
 link: http://habi.gna.ch/2007/01/23/schnee/
 slug: schnee
 title: schnee?
 wordpress_id: 846
-categories:
-- moblog
 ---
 
-
- [![](http://farm1.static.flickr.com/105/367203197_7228884437_m.jpg)](http://www.flickr.com/photos/habi/367203197/)
+[![](http://farm1.static.flickr.com/105/367203197_7228884437_m.jpg)](http://www.flickr.com/photos/habi/367203197/)
    
 
  

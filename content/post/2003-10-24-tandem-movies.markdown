@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-24 16:34:12+00:00
-layout: post
+date: 2003-10-24T16:34:12Z
 link: http://habi.gna.ch/2003/10/24/tandem-movies/
 slug: tandem-movies
 title: tandem-movies
 wordpress_id: 324
-categories:
-- none
 ---
 
 well, i just can't help posting some more:

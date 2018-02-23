@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2015-10-25 14:04:03+00:00
-layout: post
-link: http://habi.gna.ch/2015/10/25/uh-isch-das-schon-im-waud/
-slug: uh-isch-das-schon-im-waud
-title: Üh, isch das schön im Waud!
-wordpress_id: 4078
 categories:
 - moblog
 - photos
+comments: true
+date: 2015-10-25T14:04:03Z
+link: http://habi.gna.ch/2015/10/25/uh-isch-das-schon-im-waud/
+slug: uh-isch-das-schon-im-waud
 tags:
 - flickr
 - IFTTT
 - moblog
+title: Üh, isch das schön im Waud!
+wordpress_id: 4078
 ---
 
 ![](http://ift.tt/1N0JKbP)  

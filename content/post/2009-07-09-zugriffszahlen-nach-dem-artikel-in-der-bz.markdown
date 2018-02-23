@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- technospeak
 comments: true
-date: 2009-07-09 08:02:37+00:00
-layout: post
+date: 2009-07-09T08:02:37Z
 link: http://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/
 slug: zugriffszahlen-nach-dem-artikel-in-der-bz
 title: Zugriffszahlen nach dem Artikel in der BZ
 wordpress_id: 1831
-categories:
-- personal
-- technospeak
 ---
 
 mich als zahlen-nerd hat's interessiert, ob und wie sich die zugriffs-zahlen auf mein bescheidenes blog verändern, wenn meine URL in der BZ [auftaucht](http://www.bernerzeitung.ch/digital/gadgets/Evernote/story/17872878). 

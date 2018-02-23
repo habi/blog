@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- apple
+- technospeak
 comments: true
-date: 2003-12-15 21:46:31+00:00
-layout: post
+date: 2003-12-15T21:46:31Z
 link: http://habi.gna.ch/2003/12/15/windows-vs-os-x/
 slug: windows-vs-os-x
 title: windows vs. os x
 wordpress_id: 379
-categories:
-- apple
-- technospeak
 ---
 
 take a look at these screenshots:

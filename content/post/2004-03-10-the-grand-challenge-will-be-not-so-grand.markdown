@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-10 16:33:36+00:00
-layout: post
+date: 2004-03-10T16:33:36Z
 link: http://habi.gna.ch/2004/03/10/the-grand-challenge-will-be-not-so-grand/
 slug: the-grand-challenge-will-be-not-so-grand
 title: the grand challenge will be not so grand
 wordpress_id: 462
-categories:
-- none
 ---
 
 as [engadget](http://www.engadget.com/entry/5574815369303348/) writes [the grand challenge](http://habi.gna.ch/blog/archives/000242.html) will not be so grand. 

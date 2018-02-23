@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-10-03 20:28:23+00:00
-layout: post
-link: http://habi.gna.ch/2007/10/03/the-scanblog-is-back/
-slug: the-scanblog-is-back
-title: the scanblog is back!
-wordpress_id: 1048
 categories:
 - fun
 - switzerland
 - tschörman
+comments: true
+date: 2007-10-03T20:28:23Z
+link: http://habi.gna.ch/2007/10/03/the-scanblog-is-back/
+slug: the-scanblog-is-back
+title: the scanblog is back!
+wordpress_id: 1048
 ---
 
 [chm](http://bloxxs.ch/?p=1070) hat das [jung&frei'sche scanblog](http://www.jungundfrei.ch/photoblog/) aus der versenkung geholt, und betreibt es neu unter der adresse [scänblog.ch](http://sc%C3%A4nblog.ch/) [1].

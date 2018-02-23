@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2008-05-17 14:44:09+00:00
-layout: post
-link: http://habi.gna.ch/2008/05/17/tauchen-in-cadaques/
-slug: tauchen-in-cadaques
-title: tauchen in cadaques
-wordpress_id: 1266
 categories:
 - diving
 - personal
 - pictures
 - tschörman
+comments: true
+date: 2008-05-17T14:44:09Z
+link: http://habi.gna.ch/2008/05/17/tauchen-in-cadaques/
+slug: tauchen-in-cadaques
 tags:
 - diving
 - spain
+title: tauchen in cadaques
+wordpress_id: 1266
 ---
 
 wie vielleicht schon zu erraten war, bin ich über pfingsten in [cadaques](http://en.wikipedia.org/wiki/Cadaqu%C3%A9s) in spanien am tauchen gewesen.

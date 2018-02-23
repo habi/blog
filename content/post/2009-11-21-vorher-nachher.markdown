@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2009-11-21 12:03:49+00:00
-layout: post
+date: 2009-11-21T12:03:49Z
 link: http://habi.gna.ch/2009/11/21/vorher-nachher/
 slug: vorher-nachher
 title: vorher - nachher
 wordpress_id: 1985
-categories:
-- personal
 ---
 
 doch, das ist gut gekommen:

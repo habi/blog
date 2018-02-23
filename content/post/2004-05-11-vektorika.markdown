@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-05-11 20:24:42+00:00
-layout: post
+date: 2004-05-11T20:24:42Z
 link: http://habi.gna.ch/2004/05/11/vektorika/
 slug: vektorika
 title: vektorika
 wordpress_id: 528
-categories:
-- none
 ---
 
 [![vektorika1](http://habi.gna.ch/blog/images/vektorika1-tm.jpg)](http://habi.gna.ch/blog/images/vektorika1.gif)[piece blogged vektorika](http://www.web-laun.ch/pieceoBlog/index.php?p=1056) quite some time ago. 

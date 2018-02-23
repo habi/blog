@@ -1,17 +1,16 @@
 ---
 author: admin
+categories:
+- switzerland
 comments: true
-date: 2010-12-18 12:49:46+00:00
-layout: post
+date: 2010-12-18T12:49:46Z
 link: http://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/
 slug: stand-meiner-spezial-spende-aktion
 title: Stand meiner Spezial-Spende-Aktion [update 2]
 wordpress_id: 2337
-categories:
-- switzerland
 ---
 
-Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotter an [Jeder Rappen zahlt](http://www.jrz.ch/www/de/drs3/jeder-rappen-zaehlt.html) ubergeben. Heute morgen habe ich rundum die Dampfzentrale gesehen (in SichtbarkeitsReihenfolge):
+Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotter an [Jeder Rappen zählt](http://www.jrz.ch/www/de/drs3/jeder-rappen-zaehlt.html) übergeben. Heute morgen habe ich rundum die Dampfzentrale gesehen (in SichtbarkeitsReihenfolge):
 
 
 
@@ -34,7 +33,7 @@ Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotte
 
 
   
-  * [Herr Moser](http://twitter.com/#!/habasch) (glaub's, denn wir kennen uns noch nicht personlich)
+  * [Herr Moser](http://twitter.com/#!/habasch) (glaub's, denn wir kennen uns noch nicht persönlich)
 
 
   
@@ -43,7 +42,7 @@ Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotte
 
 
 
-Ich werde in der nachsten Zeit diesen Eintrag mit den eintrudelnden Fotos aktualisieren.
+Ich werde in der nächsten Zeit diesen Eintrag mit den eintrudelnden Fotos aktualisieren.
 
 
 
@@ -53,7 +52,7 @@ Bis jetzt habe ich diese Fotos gesehen:
 
 
 
-[Raphael](http://www.flickr.com/photos/raphael_moser/5270407439/) findet, mensch sehe mein Sixpack, ich finde, ich muss etwas Winterspeck verlieren, zahle aber fur das gute Foto trotzdem 50.- bei kiva.org:
+[Raphael](http://www.flickr.com/photos/raphael_moser/5270407439/) findet, mensch sehe mein Sixpack, ich finde, ich muss etwas Winterspeck verlieren, zahle aber für das gute Foto trotzdem 50.- bei kiva.org:
 
 [![Aareschwümme 2010](http://farm6.static.flickr.com/5207/5270407439_08e708368c.jpg)](http://www.flickr.com/photos/raphael_moser/5270407439/)  
 
@@ -73,7 +72,7 @@ kiva-Spenden-Stand: 75.-
 
 
 
-Die restlichen Fotos, die auftauchen, werde ich hier vermerken und dann (evtl. erst in ein paar Tagen) den Totalbetrag fur kiva.org zusammentragen.
+Die restlichen Fotos, die auftauchen, werde ich hier vermerken und dann (evtl. erst in ein paar Tagen) den Totalbetrag für kiva.org zusammentragen.
 
 
 
@@ -103,7 +102,7 @@ Da auf [Ninas Foto](http://www.flickr.com/photos/ninahostettler/5271385089/) (un
 
   
 
-Die Fotos meines Vaters sind (momentan) nur fur Familienangehorige zu sehen, ich habe mir aber die Freiheit herausgenommen, [hier](http://cl.ly/3glh) einen Screenshot abzulegen.
+Die Fotos meines Vaters sind (momentan) nur für Familienangehörige zu sehen, ich habe mir aber die Freiheit herausgenommen, [hier](http://cl.ly/3glh) einen Screenshot abzulegen.
 
 
 
@@ -117,7 +116,7 @@ Die Fotos meines Vaters sind (momentan) nur fur Familienangehorige zu sehen, ich
 
 
 
-Stand 18. Dezember 2010 20:33: **125.-** (falls Karins Bild noch auftaucht) von mir personlich und 50.- von Tinu selbst. Je nach Ausgang der Diskussion [hier](http://www.flickr.com/photos/leumund/5271097890/) gibt's nochmals 25.- Topping.
+Stand 18. Dezember 2010 20:33: **125.-** (falls Karins Bild noch auftaucht) von mir persönlich und 50.- von Tinu selbst. Je nach Ausgang der Diskussion [hier](http://www.flickr.com/photos/leumund/5271097890/) gibt's nochmals 25.- Topping.
 
 
 

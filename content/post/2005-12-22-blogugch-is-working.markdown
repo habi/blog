@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- switzerland
+- technospeak
 comments: true
-date: 2005-12-22 21:47:21+00:00
-layout: post
+date: 2005-12-22T21:47:21Z
 link: http://habi.gna.ch/2005/12/22/blogugch-is-working/
 slug: blogugch-is-working
 title: '*.blogug.ch is working'
 wordpress_id: 116
-categories:
-- switzerland
-- technospeak
 ---
-
 
 after some heated debates about opml-files and licensing problems (which i've not taken part in) there's a new open swiss weblog directory, where every blogging person should add their feed. as far as i understand it, it's supposed to become a complete repository of all swiss feeds, where people then can build services with it (aggregators and other tools).
 

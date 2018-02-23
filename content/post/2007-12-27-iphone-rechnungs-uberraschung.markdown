@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-12-27 14:31:53+00:00
-layout: post
-link: http://habi.gna.ch/2007/12/27/iphone-rechnungs-uberraschung/
-slug: iphone-rechnungs-uberraschung
-title: iphone-rechnungs-überraschung
-wordpress_id: 1111
 categories:
 - apple
 - personal
 - tschörman
+comments: true
+date: 2007-12-27T14:31:53Z
+link: http://habi.gna.ch/2007/12/27/iphone-rechnungs-uberraschung/
+slug: iphone-rechnungs-uberraschung
+title: iphone-rechnungs-überraschung
+wordpress_id: 1111
 ---
 
 seit knapp zwei monaten besitze ich ein iphone und bereue den kauf überhaupt nicht. bis heute sind mir trotzdem zwei probleme aufgefallen:

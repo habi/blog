@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2004-10-31 20:59:00+00:00
-layout: post
+date: 2004-10-31T20:59:00Z
 link: http://habi.gna.ch/2004/10/31/pictures-of-the-week-45/
 slug: pictures-of-the-week-45
 title: pictures of the week  45
 wordpress_id: 664
-categories:
-- picture of the week
 ---
 
 today i've been in the [rope-park](http://www.seilpark-gantrisch.ch/) with nine (a belated birthday surprise for her).

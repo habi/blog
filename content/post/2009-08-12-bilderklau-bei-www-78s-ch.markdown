@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2009-08-12 10:14:36+00:00
-layout: post
-link: http://habi.gna.ch/2009/08/12/bilderklau-bei-www-78s-ch/
-slug: bilderklau-bei-www-78s-ch
-title: Bilderklau bei www.78s.ch [update]
-wordpress_id: 1891
 categories:
 - personal
 - pictures
 - switzerland
+comments: true
+date: 2009-08-12T10:14:36Z
+link: http://habi.gna.ch/2009/08/12/bilderklau-bei-www-78s-ch/
+slug: bilderklau-bei-www-78s-ch
+title: Bilderklau bei www.78s.ch [update]
+wordpress_id: 1891
 ---
 
 eine etwas längere geschichte, aber heute bin ich bei [78s](http://www.78s.ch/2009/02/21/so-wird-der-festivalsommer-2009/) auf einen beitrag gestossen, bei dem mir das foto extrem bekannt vorkam. es ist [mein panorama](http://www.flickr.com/photos/habi/888370993/) vom joss stone konzert am gurtenfestival 2007, zugegebenermassen kein extrem gutes bild, aber immerhin.

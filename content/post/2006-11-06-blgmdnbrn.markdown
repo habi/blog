@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2006-11-06 20:48:24+00:00
-layout: post
-link: http://habi.gna.ch/2006/11/06/blgmdnbrn/
-slug: blgmdnbrn
-title: blgmdnbrn [update]
-wordpress_id: 812
 categories:
 - linkdump
 - meetings
 - personal
 - tschörman
+comments: true
+date: 2006-11-06T20:48:24Z
+link: http://habi.gna.ch/2006/11/06/blgmdnbrn/
+slug: blgmdnbrn
+title: blgmdnbrn [update]
+wordpress_id: 812
 ---
 
 wieder einmal ein lustiger abend im domino:

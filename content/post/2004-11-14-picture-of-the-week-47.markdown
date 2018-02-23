@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2004-11-14 20:56:26+00:00
-layout: post
+date: 2004-11-14T20:56:26Z
 link: http://habi.gna.ch/2004/11/14/picture-of-the-week-47/
 slug: picture-of-the-week-47
 title: picture of the week 47
 wordpress_id: 673
-categories:
-- picture of the week
 ---
 
-
-the picture of this week is especially for [raph](http://velocite.ch/article.php3?id_article=17) and [dom](http://velocite.ch/article.php3?id_article=16) from [velocite](http://velocite.ch/) which seem to be avid readers of my blog :-)
+the picture of this week is especially for [raph](http://velocite.ch/article.php3?id_article=17) and [dom](http://velocite.ch/article.php3?id_article=16) from [velocité](http://velocite.ch/) which seem to be avid readers of my blog :-)
 
 
 
@@ -20,7 +18,7 @@ the picture of this week is especially for [raph](http://velocite.ch/article.php
 
 
 
-it shows a bunch of messengers at the [veloblitz](http://veloblitz.ch/MainFrame.htm) on saturday evening. the veloblitz was one of the first messengers that started in switzerland (among the first ones was the velokurier bern) and they had the fifteenth anniversary this weekend. from left to right you can see raphael feiss from velocite, stefan p. frohlich from flash, randall from flash ans some other messenger. i truly apologize for the bad picture, but the batteries in my camera were so empty that was literally the only picture i took that evening.
+it shows a bunch of messengers at the [veloblitz](http://veloblitz.ch/MainFrame.htm) on saturday evening. the veloblitz was one of the first messengers that started in switzerland (among the first ones was the velokurier bern) and they had the fifteenth anniversary this weekend. from left to right you can see raphael feiss from velocite, stefan p. fröhlich from flash, randall from flash ans some other messenger. i truly apologize for the bad picture, but the batteries in my camera were so empty that was literally the only picture i took that evening.
   
 the whole evening was really nice, after some terrific food (by [lilys](http://lilys.ch/)) the gals from the blitz prepared a funny alleycat. we from bern [fibbed](http://dict.leo.org/se?p=/Mn4k.&search=fib) a bit (the alleycat was designed to be made on your own, you had to throw dices to get your next pickup/dropoff, but we wanted to stay together), but we had to, 'cause splint was filming the whole with his fancy helmet-cam. if i get some time (and his camera, firewirecable and all the other important stuff) i might make a nice movie out of his material which sometimes you might get to see here.
   

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-11-24 22:05:17+00:00
-layout: post
+date: 2003-11-24T22:05:17Z
 link: http://habi.gna.ch/2003/11/25/put-on-your-dancing-shoes/
 slug: put-on-your-dancing-shoes
 title: put on your dancing shoes
 wordpress_id: 357
-categories:
-- none
 ---
 
 next weekend nina and i go to the [polyball](http://www.polyball.ethz.ch/) which is the biggest decorated and themed ball in europe, there are supposed to be around 10k people. 

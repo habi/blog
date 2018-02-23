@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-11 22:47:03+00:00
-layout: post
+date: 2004-01-11T22:47:03Z
 link: http://habi.gna.ch/2004/01/12/bush-in-30-seconds/
 slug: bush-in-30-seconds
 title: bush in 30 seconds
 wordpress_id: 402
-categories:
-- none
 ---
 
 If you haven't seen the ironic ads for the Bush administration up to now, then it's a good time to go to [bush in 30 seconds](http://www.bushin30seconds.com/).

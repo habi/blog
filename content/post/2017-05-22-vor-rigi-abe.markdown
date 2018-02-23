@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2017-05-22 13:08:09+00:00
-layout: post
-link: http://habi.gna.ch/2017/05/22/vor-rigi-abe/
-slug: vor-rigi-abe
-title: Vor Rigi abe.
-wordpress_id: 5094
 categories:
 - moblog
 - photos
+comments: true
+date: 2017-05-22T13:08:09Z
+link: http://habi.gna.ch/2017/05/22/vor-rigi-abe/
+slug: vor-rigi-abe
 tags:
 - clouds
 - flickr
@@ -19,6 +16,8 @@ tags:
 - moblog
 - rigi
 - timelapse
+title: Vor Rigi abe.
+wordpress_id: 5094
 ---
 
 ![](http://ift.tt/2rKBipy)  

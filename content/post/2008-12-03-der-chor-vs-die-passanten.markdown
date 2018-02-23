@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2008-12-03 18:45:44+00:00
-layout: post
+date: 2008-12-03T18:45:44Z
 link: http://habi.gna.ch/2008/12/03/der-chor-vs-die-passanten/
 slug: der-chor-vs-die-passanten
 title: Der Chor vs. die Passanten
 wordpress_id: 1582
-categories:
-- none
 ---
 
-
- [![](http://farm4.static.flickr.com/3210/3079812367_93f120e293_m.jpg)](http://www.flickr.com/photos/habi/3079812367/)
+[![](http://farm4.static.flickr.com/3210/3079812367_93f120e293_m.jpg)](http://www.flickr.com/photos/habi/3079812367/)
    
 
  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: false
-date: 2007-01-28 21:20:39+00:00
-layout: post
+date: 2007-01-28T21:20:39Z
 link: http://habi.gna.ch/2007/01/28/10000-spam-comments/
 slug: 10000-spam-comments
 title: 10000 spam comments
 wordpress_id: 866
-categories:
-- technospeak
 ---
 
 i've installed [wordpress](http://wordpress.org/) 4 months ago and have to say that i'm really happy with it. [1]

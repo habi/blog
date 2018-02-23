@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-04-30 15:30:09+00:00
-layout: post
+date: 2004-04-30T15:30:09Z
 link: http://habi.gna.ch/2004/04/30/ostro/
 slug: ostro
 title: ostro
 wordpress_id: 517
-categories:
-- none
 ---
 
 today i got a mail from [poland](http://habi.gna.ch/blog/archives/000125.html).

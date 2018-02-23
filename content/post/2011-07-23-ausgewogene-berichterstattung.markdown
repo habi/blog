@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2011-07-23 08:02:18+00:00
-layout: post
+date: 2011-07-23T08:02:18Z
 link: http://habi.gna.ch/2011/07/23/ausgewogene-berichterstattung/
 slug: ausgewogene-berichterstattung
 title: Ausgewogene Berichterstattung?
 wordpress_id: 2537
-categories:
-- personal
 ---
 
-
- [![](http://farm7.static.flickr.com/6011/5965922827_5bbb1aa991_m.jpg)](http://www.flickr.com/photos/habi/5965922827/)
+[![](http://farm7.static.flickr.com/6011/5965922827_5bbb1aa991_m.jpg)](http://www.flickr.com/photos/habi/5965922827/)
    
 
  

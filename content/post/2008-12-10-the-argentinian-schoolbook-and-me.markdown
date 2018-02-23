@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2008-12-10 19:48:33+00:00
-layout: post
-link: http://habi.gna.ch/2008/12/10/the-argentinian-schoolbook-and-me/
-slug: the-argentinian-schoolbook-and-me
-title: the argentinian schoolbook and me
-wordpress_id: 1586
 categories:
 - diving
 - personal
 - pictures
+comments: true
+date: 2008-12-10T19:48:33Z
+link: http://habi.gna.ch/2008/12/10/the-argentinian-schoolbook-and-me/
+slug: the-argentinian-schoolbook-and-me
 tags:
 - bo
 - creativecommons
 - diving
 - school
+title: the argentinian schoolbook and me
+wordpress_id: 1586
 ---
 
 i don't have a story like [iron man and me](http://adactio.com/journal/1530/), but a nice one to tell anyways:

@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2015-05-16 05:49:56+00:00
-layout: post
-link: http://habi.gna.ch/2015/05/16/aline/
-slug: aline
-title: Aline
-wordpress_id: 3908
 categories:
 - personal
 - photos
+comments: true
+date: 2015-05-16T05:49:56Z
+link: http://habi.gna.ch/2015/05/16/aline/
+slug: aline
 tags:
 - aline
 - k1
 - timelapse
 - velocontent
+title: Aline
+wordpress_id: 3908
 ---
 
 In ein paar der letzten Posts waren zwischendurch Hinweise gestreut, wem's bis jetzt noch nicht klar wurde: vor genau zwei Monaten bin ich Vater geworden.

@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2014-06-28 11:13:26+00:00
-layout: post
-link: http://habi.gna.ch/2014/06/28/road-bike-party/
-slug: road-bike-party
-title: Road Bike Party
-wordpress_id: 3543
 categories:
 - bike
+comments: true
+date: 2014-06-28T11:13:26Z
+link: http://habi.gna.ch/2014/06/28/road-bike-party/
+slug: road-bike-party
 tags:
 - velocontent
+title: Road Bike Party
+wordpress_id: 3543
 ---
 
 Wer die Road Bike Party-Videos nicht kennt, hat etwas verpasst.

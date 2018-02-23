@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-23 18:07:17+00:00
-layout: post
+date: 2003-10-23T18:07:17Z
 link: http://habi.gna.ch/2003/10/23/todays-fun-link/
 slug: todays-fun-link
 title: todays fun link
 wordpress_id: 322
-categories:
-- none
 ---
 
 well, if you google [this](http://www.ricardo.ch/cgi-bin/auk?lng=de;cmd=viewlot;lotid=307745343;OrderBy=CloseTime;SortOrder=), then you get [this](http://www.expansys.at/product.asp?code=AHS-10) :-)

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- switzerland
 comments: true
-date: 2009-08-03 15:54:38+00:00
-layout: post
+date: 2009-08-03T15:54:38Z
 link: http://habi.gna.ch/2009/08/03/allalinhorn/
 slug: allalinhorn
 title: allalinhorn
 wordpress_id: 1881
-categories:
-- switzerland
 ---
 
 schon seit einiger zeit hat mir [dan](http://ngoylamintom.blogspot.com/), mein ehemaliger mitbewohner, den floh ins ohr gesetzt, dass wir mal auf's allalinhorn wandern könnten. das allalinhorn ist einer der schweizer 4000er, der als einfach zu ersteigen gilt. dank öV kann mensch bis ca. 600m unter den gipfel des allalinhorns anreisen und dann in ca. 2.5h hoch und in gut 1.5h wieder runterwandern. auch wenn das allalinhorn als einfach zu ersteigender 4000er gilt, waren trotzdem seil, gschtältli, steigeisen und pickel notwendig. dank bekannten war dies aber einfach zu organisieren und so machten wir uns am samstag morgen um 06.07 auf den weg ins wallis um die hochtour zu starten.

@@ -1,18 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2008-09-14 21:26:05+00:00
-layout: post
-link: http://habi.gna.ch/2008/09/14/drei-andere-backward-circle-teilnehmer-in-der-halben-zeit-suicmc08/
-slug: drei-andere-backward-circle-teilnehmer-in-der-halben-zeit-suicmc08
-title: drei andere backward circle-teilnehmer in der halben zeit suicmc08 [video]
-wordpress_id: 1456
 categories:
 - bike
+comments: true
+date: 2008-09-14T21:26:05Z
+link: http://habi.gna.ch/2008/09/14/drei-andere-backward-circle-teilnehmer-in-der-halben-zeit-suicmc08/
+slug: drei-andere-backward-circle-teilnehmer-in-der-halben-zeit-suicmc08
 tags:
 - bike
 - suicmc08
+title: drei andere backward circle-teilnehmer in der halben zeit suicmc08 [video]
+wordpress_id: 1456
 ---
-
 
 einfach so, damit mensch sieht, wie schwer das ganze ist...

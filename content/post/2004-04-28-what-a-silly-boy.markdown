@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-04-28 21:53:27+00:00
-layout: post
+date: 2004-04-28T21:53:27Z
 link: http://habi.gna.ch/2004/04/28/what-a-silly-boy/
 slug: what-a-silly-boy
 title: what a silly boy.
 wordpress_id: 516
-categories:
-- none
 ---
 
 i could slap my head!

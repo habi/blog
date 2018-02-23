@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
+- music
 comments: true
-date: 2004-06-27 20:24:39+00:00
-layout: post
+date: 2004-06-27T20:24:39Z
 link: http://habi.gna.ch/2004/06/27/mixed-tape/
 slug: mixed-tape
 title: mixed tape
 wordpress_id: 567
-categories:
-- linkdump
-- music
 ---
 
 mercedes benz (yes, the [car maker](http://www.mercedes-benz.com/)) has released 15 nice tracks as mp3's for your pleasure, you can download them for free and they all add up to a [mixed tape](http://www.mixed-tape.com/).

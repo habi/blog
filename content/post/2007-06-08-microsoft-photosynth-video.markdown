@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- gadgets and gizmos
+- technospeak
 comments: true
-date: 2007-06-08 12:53:01+00:00
-layout: post
+date: 2007-06-08T12:53:01Z
 link: http://habi.gna.ch/2007/06/08/microsoft-photosynth-video/
 slug: microsoft-photosynth-video
 title: microsoft photosynth [video]
 wordpress_id: 953
-categories:
-- gadgets and gizmos
-- technospeak
 ---
 
 the [ted-talks](http://www.ted.com/talks) are always a good source for inspiration and sometimes are just pure eyecandy and droolworthy innovations.

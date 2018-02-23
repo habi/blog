@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2016-01-01 10:11:14+00:00
-layout: post
-link: http://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/
-slug: making-of-neujahrskartli-2016
-title: 'Making of: Neujahrskärtli 2016'
-wordpress_id: 4158
 categories:
 - personal
+comments: true
+date: 2016-01-01T10:11:14Z
+link: http://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/
+slug: making-of-neujahrskartli-2016
 tags:
 - happy new year
 - kocherpark
 - making of
 - neujahrskarte
 - äs guet nöis
+title: 'Making of: Neujahrskärtli 2016'
+wordpress_id: 4158
 ---
 
 Wie [letztes Jahr](http://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/), für die, die's wunder nimmt. Das Making Of meines Neujahrskärtlis.

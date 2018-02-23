@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2017-10-02 21:08:09+00:00
-layout: post
-link: http://habi.gna.ch/2017/10/02/recommended-readings-september-2017-2/
-slug: recommended-readings-september-2017-2
-title: 'Recommended readings: September 2017'
-wordpress_id: 5198
 categories:
 - linkdump
 - personal
+comments: true
+date: 2017-10-02T21:08:09Z
+link: http://habi.gna.ch/2017/10/02/recommended-readings-september-2017-2/
+slug: recommended-readings-september-2017-2
 tags:
 - instapaper
 - reading
+title: 'Recommended readings: September 2017'
+wordpress_id: 5198
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

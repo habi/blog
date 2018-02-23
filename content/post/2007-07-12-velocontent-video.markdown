@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- bike
+- linkdump
 comments: true
-date: 2007-07-12 19:51:13+00:00
-layout: post
+date: 2007-07-12T19:51:13Z
 link: http://habi.gna.ch/2007/07/12/velocontent-video/
 slug: velocontent-video
 title: velocontent [video]
 wordpress_id: 992
-categories:
-- bike
-- linkdump
 ---
 
 [Bicycle Samba](http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=745906)  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-06-03 22:48:10+00:00
-layout: post
+date: 2004-06-03T22:48:10Z
 link: http://habi.gna.ch/2004/06/04/waterworld-ii/
 slug: waterworld-ii
 title: waterworld II
 wordpress_id: 545
-categories:
-- none
 ---
 
 it's been raining so much the last days here in bern, that [the pope](http://www.google.com/search?hl=en&lr=&ie=UTF-8&safe=off&c2coff=1&q=papst+besuch+bern&btnG=Search) can be happy he'll stay so high up here (actually in [piece's neighborhood](http://www.web-laun.ch/pieceoBlog/index.php?p=1126)).

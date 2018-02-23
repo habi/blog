@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2014-01-11 16:22:56+00:00
-layout: post
+date: 2014-01-11T16:22:56Z
 link: http://habi.gna.ch/2014/01/11/erster-tauchgang-im-2014/
 slug: erster-tauchgang-im-2014
 title: Erster Tauchgang im 2014
 wordpress_id: 3351
-categories:
-- personal
 ---
 
 [![Erster Tauchgang im 2014 by habi](http://farm4.staticflickr.com/3814/11890047066_170b15beb3.jpg)](http://www.flickr.com/photos/habi/11890047066/)  

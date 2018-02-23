@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-01-18 18:12:49+00:00
-layout: post
+date: 2010-01-18T18:12:49Z
 link: http://habi.gna.ch/2010/01/18/kunst-am-bau/
 slug: kunst-am-bau
 title: Kunst am Bau
 wordpress_id: 2028
-categories:
-- personal
 ---
 
-
- [![](http://farm3.static.flickr.com/2782/4285654688_79a3c3c74f_m.jpg)](http://www.flickr.com/photos/habi/4285654688/)
+[![](http://farm3.static.flickr.com/2782/4285654688_79a3c3c74f_m.jpg)](http://www.flickr.com/photos/habi/4285654688/)
    
 
  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2004-06-20 20:14:42+00:00
-layout: post
+date: 2004-06-20T20:14:42Z
 link: http://habi.gna.ch/2004/06/20/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
 wordpress_id: 560
-categories:
-- picture of the week
 ---
 
 finally i can link to [this post](http://habi.bild.li/1744/view.html) on bild.li, because the picture of that photo-shooting is now available:

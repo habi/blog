@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-05-31 17:28:45+00:00
-layout: post
+date: 2004-05-31T17:28:45Z
 link: http://habi.gna.ch/2004/05/31/blingbling/
 slug: blingbling
 title: blingbling
 wordpress_id: 542
-categories:
-- none
 ---
 
 how do you like my new belt?

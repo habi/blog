@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2014-06-01 19:21:06+00:00
-layout: post
-link: http://habi.gna.ch/2014/06/01/recommended-readings-1-june-2014/
-slug: recommended-readings-1-june-2014
-title: 'Recommended readings: 1. June 2014'
-wordpress_id: 3457
 categories:
 - linkdump
+comments: true
+date: 2014-06-01T19:21:06Z
+link: http://habi.gna.ch/2014/06/01/recommended-readings-1-june-2014/
+slug: recommended-readings-1-june-2014
 tags:
 - instapaper
 - monthly readings
 - reading
 - vimeo
+title: 'Recommended readings: 1. June 2014'
+wordpress_id: 3457
 ---
 
 Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:

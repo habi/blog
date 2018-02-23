@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2017-01-09 22:09:37+00:00
-layout: post
-link: http://habi.gna.ch/2017/01/09/where-was-i-in-2016/
-slug: where-was-i-in-2016
-title: Where was I in 2016
-wordpress_id: 4979
 categories:
 - personal
 - switzerland
+comments: true
+date: 2017-01-09T22:09:37Z
+link: http://habi.gna.ch/2017/01/09/where-was-i-in-2016/
+slug: where-was-i-in-2016
 tags:
 - geodata
 - jahresrückblick
 - jahresrückblick16
+title: Where was I in 2016
+wordpress_id: 4979
 ---
 
 Hier einer weiterer Post zum Rückblick aufs 2016. Die anderen sind unter dem Tag [`jahresrückblick16`](http://habi.gna.ch/tag/jahresruckblick16) zu finden.

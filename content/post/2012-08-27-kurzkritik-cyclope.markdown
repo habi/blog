@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2012-08-27 18:26:17+00:00
-layout: post
-link: http://habi.gna.ch/2012/08/27/kurzkritik-cyclope/
-slug: kurzkritik-cyclope
-title: 'Kurzkritik: Cyclope'
-wordpress_id: 2870
 categories:
 - personal
+comments: true
+date: 2012-08-27T18:26:17Z
+link: http://habi.gna.ch/2012/08/27/kurzkritik-cyclope/
+slug: kurzkritik-cyclope
 tags:
 - biel
 - dance
 - kritik
 - theater
+title: 'Kurzkritik: Cyclope'
+wordpress_id: 2870
 ---
 
 Beim Freilichtspektakel [Cyclope](http://www.cyclope2012.ch/) wusste ich zwischendurch bei 13 Artisten und Artistinnen auf der Bühne fast nicht wo hinschauen. Aber egal wohin mensch schaut, es gibt immer sehr beeindruckende und wunderschöne Artistik zu sehen.

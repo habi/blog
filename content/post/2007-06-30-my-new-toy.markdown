@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- bike
+- personal
 comments: true
-date: 2007-06-30 16:10:10+00:00
-layout: post
+date: 2007-06-30T16:10:10Z
 link: http://habi.gna.ch/2007/06/30/my-new-toy/
 slug: my-new-toy
 title: my new toy
 wordpress_id: 976
-categories:
-- bike
-- personal
 ---
 
 the [general idea](http://www.pedalmafia.com/mafid/mafia_id.html) on the left vs. the outcome on the right:

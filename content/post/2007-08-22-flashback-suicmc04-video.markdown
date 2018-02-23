@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-08-22 22:07:55+00:00
-layout: post
-link: http://habi.gna.ch/2007/08/22/flashback-suicmc04-video/
-slug: flashback-suicmc04-video
-title: 'flashback: SUICMC04 [video]'
-wordpress_id: 1007
 categories:
 - bike
 - personal
 - tschörman
+comments: true
+date: 2007-08-22T22:07:55Z
+link: http://habi.gna.ch/2007/08/22/flashback-suicmc04-video/
+slug: flashback-suicmc04-video
+title: 'flashback: SUICMC04 [video]'
+wordpress_id: 1007
 ---
 
 heute per skype reingekommen: [röme](http://lomotion.ch/lomo05/team.phtml) [1] hat auf seinem youtube-channel den film raufgeladen, den er damals für die [SUICMC04](http://suicmc.ch/) in bern gemacht hat. das ding zeigt extrem schön, wie cool das wochenende damals war.

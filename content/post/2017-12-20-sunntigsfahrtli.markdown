@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2017-12-20 17:42:10+00:00
-layout: post
-link: http://habi.gna.ch/2017/12/20/sunntigsfahrtli/
-slug: sunntigsfahrtli
-title: Sunntigsfährtli
-wordpress_id: 5244
 categories:
 - moblog
 - photos
+comments: true
+date: 2017-12-20T17:42:10Z
+link: http://habi.gna.ch/2017/12/20/sunntigsfahrtli/
+slug: sunntigsfahrtli
 tags:
 - bmc
 - clouds
@@ -20,6 +17,8 @@ tags:
 - moblog
 - velocontenr
 - zimmerwald
+title: Sunntigsfährtli
+wordpress_id: 5244
 ---
 
 ![](http://ift.tt/2B8o0bz)  

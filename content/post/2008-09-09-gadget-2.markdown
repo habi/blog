@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2008-09-09 20:23:42+00:00
-layout: post
+date: 2008-09-09T20:23:42Z
 link: http://habi.gna.ch/2008/09/09/gadget-2/
 slug: gadget-2
 title: Gadget 2
 wordpress_id: 1421
-categories:
-- none
 ---
 
-
-  [![](http://farm4.static.flickr.com/3214/2843279555_33c401f95f_m.jpg)](http://www.flickr.com/photos/habi/2843279555/)  
+[![](http://farm4.static.flickr.com/3214/2843279555_33c401f95f_m.jpg)](http://www.flickr.com/photos/habi/2843279555/)  
 
   [Gadget 2](http://www.flickr.com/photos/habi/2843279555/)  
 

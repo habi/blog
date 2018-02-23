@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2011-11-07 22:53:29+00:00
-layout: post
-link: http://habi.gna.ch/2011/11/08/ray-a-life-underwater/
-slug: ray-a-life-underwater
-title: 'Ray: A life underwater'
-wordpress_id: 2591
 categories:
 - diving
 - linkdump
+comments: true
+date: 2011-11-07T22:53:29Z
+link: http://habi.gna.ch/2011/11/08/ray-a-life-underwater/
+slug: ray-a-life-underwater
 tags:
 - diving
 - video
 - vimeo
+title: 'Ray: A life underwater'
+wordpress_id: 2591
 ---
 
 Bei der Suche nach Begleitmusik zum Filmli in der Aare in Worblaufen bin ich ziemlich zufälligerweise über ein schönes Video gestolpert, welches wirklich sehenswert ist. Auf dem [Free Music Archive](http://freemusicarchive.org/) habe ich nach 'Dive' gesucht und bin so beim Album von [A Life Underwater](http://freemusicarchive.org/music/junior85/Ray_-_A_Life_Underwater/) von [junior85](http://freemusicarchive.org/music/junior85) gelandet. In der Beschreibung steht, dass dieses Album der Soundtrack zu einer Doku sei, die ich mir dann anschaute. Und ziemlich schön fand, deshalb hier der eigene Eintrag für diesen Film.

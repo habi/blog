@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2017-08-11 19:29:43+00:00
-layout: post
-link: http://habi.gna.ch/2017/08/11/geschichts-unterricht/
-slug: geschichts-unterricht
-title: Geschichts-Unterricht
-wordpress_id: 5163
 categories:
 - personal
+comments: true
+date: 2017-08-11T19:29:43Z
+link: http://habi.gna.ch/2017/08/11/geschichts-unterricht/
+slug: geschichts-unterricht
 tags:
 - hiphop
+title: Geschichts-Unterricht
+wordpress_id: 5163
 ---
 
 40 Jahre Hip-Hop, kondensiert auf 3 Minuten.

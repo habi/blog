@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2014-11-23 15:18:26+00:00
-layout: post
-link: http://habi.gna.ch/2014/11/23/schon-ds-nabumeer/
-slug: schon-ds-nabumeer
-title: Schön, ds Näbumeer.
-wordpress_id: 3625
 categories:
 - moblog
 - photos
+comments: true
+date: 2014-11-23T15:18:26Z
+link: http://habi.gna.ch/2014/11/23/schon-ds-nabumeer/
+slug: schon-ds-nabumeer
 tags:
 - flickr
 - IFTTT
 - moblog
+title: Schön, ds Näbumeer.
+wordpress_id: 3625
 ---
 
 ![](http://ift.tt/1xmQILT)  

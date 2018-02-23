@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2005-09-29 19:20:34+00:00
-layout: post
+date: 2005-09-29T19:20:34Z
 link: http://habi.gna.ch/2005/09/29/syn-chron-update/
 slug: syn-chron-update
 title: syn chron [update]
 wordpress_id: 75
-categories:
-- moblog
 ---
-
 
 [![](http://static.flickr.com/32/47788242_6b6620e1d1_m.jpg)](http://www.flickr.com/photos/habi/47788242/)
 

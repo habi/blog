@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- linkdump
 comments: true
-date: 2005-12-22 22:08:34+00:00
-layout: post
+date: 2005-12-22T22:08:34Z
 link: http://habi.gna.ch/2005/12/23/best-blond-joke-ever-2nd-update/
 slug: best-blond-joke-ever-2nd-update
 title: best. blond. joke. ever. [2nd update]
 wordpress_id: 117
-categories:
-- linkdump
 ---
-
 
 i seldom post jokes here, but [this blonde joke](http://www.w-a-s-a-b-i.com/archives/2005/12/22/best-blond-joke-ever/) just made me [ROTFLOL](http://www.acronymfinder.com/acronym.aspx?rec=%7B937654C5-89E8-11D4-8351-00C04FC2C2BF%7D).
   

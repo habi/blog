@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2007-06-21 17:02:38+00:00
-layout: post
-link: http://habi.gna.ch/2007/06/21/fuchstv-mal-etwas-anders-video/
-slug: fuchstv-mal-etwas-anders-video
-title: fuchs.tv mal etwas anders [video]
-wordpress_id: 967
 categories:
 - fun
 - linkdump
 - switzerland
 - tschörman
+comments: true
+date: 2007-06-21T17:02:38Z
+link: http://habi.gna.ch/2007/06/21/fuchstv-mal-etwas-anders-video/
+slug: fuchstv-mal-etwas-anders-video
+title: fuchs.tv mal etwas anders [video]
+wordpress_id: 967
 ---
 
 möchte-gern-nationalrat thomas fuchs hat ja eine wunderschön proppere wahlkampfplattform auf fuchs.tv, auf der mit netter musik untermalte filme über fuchsns ambitionen und pläne gezeigt werden. ist ja ganz nett, aber das hier ist ziemlich viel lustiger: ein remix des videos von thommy f. dem grössten hustlah von bern, gemacht von [dic-zh](http://www.dic-zh.com)

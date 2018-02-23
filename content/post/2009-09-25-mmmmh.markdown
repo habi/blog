@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2009-09-25 11:22:00+00:00
-layout: post
+date: 2009-09-25T11:22:00Z
 link: http://habi.gna.ch/2009/09/25/mmmmh/
 slug: mmmmh
 title: Mmmmh!
 wordpress_id: 1922
-categories:
-- personal
 ---
 
-
- [![](http://farm4.static.flickr.com/3490/3953156344_1bfa473218_m.jpg)](http://www.flickr.com/photos/habi/3953156344/)
+[![](http://farm4.static.flickr.com/3490/3953156344_1bfa473218_m.jpg)](http://www.flickr.com/photos/habi/3953156344/)
    
 
  

@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- diving
+- pictures
 comments: true
-date: 2005-10-02 20:57:01+00:00
-layout: post
+date: 2005-10-02T20:57:01Z
 link: http://habi.gna.ch/2005/10/02/underwater-panorama/
 slug: underwater-panorama
 title: underwater panorama
 wordpress_id: 79
-categories:
-- diving
-- pictures
 ---
-
 
 [![Almajane](http://habi.gna.ch/blog/images/almajane-tm.jpg)](http://habi.gna.ch/blog/images/almajane.jpg)until some hours ago i believed that maybe i made the first ever underwater panorama photograph, while on the philippines. a simple google search proved me wrong, there is already much more impressive work available online (see [here](http://www.panoramas.dk/tulamben.html), for the first ever published underwater panorama [1]). nonetheless i'm gonna tell you the story of the panorama of my alma jane shot in this post.
 

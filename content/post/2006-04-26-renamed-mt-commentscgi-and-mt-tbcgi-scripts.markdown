@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: false
-date: 2006-04-26 08:30:40+00:00
-layout: post
+date: 2006-04-26T08:30:40Z
 link: http://habi.gna.ch/2006/04/26/renamed-mt-commentscgi-and-mt-tbcgi-scripts/
 slug: renamed-mt-commentscgi-and-mt-tbcgi-scripts
 title: renamed mt-comments.cgi and mt-tb.cgi scripts
 wordpress_id: 162
-categories:
-- technospeak
 ---
 
 yesterday evening chris, the admin of the gna-server informed me that my trackback-scripts stressed the server quite a bit.

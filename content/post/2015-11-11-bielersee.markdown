@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2015-11-11 15:38:43+00:00
-layout: post
-link: http://habi.gna.ch/2015/11/11/bielersee/
-slug: bielersee
-title: Bielersee
-wordpress_id: 4093
 categories:
 - moblog
 - photos
+comments: true
+date: 2015-11-11T15:38:43Z
+link: http://habi.gna.ch/2015/11/11/bielersee/
+slug: bielersee
 tags:
 - flickr
 - IFTTT
 - moblog
 - seerie
+title: Bielersee
+wordpress_id: 4093
 ---
 
 ![](http://ift.tt/1MWLvIo)  

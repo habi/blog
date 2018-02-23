@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-04-28 13:22:43+00:00
-layout: post
-link: http://habi.gna.ch/2007/04/28/gadgets-for-sale/
-slug: gadgets-for-sale
-title: gadgets for sale
-wordpress_id: 932
 categories:
 - gadgets and gizmos
 - linkdump
 - personal
+comments: true
+date: 2007-04-28T13:22:43Z
+link: http://habi.gna.ch/2007/04/28/gadgets-for-sale/
+slug: gadgets-for-sale
+title: gadgets for sale
+wordpress_id: 932
 ---
 
 i'm cleaning my closets and found some stuff, just waiting to be released back into the economy. i'm trying to sell the stuff on ricardo, so if you fancy some new techno-gear, go and have a look [here](http://info.ricardo.ch/sxe).

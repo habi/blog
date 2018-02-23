@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- fun
+- pictures
 comments: true
-date: 2007-10-27 10:15:29+00:00
-layout: post
+date: 2007-10-27T10:15:29Z
 link: http://habi.gna.ch/2007/10/27/dilbert-for-24-oct-2007/
 slug: dilbert-for-24-oct-2007
 title: Dilbert for 24 Oct 2007
 wordpress_id: 1066
-categories:
-- fun
-- pictures
 ---
 
 [Comic for 24 Oct 2007](http://www.dilbert.com/comics/dilbert/archive/dilbert-20071024.html):

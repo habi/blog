@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2014-06-09 17:00:04+00:00
-layout: post
-link: http://habi.gna.ch/2014/06/09/nippon/
-slug: nippon
-title: Nippon
-wordpress_id: 3459
 categories:
 - personal
+comments: true
+date: 2014-06-09T17:00:04Z
+link: http://habi.gna.ch/2014/06/09/nippon/
+slug: nippon
 tags:
 - 1se
 - japan
 - nippon
+title: Nippon
+wordpress_id: 3459
 ---
 
 Schon vor drei Jahren wollten wir eigentlich nach Japan.

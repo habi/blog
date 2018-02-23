@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2009-02-08 16:26:47+00:00
-layout: post
+date: 2009-02-08T16:26:47Z
 link: http://habi.gna.ch/2009/02/08/260-m-33-min-6-grad/
 slug: 260-m-33-min-6-grad
 title: 26.0 m, 33 min, 6 Grad
 wordpress_id: 1636
-categories:
-- personal
 ---
 
-
- [![](http://farm4.static.flickr.com/3267/3262916253_94d9b5945a_m.jpg)](http://www.flickr.com/photos/habi/3262916253/)
+[![](http://farm4.static.flickr.com/3267/3262916253_94d9b5945a_m.jpg)](http://www.flickr.com/photos/habi/3262916253/)
    
 
  

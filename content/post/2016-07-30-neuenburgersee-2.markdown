@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2016-07-30 14:57:44+00:00
-layout: post
-link: http://habi.gna.ch/2016/07/30/neuenburgersee-2/
-slug: neuenburgersee-2
-title: Neuenburgersee
-wordpress_id: 4538
 categories:
 - moblog
 - photos
+comments: true
+date: 2016-07-30T14:57:44Z
+link: http://habi.gna.ch/2016/07/30/neuenburgersee-2/
+slug: neuenburgersee-2
 tags:
 - flickr
 - IFTTT
@@ -17,6 +14,8 @@ tags:
 - moblog
 - neuenburgersee
 - seerie
+title: Neuenburgersee
+wordpress_id: 4538
 ---
 
 ![](http://ift.tt/2aoiA1s)  

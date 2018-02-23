@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-15 19:19:13+00:00
-layout: post
+date: 2004-01-15T19:19:13Z
 link: http://habi.gna.ch/2004/01/15/dumb-people-spending-money/
 slug: dumb-people-spending-money
 title: dumb people spending money
 wordpress_id: 406
-categories:
-- none
 ---
 
 i just cannot imagine how dumb people must be.

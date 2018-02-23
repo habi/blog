@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2005-01-17 22:39:03+00:00
-layout: post
+date: 2005-01-17T22:39:03Z
 link: http://habi.gna.ch/2005/01/18/picture-of-the-week-02/
 slug: picture-of-the-week-02
 title: picture of the week 02
 wordpress_id: 715
-categories:
-- picture of the week
 ---
-
 
 first of all i noticed, that my notation was wrong, so i changed the title to all the posts in the category "picture of the week" of this year. the title now describes what the image is, namely an image of the past week.
   

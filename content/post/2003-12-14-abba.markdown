@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-12-14 23:06:01+00:00
-layout: post
+date: 2003-12-14T23:06:01Z
 link: http://habi.gna.ch/2003/12/15/abba/
 slug: abba
 title: abba
 wordpress_id: 377
-categories:
-- none
 ---
 
 you might or might not know that i also work as a bar-tender at the [theater an der effingerstrasse](http://www.dastheater-effingerstr.ch/). last friday we had the traditional x-mas diner with all the people involved there ([these here](http://www.dastheater-effingerstr.ch/portrait.html) plus some from the bar). $

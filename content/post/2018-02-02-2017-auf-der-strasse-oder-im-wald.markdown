@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2018-02-02 11:48:45+00:00
-layout: post
-link: http://habi.gna.ch/2018/02/02/2017-auf-der-strasse-oder-im-wald/
-slug: 2017-auf-der-strasse-oder-im-wald
-title: 2017 auf der Strasse oder im Wald
-wordpress_id: 5299
 categories:
 - personal
+comments: true
+date: 2018-02-02T11:48:45Z
+link: http://habi.gna.ch/2018/02/02/2017-auf-der-strasse-oder-im-wald/
+slug: 2017-auf-der-strasse-oder-im-wald
 tags:
 - jahresrückblick
 - jahresrückblick17
 - sport
 - strava
+title: 2017 auf der Strasse oder im Wald
+wordpress_id: 5299
 ---
 
 Hier einer weiterer Post zum Rückblick aufs 2017; meine sportliche Betätigung.

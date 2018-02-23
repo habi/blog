@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2017-02-02 21:38:18+00:00
-layout: post
-link: http://habi.gna.ch/2017/02/02/recommended-readings-1-february-2017/
-slug: recommended-readings-1-february-2017
-title: 'Recommended readings: 1. February 2017'
-wordpress_id: 5012
 categories:
 - linkdump
+comments: true
+date: 2017-02-02T21:38:18Z
+link: http://habi.gna.ch/2017/02/02/recommended-readings-1-february-2017/
+slug: recommended-readings-1-february-2017
 tags:
 - instapaper
+title: 'Recommended readings: 1. February 2017'
+wordpress_id: 5012
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

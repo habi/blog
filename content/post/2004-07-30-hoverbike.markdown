@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- bike
+- linkdump
 comments: true
-date: 2004-07-30 12:28:39+00:00
-layout: post
+date: 2004-07-30T12:28:39Z
 link: http://habi.gna.ch/2004/07/30/hoverbike/
 slug: hoverbike
 title: hoverbike
 wordpress_id: 592
-categories:
-- bike
-- linkdump
 ---
 
 now [that](http://transportation.engadget.com/entry/1017024257067771/) is a real hovercraft!

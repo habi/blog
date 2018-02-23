@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2007-01-27 07:38:25+00:00
-layout: post
-link: http://habi.gna.ch/2007/01/27/wordpress-song/
-slug: wordpress-song
-title: wordpress song
-wordpress_id: 859
 categories:
 - fun
 - technospeak
 - tschörman
+comments: true
+date: 2007-01-27T07:38:25Z
+link: http://habi.gna.ch/2007/01/27/wordpress-song/
+slug: wordpress-song
+title: wordpress song
+wordpress_id: 859
 ---
 
 [devin reams](http://devinreams.com/2007/01/14/its-called-wordpress/) hat einen netten song über wordpress geschrieben, der wirklich witzig ist. und wenn dann das erste maintenance-release von WP 2.1 rauskommt, [sing ich auch wieder mit](http://wordpress.org/support/topic/102119?replies=4), im moment musste ich leider wieder [downgraden](http://trac.wordpress.org/ticket/3662), damits mit ecto klappt, weil wordpress den xlmrpc-standard nicht respektiert....

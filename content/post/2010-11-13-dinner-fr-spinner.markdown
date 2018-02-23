@@ -1,17 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-11-13 07:59:19+00:00
-layout: post
+date: 2010-11-13T07:59:19Z
 link: http://habi.gna.ch/2010/11/13/dinner-fr-spinner/
 slug: dinner-fr-spinner
 title: Dinner für Spinner
 wordpress_id: 2287
-categories:
-- personal
 ---
 
-Vergangenge Woche hat Tinu mal wieder sein jahrliches Dinner fur Spinner organisiert. Dieses Mal waren wir auf dem Bantiger und haben unter anderem
+Vergangenge Woche hat Tinu mal wieder sein jährliches Dinner für Spinner organisiert. Dieses Mal waren wir auf dem Bantiger und haben unter anderem
 
 
 
@@ -30,7 +29,7 @@ Vergangenge Woche hat Tinu mal wieder sein jahrliches Dinner fur Spinner organis
 
 
   
-  * die Abfahrtseigenschaften von MircoScootern und Skateboards getestet und herausgefunden, dass die Hinterrader von Microscootern [nicht geeignet sind](http://www.flickr.com/photos/habi/5155809218/) um vom Bantiger runterzufahren und ab und an zu bremsen.
+  * die Abfahrtseigenschaften von MircoScootern und Skateboards getestet und herausgefunden, dass die Hinterräder von Microscootern [nicht geeignet sind](http://www.flickr.com/photos/habi/5155809218/) um vom Bantiger runterzufahren und ab und an zu bremsen.
 
 
   
@@ -50,12 +49,12 @@ Dabei habe ich auch einige Fotos gemacht. Das untenstehende ist eine Lanzeitbeli
 
 
 
-Wahrend dem Fondueessen habe ich mit dem [Intervalometer](http://en.wikipedia.org/wiki/Intervalometer) meine Kamera ein bisschen beschaftigt, daraus entstanden ist unten eingebundenes Zeitraffer-Filmli
+Während dem Fondueessen habe ich mit dem [Intervalometer](http://en.wikipedia.org/wiki/Intervalometer) meine Kamera ein bisschen beschäftigt, daraus entstanden ist unten eingebundenes Zeitraffer-Filmli
 
 
 
 
-Keine Angst, am Ende haben wir niemanden angezundet, weil er sein Brot im Kase verloren hat, ich hab' doch am Anfang gesagt, wir haben auch noch chli bubelet...
+Keine Angst, am Ende haben wir niemanden angezündet, weil er sein Brot im Käse verloren hat, ich hab' doch am Anfang gesagt, wir haben auch noch chli bubelet...
 
 
 

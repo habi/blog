@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2012-06-28 19:58:21+00:00
-layout: post
+date: 2012-06-28T19:58:21Z
 link: http://habi.gna.ch/2012/06/28/atheismus/
 slug: atheismus
 title: Atheismus
 wordpress_id: 2829
-categories:
-- personal
 ---
 
 Ich kann mich nicht erinnern, wie der untenstehende Artikel in meiner Instapaper-Bibliothek [1] gelandet ist. Ohne nun auf die Quelle verweisen zu können, verlinke ich halt einfach so auf den langen Artikel, in dem [Mark Jaquith](http://markjaquith.com/) [2] erklärt, wie er zur Erkenntnis gelangte, dass Gott eine Lüge ist und sich dadurch nicht nur seinen Glauben verlor, sondern auch zu einem glücklicheren Mensch wurde. Der Artikel ist wie gesagt lang und leider nur in Englisch verfügbar, ist aber einer der besseren Texte, die ich seit langem gelesen habe.

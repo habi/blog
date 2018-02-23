@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2008-08-20 20:45:54+00:00
-layout: post
-link: http://habi.gna.ch/2008/08/20/der-bart-ist-ab/
-slug: der-bart-ist-ab
-title: der bart ist ab
-wordpress_id: 1363
 categories:
 - personal
+comments: true
+date: 2008-08-20T20:45:54Z
+link: http://habi.gna.ch/2008/08/20/der-bart-ist-ab/
+slug: der-bart-ist-ab
 tags:
 - beard
 - shave
+title: der bart ist ab
+wordpress_id: 1363
 ---
 
 seit mitte juli habe ich mich nun nicht mehr rasiert. ich hab' zwar den rasierapparat nach kanada mitgenommen, dann aber mitten in den kanadischen wäldern keine lust auf bartpflege gehabt. nach der rückkehr (immerhin schon einen monat her) habe ich die gesichtsbehaarung weitergetragen, was in einigen kreisen doch zu ausgedehnten diskussionen geführt hat. verglichen wurde ich unter anderem mit robinson crusoe, [george clooney in syriana](http://images.google.com/images?hl=en&client=safari&rls=en-us&pwst=1&resnum=0&q=george%20clooney%20syriana&um=1&ie=UTF-8&sa=N&tab=wi), [john mccrea](http://en.wikipedia.org/wiki/Cake_(band)) und einigen anderen...

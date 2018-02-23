@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-10-03 00:23:57+00:00
-layout: post
+date: 2010-10-03T00:23:57Z
 link: http://habi.gna.ch/2010/10/03/super/
 slug: super
 title: Super!
 wordpress_id: 2226
-categories:
-- personal
 ---
 
-
- [![](http://farm5.static.flickr.com/4150/5045273703_75d4455629_m.jpg)](http://www.flickr.com/photos/habi/5045273703/)
+[![](http://farm5.static.flickr.com/4150/5045273703_75d4455629_m.jpg)](http://www.flickr.com/photos/habi/5045273703/)
    
 
  

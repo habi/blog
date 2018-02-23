@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2007-04-14 19:40:24+00:00
-layout: post
+date: 2007-04-14T19:40:24Z
 link: http://habi.gna.ch/2007/04/14/summer/
 slug: summer
 title: Summer
 wordpress_id: 922
-categories:
-- moblog
 ---
 
-
- [![](http://farm1.static.flickr.com/215/458970607_4a64453c6a_m.jpg)](http://www.flickr.com/photos/habi/458970607/)
+[![](http://farm1.static.flickr.com/215/458970607_4a64453c6a_m.jpg)](http://www.flickr.com/photos/habi/458970607/)
    
 
  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-10-25 18:00:43+00:00
-layout: post
+date: 2004-10-25T18:00:43Z
 link: http://habi.gna.ch/2004/10/25/telly-tonite-update/
 slug: telly-tonite-update
 title: telly tonite [update]
 wordpress_id: 659
-categories:
-- none
 ---
 
 my selfmade pizza is in the oven and will be ready exactly when the [live-movie](http://www.zdf.de/ZDFde/inhalt/24/0,1872,2205144,00.html) starts (sorry, the link is only available in german).

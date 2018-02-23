@@ -1,28 +1,27 @@
 ---
 author: admin
+categories:
+- none
 comments: false
-date: 2003-08-11 13:59:22+00:00
-layout: post
+date: 2003-08-11T13:59:22Z
 link: http://habi.gna.ch/2003/08/11/this-entry-can-be-omitted/
 slug: this-entry-can-be-omitted
 title: this entry can be omitted...
 wordpress_id: 258
-categories:
-- none
 ---
 
 ...if you haven't been at the lerbermatt-gymer :-) (probably all my blog-readers exept [B.](http://www.bernhardseefeld.ch/), [Miklos](http://www.kozary.com/mt/) and [Arni](http://www.arnoldseefeld.com/blog/))
 as you might have heard, i'm the substitution teacher of hans kammer (MC of Physics!) at that high school we all were.
-and this morning was the teacher conference to the start of the semester. when i walk towards the building, guess who's watching out of the window: Ändee Johl and Dieter Gilgen. They both look a bit puzzled and then. start. to. wave. their. hands. oh joy :-)
+and this morning was the teacher conference to the start of the semester. when i walk towards the building, guess who's watching out of the window: Ändee Jöhl and Dieter Gilgen. They both look a bit puzzled and then. start. to. wave. their. hands. oh joy :-)
 this is gonna be a fun semester.
 
 i only say:
-stuwi chaschuechli w
+stuwi chäschüechli w
 schul-hans-werker
 seehung
 nikkelti
 sirup ...
-willi a
+willi ä
 hc-senn
 aaaaah, those were the days...
 

@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2005-01-19 20:11:31+00:00
-layout: post
+date: 2005-01-19T20:11:31Z
 link: http://habi.gna.ch/2005/01/19/fight-comment-spam-update2/
 slug: fight-comment-spam-update2
 title: fight comment spam [update2]
 wordpress_id: 716
-categories:
-- none
 ---
-
 
 google takes a new measure in fighting comment spam. [they implemented](http://www.google.com/googleblog/2005/01/preventing-comment-spam.html) a new attribute for hyperlinks - rel="nofollow" - which prevents links from being spidered. so when google (or any [other](http://blogs.msdn.com/msnsearch/archive/2005/01/18/nofollow_tags.aspx) [search](http://www.ysearchblog.com/archives/000069.html) engines that support the attribute) parses a link with that attribute the links don't get credits in the rankings of the catalog. this is one of the first measure to make blog-spamming really uninteresting.
   

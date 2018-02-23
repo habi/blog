@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2009-11-05 13:34:40+00:00
-layout: post
+date: 2009-11-05T13:34:40Z
 link: http://habi.gna.ch/2009/11/05/lorem-ipsum/
 slug: lorem-ipsum
 title: lorem ipsum
 wordpress_id: 1961
-categories:
-- personal
 ---
 
 [der freund der pixel](http://www.pixelfreund.ch/) hatte eine [lustige idee](http://www.pixelfreund.ch/loremipsum/), die ich nicht ganz nach anleitung unterstütze:

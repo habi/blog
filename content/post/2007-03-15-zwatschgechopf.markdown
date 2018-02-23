@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- fun
 comments: true
-date: 2007-03-15 12:36:31+00:00
-layout: post
+date: 2007-03-15T12:36:31Z
 link: http://habi.gna.ch/2007/03/15/zwatschgechopf/
 slug: zwatschgechopf
 title: zwätschgechopf! [video]
 wordpress_id: 885
-categories:
-- fun
 ---
 
 http://www.youtube.com/v/Y8N2SKwTZz0

@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2008-08-08 09:15:53+00:00
-layout: post
-link: http://habi.gna.ch/2008/08/08/nichtlustig-ist-doch-lustig/
-slug: nichtlustig-ist-doch-lustig
-title: nichtlustig ist doch lustig
-wordpress_id: 1333
 categories:
 - fun
+comments: true
+date: 2008-08-08T09:15:53Z
+link: http://habi.gna.ch/2008/08/08/nichtlustig-ist-doch-lustig/
+slug: nichtlustig-ist-doch-lustig
 tags:
 - fun
 - nichtlustig
+title: nichtlustig ist doch lustig
+wordpress_id: 1333
 ---
 
 heute mal wieder ein brillianter comic mit yetis: [cousin hubert](http://www.nichtlustig.de/toondb/080808.html)

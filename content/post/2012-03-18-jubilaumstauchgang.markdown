@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2012-03-18 21:03:03+00:00
-layout: post
-link: http://habi.gna.ch/2012/03/18/jubilaumstauchgang/
-slug: jubilaumstauchgang
-title: Jubiläumstauchgang
-wordpress_id: 2681
 categories:
 - diving
+comments: true
+date: 2012-03-18T21:03:03Z
+link: http://habi.gna.ch/2012/03/18/jubilaumstauchgang/
+slug: jubilaumstauchgang
 tags:
 - diving
 - nina
 - thunersee
 - video
 - winter
+title: Jubiläumstauchgang
+wordpress_id: 2681
 ---
 
 Vor den Ferien habe ich mit Nina ein [spezielles Jubiläum](http://habi.gna.ch/2012/01/28/200-fur-mich-100-fur-sie/) gefeiert, sie hat in ihrem Logbuch 99, ich hundert Tauchgänge mehr notiert. Zur Feier des Tages haben wir für sie einen Trockentauchanzug gemietet und haben am Chachelimärit bei der Schiffländte in Oberhofen meinen zweihundertsten und ihren einhundertsten Tauchgang gemacht.

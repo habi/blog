@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2007-09-06 19:07:29+00:00
-layout: post
+date: 2007-09-06T19:07:29Z
 link: http://habi.gna.ch/2007/09/06/quicksilver-explained-by-the-developer/
 slug: quicksilver-explained-by-the-developer
 title: quicksilver explained by the developer
 wordpress_id: 1010
-categories:
-- technospeak
 ---
 
 some people still can get their mind around [quicksilver](http://quicksilver.blacktree.com/) [1].

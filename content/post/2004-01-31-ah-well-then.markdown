@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-31 16:57:37+00:00
-layout: post
+date: 2004-01-31T16:57:37Z
 link: http://habi.gna.ch/2004/01/31/ah-well-then/
 slug: ah-well-then
 title: ah well then
 wordpress_id: 427
-categories:
-- none
 ---
 
 btw: the photo-shooting i [mentioned](http://habi.gna.ch/blog/archives/000194.html) some days ago happened without me (through some organization hiccup, i was scheduled on wednesday, but then they switched it to thursday so that i couldn't go).

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2004-08-29 20:42:38+00:00
-layout: post
+date: 2004-08-29T20:42:38Z
 link: http://habi.gna.ch/2004/08/29/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
 wordpress_id: 603
-categories:
-- picture of the week
 ---
 
 this picture was taken in abu hamra during our holidays at the red sea.

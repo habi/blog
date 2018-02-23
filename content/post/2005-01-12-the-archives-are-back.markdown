@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2005-01-12 21:59:35+00:00
-layout: post
+date: 2005-01-12T21:59:35Z
 link: http://habi.gna.ch/2005/01/12/the-archives-are-back/
 slug: the-archives-are-back
 title: the archives are back
 wordpress_id: 714
-categories:
-- none
 ---
-
 
 some time ago i deleted the archives in the sidebar, because the were using up too much screen-realestate. since [people complained](http://blog.ch/blog/index.php/archives/2005/01/11/blogtour-de-suisse-blog/) that my archives are hard to grab, i spent 20 seconds implementing a nice trick posted over at [scriptygoddes](http://www.scriptygoddess.com/): [drop down month archives](http://www.scriptygoddess.com/archives/2003/03/16/drop-down-month-archives/).
   

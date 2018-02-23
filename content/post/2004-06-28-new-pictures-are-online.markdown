@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-06-28 10:25:29+00:00
-layout: post
+date: 2004-06-28T10:25:29Z
 link: http://habi.gna.ch/2004/06/28/new-pictures-are-online/
 slug: new-pictures-are-online
 title: new pictures are online
 wordpress_id: 570
-categories:
-- none
 ---
 
 the (nearly) [full set of pictures](http://habi.gna.ch/pics/Aare-Jam2004/) from our aare-tour yesterday is online in the [/pics](http://habi.gna.ch/pics/)-section.

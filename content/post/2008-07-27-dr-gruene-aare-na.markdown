@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2008-07-27 11:59:06+00:00
-layout: post
+date: 2008-07-27T11:59:06Z
 link: http://habi.gna.ch/2008/07/27/dr-gruene-aare-na/
 slug: dr-gruene-aare-na
 title: Dr grüene Aare na [update]
 wordpress_id: 1312
-categories:
-- none
 ---
 
-
-  [![](http://farm4.static.flickr.com/3222/2706567280_4ede615b55_m.jpg)](http://www.flickr.com/photos/habi/2706567280/)  
+[![](http://farm4.static.flickr.com/3222/2706567280_4ede615b55_m.jpg)](http://www.flickr.com/photos/habi/2706567280/)  
 
   [Dr grüene Aare na](http://www.flickr.com/photos/habi/2706567280/)  
 

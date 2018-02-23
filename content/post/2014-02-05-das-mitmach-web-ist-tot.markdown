@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2014-02-05 23:14:32+00:00
-layout: post
-link: http://habi.gna.ch/2014/02/06/das-mitmach-web-ist-tot/
-slug: das-mitmach-web-ist-tot
-title: Das Mitmach-Web ist tot!
-wordpress_id: 3374
 categories:
 - fun
 - technospeak
+comments: true
+date: 2014-02-05T23:14:32Z
+link: http://habi.gna.ch/2014/02/06/das-mitmach-web-ist-tot/
+slug: das-mitmach-web-ist-tot
 tags:
 - comments
 - kommentare
 - python
 - visualization
+title: Das Mitmach-Web ist tot!
+wordpress_id: 3374
 ---
 
 Vor [fast zwei Jahren](http://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/) haben das Thema schon mal diskutiert; und befunden dass bei verschiedenen Blogs bei den Kommentaren die Peaks überschritten sind.

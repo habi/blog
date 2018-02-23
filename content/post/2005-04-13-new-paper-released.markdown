@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- fun
+- personal
 comments: true
-date: 2005-04-13 20:57:48+00:00
-layout: post
+date: 2005-04-13T20:57:48Z
 link: http://habi.gna.ch/2005/04/13/new-paper-released/
 slug: new-paper-released
 title: new paper released :-)
 wordpress_id: 762
-categories:
-- fun
-- personal
 ---
-
 
 i wonder if the paper i just finished is going to help me with my already long-running quest for finding a job in the field i learned. i guess it needs still some corrections and additions. if you want to read it, then just click on the link below:
   

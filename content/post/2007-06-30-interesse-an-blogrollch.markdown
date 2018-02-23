@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2007-06-30 12:29:33+00:00
-layout: post
-link: http://habi.gna.ch/2007/06/30/interesse-an-blogrollch/
-slug: interesse-an-blogrollch
-title: interesse an blogroll.ch?
-wordpress_id: 971
 categories:
 - bike
 - personal
 - switzerland
 - tschörman
+comments: true
+date: 2007-06-30T12:29:33Z
+link: http://habi.gna.ch/2007/06/30/interesse-an-blogrollch/
+slug: interesse-an-blogrollch
+title: interesse an blogroll.ch?
+wordpress_id: 971
 ---
 
 [![  Bilder Velolos](http://habi.gna.ch/wp-content/uploads/2007/06/bilder-velolos-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/06/bilder-velolos.jpg)[roman](http://blog.yoda.ch/?p=1474) veranstaltet ein virtuelles lösli-ziehen um die domain blogroll.ch, die inaktiv auf ihn registriert ist. bis zum 31. juli kann jeder, der die domain will (und auch alle anderen) an seiner aktion mitmachen. unterstützen tut mensch dabei nicht das portemonnaie von meister yoda, sondern [urs](http://www.himmelrich.ch/)' aktion [kilometer gegen armut](http://www.himmelrich.ch/neuereeindex.php/KM_gegen_Armut). mein [post untendran](http://habi.gna.ch/2007/06/28/fertig/) ist ganz eng mit dieser aktion verknüpft, denn der hugo-koblet-rahmen meines neusten schmuckstücks stammt aus der serie [veloleichen/veloschicksale](http://flickr.com/photos/himmelrich/sets/237237/) des velofahrenden aargauers. [damals](http://www.himmelrich.ch/neuereeindex.php/KM_gegen_Armut/aus_der_alteisenabfuhrt_gerettet/) habe ich für über urs für [swiss hope](http://www.swiss-hope-international.ch/) ein blaues papierli gespendet und deshalb verzichte ich hier auf einen los-kauf. nichtsdesto-trotz finde ich die aktion toll und weitererzählens-wert! netter nebeneffekt ist eine tolle domain, die zur verlosung steht, damit damit allerhand schabernack getrieben werden kann.

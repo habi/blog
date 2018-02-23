@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-02-05 19:05:47+00:00
-layout: post
+date: 2004-02-05T19:05:47Z
 link: http://habi.gna.ch/2004/02/05/the-sound-of-silence/
 slug: the-sound-of-silence
 title: the sound of silence
 wordpress_id: 433
-categories:
-- none
 ---
 
 [boingboing](http://boingboing.net/2004_02_01_archive.html#107599095077075633) points out a really weird fact: at [itunes' music-store](http://www.apple.com/itunes/store/) (how do you write that frigging thing? i'll just stick to ITMS!) you can get songs which consist of nothing than silence. how funny is that: buy silence for 99 cents a pop and buy it with some proper [DRM](http://www.acronymfinder.com/af-query.asp?String=exact&Acronym=drm&Find=Find)-scheme!

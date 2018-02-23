@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2010-10-07 10:56:58+00:00
-layout: post
+date: 2010-10-07T10:56:58Z
 link: http://habi.gna.ch/2010/10/07/bam/
 slug: bam
 title: BAM!
 wordpress_id: 2229
-categories:
-- personal
 ---
 
-
- [![](http://farm5.static.flickr.com/4144/5059714148_91e9f3378c_m.jpg)](http://www.flickr.com/photos/habi/5059714148/)
+[![](http://farm5.static.flickr.com/4144/5059714148_91e9f3378c_m.jpg)](http://www.flickr.com/photos/habi/5059714148/)
    
 
  

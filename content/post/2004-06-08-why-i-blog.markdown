@@ -1,17 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-06-08 22:11:48+00:00
-layout: post
+date: 2004-06-08T22:11:48Z
 link: http://habi.gna.ch/2004/06/09/why-i-blog/
 slug: why-i-blog
 title: why i blog
 wordpress_id: 552
-categories:
-- none
 ---
 
-hamme made a smart comment on a recent [an old post](http://nick.kaywa.com/blogging_about_blogging/*staun*.html) on nicks blog which made me think about the "why do i blog".
+hämme made a smart comment on a recent [an old post](http://nick.kaywa.com/blogging_about_blogging/*staun*.html) on nicks blog which made me think about the "why do i blog".
 is it to show you all my new pretty things or is it to tell you all what i think about the world? 
 i think the whole thing started really slow for me. it was not a decision, like: "yes, from today on i want to blog". my first experience in blogging (although back then nobody called it that way, it was more like a diary) was influenced by [shannon](http://iam.bmezine.com/?glider) the brain behind [BME](http://www.bmezine.com/), which was one of the places where i spent many evenings. sometimes late on one of these evenings i discovered, that shannon made some kind of place for body-modification-adepts to gather and to exchange. withouth thinking much i logged in to IAM, registered my username (at the moment i'm the user number 98 of more than 14400) and was caught from the first moment on.
 
@@ -31,7 +30,7 @@ soon i was looking for a method to circumvent the cumbersome editing-form of mov
 but remember, there's even more going on behind your eyes, because whenever i make a post with **IAMONLY** over at [IAM.bmezine](http://www.kung-foo.tv/ecto/), it's hidden from your prying eyes.
 
 
-ps: [hamme](http://66.102.9.104/search?q=cache:IpOPMsSSbk8J:www.velokurierbern.ch/html/uns/newsarchiv/01_06_Alternativliga.html+%22christoph+hämmann%22&hl=en), i'm really impressed how you manage to put that much information in one or two sentences. it's a great gift i'd love to have.
+ps: [hämme](http://66.102.9.104/search?q=cache:IpOPMsSSbk8J:www.velokurierbern.ch/html/uns/newsarchiv/01_06_Alternativliga.html+%22christoph+hämmann%22&hl=en), i'm really impressed how you manage to put that much information in one or two sentences. it's a great gift i'd love to have.
 
 ps2: i still want to get that second tattoo (and the idea for the third is growing, too...)
 

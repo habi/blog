@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- fun
+- linkdump
 comments: true
-date: 2005-08-23 17:12:46+00:00
-layout: post
+date: 2005-08-23T17:12:46Z
 link: http://habi.gna.ch/2005/08/23/how-not-to-win-a-race/
 slug: how-not-to-win-a-race
 title: how not to win a race
 wordpress_id: 62
-categories:
-- fun
-- linkdump
 ---
-
 
 raph[1] posted a funny movie over at velocites blog: [how not to win a race](http://www.blennus.com/index.php?option=content&task=view&id=443&Itemid=) (.wmv-plugin necessary). rather bad luck.
 

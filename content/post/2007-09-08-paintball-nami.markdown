@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2007-09-08 16:27:52+00:00
-layout: post
-link: http://habi.gna.ch/2007/09/08/paintball-nami/
-slug: paintball-nami
-title: paintball-nami
-wordpress_id: 1019
 categories:
 - fun
 - personal
 - pictures
 - tschörman
+comments: true
+date: 2007-09-08T16:27:52Z
+link: http://habi.gna.ch/2007/09/08/paintball-nami/
+slug: paintball-nami
+title: paintball-nami
+wordpress_id: 1019
 ---
 
 echte waffen find ich [scheisse](http://habi.gna.ch/2007/09/08/stop-the-bullets-kill-the-gun-video/), trotzdem haben wir uns heute nami mit waffen [1] beschäftigt.

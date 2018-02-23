@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-11-23 22:12:50+00:00
-layout: post
+date: 2004-11-23T22:12:50Z
 link: http://habi.gna.ch/2004/11/24/i-just-bought-ecto/
 slug: i-just-bought-ecto
 title: i just bought ecto
 wordpress_id: 681
-categories:
-- none
 ---
-
 
 the [client](http://ecto.kung-foo.tv/) i use to post pretty much all the post here is now an official member of the pieces of software that i actually bought.
   

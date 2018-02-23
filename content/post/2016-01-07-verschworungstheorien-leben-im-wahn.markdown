@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2016-01-07 21:02:17+00:00
-layout: post
+date: 2016-01-07T21:02:17Z
 link: http://habi.gna.ch/2016/01/07/verschworungstheorien-leben-im-wahn/
 slug: verschworungstheorien-leben-im-wahn
 title: Verschwörungstheorien - Leben im Wahn
 wordpress_id: 4188
-categories:
-- personal
 ---
 
 https://www.youtube.com/watch?v=rlRUqLs4_V4

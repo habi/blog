@@ -1,24 +1,23 @@
 ---
 author: admin
-comments: true
-date: 2010-03-01 19:28:54+00:00
-layout: post
-link: http://habi.gna.ch/2010/03/01/track-the-messenger/
-slug: track-the-messenger
-title: Track the messenger
-wordpress_id: 2062
 categories:
 - technospeak
+comments: true
+date: 2010-03-01T19:28:54Z
+link: http://habi.gna.ch/2010/03/01/track-the-messenger/
+slug: track-the-messenger
 tags:
 - visualization
+title: Track the messenger
+wordpress_id: 2062
 ---
 
-[Martin Lerjen](http://www.arua.ch/) hat das wunderschon geekige Titelbild des [Velokurierbuches](http://www.velokurierbern.ch/ueber-uns/velokurierbuch.html) gestaltet. Kurzlich hat er [seine Seite](http://www.arua.ch/insp/206.html) dazu mit einem saucoolen Video aktualisiert.
+[Martin Lerjen](http://www.arua.ch/) hat das wunderschön geekige Titelbild des [Velokurierbuches](http://www.velokurierbern.ch/ueber-uns/velokurierbuch.html) gestaltet. Kürzlich hat er [seine Seite](http://www.arua.ch/insp/206.html) dazu mit einem saucoolen Video aktualisiert.
 
 
 
 
-Michael Stebler hat die Datenmenge, die in einem Tag entstanden ist, mit Hilfe eines so richtig larmenden und analogen Plotters animiert und visualisiert. Ich kann nur sagen: sehr geil!
+Michael Stebler hat die Datenmenge, die in einem Tag entstanden ist, mit Hilfe eines so richtig lärmenden und analogen Plotters animiert und visualisiert. Ich kann nur sagen: sehr geil!
 
 
 

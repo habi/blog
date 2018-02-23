@@ -1,20 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2006-05-01 17:22:03+00:00
-layout: post
-link: http://habi.gna.ch/2006/05/01/picture-of-the-week-17/
-slug: picture-of-the-week-17
-title: picture of the week 17
-wordpress_id: 163
 categories:
 - personal
 - picture of the week
 - pictures
+comments: true
+date: 2006-05-01T17:22:03Z
+link: http://habi.gna.ch/2006/05/01/picture-of-the-week-17/
+slug: picture-of-the-week-17
+title: picture of the week 17
+wordpress_id: 163
 ---
 
-
-this weekend the 21st berner renntage have been carried out at the [klosterlistutz](http://map.search.ch/3006-bern/kloesterlistutz?x=-4&y=-72&z=1024).
+this weekend the 21st berner renntage have been carried out at the [klösterlistutz](http://map.search.ch/3006-bern/kloesterlistutz?x=-4&y=-72&z=1024).
   
 because i saved two days from my civil service at the adventure playground i was part of the staff this weekend. after hauling around [300 bales of straw](http://www.flickr.com/photos/habi/136995663/in/set-72057594121961006/) around 60 soap box cars raced down the rather steep hill. the car below was one of the nicest, even though it doesn't really fit into the selfmade category. the kids got it from an old rollercoaster and rebuilt it as a race-car.
   

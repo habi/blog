@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2016-12-31 10:13:26+00:00
-layout: post
+date: 2016-12-31T10:13:26Z
 link: http://habi.gna.ch/2016/12/31/making-of-neujahrskartli-2017/
 slug: making-of-neujahrskartli-2017
 title: 'Making of: Neujahrskärtli 2017'
 wordpress_id: 4885
-categories:
-- personal
 ---
 
 Wie [letztes Jahr](http://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/), für die, die's wunder nimmt. Das 'Making Of' meines Neujahrskärtlis.

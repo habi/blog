@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-02-24 17:46:38+00:00
-layout: post
+date: 2004-02-24T17:46:38Z
 link: http://habi.gna.ch/2004/02/24/grey-tuesday/
 slug: grey-tuesday
 title: grey tuesday
 wordpress_id: 447
-categories:
-- none
 ---
 
 [![](http://habi.gna.ch/blog/images/greyalbum-tm.jpg)](http://habi.gna.ch/blog/images/greyalbum.jpg)public disobedience?

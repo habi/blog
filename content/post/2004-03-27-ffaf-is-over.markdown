@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-03-27 01:04:13+00:00
-layout: post
+date: 2004-03-27T01:04:13Z
 link: http://habi.gna.ch/2004/03/27/ffaf-is-over/
 slug: ffaf-is-over
 title: ffaf is over
 wordpress_id: 485
-categories:
-- none
 ---
 
 thanks for everyone participating on my free-for-all-friday!

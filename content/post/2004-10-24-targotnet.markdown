@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-10-24 21:32:06+00:00
-layout: post
+date: 2004-10-24T21:32:06Z
 link: http://habi.gna.ch/2004/10/24/targotnet/
 slug: targotnet
 title: targot.net
 wordpress_id: 658
-categories:
-- none
 ---
 
 as i mentioned in the post below, i played targot.net yesterday afternoon.

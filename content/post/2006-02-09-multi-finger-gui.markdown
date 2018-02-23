@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- apple
+- gadgets and gizmos
 comments: true
-date: 2006-02-09 16:31:13+00:00
-layout: post
+date: 2006-02-09T16:31:13Z
 link: http://habi.gna.ch/2006/02/09/multi-finger-gui/
 slug: multi-finger-gui
 title: multi-finger GUI
 wordpress_id: 132
-categories:
-- apple
-- gadgets and gizmos
 ---
-
 
 [![Multitouch](http://habi.gna.ch/blog/images/multitouch-tm.jpg)](http://habi.gna.ch/blog/images/multitouch.jpg)it is [rumored](http://www.thinksecret.com/news/0602videoipod.html) that the next iteration of the ipod will feature a nice screen with a 3.5"-touchscreen and a digital scrollwheel.
   

@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2006-09-14 18:03:24+00:00
-layout: post
+date: 2006-09-14T18:03:24Z
 link: http://habi.gna.ch/2006/09/14/update-comments-are-down-up-and-runnig-again/
 slug: update-comments-are-down-up-and-runnig-again
 title: 'update: comments are down up and runnig again'
 wordpress_id: 223
-categories:
-- technospeak
 ---
-
 
 oh, and just a quick note: the comments are down for some mysterious reason. i'm on it.
 

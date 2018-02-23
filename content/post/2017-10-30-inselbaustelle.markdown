@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2017-10-30 11:55:17+00:00
-layout: post
-link: http://habi.gna.ch/2017/10/30/inselbaustelle/
-slug: inselbaustelle
-title: Inselbaustelle
-wordpress_id: 5213
 categories:
 - moblog
 - photos
+comments: true
+date: 2017-10-30T11:55:17Z
+link: http://habi.gna.ch/2017/10/30/inselbaustelle/
+slug: inselbaustelle
 tags:
 - baustelle
 - flickr
@@ -19,6 +16,8 @@ tags:
 - moblog
 - stairs
 - treppe
+title: Inselbaustelle
+wordpress_id: 5213
 ---
 
 ![](http://ift.tt/2yW53uS)  

@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2007-12-20 20:32:46+00:00
-layout: post
+date: 2007-12-20T20:32:46Z
 link: http://habi.gna.ch/2007/12/20/geschenk-set/
 slug: geschenk-set
 title: geschenk-set
 wordpress_id: 1097
-categories:
-- none
 ---
 
-
- [![](http://farm3.static.flickr.com/2175/2125650386_3943e598fb_m.jpg)](http://www.flickr.com/photos/habi/2125650386/)
+[![](http://farm3.static.flickr.com/2175/2125650386_3943e598fb_m.jpg)](http://www.flickr.com/photos/habi/2125650386/)
    
 
  

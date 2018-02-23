@@ -1,15 +1,14 @@
 ---
 author: admin
-comments: true
-date: 2006-11-10 22:05:41+00:00
-layout: post
-link: http://habi.gna.ch/2006/11/11/im-ill/
-slug: im-ill
-title: i'm ill!
-wordpress_id: 815
 categories:
 - fun
 - pictures
+comments: true
+date: 2006-11-10T22:05:41Z
+link: http://habi.gna.ch/2006/11/11/im-ill/
+slug: im-ill
+title: i"m ill!
+wordpress_id: 815
 ---
 
 i'm having a slight case of [pareidolia](http://www.google.com/search?&q=define%3Apareidolia)!

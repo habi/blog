@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- personal
+- pictures
 comments: true
-date: 2005-10-22 10:42:27+00:00
-layout: post
+date: 2005-10-22T10:42:27Z
 link: http://habi.gna.ch/2005/10/22/alleycat-pictures-are-online-update/
 slug: alleycat-pictures-are-online-update
 title: alleycat pictures are online [update]
 wordpress_id: 85
-categories:
-- personal
-- pictures
 ---
-
 
 the pictures from the [alleycat yesterday](http://upcoming.org/event/34230/) are already online for your perusal. go and see them [here on flickr](http://www.flickr.com/photos/habi/sets/1187813/). if you have any corrections regarding names, send me a note.
 

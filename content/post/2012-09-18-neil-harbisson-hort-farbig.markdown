@@ -1,21 +1,20 @@
 ---
 author: admin
-comments: true
-date: 2012-09-18 20:44:23+00:00
-layout: post
-link: http://habi.gna.ch/2012/09/18/neil-harbisson-hort-farbig/
-slug: neil-harbisson-hort-farbig
-title: Neil Harbisson hört farbig
-wordpress_id: 2895
 categories:
 - gadgets and gizmos
 - linkdump
 - technospeak
+comments: true
+date: 2012-09-18T20:44:23Z
+link: http://habi.gna.ch/2012/09/18/neil-harbisson-hort-farbig/
+slug: neil-harbisson-hort-farbig
 tags:
 - blindness
 - color
 - cyborg
 - ted
+title: Neil Harbisson hört farbig
+wordpress_id: 2895
 ---
 
 [Neil Harbisson](http://en.wikipedia.org/wiki/Neil_Harbisson) hört farbig, dennoch ist er kein [Synästheth](http://de.wikipedia.org/wiki/Syn%C3%A4sthesie). Im klassischen Sinn ist er behindert, wurde er mit einer [Erbkrankheit der Netzhaut](http://de.wikipedia.org/wiki/Achromatopsie) geboren, das heisst, er ist nicht nur etwas [farbenblind](http://de.wikipedia.org/wiki/Rot-Gr%C3%BCn-Sehschw%C3%A4che) wie ca. 5% aller Männer, sondern komplett farbenblind, er sieht die Welt komplett monochrom. Mit 21 Jahren beschloss er, zu einem - wie er sagt - Cyborg zu werden und installierte sich einen Chip im Schädelknochen, der mit einem Spektrometer verbunden ist, welcher Farbinformationen in Töne umwandelt. Diese Töne kann er über [Knochenschall](http://de.wikipedia.org/wiki/Knochenschall) hören und so Farben empfinden.

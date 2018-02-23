@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2005-06-13 11:57:10+00:00
-layout: post
+date: 2005-06-13T11:57:10Z
 link: http://habi.gna.ch/2005/06/13/my-movie-collection/
 slug: my-movie-collection
 title: my movie collection
 wordpress_id: 24
-categories:
-- personal
 ---
-
 
 since i borrowed star wars VI to VI and the godfather I to III from andi and karin they asked me what movies they can borrow from me. because my dvd-collection is rather big [1] it was easier for me to just upload an export from my library in dvdpedia [2] to the web.
   

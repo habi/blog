@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2013-07-01 21:52:55+00:00
-layout: post
-link: http://habi.gna.ch/2013/07/01/einfach-fluchtlingen-helfen/
-slug: einfach-fluchtlingen-helfen
-title: Einfach Flüchtlingen helfen
-wordpress_id: 3133
 categories:
 - personal
+comments: true
+date: 2013-07-01T21:52:55Z
+link: http://habi.gna.ch/2013/07/01/einfach-fluchtlingen-helfen/
+slug: einfach-fluchtlingen-helfen
 tags:
 - sans-papiers
+title: Einfach Flüchtlingen helfen
+wordpress_id: 3133
 ---
 
 Ihr kauft doch alle im Migros, im Coop oder im Denner ein, oder?

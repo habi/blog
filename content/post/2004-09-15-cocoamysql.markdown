@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-09-15 10:59:18+00:00
-layout: post
+date: 2004-09-15T10:59:18Z
 link: http://habi.gna.ch/2004/09/15/cocoamysql/
 slug: cocoamysql
 title: CocoaMySQL
 wordpress_id: 617
-categories:
-- none
 ---
 
 since i've been doing a lot o database maintenance lately (you won't believe how many errors can be produced when [84 persons register themself](http://suicmc04.ch/registration/english.php)...) i was looking for an easy way to do it.

@@ -1,23 +1,22 @@
 ---
 author: admin
-comments: true
-date: 2009-02-10 21:10:58+00:00
-layout: post
-link: http://habi.gna.ch/2009/02/10/mein-wochenende-with-map-video/
-slug: mein-wochenende-with-map-video
-title: mein wochenende [with map] [video]
-wordpress_id: 1637
 categories:
 - bike
 - diving
 - fun
 - gps
+comments: true
+date: 2009-02-10T21:10:58Z
+link: http://habi.gna.ch/2009/02/10/mein-wochenende-with-map-video/
+slug: mein-wochenende-with-map-video
 tags:
 - bike
 - diving
 - fun
 - gps
 - kurier
+title: mein wochenende [with map] [video]
+wordpress_id: 1637
 ---
 
 wie [angesagt](http://identi.ca/notice/2163772) war mein wochenende spannend. am freitag nachmittag konnte ich ein bisschen überzeit abbauen und hab' mich mal wieder ein bisschen aufs velo gesetzt und bin eine schicht für den [velokurier](http://velokurierbern.ch/) gefahren. immerhin gut 50 getrackte kilometer sind da zusammengekommen (ab ca. 17 uhr ist meinem logger der strom ausgegangen...)

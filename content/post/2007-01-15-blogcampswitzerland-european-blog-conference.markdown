@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- personal
+- technospeak
 comments: true
-date: 2007-01-15 20:21:25+00:00
-layout: post
+date: 2007-01-15T20:21:25Z
 link: http://habi.gna.ch/2007/01/15/blogcampswitzerland-european-blog-conference/
 slug: blogcampswitzerland-european-blog-conference
 title: 'BlogCampSwitzerland: European Blog Conference [update]'
 wordpress_id: 842
-categories:
-- personal
-- technospeak
 ---
 
 [![Bc Logo 300](http://habi.gna.ch/wp-content/uploads/2007/01/Bc_logo_300.png)](http://habi.gna.ch/wp-content/uploads/2007/01/Bc_logo_300.png)the same group behind barcamp Remo Uhere, Dominik Tarolli, William Lüthi und Peter Hogenkamp un-organise the upcoming [blogcamp](http://barcamp.ch/BlogCampSwitzerland) on the 24th of march at the ETH in zürich. it's supposed to be a conference focusing exclusively on blogging, organized by bloggers for bloggers and is built upon the principles of the famous BarCamp (ad-hoc unconference) in the Silicon Valley. barcamp was really nice and interesting, i've met a load of [geeky people](http://flickr.com/photos/habi/tags/barcamp) and suppose blogcamp is also gonna be as nice and interesting.

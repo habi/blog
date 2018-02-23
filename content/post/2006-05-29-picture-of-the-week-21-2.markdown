@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- diving
+- picture of the week
 comments: true
-date: 2006-05-29 19:58:17+00:00
-layout: post
+date: 2006-05-29T19:58:17Z
 link: http://habi.gna.ch/2006/05/29/picture-of-the-week-21-2/
 slug: picture-of-the-week-21-2
 title: picture of the week 21
 wordpress_id: 185
-categories:
-- diving
-- picture of the week
 ---
-
 
 [we](http://www.dck.ch/)'ve been [diving in elba](http://omnisub.com/) for the past few days.
 

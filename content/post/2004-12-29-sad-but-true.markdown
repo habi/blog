@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-12-29 16:52:16+00:00
-layout: post
+date: 2004-12-29T16:52:16Z
 link: http://habi.gna.ch/2004/12/29/sad-but-true/
 slug: sad-but-true
 title: sad but true
 wordpress_id: 702
-categories:
-- none
 ---
-
 
 <cite>
   

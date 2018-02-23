@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- personal
+- pictures
 comments: true
-date: 2005-03-13 22:50:49+00:00
-layout: post
+date: 2005-03-13T22:50:49Z
 link: http://habi.gna.ch/2005/03/14/more-pictures/
 slug: more-pictures
 title: more pictures
 wordpress_id: 746
-categories:
-- personal
-- pictures
 ---
-
 
 [![Dsc04430](http://habi.gna.ch/blog/images/DSC04430-tm.jpg)](http://habi.gna.ch/blog/images/DSC04430.jpg)yesterday evening there was the 6th antifa walk here in bern.
 

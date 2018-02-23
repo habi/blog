@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2005-07-30 17:48:50+00:00
-layout: post
+date: 2005-07-30T17:48:50Z
 link: http://habi.gna.ch/2005/07/30/leaf/
 slug: leaf
 title: leaf
 wordpress_id: 51
-categories:
-- moblog
 ---
 
-
- [![](http://photos21.flickr.com/29722905_4c599bcd52_m.jpg)](http://www.flickr.com/photos/habi/29722905/)
+[![](http://photos21.flickr.com/29722905_4c599bcd52_m.jpg)](http://www.flickr.com/photos/habi/29722905/)
    
 
  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-10-27 22:20:37+00:00
-layout: post
+date: 2004-10-27T22:20:37Z
 link: http://habi.gna.ch/2004/10/28/want-a-mini-dv-cam-update/
 slug: want-a-mini-dv-cam-update
 title: want a mini-dv cam? [update]
 wordpress_id: 661
-categories:
-- none
 ---
 
 i cannot remember the last time i used my video-cam, so i'm selling it.

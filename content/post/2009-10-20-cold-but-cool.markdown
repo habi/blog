@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2009-10-20 21:29:56+00:00
-layout: post
-link: http://habi.gna.ch/2009/10/20/cold-but-cool/
-slug: cold-but-cool
-title: cold, but cool
-wordpress_id: 1946
 categories:
 - bike
 - flickr
 - pictures
 - switzerland
+comments: true
+date: 2009-10-20T21:29:56Z
+link: http://habi.gna.ch/2009/10/20/cold-but-cool/
+slug: cold-but-cool
 tags:
 - bern
 - bike
+title: cold, but cool
+wordpress_id: 1946
 ---
 
 [mark howells-mead](http://permanenttourist.ch/) has been [looking for volunteers](http://permanenttourist.ch/articles/2009/10/photographic-volunteers-urgently-required/) [1] for his latest photo project, the "[one frame movies](http://www.flickr.com/photos/mhowells/sets/72157622156817969)". since i really like his style of photography and thought that'd make a funny evening, i volunteered for helping him, and nina was also up for it. last saturday evening we've spent nearly three hours around the nydeggbrücke and took some [strobist-style](http://swiss-strobist.ch/) photos.

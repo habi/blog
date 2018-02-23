@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2014-08-19 18:17:05+00:00
-layout: post
-link: http://habi.gna.ch/2014/08/19/forest-man/
-slug: forest-man
-title: Forest Man
-wordpress_id: 3561
 categories:
 - personal
+comments: true
+date: 2014-08-19T18:17:05Z
+link: http://habi.gna.ch/2014/08/19/forest-man/
+slug: forest-man
 tags:
 - erosion
 - forest
 - india
 - man
 - plant
+title: Forest Man
+wordpress_id: 3561
 ---
 
 15 wunderbar ruhige Minuten über einen Menschen mit einem wunderbaren Ziel.

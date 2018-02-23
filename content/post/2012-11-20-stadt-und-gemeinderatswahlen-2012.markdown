@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2012-11-20 22:41:39+00:00
-layout: post
-link: http://habi.gna.ch/2012/11/21/stadt-und-gemeinderatswahlen-2012/
-slug: stadt-und-gemeinderatswahlen-2012
-title: Stadt- und Gemeinderatswahlen 2012
-wordpress_id: 2959
 categories:
 - personal
+comments: true
+date: 2012-11-20T22:41:39Z
+link: http://habi.gna.ch/2012/11/21/stadt-und-gemeinderatswahlen-2012/
+slug: stadt-und-gemeinderatswahlen-2012
 tags:
 - gemeinderatswahlen
 - schweiz
 - stadtratswahlen
+title: Stadt- und Gemeinderatswahlen 2012
+wordpress_id: 2959
 ---
 
 Immer wieder, wenn irgendwelche Wahlen und Abstimmungen angesagt sind, bin ich froh, gibt es heutzutage Leithilfen durch die Wahlmöglichkeiten. Erstens mal der Newsletter von [votez.ch](http://votez.ch), den ich als einer der wenigen Newsletter immernoch abonniert habe. Ein (von mir aus gesehen) parteipolitisch unabhängiges Grüppchen fasst die Vorlagen, über die es abzustimmen gilt in ein-zwei Sätzen zusammen und listet die Parolen aller grossen Parteien der Schweiz dazu auf, das macht die Übersicht über die Abstimmungen einfacher

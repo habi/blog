@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2012-01-22 17:53:13+00:00
-layout: post
-link: http://habi.gna.ch/2012/01/22/lunamod/
-slug: lunamod
-title: LunaMod
-wordpress_id: 2638
 categories:
 - gadgets and gizmos
 - personal
 - technospeak
+comments: true
+date: 2012-01-22T17:53:13Z
+link: http://habi.gna.ch/2012/01/22/lunamod/
+slug: lunamod
 tags:
 - lunamod
 - sound
 - tinkering
+title: LunaMod
+wordpress_id: 2638
 ---
 
 Vor [einigen Monaten](http://status.davidhaberthuer.ch/notice/2292) hab' ich im damals aktuellen Makezine die Bastelanleitung für den [LunaMod](http://makezine.com/26/lunamod/) gesehen. Wie's dann so geht mit Projekten, hast ein paar Wochen gedauert, bis wir uns hinter die Teileliste gesetzt haben und alles notwendige bestellt [hatten](http://status.davidhaberthuer.ch/notice/4872). Kurz vor Weihnachten haben [Bastian](http://bastianwidmer.ch/) und ich endlich die Zeit gefunden, uns hinzusetzten und unsere Lötkünste zu trainieren.

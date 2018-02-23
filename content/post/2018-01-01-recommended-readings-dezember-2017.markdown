@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2018-01-01 21:22:08+00:00
-layout: post
-link: http://habi.gna.ch/2018/01/01/recommended-readings-dezember-2017/
-slug: recommended-readings-dezember-2017
-title: 'Recommended Readings: Dezember 2017'
-wordpress_id: 5260
 categories:
 - linkdump
 - personal
+comments: true
+date: 2018-01-01T21:22:08Z
+link: http://habi.gna.ch/2018/01/01/recommended-readings-dezember-2017/
+slug: recommended-readings-dezember-2017
 tags:
 - instapaper
 - reading
 - recommended readings
 - reportagen
+title: 'Recommended Readings: Dezember 2017'
+wordpress_id: 5260
 ---
 
 Ups, ich habe am 3. Januar vergessen 'publish' zu drücken...

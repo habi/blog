@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-12-27 20:55:40+00:00
-layout: post
+date: 2004-12-27T20:55:40Z
 link: http://habi.gna.ch/2004/12/27/a-little-challenge-for-you-2nd-update/
 slug: a-little-challenge-for-you-2nd-update
 title: a little challenge for you [2nd update]
 wordpress_id: 700
-categories:
-- none
 ---
-
 
 [![Penguinjump](http://habi.gna.ch/blog/images/penguinjump-tm.jpg)](http://habi.gna.ch/blog/images/penguinjump.jpg)today was a reeeealy slow day at work, so i was catching up with the posts on [boingboing.net](http://www.boingboing.net/). while checking out the entries on t[he latest web-zen pos](http://www.boingboing.net/2004/12/26/web_zen_holiday_left.html)t i found [this marvelous penguin game](http://www.macromedia.com/macromedia/holiday2004/), a holiday greeting from macromedia.com. it seams that i've been really lucky, because managed to impress the "judges", i made 29.4 points.
   

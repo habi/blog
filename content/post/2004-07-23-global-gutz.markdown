@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-07-23 23:29:48+00:00
-layout: post
+date: 2004-07-23T23:29:48Z
 link: http://habi.gna.ch/2004/07/24/global-gutz/
 slug: global-gutz
 title: global gutz
 wordpress_id: 587
-categories:
-- none
 ---
 
 [![DSC01273_1](http://habi.gna.ch/blog/images/DSC01273_1-tm.jpg)](http://habi.gna.ch/blog/images/DSC01273_1.JPG)since you've been reading about the [global gutz](http://globalgutz.org/) last saturday, i thought it's time to explain a bit.

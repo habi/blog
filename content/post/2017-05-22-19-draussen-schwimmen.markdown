@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2017-05-22 13:08:15+00:00
-layout: post
-link: http://habi.gna.ch/2017/05/22/19-draussen-schwimmen/
-slug: 19-draussen-schwimmen
-title: 19° > draussen schwimmen!!!
-wordpress_id: 5096
 categories:
 - moblog
 - photos
+comments: true
+date: 2017-05-22T13:08:15Z
+link: http://habi.gna.ch/2017/05/22/19-draussen-schwimmen/
+slug: 19-draussen-schwimmen
 tags:
 - flickr
 - IFTTT
@@ -17,6 +14,8 @@ tags:
 - moblog
 - swimming
 - weierli
+title: 19° > draussen schwimmen!!!
+wordpress_id: 5096
 ---
 
 ![](http://ift.tt/2qM5bIT)  

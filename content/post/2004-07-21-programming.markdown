@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-07-21 22:25:43+00:00
-layout: post
+date: 2004-07-21T22:25:43Z
 link: http://habi.gna.ch/2004/07/22/programming/
 slug: programming
 title: programming
 wordpress_id: 583
-categories:
-- none
 ---
 
 [![suicmc_pics](http://habi.gna.ch/blog/images/suicmc_pics-tm.jpg)](http://habi.gna.ch/blog/images/suicmc_pics.jpg)coding something can be quite a long process for me.
@@ -37,7 +36,7 @@ here's the way i did it:
 - be happy that [aare.jpg](http://suicmc04.ch/Gelaende/pics/aare.jpg) and [aare.txt](http://suicmc04.ch/Gelaende/pics/aare.txt) do actually get put in the code.
 - make a thumbnail of each picture (iphoto comes in handy here).
 - build a 4 by 4 table with all the pics.
-- don't mess up the code that michel and abu made.
+- don't mess up the code that michel and äbu made.
 - insert
 
 

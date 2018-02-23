@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- diving
+- pictures
 comments: true
-date: 2006-09-07 19:26:28+00:00
-layout: post
+date: 2006-09-07T19:26:28Z
 link: http://habi.gna.ch/2006/09/07/diving-in-the-verzasca/
 slug: diving-in-the-verzasca
 title: diving in the verzasca
 wordpress_id: 221
-categories:
-- diving
-- pictures
 ---
-
 
 as mentioned before i've been diving in the verzasca this weekend. now i'm uploading all the images to flickr. you can see the images in [this set here](http://www.flickr.com/photos/habi/sets/72157594267217032/).
   

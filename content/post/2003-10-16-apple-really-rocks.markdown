@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- apple
 comments: true
-date: 2003-10-16 18:52:01+00:00
-layout: post
+date: 2003-10-16T18:52:01Z
 link: http://habi.gna.ch/2003/10/16/apple-really-rocks/
 slug: apple-really-rocks
 title: apple really rocks!
 wordpress_id: 314
-categories:
-- apple
 ---
 
 - [hello windows!](http://www.apple.com/itunes/) (itunes for windows too)

@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2016-11-27 10:33:09+00:00
-layout: post
-link: http://habi.gna.ch/2016/11/27/as-steit-auso-no/
-slug: as-steit-auso-no
-title: Äs steit auso no...
-wordpress_id: 4844
 categories:
 - moblog
 - photos
+comments: true
+date: 2016-11-27T10:33:09Z
+link: http://habi.gna.ch/2016/11/27/as-steit-auso-no/
+slug: as-steit-auso-no
 tags:
 - flickr
 - freeheel
@@ -19,6 +16,8 @@ tags:
 - saisonstart
 - whitemagic
 - zermatt
+title: Äs steit auso no...
+wordpress_id: 4844
 ---
 
 ![](http://ift.tt/2guABeA)  

@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2014-12-08 21:45:04+00:00
-layout: post
-link: http://habi.gna.ch/2014/12/08/vemodalen/
-slug: vemodalen
-title: Vemödalen
-wordpress_id: 3666
 categories:
 - linkdump
+comments: true
+date: 2014-12-08T21:45:04Z
+link: http://habi.gna.ch/2014/12/08/vemodalen/
+slug: vemodalen
 tags:
 - photography
 - video
+title: Vemödalen
+wordpress_id: 3666
 ---
 
 Vemödalen:

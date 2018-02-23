@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2016-09-01 19:21:36+00:00
-layout: post
-link: http://habi.gna.ch/2016/09/01/recommended-readings-1-september-2016/
-slug: recommended-readings-1-september-2016
-title: 'Recommended readings: 1. September 2016'
-wordpress_id: 4556
 categories:
 - linkdump
+comments: true
+date: 2016-09-01T19:21:36Z
+link: http://habi.gna.ch/2016/09/01/recommended-readings-1-september-2016/
+slug: recommended-readings-1-september-2016
 tags:
 - instapaper
+title: 'Recommended readings: 1. September 2016'
+wordpress_id: 4556
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:

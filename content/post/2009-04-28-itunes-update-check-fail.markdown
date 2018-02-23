@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2009-04-28 17:53:07+00:00
-layout: post
-link: http://habi.gna.ch/2009/04/28/itunes-update-check-fail/
-slug: itunes-update-check-fail
-title: 'iTunes update-check #fail'
-wordpress_id: 1737
 categories:
 - gadgets and gizmos
 - technospeak
+comments: true
+date: 2009-04-28T17:53:07Z
+link: http://habi.gna.ch/2009/04/28/itunes-update-check-fail/
+slug: itunes-update-check-fail
 tags:
 - iphone
 - itunes
 - screencast
 - screenshot
+title: 'iTunes update-check #fail'
+wordpress_id: 1737
 ---
 
 is this a known problem for other iphone-owning readers of my blog?  

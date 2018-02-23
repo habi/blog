@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2018-02-02 11:29:23+00:00
-layout: post
-link: http://habi.gna.ch/2018/02/02/recommended-readings-januar-2018/
-slug: recommended-readings-januar-2018
-title: 'Recommended Readings: Januar 2018'
-wordpress_id: 5303
 categories:
 - linkdump
+comments: true
+date: 2018-02-02T11:29:23Z
+link: http://habi.gna.ch/2018/02/02/recommended-readings-januar-2018/
+slug: recommended-readings-januar-2018
 tags:
 - instapaper
 - linkdump
 - monthly readings
 - reading
+title: 'Recommended Readings: Januar 2018'
+wordpress_id: 5303
 ---
 
 Im letzten Monat las ich unter anderem folgende Texte und fand diese gut:

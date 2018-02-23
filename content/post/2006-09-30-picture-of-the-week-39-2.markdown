@@ -1,16 +1,15 @@
 ---
 author: admin
-comments: true
-date: 2006-09-30 20:39:54+00:00
-layout: post
-link: http://habi.gna.ch/2006/09/30/picture-of-the-week-39-2/
-slug: picture-of-the-week-39-2
-title: picture of the week 39
-wordpress_id: 796
 categories:
 - personal
 - picture of the week
 - pictures
+comments: true
+date: 2006-09-30T20:39:54Z
+link: http://habi.gna.ch/2006/09/30/picture-of-the-week-39-2/
+slug: picture-of-the-week-39-2
+title: picture of the week 39
+wordpress_id: 796
 ---
 
 today we went for a little walk onto the [niederhorn](http://map.search.ch/beatenbucht?x=170&y=-234&z=64). the weather was absolutely lovely, so i was able to [shoot some nice images](http://flickr.com/photos/habi/tags/niederhorn/) including the one below. it was shot looking the other way than [here](http://flickr.com/photos/habi/256633123/), looking towards thun.

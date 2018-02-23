@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-25 21:56:19+00:00
-layout: post
+date: 2004-01-25T21:56:19Z
 link: http://habi.gna.ch/2004/01/25/servus-vienna/
 slug: servus-vienna
 title: servus vienna
 wordpress_id: 415
-categories:
-- none
 ---
 
 nina won two return-tickets with [helvetic.com](http://www.helvetic.com/), the new swiss airline.

@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2008-11-14 10:10:57+00:00
-layout: post
-link: http://habi.gna.ch/2008/11/14/needaproblemcom/
-slug: needaproblemcom
-title: needaproblem.com?
-wordpress_id: 1548
 categories:
 - fun
 - personal
+comments: true
+date: 2008-11-14T10:10:57Z
+link: http://habi.gna.ch/2008/11/14/needaproblemcom/
+slug: needaproblemcom
 tags:
 - fun
+title: needaproblem.com?
+wordpress_id: 1548
 ---
 
 in der schweiz geht's uns allen ja so gut, dass wir [1] eigentlich keine wirklichen probleme haben.

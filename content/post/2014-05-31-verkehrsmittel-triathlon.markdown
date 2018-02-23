@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2014-05-31 14:32:51+00:00
-layout: post
+date: 2014-05-31T14:32:51Z
 link: http://habi.gna.ch/2014/05/31/verkehrsmittel-triathlon/
 slug: verkehrsmittel-triathlon
 title: Verkehrsmittel-Triathlon
 wordpress_id: 3455
-categories:
-- personal
 ---
 
 [![Verkehrsmittel-Triathlon by habi](http://farm4.staticflickr.com/3714/14289500736_dd51d44be9.jpg)](http://www.flickr.com/photos/habi/14289500736/)  

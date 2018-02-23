@@ -1,18 +1,16 @@
 ---
 author: admin
+categories:
+- moblog
 comments: true
-date: 2007-03-03 12:40:21+00:00
-layout: post
+date: 2007-03-03T12:40:21Z
 link: http://habi.gna.ch/2007/03/03/oh-no/
 slug: oh-no
 title: Oh no!
 wordpress_id: 876
-categories:
-- moblog
 ---
 
-
- [![](http://farm1.static.flickr.com/124/408656584_b11b8cc1f1_m.jpg)](http://www.flickr.com/photos/habi/408656584/)
+[![](http://farm1.static.flickr.com/124/408656584_b11b8cc1f1_m.jpg)](http://www.flickr.com/photos/habi/408656584/)
    
 
  

@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2012-10-02 17:16:28+00:00
-layout: post
-link: http://habi.gna.ch/2012/10/02/portrait-und-blitzworkshop-in-lausanne/
-slug: portrait-und-blitzworkshop-in-lausanne
-title: Portrait- und Blitzworkshop in Lausanne
-wordpress_id: 2925
 categories:
 - pictures
 - switzerland
+comments: true
+date: 2012-10-02T17:16:28Z
+link: http://habi.gna.ch/2012/10/02/portrait-und-blitzworkshop-in-lausanne/
+slug: portrait-und-blitzworkshop-in-lausanne
 tags:
 - bernereitung
 - lausanne
@@ -18,6 +15,8 @@ tags:
 - rolex learning center
 - strobist
 - workshop
+title: Portrait- und Blitzworkshop in Lausanne
+wordpress_id: 2925
 ---
 
 Es ist zwar schon länger her, aber trotzdem möchte ich es nicht versäumen [Mark](http://permanenttourist.ch) noch 'offiziell' für seinen kostenlosen [Portrait- und Blitzworkshop](http://www.facebook.com/events/133545773452122/) zu danken, welcher er in Lausanne organisiert hat. Am 19. August haben sich ein paar Fotografie-Begeisterte beim [Rolex Learning Center](http://habi.gna.ch/2012/06/13/das-rolex-learning-center-an-der-epfl-in-lausanne-revisited/) an der EPFL getroffen und hatten die Gelegenheit, sich zusammen mit 3 Models an Portrait- und Blitzfotografie zu üben.

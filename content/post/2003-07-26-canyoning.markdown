@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-07-26 19:39:58+00:00
-layout: post
+date: 2003-07-26T19:39:58Z
 link: http://habi.gna.ch/2003/07/26/canyoning/
 slug: canyoning
 title: Canyoning
 wordpress_id: 233
-categories:
-- none
 ---
 
 Today i went Canyoning into the Canyon called "chli Schlieren" with Nina, Jacky, Claudsche, Peschi and Sigi!  
@@ -17,7 +16,7 @@ It was unbelievable cool. It's so nice to be in the river, slide and jump down t
 
 
 
-[Manu](http://www.outdoor-interlaken.ch/outDoor/index.asp?categoryId=36&activityId=75&activityDetailId=133&openMenu=0&region=) and [Luku](http://www.outdoor-interlaken.ch/outDoor/index.asp?categoryId=36&activityId=75&activityDetailId=135&openMenu=0&region=) were both great guides (i know both of them from school).  
+[Mänu](http://www.outdoor-interlaken.ch/outDoor/index.asp?categoryId=36&activityId=75&activityDetailId=133&openMenu=0&region=) and [Lüku](http://www.outdoor-interlaken.ch/outDoor/index.asp?categoryId=36&activityId=75&activityDetailId=135&openMenu=0&region=) were both great guides (i know both of them from school).  
 
 
 If you're in switzerland, and have nothing else to do, go to Interlaken and do that!

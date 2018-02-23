@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-02-05 20:24:29+00:00
-layout: post
+date: 2004-02-05T20:24:29Z
 link: http://habi.gna.ch/2004/02/05/comments-hitparade/
 slug: comments-hitparade
 title: comments hitparade
 wordpress_id: 434
-categories:
-- none
 ---
 
 [![](http://habi.gna.ch/blog/images/commentparade-tm.jpg)](http://habi.gna.ch/blog/images/commentparade.jpg)well, after [arni](http://www.arnoldseefeld.com/blog/) posted [some code](http://www.arnoldseefeld.com/blog/archives/000071.html)1 i tried to implement the [comment-hitparade](http://mt-plugins.org/archives/entry/commentleaders.php) i mentioned earlier:

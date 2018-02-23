@@ -1,20 +1,19 @@
 ---
 author: admin
-comments: true
-date: 2017-08-08 18:08:07+00:00
-layout: post
-link: http://habi.gna.ch/2017/08/08/recommended-readings-august-1-2017/
-slug: recommended-readings-august-1-2017
-title: 'Recommended readings: August 1, 2017'
-wordpress_id: 5147
 categories:
 - linkdump
+comments: true
+date: 2017-08-08T18:08:07Z
+link: http://habi.gna.ch/2017/08/08/recommended-readings-august-1-2017/
+slug: recommended-readings-august-1-2017
 tags:
 - instapaper
 - long read
 - monthly readings
 - reading
 - recommended readings
+title: 'Recommended readings: August 1, 2017'
+wordpress_id: 5147
 ---
 
 Wegen [einer Woche Quasi-Ferien](https://www.flickr.com/photos/habi/albums/72157684559049111) etwas später und etwas mehr, aber ich kam halt viel zum lesen....

@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- gadgets and gizmos
+- linkdump
 comments: true
-date: 2007-06-17 04:51:48+00:00
-layout: post
+date: 2007-06-17T04:51:48Z
 link: http://habi.gna.ch/2007/06/17/lolcat-for-nerds-katzencontent/
 slug: lolcat-for-nerds-katzencontent
 title: lolcat for nerds [katzencontent!]
 wordpress_id: 966
-categories:
-- gadgets and gizmos
-- linkdump
 ---
 
 goes with my studying at the moment (got exams on tuesday...)

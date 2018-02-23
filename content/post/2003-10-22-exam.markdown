@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2003-10-22 15:37:56+00:00
-layout: post
+date: 2003-10-22T15:37:56Z
 link: http://habi.gna.ch/2003/10/22/exam/
 slug: exam
 title: exam
 wordpress_id: 319
-categories:
-- none
 ---
 
 if you wanna see what exam i prepared for the class today, then click on the image below, and you can download a 132kb-pdf.

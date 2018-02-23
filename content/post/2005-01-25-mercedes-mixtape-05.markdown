@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- linkdump
+- music
 comments: true
-date: 2005-01-25 15:14:32+00:00
-layout: post
+date: 2005-01-25T15:14:32Z
 link: http://habi.gna.ch/2005/01/25/mercedes-mixtape-05/
 slug: mercedes-mixtape-05
 title: mercedes mixtape 05
 wordpress_id: 723
-categories:
-- linkdump
-- music
 ---
-
 
 mercedes released the new mixtape (version 05). the opener track is a really great jazzy electro-tune.
   

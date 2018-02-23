@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2004-04-01 22:05:28+00:00
-layout: post
+date: 2004-04-01T22:05:28Z
 link: http://habi.gna.ch/2004/04/02/itunes-info-in-sidebar/
 slug: itunes-info-in-sidebar
 title: itunes info in sidebar
 wordpress_id: 490
-categories:
-- technospeak
 ---
 
 because something was f[beep] up with the way [kung-tunes](http://www.kung-foo.tv/itti.php) posted the trackinfo from my itunes to the sidebar, here's the roundup on how i did it (adding to [this post](http://habi.gna.ch/blog/archives/000129.html)):

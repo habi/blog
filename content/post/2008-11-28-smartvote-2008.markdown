@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2008-11-28 23:15:34+00:00
-layout: post
-link: http://habi.gna.ch/2008/11/29/smartvote-2008/
-slug: smartvote-2008
-title: smartvote 2008
-wordpress_id: 1572
 categories:
 - meetings
 - personal
+comments: true
+date: 2008-11-28T23:15:34Z
+link: http://habi.gna.ch/2008/11/29/smartvote-2008/
+slug: smartvote-2008
 tags:
 - medizinphysik
 - nds
 - wahlen
+title: smartvote 2008
+wordpress_id: 1572
 ---
 
 für das kommende wochenende hat's [herr jacomet](http://blog.jacomet.ch/?p=1501) vorgemacht, was mensch tun sollte: wählen! ich habe vor ein paar tagen von hand 79 [1] namen auf [meinen wahlzettel](http://habi.gna.ch/wp-content/uploads/2008/11/20081105-smartvote.pdf) geschrieben [2]. spannend zu sehen, durch wen ich laut [smartvote.ch](http://www.smartvote.ch/) am besten vertreten werde. anhand der sogenannten smartspider kann mensch die entwicklung meines politischen profils der letzten paar jahre ablesen. abgesehen, dass ich bei der "aussenpolitischen öffnung" etwas wankelmütig scheine, hat sich gar nicht so viel verändert. die bilder unten zeigen meine smartspiders im 2004, im 2007 und im 2008, also jetzt.[](http://habi.gna.ch/wp-content/uploads/2008/11/2004smartspider.jpg)

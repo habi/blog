@@ -1,17 +1,15 @@
 ---
 author: admin
+categories:
+- fun
+- personal
 comments: true
-date: 2006-01-09 19:05:47+00:00
-layout: post
+date: 2006-01-09T19:05:47Z
 link: http://habi.gna.ch/2006/01/09/a-big-bunch-of-tickets/
 slug: a-big-bunch-of-tickets
 title: a big bunch of tickets
 wordpress_id: 125
-categories:
-- fun
-- personal
 ---
-
 
 [![Dsc02811](http://habi.gna.ch/blog/images/DSC02811-tm.jpg)](http://habi.gna.ch/blog/images/DSC02811.jpg)this weekend we're again gonna go to [gensingen](http://flickr.com/photos/habi/sets/88024/), to take part in a masters competition of the [ssv ingelheim](http://www.ssv-ingelheim.de/). today i went to buy our tickets (three people; pesche and another guy from basel and me). as you can see in the image to the left, it was rather a big undertaking.
   

@@ -1,27 +1,26 @@
 ---
 author: admin
-comments: true
-date: 2010-08-17 20:18:19+00:00
-layout: post
-link: http://habi.gna.ch/2010/08/17/island/
-slug: island
-title: Island
-wordpress_id: 2177
 categories:
 - personal
 - pictures
 - tschörman
+comments: true
+date: 2010-08-17T20:18:19Z
+link: http://habi.gna.ch/2010/08/17/island/
+slug: island
 tags:
 - iceland
 - strokkur
+title: Island
+wordpress_id: 2177
 ---
 
-Die Ferien in Island waren wie gesagt wunderbar, wir hatten grundsatzlich Wettergluck, d.h. geregnet hat's nur in der Nahe von heissen Quellen. Momentan bin ich die Fotos am durcharbeiten, diese werden nach und nach bei flickr oder [hier](http://grobmotoriker.ch/fotos/index.php?type=sets&setId=72157624746373110) landen.
+Die Ferien in Island waren wie gesagt wunderbar, wir hatten grundsätzlich Wetterglück, d.h. geregnet hat's nur in der Nähe von heissen Quellen. Momentan bin ich die Fotos am durcharbeiten, diese werden nach und nach bei flickr oder [hier](http://grobmotoriker.ch/fotos/index.php?type=sets&setId=72157624746373110) landen.
 
 
 
 
-Ganz old-school-massig habe ich mal versucht aus einer Bildserie des [Strokkur-Geysirs](http://en.wikipedia.org/wiki/Strokkur) ein animiertes .gif-Bild gemacht, das eine Eruption der Wassersaule zeigt. Das Filmli wurde aus 22 freihändisch aufgenommenen Einzelbildern erstellt, die mit [hugin](http://hugin.sourceforge.net/) ausgerichtet und mit [Fiji](http://pacific.mpi-cbg.de/wiki/index.php/Fiji) in ein gif-Bild geschrieben wurden. Die Datei ist fast 3 MB gross, es kann also etwas dauern, bis der Geysir ausbricht...
+Ganz old-school-mässig habe ich mal versucht aus einer Bildserie des [Strokkur-Geysirs](http://en.wikipedia.org/wiki/Strokkur) ein animiertes .gif-Bild gemacht, das eine Eruption der Wassersäule zeigt. Das Filmli wurde aus 22 freihändisch aufgenommenen Einzelbildern erstellt, die mit [hugin](http://hugin.sourceforge.net/) ausgerichtet und mit [Fiji](http://pacific.mpi-cbg.de/wiki/index.php/Fiji) in ein gif-Bild geschrieben wurden. Die Datei ist fast 3 MB gross, es kann also etwas dauern, bis der Geysir ausbricht...
 
 
 

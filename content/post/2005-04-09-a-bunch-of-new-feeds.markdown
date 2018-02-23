@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- technospeak
 comments: true
-date: 2005-04-09 21:44:02+00:00
-layout: post
+date: 2005-04-09T21:44:02Z
 link: http://habi.gna.ch/2005/04/09/a-bunch-of-new-feeds/
 slug: a-bunch-of-new-feeds
 title: a bunch of new feeds
 wordpress_id: 758
-categories:
-- technospeak
 ---
-
 
 i just returned from the [matt blogg+birthday meet](http://blog.ch/blog/index.php/archives/2005/03/29/the-matt-blogbirthday-meet/) which was really nice and interesting. it was really nice connecting the faces to the bits and bites, talking about tagging vs. keywords, map orientations and stuff like that. 
   

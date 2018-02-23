@@ -1,15 +1,12 @@
 ---
 author: admin
-comments: true
-date: 2017-01-15 22:01:15+00:00
-layout: post
-link: http://habi.gna.ch/2017/01/15/zzuri-ir-souna/
-slug: zzuri-ir-souna
-title: Z'Züri ir Souna
-wordpress_id: 5005
 categories:
 - moblog
 - photos
+comments: true
+date: 2017-01-15T22:01:15Z
+link: http://habi.gna.ch/2017/01/15/zzuri-ir-souna/
+slug: zzuri-ir-souna
 tags:
 - flickr
 - IFTTT
@@ -19,6 +16,8 @@ tags:
 - saunaamsee
 - seerie
 - zürichsee
+title: Z"Züri ir Souna
+wordpress_id: 5005
 ---
 
 ![](http://ift.tt/2jzg2zN)  

@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-10-07 20:01:37+00:00
-layout: post
+date: 2004-10-07T20:01:37Z
 link: http://habi.gna.ch/2004/10/07/politicians/
 slug: politicians
 title: politicians
 wordpress_id: 639
-categories:
-- none
 ---
 
 is it funny? or is it really, really scary?

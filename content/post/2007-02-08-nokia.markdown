@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2007-02-08 10:39:46+00:00
-layout: post
+date: 2007-02-08T10:39:46Z
 link: http://habi.gna.ch/2007/02/08/nokia/
 slug: nokia
 title: nokia?
 wordpress_id: 867
-categories:
-- personal
 ---
 
 hab grad ein cooles mail bekommen, so von wegen creative commons und so...

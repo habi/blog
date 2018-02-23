@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- switzerland
 comments: true
-date: 2005-04-16 12:40:26+00:00
-layout: post
+date: 2005-04-16T12:40:26Z
 link: http://habi.gna.ch/2005/04/16/the-swiss-blog-awards/
 slug: the-swiss-blog-awards
 title: the swiss blog awards
 wordpress_id: 768
-categories:
-- switzerland
 ---
-
 
 [jan](http://pieceoplastic.com/), [nick](http://bernergazette.ch/), [matthias](http://www.gutfeldt.ch/matthias/blog/index.php) and [urs](http://www.circle.ch/blog/) propose the idea of a swiss blog award. they started a page to gather comments and ideas on how to go on.
   

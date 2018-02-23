@@ -1,17 +1,16 @@
 ---
 author: admin
-comments: true
-date: 2007-12-14 21:17:41+00:00
-layout: post
-link: http://habi.gna.ch/2007/12/14/ferientage-with-map/
-slug: ferientage-with-map
-title: ferientage [with map]
-wordpress_id: 1090
 categories:
 - bike
 - gps
 - personal
 - tschörman
+comments: true
+date: 2007-12-14T21:17:41Z
+link: http://habi.gna.ch/2007/12/14/ferientage-with-map/
+slug: ferientage-with-map
+title: ferientage [with map]
+wordpress_id: 1090
 ---
 
 da ich letzhin mit der sekretärin des institutes rausgefunden habe, dass ich dieses jahr noch einige ferientage verbrauchen kann/soll, habe ich diese woche einen tag in die persönliche fitness investiert; ich hab mich mal wieder auf's velo geschwungen und bin am dienstag nachmittag bei nur halb guten wetter-bedingungen als [kurier](http://www.velokurierbern.ch/) durch die stadt geflitzt, wie in alten zeiten [1].

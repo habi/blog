@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-05-11 20:12:55+00:00
-layout: post
+date: 2004-05-11T20:12:55Z
 link: http://habi.gna.ch/2004/05/11/good-music-for-free/
 slug: good-music-for-free
 title: good music for free
 wordpress_id: 527
-categories:
-- none
 ---
 
 like always, all good things in life are free:

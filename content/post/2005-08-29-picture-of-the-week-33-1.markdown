@@ -1,16 +1,14 @@
 ---
 author: admin
+categories:
+- picture of the week
 comments: true
-date: 2005-08-29 17:33:41+00:00
-layout: post
+date: 2005-08-29T17:33:41Z
 link: http://habi.gna.ch/2005/08/29/picture-of-the-week-33-1/
 slug: picture-of-the-week-33-1
 title: picture of the week 33 [1]
 wordpress_id: 66
-categories:
-- picture of the week
 ---
-
 
 this weekend i found some time to panoramify all my shots from european masters championships in stockholm (you might have seen it on [flickr](http://flickr.com/photos/habi/tags/panorama/)).
   

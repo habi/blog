@@ -1,15 +1,14 @@
 ---
 author: admin
+categories:
+- music
+- tschörman
 comments: true
-date: 2007-07-21 23:23:41+00:00
-layout: post
+date: 2007-07-21T23:23:41Z
 link: http://habi.gna.ch/2007/07/22/cypress-hill-on-the-hill-video/
 slug: cypress-hill-on-the-hill-video
 title: cypress hill on the hill [video]
 wordpress_id: 996
-categories:
-- music
-- tschörman
 ---
 
 haben die jungs alle eine nasenoperation hinter sich? früher haben die doch viel nasaler geklungen, oder?

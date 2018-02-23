@@ -1,18 +1,17 @@
 ---
 author: admin
-comments: true
-date: 2007-10-06 14:23:07+00:00
-layout: post
-link: http://habi.gna.ch/2007/10/06/ganz-fest-gegen-rassismus-with-map/
-slug: ganz-fest-gegen-rassismus-with-map
-title: ganz fest gegen rassismus [with map]
-wordpress_id: 1050
 categories:
 - gps
 - personal
 - pictures
 - switzerland
 - tschörman
+comments: true
+date: 2007-10-06T14:23:07Z
+link: http://habi.gna.ch/2007/10/06/ganz-fest-gegen-rassismus-with-map/
+slug: ganz-fest-gegen-rassismus-with-map
+title: ganz fest gegen rassismus [with map]
+wordpress_id: 1050
 ---
 
 heute nami fand auf dem münsterplatz das [fest gegen rassismus](http://www.das-schwarze-schaf.ch/) statt. ein schönes, friedliches und lautstarkes zeichen gegen die politik der svp. mehre bands (unter anderem als überraschungs-gast die [young gods](http://www.younggods.com/)!). leider waren ein paar hitzköpfe nicht davon abzuhalten, den svp-umzug gewaltsam zu stören, so dass in den main-stream-[news](http://news.search.ch/inland/2007-10-06/gewaltsame-ausschreitungen-in-bern) [1] leider nur von den ausschreitungen die rede ist und nicht vom fest auf dem münsterplatz...

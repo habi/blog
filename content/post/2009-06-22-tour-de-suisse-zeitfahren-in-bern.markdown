@@ -1,19 +1,18 @@
 ---
 author: admin
-comments: true
-date: 2009-06-22 16:50:23+00:00
-layout: post
-link: http://habi.gna.ch/2009/06/22/tour-de-suisse-zeitfahren-in-bern/
-slug: tour-de-suisse-zeitfahren-in-bern
-title: tour de suisse zeitfahren in bern
-wordpress_id: 1817
 categories:
 - pictures
 - switzerland
 - tschörman
+comments: true
+date: 2009-06-22T16:50:23Z
+link: http://habi.gna.ch/2009/06/22/tour-de-suisse-zeitfahren-in-bern/
+slug: tour-de-suisse-zeitfahren-in-bern
 tags:
 - bern
 - tour de suisse
+title: tour de suisse zeitfahren in bern
+wordpress_id: 1817
 ---
 
 ich weiss, alle haben's schon überall gelesen, gestern hat der [fäbu](http://de.wikipedia.org/wiki/Fabian_Cancellara) die tour de suisse im zeitfahren für sich entschieden. da er und alle anderen schnellen wädli quasi bei mir vor dem haus durchfuhren, habe ich gestern nachmittag ein paar fotos geschossen. das gros der fotos ist in meinem flickr-set: [tour de suisse](http://www.flickr.com/photos/habi/sets/72157620230353964/) zu finden, ein paar spezielle fotos sind unten detailliert zu sehen.

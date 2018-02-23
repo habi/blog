@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- none
 comments: true
-date: 2004-01-25 21:46:53+00:00
-layout: post
+date: 2004-01-25T21:46:53Z
 link: http://habi.gna.ch/2004/01/25/maybe-a-new-ipod/
 slug: maybe-a-new-ipod
 title: maybe a new ipod?
 wordpress_id: 414
-categories:
-- none
 ---
 
 this evening arlette called me.

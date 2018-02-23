@@ -1,14 +1,13 @@
 ---
 author: admin
+categories:
+- personal
 comments: true
-date: 2016-01-15 21:48:02+00:00
-layout: post
+date: 2016-01-15T21:48:02Z
 link: http://habi.gna.ch/2016/01/15/where-have-i-been-in-2015/
 slug: where-have-i-been-in-2015
 title: Where have I been in 2015
 wordpress_id: 4301
-categories:
-- personal
 ---
 
 Hier ein weiterer meiner Jahresrückblick 2015-Posts. Die anderen sind unter dem Tag [`jahresrückblick15`](http://habi.gna.ch/tag/jahresruckblick15) zu finden.
@@ -71,12 +70,12 @@ Since we're going to use it often, we're making a function to grab the name of a
 [code lang=r]
 geoname <- function(lat,lon){
   # Grab GeoNames XML from their API, according to location
-  txt = getURL(paste0("http://api.geonames.org/findNearbyPostalCodes?lat=", lat, "&lng=", lon, "&username=habi", collabse = NULL), .encoding = 'UTF-8', .mapUnicode = TRUE)
+  txt = getURL(paste0("http://api.geonames.org/findNearbyPostalCodes?lat=", lat, "&lng=", lon, "&username=habi", collabse = NULL), .encoding = "UTF-8", .mapUnicode = TRUE)
   # Parse XML tree
   xmldata <- htmlTreeParse(txt, asText=TRUE)
   # Extract <name> node (with empirically found location)
   Name <- xmldata$children[[2]][[1]][[1]][[1]][[2]][[1]]
-  # Since we're only using the name as string, we can return it as such
+  # Since we"re only using the name as string, we can return it as such
  return(unlist(Name)[[2]])
 }
 [/code]
@@ -106,7 +105,7 @@ summary(thisyear$alt)
 [/code]
 
 [code lang=text]
-##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA"s 
 ##   84.85  363.10  533.00  541.90  554.20 3400.00     228
 [/code]
 
@@ -176,7 +175,7 @@ For the northmost point, this goes like so:
 [code lang=r]
 NLocation = c(lon=subset(thisyear, lat==max(thisyear$lat))$lon[1],
               lat=subset(thisyear, lat==max(thisyear$lat))$lat[1])
-mapImage<- get_map(location= NLocation, source='stamen', maptype='toner-hybrid', zoom=10)
+mapImage<- get_map(location= NLocation, source="stamen", maptype="toner-hybrid", zoom=10)
 ggmap(mapImage) +
   geom_point(aes(x = subset(thisyear, lat==max(thisyear$lat))$lon[1],
                  y = subset(thisyear, lat==max(thisyear$lat))$lat[1]),
@@ -225,7 +224,7 @@ Since I only want to show the data points in Switzerland, we center the map on t
 Afterwards, we can simply plot all the `thisyear` geolocation points on top of that image, and you can see where I was in Switzerland in 2015.
 
 [code lang=r]
-HomeBase <- get_map(location= 'Switzerland', source = 'stamen', maptype='toner-hybrid', zoom=8)
+HomeBase <- get_map(location= "Switzerland", source = "stamen", maptype="toner-hybrid", zoom=8)
 AllPoints <- data.frame(lon=thisyear$lon, lat=thisyear$lat)
 ggmap(HomeBase) + geom_point(aes(x = lon, y = lat),
                              data = AllPoints,
