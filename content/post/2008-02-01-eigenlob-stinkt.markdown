@@ -16,13 +16,6 @@ Die letzten beiden Woche war ich ziemlich beschäftigt, erst ein Poster gezeigt,
 
 Ich schieb das auch zu einem Teil auf [Apples Keynote](http://www.apple.com/iwork/keynote/), dass es einem ermöglicht, relativ einfach eindrucksvolle Präsentationen zu erstellen. Aber seht selber:  
 
- 
-
+ <object width="480" height="400"><param name="movie" value="http://scivee.tv/flash/embedPlayer.swf" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="id=5056&amp;type=3 " /><embed src="http://scivee.tv/flash/embedPlayer.swf" width="480" height="400" flashvars="id=5056&amp;type=3" /></object>
 
 Das ist ein Export meines Vortages von heute nachmittag auf [scivee.tv](http://www.scivee.tv/), (so quasi ein wissenschaftliches youtube...). Der ganze Vortrag ist von einer ursprünglichen Länge von 15 Minuten komprimiert auf knapp unter 2 Minuten, aber trotzdem kann mann so sehen, für was ich den ganzen Tag in den Sessel furze... Scivee ist übrigens ein extrem nettes Ding, da kann mann viele neue Sachen lernen und als Service bietet es einige wichtige Features mehr als [slideshare.net](http://www.slideshare.net/habi)...
-
-
-
-
-
-[lang:de](http://technorati.com/tag/lang:de), [skeleto](http://technorati.com/tag/skeleto), [skeletonization](http://technorati.com/tag/skeletonization), [work](http://technorati.com/tag/work)
