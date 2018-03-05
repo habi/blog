@@ -16,5 +16,4 @@ wordpress_id: 1717
 
 bei den temperaturen heute war auch auf dem stockhorn nicht mehr allzuguter schnee, nichtsdestotrotz war's ein wunderbarer tag und ein gelungener abschluss der ski-saison (sehr wahrscheinlich)
 
-
-
+<iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=xtngvmqnhdhttdsm" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>

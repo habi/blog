@@ -16,14 +16,8 @@ wordpress_id: 1611
 
 der [gelichtete nebel](http://habi.gna.ch/2008/12/25/der-nebel-lichtet-sich/) war dann nur von kurzer dauer, schlussendlich war's so dichter nebel, wie ich ihn noch selten auf der piste erlebt habe, drum wurde der weihnachts-skitag in adelboden etwas früher beendet als geplant. nichtsdestotrotz war's schön:
 
+<iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=myqxqqdwggsorkov" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+
 das geschwindigkeitsprofil ist auch noch interessant:
 
-
-
-
-  [![1230227864-21122-P-84.75.160.251.png](http://habi.gna.ch/wp-content/uploads/2008/12/1230227864-21122-p-8475160251.jpg)](http://habi.gna.ch/wp-content/uploads/2008/12/1230227864-21122-p-8475160251.png)  
-
-
-
-
-
+[![1230227864-21122-P-84.75.160.251.png](http://habi.gna.ch/wp-content/uploads/2008/12/1230227864-21122-p-8475160251.jpg)](http://habi.gna.ch/wp-content/uploads/2008/12/1230227864-21122-p-8475160251.png)  

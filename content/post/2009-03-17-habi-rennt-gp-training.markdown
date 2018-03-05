@@ -13,10 +13,8 @@ title: 'habi rennt: GP-Training'
 wordpress_id: 1681
 ---
 
-während rouge beim joggen [kiffenden junkies begegnet](http://www.rouge.ch/blog/rouge-rennt-kiffen/) hatte ich es heute abend ruhig, fast ein bisschen zu ruhig, wenn mann bedenkt, dass das linke aareufer und der dälhölzli-wald nicht beleuchtet sind. nichtsdestotrotz ein guter einstieg ins training für den [gp](http://www.gpbern.ch/). die nächsten paar mal muss ich nur noch die distanz etwas ausbauen (und schauen, dass das gps-kästli bis wieder nach hause aufzeichnet).
+während rouge beim joggen [kiffenden junkies begegnet](http://www.rouge.ch/blog/rouge-rennt-kiffen/) hatte ich es heute abend ruhig, fast ein bisschen zu ruhig, wenn mann bedenkt, dass das linke aareufer und der dälhölzli-wald nicht beleuchtet sind.
+nichtsdestotrotz ein guter einstieg ins training für den [gp](http://www.gpbern.ch/).
+die nächsten paar mal muss ich nur noch die distanz etwas ausbauen (und schauen, dass das gps-kästli bis wieder nach hause aufzeichnet).
 
-
-
-
-
-
+<iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=ozdgumqmakggkpts" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>

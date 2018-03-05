@@ -16,13 +16,6 @@ wordpress_id: 1692
 
 in grossen schritten kommt der gp näher, deshalb müsste ich eigentlich noch mehr rennen als ich es bis jetzt tue, aber eben, der innere schweinehund würde lieber skifahren oder auf dem sofa liegen...
 
-
-
-
 gestern habe ich es trotz regen geschafft, eine mittlere runde zu rennen. knapp 9.5 km in 42 minuten. wenn das so weitergeht, dann wird das dieses jahr keine bestzeit :)
 
-
-
-
-
-
+<iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=giqoewtkwxhomuvj" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
