@@ -17,7 +17,7 @@ This means that - in theory - I'm free to move this thing to any host I want and
 - `cd ~/Dev/exitwp/ && python2 exitwp.py`
 - `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/_posts/`
 
-The exoprted posts are geared toward a 'Jekyll' site, but also work with 'hugo'.
+The exported posts are geared toward a `Jekyll` site, but also work with `hugo`
 
 ## Convert to Hugo
 
