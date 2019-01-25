@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2005-03-16 13:30:31+00:00
+layout: post
+link: http://habi.gna.ch/2005/03/16/18-and-rising/
+slug: 18-and-rising
+title: 18° and rising.
+wordpress_id: 747
+categories:
+- apple
+---
+
+
+![Menubar-1](http://habi.gna.ch/blog/images/menubar-1.jpg)
+  
+if this ain't the nicest start into the spring, i don't know what else could be it...
+
+
+
+(btw: from left to right: [bluephoneelite](http://www.reelintelligence.com/BluePhoneElite/), [meteorologist](http://heat-meteo.sourceforge.net/), os x' bluetooth status, os x' eject, os x' airport (off), [menu meters](http://www.ragingmenace.com/software/menumeters/) cpu, [menu meters](http://www.ragingmenace.com/software/menumeters/) network, os x' clock).
+

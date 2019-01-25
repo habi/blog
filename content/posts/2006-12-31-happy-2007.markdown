@@ -1,0 +1,20 @@
+---
+author: admin
+comments: true
+date: 2006-12-31 11:00:00+00:00
+layout: post
+link: http://habi.gna.ch/2006/12/31/happy-2007/
+slug: happy-2007
+title: happy 2007!
+wordpress_id: 837
+categories:
+- personal
+---
+
+[![2007](http://habi.gna.ch/wp-content/uploads/2006/12/2007-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/12/2007.jpg)
+
+ps: does not interfere with [this here](http://habi.backpackit.com/pub/868074), because i prepared this post last week...
+
+
+
+Technorati Tags: [2007](http://www.technorati.com/tag/2007), [happynewyear](http://www.technorati.com/tag/happynewyear)

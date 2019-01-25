@@ -1,0 +1,21 @@
+---
+author: admin
+comments: true
+date: 2008-01-28 18:53:07+00:00
+layout: post
+link: http://habi.gna.ch/2008/01/28/anzeiger/
+slug: anzeiger
+title: anzeiger
+wordpress_id: 1166
+categories:
+- switzerland
+- tschörman
+---
+
+immerhin: nach [dreimaligem unfrankiertem retourschicken](http://flickr.com/photos/habi/tags/anzeiger) lag heute kein anzeiger in meinem briefkasten. hoffentlich bliebt es weiterhin so...
+
+
+
+
+
+[lang:de](http://technorati.com/tag/lang:de), [anzeiger](http://technorati.com/tag/anzeiger)

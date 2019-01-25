@@ -1,0 +1,225 @@
+---
+author: admin
+comments: true
+date: 2018-01-03 21:24:05+00:00
+layout: post
+link: http://habi.gna.ch/2018/01/03/wo-war-ich-im-2017/
+slug: wo-war-ich-im-2017
+title: Wo war ich im 2017
+wordpress_id: 5264
+categories:
+- technospeak
+tags:
+- folium
+- geodata
+- jahresrückblick
+- jahresrückblick17
+- map
+- python
+---
+
+Anfangs Jahr ist ein guter Zeitpunkt, um aufs vergangene Jahr zurückzublicken. Das heisst, es gibt mal wieder ein paar nerdige Blogeinträge. Der Rest (wenn er dann kommt) ist unter dem Tag [`jahresrückblick17`](http://habi.gna.ch/tag/jahresruckblick17) zu finden.
+
+Da ich erst Mitte 2017 herausgefunden habe, dass [OpenPaths](https://openpaths.cc/) tot ist (die Daten können nicht mehr exportiert werden, auf Mails und Twitter-Nachrichten reagiert niemand), habe ich mich nach Alternativen umgesehen. Leider erst ab Juli, daher fehlen die Daten der ersten Jahreshälfte...
+Nachdem [Moves](https://moves-app.com/) ausgeschieden ist, weil es zu Facebook gehört, und [Arc](http://www.bigpaua.com/arc/) ausgeschieden ist, weil die Batterielaufzeit des Telefons massiv verringert wurde, bin ich bei [WHIB](http://www.bleatinc.com/) gelandet. Dank einem 2$-`premium`-Feature können alle aufgenommenen Daten als [CSV](https://de.wikipedia.org/wiki/CSV_(Dateiformat)) exportiert werden, das macht es möglich, mit ein [bisschen Python](https://github.com/habi/jahresrueckblick/blob/master/WHIB.ipynb) zu schauen, wo ich mich (in der zweiten Hälfte) 2017 rumgetrieben habe, als ich das Telefon dabei hatte.
+
+Dazu brauchen wir ein paar Bibliotheken
+
+[code lang=python]
+import pandas
+import matplotlib.pylab as plt
+import seaborn
+import folium
+[/code]
+
+Laden wir mal das exportierte File in eine [Pandas Tabelle](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html)
+
+[code lang=python]
+locations = pandas.read_csv('journey.csv')
+[/code]
+
+Das sieht doch schon mal ganz gut aus, wir haben nämlich 6233 Datenpunkte.
+
+[code lang=python]
+locations.describe()
+[/code]
+
+
+
+
+<table border="1" class="dataframe" >
+  
+    <tr style="text-align: right;" >
+      
+      Crumb
+      Latitude
+      Longitude
+      Altitude (in metres)
+      Accuracy (in metres)
+    </tr>
+  
+  <tbody >
+    <tr >
+      count
+      
+<td >6233.000000
+</td>
+      
+<td >6233.000000
+</td>
+      
+<td >6233.000000
+</td>
+      
+<td >6233.000000
+</td>
+      
+<td >6233.000000
+</td>
+    </tr>
+    <tr >
+      mean
+      
+<td >3116.000000
+</td>
+      
+<td >46.932620
+</td>
+      
+<td >7.437850
+</td>
+      
+<td >533.149527
+</td>
+      
+<td >125.461736
+</td>
+    </tr>
+    <tr >
+      std
+      
+<td >1799.456446
+</td>
+      
+<td >0.067238
+</td>
+      
+<td >0.115774
+</td>
+      
+<td >159.792018
+</td>
+      
+<td >596.847400
+</td>
+    </tr>
+    <tr >
+      min
+      
+<td >0.000000
+</td>
+      
+<td >46.434918
+</td>
+      
+<td >7.026148
+</td>
+      
+<td >-43.000000
+</td>
+      
+<td >0.000000
+</td>
+    </tr>
+    <tr >
+      25%
+      
+<td >1558.000000
+</td>
+      
+<td >46.935265
+</td>
+      
+<td >7.417971
+</td>
+      
+<td >545.000000
+</td>
+      
+<td >47.000000
+</td>
+    </tr>
+    <tr >
+      50%
+      
+<td >3116.000000
+</td>
+      
+<td >46.937312
+</td>
+      
+<td >7.424690
+</td>
+      
+<td >555.000000
+</td>
+      
+<td >65.000000
+</td>
+    </tr>
+    <tr >
+      75%
+      
+<td >4674.000000
+</td>
+      
+<td >46.948112
+</td>
+      
+<td >7.433138
+</td>
+      
+<td >558.000000
+</td>
+      
+<td >70.000000
+</td>
+    </tr>
+    <tr >
+      max
+      
+<td >6232.000000
+</td>
+      
+<td >47.398817
+</td>
+      
+<td >8.577597
+</td>
+      
+<td >2003.000000
+</td>
+      
+<td >23964.000000
+</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+Mit etwas Hilfe von [Folium](http://python-visualization.github.io/folium/) können wir dann diese gut 6000 Datenpunkte auf einer [schwarz-weissen Karte](http://maps.stamen.com/toner/) darstellen. Damit überhaupt 'richtig' etwas zu sehen ist, machen wir eine sogenannte [Heatmap](https://en.wikipedia.org/wiki/Heat_map), dann ist das Ganze etwas übersichtlicher.
+
+[code lang=python]
+from folium.plugins import HeatMap
+xy = [[row['Latitude'], row['Longitude']] for index, row in locations.iterrows()]
+m = folium.Map(location=[locations['Latitude'].mean(),
+                         locations['Longitude'].mean()], tiles='Stamen Toner', zoom_start=9)
+folium.plugins.HeatMap(xy).add_to(m)
+m
+[/code]
+
+Schlussendlich sieht das dann so aus; da war ich überall in der zweiten Hälfte vom 2017. Rein- und rauszoomen ist erlaubt und erwünscht :)
+
+

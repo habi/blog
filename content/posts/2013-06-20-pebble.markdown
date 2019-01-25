@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2013-06-20 06:30:26+00:00
+layout: post
+link: http://habi.gna.ch/2013/06/20/pebble/
+slug: pebble
+title: Pebble
+wordpress_id: 3126
+categories:
+- personal
+---
+
+[![Pebble by habi](http://farm4.staticflickr.com/3713/9091518272_8bc4ee6afb.jpg)](http://www.flickr.com/photos/habi/9091518272/)  
+
+
+Hello [Pebble](http://getpebble.com/), nice to (finally) meet you.

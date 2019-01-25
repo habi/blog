@@ -1,0 +1,87 @@
+---
+author: admin
+comments: true
+date: 2003-10-04 22:23:11+00:00
+layout: post
+link: http://habi.gna.ch/2003/10/05/suicmc03/
+slug: suicmc03
+title: SUICMC03
+wordpress_id: 293
+categories:
+- none
+---
+
+well, who would have guessed, i was at the [SUICMC03](http://www.suicmc03.ch/html/d/hello.html) and just returned back home.  
+
+here are some pictures i made with my mobile, more from my [camera](http://www.dpreview.com/reviews/sonydscp9/) soon...  
+
+<table >
+	<tr >
+		
+<td >[![](http://habi.gna.ch/blog/images/suicmc-tm.jpg)](http://habi.gna.ch/blog/images/suicmc.jpg)
+</td>
+		
+<td >[![](http://habi.gna.ch/blog/images/suicmcbene-tm.jpg)](http://habi.gna.ch/blog/images/suicmcbene.jpg)
+</td>
+</tr>
+<tr >
+		
+<td >overview of the crowd
+</td>
+		
+<td >bene on the run
+</td>
+	</tr>
+<tr >
+		
+<td >[![](http://habi.gna.ch/blog/images/suicmcbikes1-tm.jpg)](http://habi.gna.ch/blog/images/suicmcbikes1.jpg)
+</td>
+		
+<td >[![](http://habi.gna.ch/blog/images/suicmcbikes2-tm.jpg)](http://habi.gna.ch/blog/images/suicmcbikes2.jpg)
+</td>
+	</tr>
+<tr >
+		
+<td >some bikes
+</td>
+		
+<td >and some more
+</td>
+	</tr>
+<tr >
+		
+<td >[![](http://habi.gna.ch/blog/images/suicmcpia-tm.jpg)](http://habi.gna.ch/blog/images/suicmcpia.jpg)
+</td>
+	</tr>
+<tr >
+		
+<td >pia doing a perfect trackskid
+</td>
+	</tr>
+	<tr >
+		
+<td >[![](http://habi.gna.ch/blog/images/suicmcliste-tm.jpg)](http://habi.gna.ch/blog/images/suicmcliste.jpg)
+</td>
+		
+<td >[![](http://habi.gna.ch/blog/images/suicmcbruelle-tm.jpg)](http://habi.gna.ch/blog/images/suicmcbruelle.jpg)
+</td>
+	</tr>
+<tr >
+		
+<td >my second place in the qualification runs
+</td>
+		
+<td >my gift for being number ten of all swiss bike messengers. (btw: pia won the women main race and got that [gift](http://www.bmc-racing.com/bikes.cfm?lang=ger&catID=4&modID=28)...)
+</td>
+	</tr>
+</table>
+  
+
+i have plenty of pictures more and also some cool movies, which i'll try to post tomorrow or monday, also with some indeep explanation for all non-messengers...
+  
+  
+
+good night
+
+
+PS: i hate to use tables to overcome the general uprettyness in html-layout.

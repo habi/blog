@@ -1,0 +1,35 @@
+---
+author: admin
+comments: true
+date: 2003-08-06 19:25:16+00:00
+layout: post
+link: http://habi.gna.ch/2003/08/06/test/
+slug: test
+title: Test
+wordpress_id: 250
+categories:
+- none
+---
+
+Azure-test  
+
+
+
+
+
+  1. one
+
+
+  2. two
+
+
+
+
+**Update:
+**  
+
+this was a test i made with [Barni](http://www.bernhardseefeld.ch) to see if [Azure](http://web.vee.net/projects/azure/) works.  
+
+Because we found out that none of the versions of [Blogplanet](http://www.blogplanet.net/) worked....
+Today B. also bought the [T610](http://www.sonyericsson.com/t610/overview/) wich led to a one-hour [fire](http://fire.sourceforge.net/)-conversation about themes, bluetooth, midi-files, and mms-settings :-)
+--> **Ubergeeks unite!**

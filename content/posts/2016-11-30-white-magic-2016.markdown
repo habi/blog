@@ -1,0 +1,26 @@
+---
+author: admin
+comments: true
+date: 2016-11-30 21:52:26+00:00
+layout: post
+link: http://habi.gna.ch/2016/11/30/white-magic-2016/
+slug: white-magic-2016
+title: White Magic 2016
+wordpress_id: 4823
+categories:
+- personal
+- switzerland
+tags:
+- saisonstart
+- ski
+- skiing
+- telemark
+- white magic
+- zermatt
+---
+
+Wie mensch wohl schon [rausfinden](http://habi.gna.ch/2016/11/27/as-steit-auso-no/) konnte, war ich am Sonntag kurz im Schnee.
+Ein paar Tage vorher kam auch das 'neue' Spielzeug, ich hab' mir eine Occasions-[GoPro Session](http://shop.gopro.com/EMEA/cameras/hero-session/CHDHS-104-EU.html) gekauft.
+Zusammen kombiniert mit der extrem simplen [Schnitt-Software von GoPro](https://quik.gopro.com/en/) ergibt sich dann dies...
+
+https://vimeo.com/193780418

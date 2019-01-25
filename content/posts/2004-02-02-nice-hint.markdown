@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2004-02-02 17:53:38+00:00
+layout: post
+link: http://habi.gna.ch/2004/02/02/nice-hint/
+slug: nice-hint
+title: nice hint
+wordpress_id: 431
+categories:
+- none
+---
+
+if you want to be truly impressed by the power of OS X' graphic capabilities, then you should try out [that hint](http://www.macosxhints.com/article.php?story=20040125013419302#comments) on [osxhints](http://www.macosxhints.com/), it's well funny!

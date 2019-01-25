@@ -1,0 +1,21 @@
+---
+author: admin
+comments: true
+date: 2003-10-14 22:29:10+00:00
+layout: post
+link: http://habi.gna.ch/2003/10/15/panorama/
+slug: panorama
+title: panorama
+wordpress_id: 313
+categories:
+- none
+---
+
+do you remember that I'm on the [ search for a good panorama stitching software](http://habi.gna.ch/blog/archives/000026.html) for the mac?
+well, it seems like i've found the tools for the trade.
+the well known [panotools](http://www.panoguide.com/software/reviews/panotools_v21.html) from helmut dersch are some excellent freeware-plugins for adobe photoshop. as i do not own a legal copy of this monster-piece of software i was on the lookout for more.
+[PTMac](http://www.kekus.com/ptmac/index.html) by [Kekus](http://www.kekus.com/)  is a front-end to those scripts, which helped me to make this image in something like 3 minutes (after emailing the author(s) of the software because i couldn't get a panorama out (--> do not optimize on a partial panorama...):
+[![](http://habi.gna.ch/blog/images/kos-tm.jpg)](http://habi.gna.ch/blog/images/kos)
+nonetheless the software has a price-tag of 50$ so i'll still need the 13 days left on my trial period to decide if it's worth it. but it seem like, because you can generate panoramas of all flavors (spherical, cylindrical, etc.) and export it to all kinds of files (quicktimeVR, .jpg, some bizarre java-viewer formats and so on..)
+
+and now i have to finish my lessons for tomorrow, so i plug my ethernet cable.  good night
