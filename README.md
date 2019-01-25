@@ -1,33 +1,30 @@
-# blog.davidhaberthuer.ch
-## Info
-This repository contains my blog.
-
+# My blog
 Aeons ago I started with [Movable Type](https://www.movabletype.org/), then switched to [Wordpress](http://wordpress.org).
+Now I'd like to take away a ton of dependencies and just let it run by a [static site generator](https://www.staticgen.com).
 
-After wanting to remove a ton of dependencies and headaches I tried running it by [Jekyll](https://jekyllrb.com/) on [GitHub Pages](http://pages.github.com).
+At the moment, [Hugo](http://gohugo.io) in combination with [Netlify](https://netlify.com/) seems like a compelling solution to simplify my life.
 
-After putting some more thoughts on it, I found [Hugo](http://gohugo.io) in combination with [Netlify](https://netlify.com/) an even more compelling solution.
-This means that - in theory - I'm free to move this thing to any host I want and still have the blog running from this repository.
+# Steps to export and convert the data
+- Export an XML file from the [WordPress admin interface](http://habi.gna.ch/wp-admin/export.php).
+  Probably you only want the posts, not everything.
+- Clone the [exitwp](https://github.com/thomasf/exitwp) repository by issuing `git clone https://github.com/thomasf/exitwp.git ~/Dev/exitwp` in your terminal.
+  This piece of fine software converts a WordPress export to a bunch of [Markdown](https://daringfireball.net/projects/markdown/) files and also grabs (most of) the images.
+- Copy the exported XML file to the path where `exitwp` would like to have it: `cp ~/Downloads/*.xml ~/Dev/exitwp/wordpress-xml`
+- Run `exitwp`: `cd ~/Dev/exitwp/ && python2.7 exitwp.py` (If you set `download_images: True` in `config.yaml` you should also get (most of) the images).
+- You now get an export of the site in `~/Dev/exitwp/build/jekyll/habi.gna.ch`.
 
-## Steps to export and convert the data to a Jekyll site
-
-- Export an XML file from http://habi.gna.ch/wp-admin/export.php (gives you habignach.wordpress.2018-02-21.xml as per today).
-- `git clone https://github.com/thomasf/exitwp.git ~/Dev/exitwp`
-- `cp ~/Dev/*.xml ~/Dev/exitwp/wordpress-xml`
-- `cd ~/Dev/exitwp/ && python2 exitwp.py`
-- `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/_posts/`
-
-The exported posts are geared toward a `Jekyll` site, but also work with `hugo`
-
-## Convert to Hugo
-
-- Move all the Jekyll stuff (from this repository) to a temporary folder
-- `mv ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/content/post/`
-- `cd ~/Dev/blog/themes`
-- Add a theme with `cd themes && git submodule add ThemeURL`, since Netlify doesn't support the usual `git clone ThemeURL` way of installing Hugo themes.
+# Get up and running
+- Start a new hugo site with `cd ~/Dev && hugo new site blog --force`.
+  This only has to be done the first time...
+- `cd blog`
+- `git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke`
+- `echo 'theme = "ananke"' >> config.toml`
+- Copy all the posts from the `exitwp` directory to the `blog` directory: `cp ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/content/posts/`
+- Copy all the images from the `exitwp` directory to the `blog` directory: `mkdir -p ~/Dev/blog/static/images && mv ~/Dev/exitwp/buil
+d/jekyll/habi.gna.ch/images/*/*.* ~/Dev/blog/static/images/`. We move the images from their subfolder to a single new folder.
+- Now you should have a (semi)working hugo blog, test it with `cd ~/Dev/blog && hugo server`. All images are still served from their original URLs. 
 
 # Host this thing (automatically)
 - Follow [this guide](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
 - Set up DNS, e.g. set the following in the admin panel of cyon.
   Netlify tells us to do `blog CNAME very-fancy-strings-with-numbers.netlify.com`
-    
