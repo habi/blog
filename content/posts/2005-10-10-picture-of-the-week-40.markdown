@@ -10,14 +10,9 @@ wordpress_id: 83
 categories:
 - picture of the week
 ---
-
-
 [michael](http://www.gps-technologies.com/Kontakt/kontakt.html) sent me his pictures from the philippines. i really like the one he took of nina and me while at the [tamarraw falls](http://flickr.com/photos/habi/48388342/) on our daytrip over the island. looks a bit like photoshopped, but i guarantee it's real :-)
 
-
-
-[![Wasserfall Bei Porto Galera Nina Habi 2](http://habi.gna.ch/blog/images/Wasserfall%20bei%20Porto%20Galera%20Nina%20Habi%202-tm.jpg)](http://habi.gna.ch/blog/images/Wasserfall%20bei%20Porto%20Galera%20Nina%20Habi%202.jpg)
-
+[![Wasserfall Bei Porto Galera Nina Habi 2](http://habi.gna.ch/blog/images/WasserfallbeiPortoGaleraNinaHabi-tm.jpg)](http://habi.gna.ch/blog/images/WasserfallbeiPortoGaleraNinaHabi.jpg)
 
 
 
