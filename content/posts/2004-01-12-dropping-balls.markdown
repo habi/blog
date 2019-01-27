@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-12 22:28:07+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/13/dropping-balls/
 slug: dropping-balls
 title: dropping balls

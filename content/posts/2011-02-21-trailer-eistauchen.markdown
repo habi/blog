@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-02-21 19:07:48+00:00
-layout: post
 link: http://habi.gna.ch/2011/02/21/trailer-eistauchen/
 slug: trailer-eistauchen
 title: Trailer Eistauchen 2011

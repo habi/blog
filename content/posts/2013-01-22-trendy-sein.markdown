@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-01-22 22:26:14+00:00
-layout: post
 link: http://habi.gna.ch/2013/01/22/trendy-sein/
 slug: trendy-sein
 title: Trendy sein.

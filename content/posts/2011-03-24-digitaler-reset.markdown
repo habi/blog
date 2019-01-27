@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-03-24 18:00:34+00:00
-layout: post
 link: http://habi.gna.ch/2011/03/24/digitaler-reset/
 slug: digitaler-reset
 title: Digitaler Reset

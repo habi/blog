@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-01-05 16:54:44+00:00
-layout: post
 link: http://habi.gna.ch/2014/01/05/mein-dezember/
 slug: mein-dezember
 title: Mein Dezember

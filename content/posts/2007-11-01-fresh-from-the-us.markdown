@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-11-01 18:44:48+00:00
-layout: post
 link: http://habi.gna.ch/2007/11/01/fresh-from-the-us/
 slug: fresh-from-the-us
 title: fresh from the US

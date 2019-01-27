@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-06 21:19:30+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/06/holy-shite/
 slug: holy-shite
 title: holy shite!

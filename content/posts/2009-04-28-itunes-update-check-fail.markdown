@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-04-28 17:53:07+00:00
-layout: post
 link: http://habi.gna.ch/2009/04/28/itunes-update-check-fail/
 slug: itunes-update-check-fail
 title: 'iTunes update-check #fail'

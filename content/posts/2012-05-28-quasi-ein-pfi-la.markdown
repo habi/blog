@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-05-28 19:53:51+00:00
-layout: post
 link: http://habi.gna.ch/2012/05/28/quasi-ein-pfi-la/
 slug: quasi-ein-pfi-la
 title: Quasi ein Pfi-La

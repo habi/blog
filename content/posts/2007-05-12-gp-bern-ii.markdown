@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-05-12 14:36:48+00:00
-layout: post
 link: http://habi.gna.ch/2007/05/12/gp-bern-ii/
 slug: gp-bern-ii
 title: gp bern II [update]

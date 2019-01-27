@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-05-02 12:14:34+00:00
-layout: post
 link: http://habi.gna.ch/2012/05/02/also-als-wir-noch-kids-waren-2/
 slug: also-als-wir-noch-kids-waren-2
 title: Also, als wir noch Kids waren...

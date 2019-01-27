@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-01-18 18:12:49+00:00
-layout: post
 link: http://habi.gna.ch/2010/01/18/kunst-am-bau/
 slug: kunst-am-bau
 title: Kunst am Bau

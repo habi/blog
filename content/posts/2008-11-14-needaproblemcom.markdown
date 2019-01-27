@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-11-14 10:10:57+00:00
-layout: post
 link: http://habi.gna.ch/2008/11/14/needaproblemcom/
 slug: needaproblemcom
 title: needaproblem.com?

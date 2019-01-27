@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-02-15 22:04:29+00:00
-layout: post
 link: http://habi.gna.ch/2010/02/16/stephen-fry-on-the-catholic-church/
 slug: stephen-fry-on-the-catholic-church
 title: Stephen Fry on the catholic church

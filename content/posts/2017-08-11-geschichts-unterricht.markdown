@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-08-11 19:29:43+00:00
-layout: post
 link: http://habi.gna.ch/2017/08/11/geschichts-unterricht/
 slug: geschichts-unterricht
 title: Geschichts-Unterricht

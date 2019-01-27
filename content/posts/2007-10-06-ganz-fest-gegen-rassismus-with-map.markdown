@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-10-06 14:23:07+00:00
-layout: post
 link: http://habi.gna.ch/2007/10/06/ganz-fest-gegen-rassismus-with-map/
 slug: ganz-fest-gegen-rassismus-with-map
 title: ganz fest gegen rassismus [with map]

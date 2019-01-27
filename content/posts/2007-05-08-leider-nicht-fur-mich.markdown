@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-05-08 16:33:01+00:00
-layout: post
 link: http://habi.gna.ch/2007/05/08/leider-nicht-fur-mich/
 slug: leider-nicht-fur-mich
 title: leider nicht für mich...

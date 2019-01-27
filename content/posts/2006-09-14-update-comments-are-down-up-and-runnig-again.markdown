@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-09-14 18:03:24+00:00
-layout: post
 link: http://habi.gna.ch/2006/09/14/update-comments-are-down-up-and-runnig-again/
 slug: update-comments-are-down-up-and-runnig-again
 title: 'update: comments are down up and runnig again'

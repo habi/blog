@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-11 21:20:26+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/11/new-filewile-track-on-the-web/
 slug: new-filewile-track-on-the-web
 title: new filewile track on the web

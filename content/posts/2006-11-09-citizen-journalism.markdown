@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-09 19:43:03+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/09/citizen-journalism/
 slug: citizen-journalism
 title: citizen journalism [update]

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-09-26 18:00:37+00:00
-layout: post
 link: http://habi.gna.ch/2012/09/26/ab-in-die-aare/
 slug: ab-in-die-aare
 title: Ab in die Aare

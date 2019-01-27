@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-12-31 10:52:41+00:00
-layout: post
 link: http://habi.gna.ch/2005/12/31/what-we-do-at-noon/
 slug: what-we-do-at-noon
 title: what we do at noon

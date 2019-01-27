@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-04 20:31:54+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/04/picture-of-the-week-35/
 slug: picture-of-the-week-35
 title: picture of the week 35

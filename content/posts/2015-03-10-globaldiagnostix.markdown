@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-03-10 17:18:23+00:00
-layout: post
 link: http://habi.gna.ch/2015/03/10/globaldiagnostix/
 slug: globaldiagnostix
 title: GlobalDiagnostiX

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-11-30 21:52:26+00:00
-layout: post
 link: http://habi.gna.ch/2016/11/30/white-magic-2016/
 slug: white-magic-2016
 title: White Magic 2016

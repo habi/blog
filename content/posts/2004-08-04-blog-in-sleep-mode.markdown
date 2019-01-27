@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-08-04 13:00:02+00:00
-layout: post
 link: http://habi.gna.ch/2004/08/04/blog-in-sleep-mode/
 slug: blog-in-sleep-mode
 title: /blog in sleep mode

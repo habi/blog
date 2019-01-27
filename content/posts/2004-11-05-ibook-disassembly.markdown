@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-11-05 06:21:01+00:00
-layout: post
 link: http://habi.gna.ch/2004/11/05/ibook-disassembly/
 slug: ibook-disassembly
 title: ibook disassembly

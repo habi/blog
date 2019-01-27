@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-03-22 18:32:13+00:00
-layout: post
 link: http://habi.gna.ch/2009/03/22/habi-fahrt-zum-ersten-mal-telemark-raw-uncut/
 slug: habi-fahrt-zum-ersten-mal-telemark-raw-uncut
 title: Habi fährt zum ersten Mal Telemark, raw & uncut [video]

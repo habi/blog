@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-11-08 19:51:57+00:00
-layout: post
 link: http://habi.gna.ch/2004/11/08/back-on-track/
 slug: back-on-track
 title: back on track

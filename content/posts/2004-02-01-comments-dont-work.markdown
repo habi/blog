@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-01 21:03:00+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/01/comments-dont-work/
 slug: comments-dont-work
 title: comments don't work

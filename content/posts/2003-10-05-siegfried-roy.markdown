@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-05 12:37:16+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/05/siegfried-roy/
 slug: siegfried-roy
 title: Siegfried & Roy

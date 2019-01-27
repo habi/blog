@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-25 13:29:13+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/25/blogger-brteln/
 slug: blogger-brteln
 title: blogger bräteln

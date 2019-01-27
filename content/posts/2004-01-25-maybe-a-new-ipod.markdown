@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-25 21:46:53+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/25/maybe-a-new-ipod/
 slug: maybe-a-new-ipod
 title: maybe a new ipod?

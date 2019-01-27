@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-11-07 17:08:24+00:00
-layout: post
 link: http://habi.gna.ch/2005/11/07/swiss-blog-awards/
 slug: swiss-blog-awards
 title: swiss blog awards

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-12-23 20:35:00+00:00
-layout: post
 link: http://habi.gna.ch/2008/12/23/den-leumund-foppen/
 slug: den-leumund-foppen
 title: den leumund foppen

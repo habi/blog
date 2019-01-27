@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-10-07 22:07:19+00:00
-layout: post
 link: http://habi.gna.ch/2006/10/08/mr-citymen/
 slug: mr-citymen
 title: mr. citymen

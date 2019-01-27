@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-01-12 18:48:52+00:00
-layout: post
 link: http://habi.gna.ch/2009/01/12/lieber-bund/
 slug: lieber-bund
 title: Lieber Bund...

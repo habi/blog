@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-03-19 18:16:52+00:00
-layout: post
 link: http://habi.gna.ch/2011/03/19/aus-der-serie-die-angst-des-schwimmers-vor-der-leeren-bahn-2/
 slug: aus-der-serie-die-angst-des-schwimmers-vor-der-leeren-bahn-2
 title: 'Aus der Serie: Die Angst des Schwimmers vor der leeren Bahn'

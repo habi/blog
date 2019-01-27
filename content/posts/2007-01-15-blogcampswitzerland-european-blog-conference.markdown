@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-01-15 20:21:25+00:00
-layout: post
 link: http://habi.gna.ch/2007/01/15/blogcampswitzerland-european-blog-conference/
 slug: blogcampswitzerland-european-blog-conference
 title: 'BlogCampSwitzerland: European Blog Conference [update]'

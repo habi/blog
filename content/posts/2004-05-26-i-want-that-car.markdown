@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-26 19:40:47+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/26/i-want-that-car/
 slug: i-want-that-car
 title: i want that car

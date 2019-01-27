@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-05-30 21:01:54+00:00
-layout: post
 link: http://habi.gna.ch/2009/05/30/baldachin-by-night/
 slug: baldachin-by-night
 title: Baldachin by Night

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-08-08 21:04:13+00:00
-layout: post
 link: http://habi.gna.ch/2006/08/08/getting-rid-of-comment-spam/
 slug: getting-rid-of-comment-spam
 title: getting rid of comment spam

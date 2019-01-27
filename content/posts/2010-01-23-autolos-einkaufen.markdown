@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-01-23 16:28:47+00:00
-layout: post
 link: http://habi.gna.ch/2010/01/23/autolos-einkaufen/
 slug: autolos-einkaufen
 title: autolos einkaufen

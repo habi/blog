@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-19 22:12:41+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/20/a-little-story-from-work/
 slug: a-little-story-from-work
 title: a little story from work

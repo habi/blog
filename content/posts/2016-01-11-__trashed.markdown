@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-01-11 22:12:11+00:00
-layout: post
 link: http://habi.gna.ch/2016/01/11/__trashed/
 published: false
 slug: __trashed

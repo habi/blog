@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-17 20:20:55+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/17/nina-ist-auch-dort-anzutreffen/
 slug: nina-ist-auch-dort-anzutreffen
 title: nina ist auch dort anzutreffen

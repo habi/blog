@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-11-10 20:02:41+00:00
-layout: post
 link: http://habi.gna.ch/2004/11/10/cleaning-mood/
 slug: cleaning-mood
 title: cleaning mood

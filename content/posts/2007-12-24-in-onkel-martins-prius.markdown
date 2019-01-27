@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-24 16:11:43+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/24/in-onkel-martins-prius/
 slug: in-onkel-martins-prius
 title: In 'Onkel' Martins Prius

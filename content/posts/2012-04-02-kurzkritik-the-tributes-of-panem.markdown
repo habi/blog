@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-04-02 21:39:05+00:00
-layout: post
 link: http://habi.gna.ch/2012/04/02/kurzkritik-the-tributes-of-panem/
 slug: kurzkritik-the-tributes-of-panem
 title: 'Kurzkritik: The Tributes of Panem'

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-04-20 21:34:57+00:00
-layout: post
 link: http://habi.gna.ch/2004/04/20/georbe-dubya-is-boring/
 slug: georbe-dubya-is-boring
 title: georbe dubya is boring!

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-04-25 09:46:06+00:00
-layout: post
 link: http://habi.gna.ch/2015/04/25/kung-fury/
 slug: kung-fury
 title: Kung Fury

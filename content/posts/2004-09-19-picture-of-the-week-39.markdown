@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-19 22:43:15+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/20/picture-of-the-week-39/
 slug: picture-of-the-week-39
 title: picture of the week 39

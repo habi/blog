@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-10-02 17:16:28+00:00
-layout: post
 link: http://habi.gna.ch/2012/10/02/portrait-und-blitzworkshop-in-lausanne/
 slug: portrait-und-blitzworkshop-in-lausanne
 title: Portrait- und Blitzworkshop in Lausanne

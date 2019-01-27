@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-09-19 19:47:18+00:00
-layout: post
 link: http://habi.gna.ch/2007/09/19/vorbereitung-fur-die-wahlen-07/
 slug: vorbereitung-fur-die-wahlen-07
 title: vorbereitung für die wahlen 07

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-21 21:54:08+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/21/new-feature-in-test-mode/
 slug: new-feature-in-test-mode
 title: new feature (in test mode)

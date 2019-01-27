@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-04 20:49:51+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/04/apple-doesnt-want-to-sell-me-stuff/
 slug: apple-doesnt-want-to-sell-me-stuff
 title: apple doesn't want to sell me stuff

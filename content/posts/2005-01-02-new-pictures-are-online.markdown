@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-02 14:10:54+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/02/new-pictures-are-online/
 slug: new-pictures-are-online
 title: new pictures are online

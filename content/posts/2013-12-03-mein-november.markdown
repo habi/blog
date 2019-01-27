@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-12-03 22:24:49+00:00
-layout: post
 link: http://habi.gna.ch/2013/12/03/mein-november/
 slug: mein-november
 title: Mein November

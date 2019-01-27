@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-09-13 20:19:45+00:00
-layout: post
 link: http://habi.gna.ch/2007/09/13/maaah/
 slug: maaah
 title: määäh!

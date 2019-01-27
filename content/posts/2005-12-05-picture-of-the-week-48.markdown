@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-12-05 21:02:37+00:00
-layout: post
 link: http://habi.gna.ch/2005/12/05/picture-of-the-week-48/
 slug: picture-of-the-week-48
 title: picture of the week 48

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-05-03 11:55:39+00:00
-layout: post
 link: http://habi.gna.ch/2009/05/03/heute-mal-etwas-tiefer/
 slug: heute-mal-etwas-tiefer
 title: Heute mal etwas tiefer

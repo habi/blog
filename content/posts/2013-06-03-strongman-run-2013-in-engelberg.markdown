@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-06-03 19:55:20+00:00
-layout: post
 link: http://habi.gna.ch/2013/06/03/strongman-run-2013-in-engelberg/
 slug: strongman-run-2013-in-engelberg
 title: Strongman Run 2013 in Engelberg

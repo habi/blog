@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-11 14:34:26+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/11/weird-video/
 slug: weird-video
 title: weird video

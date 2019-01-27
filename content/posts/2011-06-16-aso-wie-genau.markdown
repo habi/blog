@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-06-16 12:07:39+00:00
-layout: post
 link: http://habi.gna.ch/2011/06/16/aso-wie-genau/
 slug: aso-wie-genau
 title: Aso wie genau?

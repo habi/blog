@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-05 20:24:29+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/05/comments-hitparade/
 slug: comments-hitparade
 title: comments hitparade

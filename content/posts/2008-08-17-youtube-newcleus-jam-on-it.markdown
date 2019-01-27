@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-08-17 09:11:12+00:00
-layout: post
 link: http://habi.gna.ch/2008/08/17/youtube-newcleus-jam-on-it/
 slug: youtube-newcleus-jam-on-it
 title: youTube - newcleus - jam on it

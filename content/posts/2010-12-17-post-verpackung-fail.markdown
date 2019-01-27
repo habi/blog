@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-12-17 11:00:45+00:00
-layout: post
 link: http://habi.gna.ch/2010/12/17/post-verpackung-fail/
 slug: post-verpackung-fail
 title: 'Post-Verpackung #Fail'

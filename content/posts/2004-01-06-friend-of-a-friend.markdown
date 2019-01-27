@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-06 14:33:13+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/06/friend-of-a-friend/
 slug: friend-of-a-friend
 title: friend of a friend

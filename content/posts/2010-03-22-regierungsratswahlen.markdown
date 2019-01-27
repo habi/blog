@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-03-22 21:25:31+00:00
-layout: post
 link: http://habi.gna.ch/2010/03/22/regierungsratswahlen/
 slug: regierungsratswahlen
 title: Regierungs- und Grossrats-Wahlen 2010 in Bern

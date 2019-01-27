@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-24 22:35:03+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/25/picture-of-the-week-16/
 slug: picture-of-the-week-16
 title: picture of the week 16

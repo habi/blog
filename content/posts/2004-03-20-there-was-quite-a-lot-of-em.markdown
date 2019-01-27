@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-20 23:18:32+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/21/there-was-quite-a-lot-of-em/
 slug: there-was-quite-a-lot-of-em
 title: there was quite a lot of 'em

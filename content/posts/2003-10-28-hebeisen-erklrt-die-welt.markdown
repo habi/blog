@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-28 16:56:51+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/28/hebeisen-erklrt-die-welt/
 slug: hebeisen-erklrt-die-welt
 title: Hebeisen erklärt die Welt

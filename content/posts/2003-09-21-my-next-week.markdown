@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-09-21 16:47:03+00:00
-layout: post
 link: http://habi.gna.ch/2003/09/21/my-next-week/
 slug: my-next-week
 title: my next week

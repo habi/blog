@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-26 17:27:05+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/26/mc-h-bee/
 slug: mc-h-bee
 title: mc h-bee

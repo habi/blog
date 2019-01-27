@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-06 17:18:50+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/06/things-that-make-you-go-hmmmm/
 slug: things-that-make-you-go-hmmmm
 title: things that make you go hmmmm....

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-14 20:39:27+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/14/filewile-on-tv/
 slug: filewile-on-tv
 title: filewile on tv

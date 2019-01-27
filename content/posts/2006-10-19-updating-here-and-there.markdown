@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-10-19 22:03:21+00:00
-layout: post
 link: http://habi.gna.ch/2006/10/20/updating-here-and-there/
 slug: updating-here-and-there
 title: updating here and there

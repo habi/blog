@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-07-06 21:30:09+00:00
-layout: post
 link: http://habi.gna.ch/2010/07/06/kulturtipp-der-woche-loutop-attache/
 slug: kulturtipp-der-woche-loutop-attache
 title: 'Kulturtipp der Woche: Loutop ATTACHE'

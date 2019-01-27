@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-06-21 22:14:43+00:00
-layout: post
 link: http://habi.gna.ch/2006/06/22/pictures-from-pixmix/
 slug: pictures-from-pixmix
 title: pictures from pixmix

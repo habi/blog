@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-04-24 22:47:08+00:00
-layout: post
 link: http://habi.gna.ch/2008/04/24/mixed-tape-20-is-out/
 slug: mixed-tape-20-is-out
 title: mixed-tape 20 is out!

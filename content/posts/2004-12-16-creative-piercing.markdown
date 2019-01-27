@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-16 15:10:22+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/16/creative-piercing/
 slug: creative-piercing
 title: creative piercing

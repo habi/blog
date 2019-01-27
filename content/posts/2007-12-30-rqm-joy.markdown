@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-30 22:01:18+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/30/rqm-joy/
 slug: rqm-joy
 title: RQM & Joy

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-03-08 21:55:22+00:00
-layout: post
 link: http://habi.gna.ch/2012/03/08/planeten-bauen-und-filme-fotografieren/
 slug: planeten-bauen-und-filme-fotografieren
 title: Planeten bauen und Filme fotografieren

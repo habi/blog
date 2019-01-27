@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-04-22 08:47:54+00:00
-layout: post
 link: http://habi.gna.ch/2016/04/22/vierwaldstattersee/
 slug: vierwaldstattersee
 title: Vierwaldstättersee

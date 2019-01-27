@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-26 18:56:47+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/26/national-elections/
 slug: national-elections
 title: national elections

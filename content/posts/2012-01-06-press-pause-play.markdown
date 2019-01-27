@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-01-06 17:49:19+00:00
-layout: post
 link: http://habi.gna.ch/2012/01/06/press-pause-play/
 slug: press-pause-play
 title: Press Pause Play

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-14 20:31:21+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/14/dontt-panic/
 slug: dontt-panic
 title: dont't panic!

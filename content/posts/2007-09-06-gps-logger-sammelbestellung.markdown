@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-09-06 21:01:41+00:00
-layout: post
 link: http://habi.gna.ch/2007/09/06/gps-logger-sammelbestellung/
 slug: gps-logger-sammelbestellung
 title: gps-logger-sammelbestellung

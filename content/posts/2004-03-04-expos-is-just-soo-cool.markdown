@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-04 10:04:56+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/04/expos-is-just-soo-cool/
 slug: expos-is-just-soo-cool
 title: exposé is just soo cool

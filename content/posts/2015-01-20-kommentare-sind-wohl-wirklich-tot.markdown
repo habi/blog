@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-01-20 21:47:40+00:00
-layout: post
 link: http://habi.gna.ch/2015/01/20/kommentare-sind-wohl-wirklich-tot/
 slug: kommentare-sind-wohl-wirklich-tot
 title: Kommentare sind wohl wirklich tot

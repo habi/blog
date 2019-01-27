@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-08-08 09:15:53+00:00
-layout: post
 link: http://habi.gna.ch/2008/08/08/nichtlustig-ist-doch-lustig/
 slug: nichtlustig-ist-doch-lustig
 title: nichtlustig ist doch lustig

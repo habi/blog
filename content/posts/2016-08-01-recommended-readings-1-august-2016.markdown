@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-08-01 19:21:54+00:00
-layout: post
 link: http://habi.gna.ch/2016/08/01/recommended-readings-1-august-2016/
 slug: recommended-readings-1-august-2016
 title: 'Recommended readings: 1. August 2016'

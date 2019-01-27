@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-05 17:52:59+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/05/verspatete-anis-chrabeli/
 slug: verspatete-anis-chrabeli
 title: Verspätete Anis-Chräbeli

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-27 19:31:07+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/27/filewile-on-itunes/
 slug: filewile-on-itunes
 title: filewile on itunes

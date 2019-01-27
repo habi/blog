@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-03-07 20:09:12+00:00
-layout: post
 link: http://habi.gna.ch/2006/03/07/creative-commons-in-full-effect/
 slug: creative-commons-in-full-effect
 title: creative commons in full effect

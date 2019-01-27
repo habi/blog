@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-10-22 10:42:27+00:00
-layout: post
 link: http://habi.gna.ch/2005/10/22/alleycat-pictures-are-online-update/
 slug: alleycat-pictures-are-online-update
 title: alleycat pictures are online [update]

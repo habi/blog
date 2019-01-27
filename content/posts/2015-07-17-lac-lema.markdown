@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-07-17 12:22:19+00:00
-layout: post
 link: http://habi.gna.ch/2015/07/17/lac-lema/
 slug: lac-lema
 title: Lac Léman

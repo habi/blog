@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-08-20 20:45:54+00:00
-layout: post
 link: http://habi.gna.ch/2008/08/20/der-bart-ist-ab/
 slug: der-bart-ist-ab
 title: der bart ist ab

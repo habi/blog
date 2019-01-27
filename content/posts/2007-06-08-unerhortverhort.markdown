@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-08 21:21:37+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/08/unerhortverhort/
 slug: unerhortverhort
 title: unerhörtverhört

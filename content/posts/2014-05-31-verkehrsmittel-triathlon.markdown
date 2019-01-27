@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-05-31 14:32:51+00:00
-layout: post
 link: http://habi.gna.ch/2014/05/31/verkehrsmittel-triathlon/
 slug: verkehrsmittel-triathlon
 title: Verkehrsmittel-Triathlon

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-04-23 07:21:29+00:00
-layout: post
 link: http://habi.gna.ch/2009/04/23/danny-macaskill-inspiration-video-with-map/
 slug: danny-macaskill-inspiration-video-with-map
 title: danny macaskill, inspiration [video] [with map]

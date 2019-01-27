@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-01-29 19:22:31+00:00
-layout: post
 link: http://habi.gna.ch/2013/01/29/hallenbad-city/
 slug: hallenbad-city
 title: Hallenbad City

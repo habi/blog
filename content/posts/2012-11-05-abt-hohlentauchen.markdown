@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-11-05 21:30:00+00:00
-layout: post
 link: http://habi.gna.ch/2012/11/05/abt-hohlentauchen/
 slug: abt-hohlentauchen
 title: Abt. Höhlentauchen

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-05-08 18:43:24+00:00
-layout: post
 link: http://habi.gna.ch/2010/05/08/zeitraffer-rund-um-bern/
 slug: zeitraffer-rund-um-bern
 title: 'Zeitraffer: Rund um Bern [Video]'

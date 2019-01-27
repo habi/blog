@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-06-24 21:58:18+00:00
-layout: post
 link: http://habi.gna.ch/2013/06/24/ecmc-2013/
 slug: ecmc-2013
 title: ECMC 2013

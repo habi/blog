@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-02 22:00:40+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/03/time-lapse-painting/
 slug: time-lapse-painting
 title: time lapse painting

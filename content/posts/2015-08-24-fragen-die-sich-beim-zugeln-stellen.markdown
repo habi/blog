@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-08-24 20:23:22+00:00
-layout: post
 link: http://habi.gna.ch/2015/08/24/fragen-die-sich-beim-zugeln-stellen/
 slug: fragen-die-sich-beim-zugeln-stellen
 title: Fragen, die sich beim Zügeln stellen

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-12-08 21:45:04+00:00
-layout: post
 link: http://habi.gna.ch/2014/12/08/vemodalen/
 slug: vemodalen
 title: Vemödalen

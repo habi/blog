@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-28 20:04:48+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/28/zuri-west-domino/
 slug: zuri-west-domino
 title: züri west domino

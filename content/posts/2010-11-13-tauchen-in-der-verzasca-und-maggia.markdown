@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-13 07:14:47+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/13/tauchen-in-der-verzasca-und-maggia/
 slug: tauchen-in-der-verzasca-und-maggia
 title: Tauchen in der Verzasca und Maggia

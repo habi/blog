@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-09-30 19:39:45+00:00
-layout: post
 link: http://habi.gna.ch/2003/09/30/this-looks-like-the-thing-to-have/
 slug: this-looks-like-the-thing-to-have
 title: this looks like the thing to have...

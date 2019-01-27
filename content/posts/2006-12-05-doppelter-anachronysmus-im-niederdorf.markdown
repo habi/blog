@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-05 18:07:42+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/05/doppelter-anachronysmus-im-niederdorf/
 slug: doppelter-anachronysmus-im-niederdorf
 title: doppelter anachronismus im niederdorf

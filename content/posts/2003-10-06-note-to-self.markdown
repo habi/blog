@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-06 21:50:08+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/06/note-to-self/
 slug: note-to-self
 title: note to self

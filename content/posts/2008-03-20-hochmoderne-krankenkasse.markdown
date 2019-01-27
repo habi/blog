@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-20 17:49:01+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/20/hochmoderne-krankenkasse/
 slug: hochmoderne-krankenkasse
 title: hochmoderne Krankenkasse [with video] [update]

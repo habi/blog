@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-07-25 20:22:47+00:00
-layout: post
 link: http://habi.gna.ch/2014/07/25/lumix-gm-1/
 slug: lumix-gm-1
 title: Lumix GM-1

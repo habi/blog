@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-09-24 22:37:31+00:00
-layout: post
 link: http://habi.gna.ch/2007/09/24/picture-of-the-week-38-lakejump-suicmc07/
 slug: picture-of-the-week-38-lakejump-suicmc07
 title: 'picture of the week 38: lakejump @ suicmc07'

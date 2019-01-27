@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-01-23 22:51:57+00:00
-layout: post
 link: http://habi.gna.ch/2007/01/23/gau-algesheim-2007/
 slug: gau-algesheim-2007
 title: 18. Internationaler Masters Wettkampf des SSV Ingelheim [update]

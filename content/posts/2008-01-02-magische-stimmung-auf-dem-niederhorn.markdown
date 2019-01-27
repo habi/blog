@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-02 18:12:34+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/02/magische-stimmung-auf-dem-niederhorn/
 slug: magische-stimmung-auf-dem-niederhorn
 title: magische stimmung auf dem niederhorn

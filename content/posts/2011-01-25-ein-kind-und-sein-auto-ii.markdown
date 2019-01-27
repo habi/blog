@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-01-25 08:10:30+00:00
-layout: post
 link: http://habi.gna.ch/2011/01/25/ein-kind-und-sein-auto-ii/
 slug: ein-kind-und-sein-auto-ii
 title: Ein Kind und sein Auto II

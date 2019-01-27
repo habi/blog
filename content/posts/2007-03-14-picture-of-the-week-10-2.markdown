@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-14 07:28:47+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/14/picture-of-the-week-10-2/
 slug: picture-of-the-week-10-2
 title: picture of the week 10

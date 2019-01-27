@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-04-26 12:32:30+00:00
-layout: post
 link: http://habi.gna.ch/2010/04/26/south-park-explains-facebook/
 slug: south-park-explains-facebook
 title: south park explains facebook [update]

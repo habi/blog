@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-11-04 20:55:09+00:00
-layout: post
 link: http://habi.gna.ch/2007/11/04/fragen-die-sich-so-stellen/
 slug: fragen-die-sich-so-stellen
 title: 'fragen die sich so stellen:'

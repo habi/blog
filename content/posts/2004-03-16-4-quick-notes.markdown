@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-16 20:12:50+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/16/4-quick-notes/
 slug: 4-quick-notes
 title: 4 quick notes

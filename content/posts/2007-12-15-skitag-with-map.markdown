@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-15 17:21:27+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/15/skitag-with-map/
 slug: skitag-with-map
 title: skitag [with map]

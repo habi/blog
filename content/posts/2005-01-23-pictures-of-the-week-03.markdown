@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-23 21:41:14+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/23/pictures-of-the-week-03/
 slug: pictures-of-the-week-03
 title: pictures of the week 03

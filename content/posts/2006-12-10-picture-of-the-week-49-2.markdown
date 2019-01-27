@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-10 22:34:11+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/10/picture-of-the-week-49-2/
 slug: picture-of-the-week-49-2
 title: picture of the week 49

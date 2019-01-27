@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-03-18 21:03:03+00:00
-layout: post
 link: http://habi.gna.ch/2012/03/18/jubilaumstauchgang/
 slug: jubilaumstauchgang
 title: Jubiläumstauchgang

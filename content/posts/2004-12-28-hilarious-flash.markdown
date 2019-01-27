@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-28 19:06:44+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/28/hilarious-flash/
 slug: hilarious-flash
 title: hilarious flash

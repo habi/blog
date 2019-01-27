@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-01-21 20:06:05+00:00
-layout: post
 link: http://habi.gna.ch/2016/01/21/was-ware-wenn-die-sterne-still-stehen-wurden/
 slug: was-ware-wenn-die-sterne-still-stehen-wurden
 title: Was wäre, wenn die Sterne still stehen würden?

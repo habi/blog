@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-02-17 16:26:09+00:00
-layout: post
 link: http://habi.gna.ch/2018/02/17/sisch-fasnacht/
 slug: sisch-fasnacht
 title: S’isch Fasnacht

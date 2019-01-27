@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-09-02 07:45:43+00:00
-layout: post
 link: http://habi.gna.ch/2013/09/02/mein-august/
 slug: mein-august
 title: Mein August

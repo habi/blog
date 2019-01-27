@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-14 17:59:02+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/14/crazy-habi/
 slug: crazy-habi
 title: crazy habi!

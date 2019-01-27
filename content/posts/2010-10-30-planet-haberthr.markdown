@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-10-30 17:56:47+00:00
-layout: post
 link: http://habi.gna.ch/2010/10/30/planet-haberthr/
 slug: planet-haberthr
 title: Planet Haberthür

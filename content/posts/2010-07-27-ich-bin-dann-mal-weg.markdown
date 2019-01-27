@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-07-27 15:00:08+00:00
-layout: post
 link: http://habi.gna.ch/2010/07/27/ich-bin-dann-mal-weg/
 slug: ich-bin-dann-mal-weg
 title: Ich bin dann mal weg

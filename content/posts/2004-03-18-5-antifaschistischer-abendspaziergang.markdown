@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-18 21:00:58+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/18/5-antifaschistischer-abendspaziergang/
 slug: 5-antifaschistischer-abendspaziergang
 title: 5. Antifaschistischer Abendspaziergang

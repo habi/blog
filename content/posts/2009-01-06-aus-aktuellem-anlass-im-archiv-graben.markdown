@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-01-06 17:16:05+00:00
-layout: post
 link: http://habi.gna.ch/2009/01/06/aus-aktuellem-anlass-im-archiv-graben/
 slug: aus-aktuellem-anlass-im-archiv-graben
 title: 'aus aktuellem anlass: im archiv graben [update]'

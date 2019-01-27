@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-18 19:57:19+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/18/kornhausbruecke-at-night/
 slug: kornhausbruecke-at-night
 title: kornhausbruecke at night

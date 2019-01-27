@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-08-25 18:30:18+00:00
-layout: post
 link: http://habi.gna.ch/2004/08/25/i-has-got-me-a-new-bike/
 slug: i-has-got-me-a-new-bike
 title: i has got me a new bike

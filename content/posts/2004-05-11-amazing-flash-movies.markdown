@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-11 17:48:21+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/11/amazing-flash-movies/
 slug: amazing-flash-movies
 title: amazing flash-movies

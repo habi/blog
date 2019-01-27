@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-01 17:22:03+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/01/picture-of-the-week-17/
 slug: picture-of-the-week-17
 title: picture of the week 17

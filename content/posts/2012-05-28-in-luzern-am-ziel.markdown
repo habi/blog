@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-05-28 14:49:12+00:00
-layout: post
 link: http://habi.gna.ch/2012/05/28/in-luzern-am-ziel/
 slug: in-luzern-am-ziel
 title: In Luzern am Ziel

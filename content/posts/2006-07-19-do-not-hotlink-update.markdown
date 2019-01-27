@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-07-19 20:11:01+00:00
-layout: post
 link: http://habi.gna.ch/2006/07/19/do-not-hotlink-update/
 slug: do-not-hotlink-update
 title: do not hotlink! [update]

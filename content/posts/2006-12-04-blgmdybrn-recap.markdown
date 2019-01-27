@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-04 20:34:13+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/04/blgmdybrn-recap/
 slug: blgmdybrn-recap
 title: BLGMDYBRN recap

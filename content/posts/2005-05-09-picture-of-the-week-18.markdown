@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-09 20:16:07+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/09/picture-of-the-week-18/
 slug: picture-of-the-week-18
 title: picture of the week 18

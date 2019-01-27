@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-02-21 21:35:48+00:00
-layout: post
 link: http://habi.gna.ch/2006/02/21/the-most-important-6-seconds-in-music-history/
 slug: the-most-important-6-seconds-in-music-history
 title: the most important 6 seconds in music history

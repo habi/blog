@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-07-29 17:48:30+00:00
-layout: post
 link: http://habi.gna.ch/2003/07/29/energy4u-todays-fun-link/
 slug: energy4u-todays-fun-link
 title: Energy4u - todays fun link

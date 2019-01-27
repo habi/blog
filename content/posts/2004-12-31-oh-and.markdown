@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-31 16:00:15+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/31/oh-and/
 slug: oh-and
 title: oh, and...

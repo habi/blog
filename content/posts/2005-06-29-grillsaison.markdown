@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-29 18:50:27+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/29/grillsaison/
 slug: grillsaison
 title: grillsaison

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-10-27 10:15:29+00:00
-layout: post
 link: http://habi.gna.ch/2007/10/27/dilbert-for-24-oct-2007/
 slug: dilbert-for-24-oct-2007
 title: Dilbert for 24 Oct 2007

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-07-01 20:10:31+00:00
-layout: post
 link: http://habi.gna.ch/2014/07/01/recommended-readings-1-july-2014/
 slug: recommended-readings-1-july-2014
 title: 'Recommended readings: 1. July 2014'

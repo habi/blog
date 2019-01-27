@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-07 20:02:24+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/07/moblog-frenzy/
 slug: moblog-frenzy
 title: moblog frenzy!

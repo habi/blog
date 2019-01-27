@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-05 13:45:00+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/05/the-us-of-a-is-in-deep-trouble/
 slug: the-us-of-a-is-in-deep-trouble
 title: the us of a is in deep trouble.

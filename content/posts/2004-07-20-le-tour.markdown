@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-07-20 22:03:20+00:00
-layout: post
 link: http://habi.gna.ch/2004/07/21/le-tour/
 slug: le-tour
 title: le tour

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-03-18 19:20:38+00:00
-layout: post
 link: http://habi.gna.ch/2013/03/18/loleduc/
 slug: loleduc
 title: Lo & Leduc

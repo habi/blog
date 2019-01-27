@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-21 22:22:20+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/22/grand-challenge-05/
 slug: grand-challenge-05
 title: grand challenge 05

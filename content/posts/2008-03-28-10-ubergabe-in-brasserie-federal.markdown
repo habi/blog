@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-28 17:53:06+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/28/10-ubergabe-in-brasserie-federal/
 slug: 10-ubergabe-in-brasserie-federal
 title: 10.- Ãœbergabe in Brasserie Federal

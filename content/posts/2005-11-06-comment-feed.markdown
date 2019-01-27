@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-11-06 16:57:55+00:00
-layout: post
 link: http://habi.gna.ch/2005/11/06/comment-feed/
 slug: comment-feed
 title: comment feed

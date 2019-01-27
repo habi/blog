@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-08-27 20:03:03+00:00
-layout: post
 link: http://habi.gna.ch/2006/08/27/picture-of-the-week-34/
 slug: picture-of-the-week-34
 title: picture of the week 34

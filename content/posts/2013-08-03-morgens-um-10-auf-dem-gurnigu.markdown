@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-08-03 08:12:56+00:00
-layout: post
 link: http://habi.gna.ch/2013/08/03/morgens-um-10-auf-dem-gurnigu/
 slug: morgens-um-10-auf-dem-gurnigu
 title: Morgens um 10 auf dem Gurnigu

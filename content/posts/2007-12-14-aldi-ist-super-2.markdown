@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-14 22:31:30+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/14/aldi-ist-super-2/
 slug: aldi-ist-super-2
 title: aldi ist super!

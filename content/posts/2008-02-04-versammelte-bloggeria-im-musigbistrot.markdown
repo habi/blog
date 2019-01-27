@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-02-04 20:03:18+00:00
-layout: post
 link: http://habi.gna.ch/2008/02/04/versammelte-bloggeria-im-musigbistrot/
 slug: versammelte-bloggeria-im-musigbistrot
 title: Versammelte Bloggeria im Musigbistrot

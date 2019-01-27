@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-01-08 14:34:29+00:00
-layout: post
 link: http://habi.gna.ch/2006/01/08/abt-schlechte-werbung/
 slug: abt-schlechte-werbung
 title: abt. schlechte werbung

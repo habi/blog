@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-03 20:39:03+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/03/call-me-impulsive/
 slug: call-me-impulsive
 title: call me impulsive!

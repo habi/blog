@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-22 20:59:45+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/22/hohtuerli-panorama/
 slug: hohtuerli-panorama
 title: hohtuerli-panorama

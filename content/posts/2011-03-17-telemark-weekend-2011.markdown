@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-03-17 23:48:47+00:00
-layout: post
 link: http://habi.gna.ch/2011/03/18/telemark-weekend-2011/
 slug: telemark-weekend-2011
 title: Telemark-Weekend 2011

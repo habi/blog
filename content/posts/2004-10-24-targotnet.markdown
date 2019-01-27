@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-24 21:32:06+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/24/targotnet/
 slug: targotnet
 title: targot.net

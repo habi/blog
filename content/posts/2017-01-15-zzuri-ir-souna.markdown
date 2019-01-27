@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-01-15 22:01:15+00:00
-layout: post
 link: http://habi.gna.ch/2017/01/15/zzuri-ir-souna/
 slug: zzuri-ir-souna
 title: Z'Züri ir Souna

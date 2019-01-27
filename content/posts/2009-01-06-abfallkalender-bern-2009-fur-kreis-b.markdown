@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-01-06 19:59:57+00:00
-layout: post
 link: http://habi.gna.ch/2009/01/06/abfallkalender-bern-2009-fur-kreis-b/
 slug: abfallkalender-bern-2009-fur-kreis-b
 title: elektronischer Abfallkalender Bern 2009 für Kreis B

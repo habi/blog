@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-11-04 13:29:27+00:00
-layout: post
 link: http://habi.gna.ch/2012/11/04/das-leben-als-hydrant-nr-23-kann-echt-verschissen-sein/
 slug: das-leben-als-hydrant-nr-23-kann-echt-verschissen-sein
 title: Das Leben als Hydrant Nr. 23 kann echt verschissen sein

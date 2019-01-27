@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-07 19:04:29+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/07/new-mixed-tapecom-nr-15/
 slug: new-mixed-tapecom-nr-15
 title: new mixed-tape.com (nr. 15)

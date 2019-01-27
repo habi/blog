@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-09-22 19:31:54+00:00
-layout: post
 link: http://habi.gna.ch/2006/09/22/eighties-flashback-update/
 slug: eighties-flashback-update
 title: eighties flashback! [update]

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-21 11:07:25+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/21/have-a-funny-afternoon/
 slug: have-a-funny-afternoon
 title: have a funny afternoon

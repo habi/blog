@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-08-02 07:07:21+00:00
-layout: post
 link: http://habi.gna.ch/2011/08/02/kiva-verschenkt-geld/
 slug: kiva-verschenkt-geld
 title: Kiva verschenkt Geld

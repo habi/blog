@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-02-14 16:22:19+00:00
-layout: post
 link: http://habi.gna.ch/2007/02/14/psp-overload/
 slug: psp-overload
 title: PSP overload

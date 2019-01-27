@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-04-10 19:51:26+00:00
-layout: post
 link: http://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/
 slug: panoramas-from-low-quality-movies
 title: panoramas from (low quality) movies [update]

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-12-16 20:56:36+00:00
-layout: post
 link: http://habi.gna.ch/2008/12/16/alternativer-weihnachtsbaum/
 slug: alternativer-weihnachtsbaum
 title: alternativer weihnachtsbaum

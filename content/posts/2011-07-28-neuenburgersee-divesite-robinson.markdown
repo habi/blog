@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-07-28 19:09:00+00:00
-layout: post
 link: http://habi.gna.ch/2011/07/28/neuenburgersee-divesite-robinson/
 slug: neuenburgersee-divesite-robinson
 title: Neuenburgersee, Divesite Robinson

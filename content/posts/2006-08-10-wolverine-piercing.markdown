@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-08-10 17:24:36+00:00
-layout: post
 link: http://habi.gna.ch/2006/08/10/wolverine-piercing/
 slug: wolverine-piercing
 title: wolverine piercing

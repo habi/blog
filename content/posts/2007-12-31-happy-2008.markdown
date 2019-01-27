@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-31 22:00:55+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/31/happy-2008/
 slug: happy-2008
 title: happy 2008!

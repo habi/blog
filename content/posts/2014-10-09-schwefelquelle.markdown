@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-10-09 20:21:14+00:00
-layout: post
 link: http://habi.gna.ch/2014/10/09/schwefelquelle/
 slug: schwefelquelle
 title: Schwefelquelle

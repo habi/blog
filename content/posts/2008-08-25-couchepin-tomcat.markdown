@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-08-25 08:57:49+00:00
-layout: post
 link: http://habi.gna.ch/2008/08/25/couchepin-tomcat/
 slug: couchepin-tomcat
 title: Couchepin @ TOMCAT

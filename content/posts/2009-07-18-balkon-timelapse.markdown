@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-07-18 19:32:23+00:00
-layout: post
 link: http://habi.gna.ch/2009/07/18/balkon-timelapse/
 slug: balkon-timelapse
 title: Balkon-Timelapse

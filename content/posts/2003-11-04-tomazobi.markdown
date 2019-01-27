@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-04 17:44:09+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/04/tomazobi/
 slug: tomazobi
 title: tomazobi

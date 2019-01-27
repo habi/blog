@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-07-12 18:24:52+00:00
-layout: post
 link: http://habi.gna.ch/2009/07/12/fun-with-a-fisheye-lens/
 slug: fun-with-a-fisheye-lens
 title: fun with a fisheye-lens

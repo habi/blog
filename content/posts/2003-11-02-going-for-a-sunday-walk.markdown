@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-02 13:59:38+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/02/going-for-a-sunday-walk/
 slug: going-for-a-sunday-walk
 title: going for a sunday walk

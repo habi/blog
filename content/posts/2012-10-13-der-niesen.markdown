@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-10-13 21:43:01+00:00
-layout: post
 link: http://habi.gna.ch/2012/10/13/der-niesen/
 slug: der-niesen
 title: Der Niesen

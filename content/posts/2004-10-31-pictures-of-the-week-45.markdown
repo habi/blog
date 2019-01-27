@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-31 20:59:00+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/31/pictures-of-the-week-45/
 slug: pictures-of-the-week-45
 title: pictures of the week  45

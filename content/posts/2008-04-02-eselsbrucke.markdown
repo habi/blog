@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-04-02 07:13:13+00:00
-layout: post
 link: http://habi.gna.ch/2008/04/02/eselsbrucke/
 slug: eselsbrucke
 title: eselsbrücke

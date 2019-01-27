@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-08-12 20:55:02+00:00
-layout: post
 link: http://habi.gna.ch/2005/08/12/im-off-for-a-week-to-some-european-championships/
 slug: im-off-for-a-week-to-some-european-championships
 title: i'm off for a week (to some european championships)

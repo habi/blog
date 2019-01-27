@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-05-02 17:45:28+00:00
-layout: post
 link: http://habi.gna.ch/2008/05/02/chm-der-ist-fur-dich/
 slug: chm-der-ist-fur-dich
 title: chm, der ist für dich!

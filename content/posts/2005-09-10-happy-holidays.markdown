@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-10 21:23:23+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/10/happy-holidays/
 slug: happy-holidays
 title: happy holidays!

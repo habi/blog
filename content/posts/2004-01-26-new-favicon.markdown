@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-26 17:31:52+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/26/new-favicon/
 slug: new-favicon
 title: new favicon

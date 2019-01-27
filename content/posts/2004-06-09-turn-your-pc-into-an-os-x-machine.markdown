@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-09 20:21:29+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/09/turn-your-pc-into-an-os-x-machine/
 slug: turn-your-pc-into-an-os-x-machine
 title: turn your pc into an os x machine

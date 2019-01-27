@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-07-04 19:51:46+00:00
-layout: post
 link: http://habi.gna.ch/2004/07/04/bad-furniture/
 slug: bad-furniture
 title: bad furniture

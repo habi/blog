@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-10 11:45:53+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/10/skiing-is-so-cool/
 slug: skiing-is-so-cool
 title: skiing is so cool

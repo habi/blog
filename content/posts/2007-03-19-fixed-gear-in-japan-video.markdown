@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-19 19:58:03+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/19/fixed-gear-in-japan-video/
 slug: fixed-gear-in-japan-video
 title: fixed gear in japan [video]

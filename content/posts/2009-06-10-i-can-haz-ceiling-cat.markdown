@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-06-10 19:57:45+00:00
-layout: post
 link: http://habi.gna.ch/2009/06/10/i-can-haz-ceiling-cat/
 slug: i-can-haz-ceiling-cat
 title: i can haz ceiling cat?

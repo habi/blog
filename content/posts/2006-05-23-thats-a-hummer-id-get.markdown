@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-23 19:11:16+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/23/thats-a-hummer-id-get/
 slug: thats-a-hummer-id-get
 title: that's a hummer i'd get

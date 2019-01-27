@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-01 01:38:02+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/01/erster-vorsatz-furs-2008/
 slug: erster-vorsatz-furs-2008
 title: erster vorsatz für's 2008

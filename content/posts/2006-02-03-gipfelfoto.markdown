@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-02-03 11:44:54+00:00
-layout: post
 link: http://habi.gna.ch/2006/02/03/gipfelfoto/
 slug: gipfelfoto
 title: gipfelfoto

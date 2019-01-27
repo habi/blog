@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-09 14:40:33+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/09/email-aliases-in-mailapp/
 slug: email-aliases-in-mailapp
 title: email aliases in mail.app

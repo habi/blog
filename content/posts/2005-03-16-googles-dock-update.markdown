@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-03-16 16:34:47+00:00
-layout: post
 link: http://habi.gna.ch/2005/03/16/googles-dock-update/
 slug: googles-dock-update
 title: googles dock [update]

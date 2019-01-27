@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-11-27 18:45:56+00:00
-layout: post
 link: http://habi.gna.ch/2005/11/27/american-edit/
 slug: american-edit
 title: american edit

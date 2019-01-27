@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-03-22 20:54:41+00:00
-layout: post
 link: http://habi.gna.ch/2006/03/22/bob-is-bloggin/
 slug: bob-is-bloggin
 title: bob is bloggin!

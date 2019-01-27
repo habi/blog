@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-10-10 21:31:50+00:00
-layout: post
 link: http://habi.gna.ch/2016/10/10/hossa/
 slug: hossa
 title: Hossa!

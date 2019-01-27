@@ -2,7 +2,6 @@
 author: admin
 comments: false
 date: 2007-01-28 21:20:39+00:00
-layout: post
 link: http://habi.gna.ch/2007/01/28/10000-spam-comments/
 slug: 10000-spam-comments
 title: 10000 spam comments

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-01-14 09:25:50+00:00
-layout: post
 link: http://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/
 slug: meine-neue-uhr-monochron-inkl-timelapse
 title: 'Meine neue Uhr: MONOCHRON [inkl. Timelapse] [update]'

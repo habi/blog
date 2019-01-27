@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-19 16:20:29+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/19/sore-back/
 slug: sore-back
 title: sore back

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-08-07 19:28:54+00:00
-layout: post
 link: http://habi.gna.ch/2012/08/07/bullet-time-an-den-olympischen-spiele-2012/
 slug: bullet-time-an-den-olympischen-spiele-2012
 title: '"Bullet Time"  an den Olympischen Spiele 2012'

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-03-09 16:22:14+00:00
-layout: post
 link: http://habi.gna.ch/2013/03/09/da-wos-schnee-het/
 slug: da-wos-schnee-het
 title: Da wo's Schnee het

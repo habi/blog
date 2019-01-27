@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-07-13 09:33:10+00:00
-layout: post
 link: http://habi.gna.ch/2008/07/13/kanada/
 slug: kanada
 title: kanada

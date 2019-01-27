@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-02-10 21:10:58+00:00
-layout: post
 link: http://habi.gna.ch/2009/02/10/mein-wochenende-with-map-video/
 slug: mein-wochenende-with-map-video
 title: mein wochenende [with map] [video]

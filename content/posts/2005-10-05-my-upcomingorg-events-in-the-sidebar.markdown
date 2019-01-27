@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-10-05 23:44:52+00:00
-layout: post
 link: http://habi.gna.ch/2005/10/06/my-upcomingorg-events-in-the-sidebar/
 slug: my-upcomingorg-events-in-the-sidebar
 title: my upcoming.org events in the sidebar

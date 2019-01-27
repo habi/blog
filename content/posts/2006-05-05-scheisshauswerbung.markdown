@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-05 21:49:21+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/05/scheisshauswerbung/
 slug: scheisshauswerbung
 title: scheiss(haus)werbung

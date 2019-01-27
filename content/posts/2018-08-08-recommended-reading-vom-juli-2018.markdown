@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-08-08 20:45:41+00:00
-layout: post
 link: http://habi.gna.ch/2018/08/08/recommended-reading-vom-juli-2018/
 slug: recommended-reading-vom-juli-2018
 title: Recommended Reading vom Juli 2018

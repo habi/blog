@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-01-10 22:50:12+00:00
-layout: post
 link: http://habi.gna.ch/2015/01/10/jahresruckblick-auf-mich-selbst/
 slug: jahresruckblick-auf-mich-selbst
 title: Jahresrückblick auf mich selbst

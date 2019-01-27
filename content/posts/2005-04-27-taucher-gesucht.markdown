@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-27 21:58:11+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/27/taucher-gesucht/
 slug: taucher-gesucht
 title: taucher gesucht!

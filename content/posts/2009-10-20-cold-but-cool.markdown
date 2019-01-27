@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-10-20 21:29:56+00:00
-layout: post
 link: http://habi.gna.ch/2009/10/20/cold-but-cool/
 slug: cold-but-cool
 title: cold, but cool

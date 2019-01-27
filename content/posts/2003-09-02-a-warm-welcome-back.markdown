@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-09-02 21:41:31+00:00
-layout: post
 link: http://habi.gna.ch/2003/09/02/a-warm-welcome-back/
 slug: a-warm-welcome-back
 title: a warm welcome back :-)

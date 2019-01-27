@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-06 21:46:40+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/06/coffee-and-cigarettes/
 slug: coffee-and-cigarettes
 title: coffee and cigarettes

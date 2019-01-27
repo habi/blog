@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-03-13 21:00:21+00:00
-layout: post
 link: http://habi.gna.ch/2006/03/13/calvin-speaks-the-truth/
 slug: calvin-speaks-the-truth
 title: calvin speaks the truth

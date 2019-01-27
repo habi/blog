@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-12-07 15:07:44+00:00
-layout: post
 link: http://habi.gna.ch/2005/12/07/q-unit-in-da-house/
 slug: q-unit-in-da-house
 title: q-unit in da house!

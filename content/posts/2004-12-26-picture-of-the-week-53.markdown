@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-26 14:13:17+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/26/picture-of-the-week-53/
 slug: picture-of-the-week-53
 title: picture of the week 53

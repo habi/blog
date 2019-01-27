@@ -2,7 +2,6 @@
 author: admin
 comments: false
 date: 2006-04-19 15:33:51+00:00
-layout: post
 link: http://habi.gna.ch/2006/04/19/flower-imac-aufm-mll/
 slug: flower-imac-aufm-mll
 title: flower imac aufm müll

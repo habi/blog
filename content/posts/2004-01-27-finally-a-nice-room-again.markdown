@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-27 21:09:58+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/27/finally-a-nice-room-again/
 slug: finally-a-nice-room-again
 title: finally, a nice room again.

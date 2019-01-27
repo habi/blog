@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-12-03 22:25:38+00:00
-layout: post
 link: http://habi.gna.ch/2014/12/03/reportagen/
 slug: reportagen
 title: Reportagen

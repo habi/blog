@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-02-02 11:48:45+00:00
-layout: post
 link: http://habi.gna.ch/2018/02/02/2017-auf-der-strasse-oder-im-wald/
 slug: 2017-auf-der-strasse-oder-im-wald
 title: 2017 auf der Strasse oder im Wald

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-07-14 14:19:48+00:00
-layout: post
 link: http://habi.gna.ch/2008/07/14/neue-workstation/
 slug: neue-workstation
 title: Neue Workstation

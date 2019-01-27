@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-09-26 16:44:16+00:00
-layout: post
 link: http://habi.gna.ch/2008/09/26/light-paint-piano-player/
 slug: light-paint-piano-player
 title: Light-Paint Piano Player

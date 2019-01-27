@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-06-09 17:00:04+00:00
-layout: post
 link: http://habi.gna.ch/2014/06/09/nippon/
 slug: nippon
 title: Nippon

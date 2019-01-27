@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-04 12:35:04+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/04/album-art-in-the-sidebar-update/
 slug: album-art-in-the-sidebar-update
 title: album art in the sidebar [update]

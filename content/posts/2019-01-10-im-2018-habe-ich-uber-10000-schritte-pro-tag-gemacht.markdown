@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2019-01-10 21:19:25+00:00
-layout: post
 link: http://habi.gna.ch/2019/01/10/im-2018-habe-ich-uber-10000-schritte-pro-tag-gemacht/
 slug: im-2018-habe-ich-uber-10000-schritte-pro-tag-gemacht
 title: Im 2018 habe ich über 10000 Schritte pro Tag gemacht

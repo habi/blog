@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-07-01 21:37:20+00:00
-layout: post
 link: http://habi.gna.ch/2013/07/01/mein-juni/
 slug: mein-juni
 title: Mein Juni

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-29 19:20:34+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/29/syn-chron-update/
 slug: syn-chron-update
 title: syn chron [update]

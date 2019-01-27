@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-12-02 18:19:10+00:00
-layout: post
 link: http://habi.gna.ch/2016/12/02/geld-weitergeben/
 slug: geld-weitergeben
 title: Geld weitergeben

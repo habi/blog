@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-09 20:14:22+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/09/newsfire-02/
 slug: newsfire-02
 title: newsfire 0.2

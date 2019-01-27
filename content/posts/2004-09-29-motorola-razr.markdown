@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-29 18:36:43+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/29/motorola-razr/
 slug: motorola-razr
 title: motorola razr

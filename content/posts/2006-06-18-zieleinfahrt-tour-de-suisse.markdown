@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-06-18 20:08:24+00:00
-layout: post
 link: http://habi.gna.ch/2006/06/18/zieleinfahrt-tour-de-suisse/
 slug: zieleinfahrt-tour-de-suisse
 title: zieleinfahrt tour de suisse

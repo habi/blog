@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-06 22:38:29+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/07/that-was-a-hot-party/
 slug: that-was-a-hot-party
 title: that was a hot party!

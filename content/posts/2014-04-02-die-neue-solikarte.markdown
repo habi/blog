@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-04-02 21:20:32+00:00
-layout: post
 link: http://habi.gna.ch/2014/04/02/die-neue-solikarte/
 slug: die-neue-solikarte
 title: Die neue Solikarte

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-08-02 22:37:01+00:00
-layout: post
 link: http://habi.gna.ch/2007/08/02/my-first-of-august/
 slug: my-first-of-august
 title: my first of august

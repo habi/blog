@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-17 21:44:51+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/17/go-vote-update/
 slug: go-vote-update
 title: go vote! [update]

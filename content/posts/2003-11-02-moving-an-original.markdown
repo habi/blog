@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-02 13:50:12+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/02/moving-an-original/
 slug: moving-an-original
 title: moving an original

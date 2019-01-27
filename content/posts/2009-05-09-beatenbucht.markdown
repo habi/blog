@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-05-09 14:32:24+00:00
-layout: post
 link: http://habi.gna.ch/2009/05/09/beatenbucht/
 slug: beatenbucht
 title: beatenbucht

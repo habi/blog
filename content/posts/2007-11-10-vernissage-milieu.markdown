@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-11-10 22:09:44+00:00
-layout: post
 link: http://habi.gna.ch/2007/11/10/vernissage-milieu/
 slug: vernissage-milieu
 title: Vernissage @ Milieu

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-01 17:05:54+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/01/polyball-pimp-my-hemmli/
 slug: polyball-pimp-my-hemmli
 title: 'Polyball: pimp my hemmli'

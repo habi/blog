@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-17 04:51:48+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/17/lolcat-for-nerds-katzencontent/
 slug: lolcat-for-nerds-katzencontent
 title: lolcat for nerds [katzencontent!]

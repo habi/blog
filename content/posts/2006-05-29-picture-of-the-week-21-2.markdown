@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-29 19:58:17+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/29/picture-of-the-week-21-2/
 slug: picture-of-the-week-21-2
 title: picture of the week 21

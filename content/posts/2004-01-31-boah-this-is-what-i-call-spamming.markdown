@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-31 13:32:23+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/31/boah-this-is-what-i-call-spamming/
 slug: boah-this-is-what-i-call-spamming
 title: boah, this is what i call spamming!

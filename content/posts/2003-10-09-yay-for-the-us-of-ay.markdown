@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-09 11:41:36+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/09/yay-for-the-us-of-ay/
 slug: yay-for-the-us-of-ay
 title: yay for the us of ay!

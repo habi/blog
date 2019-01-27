@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-10-10 20:14:20+00:00
-layout: post
 link: http://habi.gna.ch/2010/10/10/und-wie-war-dein-tag/
 slug: und-wie-war-dein-tag
 title: Und wie war dein Tag?

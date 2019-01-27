@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-14 23:34:06+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/15/skifahren-auf-der-bettmeralp-with-map/
 slug: skifahren-auf-der-bettmeralp-with-map
 title: skifahren auf der bettmeralp [with map]

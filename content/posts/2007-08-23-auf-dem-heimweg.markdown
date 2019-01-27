@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-08-23 19:06:08+00:00
-layout: post
 link: http://habi.gna.ch/2007/08/23/auf-dem-heimweg/
 slug: auf-dem-heimweg
 title: auf dem heimweg

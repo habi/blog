@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-06-04 18:15:55+00:00
-layout: post
 link: http://habi.gna.ch/2013/06/04/jonah/
 slug: jonah
 title: Jonah

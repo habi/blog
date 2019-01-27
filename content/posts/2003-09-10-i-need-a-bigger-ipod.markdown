@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-09-10 11:22:05+00:00
-layout: post
 link: http://habi.gna.ch/2003/09/10/i-need-a-bigger-ipod/
 slug: i-need-a-bigger-ipod
 title: i need a bigger ipod

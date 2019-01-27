@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-02-05 09:48:50+00:00
-layout: post
 link: http://habi.gna.ch/2005/02/05/creepy-kids-book-mod/
 slug: creepy-kids-book-mod
 title: creepy kids book mod

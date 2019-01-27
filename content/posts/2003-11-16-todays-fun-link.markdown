@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-16 12:30:37+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/16/todays-fun-link/
 slug: todays-fun-link
 title: todays fun link

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-01-03 21:24:05+00:00
-layout: post
 link: http://habi.gna.ch/2018/01/03/wo-war-ich-im-2017/
 slug: wo-war-ich-im-2017
 title: Wo war ich im 2017

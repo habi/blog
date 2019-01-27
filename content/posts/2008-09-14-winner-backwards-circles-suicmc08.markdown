@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-09-14 20:40:42+00:00
-layout: post
 link: http://habi.gna.ch/2008/09/14/winner-backwards-circles-suicmc08/
 slug: winner-backwards-circles-suicmc08
 title: winner backwards circles suicmc08 [video]

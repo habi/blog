@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-08-27 18:26:17+00:00
-layout: post
 link: http://habi.gna.ch/2012/08/27/kurzkritik-cyclope/
 slug: kurzkritik-cyclope
 title: 'Kurzkritik: Cyclope'

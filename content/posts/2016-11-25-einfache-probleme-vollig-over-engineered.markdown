@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-11-25 22:47:14+00:00
-layout: post
 link: http://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/
 slug: einfache-probleme-vollig-over-engineered
 title: Einfache Probleme, völlig over-engineered

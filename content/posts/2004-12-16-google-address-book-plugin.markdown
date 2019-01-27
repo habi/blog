@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-16 22:16:55+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/17/google-address-book-plugin/
 slug: google-address-book-plugin
 title: google address book plugin

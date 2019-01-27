@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-08-03 15:54:38+00:00
-layout: post
 link: http://habi.gna.ch/2009/08/03/allalinhorn/
 slug: allalinhorn
 title: allalinhorn

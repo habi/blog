@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-20 22:06:24+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/21/body-modifications-in-the-weltwoche/
 slug: body-modifications-in-the-weltwoche
 title: body modifications in the weltwoche

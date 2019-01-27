@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-18 22:17:31+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/19/famous-detective/
 slug: famous-detective
 title: famous detective

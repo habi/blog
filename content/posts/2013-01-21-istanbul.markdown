@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-01-21 19:29:20+00:00
-layout: post
 link: http://habi.gna.ch/2013/01/21/istanbul/
 slug: istanbul
 title: Istanbul

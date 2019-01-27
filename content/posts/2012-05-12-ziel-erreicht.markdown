@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-05-12 17:41:52+00:00
-layout: post
 link: http://habi.gna.ch/2012/05/12/ziel-erreicht/
 slug: ziel-erreicht
 title: Ziel erreicht [update]

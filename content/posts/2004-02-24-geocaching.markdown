@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-24 21:26:42+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/24/geocaching/
 slug: geocaching
 title: geocaching

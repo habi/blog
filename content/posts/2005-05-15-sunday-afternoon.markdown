@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-15 14:51:29+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/15/sunday-afternoon/
 slug: sunday-afternoon
 title: sunday afternoon

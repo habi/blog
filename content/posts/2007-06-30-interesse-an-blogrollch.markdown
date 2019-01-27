@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-30 12:29:33+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/30/interesse-an-blogrollch/
 slug: interesse-an-blogrollch
 title: interesse an blogroll.ch?

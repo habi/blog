@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-08 22:31:40+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/09/grand-raid-pictures/
 slug: grand-raid-pictures
 title: grand raid pictures

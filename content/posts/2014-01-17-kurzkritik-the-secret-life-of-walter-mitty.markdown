@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-01-17 22:38:42+00:00
-layout: post
 link: http://habi.gna.ch/2014/01/17/kurzkritik-the-secret-life-of-walter-mitty/
 slug: kurzkritik-the-secret-life-of-walter-mitty
 title: 'Kurzkritik: The Secret Life of Walter Mitty'

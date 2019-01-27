@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-13 12:06:20+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/13/guntenbad-40-27-3m-10%e2%80%a2/
 slug: guntenbad-40-27-3m-10%e2%80%a2
 title: Guntenbad | 40' | 27.3m | 10â€¢

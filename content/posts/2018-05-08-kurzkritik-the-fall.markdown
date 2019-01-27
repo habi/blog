@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-05-08 19:21:17+00:00
-layout: post
 link: http://habi.gna.ch/2018/05/08/kurzkritik-the-fall/
 slug: kurzkritik-the-fall
 title: 'Kurzkritik: The Fall'

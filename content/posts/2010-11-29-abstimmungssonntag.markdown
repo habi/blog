@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-29 22:52:41+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/30/abstimmungssonntag/
 slug: abstimmungssonntag
 title: AbstimmungsSonntag

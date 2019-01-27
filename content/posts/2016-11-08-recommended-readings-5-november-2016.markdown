@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-11-08 21:21:43+00:00
-layout: post
 link: http://habi.gna.ch/2016/11/08/recommended-readings-5-november-2016/
 slug: recommended-readings-5-november-2016
 title: 'Recommended readings: 5. November 2016'

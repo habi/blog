@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-24 19:01:35+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/24/some-statistics/
 slug: some-statistics
 title: some statistics

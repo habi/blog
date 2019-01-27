@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-12-03 20:04:51+00:00
-layout: post
 link: http://habi.gna.ch/2005/12/03/frontrow-is-enabled/
 slug: frontrow-is-enabled
 title: frontrow is enabled

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-18 09:41:05+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/18/picture-of-the-week-43/
 slug: picture-of-the-week-43
 title: picture of the week 43

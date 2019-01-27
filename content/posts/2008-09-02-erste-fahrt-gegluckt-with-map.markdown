@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-09-02 18:48:51+00:00
-layout: post
 link: http://habi.gna.ch/2008/09/02/erste-fahrt-gegluckt-with-map/
 slug: erste-fahrt-gegluckt-with-map
 title: erste fahrt geglückt [with map]

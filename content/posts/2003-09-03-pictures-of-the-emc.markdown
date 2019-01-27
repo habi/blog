@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-09-03 23:04:38+00:00
-layout: post
 link: http://habi.gna.ch/2003/09/04/pictures-of-the-emc/
 slug: pictures-of-the-emc
 title: Pictures of the EMC

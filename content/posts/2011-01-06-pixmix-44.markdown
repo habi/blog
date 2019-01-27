@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-01-06 10:06:03+00:00
-layout: post
 link: http://habi.gna.ch/2011/01/06/pixmix-44/
 slug: pixmix-44
 title: PixMix 44 (Recap)

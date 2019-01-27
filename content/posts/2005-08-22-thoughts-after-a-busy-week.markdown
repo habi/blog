@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-08-22 21:33:51+00:00
-layout: post
 link: http://habi.gna.ch/2005/08/22/thoughts-after-a-busy-week/
 slug: thoughts-after-a-busy-week
 title: thoughts after a busy week

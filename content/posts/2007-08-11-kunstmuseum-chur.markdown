@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-08-11 12:30:09+00:00
-layout: post
 link: http://habi.gna.ch/2007/08/11/kunstmuseum-chur/
 slug: kunstmuseum-chur
 title: Kunstmuseum Chur

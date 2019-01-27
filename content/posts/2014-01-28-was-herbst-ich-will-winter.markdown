@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-01-28 17:12:26+00:00
-layout: post
 link: http://habi.gna.ch/2014/01/28/was-herbst-ich-will-winter/
 slug: was-herbst-ich-will-winter
 title: Was Herbst? Ich will Winter!

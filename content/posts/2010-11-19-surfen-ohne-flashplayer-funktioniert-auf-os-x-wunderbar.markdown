@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-19 09:20:43+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/19/surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar/
 slug: surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar
 title: Surfen ohne Flashplayer funktioniert auf OS X wunderbar

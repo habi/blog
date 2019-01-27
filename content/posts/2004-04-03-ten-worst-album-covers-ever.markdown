@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-04-03 16:41:07+00:00
-layout: post
 link: http://habi.gna.ch/2004/04/03/ten-worst-album-covers-ever/
 slug: ten-worst-album-covers-ever
 title: ten worst album covers EVER!

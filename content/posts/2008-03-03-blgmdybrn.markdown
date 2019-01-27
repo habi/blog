@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-03 19:21:02+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/03/blgmdybrn/
 slug: blgmdybrn
 title: Blgmdybrn

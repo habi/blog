@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-08-09 15:36:26+00:00
-layout: post
 link: http://habi.gna.ch/2008/08/09/ein-halber-ferientag/
 slug: ein-halber-ferientag
 title: ein halber ferientag [with map]

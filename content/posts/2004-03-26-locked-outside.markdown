@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-26 18:37:51+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/26/locked-outside/
 slug: locked-outside
 title: Locked Outside!

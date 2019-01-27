@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-12-29 13:20:18+00:00
-layout: post
 link: http://habi.gna.ch/2013/12/29/ein-jahr-in-fotos/
 slug: ein-jahr-in-fotos
 title: Ein Jahr in Fotos

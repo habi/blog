@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-11-13 15:32:28+00:00
-layout: post
 link: http://habi.gna.ch/2017/11/13/welcome-elio/
 slug: welcome-elio
 title: Welcome Elio

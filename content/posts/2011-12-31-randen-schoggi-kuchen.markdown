@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-12-31 21:33:43+00:00
-layout: post
 link: http://habi.gna.ch/2011/12/31/randen-schoggi-kuchen/
 slug: randen-schoggi-kuchen
 title: Randen-Schoggi-Kuchen

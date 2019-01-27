@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-12-17 21:24:15+00:00
-layout: post
 link: http://habi.gna.ch/2003/12/17/how-tall-are-you/
 slug: how-tall-are-you
 title: how tall are you?

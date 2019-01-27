@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-22 20:47:13+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/22/pongmechanik/
 slug: pongmechanik
 title: pongmechanik

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-12 19:22:11+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/12/grand-prix/
 slug: grand-prix
 title: grand prix

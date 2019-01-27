@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-01-14 14:17:34+00:00
-layout: post
 link: http://habi.gna.ch/2012/01/14/matterhorn/
 slug: matterhorn
 title: Matterhorn

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-04-14 21:20:37+00:00
-layout: post
 link: http://habi.gna.ch/2008/04/14/aus-aktuellem-anlass/
 slug: aus-aktuellem-anlass
 title: aus aktuellem anlass

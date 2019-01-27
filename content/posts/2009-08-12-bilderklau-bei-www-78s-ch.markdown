@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-08-12 10:14:36+00:00
-layout: post
 link: http://habi.gna.ch/2009/08/12/bilderklau-bei-www-78s-ch/
 slug: bilderklau-bei-www-78s-ch
 title: Bilderklau bei www.78s.ch [update]

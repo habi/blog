@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-25 18:03:23+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/25/picture-of-the-week-38/
 slug: picture-of-the-week-38
 title: picture of the week 38

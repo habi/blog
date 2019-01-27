@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-21 17:02:38+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/21/fuchstv-mal-etwas-anders-video/
 slug: fuchstv-mal-etwas-anders-video
 title: fuchs.tv mal etwas anders [video]

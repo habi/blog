@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-18 13:12:23+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/18/a4-statt-a0-2/
 slug: a4-statt-a0-2
 title: A4 statt A0...

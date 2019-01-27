@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-01-01 10:11:14+00:00
-layout: post
 link: http://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/
 slug: making-of-neujahrskartli-2016
 title: 'Making of: Neujahrskärtli 2016'

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-05-01 20:25:05+00:00
-layout: post
 link: http://habi.gna.ch/2013/05/01/mein-april/
 slug: mein-april
 title: Mein April

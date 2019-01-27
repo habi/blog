@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-09-09 20:16:53+00:00
-layout: post
 link: http://habi.gna.ch/2018/09/09/murten-morat/
 slug: murten-morat
 title: Murten/Morat

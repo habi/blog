@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-28 21:36:29+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/28/keep-it-simple/
 slug: keep-it-simple
 title: keep it simple

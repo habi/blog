@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-04-28 13:22:43+00:00
-layout: post
 link: http://habi.gna.ch/2007/04/28/gadgets-for-sale/
 slug: gadgets-for-sale
 title: gadgets for sale

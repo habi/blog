@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-07-07 07:16:46+00:00
-layout: post
 link: http://habi.gna.ch/2009/07/07/evernote-auf-dem-iphone/
 slug: evernote-auf-dem-iphone
 title: evernote auf dem iphone [update]

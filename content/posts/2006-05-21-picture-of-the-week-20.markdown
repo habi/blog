@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-21 21:08:26+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/21/picture-of-the-week-20/
 slug: picture-of-the-week-20
 title: picture of the week 20

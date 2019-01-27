@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-11-21 21:55:17+00:00
-layout: post
 link: http://habi.gna.ch/2004/11/21/gmail-invitations-update/
 slug: gmail-invitations-update
 title: gmail invitations [update]

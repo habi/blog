@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-12-08 21:49:30+00:00
-layout: post
 link: http://habi.gna.ch/2014/12/08/hebocon/
 slug: hebocon
 title: Hebocon

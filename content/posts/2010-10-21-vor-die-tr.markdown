@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-10-21 18:06:51+00:00
-layout: post
 link: http://habi.gna.ch/2010/10/21/vor-die-tr/
 slug: vor-die-tr
 title: Vor die Tür

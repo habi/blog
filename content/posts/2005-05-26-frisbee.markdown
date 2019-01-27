@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-26 21:07:41+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/26/frisbee/
 slug: frisbee
 title: frisbee

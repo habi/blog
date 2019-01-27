@@ -2,7 +2,6 @@
 author: admin
 comments: false
 date: 2004-02-03 11:22:12+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/03/new-feature-on-this-blog/
 slug: new-feature-on-this-blog
 title: new feature on this blog

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-04-18 16:09:16+00:00
-layout: post
 link: http://habi.gna.ch/2009/04/18/bravo-habi-dan-und-christian/
 slug: bravo-habi-dan-und-christian
 title: bravo habi, dan und christian!

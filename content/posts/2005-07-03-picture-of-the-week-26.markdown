@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-03 21:28:09+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/03/picture-of-the-week-26/
 slug: picture-of-the-week-26
 title: picture of the week 26

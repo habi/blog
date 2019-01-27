@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-08-07 23:16:40+00:00
-layout: post
 link: http://habi.gna.ch/2009/08/08/habi-fahrt-ans-buskers-timelapse/
 slug: habi-fahrt-ans-buskers-timelapse
 title: habi fährt ans buskers - timelapse

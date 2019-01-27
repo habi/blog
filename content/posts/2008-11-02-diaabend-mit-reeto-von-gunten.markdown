@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-11-02 17:49:44+00:00
-layout: post
 link: http://habi.gna.ch/2008/11/02/diaabend-mit-reeto-von-gunten/
 slug: diaabend-mit-reeto-von-gunten
 title: diaabend mit reeto von gunten

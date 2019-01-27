@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-04 13:15:46+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/04/mein-kurier-nami-am-18-dezember-2007-gps/
 slug: mein-kurier-nami-am-18-dezember-2007-gps
 title: mein kurier-nami am 18. dezember 2007 [with map]

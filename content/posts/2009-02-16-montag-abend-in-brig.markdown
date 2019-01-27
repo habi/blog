@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-02-16 18:47:47+00:00
-layout: post
 link: http://habi.gna.ch/2009/02/16/montag-abend-in-brig/
 slug: montag-abend-in-brig
 title: montag abend in brig

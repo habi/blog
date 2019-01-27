@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-02 17:29:39+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/02/new-headphones/
 slug: new-headphones
 title: new headphones

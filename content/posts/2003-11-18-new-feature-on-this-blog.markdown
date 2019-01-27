@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-18 22:17:42+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/19/new-feature-on-this-blog/
 slug: new-feature-on-this-blog
 title: new feature on this blog

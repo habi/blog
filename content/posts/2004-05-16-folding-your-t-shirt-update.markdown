@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-16 13:28:14+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/16/folding-your-t-shirt-update/
 slug: folding-your-t-shirt-update
 title: folding your t-shirt [update]

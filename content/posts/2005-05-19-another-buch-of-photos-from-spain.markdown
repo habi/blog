@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-19 19:58:14+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/19/another-buch-of-photos-from-spain/
 slug: another-buch-of-photos-from-spain
 title: another buch of photos from spain

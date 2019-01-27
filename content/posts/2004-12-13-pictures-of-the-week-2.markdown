@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-13 21:40:45+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/13/pictures-of-the-week-2/
 slug: pictures-of-the-week-2
 title: pictures of the week

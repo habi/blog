@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-23 18:10:52+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/23/bier-risotto-mit-sprossensalat-2/
 slug: bier-risotto-mit-sprossensalat-2
 title: bier-risotto mit sprossensalat

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-10-19 18:50:17+00:00
-layout: post
 link: http://habi.gna.ch/2015/10/19/nationalratswahlen-2015/
 slug: nationalratswahlen-2015
 title: Nationalratswahlen 2015

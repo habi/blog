@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-09-21 20:49:08+00:00
-layout: post
 link: http://habi.gna.ch/2012/09/21/blick-am-abend/
 slug: blick-am-abend
 title: Blick am Abend

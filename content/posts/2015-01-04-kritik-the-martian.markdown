@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-01-04 21:41:58+00:00
-layout: post
 link: http://habi.gna.ch/2015/01/04/kritik-the-martian/
 slug: kritik-the-martian
 title: 'Kritik: The Martian'

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-02-05 09:24:43+00:00
-layout: post
 link: http://habi.gna.ch/2005/02/05/more-good-music/
 slug: more-good-music
 title: more good music

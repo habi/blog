@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-02-16 21:00:13+00:00
-layout: post
 link: http://habi.gna.ch/2009/02/16/sonntag-nachmittag-im-obergoms/
 slug: sonntag-nachmittag-im-obergoms
 title: sonntag nachmittag im obergoms

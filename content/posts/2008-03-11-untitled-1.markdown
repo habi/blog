@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-11 18:41:24+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/11/untitled-1/
 slug: untitled-1
 title: i own 1796

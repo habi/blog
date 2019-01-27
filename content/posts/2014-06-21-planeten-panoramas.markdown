@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-06-21 08:20:52+00:00
-layout: post
 link: http://habi.gna.ch/2014/06/21/planeten-panoramas/
 slug: planeten-panoramas
 title: Planeten-Panoramas

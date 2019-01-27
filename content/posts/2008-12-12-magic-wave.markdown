@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-12-12 08:20:42+00:00
-layout: post
 link: http://habi.gna.ch/2008/12/12/magic-wave/
 slug: magic-wave
 title: the "Magic Wave" @ technorama

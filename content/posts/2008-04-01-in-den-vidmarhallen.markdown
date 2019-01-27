@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-04-01 17:33:45+00:00
-layout: post
 link: http://habi.gna.ch/2008/04/01/in-den-vidmarhallen/
 slug: in-den-vidmarhallen
 title: In den Vidmarhallen

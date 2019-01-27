@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-10-14 19:53:21+00:00
-layout: post
 link: http://habi.gna.ch/2012/10/14/guntenbad/
 slug: guntenbad
 title: Guntenbad

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-03-04 21:16:17+00:00
-layout: post
 link: http://habi.gna.ch/2013/03/04/mein-februar/
 slug: mein-februar
 title: Mein Februar

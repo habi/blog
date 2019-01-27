@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-01-01 19:29:19+00:00
-layout: post
 link: http://habi.gna.ch/2015/01/01/happy-2015/
 slug: happy-2015
 title: Happy 2015!

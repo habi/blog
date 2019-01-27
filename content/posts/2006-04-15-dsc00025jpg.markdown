@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-04-15 12:55:35+00:00
-layout: post
 link: http://habi.gna.ch/2006/04/15/dsc00025jpg/
 slug: dsc00025jpg
 title: DSC00025.JPG

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-17 22:09:42+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/18/luftstation-2/
 slug: luftstation-2
 title: luftstation

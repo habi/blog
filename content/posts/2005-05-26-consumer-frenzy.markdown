@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-26 17:31:15+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/26/consumer-frenzy/
 slug: consumer-frenzy
 title: consumer frenzy

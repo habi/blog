@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-07-07 08:26:26+00:00
-layout: post
 link: http://habi.gna.ch/2010/07/07/meilenstein-erreicht/
 slug: meilenstein-erreicht
 title: Meilenstein erreicht [Update]

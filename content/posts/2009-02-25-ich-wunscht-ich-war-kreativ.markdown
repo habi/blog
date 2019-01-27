@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-02-25 17:48:34+00:00
-layout: post
 link: http://habi.gna.ch/2009/02/25/ich-wunscht-ich-war-kreativ/
 slug: ich-wunscht-ich-war-kreativ
 title: ich wünscht' ich wär kreativ...

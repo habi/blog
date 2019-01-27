@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-10-27 10:30:11+00:00
-layout: post
 link: http://habi.gna.ch/2007/10/27/ich-auch/
 slug: ich-auch
 title: ich auch!

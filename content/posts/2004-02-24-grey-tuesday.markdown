@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-24 17:46:38+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/24/grey-tuesday/
 slug: grey-tuesday
 title: grey tuesday

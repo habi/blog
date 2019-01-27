@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-03 22:16:40+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/04/todays-plans-or-fun-link/
 slug: todays-plans-or-fun-link
 title: todays plans or fun link

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-05 17:51:06+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/05/spy-on-other-people-update2/
 slug: spy-on-other-people-update2
 title: spy on other people [update2]

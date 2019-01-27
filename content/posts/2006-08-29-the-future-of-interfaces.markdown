@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-08-29 21:42:59+00:00
-layout: post
 link: http://habi.gna.ch/2006/08/29/the-future-of-interfaces/
 slug: the-future-of-interfaces
 title: the future of interfaces

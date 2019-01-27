@@ -2,7 +2,6 @@
 author: admin
 comments: false
 date: 2015-02-24 22:07:04+00:00
-layout: post
 link: http://habi.gna.ch/2015/02/24/kurzkritik-birdman/
 slug: kurzkritik-birdman
 title: 'Kurzkritik: Birdman'

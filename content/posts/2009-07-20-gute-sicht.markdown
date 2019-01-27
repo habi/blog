@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-07-20 18:47:13+00:00
-layout: post
 link: http://habi.gna.ch/2009/07/20/gute-sicht/
 slug: gute-sicht
 title: Gute Sicht

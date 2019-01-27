@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-09-28 22:06:13+00:00
-layout: post
 link: http://habi.gna.ch/2006/09/29/werbung-sollte-gegengelesen-werden/
 slug: werbung-sollte-gegengelesen-werden
 title: werbung sollte gegengelesen werden

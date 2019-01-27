@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-02-18 15:24:18+00:00
-layout: post
 link: http://habi.gna.ch/2005/02/18/smarterchild/
 slug: smarterchild
 title: smarterchild

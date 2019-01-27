@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-02-10 09:50:01+00:00
-layout: post
 link: http://habi.gna.ch/2011/02/10/abfall-kalender-stadt-bern-2011/
 slug: abfall-kalender-stadt-bern-2011
 title: Abfall-Kalender Stadt Bern 2011

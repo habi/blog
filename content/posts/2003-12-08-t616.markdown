@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-12-08 12:55:44+00:00
-layout: post
 link: http://habi.gna.ch/2003/12/08/t616/
 slug: t616
 title: t616

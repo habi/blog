@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-06 21:14:29+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/06/todays-task-left-none/
 slug: todays-task-left-none
 title: 'todays task left: none.'

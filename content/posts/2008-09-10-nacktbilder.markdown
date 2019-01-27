@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-09-10 10:27:53+00:00
-layout: post
 link: http://habi.gna.ch/2008/09/10/nacktbilder/
 slug: nacktbilder
 title: nacktbilder

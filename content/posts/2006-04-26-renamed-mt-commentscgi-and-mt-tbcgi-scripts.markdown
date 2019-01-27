@@ -2,7 +2,6 @@
 author: admin
 comments: false
 date: 2006-04-26 08:30:40+00:00
-layout: post
 link: http://habi.gna.ch/2006/04/26/renamed-mt-commentscgi-and-mt-tbcgi-scripts/
 slug: renamed-mt-commentscgi-and-mt-tbcgi-scripts
 title: renamed mt-comments.cgi and mt-tb.cgi scripts

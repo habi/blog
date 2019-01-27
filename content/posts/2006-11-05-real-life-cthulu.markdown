@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-05 16:00:12+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/05/real-life-cthulu/
 slug: real-life-cthulu
 title: real life cthulu [update]

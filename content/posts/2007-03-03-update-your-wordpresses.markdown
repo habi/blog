@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-03 07:42:33+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/03/update-your-wordpresses/
 slug: update-your-wordpresses
 title: update your wordpresses!

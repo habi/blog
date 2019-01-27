@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-08-13 19:33:00+00:00
-layout: post
 link: http://habi.gna.ch/2003/08/13/alleycat-in-bern/
 slug: alleycat-in-bern
 title: alleycat  in bern

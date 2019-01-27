@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-11-20 22:41:39+00:00
-layout: post
 link: http://habi.gna.ch/2012/11/21/stadt-und-gemeinderatswahlen-2012/
 slug: stadt-und-gemeinderatswahlen-2012
 title: Stadt- und Gemeinderatswahlen 2012

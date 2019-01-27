@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-06 20:48:24+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/06/blgmdnbrn/
 slug: blgmdnbrn
 title: blgmdnbrn [update]

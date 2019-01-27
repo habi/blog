@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-07-28 20:06:14+00:00
-layout: post
 link: http://habi.gna.ch/2003/07/28/this-is-just-too-cool/
 slug: this-is-just-too-cool
 title: this is just too cool!

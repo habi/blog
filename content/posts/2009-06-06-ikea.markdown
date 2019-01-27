@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-06-06 12:26:37+00:00
-layout: post
 link: http://habi.gna.ch/2009/06/06/ikea/
 slug: ikea
 title: IKEA

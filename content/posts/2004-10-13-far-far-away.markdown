@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-13 22:57:12+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/14/far-far-away/
 slug: far-far-away
 title: far far away

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-06-01 20:29:12+00:00
-layout: post
 link: http://habi.gna.ch/2015/06/01/big-wide-world/
 slug: big-wide-world
 title: Big Wide World

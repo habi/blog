@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-02-19 21:42:11+00:00
-layout: post
 link: http://habi.gna.ch/2015/02/19/bosozoku/
 slug: bosozoku
 title: Bosozoku

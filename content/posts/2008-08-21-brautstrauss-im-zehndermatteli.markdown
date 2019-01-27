@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-08-21 17:54:02+00:00
-layout: post
 link: http://habi.gna.ch/2008/08/21/brautstrauss-im-zehndermatteli/
 slug: brautstrauss-im-zehndermatteli
 title: brautstrauss im zehndermätteli

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-10-08 18:59:00+00:00
-layout: post
 link: http://habi.gna.ch/2009/10/08/meine-frau-mein-auto-mein-haus/
 slug: meine-frau-mein-auto-mein-haus
 title: meine frau, mein auto, mein haus

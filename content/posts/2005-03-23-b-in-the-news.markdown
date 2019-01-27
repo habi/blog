@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-03-23 05:57:55+00:00
-layout: post
 link: http://habi.gna.ch/2005/03/23/b-in-the-news/
 slug: b-in-the-news
 title: b. in the news

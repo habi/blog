@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-08 09:06:30+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/08/sbaw-a-retrospective-and-picture-of-the-week-18/
 slug: sbaw-a-retrospective-and-picture-of-the-week-18
 title: SBAW, a retrospective and picture of the week 18

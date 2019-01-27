@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-01-02 13:27:58+00:00
-layout: post
 link: http://habi.gna.ch/2012/01/02/letzter-tauchgang-im-2011/
 slug: letzter-tauchgang-im-2011
 title: Ein letzter Tauchgang im 2011

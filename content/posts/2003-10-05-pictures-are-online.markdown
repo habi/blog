@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-05 21:40:22+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/05/pictures-are-online/
 slug: pictures-are-online
 title: pictures are online

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-13 07:59:19+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/13/dinner-fr-spinner/
 slug: dinner-fr-spinner
 title: Dinner für Spinner

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-03 12:45:52+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/03/hugo-koblet/
 slug: hugo-koblet
 title: Hugo Koblet

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-04-06 22:07:30+00:00
-layout: post
 link: http://habi.gna.ch/2010/04/07/17-minuten-krieg/
 slug: 17-minuten-krieg
 title: 17 minuten krieg [update]

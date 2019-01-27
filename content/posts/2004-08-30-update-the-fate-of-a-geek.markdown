@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-08-30 17:41:37+00:00
-layout: post
 link: http://habi.gna.ch/2004/08/30/update-the-fate-of-a-geek/
 slug: update-the-fate-of-a-geek
 title: '[update] the fate of a geek'

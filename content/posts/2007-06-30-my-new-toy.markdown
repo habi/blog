@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-30 16:10:10+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/30/my-new-toy/
 slug: my-new-toy
 title: my new toy

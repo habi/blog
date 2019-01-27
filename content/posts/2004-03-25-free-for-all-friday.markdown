@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-25 07:27:04+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/25/free-for-all-friday/
 slug: free-for-all-friday
 title: Free-For-All Friday

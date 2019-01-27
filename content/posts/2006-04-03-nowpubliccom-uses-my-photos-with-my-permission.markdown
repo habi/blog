@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-04-03 19:44:24+00:00
-layout: post
 link: http://habi.gna.ch/2006/04/03/nowpubliccom-uses-my-photos-with-my-permission/
 slug: nowpubliccom-uses-my-photos-with-my-permission
 title: nowpublic.com uses my photos (with my permission)

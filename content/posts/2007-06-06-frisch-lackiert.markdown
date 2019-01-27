@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-06 13:01:11+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/06/frisch-lackiert/
 slug: frisch-lackiert
 title: frisch lackiert!

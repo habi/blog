@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-19 18:41:19+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/19/water-temperatures-on-mapsearchch/
 slug: water-temperatures-on-mapsearchch
 title: water temperatures on map.search.ch

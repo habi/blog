@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-07 20:49:47+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/07/something-for-the-next-blgmdybrn/
 slug: something-for-the-next-blgmdybrn
 title: something for the next BLGMDYBRN

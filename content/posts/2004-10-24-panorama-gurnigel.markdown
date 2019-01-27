@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-24 18:55:07+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/24/panorama-gurnigel/
 slug: panorama-gurnigel
 title: panorama gurnigel

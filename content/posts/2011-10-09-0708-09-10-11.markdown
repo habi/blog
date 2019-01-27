@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-10-09 05:08:08+00:00
-layout: post
 link: http://habi.gna.ch/2011/10/09/0708-09-10-11/
 slug: 0708-09-10-11
 title: 07:08 09.10.11

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-02-12 22:07:03+00:00
-layout: post
 link: http://habi.gna.ch/2006/02/13/this-blog-is-now-cocomment-enabled/
 slug: this-blog-is-now-cocomment-enabled
 title: this blog is now cocomment enabled!

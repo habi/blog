@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-11-24 19:30:58+00:00
-layout: post
 link: http://habi.gna.ch/2005/11/24/critical-mass-in-bern/
 slug: critical-mass-in-bern
 title: critical mass in bern

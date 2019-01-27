@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-12-11 07:55:26+00:00
-layout: post
 link: http://habi.gna.ch/2008/12/11/wordpress-27/
 slug: wordpress-27
 title: wordpress 2.7

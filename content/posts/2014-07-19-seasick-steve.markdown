@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-07-19 20:36:03+00:00
-layout: post
 link: http://habi.gna.ch/2014/07/19/seasick-steve/
 slug: seasick-steve
 title: Seasick Steve

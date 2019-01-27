@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-06 09:56:39+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/06/last-try/
 slug: last-try
 title: last try :-)

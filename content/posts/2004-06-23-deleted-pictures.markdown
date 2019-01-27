@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-23 20:40:42+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/23/deleted-pictures/
 slug: deleted-pictures
 title: deleted pictures

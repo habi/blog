@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-20 21:59:47+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/20/this-is-flashy/
 slug: this-is-flashy
 title: this is flashy!

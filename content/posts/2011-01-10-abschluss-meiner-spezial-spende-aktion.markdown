@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-01-10 21:01:48+00:00
-layout: post
 link: http://habi.gna.ch/2011/01/10/abschluss-meiner-spezial-spende-aktion/
 slug: abschluss-meiner-spezial-spende-aktion
 title: Abschluss meiner Spezial-Spende-Aktion

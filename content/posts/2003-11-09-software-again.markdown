@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-09 21:02:57+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/09/software-again/
 slug: software-again
 title: software again

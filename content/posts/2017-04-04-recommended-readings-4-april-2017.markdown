@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-04-04 19:21:34+00:00
-layout: post
 link: http://habi.gna.ch/2017/04/04/recommended-readings-4-april-2017/
 slug: recommended-readings-4-april-2017
 title: 'Recommended readings: 4. April 2017'

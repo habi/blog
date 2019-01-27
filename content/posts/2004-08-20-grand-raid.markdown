@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-08-20 23:56:29+00:00
-layout: post
 link: http://habi.gna.ch/2004/08/21/grand-raid/
 slug: grand-raid
 title: grand raid

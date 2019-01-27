@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-10 16:33:36+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/10/the-grand-challenge-will-be-not-so-grand/
 slug: the-grand-challenge-will-be-not-so-grand
 title: the grand challenge will be not so grand

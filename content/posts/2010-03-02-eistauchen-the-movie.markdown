@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-03-02 22:52:10+00:00
-layout: post
 link: http://habi.gna.ch/2010/03/03/eistauchen-the-movie/
 slug: eistauchen-the-movie
 title: Eistauchen the Movie

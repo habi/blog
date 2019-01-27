@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-11-29 21:59:24+00:00
-layout: post
 link: http://habi.gna.ch/2004/11/29/sneak-a-peak/
 slug: sneak-a-peak
 title: sneak a peak!

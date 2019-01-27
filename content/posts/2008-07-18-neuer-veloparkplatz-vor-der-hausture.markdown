@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-07-18 18:13:21+00:00
-layout: post
 link: http://habi.gna.ch/2008/07/18/neuer-veloparkplatz-vor-der-hausture/
 slug: neuer-veloparkplatz-vor-der-hausture
 title: neuer veloparkplatz vor der haustüre

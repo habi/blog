@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-03-29 21:10:17+00:00
-layout: post
 link: http://habi.gna.ch/2006/03/29/automatic-bicycle-pump/
 slug: automatic-bicycle-pump
 title: automatic bicycle pump

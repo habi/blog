@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-08-19 18:17:28+00:00
-layout: post
 link: http://habi.gna.ch/2013/08/19/mein-review-der-pebble-uhr/
 slug: mein-review-der-pebble-uhr
 title: Mein "Review" der Pebble-Uhr

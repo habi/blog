@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-01-27 07:38:25+00:00
-layout: post
 link: http://habi.gna.ch/2007/01/27/wordpress-song/
 slug: wordpress-song
 title: wordpress song

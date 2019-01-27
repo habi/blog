@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-29 10:32:23+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/29/my-phonebill-puzzles-me-update/
 slug: my-phonebill-puzzles-me-update
 title: my phonebill puzzles me [update]

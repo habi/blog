@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-07 20:14:46+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/07/what-a-nice-404/
 slug: what-a-nice-404
 title: what a nice 404!

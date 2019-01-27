@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-21 16:45:07+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/21/dienstaltester-blogger-echt/
 slug: dienstaltester-blogger-echt
 title: Dienstältester Blogger, echt?

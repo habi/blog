@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-04-30 15:30:09+00:00
-layout: post
 link: http://habi.gna.ch/2004/04/30/ostro/
 slug: ostro
 title: ostro

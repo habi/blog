@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-24 11:46:23+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/24/meine-guten-vorsatze-furs-2007/
 slug: meine-guten-vorsatze-furs-2007
 title: meine guten vorsätze fürs 2007... [update]

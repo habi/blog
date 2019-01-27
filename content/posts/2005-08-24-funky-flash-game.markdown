@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-08-24 20:23:31+00:00
-layout: post
 link: http://habi.gna.ch/2005/08/24/funky-flash-game/
 slug: funky-flash-game
 title: funky flash game

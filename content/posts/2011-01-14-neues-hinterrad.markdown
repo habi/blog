@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-01-14 11:46:49+00:00
-layout: post
 link: http://habi.gna.ch/2011/01/14/neues-hinterrad/
 slug: neues-hinterrad
 title: Neues Hinterrad

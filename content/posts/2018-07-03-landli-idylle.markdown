@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-07-03 22:42:28+00:00
-layout: post
 link: http://habi.gna.ch/2018/07/04/landli-idylle/
 slug: landli-idylle
 title: Ländli-Idylle

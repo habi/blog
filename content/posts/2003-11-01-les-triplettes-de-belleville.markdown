@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-11-01 22:52:28+00:00
-layout: post
 link: http://habi.gna.ch/2003/11/02/les-triplettes-de-belleville/
 slug: les-triplettes-de-belleville
 title: les triplettes de belleville

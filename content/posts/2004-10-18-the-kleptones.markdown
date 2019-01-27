@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-18 10:35:32+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/18/the-kleptones/
 slug: the-kleptones
 title: the kleptones

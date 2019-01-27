@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-10 16:24:25+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/10/picture-of-the-week-36/
 slug: picture-of-the-week-36
 title: picture of the week 36

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-04-15 20:27:04+00:00
-layout: post
 link: http://habi.gna.ch/2013/04/15/pixmix-60/
 slug: pixmix-60
 title: PixMix 60 [update]

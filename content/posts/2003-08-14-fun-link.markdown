@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-08-14 22:24:49+00:00
-layout: post
 link: http://habi.gna.ch/2003/08/15/fun-link/
 slug: fun-link
 title: fun link

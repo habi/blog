@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-09-26 22:18:45+00:00
-layout: post
 link: http://habi.gna.ch/2010/09/27/da-ging-wohl-was-schief/
 slug: da-ging-wohl-was-schief
 title: Da ging wohl 'was schief

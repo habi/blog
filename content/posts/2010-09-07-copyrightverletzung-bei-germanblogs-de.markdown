@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-09-07 09:15:21+00:00
-layout: post
 link: http://habi.gna.ch/2010/09/07/copyrightverletzung-bei-germanblogs-de/
 slug: copyrightverletzung-bei-germanblogs-de
 title: Copyrightverletzung bei germanblogs.de [update]

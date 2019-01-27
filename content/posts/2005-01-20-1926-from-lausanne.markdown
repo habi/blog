@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-20 19:29:28+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/20/1926-from-lausanne/
 slug: 1926-from-lausanne
 title: 19.26 from lausanne

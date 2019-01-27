@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-09-25 21:06:57+00:00
-layout: post
 link: http://habi.gna.ch/2006/09/25/about/
 slug: about
 title: About me

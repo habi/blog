@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-03 12:40:21+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/03/oh-no/
 slug: oh-no
 title: Oh no!

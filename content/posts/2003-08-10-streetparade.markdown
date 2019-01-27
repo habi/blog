@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-08-10 21:10:51+00:00
-layout: post
 link: http://habi.gna.ch/2003/08/10/streetparade/
 slug: streetparade
 title: streetparade

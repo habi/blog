@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-12-22 21:47:21+00:00
-layout: post
 link: http://habi.gna.ch/2005/12/22/blogugch-is-working/
 slug: blogugch-is-working
 title: '*.blogug.ch is working'

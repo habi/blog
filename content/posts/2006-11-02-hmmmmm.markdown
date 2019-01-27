@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-02 14:01:04+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/02/hmmmmm/
 slug: hmmmmm
 title: hmmmmm [update]

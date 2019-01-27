@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-29 12:56:02+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/29/wunderwetter/
 slug: wunderwetter
 title: Wunderwetter

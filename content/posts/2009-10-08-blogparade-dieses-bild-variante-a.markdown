@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-10-08 19:28:20+00:00
-layout: post
 link: http://habi.gna.ch/2009/10/08/blogparade-dieses-bild-variante-a/
 slug: blogparade-dieses-bild-variante-a
 title: 'blogparade: dieses bild... (variante a)'

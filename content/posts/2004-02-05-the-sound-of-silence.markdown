@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-05 19:05:47+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/05/the-sound-of-silence/
 slug: the-sound-of-silence
 title: the sound of silence

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-03-16 13:30:31+00:00
-layout: post
 link: http://habi.gna.ch/2005/03/16/18-and-rising/
 slug: 18-and-rising
 title: 18° and rising.

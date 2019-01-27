@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-20 10:08:16+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/20/wintersport-im-guntenbad/
 slug: wintersport-im-guntenbad
 title: Wintersport im Guntenbad

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-07-08 16:43:27+00:00
-layout: post
 link: http://habi.gna.ch/2007/07/08/stefan-sagmeister-on-design-and-happiness-video/
 slug: stefan-sagmeister-on-design-and-happiness-video
 title: stefan sagmeister on design and happiness [video]

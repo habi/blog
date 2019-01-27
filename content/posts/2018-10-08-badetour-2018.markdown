@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-10-08 18:57:21+00:00
-layout: post
 link: http://habi.gna.ch/2018/10/08/badetour-2018/
 slug: badetour-2018
 title: Badetour 2018

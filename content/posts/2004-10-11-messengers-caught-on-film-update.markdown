@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-11 23:05:50+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/12/messengers-caught-on-film-update/
 slug: messengers-caught-on-film-update
 title: messengers caught on film [update]

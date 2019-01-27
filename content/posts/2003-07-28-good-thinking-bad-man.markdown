@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-07-28 19:45:02+00:00
-layout: post
 link: http://habi.gna.ch/2003/07/28/good-thinking-bad-man/
 slug: good-thinking-bad-man
 title: good thinking bad man!

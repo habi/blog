@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-09-24 18:49:42+00:00
-layout: post
 link: http://habi.gna.ch/2008/09/24/panorama-erstellung-auf-dem-iphone/
 slug: panorama-erstellung-auf-dem-iphone
 title: panorama-erstellung auf dem iphone

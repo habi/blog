@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-05 22:15:05+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/06/picture-of-the-week-44-2/
 slug: picture-of-the-week-44-2
 title: picture of the week 44

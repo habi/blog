@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-04-09 11:30:08+00:00
-layout: post
 link: http://habi.gna.ch/2010/04/09/gratispfosten/
 slug: gratispfosten
 title: Gratispfosten

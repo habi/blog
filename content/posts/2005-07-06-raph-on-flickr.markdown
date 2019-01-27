@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-06 22:45:47+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/07/raph-on-flickr/
 slug: raph-on-flickr
 title: raph on flickr

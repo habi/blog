@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-06-26 21:19:53+00:00
-layout: post
 link: http://habi.gna.ch/2010/06/26/ein-schnappchen-fur-die-dame/
 slug: ein-schnappchen-fur-die-dame
 title: Ein Schnäppchen für die Dame [Video]

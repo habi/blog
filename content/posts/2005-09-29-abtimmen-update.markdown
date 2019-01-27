@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-29 20:14:30+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/29/abtimmen-update/
 slug: abtimmen-update
 title: abstimmen! [update]

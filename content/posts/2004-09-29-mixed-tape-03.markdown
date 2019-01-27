@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-29 21:13:58+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/29/mixed-tape-03/
 slug: mixed-tape-03
 title: mixed tape 03

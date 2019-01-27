@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-07-28 21:26:22+00:00
-layout: post
 link: http://habi.gna.ch/2004/07/28/help-wanted/
 slug: help-wanted
 title: help wanted

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-10-25 14:04:03+00:00
-layout: post
 link: http://habi.gna.ch/2015/10/25/uh-isch-das-schon-im-waud/
 slug: uh-isch-das-schon-im-waud
 title: Üh, isch das schön im Waud!

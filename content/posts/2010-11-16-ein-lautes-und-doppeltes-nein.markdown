@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-16 17:40:00+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/16/ein-lautes-und-doppeltes-nein/
 slug: ein-lautes-und-doppeltes-nein
 title: ein lautes und doppeltes NEIN!

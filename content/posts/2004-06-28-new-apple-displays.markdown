@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-28 19:37:51+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/28/new-apple-displays/
 slug: new-apple-displays
 title: new apple displays

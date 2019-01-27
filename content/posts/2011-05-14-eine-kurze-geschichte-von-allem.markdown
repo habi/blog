@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-05-14 19:48:23+00:00
-layout: post
 link: http://habi.gna.ch/2011/05/14/eine-kurze-geschichte-von-allem/
 slug: eine-kurze-geschichte-von-allem
 title: Eine kurze Geschichte von Allem

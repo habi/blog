@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-05-15 14:01:50+00:00
-layout: post
 link: http://habi.gna.ch/2011/05/15/grand-prix-von-bern-2011/
 slug: grand-prix-von-bern-2011
 title: Grand-Prix von Bern 2011

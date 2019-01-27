@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-08-28 18:20:09+00:00
-layout: post
 link: http://habi.gna.ch/2015/08/28/das-zweit-wichtigste-zugeln-wir-zuerst/
 slug: das-zweit-wichtigste-zugeln-wir-zuerst
 title: Das (zweit) wichtigste zügeln wir zuerst

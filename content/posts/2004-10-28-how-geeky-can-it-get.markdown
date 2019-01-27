@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-28 20:54:46+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/28/how-geeky-can-it-get/
 slug: how-geeky-can-it-get
 title: how geeky can it get?

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-09-03 19:24:37+00:00
-layout: post
 link: http://habi.gna.ch/2006/09/03/blgmndybrn-morgen-abend/
 slug: blgmndybrn-morgen-abend
 title: BLGMNDYBRN morgen abend

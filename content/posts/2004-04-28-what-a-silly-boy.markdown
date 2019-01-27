@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-04-28 21:53:27+00:00
-layout: post
 link: http://habi.gna.ch/2004/04/28/what-a-silly-boy/
 slug: what-a-silly-boy
 title: what a silly boy.

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-07-10 20:32:04+00:00
-layout: post
 link: http://habi.gna.ch/2009/07/10/silo8-2/
 slug: silo8-2
 title: Silo8

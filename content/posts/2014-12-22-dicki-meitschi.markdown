@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-12-22 18:32:39+00:00
-layout: post
 link: http://habi.gna.ch/2014/12/22/dicki-meitschi/
 slug: dicki-meitschi
 title: Dicki Meitschi

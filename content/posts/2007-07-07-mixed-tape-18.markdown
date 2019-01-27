@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-07-07 12:43:05+00:00
-layout: post
 link: http://habi.gna.ch/2007/07/07/mixed-tape-18/
 slug: mixed-tape-18
 title: mixed-tape 18

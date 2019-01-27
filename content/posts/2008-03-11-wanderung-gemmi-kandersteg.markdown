@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-11 18:13:57+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/11/wanderung-gemmi-kandersteg/
 slug: wanderung-gemmi-kandersteg
 title: wanderung gemmi - kandersteg [with map]

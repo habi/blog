@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-10-25 14:44:19+00:00
-layout: post
 link: http://habi.gna.ch/2008/10/25/virtualbox-rocks/
 slug: virtualbox-rocks
 title: virtualbox rocks!

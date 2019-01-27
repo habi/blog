@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-20 17:59:39+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/20/commenter-and-comment-time-in-the-sidebar/
 slug: commenter-and-comment-time-in-the-sidebar
 title: commenter and comment time in the sidebar

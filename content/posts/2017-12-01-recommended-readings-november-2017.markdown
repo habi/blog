@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-12-01 22:31:05+00:00
-layout: post
 link: http://habi.gna.ch/2017/12/01/recommended-readings-november-2017/
 slug: recommended-readings-november-2017
 title: 'Recommended Readings: November 2017'

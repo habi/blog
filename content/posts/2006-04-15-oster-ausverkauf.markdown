@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-04-15 12:46:37+00:00
-layout: post
 link: http://habi.gna.ch/2006/04/15/oster-ausverkauf/
 slug: oster-ausverkauf
 title: oster-ausverkauf!

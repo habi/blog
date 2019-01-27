@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-11-21 16:00:24+00:00
-layout: post
 link: http://habi.gna.ch/2010/11/21/pix-mix-44-am-kommenden-mittwoch/
 slug: pix-mix-44-am-kommenden-mittwoch
 title: Pix-Mix 44 am kommenden Mittwoch

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-09-14 19:48:30+00:00
-layout: post
 link: http://habi.gna.ch/2008/09/14/suicmc0/
 slug: suicmc0
 title: suicmc08

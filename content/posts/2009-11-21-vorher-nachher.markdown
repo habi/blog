@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-11-21 12:03:49+00:00
-layout: post
 link: http://habi.gna.ch/2009/11/21/vorher-nachher/
 slug: vorher-nachher
 title: vorher - nachher

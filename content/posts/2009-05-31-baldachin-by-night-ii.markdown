@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-05-31 22:40:37+00:00
-layout: post
 link: http://habi.gna.ch/2009/06/01/baldachin-by-night-ii/
 slug: baldachin-by-night-ii
 title: Baldachin by Night II

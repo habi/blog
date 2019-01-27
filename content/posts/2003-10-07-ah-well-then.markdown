@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-07 16:40:47+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/07/ah-well-then/
 slug: ah-well-then
 title: ah well then!

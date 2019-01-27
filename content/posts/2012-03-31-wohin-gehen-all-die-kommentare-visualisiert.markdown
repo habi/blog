@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-03-31 18:41:12+00:00
-layout: post
 link: http://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/
 slug: wohin-gehen-all-die-kommentare-visualisiert
 title: Wohin gehen all die Kommentare, visualisiert

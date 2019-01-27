@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-02-01 19:57:16+00:00
-layout: post
 link: http://habi.gna.ch/2006/02/01/picture-of-the-week-04/
 slug: picture-of-the-week-04
 title: picture of the week 04

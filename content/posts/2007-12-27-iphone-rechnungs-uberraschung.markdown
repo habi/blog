@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-27 14:31:53+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/27/iphone-rechnungs-uberraschung/
 slug: iphone-rechnungs-uberraschung
 title: iphone-rechnungs-überraschung

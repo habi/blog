@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-12 14:56:05+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/12/etwas-gar-viel-werbung/
 slug: etwas-gar-viel-werbung
 title: etwas gar viel werbung...

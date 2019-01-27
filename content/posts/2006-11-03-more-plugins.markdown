@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-03 20:19:59+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/03/more-plugins/
 slug: more-plugins
 title: more plugins!

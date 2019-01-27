@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-23 19:33:04+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/23/ich-hab-nen-neuen-job/
 slug: ich-hab-nen-neuen-job
 title: ich hab 'nen neuen job!

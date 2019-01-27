@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-08-03 16:35:20+00:00
-layout: post
 link: http://habi.gna.ch/2005/08/03/kinder-eggs-are-a-scam/
 slug: kinder-eggs-are-a-scam
 title: kinder eggs are a scam!

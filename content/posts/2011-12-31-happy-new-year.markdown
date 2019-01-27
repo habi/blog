@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-12-31 23:00:37+00:00
-layout: post
 link: http://habi.gna.ch/2012/01/01/happy-new-year/
 slug: happy-new-year
 title: Happy New Year!

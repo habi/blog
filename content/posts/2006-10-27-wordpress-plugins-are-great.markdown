@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-10-27 15:44:31+00:00
-layout: post
 link: http://habi.gna.ch/2006/10/27/wordpress-plugins-are-great/
 slug: wordpress-plugins-are-great
 title: wordpress plugins are great!

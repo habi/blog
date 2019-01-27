@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-01-02 12:36:45+00:00
-layout: post
 link: http://habi.gna.ch/2006/01/02/picture-of-the-week-52/
 slug: picture-of-the-week-52
 title: picture of the week 52

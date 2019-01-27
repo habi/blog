@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-02-23 09:28:18+00:00
-layout: post
 link: http://habi.gna.ch/2008/02/23/gurtenfestival-2008/
 slug: gurtenfestival-2008
 title: gurtenfestival 2008

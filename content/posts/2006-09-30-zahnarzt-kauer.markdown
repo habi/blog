@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-09-30 17:13:47+00:00
-layout: post
 link: http://habi.gna.ch/2006/09/30/zahnarzt-kauer/
 slug: zahnarzt-kauer
 title: zahnarzt kauer

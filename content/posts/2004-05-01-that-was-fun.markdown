@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-01 11:43:39+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/01/that-was-fun/
 slug: that-was-fun
 title: that was fun!

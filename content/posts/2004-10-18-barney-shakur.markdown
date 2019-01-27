@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-18 20:36:50+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/18/barney-shakur/
 slug: barney-shakur
 title: barney shakur

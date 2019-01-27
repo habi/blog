@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-10-24 21:47:17+00:00
-layout: post
 link: http://habi.gna.ch/2015/10/24/digitale-archivare/
 slug: digitale-archivare
 title: Digitale Archivare

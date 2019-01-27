@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-10-14 21:29:07+00:00
-layout: post
 link: http://habi.gna.ch/2018/10/14/oberstockensee/
 slug: oberstockensee
 title: Oberstockensee

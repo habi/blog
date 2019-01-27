@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-07 21:53:34+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/07/k700i-and-isync-or-k700i-isync/
 slug: k700i-and-isync-or-k700i-isync
 title: k700i and isync (or k700i & isync :-)

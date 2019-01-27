@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-12-19 19:43:08+00:00
-layout: post
 link: http://habi.gna.ch/2012/12/19/churchill-chachelimarit/
 slug: churchill-chachelimarit
 title: Churchill - Chachelimärit

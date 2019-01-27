@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-08-29 20:27:27+00:00
-layout: post
 link: http://habi.gna.ch/2004/08/29/a-new-job/
 slug: a-new-job
 title: a new job?

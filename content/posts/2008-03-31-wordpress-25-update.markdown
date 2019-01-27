@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-31 18:21:13+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/31/wordpress-25-update/
 slug: wordpress-25-update
 title: wordpress 2.5 update

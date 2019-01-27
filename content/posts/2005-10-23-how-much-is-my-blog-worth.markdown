@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-10-23 20:26:38+00:00
-layout: post
 link: http://habi.gna.ch/2005/10/23/how-much-is-my-blog-worth/
 slug: how-much-is-my-blog-worth
 title: how much is my blog worth?

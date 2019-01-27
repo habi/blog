@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-04 13:55:58+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/04/offlineholidays/
 slug: offlineholidays
 title: offline/holidays

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-07-30 12:28:39+00:00
-layout: post
 link: http://habi.gna.ch/2004/07/30/hoverbike/
 slug: hoverbike
 title: hoverbike

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-01 10:32:08+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/01/adventskalender-bei-neuerdingscom/
 slug: adventskalender-bei-neuerdingscom
 title: adventskalender bei neuerdings.com

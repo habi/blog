@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-12-14 21:17:41+00:00
-layout: post
 link: http://habi.gna.ch/2007/12/14/ferientage-with-map/
 slug: ferientage-with-map
 title: ferientage [with map]

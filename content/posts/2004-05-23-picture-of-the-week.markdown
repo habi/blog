@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-23 17:41:35+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/23/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week

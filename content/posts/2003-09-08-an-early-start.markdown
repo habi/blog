@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-09-08 18:09:33+00:00
-layout: post
 link: http://habi.gna.ch/2003/09/08/an-early-start/
 slug: an-early-start
 title: an early start?

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-01-02 21:11:41+00:00
-layout: post
 link: http://habi.gna.ch/2006/01/02/cute-overload-a-new-blog-in-my-feed-reader/
 slug: cute-overload-a-new-blog-in-my-feed-reader
 title: 'cute overload: a new blog in my feed-reader'

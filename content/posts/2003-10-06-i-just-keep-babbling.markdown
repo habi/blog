@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-06 18:34:01+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/06/i-just-keep-babbling/
 slug: i-just-keep-babbling
 title: i just keep babbling

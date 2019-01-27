@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-10-11 21:34:18+00:00
-layout: post
 link: http://habi.gna.ch/2007/10/11/sms-dashboard-widget-fur-mymobilesunrisech/
 slug: sms-dashboard-widget-fur-mymobilesunrisech
 title: sms dashboard-widget für mymobile.sunrise.ch

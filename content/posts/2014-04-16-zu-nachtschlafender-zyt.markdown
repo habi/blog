@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-04-16 19:05:56+00:00
-layout: post
 link: http://habi.gna.ch/2014/04/16/zu-nachtschlafender-zyt/
 slug: zu-nachtschlafender-zyt
 title: Zu nachtschlafender Zyt

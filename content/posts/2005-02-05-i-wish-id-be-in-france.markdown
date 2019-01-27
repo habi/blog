@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-02-05 14:58:45+00:00
-layout: post
 link: http://habi.gna.ch/2005/02/05/i-wish-id-be-in-france/
 slug: i-wish-id-be-in-france
 title: i wish i'd be in france

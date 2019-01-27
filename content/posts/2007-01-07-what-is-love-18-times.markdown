@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-01-07 23:20:16+00:00
-layout: post
 link: http://habi.gna.ch/2007/01/08/what-is-love-18-times/
 slug: what-is-love-18-times
 title: what is love? (18 times)

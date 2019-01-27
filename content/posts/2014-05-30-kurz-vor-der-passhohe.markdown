@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-05-30 15:19:16+00:00
-layout: post
 link: http://habi.gna.ch/2014/05/30/kurz-vor-der-passhohe/
 slug: kurz-vor-der-passhohe
 title: Kurz vor der Passhöhe

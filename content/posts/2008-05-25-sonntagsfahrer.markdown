@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-05-25 16:42:55+00:00
-layout: post
 link: http://habi.gna.ch/2008/05/25/sonntagsfahrer/
 slug: sonntagsfahrer
 title: sonntagsfahrer!

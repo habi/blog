@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-11-19 17:08:34+00:00
-layout: post
 link: http://habi.gna.ch/2006/11/19/deppenapostroph-in-chur/
 slug: deppenapostroph-in-chur
 title: deppenapostroph in chur

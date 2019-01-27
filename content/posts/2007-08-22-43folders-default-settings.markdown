@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-08-22 20:46:40+00:00
-layout: post
 link: http://habi.gna.ch/2007/08/22/43folders-default-settings/
 slug: 43folders-default-settings
 title: 43folders - default settings

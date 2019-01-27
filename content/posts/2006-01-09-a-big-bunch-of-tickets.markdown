@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-01-09 19:05:47+00:00
-layout: post
 link: http://habi.gna.ch/2006/01/09/a-big-bunch-of-tickets/
 slug: a-big-bunch-of-tickets
 title: a big bunch of tickets

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-06-01 20:24:49+00:00
-layout: post
 link: http://habi.gna.ch/2013/06/01/mein-mai/
 slug: mein-mai
 title: Mein Mai

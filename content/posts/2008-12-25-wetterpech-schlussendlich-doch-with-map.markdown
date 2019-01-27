@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-12-25 17:57:14+00:00
-layout: post
 link: http://habi.gna.ch/2008/12/25/wetterpech-schlussendlich-doch-with-map/
 slug: wetterpech-schlussendlich-doch-with-map
 title: wetterpech, schlussendlich doch [with map]

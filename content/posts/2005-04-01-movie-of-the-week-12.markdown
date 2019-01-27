@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-01 18:08:15+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/01/movie-of-the-week-12/
 slug: movie-of-the-week-12
 title: movie of the week 12

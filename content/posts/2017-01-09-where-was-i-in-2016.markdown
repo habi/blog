@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-01-09 22:09:37+00:00
-layout: post
 link: http://habi.gna.ch/2017/01/09/where-was-i-in-2016/
 slug: where-was-i-in-2016
 title: Where was I in 2016

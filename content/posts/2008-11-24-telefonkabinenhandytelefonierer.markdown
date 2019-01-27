@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-11-24 07:31:45+00:00
-layout: post
 link: http://habi.gna.ch/2008/11/24/telefonkabinenhandytelefonierer/
 slug: telefonkabinenhandytelefonierer
 title: Telefonkabinenhandytelefonierer

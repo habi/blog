@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-10-10 12:28:43+00:00
-layout: post
 link: http://habi.gna.ch/2005/10/10/picture-of-the-week-40/
 slug: picture-of-the-week-40
 title: picture of the week 40

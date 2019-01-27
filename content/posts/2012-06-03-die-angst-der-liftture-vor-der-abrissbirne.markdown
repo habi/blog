@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-06-03 16:07:47+00:00
-layout: post
 link: http://habi.gna.ch/2012/06/03/die-angst-der-liftture-vor-der-abrissbirne/
 slug: die-angst-der-liftture-vor-der-abrissbirne
 title: Die Angst der Lifttüre vor der Abrissbirne

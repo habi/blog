@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-22 20:36:23+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/22/new-mobile-phone/
 slug: new-mobile-phone
 title: new mobile phone

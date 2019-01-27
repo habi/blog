@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-23 17:23:26+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/23/lost-in-translation/
 slug: lost-in-translation
 title: lost in translation

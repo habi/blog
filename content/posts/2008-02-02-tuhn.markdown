@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-02-02 17:51:17+00:00
-layout: post
 link: http://habi.gna.ch/2008/02/02/tuhn/
 slug: tuhn
 title: Tuhn?

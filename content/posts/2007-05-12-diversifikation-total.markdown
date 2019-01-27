@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-05-12 11:09:13+00:00
-layout: post
 link: http://habi.gna.ch/2007/05/12/diversifikation-total/
 slug: diversifikation-total
 title: diversifikation total

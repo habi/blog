@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-17 14:08:50+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/17/this-blog-is-now-gravatar-enabled/
 slug: this-blog-is-now-gravatar-enabled
 title: this blog is now gravatar enabled

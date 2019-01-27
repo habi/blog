@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-05-05 23:19:04+00:00
-layout: post
 link: http://habi.gna.ch/2006/05/06/bloggrrrcom/
 slug: bloggrrrcom
 title: bloggrrr.com

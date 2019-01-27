@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-10-31 13:21:53+00:00
-layout: post
 link: http://habi.gna.ch/2009/10/31/54-20-4m-12%e2%80%a2-gipsunion/
 slug: 54-20-4m-12%e2%80%a2-gipsunion
 title: 54' | 20.4m | 12â€¢ | Gipsunion

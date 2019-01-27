@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-12-09 20:58:37+00:00
-layout: post
 link: http://habi.gna.ch/2015/12/09/nebelmeer-aufm-gurten/
 slug: nebelmeer-aufm-gurten
 title: Nebelmeer aufm Gurten

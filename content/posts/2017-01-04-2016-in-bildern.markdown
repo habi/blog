@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-01-04 21:43:35+00:00
-layout: post
 link: http://habi.gna.ch/2017/01/04/2016-in-bildern/
 slug: 2016-in-bildern
 title: 2016 in Bildern

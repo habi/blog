@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-17 22:39:03+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/18/picture-of-the-week-02/
 slug: picture-of-the-week-02
 title: picture of the week 02

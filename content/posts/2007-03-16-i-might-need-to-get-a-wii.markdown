@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-16 17:12:49+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/16/i-might-need-to-get-a-wii/
 slug: i-might-need-to-get-a-wii
 title: i might need to get a wii....

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-11-06 17:58:01+00:00
-layout: post
 link: http://habi.gna.ch/2007/11/06/glueckskaefer/
 slug: glueckskaefer
 title: Glueckskaefer

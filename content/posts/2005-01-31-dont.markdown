@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-31 21:53:09+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/31/dont/
 slug: dont
 title: don't!

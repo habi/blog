@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-09 11:52:56+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/09/one-2do-item-done/
 slug: one-2do-item-done
 title: one 2do-item done

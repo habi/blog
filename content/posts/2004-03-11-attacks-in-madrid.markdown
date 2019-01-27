@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-11 16:53:13+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/11/attacks-in-madrid/
 slug: attacks-in-madrid
 title: attacks in madrid

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-08-21 12:27:42+00:00
-layout: post
 link: http://habi.gna.ch/2010/08/21/zeitraffer-in-island/
 slug: zeitraffer-in-island
 title: Zeitraffer in Island

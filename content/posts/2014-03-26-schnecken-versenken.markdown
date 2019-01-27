@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-03-26 20:55:43+00:00
-layout: post
 link: http://habi.gna.ch/2014/03/26/schnecken-versenken/
 slug: schnecken-versenken
 title: Schnecken versenken

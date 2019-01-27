@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-04-21 15:57:13+00:00
-layout: post
 link: http://habi.gna.ch/2004/04/21/amazing-gizmo/
 slug: amazing-gizmo
 title: amazing gizmo

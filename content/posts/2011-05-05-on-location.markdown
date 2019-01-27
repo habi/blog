@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-05-05 19:31:45+00:00
-layout: post
 link: http://habi.gna.ch/2011/05/05/on-location/
 slug: on-location
 title: On Location

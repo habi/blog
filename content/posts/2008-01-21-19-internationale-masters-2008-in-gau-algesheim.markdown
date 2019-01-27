@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-21 22:22:34+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/21/19-internationale-masters-2008-in-gau-algesheim/
 slug: 19-internationale-masters-2008-in-gau-algesheim
 title: 19. Internationale Masters 2008 in Gau-Algesheim

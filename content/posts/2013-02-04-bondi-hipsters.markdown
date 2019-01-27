@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-02-04 19:37:02+00:00
-layout: post
 link: http://habi.gna.ch/2013/02/04/bondi-hipsters/
 slug: bondi-hipsters
 title: Bondi Hipsters

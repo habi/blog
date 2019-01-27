@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-02-04 19:19:11+00:00
-layout: post
 link: http://habi.gna.ch/2013/02/04/sprachexperiment/
 slug: sprachexperiment
 title: Sprachexperiment

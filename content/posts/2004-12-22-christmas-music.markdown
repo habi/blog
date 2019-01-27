@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-12-22 21:47:22+00:00
-layout: post
 link: http://habi.gna.ch/2004/12/22/christmas-music/
 slug: christmas-music
 title: christmas music

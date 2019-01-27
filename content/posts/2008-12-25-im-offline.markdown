@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-12-25 20:49:42+00:00
-layout: post
 link: http://habi.gna.ch/2008/12/25/im-offline/
 slug: im-offline
 title: i'm offline

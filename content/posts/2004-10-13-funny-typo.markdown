@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-13 22:15:54+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/14/funny-typo/
 slug: funny-typo
 title: funny typo

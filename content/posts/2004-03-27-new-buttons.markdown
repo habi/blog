@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-27 09:41:43+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/27/new-buttons/
 slug: new-buttons
 title: new buttons

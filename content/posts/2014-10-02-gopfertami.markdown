@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-10-02 19:30:46+00:00
-layout: post
 link: http://habi.gna.ch/2014/10/02/gopfertami/
 slug: gopfertami
 title: Gopfertami!

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-08-29 17:33:41+00:00
-layout: post
 link: http://habi.gna.ch/2005/08/29/picture-of-the-week-33-1/
 slug: picture-of-the-week-33-1
 title: picture of the week 33 [1]

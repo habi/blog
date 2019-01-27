@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-07-15 18:43:24+00:00
-layout: post
 link: http://habi.gna.ch/2008/07/15/lustiger-spam/
 slug: lustiger-spam
 title: lustiger spam

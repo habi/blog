@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-07 20:37:28+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/07/new-apple-gadget/
 slug: new-apple-gadget
 title: new apple gadget

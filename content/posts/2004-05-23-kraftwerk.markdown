@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-23 10:51:10+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/23/kraftwerk/
 slug: kraftwerk
 title: kraftwerk

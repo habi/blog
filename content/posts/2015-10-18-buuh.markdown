@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-10-18 16:37:48+00:00
-layout: post
 link: http://habi.gna.ch/2015/10/18/buuh/
 slug: buuh
 title: Buuh!

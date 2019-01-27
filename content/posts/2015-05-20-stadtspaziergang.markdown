@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-05-20 12:46:53+00:00
-layout: post
 link: http://habi.gna.ch/2015/05/20/stadtspaziergang/
 slug: stadtspaziergang
 title: Stadtspaziergang

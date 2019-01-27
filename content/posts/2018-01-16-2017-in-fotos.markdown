@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-01-16 20:21:20+00:00
-layout: post
 link: http://habi.gna.ch/2018/01/16/2017-in-fotos/
 slug: 2017-in-fotos
 title: 2017 in Fotos

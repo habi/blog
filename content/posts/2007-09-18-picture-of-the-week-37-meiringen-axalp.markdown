@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-09-18 20:55:54+00:00
-layout: post
 link: http://habi.gna.ch/2007/09/18/picture-of-the-week-37-meiringen-axalp/
 slug: picture-of-the-week-37-meiringen-axalp
 title: 'picture of the week 37: meiringen-axalp '

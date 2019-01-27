@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-29 20:25:04+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/29/garagebang/
 slug: garagebang
 title: garagebang

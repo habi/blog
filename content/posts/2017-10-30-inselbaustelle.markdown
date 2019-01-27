@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-10-30 11:55:17+00:00
-layout: post
 link: http://habi.gna.ch/2017/10/30/inselbaustelle/
 slug: inselbaustelle
 title: Inselbaustelle

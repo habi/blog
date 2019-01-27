@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-07-15 15:08:16+00:00
-layout: post
 link: http://habi.gna.ch/2015/07/15/das-likemag-kanns-nicht-so-mit-copyright/
 slug: das-likemag-kanns-nicht-so-mit-copyright
 title: Das LikeMag kann's nicht so mit Copyright

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-09-24 10:25:34+00:00
-layout: post
 link: http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/
 slug: zrich-im-zeitraffer
 title: Zürich im Zeitraffer

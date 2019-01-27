@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-06-21 19:38:19+00:00
-layout: post
 link: http://habi.gna.ch/2012/06/21/sonderzeichen-probleme/
 slug: sonderzeichen-probleme
 title: Sonderzeichen-Probleme

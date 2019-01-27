@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-04-11 20:55:07+00:00
-layout: post
 link: http://habi.gna.ch/2006/04/11/hard-bloggin-scientist/
 slug: hard-bloggin-scientist
 title: hard bloggin' scientist

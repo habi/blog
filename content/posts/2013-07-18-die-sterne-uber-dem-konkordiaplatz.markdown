@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-07-18 13:21:12+00:00
-layout: post
 link: http://habi.gna.ch/2013/07/18/die-sterne-uber-dem-konkordiaplatz/
 slug: die-sterne-uber-dem-konkordiaplatz
 title: Die Sterne über dem Konkordiaplatz

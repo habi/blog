@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-09-01 19:00:27+00:00
-layout: post
 link: http://habi.gna.ch/2015/09/01/recommended-readings-1-september-2015/
 slug: recommended-readings-1-september-2015
 title: 'Recommended readings: 1. September 2015'

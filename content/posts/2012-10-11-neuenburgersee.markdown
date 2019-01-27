@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-10-11 17:18:51+00:00
-layout: post
 link: http://habi.gna.ch/2012/10/11/neuenburgersee/
 slug: neuenburgersee
 title: Neuenburgersee

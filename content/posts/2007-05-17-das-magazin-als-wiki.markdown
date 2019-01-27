@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-05-17 14:22:49+00:00
-layout: post
 link: http://habi.gna.ch/2007/05/17/das-magazin-als-wiki/
 slug: das-magazin-als-wiki
 title: das magazin als wiki

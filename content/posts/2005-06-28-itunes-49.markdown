@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-06-28 22:25:52+00:00
-layout: post
 link: http://habi.gna.ch/2005/06/29/itunes-49/
 slug: itunes-49
 title: itunes 4.9

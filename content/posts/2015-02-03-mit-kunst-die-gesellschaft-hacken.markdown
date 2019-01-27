@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-02-03 23:06:32+00:00
-layout: post
 link: http://habi.gna.ch/2015/02/04/mit-kunst-die-gesellschaft-hacken/
 slug: mit-kunst-die-gesellschaft-hacken
 title: Mit Kunst die Gesellschaft hacken

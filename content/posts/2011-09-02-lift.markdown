@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-09-02 22:24:04+00:00
-layout: post
 link: http://habi.gna.ch/2011/09/03/lift/
 slug: lift
 title: Lift

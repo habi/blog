@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-09-19 06:41:14+00:00
-layout: post
 link: http://habi.gna.ch/2007/09/19/hoppla/
 slug: hoppla
 title: Hoppla

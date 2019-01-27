@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-11-14 21:22:58+00:00
-layout: post
 link: http://habi.gna.ch/2004/11/14/comment-spamfirefox/
 slug: comment-spamfirefox
 title: comment spam/firefox

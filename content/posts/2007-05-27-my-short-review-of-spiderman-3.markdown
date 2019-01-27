@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-05-27 21:57:51+00:00
-layout: post
 link: http://habi.gna.ch/2007/05/27/my-short-review-of-spiderman-3/
 slug: my-short-review-of-spiderman-3
 title: my short review of spiderman 3

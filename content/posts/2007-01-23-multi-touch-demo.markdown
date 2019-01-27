@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-01-23 21:54:23+00:00
-layout: post
 link: http://habi.gna.ch/2007/01/23/multi-touch-demo/
 slug: multi-touch-demo
 title: multi-touch-demo

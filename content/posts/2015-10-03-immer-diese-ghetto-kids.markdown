@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-10-03 06:34:25+00:00
-layout: post
 link: http://habi.gna.ch/2015/10/03/immer-diese-ghetto-kids/
 slug: immer-diese-ghetto-kids
 title: Immer diese Ghetto-Kids!

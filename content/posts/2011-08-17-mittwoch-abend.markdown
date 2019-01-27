@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-08-17 16:21:50+00:00
-layout: post
 link: http://habi.gna.ch/2011/08/17/mittwoch-abend/
 slug: mittwoch-abend
 title: Mittwoch Abend

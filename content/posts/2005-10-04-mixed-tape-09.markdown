@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-10-04 16:52:40+00:00
-layout: post
 link: http://habi.gna.ch/2005/10/04/mixed-tape-09/
 slug: mixed-tape-09
 title: mixed tape 09

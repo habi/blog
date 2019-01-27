@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-20 16:12:40+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/20/how-to-lay-an-egg/
 slug: how-to-lay-an-egg
 title: how to lay an egg

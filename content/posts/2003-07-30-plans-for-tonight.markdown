@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-07-30 15:24:18+00:00
-layout: post
 link: http://habi.gna.ch/2003/07/30/plans-for-tonight/
 slug: plans-for-tonight
 title: plans for tonight

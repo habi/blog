@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-07-17 12:23:25+00:00
-layout: post
 link: http://habi.gna.ch/2010/07/17/gurtenfestival-2010/
 slug: gurtenfestival-2010
 title: Gurtenfestival 2010

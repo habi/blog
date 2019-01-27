@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-12-21 16:45:34+00:00
-layout: post
 link: http://habi.gna.ch/2013/12/21/sri-lanka-2/
 slug: sri-lanka-2
 title: Sri Lanka

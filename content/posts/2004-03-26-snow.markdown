@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-26 12:58:39+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/26/snow/
 slug: snow
 title: snow

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-11 18:21:53+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/11/nichtlustigde/
 slug: nichtlustigde
 title: nichtlustig.de

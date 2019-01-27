@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-06-13 20:45:10+00:00
-layout: post
 link: http://habi.gna.ch/2012/06/13/das-rolex-learning-center-an-der-epfl-in-lausanne-revisited/
 slug: das-rolex-learning-center-an-der-epfl-in-lausanne-revisited
 title: Das Rolex Learning Center an der EPFL in Lausanne, revisited

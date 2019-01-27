@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-14 18:12:55+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/14/in-the-grocery-store/
 slug: in-the-grocery-store
 title: in the grocery store

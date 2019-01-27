@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-01-15 21:48:02+00:00
-layout: post
 link: http://habi.gna.ch/2016/01/15/where-have-i-been-in-2015/
 slug: where-have-i-been-in-2015
 title: Where have I been in 2015

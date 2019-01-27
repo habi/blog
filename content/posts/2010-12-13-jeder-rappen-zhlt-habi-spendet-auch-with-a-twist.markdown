@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-12-13 21:51:50+00:00
-layout: post
 link: http://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/
 slug: jeder-rappen-zhlt-habi-spendet-auch-with-a-twist
 title: 'Jeder Rappen zählt: Habi spendet auch (with a Twist)'

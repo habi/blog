@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-03-27 13:22:54+00:00
-layout: post
 link: http://habi.gna.ch/2006/03/27/nominations-of-sbaw-06-are-open-update/
 slug: nominations-of-sbaw-06-are-open-update
 title: nominations of SBAW 06 are open [update]

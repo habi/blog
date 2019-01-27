@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-23 17:46:20+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/23/amazing-cgi/
 slug: amazing-cgi
 title: amazing cgi

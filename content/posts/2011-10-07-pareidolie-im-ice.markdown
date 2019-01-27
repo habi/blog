@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-10-07 05:37:52+00:00
-layout: post
 link: http://habi.gna.ch/2011/10/07/pareidolie-im-ice/
 slug: pareidolie-im-ice
 title: Pareidolie im ICE

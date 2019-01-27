@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-31 20:38:41+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/31/panorama-shot/
 slug: panorama-shot
 title: panorama shot

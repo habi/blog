@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-07-17 12:35:05+00:00
-layout: post
 link: http://habi.gna.ch/2010/07/17/oberhofen-churchill-video/
 slug: oberhofen-churchill-video
 title: Oberhofen Churchill [Video]

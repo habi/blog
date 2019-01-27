@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-03-24 16:20:35+00:00
-layout: post
 link: http://habi.gna.ch/2016/03/24/carvelo2go-ch-heute-mit-aussicht-ins-grune/
 slug: carvelo2go-ch-heute-mit-aussicht-ins-grune
 title: carvelo2go.ch, heute mit Aussicht ins Grüne.

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-07-09 08:02:37+00:00
-layout: post
 link: http://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/
 slug: zugriffszahlen-nach-dem-artikel-in-der-bz
 title: Zugriffszahlen nach dem Artikel in der BZ

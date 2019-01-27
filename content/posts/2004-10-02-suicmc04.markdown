@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-02 14:19:28+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/02/suicmc04/
 slug: suicmc04
 title: suicmc04

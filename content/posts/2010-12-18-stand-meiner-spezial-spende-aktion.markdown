@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-12-18 12:49:46+00:00
-layout: post
 link: http://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/
 slug: stand-meiner-spezial-spende-aktion
 title: Stand meiner Spezial-Spende-Aktion [update 2]

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-07-27 21:19:41+00:00
-layout: post
 link: http://habi.gna.ch/2004/07/27/easy-come-easy-go/
 slug: easy-come-easy-go
 title: easy come, easy go

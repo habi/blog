@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-01-05 12:36:57+00:00
-layout: post
 link: http://habi.gna.ch/2011/01/05/gruess-us-glogghuus/
 slug: gruess-us-glogghuus
 title: Grüess üs Glogghüüs

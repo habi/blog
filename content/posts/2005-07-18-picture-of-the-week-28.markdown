@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-18 17:47:15+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/18/picture-of-the-week-28/
 slug: picture-of-the-week-28
 title: picture of the week 28

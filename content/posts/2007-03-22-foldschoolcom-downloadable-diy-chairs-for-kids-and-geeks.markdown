@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-03-22 13:57:31+00:00
-layout: post
 link: http://habi.gna.ch/2007/03/22/foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks/
 slug: foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks
 title: foldschool.com - downloadable DIY chairs for kids and geeks [update]

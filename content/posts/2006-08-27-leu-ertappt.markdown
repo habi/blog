@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-08-27 00:39:32+00:00
-layout: post
 link: http://habi.gna.ch/2006/08/27/leu-ertappt/
 slug: leu-ertappt
 title: leu ertappt!

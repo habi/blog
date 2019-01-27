@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-20 21:29:40+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/20/hardcore-skyping/
 slug: hardcore-skyping
 title: Hardcore skyping

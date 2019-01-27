@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-10-19 11:52:31+00:00
-layout: post
 link: http://habi.gna.ch/2007/10/19/eth-wcanlage/
 slug: eth-wcanlage
 title: eth wc-anlage

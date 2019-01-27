@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-05-15 19:52:27+00:00
-layout: post
 link: http://habi.gna.ch/2017/05/15/keine-recommended-readings-mehr/
 slug: keine-recommended-readings-mehr
 title: Keine 'recommended readings' mehr

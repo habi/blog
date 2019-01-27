@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-05-15 15:45:39+00:00
-layout: post
 link: http://habi.gna.ch/2007/05/15/mercedes-mixed-tape-17-is-online/
 slug: mercedes-mixed-tape-17-is-online
 title: mercedes mixed tape 17 is online

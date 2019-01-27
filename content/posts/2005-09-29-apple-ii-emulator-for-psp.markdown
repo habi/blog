@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-09-29 21:34:28+00:00
-layout: post
 link: http://habi.gna.ch/2005/09/29/apple-ii-emulator-for-psp/
 slug: apple-ii-emulator-for-psp
 title: apple II emulator for psp

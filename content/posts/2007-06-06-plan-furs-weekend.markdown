@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-06-06 19:30:46+00:00
-layout: post
 link: http://habi.gna.ch/2007/06/06/plan-furs-weekend/
 slug: plan-furs-weekend
 title: plan für's weekend

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-04 22:16:10+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/05/pictures-of-the-suicmc04/
 slug: pictures-of-the-suicmc04
 title: pictures of the suicmc04

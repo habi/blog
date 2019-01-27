@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-01-24 13:10:21+00:00
-layout: post
 link: http://habi.gna.ch/2009/01/24/6-grad-41-min-153-m/
 slug: 6-grad-41-min-153-m
 title: 6 Grad, 41 min, 15.3 m

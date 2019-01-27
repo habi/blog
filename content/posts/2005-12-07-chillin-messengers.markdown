@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-12-07 14:30:05+00:00
-layout: post
 link: http://habi.gna.ch/2005/12/07/chillin-messengers/
 slug: chillin-messengers
 title: chillin' messengers

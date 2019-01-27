@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-05-24 10:37:30+00:00
-layout: post
 link: http://habi.gna.ch/2014/05/24/the-next-steps-von-dan-ward/
 slug: the-next-steps-von-dan-ward
 title: The Next Steps von Dan Ward

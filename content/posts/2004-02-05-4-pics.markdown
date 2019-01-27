@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-05 20:44:25+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/05/4-pics/
 slug: 4-pics
 title: 4 pics

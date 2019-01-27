@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-01-03 18:17:05+00:00
-layout: post
 link: http://habi.gna.ch/2010/01/03/as-guets-nois/
 slug: as-guets-nois
 title: äs guets nöis!

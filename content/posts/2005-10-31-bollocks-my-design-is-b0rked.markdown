@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-10-31 13:27:37+00:00
-layout: post
 link: http://habi.gna.ch/2005/10/31/bollocks-my-design-is-b0rked/
 slug: bollocks-my-design-is-b0rked
 title: bollocks! my design is b0rked.

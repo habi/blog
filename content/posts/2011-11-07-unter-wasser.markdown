@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-11-07 21:13:51+00:00
-layout: post
 link: http://habi.gna.ch/2011/11/07/unter-wasser/
 slug: unter-wasser
 title: Unter Wasser

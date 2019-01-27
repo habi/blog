@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-07-14 10:16:21+00:00
-layout: post
 link: http://habi.gna.ch/2018/07/14/endlich-mal-wieder-abtauchen/
 slug: endlich-mal-wieder-abtauchen
 title: Endlich mal wieder abtauchen!

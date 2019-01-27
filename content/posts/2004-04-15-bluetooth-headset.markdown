@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-04-15 19:52:09+00:00
-layout: post
 link: http://habi.gna.ch/2004/04/15/bluetooth-headset/
 slug: bluetooth-headset
 title: bluetooth headset

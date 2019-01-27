@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-22 21:01:07+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/22/michels-abschied/
 slug: michels-abschied
 title: michels abschied

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-06 20:39:44+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/06/wired-vs-sonntagszeitung/
 slug: wired-vs-sonntagszeitung
 title: Wired vs. Sonntagszeitung

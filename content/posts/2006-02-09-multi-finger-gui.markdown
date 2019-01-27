@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-02-09 16:31:13+00:00
-layout: post
 link: http://habi.gna.ch/2006/02/09/multi-finger-gui/
 slug: multi-finger-gui
 title: multi-finger GUI

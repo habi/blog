@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-06-07 21:12:20+00:00
-layout: post
 link: http://habi.gna.ch/2006/06/07/wanna-ride-a-ricksha/
 slug: wanna-ride-a-ricksha
 title: wanna ride a ricksha?

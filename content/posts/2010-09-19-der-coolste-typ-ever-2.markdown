@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2010-09-19 18:54:15+00:00
-layout: post
 link: http://habi.gna.ch/2010/09/19/der-coolste-typ-ever-2/
 slug: der-coolste-typ-ever-2
 title: Der coolste Typ ever

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-07-17 21:04:10+00:00
-layout: post
 link: http://habi.gna.ch/2017/07/17/time-for-sushi/
 slug: time-for-sushi
 title: Time for sushi

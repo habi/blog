@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-01-07 20:47:51+00:00
-layout: post
 link: http://habi.gna.ch/2015/01/07/where-was-i-in-2014/
 slug: where-was-i-in-2014
 title: Where was I in 2014

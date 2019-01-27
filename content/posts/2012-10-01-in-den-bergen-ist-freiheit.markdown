@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-10-01 20:34:24+00:00
-layout: post
 link: http://habi.gna.ch/2012/10/01/in-den-bergen-ist-freiheit/
 slug: in-den-bergen-ist-freiheit
 title: In den Bergen ist Freiheit

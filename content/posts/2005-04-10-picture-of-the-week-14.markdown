@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-04-10 17:28:09+00:00
-layout: post
 link: http://habi.gna.ch/2005/04/10/picture-of-the-week-14/
 slug: picture-of-the-week-14
 title: picture of the week 14

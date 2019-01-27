@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2012-08-21 18:23:30+00:00
-layout: post
 link: http://habi.gna.ch/2012/08/21/braaaaaains/
 slug: braaaaaains
 title: Braaaaaains!

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2018-04-01 20:22:52+00:00
-layout: post
 link: http://habi.gna.ch/2018/04/01/recommended-readings-marz-2018/
 slug: recommended-readings-marz-2018
 title: 'Recommended Readings: März 2018'

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-02 22:25:54+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/03/probably-the-nicest-pictures-ever-made/
 slug: probably-the-nicest-pictures-ever-made
 title: probably the nicest pictures ever made!

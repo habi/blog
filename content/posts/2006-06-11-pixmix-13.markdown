@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-06-11 20:39:07+00:00
-layout: post
 link: http://habi.gna.ch/2006/06/11/pixmix-13/
 slug: pixmix-13
 title: pixmix 13

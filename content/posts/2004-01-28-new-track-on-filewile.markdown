@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-28 22:00:06+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/29/new-track-on-filewile/
 slug: new-track-on-filewile
 title: new track on filewile.com

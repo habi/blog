@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-03-01 18:44:24+00:00
-layout: post
 link: http://habi.gna.ch/2011/03/01/filewile-on-the-run/
 slug: filewile-on-the-run
 title: Filewile - On the run

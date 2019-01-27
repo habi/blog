@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-02-04 22:57:44+00:00
-layout: post
 link: http://habi.gna.ch/2011/02/05/zte-blade-oder-orance-san-francisco-im-test/
 slug: zte-blade-oder-orance-san-francisco-im-test
 title: ZTE Blade oder Orance San Francisco im Test

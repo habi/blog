@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-08-03 17:26:24+00:00
-layout: post
 link: http://habi.gna.ch/2005/08/03/hardcoded-blogroll/
 slug: hardcoded-blogroll
 title: hardcoded blogroll

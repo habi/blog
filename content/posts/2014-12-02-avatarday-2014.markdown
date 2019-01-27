@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-12-02 19:11:40+00:00
-layout: post
 link: http://habi.gna.ch/2014/12/02/avatarday-2014/
 slug: avatarday-2014
 title: AvatarDay 2014

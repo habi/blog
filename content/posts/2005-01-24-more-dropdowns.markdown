@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-01-24 19:54:34+00:00
-layout: post
 link: http://habi.gna.ch/2005/01/24/more-dropdowns/
 slug: more-dropdowns
 title: more dropdowns

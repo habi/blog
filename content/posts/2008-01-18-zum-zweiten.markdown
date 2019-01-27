@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-01-18 17:44:17+00:00
-layout: post
 link: http://habi.gna.ch/2008/01/18/zum-zweiten/
 slug: zum-zweiten
 title: Zum zweiten...

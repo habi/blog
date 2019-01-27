@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-05-31 17:28:45+00:00
-layout: post
 link: http://habi.gna.ch/2004/05/31/blingbling/
 slug: blingbling
 title: blingbling

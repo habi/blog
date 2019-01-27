@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-05-04 19:55:16+00:00
-layout: post
 link: http://habi.gna.ch/2009/05/04/kurzkritik-aktuelles-nzz-folio/
 slug: kurzkritik-aktuelles-nzz-folio
 title: kurzkritik aktuelles nzz-folio

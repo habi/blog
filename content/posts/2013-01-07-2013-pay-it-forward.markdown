@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2013-01-07 22:42:26+00:00
-layout: post
 link: http://habi.gna.ch/2013/01/07/2013-pay-it-forward/
 slug: 2013-pay-it-forward
 title: 2013 - Pay it forward

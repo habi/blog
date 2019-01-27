@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-11-21 12:03:58+00:00
-layout: post
 link: http://habi.gna.ch/2015/11/21/mechanischer-techno/
 slug: mechanischer-techno
 title: Mechanischer Techno

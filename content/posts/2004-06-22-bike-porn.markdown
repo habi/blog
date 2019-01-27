@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-06-22 10:32:01+00:00
-layout: post
 link: http://habi.gna.ch/2004/06/22/bike-porn/
 slug: bike-porn
 title: bike porn

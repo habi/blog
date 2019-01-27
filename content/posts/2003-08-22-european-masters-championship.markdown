@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-08-22 18:17:22+00:00
-layout: post
 link: http://habi.gna.ch/2003/08/22/european-masters-championship/
 slug: european-masters-championship
 title: European Masters Championship

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-03-04 20:37:34+00:00
-layout: post
 link: http://habi.gna.ch/2004/03/04/mike-van-audenhove/
 slug: mike-van-audenhove
 title: mike van audenhove

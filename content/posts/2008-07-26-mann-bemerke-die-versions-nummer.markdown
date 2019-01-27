@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-07-26 17:51:03+00:00
-layout: post
 link: http://habi.gna.ch/2008/07/26/mann-bemerke-die-versions-nummer/
 slug: mann-bemerke-die-versions-nummer
 title: mann bemerke die versions-nummer

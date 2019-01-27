@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-07-20 17:57:18+00:00
-layout: post
 link: http://habi.gna.ch/2015/07/20/molto-bello-am-montebello-bach/
 slug: molto-bello-am-montebello-bach
 title: Molto Bello am Montebello Bach

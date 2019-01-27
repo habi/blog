@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-13 15:57:04+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/13/pictures-of-escala-are-online/
 slug: pictures-of-escala-are-online
 title: pictures of escala are online

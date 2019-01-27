@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2006-12-03 09:52:39+00:00
-layout: post
 link: http://habi.gna.ch/2006/12/03/adventskalender-picture-of-the-week-48/
 slug: adventskalender-picture-of-the-week-48
 title: adventskalender (picture of the week 48)

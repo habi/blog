@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-05-19 20:09:39+00:00
-layout: post
 link: http://habi.gna.ch/2005/05/19/huginosx-goes-beta/
 slug: huginosx-goes-beta
 title: HuginOSX goes beta

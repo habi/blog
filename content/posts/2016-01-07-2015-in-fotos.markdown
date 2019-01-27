@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-01-07 20:52:24+00:00
-layout: post
 link: http://habi.gna.ch/2016/01/07/2015-in-fotos/
 slug: 2015-in-fotos
 title: 2015 in Fotos

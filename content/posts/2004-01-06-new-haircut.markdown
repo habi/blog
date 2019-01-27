@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-06 09:15:53+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/06/new-haircut/
 slug: new-haircut
 title: new haircut

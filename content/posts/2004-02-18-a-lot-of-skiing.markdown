@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-02-18 19:05:43+00:00
-layout: post
 link: http://habi.gna.ch/2004/02/18/a-lot-of-skiing/
 slug: a-lot-of-skiing
 title: a lot of skiing

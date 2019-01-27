@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2016-05-04 09:00:02+00:00
-layout: post
 link: http://habi.gna.ch/2016/05/04/damals/
 slug: damals
 title: Damals...

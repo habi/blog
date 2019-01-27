@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-07-23 08:02:18+00:00
-layout: post
 link: http://habi.gna.ch/2011/07/23/ausgewogene-berichterstattung/
 slug: ausgewogene-berichterstattung
 title: Ausgewogene Berichterstattung?

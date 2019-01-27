@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-08-03 07:35:26+00:00
-layout: post
 link: http://habi.gna.ch/2015/08/03/war-nid-spinnt-da-spinnt/
 slug: war-nid-spinnt-da-spinnt
 title: Wär nid spinnt, dä spinnt!

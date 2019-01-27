@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2007-01-17 23:22:32+00:00
-layout: post
 link: http://habi.gna.ch/2007/01/18/do-you-feel-fat-get-a-wiii-2/
 slug: do-you-feel-fat-get-a-wiii-2
 title: do you feel fat? get a wiii!

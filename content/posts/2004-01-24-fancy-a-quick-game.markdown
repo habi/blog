@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-01-24 16:37:41+00:00
-layout: post
 link: http://habi.gna.ch/2004/01/24/fancy-a-quick-game/
 slug: fancy-a-quick-game
 title: fancy a quick game?

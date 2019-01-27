@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-01-02 21:08:18+00:00
-layout: post
 link: http://habi.gna.ch/2017/01/02/recommended-readings-1-january-2017/
 slug: recommended-readings-1-january-2017
 title: 'Recommended readings: 1. January 2017'

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-10-27 18:01:28+00:00
-layout: post
 link: http://habi.gna.ch/2004/10/27/dubya-bush-doesnt-want-you/
 slug: dubya-bush-doesnt-want-you
 title: dubya bush doesn't want you

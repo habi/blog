@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-06-01 19:00:24+00:00
-layout: post
 link: http://habi.gna.ch/2015/06/01/recommended-readings-1-june-2015/
 slug: recommended-readings-1-june-2015
 title: 'Recommended readings: 1. June 2015'

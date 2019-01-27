@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2008-03-31 19:29:16+00:00
-layout: post
 link: http://habi.gna.ch/2008/03/31/skiweekend-grindelwald/
 slug: skiweekend-grindelwald
 title: skiweekend grindelwald [with map]

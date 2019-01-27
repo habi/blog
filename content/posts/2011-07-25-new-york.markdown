@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2011-07-25 17:11:19+00:00
-layout: post
 link: http://habi.gna.ch/2011/07/25/new-york/
 slug: new-york
 title: New York [update]

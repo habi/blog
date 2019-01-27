@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2015-12-30 10:49:18+00:00
-layout: post
 link: http://habi.gna.ch/2015/12/30/unterbach-piste-gut/
 slug: unterbach-piste-gut
 title: 'Unterbäch. Piste: gut'

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2017-03-01 21:40:01+00:00
-layout: post
 link: http://habi.gna.ch/2017/03/01/recommended-readings-1-march-2017/
 slug: recommended-readings-1-march-2017
 title: 'Recommended readings: 1. March 2017'

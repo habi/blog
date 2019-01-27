@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2014-11-23 15:18:26+00:00
-layout: post
 link: http://habi.gna.ch/2014/11/23/schon-ds-nabumeer/
 slug: schon-ds-nabumeer
 title: Schön, ds Näbumeer.

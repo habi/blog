@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2019-01-08 22:32:38+00:00
-layout: post
 link: http://habi.gna.ch/2019/01/08/2018-in-bildern/
 slug: 2018-in-bildern
 title: 2018 in Bildern

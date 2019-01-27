@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2004-09-05 19:16:30+00:00
-layout: post
 link: http://habi.gna.ch/2004/09/05/my-002-to-the-upcoming-elections-in-the-us-of-a/
 slug: my-002-to-the-upcoming-elections-in-the-us-of-a
 title: my 0.02$ to the upcoming elections in the us of a

@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-11-01 19:19:48+00:00
-layout: post
 link: http://habi.gna.ch/2009/11/01/falling-leaves/
 slug: falling-leaves
 title: falling leaves

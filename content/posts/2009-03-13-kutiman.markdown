@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2009-03-13 07:28:28+00:00
-layout: post
 link: http://habi.gna.ch/2009/03/13/kutiman/
 slug: kutiman
 title: Kutiman-Thru-you - Mother of All Funk Chords

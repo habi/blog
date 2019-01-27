@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2005-07-18 19:04:36+00:00
-layout: post
 link: http://habi.gna.ch/2005/07/18/gravatar-is-down-update/
 slug: gravatar-is-down-update
 title: gravatar is down [update]

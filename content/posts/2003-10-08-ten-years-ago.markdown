@@ -2,7 +2,6 @@
 author: admin
 comments: true
 date: 2003-10-08 13:45:51+00:00
-layout: post
 link: http://habi.gna.ch/2003/10/08/ten-years-ago/
 slug: ten-years-ago
 title: ten years ago.
