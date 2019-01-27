@@ -1,4 +1,4 @@
-baseURL = "http://blog.davidhaberthuer.ch"
+baseURL = "https://blog.davidhaberthuer.ch"
 languageCode = "en-us"
 title = "This used to be habi.gna.ch"
 theme = "ananke"
