@@ -20,11 +20,10 @@ At the moment, [Hugo](http://gohugo.io) in combination with [Netlify](https://ne
 - `git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke`
 - `echo 'theme = "ananke"' >> config.toml`
 - Edit `config.toml` to taste.
-- Copy all the posts from the `exitwp` directory to the `blog` directory: `mkdir -p ~/Dev/blog/content/posts && cp ~/Dev/exitwp/b
-uild/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/content/posts/`
-- Copy all the images from the `exitwp` directory to the `blog` directory: `mkdir -p ~/Dev/blog/static/images && mv ~/Dev/exitwp/buil
-d/jekyll/habi.gna.ch/images/*/*.* ~/Dev/blog/static/images/`. We move the images from their subfolder to a single new folder.
-- Now you should have a (semi)working hugo blog, test it with `cd ~/Dev/blog && hugo server`. All images are still served from their original URLs. 
+- Now unzip the `hugo-export.zip` file from above.
+- Copy all the posts from the exported directory to the `blog` directory: `mkdir -p ~/Dev/blog/content/posts && cp ~/Dev/exitwp/build/jekyll/habi.gna.ch/_posts/* ~/Dev/blog/content/posts/`
+- Copy all the images from the `exitwp` directory to the `blog` directory: `mkdir -p ~/Dev/blog/static/images && cp ~/Dev/exitwp/build/jekyll/habi.gna.ch/images/*/*.* ~/Dev/blog/static/images/`. We move the images from their subfolder to a single new folder.
+- Now you should have a (semi)working hugo blog, test it with `cd ~/Dev/blog && hugo server`. All images are still served from their original URLs.
 
 # Host this thing (automatically)
 - Follow [this guide](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
