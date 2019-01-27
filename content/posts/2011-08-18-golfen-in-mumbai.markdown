@@ -10,12 +10,15 @@ wordpress_id: 2552
 categories:
 - linkdump
 tags:
-- g&#244;
+- go
 - golf
 - india
 - mumbai
 ---
 
-An einigen Orten, wo wir in Mumbai waren, wird mit grosser Hingabe Golf gespielt. Und wir waren nicht dort, wo der Rasen grun ist.
+An einigen Orten, wo wir in Mumbai waren, wird mit grosser Hingabe Golf gespielt.
+Und wir waren nicht dort, wo der Rasen grün ist.
 
-Ein schoner kurzer Film uber Traume und Moglichkeiten in Indien.
+http://vimeo.com/22329918
+
+Ein schöner, kurzer Film über Träume und Möglichkeiten in Indien.

@@ -22,7 +22,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Grueling work required to make arm transplants succeed](https://www.statnews.com/2016/08/23/double-arm-transplant/): Was es braucht, um nach einer Transplantation zwei seiner vier Extremitäten wieder brauchen zu können.
 
 
-  * [Secret Cameras Record Baltimore’s Every Move From Above](https://www.bloomberg.com/features/2016-baltimore-secret-surveillance/): Technisch spannend, aber extrem creepy: Baltimore (und andere Städte der USA) werden live aus der Luft überwacht
+  * [Secret Cameras Record Baltimore’s Every Move From Above](https://www.bloomberg.com/features/2016-baltimore-secret-surveillance/): Technisch spannend, aber extrem creepy: Baltimore (und andere Städte der USA) werden live aus der Luft überwacht
 
 
   * [Geheime Gruppen auf Facebook: Wo Rechtsextreme ungestört zum Mord aufrufen](http://www.tagesspiegel.de/themen/reportage/geheime-gruppen-auf-facebook-wo-rechtsextreme-ungestoert-zum-mord-aufrufen/14008436.html): Ich wusste gar nicht, dass Facebook geheime Gruppen hat. Ein weiteres Argument _gegen_ Silos.
@@ -31,16 +31,16 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Gera: Risse in der Fassade](http://www.zeit.de/zeit-magazin/2016/32/fluechtlingskrise-fluechtlinge-thueringen-gymnasium-gera-theater): Die Flüchtlingsproblematik kommt in der Schule an.
 
 
-  * [The Secret Lives of Cadavers](http://news.nationalgeographic.com/2016/07/body-donation-cadavers-anatomy-medical-education/): Wie Körperspender zu wichtigen Hilfsmitteln in der Ausbildung von Ärzten und Ärztinnen werden. Achtung: Die Fotos zeigen tote Menschen.
+  * [The Secret Lives of Cadavers](http://news.nationalgeographic.com/2016/07/body-donation-cadavers-anatomy-medical-education/): Wie Körperspender zu wichtigen Hilfsmitteln in der Ausbildung von Ärzten und Ärztinnen werden. Achtung: Die Fotos zeigen tote Menschen.
 
 
   * [Was There a Problem with the Rio Pool?](https://swimswam.com/problem-rio-pool/): Olympische-Spiele-Content für Nerds: Eine statistische Analyse der Langstrecken-Schwimmzeiten von Rio scheint darauf hinzuweisen, dass im Pool Strömung zu unfairen Wettkampfbedingungen geführt hat. Die rechte Seite des Pools scheint schneller gewesen zu sein.
 
 
-  * [Blade Runner | Typeset In The Future](https://typesetinthefuture.com/2016/06/19/bladerunner/): Knapp zwei Jahre nach der typografischen Analyse von [Alien](https://typesetinthefuture.com/2014/12/01/alien/) hier die ebensolche Analyse von Blade Runner.
+  * [Blade Runner | Typeset In The Future](https://typesetinthefuture.com/2016/06/19/bladerunner/): Knapp zwei Jahre nach der typografischen Analyse von [Alien](https://typesetinthefuture.com/2014/12/01/alien/) hier die ebensolche Analyse von Blade Runner.
 
 
-  * [I Want to Know What Code Is Running Inside My Body](https://backchannel.com/i-want-to-know-what-code-is-running-inside-my-body-ff9a159da34b?gi=16d3e8ec4a7f): Eine Geschichte über die Software in medizinischen Geräten, hier einem Herz-Schrittmacher. Wieso ist diese nicht im Quelltext verfügbar?
+  * [I Want to Know What Code Is Running Inside My Body](https://www.wired.com/2016/02/i-want-to-know-what-code-is-running-inside-my-body/): Eine Geschichte über die Software in medizinischen Geräten, hier einem Herz-Schrittmacher. Wieso ist diese nicht im Quelltext verfügbar?
 
 
   * [How to Bring Science Publishing into the 21st Century](http://blogs.scientificamerican.com/guest-blog/how-to-bring-science-publishing-into-the-21st-century/): Meine nächste Publikation werde ich auch in [Authorea](https://www.authorea.com) schreiben. Ah ja, da wollte ich auch noch 'was darüber schreiben. Kommt demnächst. 

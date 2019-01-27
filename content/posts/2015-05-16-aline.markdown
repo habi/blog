@@ -20,38 +20,5 @@ tags:
 In ein paar der letzten Posts waren zwischendurch Hinweise gestreut, wem's bis jetzt noch nicht klar wurde: vor genau zwei Monaten bin ich Vater geworden.
 Am 16. März 2015 hat Nina am Morgen um 07:49 unsere gesunde Tochter Aline auf die Welt gebracht, die Freude ist riesengross.
 
-Während der Schwangerschaft hab' ich alle paar Wochen den Fotoapparat gezückt und eine Idee umgesetzt, die [Patrice Laroche](https://www.facebook.com/patrice.laroche.98) vor mir gehabt hat; nämlich [How to make a baby with an air pump](https://fstoppers.com/portraits/air-pump-baby-creative-maternity-series-4257).
-
-Mit einem Stativ im Wohnzimmer, der [Sofortbild](http://www.sofortbildapp.com)-App und meiner Kamera hab' ich ein paar Bilder geschossen.
-Da die Bilder nicht immer genau gleich ausgerichtet waren, hab' ich die paar Fotos mit [hugin](http://hugin.sf.net) ausgerichtet, und etwas beschnitten.
-Mit einem minimal bearbeiteten, frei zur Verfügung stehenden [Clipart](https://openclipart.org/detail/40477/explosion), etwas Handarbeit in [ImageJ](http://fiji.sc/Fiji) und einem kurzen [ImageMagick](http://imagemagick.org/)-Umweg1 entsteht aus den Bildern ein animiertes Gif, welches unten eingebunden ist: [Aline in 9 Monaten und Bildern](http://gfycat.com/VagueOptimisticBaldeagle).
-
-
-
-Wer die einzelnen Bilder etwas genauer anschauen will, findet nebst dem Gif-Filmli unten auch noch die einzelnen Bilder als [Filmstreifen](http://habi.gna.ch/wp-content/uploads/2015/05/AlineMontage.jpg).
-
-[![AlineMontage](http://habi.gna.ch/wp-content/uploads/2015/05/AlineMontage-114x1024.jpg)](http://habi.gna.ch/wp-content/uploads/2015/05/AlineMontage.jpg)
-
 Aline, herzlichst willkommen bei uns.
 Wir freuen uns wahnsinnig!
-
-
-
-
-
-
-* * *
-
-
-
-
-
-
-
-  1. 
-[bash]convert -delay 75 -scale 800x800 aligned* out.gif[/bash] ↩
-
-
-
-
-

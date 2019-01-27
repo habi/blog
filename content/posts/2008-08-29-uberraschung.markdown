@@ -5,7 +5,7 @@ date: 2008-08-29 15:51:29+00:00
 layout: post
 link: http://habi.gna.ch/2008/08/29/uberraschung/
 slug: uberraschung
-title: Ãœberraschung!
+title: Überraschung!
 wordpress_id: 1405
 categories:
 - none
@@ -21,6 +21,7 @@ categories:
 
   Originally uploaded by [habi](http://www.flickr.com/people/habi/).
  
+
 
 
 

@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/WebPage" lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://habi.gna.ch/xmlrpc.php" />
+	<!--[if lt IE 9]>
+	<script src="http://habi.gna.ch/wp-content/themes/independent-publisher/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<title>Page not found &#8211; habi.gna.ch</title>
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="habi.gna.ch &raquo; Feed" href="http://habi.gna.ch/feed/" />
+<link rel="alternate" type="application/rss+xml" title="habi.gna.ch &raquo; Comments Feed" href="http://habi.gna.ch/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/habi.gna.ch\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='http://habi.gna.ch/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-email-subscribe-css'  href='http://habi.gna.ch/wp-content/plugins/jetpack/modules/shortcodes/css/jetpack-email-subscribe.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://habi.gna.ch/wp-content/plugins/fancybox-for-wordpress/assets/css/fancybox.css?ver=1.3.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='fancybox-ie-css'  href='http://habi.gna.ch/wp-content/plugins/fancybox-for-wordpress/assets/css/fancybox.ie.css?ver=1.3.4' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='genericons-css'  href='http://habi.gna.ch/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nprogress-css'  href='http://habi.gna.ch/wp-content/themes/independent-publisher/css/nprogress.css?ver=0.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='independent-publisher-style-css'  href='http://habi.gna.ch/wp-content/themes/independent-publisher/style.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='customizer-css'  href='http://habi.gna.ch/wp-admin/admin-ajax.php?action=independent_publisher_customizer_css&#038;ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='http://habi.gna.ch/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://habi.gna.ch/wp-content/plugins/jetpack/css/jetpack.css?ver=6.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://habi.gna.ch/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/plugins/fancybox-for-wordpress/assets/js/jquery.fancybox.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/themes/independent-publisher/js/nprogress.js?ver=0.1.3'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/themes/independent-publisher/js/enhanced-comment-form.js?ver=1.0'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/plugins/jetpack/_inc/build/postmessage.min.js?ver=6.9'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/plugins/jetpack/_inc/build/jquery.jetpack-resize.min.js?ver=6.9'></script>
+<link rel='https://api.w.org/' href='http://habi.gna.ch/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://habi.gna.ch/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://habi.gna.ch/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+
+<!-- Fancybox for WordPress v3.1.8 -->
+<style type="text/css">
+	div.fancybox-caption{display:none !important;}
+	
+	img.fancybox-image{border-width:10px;border-color:#FFFFFF;border-style:solid;height:auto;}
+	div.fancybox-bg{background-color:rgba(102,102,102,0.3);opacity:1 !important;}div.fancybox-content{border-color:#FFFFFF}
+	div#fancybox-title{background-color:#FFFFFF}
+	div.fancybox-content{background-color:#FFFFFF}
+	div#fancybox-title-inside{color:#333333}
+	
+	
+	
+	div.fancybox-caption p.caption-title{display:inline-block}
+	div.fancybox-caption p.caption-title{font-size:14px}
+	div.fancybox-caption p.caption-title{color:#333333}
+	div.fancybox-caption {color:#333333}div.fancybox-caption p.caption-title {background:#fff; width:auto;padding:10px 30px;}
+</style><script type="text/javascript">
+	jQuery(function(){
+
+		jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+			var arr = jQuery("a[data-fancybox]");
+									jQuery.each(arr, function() {
+										var title = jQuery(this).children("img").attr("title");
+										 var caption = jQuery(this).next("figcaption").html();
+                                        if(caption && title){jQuery(this).attr("title",title+" " + caption)}else if(title){ jQuery(this).attr("title",title);}else if(caption){jQuery(this).attr("title",caption);}
+									});			}
+
+		// Supported file extensions
+		var thumbnails = jQuery("a:has(img)").not(".nolightbox").not('.envira-gallery-link').not('.ngg-simplelightbox').filter( function() { return /\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href')) });
+
+		// Add data-type iframe for links that are not images or videos.
+        var iframeLinks = jQuery('.fancyboxforwp').filter( function() { return ! /\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href')) }).filter( function() { return ! /vimeo|youtube/i.test(jQuery(this).attr('href')) });
+        iframeLinks.attr({ "data-type" : "iframe" }).getTitle();
+
+				// Gallery All
+		thumbnails.addClass("fancyboxforwp").attr("data-fancybox","gallery").getTitle();
+        iframeLinks.attr({ "data-fancybox":"gallery" }).getTitle();
+
+		// Gallery type NONE
+		
+
+
+		// Call fancybox and apply it on any link with a rel atribute that starts with "fancybox", with the options set on the admin panel
+		jQuery("a.fancyboxforwp").fancyboxforwp({
+			loop: false,
+			smallBtn: true,
+			zoomOpacity: "auto",
+			animationEffect: "fade",
+			animationDuration: 500,
+			transitionEffect: "fade",
+			transitionDuration : "300",
+			overlayShow: true,
+			overlayOpacity: "0.3",
+			titleShow: true,
+			titlePosition: "inside",
+			keyboard: true,
+			showCloseButton: true,
+			arrows: true,
+			clickContent: false,
+            clickSlide: "close",
+			wheel: false,
+			toolbar: true,
+			preventCaptionOverlap: true,
+			onInit: function() { },			onDeactivate: function() { },			beforeClose: function() { },			afterShow: function() { },			afterClose: function() { },			caption : function( instance, item ) {var testing = jQuery(this).context.title;var caption = jQuery(this).data('caption') || '';if ( item.type === 'image' && testing.length ) {caption = (caption.length ? caption + '<br />' : '') + '<p class="caption-title">'+testing+'</p>' ;}return caption;},
+			afterLoad : function( instance, current ) {current.$content.append('<div class=\"fancybox-custom-caption\" style=\" position: absolute;left:0;right:0;color:#000;padding-top:10px;bottom:-50px;margin:0 auto;text-align:center; \">' + current.opts.caption + '</div>');},
+					});
+		
+	})
+</script>
+<!-- END Fancybox for WordPress -->
+<!-- WP Favicon -->
+<link rel="shortcut icon" href="http://habi.gna.ch/favicon.ico" type="image/x-icon" />
+<link rel="icon"          href="http://habi.gna.ch/favicon.gif" type="image/gif"    />
+<!-- /WP Favicon -->
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+					<style type="text/css">
+				html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="error404 no-post-excerpts hfeed h-feed" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+
+
+<div id="page" class="site">
+	<header id="masthead" class="site-header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+		<div class="site-header-info">
+																<a class="site-logo" href="http://habi.gna.ch/" title="habi.gna.ch" rel="home">
+				<img class="no-grav" src="http://gravatar.com/avatar/f5388f6efdf5e0b11645c6c8dd2793ff/?s=100&#038;d=mm" height="100" width="100" alt="habi.gna.ch" />
+			</a>
+				<div class="site-title">
+			<a href="http://habi.gna.ch/" title="habi.gna.ch" rel="home">habi.gna.ch</a>
+		</div>
+		<div class="site-description">general geekery</div>
+									</div>
+
+							<nav role="navigation" class="site-navigation main-navigation">
+				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+
+													<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-4631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4631"><a href="http://habi.gna.ch/about/">about</a></li>
+<li id="menu-item-4632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4632"><a href="http://habi.gna.ch/music/">music</a></li>
+<li id="menu-item-4633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4633"><a href="http://habi.gna.ch/pictures/">pictures</a></li>
+<li id="menu-item-4634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4634"><a href="http://habi.gna.ch/videos/">videos</a></li>
+</ul></div>				
+			</nav><!-- .site-navigation .main-navigation -->
+		
+			</header>
+	<!-- #masthead .site-header -->
+
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<main id="content" class="site-content" role="main">
+
+			<section class="error-404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">Oops! That page can&rsquo;t be found.</h1>
+				</header>
+				<!-- .entry-header -->
+
+				<div class="entry-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<form method="get" id="searchform" action="http://habi.gna.ch/" role="search">
+	<label for="s" class="screen-reader-text">Search</label>
+	<input type="text" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+
+							<div class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
+											<li>
+					<a href="http://habi.gna.ch/2019/01/16/wo-war-ich-im-2018/">Wo war ich im 2018?</a>
+									</li>
+											<li>
+					<a href="http://habi.gna.ch/2019/01/10/im-2018-habe-ich-uber-10000-schritte-pro-tag-gemacht/">Im 2018 habe ich über 10000 Schritte pro Tag gemacht</a>
+									</li>
+											<li>
+					<a href="http://habi.gna.ch/2019/01/08/2018-in-bildern/">2018 in Bildern</a>
+									</li>
+											<li>
+					<a href="http://habi.gna.ch/2019/01/04/recommended-readings-vom-dezember-2018/">Recommended Readings vom Dezember 2018</a>
+									</li>
+											<li>
+					<a href="http://habi.gna.ch/2018/12/23/guaffor-namen/">Guafför-Namen</a>
+									</li>
+					</ul>
+		</div>
+											<div class="widget widget_categories">
+							<h2 class="widgettitle">Most Used Categories</h2>
+							<ul>
+									<li class="cat-item cat-item-1"><a href="http://habi.gna.ch/category/none/" >none</a> (558)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://habi.gna.ch/category/personal/" >personal</a> (527)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://habi.gna.ch/category/linkdump/" >linkdump</a> (188)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://habi.gna.ch/category/technospeak/" >technospeak</a> (138)
+</li>
+	<li class="cat-item cat-item-22"><a href="http://habi.gna.ch/category/moblog/" >moblog</a> (108)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://habi.gna.ch/category/tschorman/" >tschörman</a> (107)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://habi.gna.ch/category/switzerland/" >switzerland</a> (96)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://habi.gna.ch/category/pictures/" >pictures</a> (94)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://habi.gna.ch/category/picture-of-the-week/" >picture of the week</a> (93)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://habi.gna.ch/category/gadgets-and-gizmos/" >gadgets and gizmos</a> (70)
+</li>
+							</ul>
+						</div>
+						<!-- .widget -->
+					
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. :)</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://habi.gna.ch/2019/01/'> January 2019 </option>
+	<option value='http://habi.gna.ch/2018/12/'> December 2018 </option>
+	<option value='http://habi.gna.ch/2018/11/'> November 2018 </option>
+	<option value='http://habi.gna.ch/2018/10/'> October 2018 </option>
+	<option value='http://habi.gna.ch/2018/09/'> September 2018 </option>
+	<option value='http://habi.gna.ch/2018/08/'> August 2018 </option>
+	<option value='http://habi.gna.ch/2018/07/'> July 2018 </option>
+	<option value='http://habi.gna.ch/2018/06/'> June 2018 </option>
+	<option value='http://habi.gna.ch/2018/05/'> May 2018 </option>
+	<option value='http://habi.gna.ch/2018/04/'> April 2018 </option>
+	<option value='http://habi.gna.ch/2018/03/'> March 2018 </option>
+	<option value='http://habi.gna.ch/2018/02/'> February 2018 </option>
+	<option value='http://habi.gna.ch/2018/01/'> January 2018 </option>
+	<option value='http://habi.gna.ch/2017/12/'> December 2017 </option>
+	<option value='http://habi.gna.ch/2017/11/'> November 2017 </option>
+	<option value='http://habi.gna.ch/2017/10/'> October 2017 </option>
+	<option value='http://habi.gna.ch/2017/09/'> September 2017 </option>
+	<option value='http://habi.gna.ch/2017/08/'> August 2017 </option>
+	<option value='http://habi.gna.ch/2017/07/'> July 2017 </option>
+	<option value='http://habi.gna.ch/2017/06/'> June 2017 </option>
+	<option value='http://habi.gna.ch/2017/05/'> May 2017 </option>
+	<option value='http://habi.gna.ch/2017/04/'> April 2017 </option>
+	<option value='http://habi.gna.ch/2017/03/'> March 2017 </option>
+	<option value='http://habi.gna.ch/2017/02/'> February 2017 </option>
+	<option value='http://habi.gna.ch/2017/01/'> January 2017 </option>
+	<option value='http://habi.gna.ch/2016/12/'> December 2016 </option>
+	<option value='http://habi.gna.ch/2016/11/'> November 2016 </option>
+	<option value='http://habi.gna.ch/2016/10/'> October 2016 </option>
+	<option value='http://habi.gna.ch/2016/09/'> September 2016 </option>
+	<option value='http://habi.gna.ch/2016/08/'> August 2016 </option>
+	<option value='http://habi.gna.ch/2016/07/'> July 2016 </option>
+	<option value='http://habi.gna.ch/2016/06/'> June 2016 </option>
+	<option value='http://habi.gna.ch/2016/05/'> May 2016 </option>
+	<option value='http://habi.gna.ch/2016/04/'> April 2016 </option>
+	<option value='http://habi.gna.ch/2016/03/'> March 2016 </option>
+	<option value='http://habi.gna.ch/2016/02/'> February 2016 </option>
+	<option value='http://habi.gna.ch/2016/01/'> January 2016 </option>
+	<option value='http://habi.gna.ch/2015/12/'> December 2015 </option>
+	<option value='http://habi.gna.ch/2015/11/'> November 2015 </option>
+	<option value='http://habi.gna.ch/2015/10/'> October 2015 </option>
+	<option value='http://habi.gna.ch/2015/09/'> September 2015 </option>
+	<option value='http://habi.gna.ch/2015/08/'> August 2015 </option>
+	<option value='http://habi.gna.ch/2015/07/'> July 2015 </option>
+	<option value='http://habi.gna.ch/2015/06/'> June 2015 </option>
+	<option value='http://habi.gna.ch/2015/05/'> May 2015 </option>
+	<option value='http://habi.gna.ch/2015/04/'> April 2015 </option>
+	<option value='http://habi.gna.ch/2015/03/'> March 2015 </option>
+	<option value='http://habi.gna.ch/2015/02/'> February 2015 </option>
+	<option value='http://habi.gna.ch/2015/01/'> January 2015 </option>
+	<option value='http://habi.gna.ch/2014/12/'> December 2014 </option>
+	<option value='http://habi.gna.ch/2014/11/'> November 2014 </option>
+	<option value='http://habi.gna.ch/2014/10/'> October 2014 </option>
+	<option value='http://habi.gna.ch/2014/09/'> September 2014 </option>
+	<option value='http://habi.gna.ch/2014/08/'> August 2014 </option>
+	<option value='http://habi.gna.ch/2014/07/'> July 2014 </option>
+	<option value='http://habi.gna.ch/2014/06/'> June 2014 </option>
+	<option value='http://habi.gna.ch/2014/05/'> May 2014 </option>
+	<option value='http://habi.gna.ch/2014/04/'> April 2014 </option>
+	<option value='http://habi.gna.ch/2014/03/'> March 2014 </option>
+	<option value='http://habi.gna.ch/2014/02/'> February 2014 </option>
+	<option value='http://habi.gna.ch/2014/01/'> January 2014 </option>
+	<option value='http://habi.gna.ch/2013/12/'> December 2013 </option>
+	<option value='http://habi.gna.ch/2013/11/'> November 2013 </option>
+	<option value='http://habi.gna.ch/2013/10/'> October 2013 </option>
+	<option value='http://habi.gna.ch/2013/09/'> September 2013 </option>
+	<option value='http://habi.gna.ch/2013/08/'> August 2013 </option>
+	<option value='http://habi.gna.ch/2013/07/'> July 2013 </option>
+	<option value='http://habi.gna.ch/2013/06/'> June 2013 </option>
+	<option value='http://habi.gna.ch/2013/05/'> May 2013 </option>
+	<option value='http://habi.gna.ch/2013/04/'> April 2013 </option>
+	<option value='http://habi.gna.ch/2013/03/'> March 2013 </option>
+	<option value='http://habi.gna.ch/2013/02/'> February 2013 </option>
+	<option value='http://habi.gna.ch/2013/01/'> January 2013 </option>
+	<option value='http://habi.gna.ch/2012/12/'> December 2012 </option>
+	<option value='http://habi.gna.ch/2012/11/'> November 2012 </option>
+	<option value='http://habi.gna.ch/2012/10/'> October 2012 </option>
+	<option value='http://habi.gna.ch/2012/09/'> September 2012 </option>
+	<option value='http://habi.gna.ch/2012/08/'> August 2012 </option>
+	<option value='http://habi.gna.ch/2012/07/'> July 2012 </option>
+	<option value='http://habi.gna.ch/2012/06/'> June 2012 </option>
+	<option value='http://habi.gna.ch/2012/05/'> May 2012 </option>
+	<option value='http://habi.gna.ch/2012/04/'> April 2012 </option>
+	<option value='http://habi.gna.ch/2012/03/'> March 2012 </option>
+	<option value='http://habi.gna.ch/2012/02/'> February 2012 </option>
+	<option value='http://habi.gna.ch/2012/01/'> January 2012 </option>
+	<option value='http://habi.gna.ch/2011/12/'> December 2011 </option>
+	<option value='http://habi.gna.ch/2011/11/'> November 2011 </option>
+	<option value='http://habi.gna.ch/2011/10/'> October 2011 </option>
+	<option value='http://habi.gna.ch/2011/09/'> September 2011 </option>
+	<option value='http://habi.gna.ch/2011/08/'> August 2011 </option>
+	<option value='http://habi.gna.ch/2011/07/'> July 2011 </option>
+	<option value='http://habi.gna.ch/2011/06/'> June 2011 </option>
+	<option value='http://habi.gna.ch/2011/05/'> May 2011 </option>
+	<option value='http://habi.gna.ch/2011/04/'> April 2011 </option>
+	<option value='http://habi.gna.ch/2011/03/'> March 2011 </option>
+	<option value='http://habi.gna.ch/2011/02/'> February 2011 </option>
+	<option value='http://habi.gna.ch/2011/01/'> January 2011 </option>
+	<option value='http://habi.gna.ch/2010/12/'> December 2010 </option>
+	<option value='http://habi.gna.ch/2010/11/'> November 2010 </option>
+	<option value='http://habi.gna.ch/2010/10/'> October 2010 </option>
+	<option value='http://habi.gna.ch/2010/09/'> September 2010 </option>
+	<option value='http://habi.gna.ch/2010/08/'> August 2010 </option>
+	<option value='http://habi.gna.ch/2010/07/'> July 2010 </option>
+	<option value='http://habi.gna.ch/2010/06/'> June 2010 </option>
+	<option value='http://habi.gna.ch/2010/05/'> May 2010 </option>
+	<option value='http://habi.gna.ch/2010/04/'> April 2010 </option>
+	<option value='http://habi.gna.ch/2010/03/'> March 2010 </option>
+	<option value='http://habi.gna.ch/2010/02/'> February 2010 </option>
+	<option value='http://habi.gna.ch/2010/01/'> January 2010 </option>
+	<option value='http://habi.gna.ch/2009/12/'> December 2009 </option>
+	<option value='http://habi.gna.ch/2009/11/'> November 2009 </option>
+	<option value='http://habi.gna.ch/2009/10/'> October 2009 </option>
+	<option value='http://habi.gna.ch/2009/09/'> September 2009 </option>
+	<option value='http://habi.gna.ch/2009/08/'> August 2009 </option>
+	<option value='http://habi.gna.ch/2009/07/'> July 2009 </option>
+	<option value='http://habi.gna.ch/2009/06/'> June 2009 </option>
+	<option value='http://habi.gna.ch/2009/05/'> May 2009 </option>
+	<option value='http://habi.gna.ch/2009/04/'> April 2009 </option>
+	<option value='http://habi.gna.ch/2009/03/'> March 2009 </option>
+	<option value='http://habi.gna.ch/2009/02/'> February 2009 </option>
+	<option value='http://habi.gna.ch/2009/01/'> January 2009 </option>
+	<option value='http://habi.gna.ch/2008/12/'> December 2008 </option>
+	<option value='http://habi.gna.ch/2008/11/'> November 2008 </option>
+	<option value='http://habi.gna.ch/2008/10/'> October 2008 </option>
+	<option value='http://habi.gna.ch/2008/09/'> September 2008 </option>
+	<option value='http://habi.gna.ch/2008/08/'> August 2008 </option>
+	<option value='http://habi.gna.ch/2008/07/'> July 2008 </option>
+	<option value='http://habi.gna.ch/2008/06/'> June 2008 </option>
+	<option value='http://habi.gna.ch/2008/05/'> May 2008 </option>
+	<option value='http://habi.gna.ch/2008/04/'> April 2008 </option>
+	<option value='http://habi.gna.ch/2008/03/'> March 2008 </option>
+	<option value='http://habi.gna.ch/2008/02/'> February 2008 </option>
+	<option value='http://habi.gna.ch/2008/01/'> January 2008 </option>
+	<option value='http://habi.gna.ch/2007/12/'> December 2007 </option>
+	<option value='http://habi.gna.ch/2007/11/'> November 2007 </option>
+	<option value='http://habi.gna.ch/2007/10/'> October 2007 </option>
+	<option value='http://habi.gna.ch/2007/09/'> September 2007 </option>
+	<option value='http://habi.gna.ch/2007/08/'> August 2007 </option>
+	<option value='http://habi.gna.ch/2007/07/'> July 2007 </option>
+	<option value='http://habi.gna.ch/2007/06/'> June 2007 </option>
+	<option value='http://habi.gna.ch/2007/05/'> May 2007 </option>
+	<option value='http://habi.gna.ch/2007/04/'> April 2007 </option>
+	<option value='http://habi.gna.ch/2007/03/'> March 2007 </option>
+	<option value='http://habi.gna.ch/2007/02/'> February 2007 </option>
+	<option value='http://habi.gna.ch/2007/01/'> January 2007 </option>
+	<option value='http://habi.gna.ch/2006/12/'> December 2006 </option>
+	<option value='http://habi.gna.ch/2006/11/'> November 2006 </option>
+	<option value='http://habi.gna.ch/2006/10/'> October 2006 </option>
+	<option value='http://habi.gna.ch/2006/09/'> September 2006 </option>
+	<option value='http://habi.gna.ch/2006/08/'> August 2006 </option>
+	<option value='http://habi.gna.ch/2006/07/'> July 2006 </option>
+	<option value='http://habi.gna.ch/2006/06/'> June 2006 </option>
+	<option value='http://habi.gna.ch/2006/05/'> May 2006 </option>
+	<option value='http://habi.gna.ch/2006/04/'> April 2006 </option>
+	<option value='http://habi.gna.ch/2006/03/'> March 2006 </option>
+	<option value='http://habi.gna.ch/2006/02/'> February 2006 </option>
+	<option value='http://habi.gna.ch/2006/01/'> January 2006 </option>
+	<option value='http://habi.gna.ch/2005/12/'> December 2005 </option>
+	<option value='http://habi.gna.ch/2005/11/'> November 2005 </option>
+	<option value='http://habi.gna.ch/2005/10/'> October 2005 </option>
+	<option value='http://habi.gna.ch/2005/09/'> September 2005 </option>
+	<option value='http://habi.gna.ch/2005/08/'> August 2005 </option>
+	<option value='http://habi.gna.ch/2005/07/'> July 2005 </option>
+	<option value='http://habi.gna.ch/2005/06/'> June 2005 </option>
+	<option value='http://habi.gna.ch/2005/05/'> May 2005 </option>
+	<option value='http://habi.gna.ch/2005/04/'> April 2005 </option>
+	<option value='http://habi.gna.ch/2005/03/'> March 2005 </option>
+	<option value='http://habi.gna.ch/2005/02/'> February 2005 </option>
+	<option value='http://habi.gna.ch/2005/01/'> January 2005 </option>
+	<option value='http://habi.gna.ch/2004/12/'> December 2004 </option>
+	<option value='http://habi.gna.ch/2004/11/'> November 2004 </option>
+	<option value='http://habi.gna.ch/2004/10/'> October 2004 </option>
+	<option value='http://habi.gna.ch/2004/09/'> September 2004 </option>
+	<option value='http://habi.gna.ch/2004/08/'> August 2004 </option>
+	<option value='http://habi.gna.ch/2004/07/'> July 2004 </option>
+	<option value='http://habi.gna.ch/2004/06/'> June 2004 </option>
+	<option value='http://habi.gna.ch/2004/05/'> May 2004 </option>
+	<option value='http://habi.gna.ch/2004/04/'> April 2004 </option>
+	<option value='http://habi.gna.ch/2004/03/'> March 2004 </option>
+	<option value='http://habi.gna.ch/2004/02/'> February 2004 </option>
+	<option value='http://habi.gna.ch/2004/01/'> January 2004 </option>
+	<option value='http://habi.gna.ch/2003/12/'> December 2003 </option>
+	<option value='http://habi.gna.ch/2003/11/'> November 2003 </option>
+	<option value='http://habi.gna.ch/2003/10/'> October 2003 </option>
+	<option value='http://habi.gna.ch/2003/09/'> September 2003 </option>
+	<option value='http://habi.gna.ch/2003/08/'> August 2003 </option>
+	<option value='http://habi.gna.ch/2003/07/'> July 2003 </option>
+
+		</select>
+		</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="http://habi.gna.ch/tag/1se/" class="tag-cloud-link tag-link-335 tag-link-position-1" style="font-size: 13.727272727273pt;" aria-label="1se (13 items)">1se</a>
+<a href="http://habi.gna.ch/tag/aare/" class="tag-cloud-link tag-link-166 tag-link-position-2" style="font-size: 11.181818181818pt;" aria-label="aare (8 items)">aare</a>
+<a href="http://habi.gna.ch/tag/apple/" class="tag-cloud-link tag-link-449 tag-link-position-3" style="font-size: 8pt;" aria-label="apple (4 items)">apple</a>
+<a href="http://habi.gna.ch/tag/bern/" class="tag-cloud-link tag-link-66 tag-link-position-4" style="font-size: 17.290909090909pt;" aria-label="bern (26 items)">bern</a>
+<a href="http://habi.gna.ch/tag/bike/" class="tag-cloud-link tag-link-451 tag-link-position-5" style="font-size: 15.127272727273pt;" aria-label="bike (17 items)">bike</a>
+<a href="http://habi.gna.ch/tag/dance/" class="tag-cloud-link tag-link-68 tag-link-position-6" style="font-size: 9.0181818181818pt;" aria-label="dance (5 items)">dance</a>
+<a href="http://habi.gna.ch/tag/divecenter-ch/" class="tag-cloud-link tag-link-156 tag-link-position-7" style="font-size: 9.0181818181818pt;" aria-label="divecenter.ch (5 items)">divecenter.ch</a>
+<a href="http://habi.gna.ch/tag/diving/" class="tag-cloud-link tag-link-454 tag-link-position-8" style="font-size: 20.090909090909pt;" aria-label="diving (44 items)">diving</a>
+<a href="http://habi.gna.ch/tag/flickr/" class="tag-cloud-link tag-link-452 tag-link-position-9" style="font-size: 22pt;" aria-label="flickr (62 items)">flickr</a>
+<a href="http://habi.gna.ch/tag/fun/" class="tag-cloud-link tag-link-450 tag-link-position-10" style="font-size: 12.327272727273pt;" aria-label="fun (10 items)">fun</a>
+<a href="http://habi.gna.ch/tag/gps/" class="tag-cloud-link tag-link-457 tag-link-position-11" style="font-size: 12.836363636364pt;" aria-label="gps (11 items)">gps</a>
+<a href="http://habi.gna.ch/tag/happy-new-year/" class="tag-cloud-link tag-link-102 tag-link-position-12" style="font-size: 8pt;" aria-label="happy new year (4 items)">happy new year</a>
+<a href="http://habi.gna.ch/tag/hugin/" class="tag-cloud-link tag-link-112 tag-link-position-13" style="font-size: 12.327272727273pt;" aria-label="hugin (10 items)">hugin</a>
+<a href="http://habi.gna.ch/tag/ifttt/" class="tag-cloud-link tag-link-391 tag-link-position-14" style="font-size: 21.490909090909pt;" aria-label="IFTTT (57 items)">IFTTT</a>
+<a href="http://habi.gna.ch/tag/india/" class="tag-cloud-link tag-link-225 tag-link-position-15" style="font-size: 9.0181818181818pt;" aria-label="india (5 items)">india</a>
+<a href="http://habi.gna.ch/tag/instapaper/" class="tag-cloud-link tag-link-375 tag-link-position-16" style="font-size: 21.363636363636pt;" aria-label="instapaper (55 items)">instapaper</a>
+<a href="http://habi.gna.ch/tag/iphone/" class="tag-cloud-link tag-link-57 tag-link-position-17" style="font-size: 18.690909090909pt;" aria-label="iphone (34 items)">iphone</a>
+<a href="http://habi.gna.ch/tag/jahresruckblick/" class="tag-cloud-link tag-link-411 tag-link-position-18" style="font-size: 14.363636363636pt;" aria-label="jahresrückblick (15 items)">jahresrückblick</a>
+<a href="http://habi.gna.ch/tag/kritik/" class="tag-cloud-link tag-link-371 tag-link-position-19" style="font-size: 14.363636363636pt;" aria-label="kritik (15 items)">kritik</a>
+<a href="http://habi.gna.ch/tag/kurzkritik/" class="tag-cloud-link tag-link-290 tag-link-position-20" style="font-size: 13.727272727273pt;" aria-label="kurzkritik (13 items)">kurzkritik</a>
+<a href="http://habi.gna.ch/tag/langde/" class="tag-cloud-link tag-link-36 tag-link-position-21" style="font-size: 11.181818181818pt;" aria-label="lang:de (8 items)">lang:de</a>
+<a href="http://habi.gna.ch/tag/linkdump/" class="tag-cloud-link tag-link-448 tag-link-position-22" style="font-size: 9.0181818181818pt;" aria-label="linkdump (5 items)">linkdump</a>
+<a href="http://habi.gna.ch/tag/moblog/" class="tag-cloud-link tag-link-455 tag-link-position-23" style="font-size: 22pt;" aria-label="moblog (62 items)">moblog</a>
+<a href="http://habi.gna.ch/tag/monthly-readings/" class="tag-cloud-link tag-link-388 tag-link-position-24" style="font-size: 9.9090909090909pt;" aria-label="monthly readings (6 items)">monthly readings</a>
+<a href="http://habi.gna.ch/tag/movies/" class="tag-cloud-link tag-link-456 tag-link-position-25" style="font-size: 11.818181818182pt;" aria-label="movies (9 items)">movies</a>
+<a href="http://habi.gna.ch/tag/music/" class="tag-cloud-link tag-link-453 tag-link-position-26" style="font-size: 14.363636363636pt;" aria-label="music (15 items)">music</a>
+<a href="http://habi.gna.ch/tag/oberhofen/" class="tag-cloud-link tag-link-161 tag-link-position-27" style="font-size: 8pt;" aria-label="oberhofen (4 items)">oberhofen</a>
+<a href="http://habi.gna.ch/tag/oeschinensee/" class="tag-cloud-link tag-link-118 tag-link-position-28" style="font-size: 9.0181818181818pt;" aria-label="oeschinensee (5 items)">oeschinensee</a>
+<a href="http://habi.gna.ch/tag/panorama/" class="tag-cloud-link tag-link-113 tag-link-position-29" style="font-size: 14.745454545455pt;" aria-label="panorama (16 items)">panorama</a>
+<a href="http://habi.gna.ch/tag/photography/" class="tag-cloud-link tag-link-237 tag-link-position-30" style="font-size: 9.0181818181818pt;" aria-label="photography (5 items)">photography</a>
+<a href="http://habi.gna.ch/tag/photos/" class="tag-cloud-link tag-link-459 tag-link-position-31" style="font-size: 10.545454545455pt;" aria-label="photos (7 items)">photos</a>
+<a href="http://habi.gna.ch/tag/python/" class="tag-cloud-link tag-link-124 tag-link-position-32" style="font-size: 11.181818181818pt;" aria-label="python (8 items)">python</a>
+<a href="http://habi.gna.ch/tag/reading/" class="tag-cloud-link tag-link-383 tag-link-position-33" style="font-size: 15.381818181818pt;" aria-label="reading (18 items)">reading</a>
+<a href="http://habi.gna.ch/tag/recommended-readings/" class="tag-cloud-link tag-link-525 tag-link-position-34" style="font-size: 14.363636363636pt;" aria-label="recommended readings (15 items)">recommended readings</a>
+<a href="http://habi.gna.ch/tag/renzo/" class="tag-cloud-link tag-link-162 tag-link-position-35" style="font-size: 11.818181818182pt;" aria-label="renzo (9 items)">renzo</a>
+<a href="http://habi.gna.ch/tag/seerie/" class="tag-cloud-link tag-link-447 tag-link-position-36" style="font-size: 14.745454545455pt;" aria-label="seerie (16 items)">seerie</a>
+<a href="http://habi.gna.ch/tag/skiing/" class="tag-cloud-link tag-link-47 tag-link-position-37" style="font-size: 9.9090909090909pt;" aria-label="skiing (6 items)">skiing</a>
+<a href="http://habi.gna.ch/tag/thunersee/" class="tag-cloud-link tag-link-145 tag-link-position-38" style="font-size: 15.127272727273pt;" aria-label="thunersee (17 items)">thunersee</a>
+<a href="http://habi.gna.ch/tag/timelapse/" class="tag-cloud-link tag-link-140 tag-link-position-39" style="font-size: 15.127272727273pt;" aria-label="timelapse (17 items)">timelapse</a>
+<a href="http://habi.gna.ch/tag/velocontent/" class="tag-cloud-link tag-link-143 tag-link-position-40" style="font-size: 15.381818181818pt;" aria-label="velocontent (18 items)">velocontent</a>
+<a href="http://habi.gna.ch/tag/video/" class="tag-cloud-link tag-link-26 tag-link-position-41" style="font-size: 14.745454545455pt;" aria-label="video (16 items)">video</a>
+<a href="http://habi.gna.ch/tag/vimeo/" class="tag-cloud-link tag-link-191 tag-link-position-42" style="font-size: 9.9090909090909pt;" aria-label="vimeo (6 items)">vimeo</a>
+<a href="http://habi.gna.ch/tag/visualization/" class="tag-cloud-link tag-link-154 tag-link-position-43" style="font-size: 8pt;" aria-label="visualization (4 items)">visualization</a>
+<a href="http://habi.gna.ch/tag/wedding/" class="tag-cloud-link tag-link-63 tag-link-position-44" style="font-size: 8pt;" aria-label="wedding (4 items)">wedding</a>
+<a href="http://habi.gna.ch/tag/youtube/" class="tag-cloud-link tag-link-27 tag-link-position-45" style="font-size: 8pt;" aria-label="youtube (4 items)">youtube</a></div>
+</div>
+				</div>
+				<!-- .entry-content -->
+			</section>
+			<!-- .error-404 -->
+
+		</main>
+		<!-- #main -->
+	</div><!-- #primary .content-area -->
+
+
+</div><!-- #main .site-main -->
+
+<footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+	<div class="site-info">
+		<a href="http://independentpublisher.me" rel="designer" title="Independent Publisher: A beautiful reader-focused WordPress theme, for you.">Independent Publisher</a> empowered by <a href="http://wordpress.org/" rel="generator" title="WordPress: A free open-source publishing platform">WordPress</a>	</div>
+	<!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+</div><!-- #page .hfeed .site -->
+
+	<div style="display:none">
+	</div>
+		<!-- Progress Bar - https://github.com/rstacruz/nprogress -->
+
+		<div class="bar" role="bar"></div>
+		<script type="text/javascript">
+			NProgress.start();
+
+			setTimeout(function () {
+
+				NProgress.done();
+
+				jQuery('.fade').removeClass('out');
+
+			}, 1000);
+
+			jQuery("#b-0").click(function () {
+				NProgress.start();
+			});
+			jQuery("#b-40").click(function () {
+				NProgress.set(0.4);
+			});
+			jQuery("#b-inc").click(function () {
+				NProgress.inc();
+			});
+			jQuery("#b-100").click(function () {
+				NProgress.done();
+			});
+		</script>
+
+		<!-- End Progress Bar -->
+
+		<script type='text/javascript' src='http://habi.gna.ch/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=e'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201904'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Janaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.0.3'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/themes/independent-publisher/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.9'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-content/plugins/jetpack/_inc/build/likes/queuehandler.min.js?ver=6.9'></script>
+<script type='text/javascript' src='http://habi.gna.ch/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201904.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.9',blog:'1068721',post:'0',tz:'1',srv:'habi.gna.ch'} ]);
+	_stq.push([ 'clickTrackerInit', '1068721', '0' ]);
+</script>
+
+</body>
+</html>

@@ -58,6 +58,3 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [How to straighten a pigs tail!](https://www.youtube.com/watch?v=jTXEnE37FyM): Letzte Woche auf einem Spaziergang mit den Schweinen [hier](http://www.fitfuersleben.ch/landwirtschaft/betrieb/index.html) ausprobiert, und das funktioniert tatsächlich.
 
 
-  * [The elephant is afraid of goats](https://www.youtube.com/watch?v=4LlEyaQkWho): Jöö-Content.
-
-

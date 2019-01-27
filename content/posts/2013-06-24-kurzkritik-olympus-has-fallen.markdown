@@ -11,6 +11,7 @@ categories:
 - movies
 tags:
 - kritik
+- kurzkritik
 - movies
 ---
 
