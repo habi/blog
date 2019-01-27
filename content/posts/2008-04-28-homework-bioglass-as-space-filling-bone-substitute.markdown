@@ -2,9 +2,9 @@
 author: admin
 comments: true
 date: 2008-04-28 20:24:24+00:00
-link: http://habi.gna.ch/2008/04/28/homework-bioglass-as-space-%ef%ac%81lling-bone-substitute/
-slug: homework-bioglass-as-space-%ef%ac%81lling-bone-substitute
-title: "Homework: Bioglass as space ï¬\x81lling bone substitute"
+link: http://habi.gna.ch/2008/04/28/homework-bioglass-as-space-filling-bone-substitute/
+slug: homework-bioglass-as-space-filling-bone-substitute
+title: "Homework: Bioglass as space filling bone substitute"
 wordpress_id: 1242
 categories:
 - personal
