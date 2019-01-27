@@ -12,20 +12,11 @@ categories:
 - switzerland
 - tschörman
 tags:
-- b&#228;renpark
+- bärenpark
 ---
 
 die dame mit den kindern war nicht draussen, die fotos, welche von finn entstanden, sind am ublichen ort zu finden.
 
-
-
-
 speziell herausheben mochte ich aber dieses foto, welches wohl gut zu einer geschichte eines traurigen kindes passen wurde.
 
-
-
-
 [![DSC_6217.JPG](http://habi.gna.ch/wp-content/uploads/2010/03/DSC_6217-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2010/03/DSC_6217.jpg)
-
-
-

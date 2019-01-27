@@ -10,14 +10,10 @@ wordpress_id: 2602
 categories:
 - personal
 tags:
-- '#occupy'
+- occupy
 - '2012'
 ---
 
 Häbet es guets 2012!
 
-
-
-
 [![Occupy 2012!](http://habi.gna.ch/wp-content/uploads/2011/12/DSC_0045-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/12/DSC_0045.jpg)    
-

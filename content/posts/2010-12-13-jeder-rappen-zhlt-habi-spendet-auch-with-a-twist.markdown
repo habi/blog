@@ -13,7 +13,7 @@ categories:
 tags:
 - aare
 - bern
-- jeder rappen z&#228;hlt
+- jeder rappen zählt
 - jrz
 ---
 
