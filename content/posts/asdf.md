@@ -1,5 +1,5 @@
 +++
-date = "asdf"
+date = "26.2.2019"
 subtitle = "and"
 tags = ["this", " that", " something", " something more"]
 title = "asdf"
