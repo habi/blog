@@ -8,7 +8,7 @@ categories:
 tags:
 - instapaper
 - reading
-- recommended readgings
+- recommended readings
 - linkdump
 ---
 
