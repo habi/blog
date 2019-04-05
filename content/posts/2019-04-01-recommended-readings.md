@@ -31,6 +31,5 @@ Im letzten Monat las ich unter anderem folgende Texte und fand diese gut:
 
 Im letzten Monat sah ich unter anderem folgende Videos und fand diese gut:
 
-- {{< youtube 1coEIN7safI >}}
-  Richtig gutes Zeug! [via [Jan's Zettelkasten](https://pieceoplastic.com/zk/2019/03/19/)]
+- {{< youtube 1coEIN7safI >}} Richtig gutes Zeug! [via [Jan's Zettelkasten](https://pieceoplastic.com/zk/2019/03/19/)]
 - [Die Lichtnahrung](https://www.ndr.de/fernsehen/sendungen/panorama_die_reporter/Die-Lichtnahrung,sendung875712.html) <span style="color: #999999;">(daserste.ndr.de)</span>: Finn Bogumil hat sich im November 2017 zu Tode gefastet. Wie es dazu kam und ein paar Informationen von Menschen, die glauben, nur von Licht leben zu können zeigt diese Doku vom NDR.
