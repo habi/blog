@@ -1,7 +1,7 @@
 ---
-title: "Recommended Readings vom April 2019"
+title: "Recommended Readings vom Mai 2019"
 date: 2019-05-15T21:00:45+02:00
-slug: recommended-readings-april-2019
+slug: recommended-readings-mai-2019
 categories:
 - recommended readings
 tags:
