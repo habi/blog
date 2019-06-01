@@ -1,3 +1,16 @@
+---
+title: "Recommended Readings vom Juni 2019"
+date: 2019-06-01T21:00:00+02:00
+slug: recommended-readings-june-2019
+categories:
+- recommended readings
+tags:
+- instapaper
+- reading
+- recommended readings
+- linkdump
+---
+
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
 - [Eating Way Too Much Rice Almost Doomed Japan's Imperial Navy | The National Interest](https://nationalinterest.org/blog/buzz/eating-way-too-much-rice-almost-doomed-japans-imperial-navy-59542) <span style="color: #999999;">(nationalinterest.org)</span>: Eating Way Too Much Rice Almost Doomed Japan's Imperial Navy | For thousands of years, diseases had been seen through the lens of kampo, traditional Chinese herbal medicine. In kampo, disease was caused by heat or evils and… | http://bit.ly/2W2ey8e | via Instapaper and IFTTT
