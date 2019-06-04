@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: "Recommended Readings vom Juni 2019"
 date: 2019-06-01T21:00:00+02:00
 slug: recommended-readings-june-2019
