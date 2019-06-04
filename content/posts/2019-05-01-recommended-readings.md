@@ -48,9 +48,9 @@ Eben: Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-<iframe width="1024" height="576" src="https://media.ccc.de/v/35c3-9375-silivaccine_north_korea_s_weapon_of_mass_detection/oembed" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://media.ccc.de/v/35c3-9375-silivaccine_north_korea_s_weapon_of_mass_detection/oembed"></iframe>
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/hans_rosling_and_the_magic_washing_machine" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<iframe src="https://embed.ted.com/talks/hans_rosling_and_the_magic_washing_machine"></iframe>
 
 {{< youtube zUyH3XhpLTo >}}
 
@@ -62,9 +62,9 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 {{< youtube EC1P6LBeTEw >}}
 
-<iframe src="//assets.nationalgeographic.com/modules-video/latest/assets/ngsEmbeddedVideo.html?guid=00000167-2e09-db05-a7ef-beeb4a0e0000" seamless="" scrolling="no" allowfullscreen="" width="640" height="365" frameborder="0"></iframe>
+<iframe src="//assets.nationalgeographic.com/modules-video/latest/assets/ngsEmbeddedVideo.html?guid=00000167-2e09-db05-a7ef-beeb4a0e0000"></iframe>
 Die Doku zum [langen Text über Susan Potter](https://www.nationalgeographic.com/magazine/2019/01/visible-human-susan-potter-cadaver/). Achtung, mit toten Menschen, die für die Wissenschaft und die Ausbildung von Mediziner*innen aufbereitet werden.
 
-<iframe width="1024" height="576" src="https://media.ccc.de/v/35c3-9851-conquering_large_numbers_at_the_lhc/oembed" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://media.ccc.de/v/35c3-9851-conquering_large_numbers_at_the_lhc/oembed"></iframe>
 
-{{< youtube.com uv9oax2N160 >}}
+{{< youtube uv9oax2N160 >}}
