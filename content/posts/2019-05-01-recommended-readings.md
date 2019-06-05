@@ -13,7 +13,7 @@ tags:
 
 Dieses Mal hat's etwas länger gedauert.
 Aber mein geliebtes 15" MacBook Pro ist nach knapp 8 Jahren definitiv tot.
-Und da ich nicht einfach das TimeMachine Backup rüberkopiert habe, sondern den neuen Laptop von Grund auf aufgesettz habe, dauert eine Weile, bis ich mich um die `Recommended Readings` kümmern wollte.
+Und da ich nicht einfach das TimeMachine Backup rüberkopiert habe, sondern den neuen Laptop von Grund auf aufgesetzt habe, dauert es eine Weile, bis ich mich um die `Recommended Readings` kümmern wollte.
 Aber wenigstens kam ich viel zum lesen in den letzten Wochen, es kam eine ziemlich lange Liste zusammen :)
 
 Eben: Im letzten Monat las ich folgende Texte und fand diese gut:
