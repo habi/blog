@@ -57,7 +57,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
 Hans Rosling ist immer wieder gut.
 
 {{< youtube zUyH3XhpLTo >}}
-Jeder und jede hat letzthin [das 'Foto' des schwarzen Loches](https://www.wired.com/story/scientists-reveal-the-first-picture-of-a-black-hole/( gesehen: hier die anschauliche Erklärung, wieso es so aussieht, wie es aussieht.
+Jeder und jede hat letzthin [das 'Foto' des schwarzen Loches](https://www.wired.com/story/scientists-reveal-the-first-picture-of-a-black-hole/) gesehen: hier die anschauliche Erklärung, wieso es so aussieht, wie es aussieht.
 
 {{< youtube MeFsmFTU2JQ >}}
 [SPImagine](https://github.com/maweigert/spimagine) ist genial, um in kürzester Zeit grosse Datensätze zu visualisieren.
