@@ -16,13 +16,13 @@ tags:
 - python
 ---
 
-Hier der nächste meiner Posts zum 2018. Eine Darstellung meiner, wo ich mich aufgehalten habe. Dieser und andere Posts sind unter dem Tag `[jahresrückblick18](http://habi.gna.ch/tag/jahresruckblick18)` zu finden.
+Hier der nächste meiner Posts zum 2018. Eine Darstellung meiner, wo ich mich aufgehalten habe. Dieser und andere Posts sind unter dem Tag [`jahresrückblick18`](http://habi.gna.ch/tag/jahresruckblick18) zu finden.
 
 Seit [OpenPaths](https://openpaths.cc/) ganz tot ist, speichert mein Telefon seine Position mit [WHIB](http://www.bleatinc.com/). Dank einer 2$-_Premium_-Funktion kann ich die Positionsdaten als CSV-Datei exportieren und diese dann mit etwas Python analysieren und darstellen.
 
 Im 2018 war ich eher wenig (ausserhalb der Schweiz) mobil. Wenn mensch den Osterausflug nach Konstanz zur Schweiz zählt, war ich "nur" im Herbst in Sardinien (Ferien) und Anfangs Dezember in Heidelberg (Konferenz) ausserhalb der Landesgrenzen.
 
-Die 13843 Datenpunkte ansprechen einer Position ca. alle 90 Minuten (stimmt nur halb, denn mein Telefon ist in der Nacht immer ausgeschaltet). Vom nördlichsten Punkt am Bahnhof Mannheim bis zum südlichsten Punkt am Strand von Porto Giunco an der Südspitze von Sardinien sind es Luftlinie ca. 1151, vom westlichsten Punkt (Yverdon) zum östlichsten (ebenfalls in Sardinien) wären es 242 km, wenn die Punkte denn auf der gleichen geografischen Höhe wären...  
+Die 13843 Datenpunkte ansprechen einer Position ca. alle 90 Minuten (stimmt nur halb, denn mein Telefon ist in der Nacht immer ausgeschaltet). Vom nördlichsten Punkt am Bahnhof Mannheim bis zum südlichsten Punkt am Strand von Porto Giunco an der Südspitze von Sardinien sind es Luftlinie ca. 1151, vom westlichsten Punkt (Yverdon) zum östlichsten (ebenfalls in Sardinien) wären es 242 km, wenn die Punkte denn auf der gleichen geografischen Höhe wären...
 Damit wären auch die Extrem-Positionen auf der Kompassrose geklärt.
 
 Der höchste Punkt war am Ausgang der [Tunnelpiste beim Bettmerhorn](https://duckduckgo.com/?q=tunnelpiste+bettmerhorn&t=osx&ia=videos), bei 2641 müM. Im Durchschnitt war ich im Kandertal bei Kandergrund, im Median habe ich mich im Weissenbühl befunden.
