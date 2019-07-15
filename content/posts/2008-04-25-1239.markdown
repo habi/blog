@@ -16,7 +16,7 @@ tags:
 - youtoube
 ---
 
-http://youtube.com/v/UtqjmuUaYXA
+{{<  youtube nU1VfYYKMDk >}}
 
 ich hab soeben mein fünf-seitiges homework abgegeben, diese woche bei meiner auswärts-arbeit einiges erreicht, heute abend freunde zum znacht, morgen geht's zum ersten mal dieses jahr [ins wasser](http://www.dck.ch/ezcontents/showdetails.php?contentid=806), am abend ans unifest, am sonntag je nach wetter auf eine kleine velotour und am abend wieder fein essen mit freunden.
 dieses video passt grad zu meinem gefühl. oh yeah!

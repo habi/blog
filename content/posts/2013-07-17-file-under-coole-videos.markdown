@@ -10,4 +10,4 @@ categories:
 - linkdump
 ---
 
-http://youtu.be/IxPbgnO81sQ
+{{< youtube IxPbgnO81sQ >}}
