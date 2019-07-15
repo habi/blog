@@ -13,4 +13,4 @@ categories:
 Offensichtlich kann mensch als Erwachsener das Velofahren in 8 Monaten verlernen.
 Als Kind dauert das nur ein paar Wochen.
 
-http://youtu.be/MFzDaBzBlL0
+{{<  youtube MFzDaBzBlL0 >}}
