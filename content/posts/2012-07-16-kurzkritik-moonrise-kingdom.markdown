@@ -15,7 +15,4 @@ tags:
 
 Ein wunderhübscher, streng stilisierter Film mit Staraufgebot in ebenso wunderhübschen Rollen. Macht Lust darauf, in der Brocki einen batteriebetriebenen Plattenspieler zu kaufen, ein Zelt zu packen und mit der Liebsten an einem See zu campieren.
 
-
-
-
 Und die Pyjama-Hosen von Bill Murray sind ebenfalls absolut sehenswert.

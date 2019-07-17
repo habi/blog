@@ -15,17 +15,6 @@ tags:
 - musik
 ---
 
-
-
-  * [Gazelle Twin](http://gazelletwin.com/): Eher schwierig. Ich werde wohl alt...
-
-
-
-  * [Algiers](http://algierstheband.com/): Die musikalische Neuentdeckung vom letzten Jahr spielt live mit viel Druck. Schade durften sie nicht länger als eine Stunde spielen.
-
-
-
-  * [Ventil](https://ventilmusic.wordpress.com/): Diese Wiener sanmer a bisserl zu verkopft.
-
-
-
+* [Gazelle Twin](http://gazelletwin.com/): Eher schwierig. Ich werde wohl alt...
+* [Algiers](http://algierstheband.com/): Die musikalische Neuentdeckung vom letzten Jahr spielt live mit viel Druck. Schade durften sie nicht länger als eine Stunde spielen.
+* [Ventil](https://ventilmusic.wordpress.com/): Diese Wiener sanmer a bisserl zu verkopft.

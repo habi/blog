@@ -19,6 +19,5 @@ Beim Freilichtspektakel [Cyclope](http://www.cyclope2012.ch/) wusste ich zwische
 
 Absolut sehenswert, noch bis Mitte September in Nidau bei Biel.
 [![](http://habi.gna.ch/wp-content/uploads/2012/08/jst_cyclope_25.jpg__2000x2000_q95-199x300.jpg)](http://habi.gna.ch/wp-content/uploads/2012/08/jst_cyclope_25.jpg__2000x2000_q95.jpg)[![](http://habi.gna.ch/wp-content/uploads/2012/08/jst_cyclope_28.jpg__2000x2000_q95-300x199.jpg)](http://habi.gna.ch/wp-content/uploads/2012/08/jst_cyclope_28.jpg__2000x2000_q95.jpg)
-  
 
 Die Fotos sind von der [Presse-Seite](http://www.cyclope2012.ch/de/photos/showpics/) von Cyclope, da während dem Stück nicht fotografiert werden darf. Was auch gut ist.
