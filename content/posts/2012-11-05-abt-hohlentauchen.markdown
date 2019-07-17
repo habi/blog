@@ -14,4 +14,4 @@ tags:
 
 Ich tauche ja gerne und auch öppendie. Aber was diese Amis da mitts auf diesem Kontinent abziehen (im wahrsten Sinne des Wortes), um sich durch Höhlen zu zwängen geht jetzt auch mir ein bisschen zu weit. Aber seht selbst im unten eingebundenen Video:
 
-http://www.youtu.be/WtlwoX1YEmg
+{{< youtube WtlwoX1YEmg >}}

@@ -11,18 +11,10 @@ categories:
 ---
 
 
- [![](http://farm3.static.flickr.com/2601/4213684427_172ea85f8f_m.jpg)](http://www.flickr.com/photos/habi/4213684427/)
-   
+[![](http://farm3.static.flickr.com/2601/4213684427_172ea85f8f_m.jpg)](http://www.flickr.com/photos/habi/4213684427/)
 
- 
-  [Schöni Wienachte](http://www.flickr.com/photos/habi/4213684427/)
-    
+[Schöni Wienachte](http://www.flickr.com/photos/habi/4213684427/)
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
 Mit de Kummerbuebe
-  
-

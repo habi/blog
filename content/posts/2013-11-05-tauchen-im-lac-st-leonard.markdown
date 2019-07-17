@@ -22,6 +22,6 @@ Im Schein unserer Lampen betrachteten wir die bizarren, ausgewaschenen Gipsforma
 Bei diesem speziellen und wunderschönen Tauchgang hatte ich die Kamera dabei, schlussendlich entstand das unten eingebundene Video.
 Viel Spass damit.
 
-https://vimeo.com/78579911
+{{< vimeo 78579911 >}}
 
 [1] Für [Tekkies](http://de.wikipedia.org/wiki/Technisches_Tauchen) ist’s erst ein Höhlentauchgang, wenn mensch nicht mehr direkt auftauchen kann, der Lac St-Léonard ist aber immer und jederzeit (jedenfalls soweit mensch tauchen kann) gegen oben offen, schliesslich müssen ja dort die Touristen durchböötlen.

@@ -20,4 +20,4 @@ Eben, letzten Samschtig war ich mit Herr Simu [Kummerbuben](http://www.kummerbub
 
 Dieses Mal entstand ein etwas längeres Video, das ihr unten eingebunden findet.
 
-http://vimeo.com/29234114
+{{< vimeo 29234114 >}}

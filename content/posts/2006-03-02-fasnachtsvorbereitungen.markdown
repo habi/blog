@@ -11,22 +11,14 @@ categories:
 ---
 
 
- [![](http://static.flickr.com/36/106851594_530ad41854_m.jpg)](http://www.flickr.com/photos/habi/106851594/)
-   
+[![](http://static.flickr.com/36/106851594_530ad41854_m.jpg)](http://www.flickr.com/photos/habi/106851594/)
 
- 
-  [getting ready for the fasnacht](http://www.flickr.com/photos/habi/106851594/)
-    
+[getting ready for the fasnacht](http://www.flickr.com/photos/habi/106851594/)
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
+im moment mach ich einen zivildienst.
 
+so siehts aus, wenn man material fur die kinderfasnacht morgen vorbereitet.
 
-im moment mach ich einen zivildienst.  
-
-so siehts aus, wenn man material fur die kinderfasnacht morgen vorbereitet.  
-
-eine aufnahme mit der panoramafunktion meines handys (mit notizen, die auf flickr erscheinen)
-  
-
+eine aufnahme mit der panoramafunktion meines handys (mit notizen, die auf flickr erscheinen).

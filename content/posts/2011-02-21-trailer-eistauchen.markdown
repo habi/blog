@@ -22,8 +22,6 @@ Am vergangenen Samschtig war ich wieder mal mit dem [divecenter.ch](http://divec
 
 Natürlich habe ich meine Kamera mitgenommen und einiges an Material aufgenommen. Da ich mal die [Trailer-Funktion von iMovie](http://www.apple.com/ilife/imovie/#movie-trailers) ausprobieren wollte, gibt's unten eingebunden einen Vorgeschmack auf den Film, den's geben könnte:
 
-http://vimeo.com/20148383
+{{< vimeo 20148383 >}}
 
 Die Fotos, die ich gemacht habe, sind auf [flickr hochgeladen](http://grobmotoriker.ch/fotos/index.php?type=sets&setId=72157625964680865) und auch hier unten eingebunden, die Divelogs der beiden Tauchgänge sind [hier](http://habi.gna.ch/divelog/2011.02.19.oeschinensee1.pdf) und [hier](http://habi.gna.ch/divelog/2011.02.19.oeschinensee2.pdf) zu finden. Und ein Panorama des Tauchplatzes gab's auch, das ist in der [360°-Version hier](http://habi.gna.ch/panoramas/oeschinensee.html) zu finden. Sobald der Film dann ernsthaft zusammengeschnitten ist, werdet ihr das mitbekommen.
-
-

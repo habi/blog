@@ -11,26 +11,11 @@ categories:
 ---
 
 
- [![](http://farm5.static.flickr.com/4038/4618471437_4f39f28e1d_m.jpg)](http://www.flickr.com/photos/habi/4618471437/)
-   
+[![](http://farm5.static.flickr.com/4038/4618471437_4f39f28e1d_m.jpg)](http://www.flickr.com/photos/habi/4618471437/)
 
- 
-  [US-amerikanischer Unsinn: Free Shuttle](http://www.flickr.com/photos/habi/4618471437/)
-    
+[US-amerikanischer Unsinn: Free Shuttle](http://www.flickr.com/photos/habi/4618471437/)
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
-
-
-Parking mit kostenlosem Shuttledienst auf der einen Strassenseite,  
-
-Konferenzzentrum in dem meine Lungenkonferenz stattfindet auf der  
-
-anderen Strassenseite. Die Helen Brett Schmuckmesse zu der geshuttelt  
-
-wird, findet im gleichen Konferenzzentrum ca. 400m weiter unten an  
-
-derselben Strasse statt...
-  
-
+Parking mit kostenlosem Shuttledienst auf der einen Strassenseite, Konferenzzentrum in dem meine Lungenkonferenz stattfindet auf der anderen Strassenseite.
+Die Helen Brett Schmuckmesse zu der geshuttelt wird, findet im gleichen Konferenzzentrum ca. 400m weiter unten an derselben Strasse statt...
