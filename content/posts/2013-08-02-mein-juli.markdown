@@ -15,132 +15,38 @@ tags:
 
 Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/), [Mai](http://habi.gna.ch/2013/06/01/mein-mai/) und [Juni](http://habi.gna.ch/2013/07/01/mein-juni/) hab' ich im Juli jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
 
-http://vimeo.com/71543161
+{{< vimeo 71543161 >}}
 
 Die Liste:
-
-
-
-
-  
-  * die [neue Uhr](http://getpebble.com) unter Realbedingungen testen. Der Testbericht erscheint nächste Woche in der BZ
-
-
-  
-  * Zügeln bei Freunden
-
-
-  
-  * Jassturnier planen
-
-
-  
-  * [Taucher](http://divelog.davidhaberth%C3%BCr.ch/2013.07.04.boudry.pdf) ohne Auto füllen so die Flasche
-
-
-  
-  * Gratuliere Dr. Thömu!
-
-
-  
-  * Am und im [Neuenburgersee](http://divelog.davidhaberth%C3%BCr.ch/2013.07.06.robinson.pdf)
-
-
-  
-  * Am und im Murtensee
-
-
-  
-  * Am Genfersee
-
-
-  
-  * Abends auf dem Balkon
-
-
-  
-  * MIttagspause
-
-
-  
-  * Am Abe im Marzili
-
-
-  
-  * Auf dem [langen Heimweg](http://runkeeper.com/user/davidhaberthuer/activity/208014954?&tripIdBase36=3fuhd6) in allerletzter Sekunde den Zug erwischt
-
-
-  
-  * Ein [Wochenende](http://runkeeper.com/user/davidhaberthuer/activity/208938679?) auf dem [Aletschgletscher](http://runkeeper.com/user/davidhaberthuer/activity/208939776)
-
-
-  
-  * Beim durchfahren des Randstreifens zwei Gänseblümchen mitgenommen
-
-
-  
-  * Training
-
-
-  
-  * [Video](https://vimeo.com/70514011) zusammenbasteln
-
-
-  
-  * Ga [jogge](http://runkeeper.com/user/davidhaberthuer/activity/210969595), wes fürds Velofahre ds fescht rägnet
-
-
-  
-  * Letzter Punk für Dr. Thömu. Tschüss!
-
-
-  
-  * Mitem Nino ga crossne
-
-
-  
-  * Im Marzili
-
-
-  
-  * Morgens um halb acht: Ein Heisslufballon über dem Bundeshaus
-
-
-  
-  * Training
-
-
-  
-  * Mal im Rhein baden
-
-
-  
-  * Wunderhimmel
-
-
-  
-  * Grillieren im Eichholz
-
-
-  
-  * Rasenmähen bei der Cousine
-
-
-  
-  * Wieder beim [Aletschgletscher](http://runkeeper.com/user/davidhaberthuer/activity/215904921)
-
-
-  
-  * Abends im Bahnhof Brugg
-
-
-  
-  * Zügeln bei Freunden
-
-
-  
-  * Schon bald ist erster August :)
-
-
+* die [neue Uhr](http://getpebble.com) unter Realbedingungen testen. Der Testbericht erscheint nächste Woche in der BZ
+* Zügeln bei Freunden
+* Jassturnier planen
+* [Taucher](http://divelog.davidhaberth%C3%BCr.ch/2013.07.04.boudry.pdf) ohne Auto füllen so die Flasche
+* Gratuliere Dr. Thömu!
+* Am und im [Neuenburgersee](http://divelog.davidhaberth%C3%BCr.ch/2013.07.06.robinson.pdf)
+* Am und im Murtensee
+* Am Genfersee
+* Abends auf dem Balkon
+* Mittagspause
+* Am Abe im Marzili
+* Auf dem [langen Heimweg](http://runkeeper.com/user/davidhaberthuer/activity/208014954?&tripIdBase36=3fuhd6) in allerletzter Sekunde den Zug erwischt
+* Ein [Wochenende](http://runkeeper.com/user/davidhaberthuer/activity/208938679?) auf dem [Aletschgletscher](http://runkeeper.com/user/davidhaberthuer/activity/208939776)
+* Beim durchfahren des Randstreifens zwei Gänseblümchen mitgenommen
+* Training
+* [Video](https://vimeo.com/70514011) zusammenbasteln
+* Ga [jogge](http://runkeeper.com/user/davidhaberthuer/activity/210969595), wes fürds Velofahre ds fescht rägnet
+* Letzter Punkt für Dr. Thömu. Tschüss!
+* Mitem Nino ga crossne
+* Im Marzili
+* Morgens um halb acht: Ein Heisslufballon über dem Bundeshaus
+* Training
+* Mal im Rhein baden
+* Wunderhimmel
+* Grillieren im Eichholz
+* Rasenmähen bei der Cousine
+* Wieder beim [Aletschgletscher](http://runkeeper.com/user/davidhaberthuer/activity/215904921)
+* Abends im Bahnhof Brugg
+* Zügeln bei Freunden
+* Schon bald ist erster August :)
 
 **update:** Seit heute gibt's die App auch für Android-Telefone. Schaut im [Google Play Store, hier.](https://play.google.com/store/apps/details?id=co.touchlab.android.onesecondeveryday)
