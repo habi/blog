@@ -15,7 +15,8 @@ tags:
 In den paar Zugfahrten seit Samstag habe ich nun meine Videoschnipsel versucht zu einem Film zusammenzusetzen.
 Das Resultat - das Video vom Eintauchen 2013 - ist unten eingebunden.
 
-http://vimeo.com/61219041
+{{< vimeo 61219041 >}}
 
 Wer auch noch sehen möchte, wie's am Samstag auf dem Eis ausgesehen hat, kann das in diesem Panorama unten tun:
 
+<iframe src="https://www.360cities.net/embed_iframe/switzerland-oeschinensee-icediving" width="425" height="315" frameborder="0" bgcolor="#000000" target="_blank" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe><br/><a title="Panorama photos of Ice diving in the Oeschinensee on 360cities.net" href="https://www.360cities.net/image/switzerland-oeschinensee-icediving">Ice diving in the Oeschinensee</a>

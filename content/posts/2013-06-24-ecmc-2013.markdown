@@ -31,4 +31,4 @@ Diese sind [hier](http://fotos.davidhaberth%C3%BCr.ch/index.php?type=sets&setId=
 Mit meinem [neuen Super-Weitwinkel-Objektiv](http://www.flickr.com/groups/94829136@N00/) und der [dazupassenden Software](http://www.panolapse360.com) hab' ich auch ein paar Zeitraffer-Schnipsel gemacht.
 Das resultierende Filmli ist unten eingebunden.
 
-http://vimeo.com/69023364
+{{< vimeo 69023364 >}}

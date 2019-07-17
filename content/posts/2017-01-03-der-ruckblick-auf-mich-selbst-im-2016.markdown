@@ -17,7 +17,7 @@ Hier einer meiner Post zum Jahresrückblick aufs 2016. Die anderen (kommenden) s
 
 Wie im [2014](http://habi.gna.ch/2015/01/10/jahresruckblick-auf-mich-selbst) und [2015](http://habi.gna.ch/2016/01/11/der-ruckblick-auf-mich-selbst-im-2015/) habe ich mit der [Everyday App](http://everyday-app.com) praktisch jeden Tag ein Selfie gemacht. Mit [dem gleichen Skript wie letztes Jahr](https://github.com/habi/facealign/commits/master) habe ich meine 332 Selfies ausgerichtet. Zusammengesetzt mit der [Zeitraffer-App](https://itunes.apple.com/ch/app/zeitraffer/id572526628) kommt schlussendlich dieses Video hier raus.
 
-https://vimeo.com/197950840
+{{< vimeo 197950840 >}}
 
 So seh’ ich aus, wenn mensch den Durchschnitt aus allen 332 ausgerichteten Bildern macht. Mein durchschnittliches Gesicht im 2016.
 

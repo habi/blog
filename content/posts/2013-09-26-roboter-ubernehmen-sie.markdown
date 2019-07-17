@@ -22,7 +22,7 @@ Mit ausgeklügelter Software und sogenannten Projektions-Mapping (genauso wie be
 
 Was rauskommt, ist unglaublich beeindruckend anzusehen, und ich glaube es ist fast nicht übertrieben, eines der [drei Gesetze](http://de.wikipedia.org/wiki/Clarkesche_Gesetze) von [Herr Clarke](http://de.wikipedia.org/wiki/Arthur_C._Clarke) zu zitieren: "Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden".
 
-http://vimeo.com/75260457
+{{< vimeo 75260457 >}}
 
 Nebenbei lohnt es sich auch noch ein-zwei [andere Videos](http://www.botndolly.com/media) der Bot & Dolly-Crew anzugucken.
 Wenn ich einen Film drehen würde und zuviel Geld hätte, würde ich mir einen [Scout](http://www.botndolly.com/introducing-scout) oder eine [Iris](http://www.botndolly.com/introducing-iris) von denen zulegen…

@@ -23,4 +23,4 @@ Kommt vorbei, es wird sicher lustig!
 
 **update:** Für diejenigen, die's nicht geschafft haben: Genau so hat's am Mittwoch Abend ausgesehen, halt nur auf etwas grösserer Leinwand...
 
-http://vimeo.com/64673909
+{{< vimeo 64673909 >}}
