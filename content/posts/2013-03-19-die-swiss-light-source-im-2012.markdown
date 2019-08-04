@@ -26,11 +26,11 @@ Damit ich mit den Bildern etwas dynamischer den Jahresverlauf zeigen kann, habe 
 Das Skript ist unten eingebunden und kann in meinem [Python-GitHub-Repository](https://github.com/habi/python) geforkt und kopiert werden, wenn Bedarf daran besteht.
 Ich habe versucht, das Skript grosszügig zu kommentieren, so dass die interessierte Leserschaft sieht, was wie gemacht wird :)
 
-
+<script src="http://gist-it.appspot.com/github/habi/python/blob/master/blendit.py?slice=11:"></script>
 
 Mit der Hilfe der [AppStore-Neuentdeckung Zeitraffer](https://itun.es/ch/KabiI.m) habe ich die jeweils 100 Bilder jeder Monats-Überblendung zu einem Film zusammengesetzt und mit iMovie noch etwas Titelei dazugemacht.
 Das Endprodukt dieses ganzen Vorgangs ist der unten eingebundene Film: das Jahr 2012 im Innenhof der SLS in einer Minute.
 
-http://vimeo.com/62185694
+{{< vimeo 62185694 >}}
 
 [1]: In den letzten Monaten programmierte ich etwas häufiger als auch schon, dabei habe ich die Einfachheit von Git kennengelernt. Mittlerweilen habe ich einen grossen Teil meines (öffentlichen) Programm- und Skript-Codes [bei Github](https://github.com/habi) deponiert.

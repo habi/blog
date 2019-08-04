@@ -17,16 +17,12 @@ tags:
 Forscher von IBM haben mit einem [Rasterkraftmikroskop](http://de.wikipedia.org/wiki/Rasterkraftmikroskop) einige Atome auf einer Oberfläche rumbewegt, um den kleinsten Film der Welt zu machen.
 Härzig!
 
-http://youtu.be/oSCX78-8-q0
+{{< youtube oSCX78-8-q0 >}}
 
 Bemerkenswerter fand' ich aber, dass der Projektleiter sagt:
 
-
-
 <blockquote>If I can get a thousand kids to join science rather than go to law school, I'd be super happy</blockquote>
-
-
 
 [Yeah, science bitch!](http://weknowmemes.com/2012/12/yeah-science-bitch/), etwa [bei 04:22 im Making-of Video](http://www.youtube.com/watch?v=xA4QWwaweWA&feature=youtu.be&t=4m22s), das ich unten auch eingebunden habe.
 
-http://youtu.be/xA4QWwaweWA
+{{< youtube xA4QWwaweWA >}}

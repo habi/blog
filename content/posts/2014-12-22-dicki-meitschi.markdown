@@ -14,7 +14,7 @@ tags:
 - video
 ---
 
-http://youtu.be/aAYhMnsFXvI
+{{< youtube aAYhMnsFXvI >}}
 
 Wer mir erkennt, gewinnt ein Sirüpi :)
 Und ja, ich hab' die Kleider anbehalten.

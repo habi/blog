@@ -10,9 +10,10 @@ categories:
 - personal
 ---
 
-Ich geb's ja zu, einer meiner Fetische ist Handwerkern über die Schulter zu schauen. Was [Dalibor Farny](http://www.daliborfarny.com) macht, schlägt vieles, das ich schon gesehen habe. Er baut von Grund auf [Nixie-Röhren](https://de.wikipedia.org/wiki/Nixie-Röhre) und zeigt in untenstehendem Youtube-Video, wie das geht.
+Ich geb's ja zu, einer meiner Fetische ist Handwerkern über die Schulter zu schauen. Was [Dalibor Farny](http://www.daliborfarny.com) macht, schlägt vieles, das ich schon gesehen habe.
+Er baut von Grund auf [Nixie-Röhren](https://de.wikipedia.org/wiki/Nixie-Röhre) und zeigt in untenstehendem Youtube-Video, wie das geht.
 
-https://youtu.be/wxL4ElboiuA
+{{< youtube wxL4ElboiuA >}}
 
 40 Minuten Handwerker-Porno!
 

@@ -19,4 +19,4 @@ Spontan am Freitag Abend spät organisiert, tauchte ich mit Stiwi hinter Boudry 
 Dabei entstand kein [pädagogisch wertvolles Video](https://twitter.com/viergrad/status/376606578079965184), aber immerhin eines mit ein paar Einsichten in die Untewasserwelt.
 Die dazugehörigen Fotos finden sich in diesem [flickr-set hier](http://www.flickr.com/photos/habi/sets/72157635536366775/).
 
-http://vimeo.com/74744307
+{{< vimeo 74744307 >}}

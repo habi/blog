@@ -11,7 +11,6 @@ categories:
 - linkdump
 ---
 
-
-
+{{< vimeo 25401444 >}}
 
 Nicht nur solche Videos schauen, sondern selber so eine Apparatur bauen: [Markus Kayser](http://www.markuskayser.com/) baut mit Hilfe einer grossen [Fresnel-Linse](http://de.wikipedia.org/wiki/Fresnel-Linse), etwas Alu, Skateboard-Rollen und Sand gesinterte Objekte im klassischen [3D-Druck-Verfahren](http://de.wikipedia.org/wiki/Digital_Fabricator). Im Video passiert nicht allzuviel, deshalb hat's mir wohl auch so gut gefallen, eine tolle Idee.

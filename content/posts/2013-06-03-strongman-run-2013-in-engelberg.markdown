@@ -22,4 +22,4 @@ Einerseits einen Heidenspass, andererseits bin ich wohl doch nicht stark genug, 
 Dank einer Verteilung von 50% GoPro-Kameras pro Team-Mitglied (danke Lars für die Kamera, danke Renzo für die Video-Schnipsel) entstand unterstehender, recht wackliger und langer Film.
 Nur so falls Ihr schauen wollt, wie's in etwa war.
 
-http://vimeo.com/67518275
+{{< vimeo 67518275 >}}

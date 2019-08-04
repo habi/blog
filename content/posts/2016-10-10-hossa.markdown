@@ -13,6 +13,6 @@ categories:
 Ist Werbung, aber _was_ für eine!
 Eine sich sehr beeindruckend bewegende Tänzerin und ein geiler Song; zieht euch das mal rein.
 
-https://youtu.be/ABz2m0olmPg
+{{< youtube ABz2m0olmPg >}}
 
 [via [Jan](http://pieceoplastic.com/index.php/7324/ruff-linkage-201635/)]

@@ -18,6 +18,6 @@ Letzen Samstag habe ich gemeinsam mit [Simu](http://www.kummerbuben.com/de/bio/)
 
 Bei [diesem Tauchgang](http://habi.gna.ch/divelog/2010.09.18.altreu.pdf) ist auch ein eher kurzes Video entstanden, es ist unten eingebunden.
 
-http://vimeo.com/15080910
+{{< vimeo 15080910 >}}
 
 Und ja, das Video aus der [Verzasca](http://habi.gna.ch/2010/09/13/verzasca-posse/) steht auch noch auf der Todo-Liste. Peut a peut!

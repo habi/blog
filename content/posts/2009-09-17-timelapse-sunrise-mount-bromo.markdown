@@ -16,7 +16,7 @@ tags:
 
 Ich bin wieder da, schön wars, mindestens so schön wie dieser sonnenaufgang auf dem aussichtspunkt zum [bromo](http://en.wikipedia.org/wiki/Mount_Bromo), den ich aufgenommen habe.
 
-http://vimeo.com/6622255
+{{< vimeo 6622255 >}}
 
 25 minuten sonnenaufgang komprimiert in 30 Sekunden. da ich mit der grossen kamera am fotografieren war, habe ich einfach ein film aufgenommen und jedes 50. bild daraus für dieses timelapse verwendet. wenn nicht irgend so ein dahergelaufener japaner meine sauber positionierte kamera hätte klauen wollen, wäre auch der sonnenaufgang drauf, so sieht man halt nur, wie es hell wird.
 

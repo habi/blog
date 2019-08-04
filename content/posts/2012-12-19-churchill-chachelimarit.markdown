@@ -21,4 +21,4 @@ Am [Ende](http://www.flickr.com/photos/habi/8278904216/in/set-72157632263027614)
 
 Bei meinem 221. Tauchgang ist das unten eingebundene Video entstanden, die restlichen Fotos finden sich in diesem [Set](http://fotos.davidhaberth%C3%BCr.ch/index.php?type=sets&setId=72157632263027614).
 
-http://vimeo.com/55959666
+{{< vimeo 55959666 >}}

@@ -20,6 +20,6 @@ Der unten eingebundene Film ist so entstanden, dass mit einer Software die erste
 
 Und dass die Begleitmusik aus dem dem Video von der wunderbaren Band [Beirut](http://beirutband.com) stammt, macht's nochmal ein Stück besser, aber seht selbst:
 
-http://vimeo.com/7878518
+{{< vimeo 7878518 >}}
 
 [via [nerdcore.de](http://www.crackajack.de/2012/11/08/choreographed-slit-scan-dance/)]

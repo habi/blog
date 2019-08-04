@@ -16,15 +16,6 @@ categories:
 
 [eine woche später](http://habi.gna.ch/2007/12/14/ferientage-with-map/) habe ich nochmals einen ferientag bezogen, bin ich nochmals auf velo gesessen, dabei herausgekommt ist wieder ein netter, 64km langer track durch bern, mit einem ausflug nach münchenbuchsee, zu sehen hier unten.
 
-
-
-
-  
-
 [Tracks_2007_12_18_Kurier.gpx](http://habi.gna.ch/wp-content/uploads/2008/01/tracks-2007-12-18-kurier.gpx)
-
-
-
-
 
 [gps](http://technorati.com/tag/gps), [lang:de](http://technorati.com/tag/lang:de)

@@ -17,4 +17,4 @@ tags:
 Am Freitag Abend waren meine Kamera und ich kurz an der [Museumsnacht](http://www.museumsnacht-bern.ch).
 Herausgekommen ist dies:
 
-http://vimeo.com/62542185
+{{< vimeo 62542185 >}}

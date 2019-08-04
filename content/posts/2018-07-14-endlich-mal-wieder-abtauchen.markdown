@@ -20,8 +20,6 @@ tags:
 - thunersee
 ---
 
-![](https://farm2.staticflickr.com/1767/43351788922_d99b3d0585_b.jpg)  
-
-  
+![](https://farm2.staticflickr.com/1767/43351788922_d99b3d0585_b.jpg)
 
 from [Flickr](https://flic.kr/p/293RfuA) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

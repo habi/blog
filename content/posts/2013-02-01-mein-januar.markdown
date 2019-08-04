@@ -24,107 +24,31 @@ Unten ist das Filmli eingebunden, welches im Januar entstanden ist.
 Für mich ist spannend zu sehen, dass ich mich trotz der nur sehr kurzen einsekündigen Ausschnitte genau an die Situation erinnern kann.
 Mal schauen, ob das mit einem längeren Film dann immernoch möglich ist.
 
-http://vimeo.com/58668011
+{{< vimeo 58668011 >}}
 
 Die Liste
 
-
-
-
-  
-  * Silvester in den Vidmarhallen
-
-
-  
-  * Winter-Wunderland
-
-
-  
-  * Eine schöne Brücke, [immernoch](http://habi.gna.ch/2011/11/28/on-the-road/)
-
-
-  
-  * Ein Kanute am Mittag
-
-
-  
-  * Unglaublicher Rückenwind
-
-
-  
-  * Korrekturen, Korrekturen
-
-
-  
-  * :)
-
-
-  
-  * Geburi bei Freunden
-
-
-  
-  * [Ein geiles Konzert](http://habi.gna.ch/2013/01/08/the-national-fanfare-of-kadebostany-walking-with-a-goast/)
-
-
-  
-  * Kalt!
-
-
-  
-  * Plötzlicher Schneesturm
-
-
-  
-  * Fiirabe
-
-
-  
-  * a trained monkey could do it  
-
-
-
-  
-  * Wunderschöner Sonnenaufgang auf dem Weg an einen Sitzungstag in Lausanne
-
-
-  
-  * [Deutschland](http://www.flickr.com/photos/habi/sets/72157632588693658/), 2x
-
-
-  
-  * Mal wieder die Traumnovelle lesen
-
-
-  
-  * Fiirabe
-
-
-  
-  * Läck isch das früeh
-
-
-  
-  * Freitag ist dafür Freitag
-
-
-  
-  * [St. Moritz](http://www.flickr.com/photos/habi/sets/72157632623130875/), 2x
-
-
-  
-  * Frühlingsboten?
-
-
-  
-  * Das [Hallenbad City](http://www.flickr.com/photos/habi/8427985250/) ist u schön
-
-
-  
-  * Hunger nach dem Training
-
-
-  
-  * #Geheimprojekt, Teile 2 & 3
-
-
+* Silvester in den Vidmarhallen
+* Winter-Wunderland
+* Eine schöne Brücke, [immernoch](http://habi.gna.ch/2011/11/28/on-the-road/)
+* Ein Kanute am Mittag
+* Unglaublicher Rückenwind
+* Korrekturen, Korrekturen
+* :)
+* Geburi bei Freunden
+* [Ein geiles Konzert](http://habi.gna.ch/2013/01/08/the-national-fanfare-of-kadebostany-walking-with-a-goast/)
+* Kalt!
+* Plötzlicher Schneesturm
+* Fiirabe
+* a trained monkey could do it
+* Wunderschöner Sonnenaufgang auf dem Weg an einen Sitzungstag in Lausanne
+* [Deutschland](http://www.flickr.com/photos/habi/sets/72157632588693658/), 2x
+* Mal wieder die Traumnovelle lesen
+* Fiirabe
+* Läck isch das früeh
+* Freitag ist dafür Freitag
+* [St. Moritz](http://www.flickr.com/photos/habi/sets/72157632623130875/), 2x
+* Frühlingsboten?
+* Das [Hallenbad City](http://www.flickr.com/photos/habi/8427985250/) ist u schön
+* Hunger nach dem Training
+* #Geheimprojekt, Teile 2 & 3

@@ -20,7 +20,7 @@ Dabei herausgekommen ist das folgende grandiose Video, die Steigerung eines Zeit
 
 Mäsche, das Ding ist grandios, ich bin neidisch!
 
-http://vimeo.com/92014511
+{{< vimeo 92014511 >}}
 
 Ich könnt’ jetzt auch noch erwähnten, dass wir zusammen einen Abend in der Stadt waren, und er mir seine Technik gezeigt hat.
 Da ich meine Hyperlapse-Versuche bis jetzt nur mit [OpenSourceSoftware](http://bigwww.epfl.ch/thevenaz/stackreg/) statt mit [After Effects](http://www.adobe.com/products/aftereffects.html) ausgerichtet habe, ist mein Ergebnis aber etwas ernüchternder, wie [hier](http://cl.ly/UZIC) zu sehen ist.

@@ -11,26 +11,10 @@ categories:
 ---
 
 
- [![](http://farm4.static.flickr.com/3254/3114313288_ec786b48f1_m.jpg)](http://www.flickr.com/photos/habi/3114313288/)
-   
+[![](http://farm4.static.flickr.com/3254/3114313288_ec786b48f1_m.jpg)](http://www.flickr.com/photos/habi/3114313288/)
 
+[alternativer weihnachtsbaum](http://www.flickr.com/photos/habi/3114313288/)
+
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
  
-  [alternativer weihnachtsbaum](http://www.flickr.com/photos/habi/3114313288/)
-    
-
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-ein ast aus dem wald, eine vase, ein paar steine, 4kg blei aus der  
-
-tauchkiste, eine lichterkette und eine gewiefte freundin, fertig ist  
-
-der weihnachtsschmuck!  
-
-  
-
-sent from my iPhone, please excuse my brevity and the potential typos.
-  
-
+ein ast aus dem wald, eine vase, ein paar steine, 4kg blei aus der tauchkiste, eine lichterkette und eine gewiefte freundin, fertig ist der weihnachtsschmuck!
