@@ -1,25 +1,23 @@
 baseURL = "https://blog.davidhaberthuer.ch"
 languageCode = "en-us"
-title = "This used to be habi.gna.ch"
+publishDir = "public"
 theme = "ananke"
-[permalinks]
-  posts = "/:year/:month/:day/:slug/"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+title = "This used to be habi.gna.ch"
 [params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/habi"
-  instagram = ""
-  youtube = "http://youtube.com/habi"
-  github = "http://github.com/habi"
-  gitlab = ""
-  linkedin = "https://www.linkedin.com/in/haberthuer/"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-green"
-  recent_posts_number = 10
+	background_color_class = "bg-green"
+	description = "The last theme you'll ever need. Maybe."
+	facebook = ""
+	favicon = ""
+	github = "http://github.com/habi"
+	gitlab = ""
+	instagram = ""
+	linkedin = "https://www.linkedin.com/in/haberthuer/"
+	recent_posts_number = 10
+	twitter = "https://twitter.com/habi"
+	youtube = "http://youtube.com/habi"
+[permalinks]
+	posts = "/:year/:month/:day/:slug/"
+[sitemap]
+	changefreq = "monthly"
+	filename = "sitemap.xml"
+	priority = 0.50000000000000000
