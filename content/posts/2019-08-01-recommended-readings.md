@@ -1,8 +1,7 @@
 ---
-draft: yes
-title: "Recommended Readings vom August 2019"
+title: "Recommended Readings vom Juli 2019"
 date: 2019-08-01T21:00:00+02:00
-slug: recommended-readings-august-2019
+slug: recommended-readings-juli-2019
 categories:
 - recommended readings
 tags:
@@ -22,13 +21,9 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [The PGP Problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html) <span style="color: #999999;">(latacora.micro.blog)</span>: Als ich letzthin meine neue Maschine aufgesetzt habe, habe ic für einige neue Software gezahlt ([BetterTouchTool](https://folivora.ai/) ist sehr super), aber die 25$ für die Vollversion der [GPG Suite](https://gpgtools.org/) habe ich noch nicht gezahlt. Denn die Kontakte, die mir per PGP schreiben kann ich an zwei Fingern abzählen. Ist PGP tot? Ich glaube ja.
 - [Why I’m turning my son into a cyborg](https://qz.com/1650393/transhumanist-parents-are-turning-their-children-into-cyborgs/) <span style="color: #999999;">(qz.com)</span>: Sollen wir psychische und physische Einschränkungen mit maschineller Hilfe lindern? Ich denke ja, ein Rollstuhl ist ja eigentlich nichts anderes.
 - [AI is supercharging the creation of maps around the world](https://tech.fb.com/ai-is-supercharging-the-creation-of-maps-around-the-world/) <span style="color: #999999;">(tech.fb.com)</span>: Facebook bringt künstliche Intelligenz zu OpenStreetMap: [RapiD](https://mapwith.ai/rapid), der um künstliche Intelligenz erweiterte Standard-Editor von OSM ist erstaunlich brauchbar. Und wird in entwickelten Ländern unglaublich viele Strassen auf die Karte bringen.
-- [How a video game community filled my nephew's final days with joy ](https://www.theguardian.com/games/2019/jul/04/how-a-video-game-community-filled-my-nephews-final-days-with-happiness-elite-dangerous) <span style="color: #999999;">(theguardian.com)</span>: My teenage nephew’s life was short and difficult, but the players and
-  developers of Elite Dangerous came together to bring unexpected 
-  happiness to his last moments
-- [I Opted Out of Facial Recognition at the Airport—It Wasn't Easy](https://www.wired.com/story/opt-out-of-facial-recognition-at-the-airport/) <span style="color: #999999;">(wired.com)</span>: I Opted Out of Facial Recognition at the Airport—It Wasn't Easy | The announcement came as we began to board. Last month, I was at Detroit’s Metro Airport for a connecting flight to Southeast Asia. I listened as a Delta Air… | https://ift.tt/2KTfvJX | via Instapaper and IFTTT
 - [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1?error=cookies_not_supported&amp;code=610a0166-a26b-48f2-995a-6adb725271ec) <span style="color: #999999;">(nature.com)</span>: Wenns klappt, dann erscheinen demnächst zwei Publikationen (eine mit und eine von mir), in denen ein Jupyter-Notebook die komplette Datenanalyse gemacht haben. Dieser Text bei Nature beschreibt genau, wieso ich momentan fast ausschliesslich in Jupyter Notebooks arbeite.
 - [Chernobyl](https://leatherbarrowa.exposure.co/chernobyl) <span style="color: #999999;">(leatherbarrowa.exposure.co)</span>: Ein sehr ausführlicher Text über den Atomunfall in Chernobyl vor gut 33 Jahren. Der Text liest sich ähnlich spannend wie ein Krimi finde ich.
-- [Malaysia Airlines Flight MH370: Where Is It?](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) <span style="color: #999999;">(theatlantic.com)</span>: Five years ago, the flight vanished into the Indian Ocean. Officials on land know more about why than they dare to say.
+- [Malaysia Airlines Flight MH370: Where Is It?](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) <span style="color: #999999;">(theatlantic.com)</span>: Fünf Jahre ist es her, dass Flug MH370 irgendwo im indischen Ozean verschwand. Und immer noch verschwunden ist.
 - [Bump the Lamp: The Reason for Caring](http://www.helloerik.com/bump-the-lamp-the-reason-for-caring) <span style="color: #999999;">(helloerik.com)</span>: Krass, '[Who Framed Roger Rabbit](https://www.imdb.com/title/tt0096438/)' ist im 1988 rausgekommen. Ein interessantes Detail aus dem Film; wieso es sich lohnt, auch mal eins an die Lampe zu hauen. 'Bump the lamp' nehme ich in mein Vokabular auf, um zu sagen, wenn's wichtig ist, sich Mühe zu nehmen mit etwas.
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/) <span style="color: #999999;">(blog.stephsmith.io)</span>: Jeden Tag eine gute Tag und 'bump the lamp', dann kommt alles gut!
 - [BDSM mit Behinderung: So lebt Christian seinen Fetisch aus](https://www.vice.com/de/article/qv7aa7/bdsm-mit-behinderung-so-lebt-christian-seinen-fetisch-aus) <span style="color: #999999;">(vice.com)</span>: Christian ist  29 und hat einen Kink. Weil er mit Muskelschwund lebt, sehen das viele  als Widerspruch. Er zeigt, dass es das nicht ist.
