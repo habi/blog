@@ -1,4 +1,5 @@
 ---
+draft: yes
 title: "Recommended Readings vom September 2019"
 date: 2019-10-01T21:00:00+02:00
 slug: recommended-readings-september-2019
