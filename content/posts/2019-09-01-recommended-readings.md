@@ -1,6 +1,6 @@
 ---
 title: "Recommended Readings vom August 2019"
-date: 2019-08-01T21:00:00+02:00
+date: 2019-09-01T21:00:00+02:00
 slug: recommended-readings-august-2019
 categories:
 - recommended readings
