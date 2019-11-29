@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f7dc1f1c-9089-4ab4-9241-a595e653857f/deploy-status)](https://app.netlify.com/sites/planner-dissemination-67508/deploys)
+
 # My blog
 Aeons ago I started with [Movable Type](https://www.movabletype.org/), then switched to [Wordpress](http://wordpress.org).
 Now I'd like to take away a ton of dependencies and just let it run by a [static site generator](https://www.staticgen.com).

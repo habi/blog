@@ -1,7 +1,6 @@
 ---
 label: default
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -23,5 +22,3 @@ fields:
   type: tag_list
   hidden: false
   default: []
-pages:
-- content/posts/asdf.md

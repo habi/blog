@@ -1,6 +1,6 @@
 ---
 title: "Recommended Readings vom August 2019"
-date: 2019-08-01T21:00:00+02:00
+date: 2019-09-01T21:00:00+02:00
 slug: recommended-readings-august-2019
 categories:
 - recommended readings
@@ -35,7 +35,7 @@ Dieser hat sich in eine ~30 Jahre jüngere Frau aus Thailand verliebt.
 Die Ehrlichkeit des Vaters entlarvt, wie viele Vorurteile in einem stecken.
 Sehenswert, auch weil nur noch bis ca. 19. September online.
 
-{{<  youtube.com vH1poPSIvOk >}}
+{{<  youtube vH1poPSIvOk >}}
 Dieses 'Keine Party' ist eine Riesenparty.
 Und nimmt Referenz auf [KAP BAMBINO - "Hey!"](https://www.youtube.com/watch?v=FRHsIAj9QaA) sowie [Techno Girl](https://www.youtube.com/watch?v=Xc_ulNyLMI4).
 
