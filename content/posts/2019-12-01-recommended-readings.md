@@ -43,7 +43,7 @@ Coole Animation mit cooler Musik.
 Eine Schar ganz aufgeregter WissenschaflerInnen guckt auf den Meeresgrund.
 [via [Boing Boing](https://boingboing.net/2019/10/17/video-sea-critters-chow-down.html)]
 
-{{< youtube GgQ5hEir3wY <}}
+{{< youtube GgQ5hEir3wY >}}
 Legöle für Nerds.
 
 <iframe width="1024" height="576" src="https://media.ccc.de/v/35c3-9462-what_the_fax/oembed" frameborder="0" allowfullscreen></iframe>
