@@ -15,6 +15,7 @@ title = "This used to be habi.gna.ch"
 	recent_posts_number = 10
 	twitter = "https://twitter.com/habi"
 	youtube = "http://youtube.com/habi"
+	GithubEdit = "https://github.com/yihui/hugo-xmin/edit/feature/github-edit/exampleSite/content/"
 [permalinks]
 	posts = "/:year/:month/:day/:slug/"
 [sitemap]

@@ -5,6 +5,9 @@
 		<a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons Attribution">Some rights reserved</a>;
 		please attribute properly and link back.
 		Hosted by <a href="https://www.netlify.com/">Netlify</a>.
+		{{ with .Site.Params.GithubEdit}}
+		| <a href="{{ . }}{{ $.Scratch.Get "FilePath" }}">Edit this page</a>
+		{{ end }}
 		</p>
 	</div>
 </footer>
