@@ -31,11 +31,22 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-- [YouTube](https://www.youtube.com/watch?v=nO9aot9RgQc) <span style="color: #999999;">(youtube.com)</span>: Max Cooper - Repetition - Official Video By Kevin McGloughlin - YouTube | Loading... Watch Queue Queue Watch Queue Queue The next video is starting Loading... Watch Queue Queue __count__/__total__ Sorry for the interruption. We have… | https://www.youtube.com/watch?v=nO9aot9RgQc | via Instapaper and IFTTT
-- [YouTube](https://www.youtube.com/watch?v=r488msgIr_M) <span style="color: #999999;">(youtube.com)</span>: Already 46 Awards for "Hors Piste"! | Animated short film from France - YouTube | The two best rescue workers of the region are ready for their new mission. Despite their professionalism and their determination, it will not go as planned…… | https://www.youtube.com/watch?v=r488msgIr_M | via Instapaper and IFTTT
+{{< youtube nO9aot9RgQc >}}
+Cooles Video, cooler Song.
+[glaubs via [Jans Zettelkasten](https://pieceoplastic.com/zk/), aber ich find den Link dort grad nicht]
 
-- [302 Moved](https://www.youtube.com/watch?v=tcV1EYSUQME) <span style="color: #999999;">(youtube.com)</span>: Tesla Valve Explained With Fire - YouTube | Loading... Watch Queue Queue Watch Queue Queue The next video is starting Loading... Watch Queue Queue __count__/__total__ Sorry for the interruption. We have… | https://www.youtube.com/watch?v=tcV1EYSUQME | via Instapaper and IFTTT
+{{< youtube r488msgIr_M >}}
+Bei einem Skiunfall möchte ich nicht von diesen zwei Glünggis gerettet werden...
 
-- [YouTube](https://www.youtube.com/watch?feature=youtu.be&amp;v=dHowJ7ULNfo) <span style="color: #999999;">(youtube.com)</span>: my life as a non star wars fan - YouTube | Loading... Watch Queue Queue Watch Queue Queue The next video is starting Loading... Watch Queue Queue __count__/__total__ Sorry for the interruption. We have… | https://www.youtube.com/watch?feature=youtu.be&v=dHowJ7ULNfo | via Instapaper and IFTTT
+{{< youtube tcV1EYSUQME >}}
+Der Nikola, der war schon ein schlauer Kerl.
+Details siehe [hier](https://en.wikipedia.org/wiki/Tesla_valve)
 
-- [Snowbrawl](https://kottke.org/19/12/snowbrawl) <span style="color: #999999;">(kottke.org)</span>: Snowbrawl | Snowbrawl is a fun short film of a children’s snowball fight shot as if it were a John Wick or Mission Impossible action sequence. David Leitch , the uncredited… | https://ift.tt/33MeSag | via Instapaper and IFTTT
+{{< youtube dHowJ7ULNfo >}}
+Das Leben als Nicht-Star Wars-Fan.
+Kenne ich gut.
+
+{{< youtube cM8DcCoZulw >}}
+Eine Schneeballschlacht als Actionmovie.
+An sich nicht wahnsinnig speziell, wurde aber komplett mit einem (oder wohl mehreren) iPhone (11 Pro) aufgenommen.
+[via [kottke.org](https://kottke.org/19/12/snowbrawl)]
