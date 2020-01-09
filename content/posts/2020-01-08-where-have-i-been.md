@@ -1,7 +1,7 @@
 ---
-title: Where have I been in 2019
+title: Wo war ich im 2019
 date: 2020-01-08T22:01:00.000+00:00
-slug: where-have-i-been-2019
+slug: wo-war-ich-im-2019
 categories:
 - jahresrückblick
 tags:
