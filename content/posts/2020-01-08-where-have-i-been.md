@@ -26,7 +26,7 @@ Im 2109 war ich drei Mal ausserhalb der Landesgrenzen.
 Im Mai war ich an einer Konferenz in Belgien und habe dort die [Geschichte mit den Zebrafischen](https://www.biorxiv.org/content/10.1101/744300v1) präsentiert, über die ich hoffentlich bald mehr schreiben kann.
 Auf der Karte, die ganz unten in diesem Post eingebunden ist, zieht sich die Zugfahrt dorthin hübsch als Linie von Bern bis Mechelen in Belgien.
 Im Juli waren wir mit einem [coolen, gemieteten Camper](https://mycamper.ch/en/motorhome-campervan-caravan-hire/5c7d948d0d723/detail/rocky-star) in der Umgebung des Comer See unterwegs.
-Im Oktober fuhren wir mit dem Zug nach Rapallo und haben [den sprichwörtlichen Steinwurf weit vom Meer weg übernachtet], ein paar entspannte Tage an der ligurischen Küste verbracht, bevor wir auf dem Rückweg noch ein paar Tage in Genua die spannende Stadt erkundet haben.
+Im Oktober fuhren wir mit dem Zug nach Rapallo und haben [den sprichwörtlichen Steinwurf weit vom Meer weg übernachtet](https://www.airbnb.com/rooms/12037187), ein paar entspannte Tage an der ligurischen Küste verbracht, bevor wir auf dem Rückweg noch ein paar Tage in Genua die spannende Stadt erkundet haben.
 
 Von Mechelen in Belgien bis Prato (dem Leuchtturm unter Portofino) habe ich also ca. 750 km in Nord-Süd-Richtung gemacht.
 Im Durchschnitt bin ich fast zuhause geblieben, nämlich in Brenzikofen :)
@@ -34,7 +34,7 @@ Ende November habe ich trotz kaputtem Knie die [<del>Ski</del>Telemark-Saison ge
 Die Bergstation des [Sessellifts auf den Furgsattel](https://www.openstreetmap.org/way/22341538) war der höchste Punkt, an dem ich mich im 2019 befunden habe.
 
 Unten ist die Heatmap meiner Positionen im 2019 eingebunden.
-Die komplette Analyse ist [hier auf GitHub] zu finden, falls jemand dies für sich nachbauen will.
+Die komplette Analyse ist [hier auf GitHub](https://github.com/habi/jahresrueckblick/blob/master/WHIB.ipynb) zu finden, falls jemand dies für sich nachbauen will.
 Weil die Originaldatei mit meinen Positionen auch die genauen Zeiten enthält, liefere ich die aus datenschutztechnischen Gründen nicht mit.
 Eine kommplette Version meiner Analyse als Jupyter-Notebooks mit allen Karten ist [(zur Ansicht) hier zu finden](https://nbviewer.jupyter.org/github/habi/jahresrueckblick/blob/master/WHIB.ipynb).
 
