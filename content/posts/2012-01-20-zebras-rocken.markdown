@@ -10,12 +10,8 @@ categories:
 - linkdump
 ---
 
-
-
-
+{{< youtube fljKx9nvrL4 >}}
 
 Und wer beim Chuck Testa-Auftritt nicht steigt, muss grad [noch ein Video gucken](https://www.youtube.com/watch?v=LJP1DphOWPs)!
-
-
 
 [wahrscheinlich via [soup.io](http://www.soup.io/friends)]
