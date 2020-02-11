@@ -1,5 +1,5 @@
 ---
-title: Kurzkritik: Parasite
+title: 'Kurzkritik: Parasite'
 date: 2020-02-10T22:18:00.000+00:00
 categories:
 - kurzkritik
