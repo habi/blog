@@ -49,8 +49,8 @@ Cool, oder?
 
 {{< youtube CMXfyqgaQxs >}}
 
-[1]: Am einfachsten mit diesem kleinen Bash-Skript: https://raw.githubusercontent.com/habi/Zebra-Fish-Gills/master/download.osf.sh
+[1]: Am einfachsten mit [diesem kleinen Bash-Skript](https://raw.githubusercontent.com/habi/Zebra-Fish-Gills/master/download.osf.sh).
 
-[2]: Mein Bürorechner hat 196 GB RAM und eine [2 TB-NCMe SSD](https://www.pcworld.com/article/2899351/everything-you-need-to-know-about-nvme.html)...
+[2]: Mein Bürorechner hat 196 GB RAM und eine [2 TB-NCMe SSD](https://www.pcworld.com/article/2899351/everything-you-need-to-know-about-nvme.html).
 
 [3]: Da ich den Film nicht direkt von PLOS ONE einbinden konnte, habe ich eine Kopie meines Films auf Youtube hochgeladen.
