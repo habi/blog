@@ -16,10 +16,7 @@ In den [letzten Wochen](http://habi.gna.ch/?s=zebrafisch&submit=Search) hab' ich
 Beim Schaffen hatten wir ein grosses Projekt, bei dem ich die Auswertung von Tomographiedaten (und anderem) übernommen habe, damit wir schlussendlich sicher sagen konnten, dass die Kiemen von Zebrafischen wachsen, wenn die kleinen Fische feste trainieren.
 
 Aber alles der Reihe nach: Wie ihr wisst, arbeite ich seit einiger Zeit am Institut für Anatomie mit zwei MicroCT-Geräten und mache biomedizinische Forschung.
-[Zebrafische](https://en.wikipedia.org/wiki/Zebrafish) sind nicht nur härzige Aquariumbewohner, sondern auch ein prima Modellorganismus in der Biologie.
-Dies, weil sie unter anderem im Anfangsstadium ihres Lebens durchsichtig sind, also sehr gut geeignet sind um das Organwachstum zum Beispiel unter dem Mikroskop zu untersuchen.
-Im Projekt, bein dem ich mitgearbeitet habe ging es auch um das Organwachstum, aber nicht darum, dass das Organ durchsichtig ist.
-Wir wollten nämlich prüfen, ob die Kiemen der Zebrafische wachsen, wenn sie ausgiebig trainiert werden.
+[Zebrafische](https://en.wikipedia.org/wiki/Zebrafish) sind nicht nur härzige Aquariumbewohner, sondern auch ein prima Modellorganismus in der Biologie. Dies, weil sie unter anderem im Anfangsstadium ihres Lebens durchsichtig sind, also sehr gut geeignet sind um das Organwachstum zum Beispiel unter dem Mikroskop zu untersuchen. Im Projekt, bei dem ich mitgearbeitet habe ging es auch um das Organwachstum, aber nicht darum, dass das Organ durchsichtig ist. Wir wollten nämlich prüfen, ob die Kiemen der Zebrafische wachsen, wenn sie ausgiebig trainiert werden.
 
 Dazu wurden die Fische während einigen Wochen von Matthias und Dea in einem sogenannten Schwimmtunnel  trainiert.
 Von 20 diesen Fischen haben Oleksiy, Fluri und ich dann hochaufgelöste, röntgentomographische Aufnahmen des Kopfes gemacht.
@@ -51,6 +48,6 @@ Cool, oder?
 
 [1]: Am einfachsten mit [diesem kleinen Bash-Skript](https://raw.githubusercontent.com/habi/Zebra-Fish-Gills/master/download.osf.sh).
 
-[2]: Mein Bürorechner hat 196 GB RAM und eine [2 TB-NCMe SSD](https://www.pcworld.com/article/2899351/everything-you-need-to-know-about-nvme.html).
+[2]: Mein Bürorechner hat 196 GB RAM und eine [2 TB-NVMe SSD](https://www.pcworld.com/article/2899351/everything-you-need-to-know-about-nvme.html).
 
 [3]: Da ich den Film nicht direkt von PLOS ONE einbinden konnte, habe ich eine Kopie meines Films auf Youtube hochgeladen.
