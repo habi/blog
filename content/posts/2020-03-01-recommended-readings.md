@@ -40,4 +40,4 @@ So geht Big Data :)
 [Ze Frank](https://en.wikipedia.org/wiki/Ze_Frank) is back. Und wie!
 
 {{< youtube VMinwf-kRlA >}}
-Tom Scott war in Holland, am den Holländische Gegenwind-Meisterschaften, wo Menschen mit Standard-Hollandvelos über den [Oosterscheldekering](https://en.wikipedia.org/wiki/Oosterscheldekering) fahren. Das Rennen wurde schiins im Laufe des Tages wegen *zu viel* Wind abgesagt.
+[Tom Scott](https://en.wikipedia.org/wiki/Tom_Scott_(entertainer)) war in Holland, am den Holländische Gegenwind-Meisterschaften, wo Menschen mit Standard-Hollandvelos über den [Oosterscheldekering](https://en.wikipedia.org/wiki/Oosterscheldekering) fahren. Das Rennen wurde schiins im Laufe des Tages wegen *zu viel* Wind abgesagt.
