@@ -1,7 +1,7 @@
 ---
-title: Recommended Readings vom MONAT 2020
-date: 2020-XX-01T19:00:00.000+00:00
-slug: recommended-readings-MONAT-2020
+title: Recommended Readings vom Februar 2020
+date: 2020-03-01T19:00:00.000+00:00
+slug: recommended-readings-februar-2020
 categories:
 - recommended readings
 tags:
@@ -36,7 +36,7 @@ Der TipToi-Stift ist ein ziemlich cooles Speilzeug und wird bei uns zuhause viel
 {{< youtube fzwrpAfMdKw >}}
 So geht Big Data :)
 
-{{< youtube l2tVGctt4Zo <}}
+{{< youtube l2tVGctt4Zo >}}
 [Ze Frank](https://en.wikipedia.org/wiki/Ze_Frank) is back. Und wie!
 
 {{< youtube VMinwf-kRlA >}}
