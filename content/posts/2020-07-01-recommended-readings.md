@@ -44,5 +44,5 @@ Ein hübsches Portrait.
 [Zipline](https://flyzipline.com) liefert in Rwanda Blutprodukte per Drohne.
 Huere geil!
 
-{{< youtube jEbRVNxL44c >}}
+{{< youtube tlMZW1fLUNE >}}
 Matto 4ever! Und die Kids fandens super, dass sie auch schon mal bei den [vielen Zügen](https://efliebefeld.ch) am Tag der offenen Tür waren :)

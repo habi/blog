@@ -26,5 +26,5 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< youtube lOeaOWPuhNw >}}
+{{< youtube 0NG6Dk47Zro >}}
 Ride in Peace, Bill Meier.
