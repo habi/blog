@@ -23,7 +23,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [Black-Metal-Festival von Neonazis: Mal richtig abhitlern](https://taz.de/Black-Metal-Festival-von-Neonazis/!5586270/) <span style="color: #999999;">(taz.de)</span>: Hakenkreuze und „Sieg Heil!“-Rufe: Beim Festival in Mailand gibt sich das Publikum ganz ungeniert. Hinter dem Event steckt ein rechtes Netzwerk.
 - [Die Heartland-Lobby](https://correctiv.org/top-stories/2020/02/04/die-heartland-lobby/) <span style="color: #999999;">(correctiv.org)</span>: Die Recherche von CORRECTIV und Frontal21 zeigt, wie das US-amerikanische Heartland Institute Leugner des Klimawandels in Deutschland unterstützt, um Massnahmen zum Klimaschutz zu untergraben.
 - [The limits of high speed rail](https://mappingignorance.org/2020/01/22/the-limits-of-high-speed-rail/) <span style="color: #999999;">(mappingignorance.org)</span>: Ferrosexuellencontent pur!
-- [Der vegetarische Jäger](https://www.vice.com/de/article/akwee4/ethisch-jagen-reh-schiessen-mit-vegetarier) <span style="color: #999999;">(vice.com)</span>: Fabian Grimm isst nur Fleisch von Tieren, die er selbst geschossen hat. Müssen wir das alle so machen?
+- [Der vegetarische Jäger](https://www.vice.com/de/article/akwee4/ethisch-jagen-reh-schiessen-mit-vegetarier) <span style="color: #999999;">(vice.com)</span>: Fabian Grimm isst nur Fleisch von Tieren, die er selbst geschossen hat. Müssen wir das alle so machen? Ich finde: nein, besser gar kein Fleisch essen.
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
