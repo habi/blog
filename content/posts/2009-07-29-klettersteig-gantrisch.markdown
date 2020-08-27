@@ -10,25 +10,10 @@ categories:
 - personal
 ---
 
+[![](http://farm3.static.flickr.com/2466/3768760687_a4cd6f922a_m.jpg)](http://www.flickr.com/photos/habi/3768760687/)
 
- [![](http://farm3.static.flickr.com/2466/3768760687_a4cd6f922a_m.jpg)](http://www.flickr.com/photos/habi/3768760687/)
-   
+[Klettersteig Gantrisch](http://www.flickr.com/photos/habi/3768760687/)
 
- 
-  [Klettersteig Gantrisch](http://www.flickr.com/photos/habi/3768760687/)
-    
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-Für diese Aussicht lohnt es sich unbedingt, früher Feierabend zu  
-
-machen!  
-
-  
-
-sent from my iPhone, please excuse my brevity and the potential typos.
-  
-
+Für diese Aussicht lohnt es sich unbedingt, früher Feierabend zu machen!

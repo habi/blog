@@ -10,23 +10,10 @@ categories:
 - personal
 ---
 
+[![](http://farm4.static.flickr.com/3636/3497030664_8f7a098a1d_m.jpg)](http://www.flickr.com/photos/habi/3497030664/)
 
- [![](http://farm4.static.flickr.com/3636/3497030664_8f7a098a1d_m.jpg)](http://www.flickr.com/photos/habi/3497030664/)
-   
+[Heute mal etwas tiefer](http://www.flickr.com/photos/habi/3497030664/)
 
- 
-  [Heute mal etwas tiefer](http://www.flickr.com/photos/habi/3497030664/)
-    
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-In der Bucht neben der Beatenbucht: 32.2 m, 37 min, 7 Grad  
-
-  
-
-sent from my iPhone, please excuse my brevity and the potential typos.
-  
-
+In der Bucht neben der Beatenbucht: 32.2 m, 37 min, 7 Grad
