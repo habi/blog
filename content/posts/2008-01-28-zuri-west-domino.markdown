@@ -18,7 +18,7 @@ hossa! schon seit einiger zeit fliegt ein stöckchen in der schweizer blogosphä
 
 also:
 
-* [dr Arturo Bandini un'I si mitem Elvis uf Paris](http://bloxxs.ch/?p=1317)
+* [Dr Arturo Bandini un'I si mitem Elvis uf Paris](http://bloxxs.ch/?p=1317)
 * [Är het se wöue gseh](http://leumund.ch/2008/worldwide/zuri-west-domino/)
 * [und si hei wöuä meh erfahre vo Tier u vo berüehmte Mönsche](http://www.monoblog.ch/stories/35375/)
 * [Und er denkt: I ha ke Ahnig wi me mit som'ne Ängu redt](http://irgendeinisch.twoday.net/stories/4615366/)
@@ -37,7 +37,7 @@ also:
 * [U när hei si nur no Haubi Songs gspiut](http://www.chris-weblog.com/?p=272)
 * [Das het er Ei Einzigi Sekunde witer agloset, bevor er s'Radio abgstellt het](http://www.silversnowflake.net/liv/?p=85)
 * [u agfange het d'Schpinnele Okay vo ihrem Lieblingspläztli z'vertriibe...](http://schweizeransichten.blogspot.com/2008/01/zri-wescht-chnppu.html)
-* [so wie denn i däm summer bi üs im quartier är hett se wöue gsee dâ€™ Königin, abrr](http://peterpanch.wordpress.com/2008/01/27/zuri-west-es-schwiizer-stockli-2/)
+* [so wie denn i däm summer bi üs im quartier är hett se wöue gsee d'Königin, aber](http://peterpanch.wordpress.com/2008/01/27/zuri-west-es-schwiizer-stockli-2/)
 * [si scharm keit i chopfsalat wüu](http://www.falki-design.ch/wordpress/?p=1969)
 * [dr](http://kusito.ch/?p=351) [geri gagarin](http://kusito.ch/?p=351) [dä](http://kusito.ch/?p=351) [souhung](http://kusito.ch/?p=351)
 * [het Am Tag wo är isch gange dänkt...](http://habi.gna.ch/2008/01/28/zuri-west-domino/)
@@ -48,7 +48,7 @@ und damit er meine stündige copy-paste-aktion mit formatierungskorrektur nicht 
 
 ````html
 <ul>
-    <li><a href="http://bloxxs.ch/?p=1317"><strong>dr Arturo Bandini un</strong><strong>'I</strong> si mitem <strong>Elvis</strong> uf <strong>Paris</strong></a></li> <li><a href="http://leumund.ch/2008/worldwide/zuri-west-domino/"><strong>Är het se wöue gseh</strong></a></li>
+    <li><a href="http://bloxxs.ch/?p=1317"><strong>Dr Arturo Bandini un</strong><strong>'I</strong> si mitem <strong>Elvis</strong> uf <strong>Paris</strong></a></li> <li><a href="http://leumund.ch/2008/worldwide/zuri-west-domino/"><strong>Är het se wöue gseh</strong></a></li>
     <li><a href="http://www.monoblog.ch/stories/35375/"><strong>und si hei wöuä meh erfahre vo Tier u vo berüehmte Mönsche</strong></a></li>
     <li><a href="http://irgendeinisch.twoday.net/stories/4615366/">Und er denkt: <strong>I ha ke Ahnig wi me mit som'ne Ängu redt</strong></a></li>
     <li><a href="http://www.filomenal.ch/blog/2008/01/15/zuri-west-domino/">Aber <strong>(bitte Baby), blib no chli bi mir</strong></a></li>
@@ -65,7 +65,7 @@ und damit er meine stündige copy-paste-aktion mit formatierungskorrektur nicht 
     <li><a href="http://www.chris-weblog.com/?p=272">U när hei si nur no <strong>Haubi Songs</strong> gspiut</a></li>
     <li><a href="http://www.silversnowflake.net/liv/?p=85">Das het er <strong>Ei Einzigi Sekunde</strong> witer agloset, bevor er s'Radio abgstellt het</a></li>
     <li><a href="http://schweizeransichten.blogspot.com/2008/01/zri-wescht-chnppu.html">u agfange het d'<strong>Schpinnele Okay</strong> vo ihrem Lieblingspläztli z'vertriibe...</a></li>
-    <li><a href="http://peterpanch.wordpress.com/2008/01/27/zuri-west-es-schwiizer-stockli-2/"><strong>so wie denn i däm summer bi üs im quartier är hett se wöue gsee dâ€™</strong> Königin, abrr</a><br /></li>
+    <li><a href="http://peterpanch.wordpress.com/2008/01/27/zuri-west-es-schwiizer-stockli-2/"><strong>so wie denn i däm summer bi üs im quartier är hett se wöue gsee d'</strong> Königin, aber</a><br /></li>
     <li><a href="http://www.falki-design.ch/wordpress/?p=1969"><strong>si scharm keit i chopfsalat</strong> wüu</a></li>
     <li><a href="http://kusito.ch/?p=351">dr</a> <strong><a href="http://kusito.ch/?p=351">geri gagarin</a></strong> <a href="http://kusito.ch/?p=351">dä</a> <strong><a href="http://kusito.ch/?p=351">souhung</a></strong></li>
     <li><a href="http://habi.gna.ch/2008/01/28/zuri-west-domino/">het <strong>Am Tag wo är isch gange</strong> dänkt...</a></li>
