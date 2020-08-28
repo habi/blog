@@ -32,7 +32,7 @@ Wer sich die restlichen Fotos anschauen möchte, findet unten eine eingebettete 
 
 [](http://fotos.davidhaberth%C3%BCr.ch/)[![DSC_2793, DSC_2794, DSC_2795.jpg](http://habi.gna.ch/wp-content/uploads/2011/09/DSC_2793-DSC_2794-DSC_2795-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/09/DSC_2793-DSC_2794-DSC_2795.jpg)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/habi/albums/72157627688031024" title="yaltamasters2011.org"><img src="https://live.staticflickr.com/6080/6154659577_b893c39c2d_b.jpg" width="1024" height="768" alt="yaltamasters2011.org"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/habi/albums/72157627688031024" title="yaltamasters2011.org"><img src="https://live.staticflickr.com/6080/6154659577_b893c39c2d_b.jpg" width="1024" height="768" alt="yaltamasters2011.org"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Ich konnte mir es schlussendlich nicht nehmen lassen, die Stimmung an der Meisterschaft auch mit einem kurzen Zeitraffer-Film einzufangen, dieser ist unten eingebunden.
 
