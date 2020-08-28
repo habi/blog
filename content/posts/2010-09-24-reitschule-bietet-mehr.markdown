@@ -21,4 +21,4 @@ Einfach, damit es hier auch noch gesagt ist: Fur ein 5:0 am 26. September legst 
 
 Stimmst du ja, bist du mein Freund gewesen, virtuell wie auch ganz reel. Echt jetzt!
 
-**update:** [68.4% stimmten fur die Reitschule](http://www.bern.ch/stadtverwaltung/stadtkanzlei/abstimmungen/resultate_260910/). SVP go home!
+**update:** [68.4% stimmten für die Reitschule](http://www.bern.ch/stadtverwaltung/stadtkanzlei/abstimmungen/resultate_260910/). SVP go home!

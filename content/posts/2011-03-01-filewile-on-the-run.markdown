@@ -12,7 +12,7 @@ tags:
 - music
 ---
 
-Die [Filewile](http://www.filewile.com/)-Jungs haben fur Ihren ein tolles Video gemacht; [Chrigu Buume](http://www.swisstricks.com/crew/) als leading Actor hatte mindestens einen Oscar fur seine Stunts verdient. Aber seht selber, unten eingebunden. Und [kauft](http://itunes.apple.com/ch/album/on-the-run/id369543490)!
+Die [Filewile](http://www.filewile.com/)-Jungs haben für Ihren ein tolles Video gemacht; [Chrigu Buume](http://www.swisstricks.com/crew/) als leading Actor hatte mindestens einen Oscar für seine Stunts verdient. Aber seht selber, unten eingebunden. Und [kauft](http://itunes.apple.com/ch/album/on-the-run/id369543490)!
 
 
 

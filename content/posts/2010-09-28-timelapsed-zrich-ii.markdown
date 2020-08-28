@@ -15,10 +15,10 @@ tags:
 - zürich
 ---
 
-Herr Hosae hat [gefragt](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/#comment-13517), wieso ich die [Timelapse-Filme von Zurich](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/) stündlich gemacht habe, und nicht einen einzigen Monster-Zeitraffer-Film davon erstellt habe.
-Die einfache Antwort war, dass der Film so nicht so schon aussieht, viel zu nervos.
+Herr Hosae hat [gefragt](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/#comment-13517), wieso ich die [Timelapse-Filme von Zürich](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/) stündlich gemacht habe, und nicht einen einzigen Monster-Zeitraffer-Film davon erstellt habe.
+Die einfache Antwort war, dass der Film so nicht so schon aussieht, viel zu nervös.
 
-Die kompliziertere Antwort war auch, dass das Ganze so nicht einfach zu erstellen war, denn fur jede Stunde ein Foto uber 2.75 Jahre ergibt sage und schreibe gut 23000 Fotos (kein Tippfehler :)
+Die kompliziertere Antwort war auch, dass das Ganze so nicht einfach zu erstellen war, denn für jede Stunde ein Foto über 2.75 Jahre ergibt sage und schreibe gut 23000 Fotos (kein Tippfehler :)
 Zuerst musste ich so mal eine Film herstellen.
 Quicktime Pro auf meinem Burorechner mit 8 GB RAM hat nach einer Stunde aufgegeben, schlussendlich hab ich's dann mit [ImageJ](http://rsbweb.nih.gov/ij/) und dem [Quicktime Writer Plugin](http://rsbweb.nih.gov/ij/plugins/movie-writer.html) geschafft, einen zusammenhangenden Film zu schreiben.
 
@@ -33,5 +33,5 @@ Aber als "because I can"-Übung musste das hier doch nochmals gepostet werden...
 
 Und nur furs Protokoll: Ich mag youtube nicht, vimeo ist mir viel sympathischer.
 Nicht nur wegen der Community, sonder auch bei der Art und Weise, wie meine Urheberrechte dort gehandhabt werden.
-Aber mit einem kostenlosen Account kann mensch dort nur 500 MB pro Woche hochladen, ist also unmoglich.
+Aber mit einem kostenlosen Account kann mensch dort nur 500 MB pro Woche hochladen, ist also unmöglich.
 Oder sponsert mir jemand einen [Vimeo Plus-Account](http://vimeo.com/plus)? Dann waren auch meine Tauchfilme immer in HD zu sehen...

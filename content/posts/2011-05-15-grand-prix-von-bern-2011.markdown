@@ -28,5 +28,5 @@ Nachdem das ganze Feld das erste Mal durch die Kramgasse gerannt war, blieb mir 
 
   
 
-Leider habe ich im stromenden Regen eine Einkerbung auf meinem Panoramakopf ubersprungen, so dass neben dem Eingang des Bundeshauses ein weisser Fleck entstand, der von keinem Foto abgedeckt wurde. Nichtsdestotrotz finde ich die [Rundum-Aufnahme](http://www.flickr.com/photos/habi/5722374858/in/photostream) vom Bundesplatz speziell in der "[Little Planet](http://www.flickr.com/groups/littleplanets/)"-Version gelungen.  
+Leider habe ich im stromenden Regen eine Einkerbung auf meinem Panoramakopf übersprungen, so dass neben dem Eingang des Bundeshauses ein weisser Fleck entstand, der von keinem Foto abgedeckt wurde. Nichtsdestotrotz finde ich die [Rundum-Aufnahme](http://www.flickr.com/photos/habi/5722374858/in/photostream) vom Bundesplatz speziell in der "[Little Planet](http://www.flickr.com/groups/littleplanets/)"-Version gelungen.  
 

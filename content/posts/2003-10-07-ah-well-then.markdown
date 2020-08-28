@@ -12,16 +12,14 @@ categories:
 
 this is a fast [reaction](http://habi.gna.ch/blog/archives/000077.html)!  
 
-today i got two mails in my inbox regarding the letter i wrote to the editor of the sonntagszeitung, first, one of the head of the *science"-part of the newspaper;   
-
-
+today i got two mails in my inbox regarding the letter i wrote to the editor of the sonntagszeitung, first, one of the head of the 'science'-part of the newspaper;
 
 <blockquote>
-Sehr geehrter Herr Haberthur,  
+Sehr geehrter Herr Haberthür,  
 
-besten Dank fur Ihren Leserbrief. Selbstverstandlich hat uns die Geschichte im Wired inspiriert, dem Thema nachzugehen. Wir haben damit den freien Autoren Hubertus Breuer, der in New York lebt und regelmassig fur die SonntagsZeitung schreibt, beauftragt, der Sache nachzugehen. Dass  dabei eine ahnliche Geschichte rauskommen wird, wie sie schon in Wired stand, war uns von vornherein klar. Denn: Gute Ideen ubernehmen ist schliesslich nicht verboten (im Gegensatz zum Abschreiben).  
+besten Dank für Ihren Leserbrief. Selbstverständlich hat uns die Geschichte im Wired inspiriert, dem Thema nachzugehen. Wir haben damit den freien Autoren Hubertus Breuer, der in New York lebt und regelmässig für die SonntagsZeitung schreibt, beauftragt, der Sache nachzugehen. Dass  dabei eine ähnliche Geschichte rauskommen wird, wie sie schon in Wired stand, war uns von vornherein klar. Denn: Gute Ideen übernehmen ist schliesslich nicht verboten (im Gegensatz zum Abschreiben).  
 
-Ich kann Ihnen aber versichern, dass Hubertus Breuer alles selber so erlebt hat, wie er es beschrieben hat. H.B. ist einer von nur funf Journalisten, die es bisher zu Apollo Diamond geschafft haben. Ich personlich musste einen Eilbrief nach Boston schicken und der Firma Apollo Diamond versichern, das H.B. ein Autor der SZ und kein Spion von De Beers ist.  
+Ich kann Ihnen aber versichern, dass Hubertus Breuer alles selber so erlebt hat, wie er es beschrieben hat. H.B. ist einer von nur fünf Journalisten, die es bisher zu Apollo Diamond geschafft haben. Ich personlich musste einen Eilbrief nach Boston schicken und der Firma Apollo Diamond versichern, das H.B. ein Autor der SZ und kein Spion von De Beers ist.  
 
 Zur Grafik: Hier haben wir mit der Quellenangabe klar deklariert, woher wir die Idee haben.   
 
@@ -32,23 +30,20 @@ mit freundlichen Grussen
 </blockquote>
 
 
-
 then another one, of the author of the article, Hubertus Breuer:  
 
-
-
 <blockquote>
-Sehr geehrter Herr Haberthur,  
+Sehr geehrter Herr Haberthür,  
 
-besten Dank fur Ihren Leserbrief. In der Tat haben wir die Idee zu
+besten Dank für Ihren Leserbrief. In der Tat haben wir die Idee zu
 dieser Geschichte aus "Wired". Doch ich habe das Thema zwei Wochen
 lang ausfuhrlichst recherchiert, war selbst in Boston und habe
 mehrere Wissenschaftler zu dem Thema interviewt.  
 
-Ich war einer von bis dahin nur funf Journalisten, die das Labor von
+Ich war einer von bis dahin nur fünf Journalisten, die das Labor von
 Apollo Diamond nahe Bostons besuchen durfte. Um das zu
 bewerkstelligen, bedurfte es etlicher Überzeugungsarbeit. Dass Robert
-Linares mich mit denselben Worten begrußt wie den Autoren des
+Linares mich mit denselben Worten begrüßt wie den Autoren des
 Wired-Artikel, zeigt, dass das wohl so seine Art ist.  
 
 Ich bin habe ubrigens nicht dieselbe Prozedur durchgemacht wie der
@@ -68,7 +63,5 @@ Mit freundlichen Grußen,
 
 Hubertus Breuer
 </blockquote>
-
-  
 
 ok: HABi vs Sonntagszeitung, 0:1.

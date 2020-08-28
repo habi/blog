@@ -11,6 +11,6 @@ categories:
 ---
 
 now you can also see the [last five](http://habi.gna.ch/blog/ipod/lastfive.html) or the [last 30 songs](http://habi.gna.ch/blog/ipod/last30.html) i listened.
-through some code from [b.](http://www.bernhardseefeld.ch/) (he said: "es ist etwas hackisch geschrieben, aber dafur sagt es auch "1 day and 1 hour and 1 minute ago" und nicht "1 days ago"" after fiddling for 3 minutes...) it displays the date/time in a nice format.
+through some code from [b.](http://www.bernhardseefeld.ch/) (he said: "es ist etwas hackisch geschrieben, aber dafür sagt es auch "1 day and 1 hour and 1 minute ago" und nicht "1 days ago"" after fiddling for 3 minutes...) it displays the date/time in a nice format.
 now you can spy on <strike>me</strike> my musical taste even better :-)
 have fun:[![](http://habi.gna.ch/blog/images/blogtunes-tm.jpg)](http://habi.gna.ch/blog/images/blogtunes.jpg)

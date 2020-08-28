@@ -12,7 +12,7 @@ tags:
 - automator
 ---
 
-[herr chm](http://bloxxs.ch/) hat kurzlich ein schones [panorama-bild](http://www.flickr.com/photos/macronix/4466763332/) von seinem balkon aus veroffentlicht, welches von [mir aus gesehen](http://www.flickr.com/photos/macronix/4466763332/comment72157623588015725/) ohne schwarzen rand viel besser aussehen wurde. da herr chm offenbar den [automator](http://www.macosxautomation.com/automator/) nicht kennt, habe ich hier einen kurzen screencast gemacht, wie ich dieses raffinierte feature verwende, welches von haus aus in OS X integriert ist. der screencast unten zeigt, wie einfach es ist, sich einen sogenannten service zu machen, um bilder schnell umzuwandeln:
+[herr chm](http://bloxxs.ch/) hat kurzlich ein schönes [panorama-bild](http://www.flickr.com/photos/macronix/4466763332/) von seinem balkon aus veroffentlicht, welches von [mir aus gesehen](http://www.flickr.com/photos/macronix/4466763332/comment72157623588015725/) ohne schwarzen rand viel besser aussehen wurde. da herr chm offenbar den [automator](http://www.macosxautomation.com/automator/) nicht kennt, habe ich hier einen kurzen screencast gemacht, wie ich dieses raffinierte feature verwende, welches von haus aus in OS X integriert ist. der screencast unten zeigt, wie einfach es ist, sich einen sogenannten service zu machen, um bilder schnell umzuwandeln:
 
 
   
@@ -80,7 +80,7 @@ viel spass damit, herr chm (oder wer auch immer die kleinen skripte brauchen wil
 
 
 
-btw: fur grossere bildbearbeitungs-sachen (z.B. knapp [12000 Bilder beschneiden](http://identi.ca/notice/18168031), die grosse zu andern oder in ein anderes format zu konvertieren) ist immernoch [ImageMagick](http://www.imagemagick.org/) unschlagbar. dies bedingt aber immer einen umweg ubers terminal und eine installation von [macports](http://www.macports.org/) und weiteren abhangigkeiten, automator ist im betriebssystem dabei.  
+btw: für grossere bildbearbeitungs-sachen (z.B. knapp [12000 Bilder beschneiden](http://identi.ca/notice/18168031), die grosse zu andern oder in ein anderes format zu konvertieren) ist immernoch [ImageMagick](http://www.imagemagick.org/) unschlagbar. dies bedingt aber immer einen umweg übers terminal und eine installation von [macports](http://www.macports.org/) und weiteren abhangigkeiten, automator ist im betriebssystem dabei.  
 
 
 

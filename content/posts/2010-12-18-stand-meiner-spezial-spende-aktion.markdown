@@ -42,7 +42,7 @@ Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotte
 
 
 
-Ich werde in der nachsten Zeit diesen Eintrag mit den eintrudelnden Fotos aktualisieren.
+Ich werde in der nächsten Zeit diesen Eintrag mit den eintrudelnden Fotos aktualisieren.
 
 
 
@@ -52,7 +52,7 @@ Bis jetzt habe ich diese Fotos gesehen:
 
 
 
-[Raphael](http://www.flickr.com/photos/raphael_moser/5270407439/) findet, mensch sehe mein Sixpack, ich finde, ich muss etwas Winterspeck verlieren, zahle aber fur das gute Foto trotzdem 50.- bei kiva.org:
+[Raphael](http://www.flickr.com/photos/raphael_moser/5270407439/) findet, mensch sehe mein Sixpack, ich finde, ich muss etwas Winterspeck verlieren, zahle aber für das gute Foto trotzdem 50.- bei kiva.org:
 
 [![Aareschwümme 2010](http://farm6.static.flickr.com/5207/5270407439_08e708368c.jpg)](http://www.flickr.com/photos/raphael_moser/5270407439/)  
 
@@ -72,7 +72,7 @@ kiva-Spenden-Stand: 75.-
 
 
 
-Die restlichen Fotos, die auftauchen, werde ich hier vermerken und dann (evtl. erst in ein paar Tagen) den Totalbetrag fur kiva.org zusammentragen.
+Die restlichen Fotos, die auftauchen, werde ich hier vermerken und dann (evtl. erst in ein paar Tagen) den Totalbetrag für kiva.org zusammentragen.
 
 
 
@@ -102,7 +102,7 @@ Da auf [Ninas Foto](http://www.flickr.com/photos/ninahostettler/5271385089/) (un
 
   
 
-Die Fotos meines Vaters sind (momentan) nur fur Familienangehorige zu sehen, ich habe mir aber die Freiheit herausgenommen, [hier](http://cl.ly/3glh) einen Screenshot abzulegen.
+Die Fotos meines Vaters sind (momentan) nur für Familienangehörige zu sehen, ich habe mir aber die Freiheit herausgenommen, [hier](http://cl.ly/3glh) einen Screenshot abzulegen.
 
 
 

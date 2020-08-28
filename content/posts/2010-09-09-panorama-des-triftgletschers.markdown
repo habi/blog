@@ -14,7 +14,7 @@ tags:
 - panorama
 ---
 
-Vergangenes Wochenende war ich mit dem Unisport auf eine [Hochtour](http://habi.gna.ch/2010/08/26/picknick-fur-3-tage/) uber den Triftgletscher. Leider war das Wetter nicht gut genug, um wirklich tolle Fotos zu machen, ein paar schone sind trotzdem zusammengekommen, sie sind in [diesem Set auf flickr.com](http://www.flickr.com/photos/habi/sets/72157624713872163/) zu finden.
+Vergangenes Wochenende war ich mit dem Unisport auf eine [Hochtour](http://habi.gna.ch/2010/08/26/picknick-fur-3-tage/) über den Triftgletscher. Leider war das Wetter nicht gut genug, um wirklich tolle Fotos zu machen, ein paar schone sind trotzdem zusammengekommen, sie sind in [diesem Set auf flickr.com](http://www.flickr.com/photos/habi/sets/72157624713872163/) zu finden.
 
 
 

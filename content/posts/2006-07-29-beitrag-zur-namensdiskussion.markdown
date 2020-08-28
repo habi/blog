@@ -23,7 +23,7 @@ categories:
 
 
 
-der ist fur dich jan!  
+der ist für dich jan!  
   
 
   

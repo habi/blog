@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[rollstuhlfahren](http://www.devilducky.com/media/50728/) und rumdreckeln mit [4x4](http://www.youtube.com/watch?v=yLsWEn2wXjA)-autos konnen ganz schon gefahrlich sein!
+[rollstuhlfahren](http://www.devilducky.com/media/50728/) und rumdreckeln mit [4x4](http://www.youtube.com/watch?v=yLsWEn2wXjA)-autos können ganz schon gefährlich sein!
 
 
 

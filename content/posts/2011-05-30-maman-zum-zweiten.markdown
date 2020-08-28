@@ -18,7 +18,7 @@ tags:
 - photography
 ---
 
-Wie letzthin schon angetont, wollte ich auf dem Bundesplatz ein schoneres Foto von [Maman](http://enwp.org/Maman) machen, als dasjenige, welches ich vor knapp [3 Jahren in Ottawa gemacht habe](http://status.davidhaberthuer.ch/notice/1187).
+Wie letzthin schon angetont, wollte ich auf dem Bundesplatz ein schöneres Foto von [Maman](http://enwp.org/Maman) machen, als dasjenige, welches ich vor knapp [3 Jahren in Ottawa gemacht habe](http://status.davidhaberthuer.ch/notice/1187).
 
 
 
@@ -28,7 +28,7 @@ Vergangene Samstag Nami war ich nun kurz in der Stadt und habe einige Fotos aufg
 
 
 
-Das erste Bild zeigt die eindrucksvolle Grosse der Skulptur, die doch ein bisschen gefahrlich aussieht so. [Arachnophobiker](http://) mussen halt wegschauen jetzt (oder wenigstens nicht aufs Bild klicken, ums gross anzuschauen).
+Das erste Bild zeigt die eindrucksvolle Grosse der Skulptur, die doch ein bisschen gefährlich aussieht so. [Arachnophobiker](http://) mussen halt wegschauen jetzt (oder wenigstens nicht aufs Bild klicken, ums gross anzuschauen).
 
 
 

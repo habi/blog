@@ -21,7 +21,7 @@ Wie Kusito nämlich korrekt bemerkte, gab es schon zuviele, die ihre Multitaskin
 
 {{< tweet 27916129192 >}}
 
-Stattdessen habe ich wahrend den Vortragen Gedanken in meinem Moleskine-Notizbuch festgehalten. Die Notizen sind - als Quasi-Liveblogging - unten als Galerie eingebunden, oder konnen in einem Rutsch als [TEDxZurich-RuckblicksPDF](http://habi.gna.ch/wp-content/uploads/2010/10/20101021093744.pdf) heruntergeladen werden.
+Stattdessen habe ich wahrend den Vortragen Gedanken in meinem Moleskine-Notizbuch festgehalten. Die Notizen sind - als Quasi-Liveblogging - unten als Galerie eingebunden, oder können in einem Rutsch als [TEDxZurich-RuckblicksPDF](http://habi.gna.ch/wp-content/uploads/2010/10/20101021093744.pdf) heruntergeladen werden.
 
 ![1](https://habi.gna.ch/wp-content/uploads/2010/10/20101021093928.jpg)
 ![2](https://habi.gna.ch/wp-content/uploads/2010/10/20101021093941.jpg)

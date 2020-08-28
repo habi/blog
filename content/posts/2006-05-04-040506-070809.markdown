@@ -11,7 +11,7 @@ categories:
 ---
 
 
-"beim nachsten ton ist es 8 minuten nach 7 und 9 sekunden".
+"beim nächsten ton ist es 8 minuten nach 7 und 9 sekunden".
   
 beeep!
 
