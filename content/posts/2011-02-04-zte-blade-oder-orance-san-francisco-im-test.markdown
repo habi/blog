@@ -37,4 +37,4 @@ Wenn noch Fragen zum Telefon auftauchen, kann ich diese gerne in den Kommentaren
 
 
 
-[1]: Wenn mensch sich ein wenig mit diesem ZTE Blade beschaftigt, findet mensch auch Moglichkeiten, den Prepaid-SIM-lock sagenhaft einfach zu umgehen, dies aber nur so nebenbei erwahnt. Dazu gebe ich keine Auskunft, sondern uberlasse dies als Übung dem geneigten Leser oder der geneigten Leserin.
+[1]: Wenn mensch sich ein wenig mit diesem ZTE Blade beschaftigt, findet mensch auch Moglichkeiten, den Prepaid-SIM-lock sagenhaft einfach zu umgehen, dies aber nur so nebenbei erwahnt. Dazu gebe ich keine Auskunft, sondern überlasse dies als Übung dem geneigten Leser oder der geneigten Leserin.
