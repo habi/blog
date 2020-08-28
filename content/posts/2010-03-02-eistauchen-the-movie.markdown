@@ -16,4 +16,6 @@ tags:
 
 Am vergangenen Sonntag war ich auf 1578 muM im Oeschinensee unter ca. 50cm Eis im Wasser. Der Film dazu ist unten zu finden, die wenigen Fotos der beiden Tauchgange sind im [Eistauch-Set auf flickr](http://www.flickr.com/photos/habi/sets/72157623528582378/) zu finden.
 
+<embed src="http://blip.tv/play/gZhYgcqHSQI" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390">
+
 Falls es jemanden interessiert, sind die Divelogs der beiden Tauchgange [hier](http://habi.gna.ch/divelog/10.02.28.oeschinensee1.pdf) und [hier](http://habi.gna.ch/divelog/10.02.28.oeschinensee2.pdf) zu finden, jeweils als ca. 100 kB grosses pdf.

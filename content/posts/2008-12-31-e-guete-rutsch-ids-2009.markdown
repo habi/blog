@@ -11,18 +11,15 @@ categories:
 - tschörman
 tags:
 - '2009'
-- es guets nÃ¶is
+- es guets nöis
 - happy new year
 ---
 
 für alle, die das foto nicht altmodisch per post bekommen haben, hier elektronisch: es guets nöis!
 
-
-
 [![2009.png](http://habi.gna.ch/wp-content/uploads/2008/12/2009.jpg)](http://habi.gna.ch/wp-content/uploads/2008/12/2009.png)
 
+dieser eintrag hier steht übrigens in keinem widerspruch zu [diesem eintrag](http://habi.gna.ch/2008/12/25/im-offline/), denn wordpress kann auch einträge auf ein bestimmtes datum veröffentlichen (sonst hätte ich's wohl nicht geschafft, genau um 20:09 uhr diesen eintrag zu machen...).
+und wie [merlin mann](https://www.kungfugrippe.com/post/66458912/happy-holidays) sagt: enjoy yourself, have a good one!
 
-
-
-dieser eintrag hier steht übrigens in keinem widerspruch zu [diesem eintrag](http://habi.gna.ch/2008/12/25/im-offline/), denn wordpress kann auch einträge auf ein bestimmtes datum veröffentlichen (sonst hätte ich's wohl nicht geschafft, genau um 20:09 uhr diesen eintrag zu machen...). und wie merlin mann sagt: enjoy yourself, [have a good one!](http://www.kungfugrippe.com/post/66458912)
-
+{{< vimeo 2614060 >}}
