@@ -22,11 +22,11 @@ ich habe mir die volle lange des videos angeschaut, und konnte zeitweilig fast n
 
   
 
-aber wie der herr bugsierer sagt, fur dieses video gibt es nicht genug kanale. dass heisssporne in kampfhelikopter mehr als ein dutzend menschen umbringen, einen durch den angriff verwundeten reuters-reporter und seine retter ohne provokation erschiessen und dabei zwei kinder schwer verletzen tont nach einer story aus einem schlechten film, ist aber realitat in irak.  
+aber wie der herr bugsierer sagt, für dieses video gibt es nicht genug kanale. dass heisssporne in kampfhelikopter mehr als ein dutzend menschen umbringen, einen durch den angriff verwundeten reuters-reporter und seine retter ohne provokation erschiessen und dabei zwei kinder schwer verletzen tont nach einer story aus einem schlechten film, ist aber realität in irak.  
 
-die ganze hintergrund-geschichte gibts bei [collateralmurder.org](http://collateralmurder.org/), einen hintergrundbericht uber die verfasserinnen des videos, [wikileaks](http://wikileaks.org/) gibt's bei [spiegel online](http://www.spiegel.de/politik/ausland/0,1518,687427,00.html).  
+die ganze hintergrund-geschichte gibts bei [collateralmurder.org](http://collateralmurder.org/), einen hintergrundbericht über die verfasserinnen des videos, [wikileaks](http://wikileaks.org/) gibt's bei [spiegel online](http://www.spiegel.de/politik/ausland/0,1518,687427,00.html).  
 
-und denkt daran, das video ist harte kost und realitat. wer's anschaut ist hiermit nochmald gewarnt. so ist krieg.  
+und denkt daran, das video ist harte kost und realität. wer's anschaut ist hiermit nochmald gewarnt. so ist krieg.  
 
 [via [henusode](http://henusodeblog.blogspot.com/2010/04/17-minuten-krieg.html)]  
 

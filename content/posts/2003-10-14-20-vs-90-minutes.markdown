@@ -24,7 +24,7 @@ from next week on:
 <td >habi: Bern
 </td>
 		
-<td >nina: <strike>Bern</strike> Zurich
+<td >nina: <strike>Bern</strike> Zürich
 </td>
 	</tr>
 </table>  

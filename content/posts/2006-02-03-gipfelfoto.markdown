@@ -22,6 +22,6 @@ categories:
  
 
 
-2700m uber meer, auf der medriger fluh. wunderbar sonnig, kein feinstaub und trotz tiefem winter schon gemutlich warm.
+2700m über meer, auf der medriger fluh. wunderbar sonnig, kein feinstaub und trotz tiefem winter schon gemutlich warm.
   
 

@@ -10,19 +10,11 @@ categories:
 - personal
 ---
 
+[![](http://farm5.static.flickr.com/4004/4394822088_cba7697723_m.jpg)](http://www.flickr.com/photos/habi/4394822088/)
 
- [![](http://farm5.static.flickr.com/4004/4394822088_cba7697723_m.jpg)](http://www.flickr.com/photos/habi/4394822088/)
-   
+[Oeschinensee](http://www.flickr.com/photos/habi/4394822088/)
 
- 
-  [Ã–schinensee](http://www.flickr.com/photos/habi/4394822088/)
-    
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-Loch in Rekordzeit gemacht. Ready to go under!
-  
-
+Loch in Rekordzeit gemacht.
+Ready to go under!

@@ -10,23 +10,9 @@ categories:
 - personal
 ---
 
+[![](http://farm4.static.flickr.com/3140/3366037912_6f8fda22dd_m.jpg)](http://www.flickr.com/photos/habi/3366037912/)
+[Schlangengift?](http://www.flickr.com/photos/habi/3366037912/)
 
- [![](http://farm4.static.flickr.com/3140/3366037912_6f8fda22dd_m.jpg)](http://www.flickr.com/photos/habi/3366037912/)
-   
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
- 
-  [Schlangengift?](http://www.flickr.com/photos/habi/3366037912/)
-    
-
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-Wie muss mensch sich dieses Praktikum vorstellen?  
-
-  
-
-sent from my iPhone, please excuse my brevity and the potential typos.
-  
-
+Wie muss mensch sich dieses Praktikum vorstellen?

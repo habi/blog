@@ -46,7 +46,7 @@ und nun noch auf deutsch:
   
 dieses wochenende waren [wir](http://velokurierbern.ch/) schilen.
   
-gestern morgen hab ich von unserem haus aus obiges panorama fotografiert. normalerweise gibts ja zu meinen [bildern der woche](http://habi.gna.ch/blog/archives/cat_picture_of_the_week.html) immer ein kleines gschichtli dazu, diesmal gibts einen kleinen wettbewerb: wer als erstes eine der folgenden fragen beantwortet, gewinnt wahlweise ein game fur die [PSP](http://www.yourpsp.com/) (ich hab verschiedene zur auswahl), zwei drinks an einem der nachsten blogger-treffen oder eine carte blanche fur ein post in diesem blog. die zweite und die dritte antwort kann nur noch auswahlen :-)
+gestern morgen hab ich von unserem haus aus obiges panorama fotografiert. normalerweise gibts ja zu meinen [bildern der woche](http://habi.gna.ch/blog/archives/cat_picture_of_the_week.html) immer ein kleines gschichtli dazu, diesmal gibts einen kleinen wettbewerb: wer als erstes eine der folgenden fragen beantwortet, gewinnt wahlweise ein game für die [PSP](http://www.yourpsp.com/) (ich hab verschiedene zur auswahl), zwei drinks an einem der nächsten blogger-treffen oder eine carte blanche für ein post in diesem blog. die zweite und die dritte antwort kann nur noch auswahlen :-)
 
 
 
@@ -60,13 +60,13 @@ A) wo in der schweiz habei ich das bild aufgenommen? [1]
 
 **update:** war wohl zu schwierig: ungefahr [hier](http://map.search.ch/grindelwald?x=855&y=-541&e=1) wars.
   
-B) gibt es fur OS X eine **gratis**-software, mit welcher die helligkeit von verschiedenen bilder automatisch ausgeglichen werden kann, so dass in meinen panoramen die bildubergange weniger sichtbar sind. [2]
+B) gibt es für OS X eine **gratis**-software, mit welcher die helligkeit von verschiedenen bilder automatisch ausgeglichen werden kann, so dass in meinen panoramen die bildubergange weniger sichtbar sind. [2]
 
 
 
-[1]:  vom wettbewerb ausgenommen sind kuriere von bern, meine mitbewohner oder alle, denen ichs erzahlt habe.
+[1]:  vom wettbewerb ausgenommen sind kuriere von bern, meine mitbewohner oder alle, denen ichs erzählt habe.
   
-[2]: ich weiss, dass ich die belichtungszeit und blende fixieren konnte, aber das ist nun mal mit meiner kamera nicht moglich...
+[2]: ich weiss, dass ich die belichtungszeit und blende fixieren konnte, aber das ist nun mal mit meiner kamera nicht möglich...
 
 
 

@@ -19,6 +19,6 @@ Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
 im moment mach ich einen zivildienst.
 
-so siehts aus, wenn man material fur die kinderfasnacht morgen vorbereitet.
+so siehts aus, wenn man material für die kinderfasnacht morgen vorbereitet.
 
 eine aufnahme mit der panoramafunktion meines handys (mit notizen, die auf flickr erscheinen).

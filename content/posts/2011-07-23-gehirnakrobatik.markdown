@@ -23,4 +23,4 @@ Die Herren Tangen, Murphy und [Thompson](http://mbthompson.com/research/) haben 
 
   
 
-Video via [Reto Hugi](http://retohugi.ch/), irgendwie per [Google Buzz](http://www.google.com/buzz). Google Buzz wird zwar von mir nicht mehr wirklich benutzt, ich schalte mittlerweile jeden einzelnen Kontakt auf stumm dort, denn wenn ich Email lesen will, will ich Emails lesen und mich nicht in einem Social Stream verlieren. Reto entging dem bis jetzt. Ich hoffe, solche Sachen tauchen dann in Zukunft bei [Google+](https://plus.google.com/) auf :) Einladungen dafur gibt's immernoch, wenn jemand will.
+Video via [Reto Hugi](http://retohugi.ch/), irgendwie per [Google Buzz](http://www.google.com/buzz). Google Buzz wird zwar von mir nicht mehr wirklich benutzt, ich schalte mittlerweile jeden einzelnen Kontakt auf stumm dort, denn wenn ich Email lesen will, will ich Emails lesen und mich nicht in einem Social Stream verlieren. Reto entging dem bis jetzt. Ich hoffe, solche Sachen tauchen dann in Zukunft bei [Google+](https://plus.google.com/) auf :) Einladungen dafür gibt's immernoch, wenn jemand will.

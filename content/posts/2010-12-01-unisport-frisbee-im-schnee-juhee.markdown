@@ -20,6 +20,6 @@ categories:
 
 Das Spielfeld sieht nach Schlachtfeld aus. Spass hat's trotzdem sehr gemacht, auch wenn ich erst nach dem Spielen zum Fotografieren gekommen bin.  
 
-Das Bild wurde ubrigens mit [360 Panorama](http://occipital.com/360/) auf meinem iPhone 3GS gemacht. Gibt's nur heute fur 1.10 CHF im AppStore...  
+Das Bild wurde ubrigens mit [360 Panorama](http://occipital.com/360/) auf meinem iPhone 3GS gemacht. Gibt's nur heute für 1.10 CHF im AppStore...  
 
 

@@ -15,7 +15,7 @@ i really had to laugh about the worm that [Philet0ast3r](http://www.google.com/s
 
 
 
-<blockquote>Ein anderer [Wurm], an dem er gerade arbeitet, installiert zwei gesprachsfahige Programme auf dem befallenen Computer, die dann in einem Pop-up-Fenster auftauchen und nervos miteinander daruber sprechen, ob es hier eine Antivirus-Software gibt und ob diese sie womoglich aufspuren und vernichten kann.</blockquote>
+<blockquote>Ein anderer [Wurm], an dem er gerade arbeitet, installiert zwei gesprächsfahige Programme auf dem befallenen Computer, die dann in einem Pop-up-Fenster auftauchen und nervös miteinander darüber sprechen, ob es hier eine Antivirus-Software gibt und ob diese sie womöglich aufspüren und vernichten kann.</blockquote>
 
 
 

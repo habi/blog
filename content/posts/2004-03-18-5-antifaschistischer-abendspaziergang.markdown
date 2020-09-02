@@ -13,7 +13,7 @@ categories:
 
 Aus aktuellem Anlass blogg ich mal auf Deutsch:
 
-Hier ist noch der Flyer fur den Antifa-Spaziergang vom kommenden Samstag.
+Hier ist noch der Flyer für den Antifa-Spaziergang vom kommenden Samstag.
 Ich werde dort sein, Du auch?
 ![](http://habi.gna.ch/blog/images/20123.jpg)  
 

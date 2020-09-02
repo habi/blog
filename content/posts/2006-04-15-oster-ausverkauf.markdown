@@ -15,7 +15,7 @@ ich hab mal in meiner dvd/games/etc-kiste gewuhlt (weil ich endlich mal alle mei
   
 und weils im moment zu stark regnet, um zum 2nd-hand-gameverkaufer auf dem marit zu gehen, landen die sachen halt auf dem netz.
   
-also, brauchst du ein retro-game fur deine playstation (die originale) oder ein neues game fur deine psp? dann schau mal [hier](http://www.ricardo.ch/cgi-bin/auk?lng=de;cmd=mpg;usr=Sxe;usrid=210099143) bei [ricardo.ch](http://www.ricardo.ch/) vorbei...
+also, brauchst du ein retro-game für deine playstation (die originale) oder ein neues game für deine psp? dann schau mal [hier](http://www.ricardo.ch/cgi-bin/auk?lng=de;cmd=mpg;usr=Sxe;usrid=210099143) bei [ricardo.ch](http://www.ricardo.ch/) vorbei...
 
 
 

@@ -11,125 +11,60 @@ categories:
 - personal
 ---
 
-
-pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stockchen/), heute abend komm ich auch noch dazu, mir was dazu zu uberlegen:
-
-
+pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stockchen/), heute abend komm ich auch noch dazu, mir was dazu zu überlegen:
 
 **4 Jobs in meinem Leben:**
-  
 - IT-Supporter bei der Swisscom
-  
-- Regalauffuller beim Coop
-  
+- Regalauffüller beim Coop
 - Physiklehrer
-  
 - Bademeister
 
-
-
-**4**** 6 Filme die ich immer wieder sehen kann:**
-
-
-
+<del>**4**</del>**6 Filme die ich immer wieder sehen kann:**
 - [Tokyo Eyes](http://www.imdb.com/title/tt0157117/)
-  
 - [Akira](http://www.imdb.com/title/tt0094625/)
-  
 - [The Fifth Element](http://www.imdb.com/title/tt0119116/)
-  
 - [Big Fish](http://www.imdb.com/title/tt0319061/)
-  
 - [Contact](http://www.imdb.com/title/tt0118884/)
-  
 - [Lock, Stock and Two Smoking Barrels](http://www.imdb.com/title/tt0120735/)
 
-
-
 **4 Orte an denen ich gelebt habe:**
-  
 - Mailand
-  
-- Munsingen
-  
+- Münsingen
 - Bern
-  
 - Glasgow
 
-
-
-**4 TV Serien die ich gerne sehe **(aber mir ausser fur lost nie zeit dafur nehme...)**:**
-  
+**4 TV Serien die ich gerne sehe** (aber mir ausser für lost nie zeit dafür nehme...)**:**
 - [Lost](http://www.torrentspy.com/directory.asp?mode=sub&id=303)
-  
 - [The IT Crowd](http://www.channel4.com/entertainment/tv/microsites/I/itcrowd/) (nach 6 episoden leider schon fertig, bollocks!)
-  
 - [Simpsons](http://www.thesimpsons.com/)
-  
 - [Pimp my ride](http://www.mtv.com/onair/dyn/pimp_my_ride) (echt!)
 
-
-
 **4 Orte an denen ich Urlaub gemacht habe:**
-  
 - [Philippinen](http://habi.gna.ch/pics/philippinen05/)
-  
 - [Ägypten](http://habi.gna.ch/pics/Sharm/) (mehrmals schon)
-  
 - Kos
-  
 - [Obererlinsbach](http://map.search.ch/obererlinsbach) (oder wars [Stusslingen](http://map.search.ch/obererlinsbach?z=64)?)
 
-
-
 **4 meiner Lieblingsgerichte:**
-  
 - Risotti
-  
 - Curries
-  
-- Hornli mit Brosmeli von [Gosi](http://flickr.com/photos/habi/71188032/)
-  
+- Hörnli mit Brösmeli von [Gosi](http://flickr.com/photos/habi/71188032/)
 - alles ohne Blumenkohl und Fenchel von Regine
 
-
-
-**139 Webseiten die ich taglich besuche:**
-  
-- [meine feeds](http://habi.gna.ch/MySubscriptions.opml) und ein paar zerdruckte, namlich
-  
+**139 Webseiten die ich täglich besuche:**
+- [meine feeds](http://habi.gna.ch/MySubscriptions.opml) und ein paar zerdrückte, nämlich
 - google
-  
 - flickr
-  
 - [swissconnect](http://swissconnect.ch/)
 
-
-
-**4 Platze, wo ich gerne im Augenblick sein mochte**
-  
-- bei Ihr
-  
-- unter Wasser
-  
-- im Bett
-  
-- aufm [Popocatepetl](http://images.google.com/images?hl=en&client=safari&rls=en&q=Popocatepetl&spell=1&sa=N&tab=wi) oder in der [Atacama](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=Atacama&btnG=Search)-Wuste, oder am [Titicacasee](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=titicaca&btnG=Search) (der war fur [Wolf](http://flickr.com/photos/habi/tags/wolf/))
-
-
-
-**4 Blogger die das mitmachen sollen / durfen:**
-  
-- [Sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html), damit er endlich sein [blog](http://sigi.freeflux.net/) richtig eroffnet
-  
-- [Jan](http://pieceoplastic.com/), damit ich endlich weiss, was er mal alles gearbeitet hat
-  
-- [Matthias](http://www.gutfeldt.ch/matthias/blog/index.php), damit er mal wieder was sinnfreies rauslassen darf, [ohne dass 74 kommentare auf ihn einprasseln](http://blog.ch/blog/archives/2006/03/13/swiss-blog-awards-blogch-ist-neutral-und-unabhangig/) (stand 13.3.06, 23:41) (und nicht, dass das sinnfrei was, was er da gesagt hat, nur damit mann mich richtig versteht! ;-)
-  
-- [This](http://borniert.com/), damit ich weiss, was er gerne kocht
-
-
-
-
-
-technorati tags: [meme](http://www.technorati.com/tag/meme), [showandtell](http://www.technorati.com/tag/showandtell), [sigi](http://www.technorati.com/tag/sigi), [stockchen](http://www.technorati.com/tag/stöckchen)
+**4 Plätze, wo ich gerne im Augenblick sein möchte**
+ - bei Ihr
+ - unter Wasser
+ - im Bett
+ - aufm [Popocatepetl](http://images.google.com/images?hl=en&client=safari&rls=en&q=Popocatepetl&spell=1&sa=N&tab=wi) oder in der [Atacama](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=Atacama&btnG=Search)-Wüste, oder am [Titicacasee](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=titicaca&btnG=Search) (der war für [Wolf](http://flickr.com/photos/habi/tags/wolf/))
+ 
+ **4 Blogger die das mitmachen sollen / dürfen:**
+ - [Sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html), damit er endlich sein [blog](http://sigi.freeflux.net/) richtig eröffnet
+ - [Jan](http://pieceoplastic.com/), damit ich endlich weiss, was er mal alles gearbeitet hat
+ - [Matthias](http://www.gutfeldt.ch/matthias/blog/index.php), damit er mal wieder was sinnfreies rauslassen darf, [ohne dass 74 kommentare auf ihn einprasseln](http://blog.ch/blog/archives/2006/03/13/swiss-blog-awards-blogch-ist-neutral-und-unabhangig/) (stand 13.3.06, 23:41) (und nicht, dass das sinnfrei was, was er da gesagt hat, nur damit mann mich richtig versteht! ;-)
+ - [This](http://borniert.com/), damit ich weiss, was er gerne kocht.

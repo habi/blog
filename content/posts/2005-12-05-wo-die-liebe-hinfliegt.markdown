@@ -11,7 +11,7 @@ categories:
 ---
 
 
-fur alle, dies nicht per mail gekriegt haben:
+für alle, dies nicht per mail gekriegt haben:
 
 
 
@@ -27,15 +27,15 @@ das stuck "[wo die liebe hinfliegt](http://www.dastheater-effingerstr.ch/spielze
 
 
 
-wir spielen von nachsten dienstag, den 6. dezember bis zum 5. januar fast jeden abend. die genauen daten findest du auf der seite des theater an der effingerstrasse ([www.dastheater-effingerstr.ch](http://www.dastheater-effingerstr.ch) > aktuell [1]).
+wir spielen von nächsten dienstag, den 6. dezember bis zum 5. januar fast jeden abend. die genauen daten findest du auf der seite des theater an der effingerstrasse ([www.dastheater-effingerstr.ch](http://www.dastheater-effingerstr.ch) > aktuell [1]).
 
 
 
-tickets konnen direkt beim theater reserviert werden (leider noch nicht ubers internet, sondern nur uber die telefonnummer 031 382 72 72 und zwar von montag bis freitag, von 14.00 bis 19.00 uhr.)
+tickets können direkt beim theater reserviert werden (leider noch nicht übers internet, sondern nur über die telefonnummer 031 382 72 72 und zwar von montag bis freitag, von 14.00 bis 19.00 uhr.)
 
 
 
-es wurde mich freuen, wenn ihr zu besuch kommt. da ich wahrend der vorstellung keine chance habe, im zuschauerraum etwas zu erkennen, schreib mir doch eine kurze nachricht, wenn du kommst, dann konnen wir nach dem stuck zusammen noch was trinken gehen, da hier in den kommentaren geht auch.
+es wurde mich freuen, wenn ihr zu besuch kommt. da ich wahrend der vorstellung keine chance habe, im zuschauerraum etwas zu erkennen, schreib mir doch eine kurze nachricht, wenn du kommst, dann können wir nach dem stück zusammen noch was trinken gehen, da hier in den kommentaren geht auch.
 
 
 

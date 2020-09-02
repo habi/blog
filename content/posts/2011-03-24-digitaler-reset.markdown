@@ -54,7 +54,7 @@ In diesem Sinne. Geniesst das Leben. Adiowou, bis nach meinen Ferien!
 
 
 
-[1]: Das an sich extrem spannende Buch [Wired for War](http://wiredforwar.pwsinger.com/) liegt tatsachlich schon uber ein Jahr halb durchgelesen auf diesem Stapel.  
+[1]: Das an sich extrem spannende Buch [Wired for War](http://wiredforwar.pwsinger.com/) liegt tatsachlich schon über ein Jahr halb durchgelesen auf diesem Stapel.  
 
 [2]: Unter anderem [Wired](http://www.wired.com/magazine/), [NEON](http://www.neon.de/), [Technology Review](http://www.heise.de/tr/), [Megafon](http://www.megafon.ch/), [Make Magazine](http://makezine.com/) und das [Strapazin](http://www.strapazin.ch/).  
 

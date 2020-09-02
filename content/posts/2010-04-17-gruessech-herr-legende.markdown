@@ -10,19 +10,10 @@ categories:
 - personal
 ---
 
+[![](http://farm5.static.flickr.com/4016/4528085634_1c866f829c_m.jpg)](http://www.flickr.com/photos/habi/4528085634/)
 
- [![](http://farm5.static.flickr.com/4016/4528085634_1c866f829c_m.jpg)](http://www.flickr.com/photos/habi/4528085634/)
-   
+[Grüessech Herr Legende](http://www.flickr.com/photos/habi/4528085634/)
 
- 
-  [Grüessech Herr Legende](http://www.flickr.com/photos/habi/4528085634/)
-    
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-Seite 5 im heutigen Bund, gelesen an der Sonne im CafÃ© Stauffacher.
-  
-
+Seite 5 im heutigen Bund, gelesen an der Sonne im Café Stauffacher.

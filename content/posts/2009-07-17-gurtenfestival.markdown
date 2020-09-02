@@ -10,23 +10,10 @@ categories:
 - personal
 ---
 
+[![](http://farm3.static.flickr.com/2616/3728838011_d42318561c_m.jpg)](http://www.flickr.com/photos/habi/3728838011/)
 
- [![](http://farm3.static.flickr.com/2616/3728838011_d42318561c_m.jpg)](http://www.flickr.com/photos/habi/3728838011/)
-   
+[Gurtenfestival](http://www.flickr.com/photos/habi/3728838011/)
 
- 
-  [Gurtenfestival](http://www.flickr.com/photos/habi/3728838011/)
-    
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-Ich glaub' ich bleib noch ein bisschen im Büro bei dem Regen, Peter Fox spielt ja erst später am Abend...  
-
-  
-
-sent from my iPhone, please excuse my brevity and the potential typos.
-  
-
+Ich glaub' ich bleib noch ein bisschen im Büro bei dem Regen, Peter Fox spielt ja erst später am Abend...

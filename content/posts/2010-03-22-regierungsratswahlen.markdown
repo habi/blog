@@ -40,7 +40,7 @@ wieder einmal war es soweit, dass in bern der regierungs- und der grossrat gewah
 
 
 
-- ich freue mich auf den tag, an dem ich die wahlempfehlungen fur den [regierungs-](http://habi.gna.ch/wp-content/uploads/2010/03/smartvote_regierungsrat.pdf) und den [grossrat](http://habi.gna.ch/wp-content/uploads/2010/03/smartvote_grossrat.pdf) nicht mehr handisch auf ein paar tote baume ubertragen muss, in ein couvert zukleben, frankieren und in einen briefkasten werfen muss, sonder einfach per mail oder ahnlichem bei den betreffenden stellen einreichen kann...
+- ich freue mich auf den tag, an dem ich die wahlempfehlungen für den [regierungs-](http://habi.gna.ch/wp-content/uploads/2010/03/smartvote_regierungsrat.pdf) und den [grossrat](http://habi.gna.ch/wp-content/uploads/2010/03/smartvote_grossrat.pdf) nicht mehr handisch auf ein paar tote baume ubertragen muss, in ein couvert zukleben, frankieren und in einen briefkasten werfen muss, sonder einfach per mail oder ähnlichem bei den betreffenden stellen einreichen kann...
 
 
 

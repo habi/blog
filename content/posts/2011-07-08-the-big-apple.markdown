@@ -11,7 +11,7 @@ categories:
 - personal
 ---
 
-Nachste Woche fliege ich fur ein paar Tage nach New York. Ich sag dies jetzt nicht, um euch alle neidisch zu machen, sondern weil das zwei Konsequenzen hat:
+Nachste Woche fliege ich für ein paar Tage nach New York. Ich sag dies jetzt nicht, um euch alle neidisch zu machen, sondern weil das zwei Konsequenzen hat:
 
 
 
@@ -19,12 +19,12 @@ Nachste Woche fliege ich fur ein paar Tage nach New York. Ich sag dies jetzt nic
 
   
   * 
-    <del>Ich kann mein schon gekauftes [GurtenFestival](http://gurtenfestival.ch/)-Ticket fur den Samschtig Abend nicht brauchen. Hat jemand meiner Leser oder LeserInnen Bedarf daran? Der Samschtig Abend ist schon ausverkauft, das Ticket gibt's hier zum Normalpreis. Kommentar oder Mail genugt.</del> Das Ticket ging ein paar Stunden nach Auktionsstart zum Sofortpreis von 200.- weg. Krass!
+    <del>Ich kann mein schon gekauftes [GurtenFestival](http://gurtenfestival.ch/)-Ticket für den Samschtig Abend nicht brauchen. Hat jemand meiner Leser oder LeserInnen Bedarf daran? Der Samschtig Abend ist schon ausverkauft, das Ticket gibt's hier zum Normalpreis. Kommentar oder Mail genügt.</del> Das Ticket ging ein paar Stunden nach Auktionsstart zum Sofortpreis von 200.- weg. Krass!
   
 
 
   
-  * Da ich in den USA bin und der Dollar schampar gunstig ist im Moment. Kann ich jemandem etwas in die Schweiz tragen? Wenn jemand Bedarf an einem Einkauf in New York hat, z.B. im Apple Store oder so, gilt ebenfalls: Mail oder Kommentar genugt, je nachdem lasst sich da 'was einrichten
+  * Da ich in den USA bin und der Dollar schampar gunstig ist im Moment. Kann ich jemandem etwas in die Schweiz tragen? Wenn jemand Bedarf an einem Einkauf in New York hat, z.B. im Apple Store oder so, gilt ebenfalls: Mail oder Kommentar genügt, je nachdem lasst sich da 'was einrichten
 
 
 
@@ -34,7 +34,7 @@ Nachste Woche fliege ich fur ein paar Tage nach New York. Ich sag dies jetzt nic
 
 
 
-Und da ich grad in Spendierlaune bin: Falls jemand Bedarf an einer Einladung fur Google+, das neue soziale Netzwerk von Google mochte [1], gilt ebenfalls; ein Kommentar genugt. Die Einladungen gibt's aber nur per Kommentar und nicht per Mail ;)
+Und da ich grad in Spendierlaune bin: Falls jemand Bedarf an einer Einladung für Google+, das neue soziale Netzwerk von Google mochte [1], gilt ebenfalls; ein Kommentar genügt. Die Einladungen gibt's aber nur per Kommentar und nicht per Mail ;)
 
 
 

@@ -10,23 +10,10 @@ categories:
 - none
 ---
 
+[![](http://farm4.static.flickr.com/3210/3079812367_93f120e293_m.jpg)](http://www.flickr.com/photos/habi/3079812367/)
 
- [![](http://farm4.static.flickr.com/3210/3079812367_93f120e293_m.jpg)](http://www.flickr.com/photos/habi/3079812367/)
-   
+[Der Chor vs. die Passanten](http://www.flickr.com/photos/habi/3079812367/)
 
- 
-  [Der Chor vs. die Passanten](http://www.flickr.com/photos/habi/3079812367/)
-    
+Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
- 
-
-
-
-Live am Treffpunkt, mit Herrn Studer links der Mitte.  
-
-  
-
-sent from my iPhone, please excuse my brevity and the potential typos.
-  
-
+Live am Treffpunkt, mit Herrn Studer links der Mitte.

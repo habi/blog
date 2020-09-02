@@ -14,4 +14,4 @@ tags:
 
 ich geb's zu, es ist nicht der kürzeste weg um von mir zuhause ein bad in der aare zu geniessen, aber die abfahrt vom belpberg runter nach gerzensee entschädigt für den kleinen umweg zum aarebad in muri:
 
-<iframe src="http://gpsies.com/mapOnly.do?fileId=zhmhdukkibmrxozv" scrolling="no" marginheight="0" marginwidth="0" title="GPSies - Ãœber den Belpberg nach Muri an die Aare" width="600" height="400" frameborder="0"></iframe>
+<iframe src="http://gpsies.com/mapOnly.do?fileId=zhmhdukkibmrxozv" scrolling="no" marginheight="0" marginwidth="0" title="GPSies - Über den Belpberg nach Muri an die Aare" width="600" height="400" frameborder="0"></iframe>

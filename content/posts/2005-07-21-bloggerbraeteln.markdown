@@ -16,9 +16,9 @@ categories:
 
 
 
-diesen sonntag findet in konolfingen wieder mal ein bloggertreffen statt, diesmal [bratelnderweise](http://www.existenz.ch/braeteln05/). [christian](http://hymnos.blogspot.com/) hats angerissen und einige wollen kommen (siehe [kommentare](http://www.existenz.ch/braeteln05/#signup)). wenn schones wetter ist, werd ich mit dem velo nach konolfingen dusen und hab schon mal beim [herr leu angefragt](http://www.atleu.ch/x/v3/comments/blogger-braetlen-2005/), ob er auch mitkommen will, der ziert sich aber noch :-)
+diesen sonntag findet in konolfingen wieder mal ein bloggertreffen statt, diesmal [brätelnderweise](http://www.existenz.ch/braeteln05/). [christian](http://hymnos.blogspot.com/) hats angerissen und einige wollen kommen (siehe [kommentare](http://www.existenz.ch/braeteln05/#signup)). wenn schönes wetter ist, werd ich mit dem velo nach konolfingen düsen und hab schon mal beim [herr leu angefragt](http://www.atleu.ch/x/v3/comments/blogger-braetlen-2005/), ob er auch mitkommen will, der ziert sich aber noch :-)
   
-[der velobegeisterte aargauer](http://www.himmelrich.ch/) ist ja [bekannt fur langere touren](http://www.himmelrich.ch/neuereeindex.php/weblog/comments/wenn_hobbies_fusionieren/), und ein mail von mir wartet in seiner inbox, mal schauen, evtl. gibt das ne art sternfahrt :-)
+[der velobegeisterte aargauer](http://www.himmelrich.ch/) ist ja [bekannt für langere touren](http://www.himmelrich.ch/neuereeindex.php/weblog/comments/wenn_hobbies_fusionieren/), und ein mail von mir wartet in seiner inbox, mal schauen, evtl. gibt das ne art sternfahrt :-)
 
 
 

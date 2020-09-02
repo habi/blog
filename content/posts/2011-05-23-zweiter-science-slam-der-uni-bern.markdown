@@ -14,12 +14,12 @@ tags:
 - ssub
 ---
 
-Letzten Mittwoch nahm ich am [zweiten Science Slam der Uni Bern](http://www.generalsekretariat.unibe.ch/content/events_und_pr/index_ger.html) teil. Da die Aufforderung zum Mitmachen erst am Montag an mich gelangte, machte ich auch nicht wirklich Werbung fur den Event, denn der Abend im Schlachthaus Theater war schon ausverkauft.
+Letzten Mittwoch nahm ich am [zweiten Science Slam der Uni Bern](http://www.generalsekretariat.unibe.ch/content/events_und_pr/index_ger.html) teil. Da die Aufforderung zum Mitmachen erst am Montag an mich gelangte, machte ich auch nicht wirklich Werbung für den Event, denn der Abend im Schlachthaus Theater war schon ausverkauft.
 
 
 
 
-Mit meinem Vortrag uber meine Arbeit mit der [TOMCAT-Beamline](http://www.psi.ch/sls/tomcat/) an der Swiss Light Source konnte ich die Jury nicht wirklich begeistern, schlussendlich hat's nur fur den vierten Rang gereicht. Mir einzureden, es lag nur an der Einfuhrung und am Abspann des Moderators, ware vermessen, es gab bessere Vortrage als meiner, besonders derjenige von Instituts-Kollege [Dimitri](http://www.ana.unibe.ch/team/teamdetail_d.jsp?file=teamdetail&person=vanhecke) hat mir sehr gut gefallen.
+Mit meinem Vortrag über meine Arbeit mit der [TOMCAT-Beamline](http://www.psi.ch/sls/tomcat/) an der Swiss Light Source konnte ich die Jury nicht wirklich begeistern, schlussendlich hat's nur für den vierten Rang gereicht. Mir einzureden, es lag nur an der Einfuhrung und am Abspann des Moderators, ware vermessen, es gab bessere Vortrage als meiner, besonders derjenige von Instituts-Kollege [Dimitri](http://www.ana.unibe.ch/team/teamdetail_d.jsp?file=teamdetail&person=vanhecke) hat mir sehr gut gefallen.
 
 
 
@@ -40,4 +40,4 @@ Und wenn Ihr noch einen weiteren Vortrag schauen wollt, dann schaut den von Dimi
   
   
 
-Und ein bisschen mehr Hintergrundinformationen, eine Quasi-Besprechung des Abends und weitere Details zum Science Slam gibt's druben bei Herr [Jacomet](http://blog.jacomet.ch/?p=6723) oder Herr [Souslik](http://souslik.ch/2011/05/12/science-slam/).
+Und ein bisschen mehr Hintergrundinformationen, eine Quasi-Besprechung des Abends und weitere Details zum Science Slam gibt's drüben bei Herr [Jacomet](http://blog.jacomet.ch/?p=6723) oder Herr [Souslik](http://souslik.ch/2011/05/12/science-slam/).

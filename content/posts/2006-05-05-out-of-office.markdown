@@ -25,7 +25,7 @@ kamera dabei? check
   
 notizbuch? check: namics hipster pda, nicht als [einziger](http://flickr.com/photos/digifreax/139829362/)
   
-gepackt fur [morgen](http://schwimmen.dsv.de/Modules/Schedule/Meet.aspx?MeetID=1582006&Lang=de-DE)? leider nein
+gepackt für [morgen](http://schwimmen.dsv.de/Modules/Schedule/Meet.aspx?MeetID=1582006&Lang=de-DE)? leider nein
   
 [velo](http://leo.freeflux.net/blog/archiv/an-den-blog-award-2.html) gesattelt? leider nein:[![Sbaw.Rain](http://habi.gna.ch/blog/images/sbaw.rain-tm.jpg)](http://habi.gna.ch/blog/images/sbaw.rain.jpg)
 
