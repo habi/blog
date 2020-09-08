@@ -16,7 +16,7 @@ tags:
 - photos
 ---
 
-Mein Freund [Mark](http://permanenttourist.ch/) macht nicht nur tolle Fotos, sondern kann auch prima programmieren. Vor einiger Zeit hat er mich gefragt, ob ich bei einem seiner Projekte mitmachen möchte. In [seinem Blog-post](http://permanenttourist.ch/2015/05/big-wide-world-new-photo-website-online/) schreibt Mark bescheiden davon, dass es einige Zeit dauerte, bis “the design and programming” fertig waren und wir stolz auf unseren Effort seien.
+Mein Freund [Mark](https://permanenttourist.ch/) macht nicht nur tolle Fotos, sondern kann auch prima programmieren. Vor einiger Zeit hat er mich gefragt, ob ich bei einem seiner Projekte mitmachen möchte. In [seinem Blog-post](https://permanenttourist.ch/2015/05/big-wide-world-new-photo-website-online/) schreibt Mark bescheiden davon, dass es einige Zeit dauerte, bis “the design and programming” fertig waren und wir stolz auf unseren Effort seien.
 
 Ich möchte festhalten, dass die Webseite alleine Marks Werk ist, ich hab’ nur ein paar Bug-Reports beigesteuert. Ich bin ziemlich stolz, darf ich meine Bilder auf der von Mark wunderhübsch programmierten Webseite [Big Wide World](http://www.bigwideworld.ch) präsentieren, so dass wir beide ein Gefäss für die Früchte unserer gemeinsamer Passion, der Panoramafotografie haben.
 

@@ -36,7 +36,7 @@ Die Liste:
 * Richtig krank, Wände anstarrend und Bücher lesend für zwei Tage
 * Wegen viel erkältet mal mit dem Bus ga schaffe. Ist eher mühsam
 * Nach dem Kino
-* Mit Jo und [Mark](http://permanenttourist.ch/blog/) [in den Schnee](http://www.flickr.com/photos/habi/sets/72157632847594794/)
+* Mit Jo und [Mark](https://permanenttourist.ch/blog/) [in den Schnee](http://www.flickr.com/photos/habi/sets/72157632847594794/)
 * Sonntagsspaziergang
 * Der Frühling ist da, es ist Abends richtig hell
 * Training

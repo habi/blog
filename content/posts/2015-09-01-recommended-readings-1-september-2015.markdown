@@ -38,7 +38,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [Loop Ring Chop Drink](https://vimeo.com/95399265): Eine tolle Animation.
 
 
-  * [The Leviathan](https://vimeo.com/122368314): Toller Trailer für einen kommenden Film, hoffentlich. [Via Mark](http://permanenttourist.ch/2015/08/the-leviathan/)
+  * [The Leviathan](https://vimeo.com/122368314): Toller Trailer für einen kommenden Film, hoffentlich. [Via Mark](https://permanenttourist.ch/2015/08/the-leviathan/)
 
 
   * [Amaro](https://vimeo.com/127009770): Würde ich im Lotto gewinnen, würde ich mich von [Amaro](http://www.amarobikes.com/gallery.html) beraten lassen. Auch wenn ich langsam in die [S-1-Zone](http://www.velominati.com/the-rules/#12) komme...

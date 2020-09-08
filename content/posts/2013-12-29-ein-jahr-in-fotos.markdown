@@ -84,4 +84,4 @@ Saisoneröffnung in Zermatt. Mersi Michu fürs organisieren!
   
 
 
-[1]: Generelle, wie bei [Jan](https://pieceoplastic.com/index.php/6353/) oder fotografische, wie bei [Mark](http://permanenttourist.ch/2013/12/review-of-2013/)
+[1]: Generelle, wie bei [Jan](https://pieceoplastic.com/index.php/6353/) oder fotografische, wie bei [Mark](https://permanenttourist.ch/2013/12/review-of-2013/)
