@@ -19,7 +19,7 @@ categories:
 
 
 
-**update:** after having a talk with [anja](http://frauraecher.ch/) and a tiny email-conversation with [piece](http://pieceoplastic.com/) i'm gonna think over my vote again. 
+**update:** after having a talk with [anja](http://frauraecher.ch/) and a tiny email-conversation with [piece](https://pieceoplastic.com/) i'm gonna think over my vote again. 
   
 read some more on [votez.ch](http://votez.ch/abstimmungen/aktuell/bund.html), [woz.ch](http://www.woz.ch/artikel/2005/nr16/schweiz/11708.html) and on [comedia.ch](http://www.comedia.ch/de/_spezial/050216_appellschengen.php)
 

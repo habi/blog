@@ -15,7 +15,7 @@ i really forgot how i found that page, but, [postsecret.blogspot.com](http://pos
   
 
   
-ps: [piece](http://pieceoplastic.com/index.php/1793/ruff-linkage-200518/), you're gonna like [this secret](http://photos1.blogger.com/img/296/2612/1024/farts.jpg) :-)
+ps: [piece](https://pieceoplastic.com/index.php/1793/ruff-linkage-200518/), you're gonna like [this secret](http://photos1.blogger.com/img/296/2612/1024/farts.jpg) :-)
   
 ps: after reading most of them, i thought [this secret](http://photos1.blogger.com/img/296/2612/1024/towe2.jpg) is the creepiest of all of 'em.
 

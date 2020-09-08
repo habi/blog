@@ -66,7 +66,7 @@ schlussendlich möcht ich mich aber nicht auf 20% sülze 60% elektronik und 20% 
 
 <strong>5. wem wirfst du den stock zu?
 
-</strong><a href="http://pieceoplastic.com/">piece</a>, auch weil/obwohl er immer so viel über musik erzählt.
+</strong><a href="https://pieceoplastic.com/">piece</a>, auch weil/obwohl er immer so viel über musik erzählt.
 
 <a href="http://sis.slowli.com/">sis'</a> musikgeschmack nimmt mich auch wunder.
 

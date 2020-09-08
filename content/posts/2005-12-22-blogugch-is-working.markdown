@@ -16,7 +16,7 @@ after some heated debates about opml-files and licensing problems (which i've no
 
 
 
-[jan](http://pieceoplastic.com/index.php/2134/blogugch-is-functional/) has a short rundown, [chregu](http://blog.bitflux.ch/archive/2005/12/21/blogug-ch.html) has a more thorough post, also explaining the [ping-service](http://ping.blogug.ch/). i've added a blogug.ch-button to my sidebar (it used to be sub.scribe.to for some days...) and time will tell if it's gonna kick in...
+[jan](https://pieceoplastic.com/index.php/2134/blogugch-is-functional/) has a short rundown, [chregu](http://blog.bitflux.ch/archive/2005/12/21/blogug-ch.html) has a more thorough post, also explaining the [ping-service](http://ping.blogug.ch/). i've added a blogug.ch-button to my sidebar (it used to be sub.scribe.to for some days...) and time will tell if it's gonna kick in...
 
 
 

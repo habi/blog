@@ -32,7 +32,7 @@ The revolution will not be skinnable.
 </blockquote>
 
 
-[via [ferientechniker jan](http://pieceoplastic.com/index.php/2316/the-revolution-may-or-may-not-be-blogged/)]
+[via [ferientechniker jan](https://pieceoplastic.com/index.php/2316/the-revolution-may-or-may-not-be-blogged/)]
 
 
 

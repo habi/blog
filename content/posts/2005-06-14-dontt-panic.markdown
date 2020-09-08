@@ -19,7 +19,7 @@ if you've seen the film, then those extremely fast [42 games](http://www.science
 
 
 
-games [via [piece](http://pieceoplastic.com/index.php/1867/ruff-linkage-200524/)]
+games [via [piece](https://pieceoplastic.com/index.php/1867/ruff-linkage-200524/)]
 
 
 technorati tags: [hgttg](http://technorati.com/tag/hgttg), [don't panic!](http://technorati.com/tag/don't panic!)

@@ -37,5 +37,5 @@ And it's mighty impressive!
 
   
 
-**update:** [via [polymer-jan](http://pieceoplastic.com/index.php/2045/syn-chron/)] who posted that this afternoon and made me go and see this.  
+**update:** [via [polymer-jan](https://pieceoplastic.com/index.php/2045/syn-chron/)] who posted that this afternoon and made me go and see this.  
 

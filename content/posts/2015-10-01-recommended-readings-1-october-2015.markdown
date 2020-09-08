@@ -50,6 +50,6 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [Rowdy Bus Goes North - Alaska Road Trip](https://www.youtube.com/watch?v=-LoUzw5Dyc4): Einer meiner Träume ist es, einen alten Ami-Schulbus umzubauen und damit rumzucruisen. Bis ich diesen Traum umsetzen kann, muss ich mich an solche Videos halten.
 
 
-  * [The Chemical Brothers - Sometimes I Feel So Deserted](https://www.youtube.com/watch?v=saZVNLMMmmo): Die chemischen Brüder haben mal wieder ein Video veröffentlicht. Wunderschön creepy! [via [Jan](http://pieceoplastic.com/index.php/6962/ruff-linkage-201534/)]
+  * [The Chemical Brothers - Sometimes I Feel So Deserted](https://www.youtube.com/watch?v=saZVNLMMmmo): Die chemischen Brüder haben mal wieder ein Video veröffentlicht. Wunderschön creepy! [via [Jan](https://pieceoplastic.com/index.php/6962/ruff-linkage-201534/)]
 
 

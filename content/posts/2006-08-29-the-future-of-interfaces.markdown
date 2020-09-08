@@ -19,7 +19,7 @@ categories:
 
 
 
-and i also found mr. han quite entertaining. he has to talk really fast to get all the ideas and thoughts out quick enough, or his [brain is gonna explode](http://pieceoplastic.com/index.php/2525/ruff-linkage-200634/) (pun intended...)
+and i also found mr. han quite entertaining. he has to talk really fast to get all the ideas and thoughts out quick enough, or his [brain is gonna explode](https://pieceoplastic.com/index.php/2525/ruff-linkage-200634/) (pun intended...)
 
 
 

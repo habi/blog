@@ -47,7 +47,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Diplomatie: Der vielseitige Mister Chang](http://www.spiegel.de/spiegel/print/d-139574529.html): [Ung Chang](http://www.olympic.org/mr-ung-chang) spielte mal Basketball. Heute vertritt der Präsident des Internationalen Taekwondo-Verbandes Nordkorea im IOC. Er ist damit einer der wenigen Nordkoreaner, die offiziell im Ausland sind.
 
 
-  * [Conversion via Twitter](http://www.newyorker.com/magazine/2015/11/23/conversion-via-twitter-westboro-baptist-church-megan-phelps-roper): Eine Parabel über die Möglichkeit, seine eigenen Grundsätze in Frage zu stellen und zu ändern; Megan Phelps-Roper betreute die Social Media-Kanäle der schlimm radikalen [Westboro Baptist Church](https://en.wikipedia.org/wiki/Westboro_Baptist_Church), schaute so über den Tellerrand und merkte, wie falsch sie lag. Via [Jan](http://pieceoplastic.com/index.php/7046/ruff-linkage-201547/).
+  * [Conversion via Twitter](http://www.newyorker.com/magazine/2015/11/23/conversion-via-twitter-westboro-baptist-church-megan-phelps-roper): Eine Parabel über die Möglichkeit, seine eigenen Grundsätze in Frage zu stellen und zu ändern; Megan Phelps-Roper betreute die Social Media-Kanäle der schlimm radikalen [Westboro Baptist Church](https://en.wikipedia.org/wiki/Westboro_Baptist_Church), schaute so über den Tellerrand und merkte, wie falsch sie lag. Via [Jan](https://pieceoplastic.com/index.php/7046/ruff-linkage-201547/).
 
 
 

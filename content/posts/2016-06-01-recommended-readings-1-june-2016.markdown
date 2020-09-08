@@ -65,7 +65,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [HYPER-REALITY](https://vimeo.com/166807261): Wenn VR so wird, lass' ich das wohl sein...
 
 
-  * [Player Two](https://vimeo.com/162531355): Eine schon oft gehörte Geschichte, wunderbar umgesetzt. [via [Jan](http://pieceoplastic.com/index.php/7242/ruff-linkage-201617/)]
+  * [Player Two](https://vimeo.com/162531355): Eine schon oft gehörte Geschichte, wunderbar umgesetzt. [via [Jan](https://pieceoplastic.com/index.php/7242/ruff-linkage-201617/)]
 
 
   * [3D Printed Concrete Castle](https://www.youtube.com/watch?v=DQ5Elbvvr1M): 3D-Druck to the max!

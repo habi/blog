@@ -11,7 +11,7 @@ categories:
 - gadgets and gizmos
 ---
 
-i finally ordered an ipod from apple ([jan](http://pieceoplastic.com/), don't flame me, please :-).
+i finally ordered an ipod from apple ([jan](https://pieceoplastic.com/), don't flame me, please :-).
 
 now apple sent me a rebate coupon code which i can redeem for my next purchase at the apple store. it's 45 bucks off a purchase of 449 or more CHF. since i don't plan to use it (it expires at the 15. september) i put it up for grabs here.
 
@@ -21,7 +21,7 @@ nachdem ich letzte woche einen ipod bei apple bestellt habe, schenken die mir ei
 
 also, falls du bis dann was im applestore kaufen willst, hinterlass mir einen kommentar oder schreib mir ein mail und ich werde dir den code zusenden.
 
-**update:** [he did](http://pieceoplastic.com/index.php/1963/ipodz-r-4-cnuts-xcpt-habi/), sort of...
+**update:** [he did](https://pieceoplastic.com/index.php/1963/ipodz-r-4-cnuts-xcpt-habi/), sort of...
 
 
 

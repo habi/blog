@@ -25,7 +25,7 @@ and i hope the [team](http://swissblogawards.ch/team/) is getting ready to discu
 
 
 
-the picture below shows some random geeks in the volkshaus staring at their screens instead of listening to what's happening on stage. and [jan](http://pieceoplastic.com/) in characteristic pose :-) 
+the picture below shows some random geeks in the volkshaus staring at their screens instead of listening to what's happening on stage. and [jan](https://pieceoplastic.com/) in characteristic pose :-) 
   
 
 

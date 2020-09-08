@@ -26,7 +26,7 @@ since users outside of the uk cannot directly stream the videos from the channel
 
 
 
-oh, and piece did use some samples of the show in one of his latest [pieceocasts](http://pieceoplastic.com/index.php/2202/pieceocast-friday-042/).
+oh, and piece did use some samples of the show in one of his latest [pieceocasts](https://pieceoplastic.com/index.php/2202/pieceocast-friday-042/).
 
 
 

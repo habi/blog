@@ -12,4 +12,4 @@ categories:
 
 if you dare to look at the ten worst album covers ever, then you have to check out [this page](http://porktornado.diaryland.com/albumcover.html).
 
-[via [pieceoblog](http://www.web-laun.ch/pieceoBlog/index.php?p=986)]
+[via [pieceoblog](https://pieceoplastic.com/index.php?p=986)]

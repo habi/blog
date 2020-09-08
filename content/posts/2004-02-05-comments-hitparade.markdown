@@ -11,7 +11,7 @@ categories:
 ---
 
 [![](http://habi.gna.ch/blog/images/commentparade-tm.jpg)](http://habi.gna.ch/blog/images/commentparade.jpg)well, after [arni](http://www.arnoldseefeld.com/blog/) posted [some code](http://www.arnoldseefeld.com/blog/archives/000071.html)1 i tried to implement the [comment-hitparade](http://mt-plugins.org/archives/entry/commentleaders.php) i mentioned earlier:
-i works nearly like a charm, the only problem is, that my [top commenter](http://www.web-laun.ch/pieceoBlog/index.php) never left an email-address, so he appears as "empty"2
+i works nearly like a charm, the only problem is, that my [top commenter](https://pieceoplastic.com/index.php) never left an email-address, so he appears as "empty"2
 i really start to get the hang of all these [movabletype plugins](http://mt-plugins.org/), a nearly endless resources of things you can do with your blog (i just want to start to use that [blogtimes-thing](http://www.nilesh.org/mt/blogtimes/).
 ([b.](http://bernhardseefeld.ch/), this is a hint!)
 

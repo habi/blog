@@ -21,5 +21,5 @@ he even made a rather brilliant mashup of the cover as you can see on the left.
 
 
 
-[via [piecoplastics linkdump](http://pieceoplastic.com/index.php/2107/ruff-linkage-200548/)]
+[via [piecoplastics linkdump](https://pieceoplastic.com/index.php/2107/ruff-linkage-200548/)]
 

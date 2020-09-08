@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[jan](http://pieceoplastic.com/), [nick](http://bernergazette.ch/), [matthias](http://www.gutfeldt.ch/matthias/blog/index.php) and [urs](http://www.circle.ch/blog/) propose the idea of a swiss blog award. they started a page to gather comments and ideas on how to go on.
+[jan](https://pieceoplastic.com/), [nick](http://bernergazette.ch/), [matthias](http://www.gutfeldt.ch/matthias/blog/index.php) and [urs](http://www.circle.ch/blog/) propose the idea of a swiss blog award. they started a page to gather comments and ideas on how to go on.
   
 post your [0.02$](http://blog.ch/blog/index.php/archives/2005/04/15/swiss-blog-awards/#comments) over at [blog.ch/awards](http://blog.ch/award/)
 

@@ -16,7 +16,7 @@ i am a: [
 
 what kind of blogger are you?
 
-[via [pieceoplastic](http://pieceoplastic.com/index.php/3138/what-kind-of-blogger-are-you/)]
+[via [pieceoplastic](https://pieceoplastic.com/index.php/3138/what-kind-of-blogger-are-you/)]
 
 
 Technorati Tags: [quiz](http://www.technorati.com/tag/quiz)

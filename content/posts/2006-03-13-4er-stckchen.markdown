@@ -65,6 +65,6 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
  
  **4 Blogger die das mitmachen sollen / dürfen:**
  - [Sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html), damit er endlich sein [blog](http://sigi.freeflux.net/) richtig eröffnet
- - [Jan](http://pieceoplastic.com/), damit ich endlich weiss, was er mal alles gearbeitet hat
+ - [Jan](https://pieceoplastic.com/), damit ich endlich weiss, was er mal alles gearbeitet hat
  - [Matthias](http://www.gutfeldt.ch/matthias/blog/index.php), damit er mal wieder was sinnfreies rauslassen darf, [ohne dass 74 kommentare auf ihn einprasseln](http://blog.ch/blog/archives/2006/03/13/swiss-blog-awards-blogch-ist-neutral-und-unabhangig/) (stand 13.3.06, 23:41) (und nicht, dass das sinnfrei was, was er da gesagt hat, nur damit mann mich richtig versteht! ;-)
  - [This](http://borniert.com/), damit ich weiss, was er gerne kocht.

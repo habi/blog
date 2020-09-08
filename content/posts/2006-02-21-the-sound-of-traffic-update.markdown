@@ -35,7 +35,7 @@ a funny little time-waster!
 
 
 
-**update:** jan used sound of traffic in one of his cool [pieceocasts](http://pieceoplastic.com/index.php/2217/pieceocast-friday-044/)
+**update:** jan used sound of traffic in one of his cool [pieceocasts](https://pieceoplastic.com/index.php/2217/pieceocast-friday-044/)
 
 
 

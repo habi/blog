@@ -23,7 +23,7 @@ i just set up a wiki-list for bloggers, mobloggers, wikis, social bookmarks cove
 </blockquote>
 
 
-[via [piecoplastic](http://pieceoplastic.com/index.php/2001/ars-electronica-2005-blogger-list/)]
+[via [piecoplastic](https://pieceoplastic.com/index.php/2001/ars-electronica-2005-blogger-list/)]
 
 
 

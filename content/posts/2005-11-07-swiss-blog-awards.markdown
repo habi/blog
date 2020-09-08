@@ -15,7 +15,7 @@ categories:
 
 there's been cooking something for [quite a long time](http://habi.gna.ch/blog/archives/000575.html), now everything seems to be going along really fine.
   
-[jan](http://pieceoplastic.com/), [nick](http://bernergazette.ch/), [matthias](http://blog.ch/) and [urs](http://circle.ch/) [1] fixed a date and set up a [website/blog](http://swissblogawards.ch/) for it, so more infos will come along soon i guess!
+[jan](https://pieceoplastic.com/), [nick](http://bernergazette.ch/), [matthias](http://blog.ch/) and [urs](http://circle.ch/) [1] fixed a date and set up a [website/blog](http://swissblogawards.ch/) for it, so more infos will come along soon i guess!
 
 
 
