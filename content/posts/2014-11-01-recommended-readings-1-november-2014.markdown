@@ -65,6 +65,6 @@ Im letzten Monat las ich folgende Texte/sah folgende Videos [1] und fand diese g
 
 
 [1]: Es könnte sein, dass ich in den Ferien gewesen bin und deshalb die Liste etwas länger ist als sonst...
-[2]: via [hymnos.existenz.ch](http://hymnos.existenz.ch/2014/09/14/a-propos-hugo-awards/)
+[2]: via [hymnos.existenz.ch](https://hymnos.existenz.ch/2014/09/14/a-propos-hugo-awards/)
 
 

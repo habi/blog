@@ -16,7 +16,7 @@ tags:
 - grand-prix von bern
 ---
 
-Wie schon [anderswo](http://hymnos.existenz.ch/2011/05/13/das-anstrengendste-am-gp/#comments) angekundigt, konnte ich wegen Knie-Aua gestern leider den [Grand-Prix von Bern](http://gpbern.ch/) nicht rennen. Ich wollte es mir aber nicht nehmen lassen, die Stimmung zu geniessen und habe an der Ecke Zibelegassli/Kramgasse dem ganzen Feld zugeschaut. Dabei herausgekommen ist das unten eingebundene Zeitraffer-Video:
+Wie schon [anderswo](https://hymnos.existenz.ch/2011/05/13/das-anstrengendste-am-gp/#comments) angekundigt, konnte ich wegen Knie-Aua gestern leider den [Grand-Prix von Bern](http://gpbern.ch/) nicht rennen. Ich wollte es mir aber nicht nehmen lassen, die Stimmung zu geniessen und habe an der Ecke Zibelegassli/Kramgasse dem ganzen Feld zugeschaut. Dabei herausgekommen ist das unten eingebundene Zeitraffer-Video:
 
   
 

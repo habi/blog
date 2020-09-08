@@ -18,7 +18,7 @@ Schon-Lange-Mitleser hier wissen, dass ich ein grosser Freund der [TED-Talks](ht
 
 
 
-Auf der TEDxZurich-Seite ist auch ein Anmeldeformular aufgeschaltet, wo mensch sich als Zuschauer bewerben kann, denn - wie heute schon an anderer Stelle gesagt - als Speaker sollte mensch doch einiges auf dem Kasten haben. Ich bin gespannt, wie und ob meine Anmeldung angenommen wird, im Gegensatz zur vergangenen [TEDx Geneva](http://www.tedxgeneva.com/) mussten keine [lifetime achievements](http://hymnos.existenz.ch/2009/11/23/selbstreflektion-via-comics/) angegeben werden...
+Auf der TEDxZurich-Seite ist auch ein Anmeldeformular aufgeschaltet, wo mensch sich als Zuschauer bewerben kann, denn - wie heute schon an anderer Stelle gesagt - als Speaker sollte mensch doch einiges auf dem Kasten haben. Ich bin gespannt, wie und ob meine Anmeldung angenommen wird, im Gegensatz zur vergangenen [TEDx Geneva](http://www.tedxgeneva.com/) mussten keine [lifetime achievements](https://hymnos.existenz.ch/2009/11/23/selbstreflektion-via-comics/) angegeben werden...
 
 
 

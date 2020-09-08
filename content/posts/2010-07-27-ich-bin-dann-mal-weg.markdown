@@ -10,5 +10,5 @@ categories:
 - personal
 ---
 
-[![](https://habi.gna.ch/wp-content/uploads/2010/07/iceland-300x213.jpg)](https://habi.gna.ch/wp-content/uploads/2010/07/iceland.jpg)Von heute Abend an werde ich [Herr Hymnos](http://hymnos.existenz.ch/2010/07/27/vulkanasche/) und Begleitung in Island ablösen. Ich bin bis Mitte August offline, werde keine Mails lesen und die Landschaft geniessen. Das Foto zeigt unsere sorgfältige Planung, mal schauen, was wir umsetzten können. Geniessen steht im Vordergrund.
+[![](https://habi.gna.ch/wp-content/uploads/2010/07/iceland-300x213.jpg)](https://habi.gna.ch/wp-content/uploads/2010/07/iceland.jpg)Von heute Abend an werde ich [Herr Hymnos](https://hymnos.existenz.ch/2010/07/27/vulkanasche/) und Begleitung in Island ablösen. Ich bin bis Mitte August offline, werde keine Mails lesen und die Landschaft geniessen. Das Foto zeigt unsere sorgfältige Planung, mal schauen, was wir umsetzten können. Geniessen steht im Vordergrund.
 Häbet sorg, bis denne!

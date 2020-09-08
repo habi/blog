@@ -16,7 +16,7 @@ tags:
 - kiva.org
 ---
 
-Eigentlich wollte ich diesen Eintrag schon lange schreiben [1], bin aber aufgrund einiger - auch personlicher - Sachen nicht dazugekommen. Eben: genau wie [Herr Studer](http://hymnos.existenz.ch/2011/01/08/ein-letztes-mal-in-der-aare/) ging ich ja für [JRZ in's Wasser](https://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/), genauer in die kalte Aare. Fur jedes Foto, das von meinem Internett-Umfeld davon gepostet wurde, hab' ich 25.- für ein Projekt bei kiva.org versprochen. Einen Bonus-Beitrag sollte es für jedes sichtbare Sixpack geben.
+Eigentlich wollte ich diesen Eintrag schon lange schreiben [1], bin aber aufgrund einiger - auch personlicher - Sachen nicht dazugekommen. Eben: genau wie [Herr Studer](https://hymnos.existenz.ch/2011/01/08/ein-letztes-mal-in-der-aare/) ging ich ja für [JRZ in's Wasser](https://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/), genauer in die kalte Aare. Fur jedes Foto, das von meinem Internett-Umfeld davon gepostet wurde, hab' ich 25.- für ein Projekt bei kiva.org versprochen. Einen Bonus-Beitrag sollte es für jedes sichtbare Sixpack geben.
 
 Hinecht bin ich nun dazu gekommen, einige Projekte auszuwahlen. 
 

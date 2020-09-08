@@ -24,7 +24,7 @@ dabei waren:
 
 
 
-- [hymnos](http://hymnos.existenz.ch/)
+- [hymnos](https://hymnos.existenz.ch/)
 
 
 

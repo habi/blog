@@ -16,7 +16,7 @@ categories:
 wie jeden ersten montag im monat fand auch heute der [blgmndybrn](https://leumund.ch/v3/comments/blgmndybrn-heute-abend/) im domino statt.
 dabei waren diesmal
 
-[christian](http://hymnos.existenz.ch/)
+[christian](https://hymnos.existenz.ch/)
 [kus](http://starfrosch.ch/) (übrigens mit eigenem [wikipedia-eintrag](http://de.wikipedia.org/wiki/Starfrosch)...)
 [herr löi](https://leumund.ch/)
 [olivier](http://olivier.oswald.name/)
