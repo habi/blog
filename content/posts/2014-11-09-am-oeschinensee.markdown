@@ -19,6 +19,6 @@ Auf einem ausgedehnten [Spaziergang](http://runkeeper.com/user/davidhaberthuer/a
 Mit dabei war die [neuere Kamera](https://habi.gna.ch/2014/07/25/lumix-gm-1/) die (bis die Batterie leer war) ein paar Fotos gemacht hat.
 Daraus entstanden sind diese gut 30 Sekunden Video.
 
-http://vimeo.com/111344046
+{{< vimeo 111344046 >}}
 
 Wer gut aufpasst sieht auch die neugierige Bergdohle, die zu Besuch kam...

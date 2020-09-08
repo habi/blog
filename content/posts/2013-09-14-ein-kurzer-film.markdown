@@ -12,6 +12,6 @@ tags:
 - short movie
 ---
 
-http://vimeo.com/73919343
+{{< vimeo 73919343 >}}
 
 Eine verzwickte Geschichte, extrem reduziert erzählt.

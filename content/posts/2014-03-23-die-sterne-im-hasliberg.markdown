@@ -20,4 +20,4 @@ Von der Terrasse vom [Wolftännli](http://www.wolftaennli.ch/) sah ich wie erwar
 
 Dabei entstanden diese beiden kurzen Zeitraffer-Sequenzen.
 
-http://vimeo.com/89447240
+{{< vimeo 89447240 >}}
