@@ -22,7 +22,7 @@ ganz zuerst: mich nimmt wunder, wie die reaktionen sind, drum!
 
 
 
-der herr leu hat ja schon länger ein projekt am laufen, mit dem er beweisen will, dass [newsletters nichts rückständiges](http://leumund.ch/2008/business/newsletter-mit-awebercom/) sind. darüber will er in lockerer folge news verteilen, sowie primeurs aus twitter und der blogszene schweiz rumsprechen.  
+der herr leu hat ja schon länger ein projekt am laufen, mit dem er beweisen will, dass [newsletters nichts rückständiges](https://leumund.ch/2008/business/newsletter-mit-awebercom/) sind. darüber will er in lockerer folge news verteilen, sowie primeurs aus twitter und der blogszene schweiz rumsprechen.  
 
 
 

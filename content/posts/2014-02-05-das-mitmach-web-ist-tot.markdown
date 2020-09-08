@@ -32,7 +32,7 @@ Ich hab' das Skript von vor zwei Jahren etwas ausgebaut, so dass das Datenbank-G
 Dank [MySQL Connector/Python](http://dev.mysql.com/doc/connector-python/en/index.html) wird die Datenbank von WordPress direkt angezapft, mit [optparse](http://docs.python.org/2/library/optparse.html) werden dem Skript ein paar Vorgaben (Server, Datenbank, Username und Passwort) dazu übergeben.
 
 
-Die Datenbank-Abfrage (ursprünglich von [Herr Leu](http://leumund.ch/wohin-gehen-all-die-kommentare-0014184)) wird direkt übergeben.
+Die Datenbank-Abfrage (ursprünglich von [Herr Leu](https://leumund.ch/wohin-gehen-all-die-kommentare-0014184)) wird direkt übergeben.
 
 
 Anschliessend wird mit den abgefragten Daten etwas jongliert und diese dann ausgegeben, 

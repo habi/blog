@@ -16,7 +16,7 @@ tags:
 - visualization
 ---
 
-[Herr Leu hat letzthin davon geschrieben](http://leumund.ch/wohin-gehen-all-die-kommentare-0014184), dass das Kommentar-Volumen auf seinem Blog in der letzten Zeit ziemlich abgenommen hat, während die Reaktionen auf die Beiträge in anderen Kanälen stattfinden.
+[Herr Leu hat letzthin davon geschrieben](https://leumund.ch/wohin-gehen-all-die-kommentare-0014184), dass das Kommentar-Volumen auf seinem Blog in der letzten Zeit ziemlich abgenommen hat, während die Reaktionen auf die Beiträge in anderen Kanälen stattfinden.
 
 
 

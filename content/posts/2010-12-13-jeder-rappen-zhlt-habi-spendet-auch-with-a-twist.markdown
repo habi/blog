@@ -21,7 +21,7 @@ Tja, irgendwie hat das nicht so geklappt wie geplant, der Post wurde erstmalig v
 
 
 
-Im Moment findet ja die schweizweite Spendenaktion "[Jeder Rappen zahlt statt](http://www.jrz.ch/)". Im naheren Umfeld meines Blogs finden ja schon einige SpendenIdeen statt, spannende und weniger spannende. Wer sich zum Beispiel ein professionelles Augenbrauen-Zupfen mit Fotoshooting leisten will, kann dies bei [Barbara ersteigern](http://pictura.tumblr.com/post/2300742909/lacheln-fur-einen-guten-zweck). Mit einem Klick 1.- spenden tut mensch, wenn mensch [Herr Leu](http://leumund.ch/jeder-rappen-zahlt-auch-hier-009139) bei diesem [Twitterdings](http://twitter.com/eumund) folgt oder Fan von Ihm bei Facebook wird.
+Im Moment findet ja die schweizweite Spendenaktion "[Jeder Rappen zahlt statt](http://www.jrz.ch/)". Im naheren Umfeld meines Blogs finden ja schon einige SpendenIdeen statt, spannende und weniger spannende. Wer sich zum Beispiel ein professionelles Augenbrauen-Zupfen mit Fotoshooting leisten will, kann dies bei [Barbara ersteigern](http://pictura.tumblr.com/post/2300742909/lacheln-fur-einen-guten-zweck). Mit einem Klick 1.- spenden tut mensch, wenn mensch [Herr Leu](https://leumund.ch/jeder-rappen-zahlt-auch-hier-009139) bei diesem [Twitterdings](http://twitter.com/eumund) folgt oder Fan von Ihm bei Facebook wird.
 
 
 

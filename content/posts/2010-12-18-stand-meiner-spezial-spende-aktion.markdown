@@ -25,7 +25,7 @@ Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotte
 
 
   
-  * den Herr [Leu](http://leumund.ch/)
+  * den Herr [Leu](https://leumund.ch/)
 
 
   

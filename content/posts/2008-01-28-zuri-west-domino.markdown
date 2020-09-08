@@ -19,7 +19,7 @@ hossa! schon seit einiger zeit fliegt ein stöckchen in der schweizer blogosphä
 also:
 
 * [Dr Arturo Bandini un'I si mitem Elvis uf Paris](http://bloxxs.ch/?p=1317)
-* [Är het se wöue gseh](http://leumund.ch/2008/worldwide/zuri-west-domino/)
+* [Är het se wöue gseh](https://leumund.ch/2008/worldwide/zuri-west-domino/)
 * [und si hei wöuä meh erfahre vo Tier u vo berüehmte Mönsche](http://www.monoblog.ch/stories/35375/)
 * [Und er denkt: I ha ke Ahnig wi me mit som'ne Ängu redt](http://irgendeinisch.twoday.net/stories/4615366/)
 * [Aber (bitte Baby), blib no chli bi mir](http://www.filomenal.ch/blog/2008/01/15/zuri-west-domino/)
@@ -48,7 +48,7 @@ und damit er meine stündige copy-paste-aktion mit formatierungskorrektur nicht 
 
 ````html
 <ul>
-    <li><a href="http://bloxxs.ch/?p=1317"><strong>Dr Arturo Bandini un</strong><strong>'I</strong> si mitem <strong>Elvis</strong> uf <strong>Paris</strong></a></li> <li><a href="http://leumund.ch/2008/worldwide/zuri-west-domino/"><strong>Är het se wöue gseh</strong></a></li>
+    <li><a href="http://bloxxs.ch/?p=1317"><strong>Dr Arturo Bandini un</strong><strong>'I</strong> si mitem <strong>Elvis</strong> uf <strong>Paris</strong></a></li> <li><a href="https://leumund.ch/2008/worldwide/zuri-west-domino/"><strong>Är het se wöue gseh</strong></a></li>
     <li><a href="http://www.monoblog.ch/stories/35375/"><strong>und si hei wöuä meh erfahre vo Tier u vo berüehmte Mönsche</strong></a></li>
     <li><a href="http://irgendeinisch.twoday.net/stories/4615366/">Und er denkt: <strong>I ha ke Ahnig wi me mit som'ne Ängu redt</strong></a></li>
     <li><a href="http://www.filomenal.ch/blog/2008/01/15/zuri-west-domino/">Aber <strong>(bitte Baby), blib no chli bi mir</strong></a></li>

@@ -25,7 +25,7 @@ aufgenommen mitten in der nacht am flughafen von dubai, während dem warten auf 
 
 
 
-ein beitrag für die blogparade des [herrn leu](http://leumund.ch/blogparade-dieses-bild-007653).
+ein beitrag für die blogparade des [herrn leu](https://leumund.ch/blogparade-dieses-bild-007653).
 
 
 
