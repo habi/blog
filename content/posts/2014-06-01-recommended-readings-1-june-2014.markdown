@@ -19,9 +19,9 @@ Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:
 
 
 
-  * [Intervention on Vimeo](http://vimeo.com/9120931)
+  * [Intervention on Vimeo](https://vimeo.com/9120931)
   * [BBC - Future - How extreme isolation warps the mind](http://www.bbc.com/future/story/20140514-how-extreme-isolation-warps-minds)
-  * [The illusion of life on Vimeo](http://vimeo.com/93206523)
-  * [JohnnyExpress on Vimeo](http://vimeo.com/94502406)
+  * [The illusion of life on Vimeo](https://vimeo.com/93206523)
+  * [JohnnyExpress on Vimeo](https://vimeo.com/94502406)
   * [RoboCop (1987) Is an Almost Perfectly Symmetrical Film | Deja Reviewer](http://dejareviewer.com/2014/04/29/cinematic-chiasmus-robocop-is-almost-perfectly-symmetrical-film/)
   * [Walking Scar(r)ed](http://www.5280.com/walkingscarred/)

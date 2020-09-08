@@ -15,7 +15,7 @@ tags:
 
 einer um gut in den tag zu starten: der stunt bei ca. 3:15 ist unglaublich!
 
-http://vimeo.com/4207784
+https://vimeo.com/4207784
 [via [milano fixed](http://www.milanofixed.com/)]
 
 da fühle ich mich mit meinen knapp 20 km ein bisschen hoch- und runterfahren am feierabend grad langweilig, auch wenn ich's laut gps-tracker auf 81 km/h höchstgeschwindigkeit gebracht habe. der track ist unten zu sehen, das geschwindigkeits-profil ganz unten.

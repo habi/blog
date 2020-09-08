@@ -25,4 +25,4 @@ Mit der Hilfe von [StarStaX](http://www.markus-enzweiler.de/software/software.ht
 Ich hab' aber nicht nur den Sternenhimmel aufgenommen, sondern auch ein paar andere Aufnahmen gemacht, die Fotos sind [hier](http://fotos.davidhaberth%C3%BCr.ch/index.php?type=sets&setId=72157634673543250) zu finden, die anderen Zeitraffer-Aufnahmen hab' ich zum unten eingebundenen Video zusammengesetzt.
 Markus, ich hoffe, [diesmal](https://habi.gna.ch/2013/03/24/museumsnacht/#comment-15247) gefällt dir der Spannungsbogen besser :)
 
-http://vimeo.com/70514011
+https://vimeo.com/70514011

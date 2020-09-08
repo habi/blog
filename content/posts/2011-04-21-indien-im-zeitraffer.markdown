@@ -17,4 +17,4 @@ Die Panoramas sind fertiggerechnet und werden zusammen mit den anderen Fotos nä
 
 {{< vimeo 22710413 >}}
 
-Details zum Video finden sich auf der [Vimeo-Seite](http://vimeo.com/22710413) und dort versteckt sich auch ein Mini-Wettbewerb: Wer [Nina findet](http://www.findwaldo.com/), bekommt das nächste Mal wenn wir uns sehen, einen Sirupi oder so spendiert.
+Details zum Video finden sich auf der [Vimeo-Seite](https://vimeo.com/22710413) und dort versteckt sich auch ein Mini-Wettbewerb: Wer [Nina findet](http://www.findwaldo.com/), bekommt das nächste Mal wenn wir uns sehen, einen Sirupi oder so spendiert.

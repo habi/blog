@@ -42,7 +42,7 @@ Genau wie im [Januar](https://habi.gna.ch/2013/02/01/mein-januar/), [Februar](ht
   * [Ga velöle](http://runkeeper.com/user/davidhaberthuer/activity/245308136)
   * Kuchen essen
   * Der Herbst ist da, inklusive suppigem Morgen-Nebel
-  * [KCBR?](http://youtu.be/Q-Ch8MeH5BI)
+  * [KCBR?](https://youtu.be/Q-Ch8MeH5BI)
   * Wackelsalat zum Znacht
   * Fernseh-Abend
   * Immer diese Velorowdys!

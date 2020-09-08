@@ -16,7 +16,7 @@ Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:
 
 * [The British Undercover Cop Who Went Too Far](http://www.newyorker.com/magazine/2014/08/25/the-spy-who-loved-me-2)
 
-* [Delivery](http://vimeo.com/98270731)
+* [Delivery](https://vimeo.com/98270731)
 
 * [Humans Need Not Apply](http://www.youtube.com/watch?v=7Pq-S557XQU)
 

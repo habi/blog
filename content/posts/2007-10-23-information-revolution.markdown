@@ -12,7 +12,7 @@ categories:
 
 {{< youtube -4CV05HyAbM >}}
 
-a movie-friend of [The Machine is Us/ing Us](http://youtube.com/watch?v=NLlGopyXT_g), simply brilliant!
+a movie-friend of [The Machine is Us/ing Us](https://youtube.com/watch?v=NLlGopyXT_g), simply brilliant!
 
 [via [boingboing](http://www.boingboing.net/2007/10/22/information-revoluti.html)]
 

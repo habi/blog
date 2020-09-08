@@ -17,6 +17,6 @@ tags:
 
 Vor 14 Tagen war ich mit Renzo früh am Morgen im Thunersee und wir haben gemeinsam unser Equipement gebadet. Dabei ist [dieses Tauchprofil](https://habi.gna.ch/divelog/2010.07.03.oberhofen.pdf) und folgender Film entstanden.
 
-http://vimeo.com/13390655
+https://vimeo.com/13390655
 
-BTW: Das vimeo dies [neu anbietet](http://vimeo.com/blog:321), sind alle [meine dort hochgeladen Videos](http://vimeo.com/habi/videos) ab jetzt unter einer CreativeCommons [by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/)-Lizenz verfüg- und teilweise sogar herunterladbar.
+BTW: Das vimeo dies [neu anbietet](https://vimeo.com/blog:321), sind alle [meine dort hochgeladen Videos](https://vimeo.com/habi/videos) ab jetzt unter einer CreativeCommons [by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/)-Lizenz verfüg- und teilweise sogar herunterladbar.

@@ -34,7 +34,7 @@ Auf [Vorschlag von Philipp](http://fime.ch/leisure-suite/2015/01/11/weekend-read
   * [What David Cameron just proposed would endanger every Briton and destroy the IT industry](http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html): Kurzsichtige Politiker sind kurzsichtig.
 
     
-  * [Playing with Power](http://vimeo.com/116585007): Etwas grübeln in der Mottenkiste, etwas Elektronik zusammen mit Gehirnschmalz und schon entsteht daraus ein hilfreiches Werkzeug, das auch noch Freude macht.
+  * [Playing with Power](https://vimeo.com/116585007): Etwas grübeln in der Mottenkiste, etwas Elektronik zusammen mit Gehirnschmalz und schon entsteht daraus ein hilfreiches Werkzeug, das auch noch Freude macht.
 
     
   * [US Airways Flight 1549: Anatomy of a Miracle](http://www.vanityfair.com/style/features/2009/06/us_airways200906): Herr Sullenbergers Landung im Hödsön river ist schon fünf Jahre her. Die Reportage aus dem Vanity Fair rollt die ganze Geschichte nochmals auf. Und erklärt unter anderem, wieso es wichtig ist, dass Ingenieure an einem "artificial standard-density bird" arbeiten.

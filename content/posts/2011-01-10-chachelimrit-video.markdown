@@ -19,4 +19,4 @@ Ich habe Hosae ja [versprochen](http://www.hosae.ch/blog/green-lake/comment-page
 
 Nichtsdestotrotz, hier das visuelle Logbuch meines [165. Tauchgangs](https://habi.gna.ch/divelog/2010.12.29.chachelimaerit.pdf):
 
-http://vimeo.com/18577150
+https://vimeo.com/18577150

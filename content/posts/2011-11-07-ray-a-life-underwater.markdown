@@ -20,7 +20,7 @@ Auf dem [Free Music Archive](http://freemusicarchive.org/) habe ich nach 'Dive' 
 In der Beschreibung steht, dass dieses Album der Soundtrack zu einer Doku sei, die ich mir dann anschaute.
 Und ziemlich schön fand, deshalb hier der eigene Eintrag für diesen Film.
 
-In der Dokumentation [Ray: A Life Underwater](http://vimeo.com/28404579) erzählen die Filmemacher die Geschichte eines Tauchers, der mit 75 Jahren immer noch Schalk in den Augen hat und es geniesst, die Meere rund um Plymouth nicht mehr kommerziell betauchen zu müssen.
+In der Dokumentation [Ray: A Life Underwater](https://vimeo.com/28404579) erzählen die Filmemacher die Geschichte eines Tauchers, der mit 75 Jahren immer noch Schalk in den Augen hat und es geniesst, die Meere rund um Plymouth nicht mehr kommerziell betauchen zu müssen.
 Auch wenn er dies nicht immer nach den Regeln der Kunst macht und nebst Anemonen anchaflen einiges an Staub aufwirbelt, sehenswerte Bilder sind's allemal, über und unter Wasser.
 Meines Erachtens lohnt es sich, für knapp 15 Minuten mit Ray abzutauchen.
 

@@ -16,7 +16,7 @@ tags:
 - zen
 ---
 
-Eine Erkenntnis der letzten Wochen: Ich verbringe zuviel Zeit vor dem Computer. Gleichzeitig geniesse ich es, [Sachen](https://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) zu [basteln](https://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/), [Fotos zu machen](http://www.flickr.com/photos/habi/) und [Videos](http://vimeo.com/habi) zusammenzuschneiden. Vielfach verbringe ich aber ganze Abende und lese mich durch die News in meinen gut 150 Feeds durch. Gleichzeitig stapeln sich auf meinem Nachttisch Bucher und Comics, die ich teilweise seit mehreren Monaten lesen will [1]. Ich schaffe es mit Muhe, knapp den Stapel meiner Magazine [2] abzubauen, bevor immer wieder neue Ausgaben davon im Briefkasten landen.
+Eine Erkenntnis der letzten Wochen: Ich verbringe zuviel Zeit vor dem Computer. Gleichzeitig geniesse ich es, [Sachen](https://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) zu [basteln](https://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/), [Fotos zu machen](http://www.flickr.com/photos/habi/) und [Videos](https://vimeo.com/habi) zusammenzuschneiden. Vielfach verbringe ich aber ganze Abende und lese mich durch die News in meinen gut 150 Feeds durch. Gleichzeitig stapeln sich auf meinem Nachttisch Bucher und Comics, die ich teilweise seit mehreren Monaten lesen will [1]. Ich schaffe es mit Muhe, knapp den Stapel meiner Magazine [2] abzubauen, bevor immer wieder neue Ausgaben davon im Briefkasten landen.
 
 
 

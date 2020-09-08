@@ -27,6 +27,6 @@ Mich hat der Film sehr berührt, auch wenn mir das Thema glücklicherweise fern 
 
 
 
-Ich muss sagen, dass mich der Film berührt hat. Wer sich auch die Zeit nehmen will, findet das Video unten eingebunden, auf der [vimeo-Seite](http://vimeo.com/25239708) kann die Dokumention auch als File heruntergeladen werden, zum offline gucken.
+Ich muss sagen, dass mich der Film berührt hat. Wer sich auch die Zeit nehmen will, findet das Video unten eingebunden, auf der [vimeo-Seite](https://vimeo.com/25239708) kann die Dokumention auch als File heruntergeladen werden, zum offline gucken.
 
-[1] dank der Kombination aus [Vimeo-RSS-Feed](http://vimeo.com/habi/likes/) und [miro](http://www.getmiro.com/) funktioniert das wunderbar, auch offline.
+[1] dank der Kombination aus [Vimeo-RSS-Feed](https://vimeo.com/habi/likes/) und [miro](http://www.getmiro.com/) funktioniert das wunderbar, auch offline.

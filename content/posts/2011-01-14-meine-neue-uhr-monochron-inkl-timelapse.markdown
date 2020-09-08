@@ -32,7 +32,7 @@ Die MONOCHRON-Uhr spielt mit sich selber <a href="http://de.wikipedia.org/wiki/P
 
 Wer mir beim Zusammenbau der Uhr über die Schulter gucken will, kann dies in untenstehendem Video tun:
 
-http://vimeo.com/18673966
+https://vimeo.com/18673966
 
 [1]: Adafruit Industries verkauft einiges an sogenannten Kits, elektronische Gadgets, die selber zusammengebaut werden müssen. Ein Grossteil der Kits ist <a href="http://de.wikipedia.org/wiki/Open_Source_Hardware">Open Source Hardware</a>, das heisst, die Pläne sind frei verfügbar und könnten auch selber erstellt werden. Einfacher ist es aber, auf der Webseite ein Kit zu bestellen, so dass mensch nicht 20 verschiedene Läden abklappern muss...
 [2]: Es hat etwa eine halbe Stunde gedauert, bis ich denn rausgefunden habe, dass der <a href="https://docs.google.com/viewer">Google Docs Viewer</a> scheinbar nicht mit mehreren Bindestrichen im Filenamen umgehen kann...

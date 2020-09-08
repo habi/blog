@@ -51,7 +51,7 @@ Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:
   * [Launch | Boing Boing](http://boingboing.net/2014/12/06/launch-short-story.html)
 
     
-  * [Sturt Spurt](http://vimeo.com/112962674)
+  * [Sturt Spurt](https://vimeo.com/112962674)
 
 
 

@@ -54,7 +54,7 @@ Im letzten Monat las ich folgende Texte/sah folgende Videos [1] und fand diese g
   * [Not on a Social Network? You've Still Got a Privacy Problem | WIRED](http://www.wired.com/2014/10/privacy-friendster/)
 
     
-  * [Entangled | Short Cuts Canada](http://vimeo.com/105282211)
+  * [Entangled | Short Cuts Canada](https://vimeo.com/105282211)
 
     
   * [The Horror of a 'Secure Golden Key'](https://keybase.io/blog/2014-10-08/the-horror-of-a-secure-golden-key)

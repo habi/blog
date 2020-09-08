@@ -47,7 +47,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [Lars Andersen: a new level of archery](https://www.youtube.com/watch?v=BEG-ly9tQGk): Was Lars Andersen mit Pfeil und Bogen anstellt ist - mensch kann es fast nicht anders sagen - mindblowing.
 
     
-  * [Sticky](http://vimeo.com/76647062): Ein Dokumentations-Animationsfilm über WissenschaftlerInnen, die auf einer extrem abgelegenen Insel ausgestorben geglaubte Insekten entdecken. Und darüber, was daraus werden kann.
+  * [Sticky](https://vimeo.com/76647062): Ein Dokumentations-Animationsfilm über WissenschaftlerInnen, die auf einer extrem abgelegenen Insel ausgestorben geglaubte Insekten entdecken. Und darüber, was daraus werden kann.
 
     
   * [Mr. O](https://vimeo.com/119183703): U d'Lüt hei gseit, däm Ma däm spinnts. Würde glaub Mani Matter dazu sagen.

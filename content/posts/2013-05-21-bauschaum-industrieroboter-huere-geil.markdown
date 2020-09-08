@@ -10,7 +10,7 @@ categories:
 - linkdump
 ---
 
-http://vimeo.com/66401994
+https://vimeo.com/66401994
 
 OK, es ist nicht Bauschaum, sondern ein wärmehärtendes Polymer.
 Cool aussehen tut's aber trotzdem.

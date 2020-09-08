@@ -23,8 +23,8 @@ Seit 10 Tagen surfe ich fast ausschliesslich Flash Player-frei durch das Interne
   
   * Im Ordner /Library/ einen neuen Ordner "Internet Plugins (disabled)" erstellen und aus dem Ordner "Internet Plugins" die Dateien Flash Player.plugin, flashplayer.xpt und NP-PPC-Dir-Shockwave ruberverschieben. Dies deaktiviert den Flash Player. Aus- und wieder einloggen oder neu starten aktiviert diese Einstellungen.
 
-  * [Youtube auf HTML5 umstellen](http://youtube.com/html5), das aktiviert den HTML5-Player auf YouTube
-  * [Vimeo auf HTML5 umstellen](http://vimeo.com/blog:268)
+  * [Youtube auf HTML5 umstellen](https://youtube.com/html5), das aktiviert den HTML5-Player auf YouTube
+  * [Vimeo auf HTML5 umstellen](https://vimeo.com/blog:268)
   * Die Safari-Extension [Youtube5](http://www.verticalforest.com/youtube5-extension/) installieren, damit auch eingebundene YouTube-Videos ohne Flash Player angezeigt werden.
 
 So bewege ich mich nun seit 10 Tagen durchs Netz und habe nur ein paar Einschrankungen bemerkt. Entweder weil ich (noch) keinen Vimeo Pro Account habe oder weil die Youtube5-Extension nicht korrekt funktioniert werden die eingebetteten Videos von mir nicht als HTML5 ausgeliefert. Teilweise werden Videos von anderen Seiten als Youtube und Vimeo nicht als HTML5-Alternative ausgeliefert (z.B. [Spiegel.de](http://spiegel.de/video/video-1086540.html) oder [NewsNetz](http://spiegel.de/video/video-1086540.html)). Flashgames (z.B. die witzigen der [Nothing Agency](https://nothing.ch/works/games)) funktionieren nicht und die [Flickr-Diashows werden auch nicht angezeigt](http://cl.ly/3Iy6). Diese Probleme sind aber sehr einfach losbar. Und wie ich im [vorhergehenden Eintrag](https://habi.gna.ch/2010/11/19/ausschaffungsinitiative-im-praxistest/) geschrieben habe, ist ohne Flash Player der Link zum Einbinden von issuu.com-Dokumenten zwar kurz sichtbar, fuhr aber nach einem Klick und der Anzeige des [Einbett-Codes](http://issuu.com/surprise/docs/surprise_237?showEmbed=true) direkt zum Dokument.
