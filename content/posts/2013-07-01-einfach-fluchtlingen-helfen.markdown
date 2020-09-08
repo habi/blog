@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-07-01 21:52:55+00:00
-link: http://habi.gna.ch/2013/07/01/einfach-fluchtlingen-helfen/
+link: https://habi.gna.ch/2013/07/01/einfach-fluchtlingen-helfen/
 slug: einfach-fluchtlingen-helfen
 title: Einfach Flüchtlingen helfen
 wordpress_id: 3133

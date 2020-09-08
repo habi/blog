@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-05-17 19:28:38+00:00
-link: http://habi.gna.ch/2017/05/17/mein-19-gp/
+link: https://habi.gna.ch/2017/05/17/mein-19-gp/
 slug: mein-19-gp
 title: Mein 19. GP
 wordpress_id: 5081
@@ -23,6 +23,6 @@ Weil ich beim Graben in meinen Daten eine XLS-Datei mit einer Zusammenstellung v
 Das Resultat daraus ist untenstehendes Bild, die Zeiten aller meiner bisher gerannten GPs.
 Von links nach rechts die Zeit, von unten nach oben die Jahre.
 
-![](http://habi.gna.ch/wp-content/uploads/2017/05/gp-1024x592.png)
+![](https://habi.gna.ch/wp-content/uploads/2017/05/gp-1024x592.png)
 
 Auf ein nächstes, 20. Mal!

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-03-20 23:16:49+00:00
-link: http://habi.gna.ch/2012/03/21/tanzen-in-perfektion/
+link: https://habi.gna.ch/2012/03/21/tanzen-in-perfektion/
 slug: tanzen-in-perfektion
 title: Tanzen in Perfektion
 wordpress_id: 2685

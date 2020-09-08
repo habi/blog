@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-11-06 13:34:16+00:00
-link: http://habi.gna.ch/2010/11/06/pause-in-huttwil/
+link: https://habi.gna.ch/2010/11/06/pause-in-huttwil/
 slug: pause-in-huttwil
 title: Pause in Huttwil
 wordpress_id: 2280

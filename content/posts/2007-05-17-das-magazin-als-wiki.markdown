@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-05-17 14:22:49+00:00
-link: http://habi.gna.ch/2007/05/17/das-magazin-als-wiki/
+link: https://habi.gna.ch/2007/05/17/das-magazin-als-wiki/
 slug: das-magazin-als-wiki
 title: das magazin als wiki
 wordpress_id: 946
@@ -13,7 +13,7 @@ categories:
 - tschörman
 ---
 
-[![Dasmagazin](http://habi.gna.ch/wp-content/uploads/2007/05/dasmagazin-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/05/dasmagazin.jpg)das [tagi](http://www.tagesanzeiger.ch/) [magazin](http://www.dasmagazin.ch/index.php/Main_Page) hat neuerdings einen überarbeiteten webauftritt. das ganze:
+[![Dasmagazin](https://habi.gna.ch/wp-content/uploads/2007/05/dasmagazin-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/05/dasmagazin.jpg)das [tagi](http://www.tagesanzeiger.ch/) [magazin](http://www.dasmagazin.ch/index.php/Main_Page) hat neuerdings einen überarbeiteten webauftritt. das ganze:
 
 
 

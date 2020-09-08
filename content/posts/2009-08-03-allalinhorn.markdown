@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-08-03 15:54:38+00:00
-link: http://habi.gna.ch/2009/08/03/allalinhorn/
+link: https://habi.gna.ch/2009/08/03/allalinhorn/
 slug: allalinhorn
 title: allalinhorn
 wordpress_id: 1881
@@ -15,7 +15,7 @@ schon seit einiger zeit hat mir [dan](http://ngoylamintom.blogspot.com/), mein e
 
 
 
-knapp 3h später waren wir in mittelallalin angekommen, wunderbares wetter erwartete uns, und so machten wir uns auf, den gipfel in angriff zu nehmen. nachdem wir einige [gletscherspalten](http://www.flickr.com/photos/habi/3782334149/) überwunden hatten, belohnte uns erstmals die aussicht vom [feejoch](http://habi.gna.ch/panoramas/feenjoch.html) für den steilen aufstieg. eine knappe dreiviertelstunde später waren wir dann auf dem gipfel und konnten die aussicht vom [allalinhorn](http://habi.gna.ch/panoramas/allalinhorn.html) geniessen. weil wir's im aufstieg gemütlich genommen hatten, waren [wider erwarten](http://habi.gna.ch/2009/08/01/liveblogging-from-4027m/#comment-12565) nicht mehr so viele bergsteiger auf dem horn, so dass wir auch eine ausgiebige [mittagspause](http://www.flickr.com/photos/habi/3782270889/) machen konnten. der abstieg war dann weit weniger anstrengend, als der aufstieg, so dass wir bald noch die sonne auf der terrasse des mittelallalin-restaurants geniessen konnten.
+knapp 3h später waren wir in mittelallalin angekommen, wunderbares wetter erwartete uns, und so machten wir uns auf, den gipfel in angriff zu nehmen. nachdem wir einige [gletscherspalten](http://www.flickr.com/photos/habi/3782334149/) überwunden hatten, belohnte uns erstmals die aussicht vom [feejoch](https://habi.gna.ch/panoramas/feenjoch.html) für den steilen aufstieg. eine knappe dreiviertelstunde später waren wir dann auf dem gipfel und konnten die aussicht vom [allalinhorn](https://habi.gna.ch/panoramas/allalinhorn.html) geniessen. weil wir's im aufstieg gemütlich genommen hatten, waren [wider erwarten](https://habi.gna.ch/2009/08/01/liveblogging-from-4027m/#comment-12565) nicht mehr so viele bergsteiger auf dem horn, so dass wir auch eine ausgiebige [mittagspause](http://www.flickr.com/photos/habi/3782270889/) machen konnten. der abstieg war dann weit weniger anstrengend, als der aufstieg, so dass wir bald noch die sonne auf der terrasse des mittelallalin-restaurants geniessen konnten.
 
 
 
@@ -25,13 +25,13 @@ ein wunderbarer tag (auch wenn ich mir im abstieg mit dem steigeisen ein loch in
 
 
 
-alle fotos zur wanderung sind im set [allalinhorn](http://www.flickr.com/photos/habi/sets/72157621925013012/) in meinem flickr-stream zu finden. und damit ich auch [frau chnüblers wunsch](http://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/comment-page-1/#comment-12543) erfülle, hier noch ein foto vom peak (oder war das anders gemeint?)
+alle fotos zur wanderung sind im set [allalinhorn](http://www.flickr.com/photos/habi/sets/72157621925013012/) in meinem flickr-stream zu finden. und damit ich auch [frau chnüblers wunsch](https://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/comment-page-1/#comment-12543) erfülle, hier noch ein foto vom peak (oder war das anders gemeint?)
 
 
 
 
 
-  [![DSC00173.JPG](http://habi.gna.ch/wp-content/uploads/2009/08/DSC001731.jpg)](http://habi.gna.ch/wp-content/uploads/2009/08/DSC00173.jpg)  
+  [![DSC00173.JPG](https://habi.gna.ch/wp-content/uploads/2009/08/DSC001731.jpg)](https://habi.gna.ch/wp-content/uploads/2009/08/DSC00173.jpg)  
 
 
 
@@ -39,7 +39,7 @@ alle fotos zur wanderung sind im set [allalinhorn](http://www.flickr.com/photos/
 
 
 
-wer sich für die genauen details der wanderung interessiert, findet das [tracklog auf gpsies.com](http://gpsies.com/map.do?fileId=wzkayvccplzvwvgi). speziell hinweisen möcht' ich noch auf die drei panoramen, die ich gemacht habe. wie [schon mal gezeigt](http://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/), habe ich aus drei filmen ([1](http://www.flickr.com/photos/habi/3782593740/in/set-72157621925013012/), [2](http://www.flickr.com/photos/habi/3781789003/in/set-72157621925013012/), [3](http://www.flickr.com/photos/habi/3781799599/in/set-72157621925013012/)) die bilder extrahiert und daraus panoramas erstellt. die beiden oben verlinkten 360Â°-panoramas sind gut gelungen, ganz speziell gefällt mir aber das untenstehende filmli, weil's die stimmung unserer wandertruppe perfekt wiedergibt:
+wer sich für die genauen details der wanderung interessiert, findet das [tracklog auf gpsies.com](http://gpsies.com/map.do?fileId=wzkayvccplzvwvgi). speziell hinweisen möcht' ich noch auf die drei panoramen, die ich gemacht habe. wie [schon mal gezeigt](https://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/), habe ich aus drei filmen ([1](http://www.flickr.com/photos/habi/3782593740/in/set-72157621925013012/), [2](http://www.flickr.com/photos/habi/3781789003/in/set-72157621925013012/), [3](http://www.flickr.com/photos/habi/3781799599/in/set-72157621925013012/)) die bilder extrahiert und daraus panoramas erstellt. die beiden oben verlinkten 360Â°-panoramas sind gut gelungen, ganz speziell gefällt mir aber das untenstehende filmli, weil's die stimmung unserer wandertruppe perfekt wiedergibt:
 
 
 
@@ -52,6 +52,6 @@ wer sich für die genauen details der wanderung interessiert, findet das [trackl
 
 
 
-[![iphone.jpg](http://habi.gna.ch/wp-content/uploads/2009/08/iphone5.jpg)](http://habi.gna.ch/wp-content/uploads/2009/08/iphone4.jpg)  
+[![iphone.jpg](https://habi.gna.ch/wp-content/uploads/2009/08/iphone5.jpg)](https://habi.gna.ch/wp-content/uploads/2009/08/iphone4.jpg)  
 
 

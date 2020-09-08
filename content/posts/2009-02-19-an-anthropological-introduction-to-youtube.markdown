@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-02-19 21:04:17+00:00
-link: http://habi.gna.ch/2009/02/19/an-anthropological-introduction-to-youtube/
+link: https://habi.gna.ch/2009/02/19/an-anthropological-introduction-to-youtube/
 slug: an-anthropological-introduction-to-youtube
 title: An anthropological introduction to YouTube
 wordpress_id: 1642

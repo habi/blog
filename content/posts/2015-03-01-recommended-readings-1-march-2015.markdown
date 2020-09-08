@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-03-01 20:00:25+00:00
-link: http://habi.gna.ch/2015/03/01/recommended-readings-1-march-2015/
+link: https://habi.gna.ch/2015/03/01/recommended-readings-1-march-2015/
 slug: recommended-readings-1-march-2015
 title: 'Recommended readings: 1. March 2015'
 wordpress_id: 3848
@@ -18,7 +18,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 
     
-  * [Meet the Unlikely Airbnb Hosts of Japan](http://www.nytimes.com/2015/02/22/magazine/meet-the-unlikely-airbnb-hosts-of-japan.html?_r=1): Als wir in [Japan](http://habi.gna.ch/2014/06/09/nippon/) waren, haben wir auch mit AirBnB übernachtet. Einen Einblick, wieso das in diesem Kulturkreis nicht wirklich normal ist, gibt dieser Artikel der NY Times.
+  * [Meet the Unlikely Airbnb Hosts of Japan](http://www.nytimes.com/2015/02/22/magazine/meet-the-unlikely-airbnb-hosts-of-japan.html?_r=1): Als wir in [Japan](https://habi.gna.ch/2014/06/09/nippon/) waren, haben wir auch mit AirBnB übernachtet. Einen Einblick, wieso das in diesem Kulturkreis nicht wirklich normal ist, gibt dieser Artikel der NY Times.
 
     
   * [Diagnose Hirntumor: Emil stirbt](http://www.zeit.de/2014/48/krebs-diagnose-kampf-verlust): Eine unvorstellbar traurige Geschichte. Stefan Krauth verliert seine Frau und seinen Sohn. Ich musste mehrere Anläufe nehmen um diesen Text fertiglesen zu können.

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-01-04 22:23:08+00:00
-link: http://habi.gna.ch/2014/01/04/stephen-fry-out-there/
+link: https://habi.gna.ch/2014/01/04/stephen-fry-out-there/
 slug: stephen-fry-out-there
 title: 'Stephen Fry: Out There'
 wordpress_id: 3345

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-01-21 20:06:05+00:00
-link: http://habi.gna.ch/2016/01/21/was-ware-wenn-die-sterne-still-stehen-wurden/
+link: https://habi.gna.ch/2016/01/21/was-ware-wenn-die-sterne-still-stehen-wurden/
 slug: was-ware-wenn-die-sterne-still-stehen-wurden
 title: Was wäre, wenn die Sterne still stehen würden?
 wordpress_id: 4338
@@ -22,6 +22,6 @@ Mit still stehenden Sternen sieht das dann so aus.
 
 {{< vimeo 152613659 >}}
 
-Und - wie schon in der [Konkordia-Hütte](http://habi.gna.ch/2013/07/18/die-sterne-uber-dem-konkordiaplatz/) - hab' ich auch ohne Kompass wieder recht gut gegen Norden gezielt...
+Und - wie schon in der [Konkordia-Hütte](https://habi.gna.ch/2013/07/18/die-sterne-uber-dem-konkordiaplatz/) - hab' ich auch ohne Kompass wieder recht gut gegen Norden gezielt...
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/habi/23898308603/" title="StarStaX__DerBergStehtStill0000-_DerBergStehtStill0202_lighten"><img src="https://live.staticflickr.com/1482/23898308603_65d677eba1_b.jpg" width="1024" height="625" alt="StarStaX__DerBergStehtStill0000-_DerBergStehtStill0202_lighten"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

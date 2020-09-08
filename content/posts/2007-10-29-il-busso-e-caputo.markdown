@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-10-29 22:50:49+00:00
-link: http://habi.gna.ch/2007/10/29/il-busso-e-caputo/
+link: https://habi.gna.ch/2007/10/29/il-busso-e-caputo/
 slug: il-busso-e-caputo
 title: il busso e caputo!
 wordpress_id: 1068

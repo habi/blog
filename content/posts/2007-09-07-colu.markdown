@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-09-07 06:21:52+00:00
-link: http://habi.gna.ch/2007/09/07/colu/
+link: https://habi.gna.ch/2007/09/07/colu/
 slug: colu
 title: Cölu?
 wordpress_id: 1012

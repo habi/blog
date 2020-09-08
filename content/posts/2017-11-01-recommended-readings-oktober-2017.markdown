@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-11-01 21:50:35+00:00
-link: http://habi.gna.ch/2017/11/01/recommended-readings-oktober-2017/
+link: https://habi.gna.ch/2017/11/01/recommended-readings-oktober-2017/
 slug: recommended-readings-oktober-2017
 title: 'Recommended readings: Oktober 2017'
 wordpress_id: 5215
@@ -15,7 +15,7 @@ tags:
 - recommended readings
 ---
 
-Dank [minimalen Änderungen](https://github.com/habi/pinboard-angelesen/commit/66422061c922cb2ae8cc71a476bf7f478d40e58e) an [Bastians Skript](https://github.com/dasrecht/pinboard-angelesen) muss ich nun noch weniger copy-pasten, so flutschen die ['Recommended Readings'](http://habi.gna.ch/category/linkdump/) noch einfacher aus der Feder.
+Dank [minimalen Änderungen](https://github.com/habi/pinboard-angelesen/commit/66422061c922cb2ae8cc71a476bf7f478d40e58e) an [Bastians Skript](https://github.com/dasrecht/pinboard-angelesen) muss ich nun noch weniger copy-pasten, so flutschen die ['Recommended Readings'](https://habi.gna.ch/category/linkdump/) noch einfacher aus der Feder.
 Item: Im letzten Monat las ich folgende Texte und fand diese gut:
 
 

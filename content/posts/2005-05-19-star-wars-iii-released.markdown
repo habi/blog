@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-05-19 18:56:39+00:00
-link: http://habi.gna.ch/2005/05/19/star-wars-iii-released/
+link: https://habi.gna.ch/2005/05/19/star-wars-iii-released/
 slug: star-wars-iii-released
 title: star wars III released
 wordpress_id: 10

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-25 08:57:23+00:00
-link: http://habi.gna.ch/2003/11/25/the-art-of-rebellion/
+link: https://habi.gna.ch/2003/11/25/the-art-of-rebellion/
 slug: the-art-of-rebellion
 title: the art of rebellion
 wordpress_id: 359

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-12 22:28:07+00:00
-link: http://habi.gna.ch/2004/01/13/dropping-balls/
+link: https://habi.gna.ch/2004/01/13/dropping-balls/
 slug: dropping-balls
 title: dropping balls
 wordpress_id: 403
@@ -15,6 +15,6 @@ since it's so hard to describe, i'll just cite [the author](http://www.jtnimoy.c
 give it a go, but maybe it's best if you wait till tomorrow morning. 
 good night
 
-[![](http://habi.gna.ch/blog/images/balldroppings-tm.jpg)](http://habi.gna.ch/blog/images/balldroppings.jpg)
+[![](https://habi.gna.ch/blog/images/balldroppings-tm.jpg)](https://habi.gna.ch/blog/images/balldroppings.jpg)
 
 [via [boingboing](http://boingboing.net/2004_01_01_archive.html#107393998643575566)]

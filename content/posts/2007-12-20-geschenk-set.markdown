@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-20 20:32:46+00:00
-link: http://habi.gna.ch/2007/12/20/geschenk-set/
+link: https://habi.gna.ch/2007/12/20/geschenk-set/
 slug: geschenk-set
 title: geschenk-set
 wordpress_id: 1097

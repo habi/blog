@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-12-18 12:49:46+00:00
-link: http://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/
+link: https://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/
 slug: stand-meiner-spezial-spende-aktion
 title: Stand meiner Spezial-Spende-Aktion [update 2]
 wordpress_id: 2337
@@ -106,12 +106,12 @@ Die Fotos meines Vaters sind (momentan) nur für Familienangehörige zu sehen, i
 
 
 
-- [Karin machte ein abstraktes Foto](http://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14268), wenn das auftaucht, gibt das auch noch 25.-
+- [Karin machte ein abstraktes Foto](https://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14268), wenn das auftaucht, gibt das auch noch 25.-
 
 
 
 
-- [Tinus Fotos sind (scheinbar) nix geworden](http://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14279), er spendet aber von sich aus 50.- an kiva.org. Mersi, cool!
+- [Tinus Fotos sind (scheinbar) nix geworden](https://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14279), er spendet aber von sich aus 50.- an kiva.org. Mersi, cool!
 
 
 

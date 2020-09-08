@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-15 19:19:13+00:00
-link: http://habi.gna.ch/2004/01/15/dumb-people-spending-money/
+link: https://habi.gna.ch/2004/01/15/dumb-people-spending-money/
 slug: dumb-people-spending-money
 title: dumb people spending money
 wordpress_id: 406
@@ -15,4 +15,4 @@ i saw this auction on [ricardo.ch](http://www.ricardo.ch/), where a guy sells hi
 and today i saw that some other guy set a higher bid, which is ok, that's the way it works. but then, one day later he sets another bid, so he actually wants to pay more than himself :-)
 and then comes another guy and bids three times the last price, how dumb must you be to do that? (or maybe he is only very impulsive and couldn't think of another way to spend 95 bucks :-)
 
-[![](http://habi.gna.ch/blog/images/ricardo-tm.jpg)](http://habi.gna.ch/blog/images/ricardo.jpg)
+[![](https://habi.gna.ch/blog/images/ricardo-tm.jpg)](https://habi.gna.ch/blog/images/ricardo.jpg)

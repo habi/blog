@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-11-07 22:53:29+00:00
-link: http://habi.gna.ch/2011/11/08/ray-a-life-underwater/
+link: https://habi.gna.ch/2011/11/08/ray-a-life-underwater/
 slug: ray-a-life-underwater
 title: 'Ray: A life underwater'
 wordpress_id: 2591

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-12-08 13:47:09+00:00
-link: http://habi.gna.ch/2003/12/08/becoming-famous-or-not/
+link: https://habi.gna.ch/2003/12/08/becoming-famous-or-not/
 slug: becoming-famous-or-not
 title: becoming famous (or not)
 wordpress_id: 370
@@ -12,7 +12,7 @@ categories:
 
 **becoming famous:**  
 
-some days ago, inari posted a comment to [one of my posts](http://habi.gna.ch/blog/archives/000140.html). i asked her who she was, because i neither recognized the name nor the email-address. then i got back quite a nice reply, saying that she goes to a school of visual communication and is working on a project on web-logs.  
+some days ago, inari posted a comment to [one of my posts](https://habi.gna.ch/blog/archives/000140.html). i asked her who she was, because i neither recognized the name nor the email-address. then i got back quite a nice reply, saying that she goes to a school of visual communication and is working on a project on web-logs.  
 
 for that work she now analyzes my blog; i already feel weird posting stuff here knowing it will be analyzed :-).  
 
@@ -60,4 +60,4 @@ some thing to note:
 
 **(or not):**   
 
-last week [rolf siegenthaler](http://www.ansicht.net/) called me, he was looking for some models for an ad-campaign for [swisscom fixnet](http://swisscom-fixnet.ch/fx/content/index_EN.html), then i sent him some pictures from me, but the advertizing agency (probably [contexta](http://www.contexta.ch/), as they do most of the stuff for the swisscom...) did not choose me. well, there will be no more [pics of me on the streets](http://habi.gna.ch/pics/CH-Fleisch/) :-)
+last week [rolf siegenthaler](http://www.ansicht.net/) called me, he was looking for some models for an ad-campaign for [swisscom fixnet](http://swisscom-fixnet.ch/fx/content/index_EN.html), then i sent him some pictures from me, but the advertizing agency (probably [contexta](http://www.contexta.ch/), as they do most of the stuff for the swisscom...) did not choose me. well, there will be no more [pics of me on the streets](https://habi.gna.ch/pics/CH-Fleisch/) :-)

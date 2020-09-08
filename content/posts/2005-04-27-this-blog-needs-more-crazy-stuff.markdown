@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-27 21:59:49+00:00
-link: http://habi.gna.ch/2005/04/27/this-blog-needs-more-crazy-stuff/
+link: https://habi.gna.ch/2005/04/27/this-blog-needs-more-crazy-stuff/
 slug: this-blog-needs-more-crazy-stuff
 title: this blog needs more crazy stuff!
 wordpress_id: 778

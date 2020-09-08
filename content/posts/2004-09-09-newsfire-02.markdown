@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-09-09 20:14:22+00:00
-link: http://habi.gna.ch/2004/09/09/newsfire-02/
+link: https://habi.gna.ch/2004/09/09/newsfire-02/
 slug: newsfire-02
 title: newsfire 0.2
 wordpress_id: 612
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[![newsfire](http://habi.gna.ch/blog/images/newsfire-tm.jpg)](http://habi.gna.ch/blog/images/newsfire.jpg)i can hardly remember the last time i blogged about new software i installed on my trusty ibook. now [newsfire 0.2](http://www.newsfirerss.com/) (!) gets the honor to be featured here.
+[![newsfire](https://habi.gna.ch/blog/images/newsfire-tm.jpg)](https://habi.gna.ch/blog/images/newsfire.jpg)i can hardly remember the last time i blogged about new software i installed on my trusty ibook. now [newsfire 0.2](http://www.newsfirerss.com/) (!) gets the honor to be featured here.
 since i discovered the beauty and simpleness of reading most of the web via rss i've been using [netnewswire lite](http://ranchero.com/netnewswire/) for all my rss-needs.
 (btw: [xeni jardin](http://xeni.net/) (of [boingboing](http://boingboing.net/)-fame)  explains the whole rss-thing it nicely in her [article](http://www.wired.com/wired/archive/12.04/start.html?pg=7) for WIRED 12.04).
   

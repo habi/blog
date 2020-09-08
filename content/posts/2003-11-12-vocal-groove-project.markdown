@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-12 21:30:12+00:00
-link: http://habi.gna.ch/2003/11/12/vocal-groove-project/
+link: https://habi.gna.ch/2003/11/12/vocal-groove-project/
 slug: vocal-groove-project
 title: vocal groove project
 wordpress_id: 346

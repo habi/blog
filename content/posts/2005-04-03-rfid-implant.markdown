@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-03 21:59:03+00:00
-link: http://habi.gna.ch/2005/04/03/rfid-implant/
+link: https://habi.gna.ch/2005/04/03/rfid-implant/
 slug: rfid-implant
 title: rfid implant
 wordpress_id: 756

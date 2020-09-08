@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-03-03 20:59:08+00:00
-link: http://habi.gna.ch/2008/03/03/blgmdybrn-recap-2/
+link: https://habi.gna.ch/2008/03/03/blgmdybrn-recap-2/
 slug: blgmdybrn-recap-2
 title: blgmdybrn recap
 wordpress_id: 1198

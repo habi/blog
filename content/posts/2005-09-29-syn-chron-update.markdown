@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-09-29 19:20:34+00:00
-link: http://habi.gna.ch/2005/09/29/syn-chron-update/
+link: https://habi.gna.ch/2005/09/29/syn-chron-update/
 slug: syn-chron-update
 title: syn chron [update]
 wordpress_id: 75

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-27 14:31:53+00:00
-link: http://habi.gna.ch/2007/12/27/iphone-rechnungs-uberraschung/
+link: https://habi.gna.ch/2007/12/27/iphone-rechnungs-uberraschung/
 slug: iphone-rechnungs-uberraschung
 title: iphone-rechnungs-überraschung
 wordpress_id: 1111
@@ -27,7 +27,7 @@ zweitens: im zusammenspiel mit sunrise gibt's ende monat eine ziemliche überras
 
 
 
-[![](http://habi.gna.ch/wp-content/uploads/2007/12/iphone-rechnung-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/12/iphone-rechnung.png)
+[![](https://habi.gna.ch/wp-content/uploads/2007/12/iphone-rechnung-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/12/iphone-rechnung.png)
 
 
 

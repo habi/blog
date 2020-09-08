@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-02-05 20:24:29+00:00
-link: http://habi.gna.ch/2004/02/05/comments-hitparade/
+link: https://habi.gna.ch/2004/02/05/comments-hitparade/
 slug: comments-hitparade
 title: comments hitparade
 wordpress_id: 434
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[![](http://habi.gna.ch/blog/images/commentparade-tm.jpg)](http://habi.gna.ch/blog/images/commentparade.jpg)well, after [arni](http://www.arnoldseefeld.com/blog/) posted [some code](http://www.arnoldseefeld.com/blog/archives/000071.html)1 i tried to implement the [comment-hitparade](http://mt-plugins.org/archives/entry/commentleaders.php) i mentioned earlier:
+[![](https://habi.gna.ch/blog/images/commentparade-tm.jpg)](https://habi.gna.ch/blog/images/commentparade.jpg)well, after [arni](http://www.arnoldseefeld.com/blog/) posted [some code](http://www.arnoldseefeld.com/blog/archives/000071.html)1 i tried to implement the [comment-hitparade](http://mt-plugins.org/archives/entry/commentleaders.php) i mentioned earlier:
 i works nearly like a charm, the only problem is, that my [top commenter](https://pieceoplastic.com/index.php) never left an email-address, so he appears as "empty"2
 i really start to get the hang of all these [movabletype plugins](http://mt-plugins.org/), a nearly endless resources of things you can do with your blog (i just want to start to use that [blogtimes-thing](http://www.nilesh.org/mt/blogtimes/).
 ([b.](http://bernhardseefeld.ch/), this is a hint!)

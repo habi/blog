@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-04 21:26:17+00:00
-link: http://habi.gna.ch/2004/04/04/guitar-god/
+link: https://habi.gna.ch/2004/04/04/guitar-god/
 slug: guitar-god
 title: guitar god
 wordpress_id: 493

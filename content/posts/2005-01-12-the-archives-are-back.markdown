@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-01-12 21:59:35+00:00
-link: http://habi.gna.ch/2005/01/12/the-archives-are-back/
+link: https://habi.gna.ch/2005/01/12/the-archives-are-back/
 slug: the-archives-are-back
 title: the archives are back
 wordpress_id: 714

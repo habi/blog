@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-01-14 23:34:06+00:00
-link: http://habi.gna.ch/2008/01/15/skifahren-auf-der-bettmeralp-with-map/
+link: https://habi.gna.ch/2008/01/15/skifahren-auf-der-bettmeralp-with-map/
 slug: skifahren-auf-der-bettmeralp-with-map
 title: skifahren auf der bettmeralp [with map]
 wordpress_id: 1140
@@ -14,7 +14,7 @@ categories:
 - tschörman
 ---
 
-[Tracks-2008-01-13-Bettmeralp.gpx](http://habi.gna.ch/wp-content/uploads/2008/01/tracks-2008-01-13-bettmeralp.gpx)  
+[Tracks-2008-01-13-Bettmeralp.gpx](https://habi.gna.ch/wp-content/uploads/2008/01/tracks-2008-01-13-bettmeralp.gpx)  
 
 
 
@@ -35,7 +35,7 @@ mein kilometerpreis war ziemlich genau halb so viel wie bei [this](http://www.bo
 
 
 
-[![](http://habi.gna.ch/wp-content/uploads/2008/01/1200353450-29432-p-84.75.163.208-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2008/01/1200353450-29432-p-84.75.163.208.png)
+[![](https://habi.gna.ch/wp-content/uploads/2008/01/1200353450-29432-p-84.75.163.208-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2008/01/1200353450-29432-p-84.75.163.208.png)
 
 
 

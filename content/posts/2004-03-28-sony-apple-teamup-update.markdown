@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-28 18:47:29+00:00
-link: http://habi.gna.ch/2004/03/28/sony-apple-teamup-update/
+link: https://habi.gna.ch/2004/03/28/sony-apple-teamup-update/
 slug: sony-apple-teamup-update
 title: sony - apple teamup? [update]
 wordpress_id: 487
@@ -16,7 +16,7 @@ here's another evidence that both companies share the same views: if you look at
 the librie seems to float in front of a white surface, with a subtle shadow, shot from a slight frog perspective.
 here's the direct comparison for you to judge:
 
-![librie_apple](http://habi.gna.ch/blog/images/librie_apple.jpg) < ibook vs librie > ![librie_sony](http://habi.gna.ch/blog/images/librie_sony.jpg)
+![librie_apple](https://habi.gna.ch/blog/images/librie_apple.jpg) < ibook vs librie > ![librie_sony](https://habi.gna.ch/blog/images/librie_sony.jpg)
 
 if you want to drool over the specs (at least i did) [gearbits](http://www.gearbits.com/archives/000639.html) has the lowdown on the librie (and well the sexier pic than [engadget](http://www.engadget.com/entry/3611739173995839/) :-)
 as an avid all-consuming reader i know i will need to tame myself not to buy that thing (except that it's gonna cost more than any reasonable person would pay for it...)

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-13 21:39:41+00:00
-link: http://habi.gna.ch/2005/04/13/the-cookie-monster-on-diet/
+link: https://habi.gna.ch/2005/04/13/the-cookie-monster-on-diet/
 slug: the-cookie-monster-on-diet
 title: the cookie monster on diet
 wordpress_id: 763

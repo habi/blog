@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-07 21:33:38+00:00
-link: http://habi.gna.ch/2004/04/07/new-software/
+link: https://habi.gna.ch/2004/04/07/new-software/
 slug: new-software
 title: new software
 wordpress_id: 495
@@ -18,7 +18,7 @@ my preferred way of looking up a translation of an english word was to use the e
 <blockquote>javascript:x=escape(getSelection());if(!x)%7Bvoid(x=prompt('Word?',''))%7D;window.location='http://dict.leo.org/?search='+x</blockquote>
 
 
-![dilo](http://habi.gna.ch/blog/images/dilo-tm.jpg)but since i've read [that post on fscklog](http://fscklog.typepad.com/fsck/2003/12/freeware_dilo.html) i don't even need to switch my browser, i just hit command+shift+F in any application, then [dilo](http://www.imdat.de/dilo/) fires up and looks up the word, be it either english or german. wonderful! 
+![dilo](https://habi.gna.ch/blog/images/dilo-tm.jpg)but since i've read [that post on fscklog](http://fscklog.typepad.com/fsck/2003/12/freeware_dilo.html) i don't even need to switch my browser, i just hit command+shift+F in any application, then [dilo](http://www.imdat.de/dilo/) fires up and looks up the word, be it either english or german. wonderful! 
 and the best thing is, that the software is a mere 156kb big. i thought i'd never seen anything like that off my [trusty palm](http://www.amazon.com/exec/obidos/tg/detail/-/B000031KIM/104-0319171-5515146?v=glance).
 
 the second software i installed in the last few days is [quicksilver](http://blacktree.com/apps/quicksilver/) ([the new gunslinger](http://whatdoiknow.org/archives/001601.shtml), i just love that quote!).
@@ -27,10 +27,10 @@ let's say i want to email a file to someone i know: up to now i switched to my f
 now i just press command+space, type the name of the file, press tab, write email, press tab, and write the name of the recipient. mail fires up with the desired file in a new email to the desired person. voila. time: 3 seconds.
 but that's not all. need to fire up that certain application buried deep inside your structure? (like [seti@home](http://setiathome.berkeley.edu/) on my ibook, it's buried inside /applications/netz/distributed/seti@home). just press command+space, type stihme (which stands for **s**e**ti**at**h**o**me**: quicksilver works with any consecutive letter in the filename) and press enter. voila.
 
-[![qs_kurier](http://habi.gna.ch/blog/images/qs_kurier-tm.jpg)](http://habi.gna.ch/blog/images/qs_kurier.jpg)or, do you want to look up that phone-number of someone? again, command+space, type in the name of that person, press left, select the desired number and press enter. and the number is there, in shiny big letters on top of my windows (with the number at work done on the left, not that i'd forget that one, but i thought none of my friends would be happy if i post their phone-number on the web :-). hundred times faster than starting the address book, scrolling to the k or typing in "kurier" in the search boy and then squinting at the tiny phone-number.
+[![qs_kurier](https://habi.gna.ch/blog/images/qs_kurier-tm.jpg)](https://habi.gna.ch/blog/images/qs_kurier.jpg)or, do you want to look up that phone-number of someone? again, command+space, type in the name of that person, press left, select the desired number and press enter. and the number is there, in shiny big letters on top of my windows (with the number at work done on the left, not that i'd forget that one, but i thought none of my friends would be happy if i post their phone-number on the web :-). hundred times faster than starting the address book, scrolling to the k or typing in "kurier" in the search boy and then squinting at the tiny phone-number.
 doesn't seem like a big deal, but once you get the hang of it, you will miss it on any mac without it.  
 
-[![qs](http://habi.gna.ch/blog/images/qs-tm.jpg)](http://habi.gna.ch/blog/images/qs.jpg)and you just need to love a piece of software that has the option to turn of superfluous effects in its preferences, [aight](http://www.urbandictionary.com/define.php?term=aight)?
+[![qs](https://habi.gna.ch/blog/images/qs-tm.jpg)](https://habi.gna.ch/blog/images/qs.jpg)and you just need to love a piece of software that has the option to turn of superfluous effects in its preferences, [aight](http://www.urbandictionary.com/define.php?term=aight)?
 
 my recommendation, go grab [quicksilver](http://blacktree.com/apps/quicksilver/) now, install it, give the excellent [manual](http://docs.blacktree.com/) a read (worth because of the myriads of feature of quicksilver), read that [handy tutorial](http://vjarmy.com/archives/000620.php) and be amazed what quicksilver can do for you.
 

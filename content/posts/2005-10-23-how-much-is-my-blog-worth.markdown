@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-10-23 20:26:38+00:00
-link: http://habi.gna.ch/2005/10/23/how-much-is-my-blog-worth/
+link: https://habi.gna.ch/2005/10/23/how-much-is-my-blog-worth/
 slug: how-much-is-my-blog-worth
 title: how much is my blog worth?
 wordpress_id: 86
@@ -12,7 +12,7 @@ categories:
 ---
 
 ![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)  
-        My [blog](http://habi.gna.ch/blog) is worth **$11,855.34**.  
+        My [blog](https://habi.gna.ch/blog) is worth **$11,855.34**.  
 [How much is your blog worth?](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/)
 
 

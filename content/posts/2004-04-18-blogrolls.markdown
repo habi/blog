@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-18 18:10:17+00:00
-link: http://habi.gna.ch/2004/04/18/blogrolls/
+link: https://habi.gna.ch/2004/04/18/blogrolls/
 slug: blogrolls
 title: blogrolls
 wordpress_id: 508
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[![fscklogblogroll](http://habi.gna.ch/blog/images/fscklogblogroll-tm.jpg)](http://habi.gna.ch/blog/images/fscklogblogroll.jpg)while having a look at my [referrers](http://habi.gna.ch/usage/referers.html) something struck me. 
+[![fscklogblogroll](https://habi.gna.ch/blog/images/fscklogblogroll-tm.jpg)](https://habi.gna.ch/blog/images/fscklogblogroll.jpg)while having a look at my [referrers](https://habi.gna.ch/usage/referers.html) something struck me. 
 besides all the ubiquitous pr0n-links i get a big bunch of hits from google and a massive hit from other blogrolls (many users of [bloglines](http://www.bloglines.com/) and [postami](http://www.postami.com/) and alike). hey, even the [fscklog](http://fscklog.typepad.com/) links to me in his/her [blogroll](http://fscklog.typepad.com/fsck/blogroll.html) (as seen on the left).
 the thing that struck me is - as arni described it in one of his last [posts](http://www.arnoldseefeld.com/blog/archives/000107.html) - that, because i share a big piece of my life on the net with a growing bunch of people i do not know and i've never met, all the people who google me find out pretty much anything about me (at least the things i share) it's like one big massive cv that builds up. arni described that perfectly. sometimes in the future there's no need to include references in your cv, because the person offering you a job will google your name and find out everything he or she needs to know.
 example? search for "[cost + HO:YAG laser](http://www.google.nl/search?q=costs+%2B+Ho:YAG+Laser&hl=nl&lr=&ie=UTF-8&oe=UTF-8&lr=&start=70&sa=N)" and google.nl presents you my thesis, e.g. i did something with lasers in my past

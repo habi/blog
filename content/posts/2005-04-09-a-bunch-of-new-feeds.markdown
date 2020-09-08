@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-09 21:44:02+00:00
-link: http://habi.gna.ch/2005/04/09/a-bunch-of-new-feeds/
+link: https://habi.gna.ch/2005/04/09/a-bunch-of-new-feeds/
 slug: a-bunch-of-new-feeds
 title: a bunch of new feeds
 wordpress_id: 758

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-06-28 20:37:37+00:00
-link: http://habi.gna.ch/2011/06/28/was-ich-machen-wrde-wenn-mein-tag-mehr-als-24-stunden-htte/
+link: https://habi.gna.ch/2011/06/28/was-ich-machen-wrde-wenn-mein-tag-mehr-als-24-stunden-htte/
 slug: was-ich-machen-wrde-wenn-mein-tag-mehr-als-24-stunden-htte
 title: Was ich machen würde, wenn mein Tag mehr als 24 Stunden hätte
 wordpress_id: 2520

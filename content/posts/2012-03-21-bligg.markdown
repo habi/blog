@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-03-21 23:15:46+00:00
-link: http://habi.gna.ch/2012/03/22/bligg/
+link: https://habi.gna.ch/2012/03/22/bligg/
 slug: bligg
 title: Bligg
 wordpress_id: 2690
@@ -16,7 +16,7 @@ tags:
 - youngblood brass band
 ---
 
-Heute hat [Bligg](http://bligg.ch/) mit den 10 Mannen der [Youngblood Brass Band](http://www.youngbloodbrassband.com/) [im Bierhübeli](http://habi.gna.ch/2012/01/08/bligg-feat-youngblood-brass-band/) aufgespielt. Ein solides Konzert, dessen Anfang leider von einem unmöglichen Auftritt eines (wohl selbsternannten) Komikers getrübt wurde.
+Heute hat [Bligg](http://bligg.ch/) mit den 10 Mannen der [Youngblood Brass Band](http://www.youngbloodbrassband.com/) [im Bierhübeli](https://habi.gna.ch/2012/01/08/bligg-feat-youngblood-brass-band/) aufgespielt. Ein solides Konzert, dessen Anfang leider von einem unmöglichen Auftritt eines (wohl selbsternannten) Komikers getrübt wurde.
 
 
 
@@ -26,4 +26,4 @@ Speziellerweise ging's für mich am meisten ab, als Bligg, die Sängerin und der
 
 
 
-[![IMG_0575.JPG](http://habi.gna.ch/wp-content/uploads/2012/03/IMG_0575-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/03/IMG_0575.jpg)
+[![IMG_0575.JPG](https://habi.gna.ch/wp-content/uploads/2012/03/IMG_0575-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/03/IMG_0575.jpg)

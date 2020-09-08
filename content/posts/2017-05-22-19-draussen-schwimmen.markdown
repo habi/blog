@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-05-22 13:08:15+00:00
-link: http://habi.gna.ch/2017/05/22/19-draussen-schwimmen/
+link: https://habi.gna.ch/2017/05/22/19-draussen-schwimmen/
 slug: 19-draussen-schwimmen
 title: 19° > draussen schwimmen!!!
 wordpress_id: 5096

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-02-20 12:50:32+00:00
-link: http://habi.gna.ch/2008/02/20/bruni/
+link: https://habi.gna.ch/2008/02/20/bruni/
 slug: bruni
 title: Bruni
 wordpress_id: 1190

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-04-15 20:27:04+00:00
-link: http://habi.gna.ch/2013/04/15/pixmix-60/
+link: https://habi.gna.ch/2013/04/15/pixmix-60/
 slug: pixmix-60
 title: PixMix 60 [update]
 wordpress_id: 3083
@@ -17,7 +17,7 @@ tags:
 
 Am kommenden Mittwoch findet im Foyer der Dampzentrale der 60. [PixMix](http://pix-mix.ch) statt.
 Zur Feier des Tages habe ich auch mal wieder im Archiv gegraben und werde 20 Fotos zeigen.
-Wer meine beiden bisherigen PixMix-Darbietungen gesehen hat (siehe [Archiv](http://habi.gna.ch/?s=pixmix)), weiss in etwa, was ich zeigen werde…
+Wer meine beiden bisherigen PixMix-Darbietungen gesehen hat (siehe [Archiv](https://habi.gna.ch/?s=pixmix)), weiss in etwa, was ich zeigen werde…
 
 Kommt vorbei, es wird sicher lustig!
 

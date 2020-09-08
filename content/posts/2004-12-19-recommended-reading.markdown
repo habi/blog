@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-12-19 20:15:39+00:00
-link: http://habi.gna.ch/2004/12/19/recommended-reading/
+link: https://habi.gna.ch/2004/12/19/recommended-reading/
 slug: recommended-reading
 title: recommended reading
 wordpress_id: 694

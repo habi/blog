@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-01-05 12:49:39+00:00
-link: http://habi.gna.ch/2008/01/05/1131/
+link: https://habi.gna.ch/2008/01/05/1131/
 slug: '1131'
 title: 'The Story of Stuff Teaser #1'
 wordpress_id: 1131

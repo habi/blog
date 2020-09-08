@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-05-11 21:10:53+00:00
-link: http://habi.gna.ch/2004/05/11/funny-link/
+link: https://habi.gna.ch/2004/05/11/funny-link/
 slug: funny-link
 title: funny link
 wordpress_id: 529

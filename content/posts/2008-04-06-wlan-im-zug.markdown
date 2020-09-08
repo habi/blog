@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-04-06 10:09:16+00:00
-link: http://habi.gna.ch/2008/04/06/wlan-im-zug/
+link: https://habi.gna.ch/2008/04/06/wlan-im-zug/
 slug: wlan-im-zug
 title: Wlan im Zug
 wordpress_id: 1233

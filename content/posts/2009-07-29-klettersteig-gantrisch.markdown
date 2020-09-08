@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-07-29 16:23:58+00:00
-link: http://habi.gna.ch/2009/07/29/klettersteig-gantrisch/
+link: https://habi.gna.ch/2009/07/29/klettersteig-gantrisch/
 slug: klettersteig-gantrisch
 title: Klettersteig Gantrisch
 wordpress_id: 1873

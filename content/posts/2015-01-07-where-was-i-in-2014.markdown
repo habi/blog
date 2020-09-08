@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-01-07 20:47:51+00:00
-link: http://habi.gna.ch/2015/01/07/where-was-i-in-2014/
+link: https://habi.gna.ch/2015/01/07/where-was-i-in-2014/
 slug: where-was-i-in-2014
 title: Where was I in 2014
 wordpress_id: 3752
@@ -18,7 +18,7 @@ tags:
 - R
 ---
 
-This is the <del>first </del>second of some of my _look back on 2014_ posts. To see the other ones, take a look at the [`jahresrückblick14`](http://habi.gna.ch/tag/jahresruckblick14)-tag
+This is the <del>first </del>second of some of my _look back on 2014_ posts. To see the other ones, take a look at the [`jahresrückblick14`](https://habi.gna.ch/tag/jahresruckblick14)-tag
 
 
 
@@ -119,21 +119,21 @@ y = subset(data, lat == max(data$lat))$lat[1]), alpha = 0.5, color = "darkred",
 size = 10) + ggtitle("Northmost point in 2014")
 [/code]
 
-[![where_is_the_northmost_point_](http://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_northmost_point_.png)](http://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_northmost_point_.png)
+[![where_is_the_northmost_point_](https://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_northmost_point_.png)](https://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_northmost_point_.png)
 
 We see that in 2014 I was in [Hamburg](https://www.flickr.com/photos/habi/sets/72157645730536835/), which is the northmost point. Correctly, the northmost point would be in Oslo, where I spent New Years Eve 2013/2014, but I've only really started to use OpenPaths in mid-January 2014...
 
 The rest of the extremes can be extracted accordingly.
 
-[![where_are_the_other_cardinal_direction_extremes_1](http://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_1.png)](http://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_1.png)
-[![where_are_the_other_cardinal_direction_extremes_2](http://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_2.png)](http://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_2.png)
-[![where_are_the_other_cardinal_direction_extremes_3](http://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_3.png)](http://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_3.png)
+[![where_are_the_other_cardinal_direction_extremes_1](https://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_1.png)](https://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_1.png)
+[![where_are_the_other_cardinal_direction_extremes_2](https://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_2.png)](https://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_2.png)
+[![where_are_the_other_cardinal_direction_extremes_3](https://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_3.png)](https://habi.gna.ch/wp-content/uploads/2015/01/where_are_the_other_cardinal_direction_extremes_3.png)
 
 The most eastern point was (unsurprisingly) in [Japan](https://www.flickr.com/photos/habi/sets/72157644608251866/), the southmost point in [Cyprus](https://www.flickr.com/photos/habi/sets/72157649175258515/) and the most eastern point in Amsterdam (while flying to Japan).
 
 The highest peak I reached in 2014 was the Bettmerhorn, probably while skiing. The lowest point at -48 AMSL was at home and is probably a fluke in the GPS data :)
 
-[![where_is_the_highest_point_](http://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_highest_point_.png)](http://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_highest_point_.png)
+[![where_is_the_highest_point_](https://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_highest_point_.png)](https://habi.gna.ch/wp-content/uploads/2015/01/where_is_the_highest_point_.png)
 
 
 
@@ -149,6 +149,6 @@ AllPoints ggmap(HomeBase) + geom_point(aes(x = lon, y = lat), data = AllPoints, 
 alpha = 0.25)
 [/code]
 
-[![Swiss_Locations](http://habi.gna.ch/wp-content/uploads/2015/01/Swiss_Locations.png)](http://habi.gna.ch/wp-content/uploads/2015/01/Swiss_Locations.png)
+[![Swiss_Locations](https://habi.gna.ch/wp-content/uploads/2015/01/Swiss_Locations.png)](https://habi.gna.ch/wp-content/uploads/2015/01/Swiss_Locations.png)
 
 If you'd like to see the full R code (in [R Markdown](http://rmarkdown.rstudio.com)), you can take a look at [the OpenPaths.Rmd](https://github.com/habi/R/blob/master/OpenPaths.Rmd) on my GitHub account.

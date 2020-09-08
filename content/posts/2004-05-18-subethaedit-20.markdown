@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-05-18 17:17:31+00:00
-link: http://habi.gna.ch/2004/05/18/subethaedit-20/
+link: https://habi.gna.ch/2004/05/18/subethaedit-20/
 slug: subethaedit-20
 title: SubEthaEdit 2.0
 wordpress_id: 535

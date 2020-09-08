@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-06 11:20:21+00:00
-link: http://habi.gna.ch/2007/12/06/da-schamt-sich-ja-der-samichlous/
+link: https://habi.gna.ch/2007/12/06/da-schamt-sich-ja-der-samichlous/
 slug: da-schamt-sich-ja-der-samichlous
 title: Da schämt sich ja der Samichlous!
 wordpress_id: 1082

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-07-12 22:08:15+00:00
-link: http://habi.gna.ch/2006/07/13/blocking-spam/
+link: https://habi.gna.ch/2006/07/13/blocking-spam/
 slug: blocking-spam
 title: blocking spam
 wordpress_id: 199
@@ -15,7 +15,7 @@ i just cannot seem to stop it!
   
 my blog is sometimes so majorly hit by spam comments, that chris sent me an email saying that i strain the server too much (technospeak: "ca. load 20").
   
-even [renaming the relevant files](http://habi.gna.ch/blog/archives/000761.html) did not help, so it had to take more drastic measures. [1]
+even [renaming the relevant files](https://habi.gna.ch/blog/archives/000761.html) did not help, so it had to take more drastic measures. [1]
 
 
 

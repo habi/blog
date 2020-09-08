@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-03-01 20:40:16+00:00
-link: http://habi.gna.ch/2005/03/01/skype-me-update-2/
+link: https://habi.gna.ch/2005/03/01/skype-me-update-2/
 slug: skype-me-update-2
 title: skype me [update 2]
 wordpress_id: 741
@@ -13,7 +13,7 @@ categories:
 
 since [nina](http://flickr.com/photos/habi/tags/nina/) also started to use skype i thought i'd might give it another go.
   
-so if you feel the desperate urge to call me, you can do it and call me via this button [1]: [![](http://habi.gna.ch/blog/buttons/skype.png)](//david.haberthuer) 
+so if you feel the desperate urge to call me, you can do it and call me via this button [1]: [![](https://habi.gna.ch/blog/buttons/skype.png)](//david.haberthuer) 
   
 (but be aware: since i bought a powerpc i don't have a built in microphone, i need to go and buy one, so you might want to wait a day or two...)
 

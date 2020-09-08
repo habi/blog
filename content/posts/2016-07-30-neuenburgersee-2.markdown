@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-07-30 14:57:44+00:00
-link: http://habi.gna.ch/2016/07/30/neuenburgersee-2/
+link: https://habi.gna.ch/2016/07/30/neuenburgersee-2/
 slug: neuenburgersee-2
 title: Neuenburgersee
 wordpress_id: 4538

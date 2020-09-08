@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-10-26 12:25:04+00:00
-link: http://habi.gna.ch/2005/10/26/im-on-uncluttering-mission/
+link: https://habi.gna.ch/2005/10/26/im-on-uncluttering-mission/
 slug: im-on-uncluttering-mission
 title: i'm on uncluttering mission
 wordpress_id: 89

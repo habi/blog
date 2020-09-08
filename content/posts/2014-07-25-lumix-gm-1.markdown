@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-07-25 20:22:47+00:00
-link: http://habi.gna.ch/2014/07/25/lumix-gm-1/
+link: https://habi.gna.ch/2014/07/25/lumix-gm-1/
 slug: lumix-gm-1
 title: Lumix GM-1
 wordpress_id: 3551
@@ -14,8 +14,8 @@ Ich wusste ja, dass die [Lumix GM-1](http://www.dpreview.com/reviews/panasonic-l
 Aber dass das Ding so klein ist, dachte ich nun auch nicht.
 Selbst mit dem zusätzlichen Griff, der beim Kauf dabeiwar, verschwindet das Ding fast in der Hand.
 
-![IMG_2839.jpg](http://habi.gna.ch/wp-content/uploads/2014/07/IMG_2839.jpg)
+![IMG_2839.jpg](https://habi.gna.ch/wp-content/uploads/2014/07/IMG_2839.jpg)
 
-![IMG_2840.jpg](http://habi.gna.ch/wp-content/uploads/2014/07/IMG_2840.jpg)
+![IMG_2840.jpg](https://habi.gna.ch/wp-content/uploads/2014/07/IMG_2840.jpg)
 
 D.h.; falls jetzt jemand Interesse an einer [Lumix DMC-TZ7](http://www.amazon.com/Panasonic-DMC-ZS3-Digital-Stabilized-Black/dp/B001QFZMCO) mit Unterwasser-Gehäuse hat, kann er oder sie sich in den Kommentaren melden...

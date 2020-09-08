@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-31 19:54:25+00:00
-link: http://habi.gna.ch/2004/03/31/weblogs-in-the-news/
+link: https://habi.gna.ch/2004/03/31/weblogs-in-the-news/
 slug: weblogs-in-the-news
 title: weblogs in the news
 wordpress_id: 489

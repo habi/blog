@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-09 20:23:42+00:00
-link: http://habi.gna.ch/2008/09/09/gadget-2/
+link: https://habi.gna.ch/2008/09/09/gadget-2/
 slug: gadget-2
 title: Gadget 2
 wordpress_id: 1421

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-04-27 09:16:22+00:00
-link: http://habi.gna.ch/2011/04/27/fotos-aus-indien/
+link: https://habi.gna.ch/2011/04/27/fotos-aus-indien/
 slug: fotos-aus-indien
 title: Fotos aus Indien
 wordpress_id: 2478

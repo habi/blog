@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-09-03 21:54:47+00:00
-link: http://habi.gna.ch/2006/09/03/picture-of-the-week-35-2/
+link: https://habi.gna.ch/2006/09/03/picture-of-the-week-35-2/
 slug: picture-of-the-week-35-2
 title: picture of the week 35
 wordpress_id: 219
@@ -17,10 +17,10 @@ after [a busy evening](http://flickr.com/photos/habi/sets/72157594267138111/) on
 [
 
 
-![Dsc04764](http://habi.gna.ch/blog/images/DSC04764-tm.jpg)
+![Dsc04764](https://habi.gna.ch/blog/images/DSC04764-tm.jpg)
 
 
-](http://habi.gna.ch/blog/images/DSC04764.jpg)
+](https://habi.gna.ch/blog/images/DSC04764.jpg)
 
 
 

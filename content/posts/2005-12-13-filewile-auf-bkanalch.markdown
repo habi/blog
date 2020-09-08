@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-12-13 22:38:13+00:00
-link: http://habi.gna.ch/2005/12/14/filewile-auf-bkanalch/
+link: https://habi.gna.ch/2005/12/14/filewile-auf-bkanalch/
 slug: filewile-auf-bkanalch
 title: filewile auf bkanal.ch
 wordpress_id: 112

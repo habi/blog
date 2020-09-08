@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-04-02 07:13:13+00:00
-link: http://habi.gna.ch/2008/04/02/eselsbrucke/
+link: https://habi.gna.ch/2008/04/02/eselsbrucke/
 slug: eselsbrucke
 title: eselsbrücke
 wordpress_id: 1231
@@ -17,7 +17,7 @@ tags:
 - theat
 ---
 
-[gestern abend](http://habi.gna.ch/2008/04/01/in-den-vidmarhallen/) im theater gelernt:
+[gestern abend](https://habi.gna.ch/2008/04/01/in-den-vidmarhallen/) im theater gelernt:
 
 
 

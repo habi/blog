@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-07-07 16:03:16+00:00
-link: http://habi.gna.ch/2007/07/07/ouch-2/
+link: https://habi.gna.ch/2007/07/07/ouch-2/
 slug: ouch-2
 title: ouch!
 wordpress_id: 990
@@ -10,19 +10,19 @@ categories:
 - bike
 ---
 
-even with a [nice bike](http://habi.gna.ch/2007/06/30/my-new-toy/) some bad stuff can happen:
+even with a [nice bike](https://habi.gna.ch/2007/06/30/my-new-toy/) some bad stuff can happen:
 
 exhibit a: the offending object
-[![Dsc04757R-1](http://habi.gna.ch/wp-content/uploads/2007/07/dsc04757r-1-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/07/dsc04757r-1.jpg)
+[![Dsc04757R-1](https://habi.gna.ch/wp-content/uploads/2007/07/dsc04757r-1-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/07/dsc04757r-1.jpg)
   
 
 exhibit b: the handlebar (after changing it...)
 notice the small dent on the left side :-)
-[![Dsc04759](http://habi.gna.ch/wp-content/uploads/2007/07/dsc04759-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/07/dsc04759.jpg)
+[![Dsc04759](https://habi.gna.ch/wp-content/uploads/2007/07/dsc04759-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/07/dsc04759.jpg)
   
 
 exhibit c: the result, shoulder and elbow, knee not shown.
-[![Dsc06878](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06878-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06878.jpg)[![Dsc06881](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06881-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06881.jpg)[![Dsc06882](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06882-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06882.jpg)[![Dsc06883](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06883-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/07/dsc06883.jpg)
+[![Dsc06878](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06878-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06878.jpg)[![Dsc06881](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06881-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06881.jpg)[![Dsc06882](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06882-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06882.jpg)[![Dsc06883](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06883-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/07/dsc06883.jpg)
   
 
 i'm really happy that nothing really severe happened (to the bike, 'cause i'm healing quite well...) so i guess i was lucky.

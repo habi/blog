@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-24 22:20:59+00:00
-link: http://habi.gna.ch/2003/11/25/the-little-dirty-secret/
+link: https://habi.gna.ch/2003/11/25/the-little-dirty-secret/
 slug: the-little-dirty-secret
 title: the little dirty secret
 wordpress_id: 358

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-08-08 19:59:30+00:00
-link: http://habi.gna.ch/2012/08/08/abt-unglaubliche-tauchgänge/
+link: https://habi.gna.ch/2012/08/08/abt-unglaubliche-tauchgänge/
 slug: abt-unglaubliche-tauchgänge
 title: Abt. Unglaubliche Tauchgänge
 wordpress_id: 2843

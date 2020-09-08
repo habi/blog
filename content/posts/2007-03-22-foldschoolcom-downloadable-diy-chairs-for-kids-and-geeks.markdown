@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-03-22 13:57:31+00:00
-link: http://habi.gna.ch/2007/03/22/foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks/
+link: https://habi.gna.ch/2007/03/22/foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks/
 slug: foldschoolcom-downloadable-diy-chairs-for-kids-and-geeks
 title: foldschool.com - downloadable DIY chairs for kids and geeks [update]
 wordpress_id: 893
@@ -12,10 +12,10 @@ categories:
 - switzerland
 ---
 
-[![Signatur Def](http://habi.gna.ch/wp-content/uploads/2007/03/signatur-def-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/03/signatur-def.jpg)
+[![Signatur Def](https://habi.gna.ch/wp-content/uploads/2007/03/signatur-def-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/signatur-def.jpg)
 
 
-[![ Wp-Content Uploads Foldschoolnicola](http://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola.jpg)[nicola](http://flickr.com/photos/habi/tags/nicola) finally made it!
+[![ Wp-Content Uploads Foldschoolnicola](https://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola.jpg)[nicola](http://flickr.com/photos/habi/tags/nicola) finally made it!
 his newest project as a [designing architect](http://www.nicolafrombern.com/) is online: the [foldschool](http://www.foldschool.com/) - cardboard furniture.
 
 since ages he's made plans and models (filling the shopwindow in his studio), now everything is online, functional and looking good.
@@ -31,7 +31,7 @@ congratulations nicola!
 [1]: [matthias](http://www.gutfeldt.ch/matthias/blog/index.php), ein wochenendprojekt mit deinen kids? die fotos würd ich gerne dann auch sehen!
 
 **update: **so sieht er vor seinem atelier aus:
-[![Dsc00030](http://habi.gna.ch/wp-content/uploads/2007/03/dsc00030-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/03/dsc00030.jpg)  
+[![Dsc00030](https://habi.gna.ch/wp-content/uploads/2007/03/dsc00030-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/dsc00030.jpg)  
 
 
 

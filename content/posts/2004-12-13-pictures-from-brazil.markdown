@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-12-13 21:51:50+00:00
-link: http://habi.gna.ch/2004/12/13/pictures-from-brazil/
+link: https://habi.gna.ch/2004/12/13/pictures-from-brazil/
 slug: pictures-from-brazil
 title: pictures from brazil
 wordpress_id: 691

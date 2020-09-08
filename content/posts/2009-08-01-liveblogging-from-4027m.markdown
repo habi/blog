@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-08-01 10:06:05+00:00
-link: http://habi.gna.ch/2009/08/01/liveblogging-from-4027m/
+link: https://habi.gna.ch/2009/08/01/liveblogging-from-4027m/
 slug: liveblogging-from-4027m
 title: Liveblogging from 4027m
 wordpress_id: 1876

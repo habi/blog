@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-01-10 19:33:55+00:00
-link: http://habi.gna.ch/2005/01/10/dreiknigskuchen-geheimnis-gelst-with-short-english-explanation/
+link: https://habi.gna.ch/2005/01/10/dreiknigskuchen-geheimnis-gelst-with-short-english-explanation/
 slug: dreiknigskuchen-geheimnis-gelst-with-short-english-explanation
 title: dreikönigskuchen-geheimnis gelöst (with short english explanation)
 wordpress_id: 711
@@ -17,7 +17,7 @@ letzten donnerstag abend (dreikönigstag) war ich mit mara essen. (lustigerweise
 
 ein freundlicher herr hat nach einmal klingeln das telefon abgenommen, sein name sei hier aus datenschutzgründen nicht verraten (ich hab ihn nicht informiert, dass ich unser gespräch aufnehme, t610 sei dank...).
 
-mit ein bisschen brei um den bart schmieren [3] und flunkern konnt ich dann die info aus ihm rausholen. in migros-dreikönigstagskuchen ist der kleine plastikkönig immer in einer der kugeln aussen, niemals drinnen. zum selber nachhören hier der relevante teil meines mitschnittes des gesprächs: <a href="http://habi.gna.ch/blog/images/3koenigskuchen.wav">3koenigskuchen.wav</a> (388 kb). ich hab nun also eine wette verloren und weiss nicht mal mehr, was wir gewettet haben.
+mit ein bisschen brei um den bart schmieren [3] und flunkern konnt ich dann die info aus ihm rausholen. in migros-dreikönigstagskuchen ist der kleine plastikkönig immer in einer der kugeln aussen, niemals drinnen. zum selber nachhören hier der relevante teil meines mitschnittes des gesprächs: <a href="https://habi.gna.ch/blog/images/3koenigskuchen.wav">3koenigskuchen.wav</a> (388 kb). ich hab nun also eine wette verloren und weiss nicht mal mehr, was wir gewettet haben.
 
 english translation: on the 6. january we have a rite where we eat a special kind of cake, <a href="http://images.google.com/images?q=dreik%C3%B6nigskuchen&amp;hl=en&amp;lr=&amp;c2coff=1&amp;sa=N&amp;tab=wi">the three kings cake</a>. there's a little plastic king hidden in one of the balls of the cake. whoever gets that piece of cake is the king for the day. i had a bet with a friend of mine on how the plastic king is "distributed" in the cake. to prove my theory i called the bakery of one of the two biggest grocers in switzerland. the linked .wav file is the proof that i was wrong with my theory. (this is swiss german by the way :-)
 

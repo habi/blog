@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-08-14 19:21:33+00:00
-link: http://habi.gna.ch/2006/08/14/picture-of-the-week-32-2/
+link: https://habi.gna.ch/2006/08/14/picture-of-the-week-32-2/
 slug: picture-of-the-week-32-2
 title: picture of the week 32
 wordpress_id: 212
@@ -20,10 +20,10 @@ and i'd like to mention one of the images, mostly because nina looked really won
 [
 
 
-![nina](http://habi.gna.ch/blog/images/DSC04517-tm.jpg)
+![nina](https://habi.gna.ch/blog/images/DSC04517-tm.jpg)
 
 
-](http://habi.gna.ch/blog/images/DSC04517.jpg)
+](https://habi.gna.ch/blog/images/DSC04517.jpg)
 
 oh, and [this shot](http://flickr.com/photos/habi/214110219/) is also quite nice (although i might be biased :-)
 

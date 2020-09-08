@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-01-22 18:38:17+00:00
-link: http://habi.gna.ch/2005/01/22/online-help/
+link: https://habi.gna.ch/2005/01/22/online-help/
 slug: online-help
 title: online help
 wordpress_id: 719

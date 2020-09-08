@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-17 14:08:50+00:00
-link: http://habi.gna.ch/2005/04/17/this-blog-is-now-gravatar-enabled/
+link: https://habi.gna.ch/2005/04/17/this-blog-is-now-gravatar-enabled/
 slug: this-blog-is-now-gravatar-enabled
 title: this blog is now gravatar enabled
 wordpress_id: 769
@@ -31,7 +31,7 @@ the code with which i implemented it is shown below for your abuse and modificat
   
 <a href="<$MTCommentURL$>">
   
-<img src="<$MTGravatar default="http://habi.gna.ch/blank.jpg" size="40"$>" alt="gravatar" align="left" />
+<img src="<$MTGravatar default="https://habi.gna.ch/blank.jpg" size="40"$>" alt="gravatar" align="left" />
   
 </a>
   
@@ -49,7 +49,7 @@ on <$MTCommentDate$><br clear="all">
 </blockquote>
 
 
-i made it so that every person gets a gravatar, even it there's none registered (for example, see peters comment [here](http://habi.gna.ch/blog/archives/000568.html)). if your gravatar is missing the pictures gets replaced by [blank.jpg](http://habi.gna.ch/blank.jpg). the gravatar is linked with the url or the (spamsafe) email link of the person that left a comment.
+i made it so that every person gets a gravatar, even it there's none registered (for example, see peters comment [here](https://habi.gna.ch/blog/archives/000568.html)). if your gravatar is missing the pictures gets replaced by [blank.jpg](https://habi.gna.ch/blank.jpg). the gravatar is linked with the url or the (spamsafe) email link of the person that left a comment.
   
 so, ladies and gents, if you want your picture to show up in the comments, then step over to gravatar and register yours.
   

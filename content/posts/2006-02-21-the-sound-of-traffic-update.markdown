@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-02-21 20:41:13+00:00
-link: http://habi.gna.ch/2006/02/21/the-sound-of-traffic-update/
+link: https://habi.gna.ch/2006/02/21/the-sound-of-traffic-update/
 slug: the-sound-of-traffic-update
 title: the sound of traffic [update]
 wordpress_id: 137
@@ -13,9 +13,9 @@ categories:
 ---
 
 
-[![Soundoftraffic](http://habi.gna.ch/blog/images/soundoftraffic-tm.jpg)](http://habi.gna.ch/blog/images/soundoftraffic.jpg)it's been quite a long time since i've posted something about new software additions to my mac. [this app](http://www.smokinggun.com/projects/soundoftraffic/) here is actually completely useless, but nonetheless it's been running since half an hour.
+[![Soundoftraffic](https://habi.gna.ch/blog/images/soundoftraffic-tm.jpg)](https://habi.gna.ch/blog/images/soundoftraffic.jpg)it's been quite a long time since i've posted something about new software additions to my mac. [this app](http://www.smokinggun.com/projects/soundoftraffic/) here is actually completely useless, but nonetheless it's been running since half an hour.
   
-sound of traffic is a tiny java application (112 kb) that converts your network traffic into midi notes. my traffic sounds like a laid back chill-out track (i'm downloading/seeding the latest episode of [the it crowd](http://habi.gna.ch/blog/archives/000734.html) over bittorrent and updating some feeds from time to time). the app needs your admin password to access some devices and only works on OS X and Unix [1].
+sound of traffic is a tiny java application (112 kb) that converts your network traffic into midi notes. my traffic sounds like a laid back chill-out track (i'm downloading/seeding the latest episode of [the it crowd](https://habi.gna.ch/blog/archives/000734.html) over bittorrent and updating some feeds from time to time). the app needs your admin password to access some devices and only works on OS X and Unix [1].
 
 
 

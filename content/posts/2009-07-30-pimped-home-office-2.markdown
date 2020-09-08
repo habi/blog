@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-07-30 16:51:50+00:00
-link: http://habi.gna.ch/2009/07/30/pimped-home-office-2/
+link: https://habi.gna.ch/2009/07/30/pimped-home-office-2/
 slug: pimped-home-office-2
 title: Pimped Home-Office
 wordpress_id: 1875

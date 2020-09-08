@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-27 17:33:59+00:00
-link: http://habi.gna.ch/2007/12/27/zu-verkaufen/
+link: https://habi.gna.ch/2007/12/27/zu-verkaufen/
 slug: zu-verkaufen
 title: zu verkaufen
 wordpress_id: 1113

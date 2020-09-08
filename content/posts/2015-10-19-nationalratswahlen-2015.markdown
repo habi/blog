@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-10-19 18:50:17+00:00
-link: http://habi.gna.ch/2015/10/19/nationalratswahlen-2015/
+link: https://habi.gna.ch/2015/10/19/nationalratswahlen-2015/
 slug: nationalratswahlen-2015
 title: Nationalratswahlen 2015
 wordpress_id: 4066
@@ -24,10 +24,10 @@ Im Ständerat sollen mich Hans Stöckli mit 66.0% und Christine Häsler mit 57.5
 
 Interessant ist wie immer die Zusammenstellung meiner politischen "Entwicklung". Da ich schon einige Male über die smartvote-Platform geschrieben haben und auch immer meinen sog. SmartSpider festhalte kann mensch gut sehen, wie sich mein politisches Profil über die Jahre verändert.
 
-![SmartSpider 2004--2015](http://habi.gna.ch/wp-content/uploads/2015/10/SmartSpider.gif)
+![SmartSpider 2004--2015](https://habi.gna.ch/wp-content/uploads/2015/10/SmartSpider.gif)
 
 Laut den SmartSpidern wünsche ich mir etwas weniger ausgebauter Sozialstaat und Umweltschutz, was ich aber persönlich nicht so erlebe...
 
 Das Ganze bis hier hin tönt noch nicht so überraschend. Beim Anschauen des smartvote-Endresultates war ich dann doch etwas überrascht; Erich Hess, der bisher immer den allerletzen Platz auf meiner Wunschliste belegt hat, wurde entweder altersmilde oder von zwei Jungen <del>Rechten</del>Recken rechts überholt. Er landet nur noch auf dem drittletzten Platz...
 
-![Die Schlussränge](http://habi.gna.ch/wp-content/uploads/2015/10/ErichUndCo.png)
+![Die Schlussränge](https://habi.gna.ch/wp-content/uploads/2015/10/ErichUndCo.png)

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-03-29 20:22:29+00:00
-link: http://habi.gna.ch/2010/03/29/automator-actions-zur-bildbearbeitung/
+link: https://habi.gna.ch/2010/03/29/automator-actions-zur-bildbearbeitung/
 slug: automator-actions-zur-bildbearbeitung
 title: Automator Actions zur Bildbearbeitung
 wordpress_id: 2086
@@ -37,7 +37,7 @@ Achtung: Ich habe die services so gemacht, dass KEINE kopie der bilder erstellt/
 
 
 
-die skripte sind im file [automatorworkflows.zip](http://habi.gna.ch/wp-content/uploads/automatorworkflows.zip) zu finden. dieses file enthalt  
+die skripte sind im file [automatorworkflows.zip](https://habi.gna.ch/wp-content/uploads/automatorworkflows.zip) zu finden. dieses file enthalt  
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-11-09 07:50:07+00:00
-link: http://habi.gna.ch/2006/11/09/statuten/
+link: https://habi.gna.ch/2006/11/09/statuten/
 published: false
 slug: statuten
 title: statuten

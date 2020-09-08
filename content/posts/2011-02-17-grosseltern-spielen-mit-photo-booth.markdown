@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-02-17 18:58:51+00:00
-link: http://habi.gna.ch/2011/02/17/grosseltern-spielen-mit-photo-booth/
+link: https://habi.gna.ch/2011/02/17/grosseltern-spielen-mit-photo-booth/
 slug: grosseltern-spielen-mit-photo-booth
 title: Grosseltern spielen mit Photo Booth
 wordpress_id: 2392

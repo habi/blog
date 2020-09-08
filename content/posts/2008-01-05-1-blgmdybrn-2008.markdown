@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-01-05 12:00:28+00:00
-link: http://habi.gna.ch/2008/01/05/1-blgmdybrn-2008/
+link: https://habi.gna.ch/2008/01/05/1-blgmdybrn-2008/
 slug: 1-blgmdybrn-2008
 title: 1. blgmdybrn 2008
 wordpress_id: 1130
@@ -12,7 +12,7 @@ categories:
 - switzerland
 ---
 
-![](http://habi.gna.ch/wp-content/uploads/2008/01/blgmndybrn.jpg)on monday evening we're [meeting](http://upcoming.yahoo.com/event/350569/) each other for drinks, gadget show-n-tell and some beers. come around if you can share some interesting stories or if you just want to drink something with us nerds.
+![](https://habi.gna.ch/wp-content/uploads/2008/01/blgmndybrn.jpg)on monday evening we're [meeting](http://upcoming.yahoo.com/event/350569/) each other for drinks, gadget show-n-tell and some beers. come around if you can share some interesting stories or if you just want to drink something with us nerds.
 
 
 

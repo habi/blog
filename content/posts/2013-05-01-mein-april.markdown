@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-05-01 20:25:05+00:00
-link: http://habi.gna.ch/2013/05/01/mein-april/
+link: https://habi.gna.ch/2013/05/01/mein-april/
 slug: mein-april
 title: Mein April
 wordpress_id: 3092
@@ -14,7 +14,7 @@ tags:
 - 1se
 ---
 
-Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/) und [März](http://habi.gna.ch/2013/04/01/mein-marz/) hab' ich im April jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
+Genau wie im [Januar](https://habi.gna.ch/2013/02/01/mein-januar/), [Februar](https://habi.gna.ch/2013/03/04/mein-februar/) und [März](https://habi.gna.ch/2013/04/01/mein-marz/) hab' ich im April jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
 
 {{< vimeo 65206179 >}}
 
@@ -33,7 +33,7 @@ Die Liste:
 * [Balkan Beat Box I'm Dachstock](http://www.dachstock.ch/program/e/a/wild-wild-east-balkan-beat-box-isrusa.html)
 * Zweimal ein Fährtli an einen See, einmal [Thun](http://runkeeper.com/user/davidhaberthuer/activity/166975663), einmal [Murten](http://runkeeper.com/user/davidhaberthuer/activity/167362927)
 * Drinks in Brugg
-* Auf der Bühne am [Pix-Mix](http://habi.gna.ch/2013/04/15/pixmix-60/)
+* Auf der Bühne am [Pix-Mix](https://habi.gna.ch/2013/04/15/pixmix-60/)
 * ein sommerlicher Abend auf dem Balkon
 * gemütliches Konzert im [Prima Luna](http://www.prima-luna.ch)
 * ein Wochenende auf der Baustelle bei Freunden

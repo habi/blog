@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-05-19 19:54:10+00:00
-link: http://habi.gna.ch/2012/05/19/abt-mode-ist-das-was-du-daraus-machst/
+link: https://habi.gna.ch/2012/05/19/abt-mode-ist-das-was-du-daraus-machst/
 slug: abt-mode-ist-das-was-du-daraus-machst
 title: Abt. Mode ist das, was du daraus machst.
 wordpress_id: 2761

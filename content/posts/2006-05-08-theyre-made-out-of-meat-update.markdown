@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-08 18:25:05+00:00
-link: http://habi.gna.ch/2006/05/08/theyre-made-out-of-meat-update/
+link: https://habi.gna.ch/2006/05/08/theyre-made-out-of-meat-update/
 slug: theyre-made-out-of-meat-update
 title: they're made out of meat! [update]
 wordpress_id: 172

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-06-09 21:38:40+00:00
-link: http://habi.gna.ch/2008/06/09/masterarbeit-psi/
+link: https://habi.gna.ch/2008/06/09/masterarbeit-psi/
 slug: masterarbeit-psi
 title: masterarbeit @ psi
 wordpress_id: 1284
@@ -17,7 +17,7 @@ einerseits ist es gut, dass am ende ziemlich genau das rauskommt, was mann in de
 
 
 
-[![masterarbeit.png](http://habi.gna.ch/wp-content/uploads/2008/06/masterarbeit3.jpg)](http://habi.gna.ch/wp-content/uploads/2008/06/masterarbeit2.jpg)
+[![masterarbeit.png](https://habi.gna.ch/wp-content/uploads/2008/06/masterarbeit3.jpg)](https://habi.gna.ch/wp-content/uploads/2008/06/masterarbeit2.jpg)
 
 
 

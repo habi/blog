@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-07-17 13:54:11+00:00
-link: http://habi.gna.ch/2009/07/17/gurtenfestival/
+link: https://habi.gna.ch/2009/07/17/gurtenfestival/
 slug: gurtenfestival
 title: Gurtenfestival
 wordpress_id: 1865

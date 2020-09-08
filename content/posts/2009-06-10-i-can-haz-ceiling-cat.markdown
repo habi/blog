@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-06-10 19:57:45+00:00
-link: http://habi.gna.ch/2009/06/10/i-can-haz-ceiling-cat/
+link: https://habi.gna.ch/2009/06/10/i-can-haz-ceiling-cat/
 slug: i-can-haz-ceiling-cat
 title: i can haz ceiling cat?
 wordpress_id: 1793
@@ -18,7 +18,7 @@ TODAI I STUMBLD OVAR [TEH NICE PAPERCRAFT CEILIN KAT](http://www.doobybrain.com/
 
 
 
-[![IMG_0102](http://habi.gna.ch/wp-content/uploads/2009/06/img-01021.jpg)](http://habi.gna.ch/wp-content/uploads/2009/06/img-0102.jpg)  
+[![IMG_0102](https://habi.gna.ch/wp-content/uploads/2009/06/img-01021.jpg)](https://habi.gna.ch/wp-content/uploads/2009/06/img-0102.jpg)  
 
 
 IF U WANTS 2 HAS CEILIN KAT YOURSELF, JUS DOWNLOAD PAPERCRAFT-MODEL, CUT IT, USE SUM GLUE AN STICK IT 2 TEH CEILIN.  

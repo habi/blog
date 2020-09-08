@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-05-31 22:40:37+00:00
-link: http://habi.gna.ch/2009/06/01/baldachin-by-night-ii/
+link: https://habi.gna.ch/2009/06/01/baldachin-by-night-ii/
 slug: baldachin-by-night-ii
 title: Baldachin by Night II
 wordpress_id: 1774
@@ -14,7 +14,7 @@ tags:
 - panorama
 ---
 
-during the past few weeks i've been thinking about the panorama i've shot of the [baldachin near the railway-station](http://habi.gna.ch/2009/02/22/ein-samstag-nachmittag-in-der-stadt/) here in bern. i've thought it would be very nice to have a nightly version of the same panorama. so, yesterday evening i again spent some time on the bubenbergplatz and shot quite a bunch of images. i've had two lenses with me, the newly aquired [16mm zenitar fisheye](http://www.kenrockwell.com/zenit/zenitar-16mm.htm) which makes shooting panoramas a breeze, since the FOV is so big, but is actually quite a hassle to setup, since it's a fully manual lens, so more suited for this task than for snapshots. in addition to the zenitar i've had my trusty 38-80mm zoom lens
+during the past few weeks i've been thinking about the panorama i've shot of the [baldachin near the railway-station](https://habi.gna.ch/2009/02/22/ein-samstag-nachmittag-in-der-stadt/) here in bern. i've thought it would be very nice to have a nightly version of the same panorama. so, yesterday evening i again spent some time on the bubenbergplatz and shot quite a bunch of images. i've had two lenses with me, the newly aquired [16mm zenitar fisheye](http://www.kenrockwell.com/zenit/zenitar-16mm.htm) which makes shooting panoramas a breeze, since the FOV is so big, but is actually quite a hassle to setup, since it's a fully manual lens, so more suited for this task than for snapshots. in addition to the zenitar i've had my trusty 38-80mm zoom lens
 
 
 
@@ -24,7 +24,7 @@ the first results from my mini-photo-safari can be seen in this set [here on fli
 
 
 
-[![small-DSC_2284-DSC_2416_fused.jpg](http://habi.gna.ch/wp-content/uploads/2009/06/small-dsc-2284-dsc-2416-fused2.jpg)](http://habi.gna.ch/wp-content/uploads/2009/06/small-dsc-2284-dsc-2416-fused1.jpg)
+[![small-DSC_2284-DSC_2416_fused.jpg](https://habi.gna.ch/wp-content/uploads/2009/06/small-dsc-2284-dsc-2416-fused2.jpg)](https://habi.gna.ch/wp-content/uploads/2009/06/small-dsc-2284-dsc-2416-fused1.jpg)
 
 
 
@@ -49,12 +49,12 @@ i really need to get a nice very wide angle lens, since shooting panoramas with 
 
 
 
-[![DSC_2432-DSC_2441.jpg](http://habi.gna.ch/wp-content/uploads/2009/06/dsc-2432-dsc-24411.jpg)](http://habi.gna.ch/wp-content/uploads/2009/06/dsc-2432-dsc-2441.jpg)
+[![DSC_2432-DSC_2441.jpg](https://habi.gna.ch/wp-content/uploads/2009/06/dsc-2432-dsc-24411.jpg)](https://habi.gna.ch/wp-content/uploads/2009/06/dsc-2432-dsc-2441.jpg)
 
 
 
 
-the full 360Â°-panorama is of course much nicer in the fully interactive view, provided [here](http://habi.gna.ch/panoramas/bubenbergplatz.html).
+the full 360Â°-panorama is of course much nicer in the fully interactive view, provided [here](https://habi.gna.ch/panoramas/bubenbergplatz.html).
 
 
 

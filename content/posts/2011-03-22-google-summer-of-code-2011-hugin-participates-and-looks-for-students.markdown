@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-03-22 22:29:05+00:00
-link: http://habi.gna.ch/2011/03/23/google-summer-of-code-2011-hugin-participates-and-looks-for-students/
+link: https://habi.gna.ch/2011/03/23/google-summer-of-code-2011-hugin-participates-and-looks-for-students/
 slug: google-summer-of-code-2011-hugin-participates-and-looks-for-students
 title: 'Google Summer of Code 2011: Hugin participates and looks for Students'
 wordpress_id: 2444

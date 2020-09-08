@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-03-13 21:26:23+00:00
-link: http://habi.gna.ch/2006/03/13/4er-stckchen/
+link: https://habi.gna.ch/2006/03/13/4er-stckchen/
 slug: 4er-stckchen
 title: 4er stöckchen
 wordpress_id: 142
@@ -40,8 +40,8 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
 - [Pimp my ride](http://www.mtv.com/onair/dyn/pimp_my_ride) (echt!)
 
 **4 Orte an denen ich Urlaub gemacht habe:**
-- [Philippinen](http://habi.gna.ch/pics/philippinen05/)
-- [Ägypten](http://habi.gna.ch/pics/Sharm/) (mehrmals schon)
+- [Philippinen](https://habi.gna.ch/pics/philippinen05/)
+- [Ägypten](https://habi.gna.ch/pics/Sharm/) (mehrmals schon)
 - Kos
 - [Obererlinsbach](http://map.search.ch/obererlinsbach) (oder wars [Stusslingen](http://map.search.ch/obererlinsbach?z=64)?)
 
@@ -52,7 +52,7 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
 - alles ohne Blumenkohl und Fenchel von Regine
 
 **139 Webseiten die ich täglich besuche:**
-- [meine feeds](http://habi.gna.ch/MySubscriptions.opml) und ein paar zerdrückte, nämlich
+- [meine feeds](https://habi.gna.ch/MySubscriptions.opml) und ein paar zerdrückte, nämlich
 - google
 - flickr
 - [swissconnect](http://swissconnect.ch/)

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-06 19:09:23+00:00
-link: http://habi.gna.ch/2006/05/06/orthographie-umgenuegend/
+link: https://habi.gna.ch/2006/05/06/orthographie-umgenuegend/
 slug: orthographie-umgenuegend
 title: Orthographie umgenuegend
 wordpress_id: 170

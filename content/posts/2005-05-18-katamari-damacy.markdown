@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-05-18 13:54:43+00:00
-link: http://habi.gna.ch/2005/05/18/katamari-damacy/
+link: https://habi.gna.ch/2005/05/18/katamari-damacy/
 slug: katamari-damacy
 title: katamari damacy
 wordpress_id: 8

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-23 18:07:17+00:00
-link: http://habi.gna.ch/2003/10/23/todays-fun-link/
+link: https://habi.gna.ch/2003/10/23/todays-fun-link/
 slug: todays-fun-link
 title: todays fun link
 wordpress_id: 322

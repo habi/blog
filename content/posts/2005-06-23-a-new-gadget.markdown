@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-06-23 21:05:51+00:00
-link: http://habi.gna.ch/2005/06/23/a-new-gadget/
+link: https://habi.gna.ch/2005/06/23/a-new-gadget/
 slug: a-new-gadget
 title: a new gadget
 wordpress_id: 32
@@ -13,7 +13,7 @@ categories:
 ---
 
 
-[![Ax](http://habi.gna.ch/blog/images/ax-tm.jpg)](http://habi.gna.ch/blog/images/ax.jpg)ok, i admit, i could also have bought a really long (but marginally less expensive) cable, but i has got me an [airport express](http://www.apple.com/airportexpress/) from [ricardo](http://www.ricardo.ch/) [1].
+[![Ax](https://habi.gna.ch/blog/images/ax-tm.jpg)](https://habi.gna.ch/blog/images/ax.jpg)ok, i admit, i could also have bought a really long (but marginally less expensive) cable, but i has got me an [airport express](http://www.apple.com/airportexpress/) from [ricardo](http://www.ricardo.ch/) [1].
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-23 21:10:43+00:00
-link: http://habi.gna.ch/2004/03/23/mt-blacklist/
+link: https://habi.gna.ch/2004/03/23/mt-blacklist/
 slug: mt-blacklist
 title: MT-Blacklist
 wordpress_id: 477

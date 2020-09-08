@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-05-02 14:39:17+00:00
-link: http://habi.gna.ch/2015/05/02/velofahren-verlernen/
+link: https://habi.gna.ch/2015/05/02/velofahren-verlernen/
 slug: velofahren-verlernen
 title: Velofahren verlernen
 wordpress_id: 3897

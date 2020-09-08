@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-06-26 22:39:40+00:00
-link: http://habi.gna.ch/2004/06/27/virtual-bubblewrap/
+link: https://habi.gna.ch/2004/06/27/virtual-bubblewrap/
 slug: virtual-bubblewrap
 title: virtual bubblewrap
 wordpress_id: 566

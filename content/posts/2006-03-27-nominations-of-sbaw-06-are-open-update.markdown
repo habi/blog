@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-03-27 13:22:54+00:00
-link: http://habi.gna.ch/2006/03/27/nominations-of-sbaw-06-are-open-update/
+link: https://habi.gna.ch/2006/03/27/nominations-of-sbaw-06-are-open-update/
 slug: nominations-of-sbaw-06-are-open-update
 title: nominations of SBAW 06 are open [update]
 wordpress_id: 146
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Nominations.Sbaw](http://habi.gna.ch/blog/images/nominations.sbaw-tm.jpg)](http://habi.gna.ch/blog/images/nominations.sbaw.jpg)the [nominations](http://nominations2006.swissblogawards.ch/) for the [swiss blog awards 06](http://swissblogawards.ch/) are now open and [are all the rage](http://planet.blogug.ch/search/nominations%20awards%20sbaw)!
+[![Nominations.Sbaw](https://habi.gna.ch/blog/images/nominations.sbaw-tm.jpg)](https://habi.gna.ch/blog/images/nominations.sbaw.jpg)the [nominations](http://nominations2006.swissblogawards.ch/) for the [swiss blog awards 06](http://swissblogawards.ch/) are now open and [are all the rage](http://planet.blogug.ch/search/nominations%20awards%20sbaw)!
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-26 06:18:22+00:00
-link: http://habi.gna.ch/2004/03/26/journey-to-eth-in-zurich/
+link: https://habi.gna.ch/2004/03/26/journey-to-eth-in-zurich/
 slug: journey-to-eth-in-zurich
 title: journey to ETH in Zürich
 wordpress_id: 480
@@ -16,4 +16,4 @@ i wish you all a nice friday and i'm curious to see all your entries this evenin
 cheers 
 sigi
 
-[![](http://habi.gna.ch/blog/images/ffaf_sigi1-thumb.jpg)](http://habi.gna.ch/blog/images/ffaf_sigi1.jpg) [![ffaf_sigi2.jpg](http://habi.gna.ch/blog/images/ffaf_sigi2-thumb.jpg)](http://habi.gna.ch/blog/images/ffaf_sigi2.jpg) [![ffaf_sigi3.jpg](http://habi.gna.ch/blog/images/ffaf_sigi3-thumb.jpg)](http://habi.gna.ch/blog/images/ffaf_sigi3.jpg) [![ffaf_sigi4.jpg](http://habi.gna.ch/blog/images/ffaf_sigi4-thumb.jpg)](http://habi.gna.ch/blog/images/ffaf_sigi4.jpg)
+[![](https://habi.gna.ch/blog/images/ffaf_sigi1-thumb.jpg)](https://habi.gna.ch/blog/images/ffaf_sigi1.jpg) [![ffaf_sigi2.jpg](https://habi.gna.ch/blog/images/ffaf_sigi2-thumb.jpg)](https://habi.gna.ch/blog/images/ffaf_sigi2.jpg) [![ffaf_sigi3.jpg](https://habi.gna.ch/blog/images/ffaf_sigi3-thumb.jpg)](https://habi.gna.ch/blog/images/ffaf_sigi3.jpg) [![ffaf_sigi4.jpg](https://habi.gna.ch/blog/images/ffaf_sigi4-thumb.jpg)](https://habi.gna.ch/blog/images/ffaf_sigi4.jpg)

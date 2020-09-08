@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-03-27 18:57:03+00:00
-link: http://habi.gna.ch/2006/03/27/picture-of-the-week-12-with-competition-update/
+link: https://habi.gna.ch/2006/03/27/picture-of-the-week-12-with-competition-update/
 slug: picture-of-the-week-12-with-competition-update
 title: picture of the week 12 (with competition) [update]
 wordpress_id: 148
@@ -14,7 +14,7 @@ categories:
 
 [we've](http://velokurierbern.ch/) been skiing this weekend. in the morning, just before we hit the slopes i shot this panorama.
   
-normally i tell a bit about the backstory of [my potw's](http://habi.gna.ch/blog/archives/cat_picture_of_the_week.html), but this time i thought i'd make a little competition:
+normally i tell a bit about the backstory of [my potw's](https://habi.gna.ch/blog/archives/cat_picture_of_the_week.html), but this time i thought i'd make a little competition:
   
 i have two questions concerning the image below. the first person to answers either one of those can choose between a game for the [PSP](http://www.yourpsp.com/) (i've got several to chose from), a carte blanche for one post here in this blog or two drinks of his/her choice at the next blogger-meeting. the second and third person who answers correctly has to take what's left :-)
   
@@ -38,7 +38,7 @@ B) is there a **free** software (for OS X) to automatically normalize the bright
 
 
 
-[![Potw Competition](http://habi.gna.ch/blog/images/potw_competition-tm.jpg)](http://habi.gna.ch/blog/images/potw_competition.jpg)
+[![Potw Competition](https://habi.gna.ch/blog/images/potw_competition-tm.jpg)](https://habi.gna.ch/blog/images/potw_competition.jpg)
 
 
 
@@ -46,7 +46,7 @@ und nun noch auf deutsch:
   
 dieses wochenende waren [wir](http://velokurierbern.ch/) schilen.
   
-gestern morgen hab ich von unserem haus aus obiges panorama fotografiert. normalerweise gibts ja zu meinen [bildern der woche](http://habi.gna.ch/blog/archives/cat_picture_of_the_week.html) immer ein kleines gschichtli dazu, diesmal gibts einen kleinen wettbewerb: wer als erstes eine der folgenden fragen beantwortet, gewinnt wahlweise ein game für die [PSP](http://www.yourpsp.com/) (ich hab verschiedene zur auswahl), zwei drinks an einem der nächsten blogger-treffen oder eine carte blanche für ein post in diesem blog. die zweite und die dritte antwort kann nur noch auswahlen :-)
+gestern morgen hab ich von unserem haus aus obiges panorama fotografiert. normalerweise gibts ja zu meinen [bildern der woche](https://habi.gna.ch/blog/archives/cat_picture_of_the_week.html) immer ein kleines gschichtli dazu, diesmal gibts einen kleinen wettbewerb: wer als erstes eine der folgenden fragen beantwortet, gewinnt wahlweise ein game für die [PSP](http://www.yourpsp.com/) (ich hab verschiedene zur auswahl), zwei drinks an einem der nächsten blogger-treffen oder eine carte blanche für ein post in diesem blog. die zweite und die dritte antwort kann nur noch auswahlen :-)
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-11-23 23:18:10+00:00
-link: http://habi.gna.ch/2007/11/24/zuegeltermin/
+link: https://habi.gna.ch/2007/11/24/zuegeltermin/
 slug: zuegeltermin
 title: Zuegeltermin
 wordpress_id: 1079

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-30 22:16:35+00:00
-link: http://habi.gna.ch/2007/12/30/filewile-collective/
+link: https://habi.gna.ch/2007/12/30/filewile-collective/
 slug: filewile-collective
 title: Filewile Collective
 wordpress_id: 1118

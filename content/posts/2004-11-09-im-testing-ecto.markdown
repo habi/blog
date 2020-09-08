@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-11-09 21:26:31+00:00
-link: http://habi.gna.ch/2004/11/09/im-testing-ecto/
+link: https://habi.gna.ch/2004/11/09/im-testing-ecto/
 slug: im-testing-ecto
 title: i'm testing ecto
 wordpress_id: 669

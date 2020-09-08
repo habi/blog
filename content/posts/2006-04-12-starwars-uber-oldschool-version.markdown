@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-04-12 18:01:52+00:00
-link: http://habi.gna.ch/2006/04/12/starwars-uber-oldschool-version/
+link: https://habi.gna.ch/2006/04/12/starwars-uber-oldschool-version/
 slug: starwars-uber-oldschool-version
 title: starwars uber-oldschool-version
 wordpress_id: 158

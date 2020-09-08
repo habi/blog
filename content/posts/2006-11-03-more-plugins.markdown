@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-11-03 20:19:59+00:00
-link: http://habi.gna.ch/2006/11/03/more-plugins/
+link: https://habi.gna.ch/2006/11/03/more-plugins/
 slug: more-plugins
 title: more plugins!
 wordpress_id: 809
@@ -16,7 +16,7 @@ first: [dropdown-archives](http://reidab.com/2006/10/dropdown-archives-widget/).
 
 the second one is more for safari users (because it [degrades nicely for other browsers](http://www.bartelme.at/journal/archive/safaris_search_field/)): the [safari-search-field widget](http://reidab.com/2006/10/safari-search-field-widget/). it adds a search field to the blog that looks and behaves like the one safari-users have in their top-left corner (unless you installed [inquisitor 3](http://www.inquisitorx.com/safari/)). if you use another browser it looks like a normal search field, as you can see below.
 
-[![Search.Safari-1](http://habi.gna.ch/wp-content/uploads/2006/11/images/search.safari-1-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/11/images/search.safari-1.jpg)   [![Search.Firefox-1](http://habi.gna.ch/wp-content/uploads/2006/11/images/search.firefox-1-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/11/images/search.firefox-1.jpg)
+[![Search.Safari-1](https://habi.gna.ch/wp-content/uploads/2006/11/images/search.safari-1-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2006/11/images/search.safari-1.jpg)   [![Search.Firefox-1](https://habi.gna.ch/wp-content/uploads/2006/11/images/search.firefox-1-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2006/11/images/search.firefox-1.jpg)
   
 [both via [wordpress widgets](http://widgets.wordpress.com)]
 

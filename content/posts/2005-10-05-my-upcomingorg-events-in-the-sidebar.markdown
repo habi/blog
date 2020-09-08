@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-10-05 23:44:52+00:00
-link: http://habi.gna.ch/2005/10/06/my-upcomingorg-events-in-the-sidebar/
+link: https://habi.gna.ch/2005/10/06/my-upcomingorg-events-in-the-sidebar/
 slug: my-upcomingorg-events-in-the-sidebar
 title: my upcoming.org events in the sidebar
 wordpress_id: 82
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Upcoming Events](http://habi.gna.ch/blog/images/upcoming_events-tm.jpg)](http://habi.gna.ch/blog/images/upcoming_events.jpg)i'm starting to really dig those social web-apps.
+[![Upcoming Events](https://habi.gna.ch/blog/images/upcoming_events-tm.jpg)](https://habi.gna.ch/blog/images/upcoming_events.jpg)i'm starting to really dig those social web-apps.
   
 one the last discoveries of mine is [upcoming.org](http://upcoming.org/) [1]. upcoming. org is a social event calendar driven by people like you and me. people can manage their events there and i have a neat way of showing some of my upcoming stuff i'm planning to attend or just got in my date book.
   

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-01-01 10:11:14+00:00
-link: http://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/
+link: https://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/
 slug: making-of-neujahrskartli-2016
 title: 'Making of: Neujahrskärtli 2016'
 wordpress_id: 4158
@@ -16,7 +16,7 @@ tags:
 - äs guet nöis
 ---
 
-Wie [letztes Jahr](http://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/), für die, die's wunder nimmt. Das Making Of meines Neujahrskärtlis.
+Wie [letztes Jahr](https://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/), für die, die's wunder nimmt. Das Making Of meines Neujahrskärtlis.
 
 Zutaten:
 
@@ -59,7 +59,7 @@ Zubereitung:
 
 
   * Mit [Pixelmator](http://www.pixelmator.com/mac/) aus 4 Ebenen ein Foto mit vier Regionen machen.
-![Neujahrskarte, layered](http://habi.gna.ch/wp-content/uploads/2016/01/Neujahrskarte16_layered.jpg)
+![Neujahrskarte, layered](https://habi.gna.ch/wp-content/uploads/2016/01/Neujahrskarte16_layered.jpg)
 
 
   * Dieses Bild zu einem [kleinen Planeten](https://en.wikipedia.org/wiki/Stereographic_projection) umrechnen.
@@ -79,7 +79,7 @@ Zubereitung:
 
 Äbe, _es guets Nöis_!
 
-![Neujahrskarte, final](http://habi.gna.ch/wp-content/uploads/2016/01/Neujahrskarte16_final.jpg)
+![Neujahrskarte, final](https://habi.gna.ch/wp-content/uploads/2016/01/Neujahrskarte16_final.jpg)
 
 PS: Wer in das Panorama eintauchen will, kann das unten tun. Und wie immer, Aline hat schon ein Gesicht, einfach nicht überall im Internet :)
 

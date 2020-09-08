@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-03-26 18:51:43+00:00
-link: http://habi.gna.ch/2010/03/26/les-queues-des-sardines/
+link: https://habi.gna.ch/2010/03/26/les-queues-des-sardines/
 slug: les-queues-des-sardines
 title: Les Queues des Sardines
 wordpress_id: 2084

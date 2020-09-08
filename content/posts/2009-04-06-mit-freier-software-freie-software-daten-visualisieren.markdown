@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-04-06 22:24:48+00:00
-link: http://habi.gna.ch/2009/04/06/mit-freier-software-freie-software-daten-visualisieren/
+link: https://habi.gna.ch/2009/04/06/mit-freier-software-freie-software-daten-visualisieren/
 slug: mit-freier-software-freie-software-daten-visualisieren
 title: mit freier software freie software-daten visualisieren [update]
 wordpress_id: 1702
@@ -38,8 +38,8 @@ in diesem textfile landen alle parameter, die für einen plot notwendig sind. na
 
 
 
-  [![dents.png](http://habi.gna.ch/wp-content/uploads/2009/04/dents.png)](http://habi.gna.ch/wp-content/uploads/2009/04/dents.png)[  
-](http://habi.gna.ch/wp-content/uploads/2009/04/dents.png)
+  [![dents.png](https://habi.gna.ch/wp-content/uploads/2009/04/dents.png)](https://habi.gna.ch/wp-content/uploads/2009/04/dents.png)[  
+](https://habi.gna.ch/wp-content/uploads/2009/04/dents.png)
 
 
 
@@ -85,7 +85,7 @@ ps: fast noch schöner sieht's mit logarithmischer y-achse aus; dieser plot wurd
 
 
 
-![logdents.png](http://habi.gna.ch/wp-content/uploads/2009/04/logdents.png)
+![logdents.png](https://habi.gna.ch/wp-content/uploads/2009/04/logdents.png)
 
 
 

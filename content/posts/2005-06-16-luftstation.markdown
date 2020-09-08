@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-06-16 22:05:09+00:00
-link: http://habi.gna.ch/2005/06/17/luftstation/
+link: https://habi.gna.ch/2005/06/17/luftstation/
 slug: luftstation
 title: luftstation
 wordpress_id: 27

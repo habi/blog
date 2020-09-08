@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-11-14 20:56:26+00:00
-link: http://habi.gna.ch/2004/11/14/picture-of-the-week-47/
+link: https://habi.gna.ch/2004/11/14/picture-of-the-week-47/
 slug: picture-of-the-week-47
 title: picture of the week 47
 wordpress_id: 673
@@ -15,7 +15,7 @@ the picture of this week is especially for [raph](http://velocite.ch/article.php
 
 
 
-[![Dsc03852](http://habi.gna.ch/blog/images/DSC03852-tm.jpg)](http://habi.gna.ch/blog/images/DSC03852.jpg)
+[![Dsc03852](https://habi.gna.ch/blog/images/DSC03852-tm.jpg)](https://habi.gna.ch/blog/images/DSC03852.jpg)
 
 
 

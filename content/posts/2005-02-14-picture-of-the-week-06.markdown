@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-02-14 18:57:59+00:00
-link: http://habi.gna.ch/2005/02/14/picture-of-the-week-06/
+link: https://habi.gna.ch/2005/02/14/picture-of-the-week-06/
 slug: picture-of-the-week-06
 title: picture of the week 06
 wordpress_id: 736
@@ -15,5 +15,5 @@ i spent the weekend in [lech](http://www.lech-zuers.at/Default.asp) with mara. w
 
 
 
-[![Dsc04349](http://habi.gna.ch/blog/images/DSC04349-tm.jpg)](http://habi.gna.ch/blog/images/DSC04349.jpg)
+[![Dsc04349](https://habi.gna.ch/blog/images/DSC04349-tm.jpg)](https://habi.gna.ch/blog/images/DSC04349.jpg)
 

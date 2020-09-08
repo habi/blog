@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-12-25 20:49:42+00:00
-link: http://habi.gna.ch/2008/12/25/im-offline/
+link: https://habi.gna.ch/2008/12/25/im-offline/
 slug: im-offline
 title: i'm offline
 wordpress_id: 1602
@@ -19,7 +19,7 @@ it seems harder and harder each year: whenever holiday season comes nearer, i by
 
 
 
-[![IMG_0001.PNG](http://habi.gna.ch/wp-content/uploads/2008/12/img-0001.jpg)](http://habi.gna.ch/wp-content/uploads/2008/12/img-0001.png)
+[![IMG_0001.PNG](https://habi.gna.ch/wp-content/uploads/2008/12/img-0001.jpg)](https://habi.gna.ch/wp-content/uploads/2008/12/img-0001.png)
 
 
 

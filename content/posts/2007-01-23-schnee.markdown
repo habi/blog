@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-01-23 18:58:31+00:00
-link: http://habi.gna.ch/2007/01/23/schnee/
+link: https://habi.gna.ch/2007/01/23/schnee/
 slug: schnee
 title: schnee?
 wordpress_id: 846

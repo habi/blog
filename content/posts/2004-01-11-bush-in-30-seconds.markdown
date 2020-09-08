@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-11 22:47:03+00:00
-link: http://habi.gna.ch/2004/01/12/bush-in-30-seconds/
+link: https://habi.gna.ch/2004/01/12/bush-in-30-seconds/
 slug: bush-in-30-seconds
 title: bush in 30 seconds
 wordpress_id: 402

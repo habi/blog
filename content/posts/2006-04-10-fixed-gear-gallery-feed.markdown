@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-04-10 17:07:59+00:00
-link: http://habi.gna.ch/2006/04/10/fixed-gear-gallery-feed/
+link: https://habi.gna.ch/2006/04/10/fixed-gear-gallery-feed/
 slug: fixed-gear-gallery-feed
 title: fixed-gear-gallery feed [update]
 wordpress_id: 156

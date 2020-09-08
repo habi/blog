@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-12-28 22:42:55+00:00
-link: http://habi.gna.ch/2011/12/29/tanz-erklart-wissenschaft/
+link: https://habi.gna.ch/2011/12/29/tanz-erklart-wissenschaft/
 slug: tanz-erklart-wissenschaft
 title: Tanz erklärt Wissenschaft
 wordpress_id: 2595

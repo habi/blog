@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-06-17 04:51:48+00:00
-link: http://habi.gna.ch/2007/06/17/lolcat-for-nerds-katzencontent/
+link: https://habi.gna.ch/2007/06/17/lolcat-for-nerds-katzencontent/
 slug: lolcat-for-nerds-katzencontent
 title: lolcat for nerds [katzencontent!]
 wordpress_id: 966
@@ -12,7 +12,7 @@ categories:
 ---
 
 goes with my studying at the moment (got exams on tuesday...)
-[![ 2007 06 Schrodingers-Lolcat1-1](http://habi.gna.ch/wp-content/uploads/2007/06/2007-06-schrodingers-lolcat1-1-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/06/2007-06-schrodingers-lolcat1-1.jpg)
+[![ 2007 06 Schrodingers-Lolcat1-1](https://habi.gna.ch/wp-content/uploads/2007/06/2007-06-schrodingers-lolcat1-1-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/06/2007-06-schrodingers-lolcat1-1.jpg)
   
 image nicked from [i can has cheezburger?](http://icanhascheezburger.com/2007/06/02/im-in-ur-quantum-box/)
 

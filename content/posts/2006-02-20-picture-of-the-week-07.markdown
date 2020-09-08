@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-02-20 21:16:54+00:00
-link: http://habi.gna.ch/2006/02/20/picture-of-the-week-07/
+link: https://habi.gna.ch/2006/02/20/picture-of-the-week-07/
 slug: picture-of-the-week-07
 title: picture of the week 07
 wordpress_id: 135
@@ -18,7 +18,7 @@ it always amazes me how much snow you can find in oberwald. it makes the ugly sl
 
 
 
-[![Dsc03153](http://habi.gna.ch/blog/images/DSC03153-tm.jpg)](http://habi.gna.ch/blog/images/DSC03153.jpg)
+[![Dsc03153](https://habi.gna.ch/blog/images/DSC03153-tm.jpg)](https://habi.gna.ch/blog/images/DSC03153.jpg)
 
 
 

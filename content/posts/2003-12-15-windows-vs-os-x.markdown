@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-12-15 21:46:31+00:00
-link: http://habi.gna.ch/2003/12/15/windows-vs-os-x/
+link: https://habi.gna.ch/2003/12/15/windows-vs-os-x/
 slug: windows-vs-os-x
 title: windows vs. os x
 wordpress_id: 379
@@ -24,42 +24,42 @@ take a look at these screenshots:
 	<tr >
 		
 <td >
-[![](http://habi.gna.ch/blog/images/gna_win1-tm.jpg)](http://habi.gna.ch/blog/images/gna_win1.jpg)
+[![](https://habi.gna.ch/blog/images/gna_win1-tm.jpg)](https://habi.gna.ch/blog/images/gna_win1.jpg)
 		
 </td>
 		
 <td >
-[![](http://habi.gna.ch/blog/images/gna_x1-tm.jpg)](http://habi.gna.ch/blog/images/gna_x1.jpg)
-		
-</td>
-	</tr>
-	<tr >
-		
-<td >
-[![](http://habi.gna.ch/blog/images/gna_win2-tm.jpg)](http://habi.gna.ch/blog/images/gna_win2.jpg)
-		
-</td>
-		
-<td >
-[![](http://habi.gna.ch/blog/images/gna_x2-tm.jpg)](http://habi.gna.ch/blog/images/gna_x2.jpg)
+[![](https://habi.gna.ch/blog/images/gna_x1-tm.jpg)](https://habi.gna.ch/blog/images/gna_x1.jpg)
 		
 </td>
 	</tr>
 	<tr >
 		
 <td >
-[![](http://habi.gna.ch/blog/images/gna_win3-tm.jpg)](http://habi.gna.ch/blog/images/gna_win3.jpg)
+[![](https://habi.gna.ch/blog/images/gna_win2-tm.jpg)](https://habi.gna.ch/blog/images/gna_win2.jpg)
 		
 </td>
 		
 <td >
-[![](http://habi.gna.ch/blog/images/gna_x3-tm.jpg)](http://habi.gna.ch/blog/images/gna_x3.jpg)
+[![](https://habi.gna.ch/blog/images/gna_x2-tm.jpg)](https://habi.gna.ch/blog/images/gna_x2.jpg)
+		
+</td>
+	</tr>
+	<tr >
+		
+<td >
+[![](https://habi.gna.ch/blog/images/gna_win3-tm.jpg)](https://habi.gna.ch/blog/images/gna_win3.jpg)
+		
+</td>
+		
+<td >
+[![](https://habi.gna.ch/blog/images/gna_x3-tm.jpg)](https://habi.gna.ch/blog/images/gna_x3.jpg)
 		
 </td>
 	</tr>
 </table>
 why the hell did [no](http://www.kozary.com/mt/)-[one](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html) [tell](http://armand.bild.li/) me that my page looks shite with a windows-browser?
-today i was at school and wanted to show someone a link i had posted somewhere here and then to my amazement [habi.gna.ch](http://habi.gna.ch/) lookes a bit like the "[eyesore of the month](http://www.kunstler.com/eyesore_200311.html)" on a windows-machine.  
+today i was at school and wanted to show someone a link i had posted somewhere here and then to my amazement [habi.gna.ch](https://habi.gna.ch/) lookes a bit like the "[eyesore of the month](http://www.kunstler.com/eyesore_200311.html)" on a windows-machine.  
 
 well, it think there need to be tweaked quite a few bits and pieces in the css :-). and the sidebar (first set) looks quite ugly with these blue lines around the buttons, i think i should also change that, to prevent burnt retinas...  
 

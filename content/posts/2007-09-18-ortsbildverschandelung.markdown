@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-09-18 17:17:56+00:00
-link: http://habi.gna.ch/2007/09/18/ortsbildverschandelung/
+link: https://habi.gna.ch/2007/09/18/ortsbildverschandelung/
 slug: ortsbildverschandelung
 title: ortsbildverschandelung
 wordpress_id: 1021

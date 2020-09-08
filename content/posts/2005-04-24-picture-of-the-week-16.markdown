@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-24 22:35:03+00:00
-link: http://habi.gna.ch/2005/04/25/picture-of-the-week-16/
+link: https://habi.gna.ch/2005/04/25/picture-of-the-week-16/
 slug: picture-of-the-week-16
 title: picture of the week 16
 wordpress_id: 772
@@ -19,5 +19,5 @@ what a pity.
 
 
 
-[![Dsc00147](http://habi.gna.ch/blog/images/DSC00147-tm.jpg)](http://habi.gna.ch/blog/images/DSC00147.jpg)
+[![Dsc00147](https://habi.gna.ch/blog/images/DSC00147-tm.jpg)](https://habi.gna.ch/blog/images/DSC00147.jpg)
 

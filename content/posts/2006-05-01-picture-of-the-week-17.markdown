@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-01 17:22:03+00:00
-link: http://habi.gna.ch/2006/05/01/picture-of-the-week-17/
+link: https://habi.gna.ch/2006/05/01/picture-of-the-week-17/
 slug: picture-of-the-week-17
 title: picture of the week 17
 wordpress_id: 163
@@ -21,7 +21,7 @@ if you'd like to see some of the other participants of the race, you can do that
 
 
 
-[![Dsc03624](http://habi.gna.ch/blog/images/DSC03624-tm.jpg)](http://habi.gna.ch/blog/images/DSC03624.jpg)
+[![Dsc03624](https://habi.gna.ch/blog/images/DSC03624-tm.jpg)](https://habi.gna.ch/blog/images/DSC03624.jpg)
 
 
 

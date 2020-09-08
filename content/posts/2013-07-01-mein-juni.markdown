@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-07-01 21:37:20+00:00
-link: http://habi.gna.ch/2013/07/01/mein-juni/
+link: https://habi.gna.ch/2013/07/01/mein-juni/
 slug: mein-juni
 title: Mein Juni
 wordpress_id: 3132
@@ -14,12 +14,12 @@ tags:
 - velocontent
 ---
 
-Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/) und [Mai](http://habi.gna.ch/2013/06/01/mein-mai/) hab' ich im Juni jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
+Genau wie im [Januar](https://habi.gna.ch/2013/02/01/mein-januar/), [Februar](https://habi.gna.ch/2013/03/04/mein-februar/), [März](https://habi.gna.ch/2013/04/01/mein-marz/), [April](https://habi.gna.ch/2013/05/01/mein-april/) und [Mai](https://habi.gna.ch/2013/06/01/mein-mai/) hab' ich im Juni jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
 
 {{< vimeo 69496251 >}}
 
 Die Liste:
-* [StrongmanRun](http://habi.gna.ch/2013/06/03/strongman-run-2013-in-engelberg/) in Engelberg
+* [StrongmanRun](https://habi.gna.ch/2013/06/03/strongman-run-2013-in-engelberg/) in Engelberg
 * Sonntag Abend in der Zeughausgasse
 * Ein neuer See auf dem Arbeitsweg
 * Training
@@ -41,8 +41,8 @@ Die Liste:
 * Mountainbike EM, Team Sprint
 * Oldies-Nami im Velokurier
 * Velokurier EM, Start Finale Mainrace
-* [Velokurier EM](http://habi.gna.ch/2013/06/24/ecmc-2013/)-Fest, [Monofones](http://www.monofones.com)
-* [Video](http://habi.gna.ch/2013/06/24/ecmc-2013/)s zusammenklöppeln im Zug
+* [Velokurier EM](https://habi.gna.ch/2013/06/24/ecmc-2013/)-Fest, [Monofones](http://www.monofones.com)
+* [Video](https://habi.gna.ch/2013/06/24/ecmc-2013/)s zusammenklöppeln im Zug
 * Läck si das viu Banane
 * Sonnenuntergang auf der Brücke
 * Die sind im Fall [in Japan berühmt](https://www.facebook.com/wearebiginjapan)

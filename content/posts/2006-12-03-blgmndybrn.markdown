@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-12-03 16:34:16+00:00
-link: http://habi.gna.ch/2006/12/03/blgmndybrn/
+link: https://habi.gna.ch/2006/12/03/blgmndybrn/
 slug: blgmndybrn
 title: BLGMNDYBRN
 wordpress_id: 825

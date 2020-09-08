@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-25 07:27:04+00:00
-link: http://habi.gna.ch/2004/03/25/free-for-all-friday/
+link: https://habi.gna.ch/2004/03/25/free-for-all-friday/
 slug: free-for-all-friday
 title: Free-For-All Friday
 wordpress_id: 479
@@ -17,7 +17,7 @@ all you have to do is login and post!
 
 here's how to do it:
 
-go to [http://habi.gna.ch/blog/mt.cgi](http://habi.gna.ch/blog/mt.cgi)
+go to [https://habi.gna.ch/blog/mt.cgi](https://habi.gna.ch/blog/mt.cgi)
 login as user "**guest**" with the password "**march04**"
 click on "New Entry" on the left.
 enter a descriptive title for your post and change the "Post Status" from "Draft" to "Publish" or else nobody will see your entry.

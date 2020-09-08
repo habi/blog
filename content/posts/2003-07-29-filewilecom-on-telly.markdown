@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-29 18:08:50+00:00
-link: http://habi.gna.ch/2003/07/29/filewilecom-on-telly/
+link: https://habi.gna.ch/2003/07/29/filewilecom-on-telly/
 slug: filewilecom-on-telly
 title: filewile.com on telly
 wordpress_id: 240
@@ -11,8 +11,8 @@ categories:
 - personal
 ---
 
-I'm becoming a [superstar](http://habi.gna.ch/blog/archives/000011.html) more and more :-)
-today [Schweiz Aktuell](http://www.sfdrs.ch/system/frames/news/schweiz-aktuell/index.php) aired the little clip they made [last thursday](http://habi.gna.ch/blog/archives/000004.html).
+I'm becoming a [superstar](https://habi.gna.ch/blog/archives/000011.html) more and more :-)
+today [Schweiz Aktuell](http://www.sfdrs.ch/system/frames/news/schweiz-aktuell/index.php) aired the little clip they made [last thursday](https://habi.gna.ch/blog/archives/000004.html).
 
 Guess what? The little interview they made was on it. So i was on telly tonight...
 

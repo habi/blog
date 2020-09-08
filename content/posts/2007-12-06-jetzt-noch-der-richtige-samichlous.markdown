@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-06 20:33:58+00:00
-link: http://habi.gna.ch/2007/12/06/jetzt-noch-der-richtige-samichlous/
+link: https://habi.gna.ch/2007/12/06/jetzt-noch-der-richtige-samichlous/
 slug: jetzt-noch-der-richtige-samichlous
 title: Jetzt noch der richtige Samichlous
 wordpress_id: 1083

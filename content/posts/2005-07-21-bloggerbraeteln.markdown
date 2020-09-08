@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-07-21 18:51:36+00:00
-link: http://habi.gna.ch/2005/07/21/bloggerbraeteln/
+link: https://habi.gna.ch/2005/07/21/bloggerbraeteln/
 slug: bloggerbraeteln
 title: bloggerbraeteln
 wordpress_id: 46
@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![ Folio Curr Img Eckenga](http://habi.gna.ch/blog/images/_folio_curr_img_eckenga-tm.jpg)](http://habi.gna.ch/blog/images/_folio_curr_img_eckenga.jpg)aus aktuellem grund mal wieder deutsch;
+[![ Folio Curr Img Eckenga](https://habi.gna.ch/blog/images/_folio_curr_img_eckenga-tm.jpg)](https://habi.gna.ch/blog/images/_folio_curr_img_eckenga.jpg)aus aktuellem grund mal wieder deutsch;
 
 
 

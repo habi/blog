@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-02-22 19:06:54+00:00
-link: http://habi.gna.ch/2009/02/22/ein-samstag-nachmittag-in-der-stadt/
+link: https://habi.gna.ch/2009/02/22/ein-samstag-nachmittag-in-der-stadt/
 slug: ein-samstag-nachmittag-in-der-stadt
 title: ein samstag nachmittag in der stadt
 wordpress_id: 1645
@@ -44,7 +44,7 @@ da hugin auch fähig ist, HDR-files zu erstellen, werde ich mal versuchen, mit [
 
 
 
-  [](http://habi.gna.ch/wp-content/uploads/2009/02/bahnhofplatz-fused-crop.jpg)[![BahnhofPlatz_fused_crop.jpg](http://habi.gna.ch/wp-content/uploads/2009/02/bahnhofplatz-fused-crop1.jpg)](http://habi.gna.ch/wp-content/uploads/2009/02/bahnhofplatz-fused-crop.jpg)  
+  [](https://habi.gna.ch/wp-content/uploads/2009/02/bahnhofplatz-fused-crop.jpg)[![BahnhofPlatz_fused_crop.jpg](https://habi.gna.ch/wp-content/uploads/2009/02/bahnhofplatz-fused-crop1.jpg)](https://habi.gna.ch/wp-content/uploads/2009/02/bahnhofplatz-fused-crop.jpg)  
 
 
 

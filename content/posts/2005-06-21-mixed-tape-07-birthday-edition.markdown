@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-06-21 17:25:01+00:00
-link: http://habi.gna.ch/2005/06/21/mixed-tape-07-birthday-edition/
+link: https://habi.gna.ch/2005/06/21/mixed-tape-07-birthday-edition/
 slug: mixed-tape-07-birthday-edition
 title: mixed-tape 07 (birthday edition)
 wordpress_id: 31

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-03-28 15:45:03+00:00
-link: http://habi.gna.ch/2007/03/28/regines-laptop-3/
+link: https://habi.gna.ch/2007/03/28/regines-laptop-3/
 slug: regines-laptop-3
 title: Regines Laptop
 wordpress_id: 919

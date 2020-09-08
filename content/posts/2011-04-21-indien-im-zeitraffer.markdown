@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-04-21 20:25:12+00:00
-link: http://habi.gna.ch/2011/04/21/indien-im-zeitraffer/
+link: https://habi.gna.ch/2011/04/21/indien-im-zeitraffer/
 slug: indien-im-zeitraffer
 title: Indien im Zeitraffer
 wordpress_id: 2474

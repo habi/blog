@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-03-29 21:10:17+00:00
-link: http://habi.gna.ch/2006/03/29/automatic-bicycle-pump/
+link: https://habi.gna.ch/2006/03/29/automatic-bicycle-pump/
 slug: automatic-bicycle-pump
 title: automatic bicycle pump
 wordpress_id: 150
@@ -11,7 +11,7 @@ categories:
 - linkdump
 ---
 
-[![Parasiticpump](http://habi.gna.ch/blog/images/parasiticpump-tm.jpg)](http://habi.gna.ch/blog/images/parasiticpump.jpg)over at the makezine phil torrone links to a "[device](http://www.instructables.com/ex/i/D26152900EB11029BC4A001143E7E506/?ALLSTEPS)" which solves the hassle of pumping up a flat tire through a parasitic device.
+[![Parasiticpump](https://habi.gna.ch/blog/images/parasiticpump-tm.jpg)](https://habi.gna.ch/blog/images/parasiticpump.jpg)over at the makezine phil torrone links to a "[device](http://www.instructables.com/ex/i/D26152900EB11029BC4A001143E7E506/?ALLSTEPS)" which solves the hassle of pumping up a flat tire through a parasitic device.
 
 would be perfect for work, but i guess you'd have even more angry car-drivers around, since it uses "_conveniently available pressurized air stored in automobiles."_
 

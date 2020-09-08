@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-02-04 22:57:44+00:00
-link: http://habi.gna.ch/2011/02/05/zte-blade-oder-orange-san-francisco-im-test/
+link: https://habi.gna.ch/2011/02/05/zte-blade-oder-orange-san-francisco-im-test/
 slug: zte-blade-oder-orange-san-francisco-im-test
 title: ZTE Blade oder Orange San Francisco im Test
 wordpress_id: 2381
@@ -23,9 +23,9 @@ Da ich erst nächsten Herbst bei meinem Anbieter den Vertrag verlangern kann und
 Ich muss sagen, das Gerät beeindruckte mich deutlich mehr, als ich dem Ding für 100.- zugetraut hatte.
 Trotzdem bin ich nach dem Testzeitraum wieder zu meinem iPhone zuruckgekehrt, das hat aber mehr mit einer Tasse Tee und dem doch nicht ganz wasserdichten ZTE Blade und meiner Musikhor-Einrichtung im Buro zu tun als mit dem erstaunlich guten ZTE Blade.
 
-Wer sich für den Kurztest, welcher in der BZ erschienen ist, interessiert, findet den Artikel [hier auf der BZ-Website](http://www.bernerzeitung.ch/digital/mobil/Wie-gut-kann-ein-Smartphone-fuer-100-Franken-sein/story/16744182) oder [hier als PDF](http://habi.gna.ch/wp-content/uploads/2011/02/BZ-Digital-SanFrancisco.pdf) oder kann den Artikel unten direkt eingebunden lesen.
+Wer sich für den Kurztest, welcher in der BZ erschienen ist, interessiert, findet den Artikel [hier auf der BZ-Website](http://www.bernerzeitung.ch/digital/mobil/Wie-gut-kann-ein-Smartphone-fuer-100-Franken-sein/story/16744182) oder [hier als PDF](https://habi.gna.ch/wp-content/uploads/2011/02/BZ-Digital-SanFrancisco.pdf) oder kann den Artikel unten direkt eingebunden lesen.
 
-<iframe src="https://docs.google.com/viewer?url=http://habi.gna.ch/wp-content/uploads/2011/02/BZ-Digital-SanFrancisco.pdf&amp;embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://habi.gna.ch/wp-content/uploads/2011/02/BZ-Digital-SanFrancisco.pdf&amp;embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 Wenn noch Fragen zum Telefon auftauchen, kann ich diese gerne in den Kommentaren hier beantworten.
 

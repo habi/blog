@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-02-28 15:11:26+00:00
-link: http://habi.gna.ch/2009/02/28/ein-wundertag/
+link: https://habi.gna.ch/2009/02/28/ein-wundertag/
 slug: ein-wundertag
 title: Ein Wundertag
 wordpress_id: 1674

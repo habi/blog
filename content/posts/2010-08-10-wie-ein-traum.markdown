@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-08-10 20:57:17+00:00
-link: http://habi.gna.ch/2010/08/10/wie-ein-traum/
+link: https://habi.gna.ch/2010/08/10/wie-ein-traum/
 slug: wie-ein-traum
 title: Wie ein Traum
 wordpress_id: 2173

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-07-03 19:51:02+00:00
-link: http://habi.gna.ch/2006/07/03/picture-of-the-week-26-2/
+link: https://habi.gna.ch/2006/07/03/picture-of-the-week-26-2/
 slug: picture-of-the-week-26-2
 title: picture of the week 26
 wordpress_id: 196
@@ -23,7 +23,7 @@ the water was rather cloudy and [not very warm](http://gutfeldt.ch/matthias/blog
 
 
 
-[![Urs](http://habi.gna.ch/blog/images/DSC04117-tm.jpg)](http://habi.gna.ch/blog/images/DSC04117.jpg)
+[![Urs](https://habi.gna.ch/blog/images/DSC04117-tm.jpg)](https://habi.gna.ch/blog/images/DSC04117.jpg)
 
 
 

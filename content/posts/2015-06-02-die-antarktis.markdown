@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-06-02 20:16:31+00:00
-link: http://habi.gna.ch/2015/06/02/die-antarktis/
+link: https://habi.gna.ch/2015/06/02/die-antarktis/
 slug: die-antarktis
 title: Die Antarktis
 wordpress_id: 3948

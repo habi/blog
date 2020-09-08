@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-05-20 08:29:05+00:00
-link: http://habi.gna.ch/2009/05/20/us-amerikanische-coolness-folge-23/
+link: https://habi.gna.ch/2009/05/20/us-amerikanische-coolness-folge-23/
 slug: us-amerikanische-coolness-folge-23
 title: 'us-amerikanische coolness: folge 23'
 wordpress_id: 1762

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-22 19:28:50+00:00
-link: http://habi.gna.ch/2003/10/22/improving-safari/
+link: https://habi.gna.ch/2003/10/22/improving-safari/
 slug: improving-safari
 title: improving safari
 wordpress_id: 320
@@ -15,6 +15,6 @@ tired of all these [ads](http://www.doubleclick.com/us/) that show up on [cnn.co
 
 well, then welcome [saft](http://haoli.dnsalias.com/Saft/index.html) and [pithhelmet](http://culater.net/osd/PithHelmet/PithHelmet.html) on [your system](http://www.apple.com/macosx/) :-)
 
-without pithhelmet: [![](http://habi.gna.ch/blog/images/without_pith-tm.jpg)](http://habi.gna.ch/blog/images/without_pith.jpg)
+without pithhelmet: [![](https://habi.gna.ch/blog/images/without_pith-tm.jpg)](https://habi.gna.ch/blog/images/without_pith.jpg)
 
-with pithhelmet active: [![](http://habi.gna.ch/blog/images/with_pith-tm.jpg)](http://habi.gna.ch/blog/images/with_pith.jpg)
+with pithhelmet active: [![](https://habi.gna.ch/blog/images/with_pith-tm.jpg)](https://habi.gna.ch/blog/images/with_pith.jpg)

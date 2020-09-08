@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-02-25 21:36:14+00:00
-link: http://habi.gna.ch/2017/02/25/wintersport-ort/
+link: https://habi.gna.ch/2017/02/25/wintersport-ort/
 slug: wintersport-ort
 title: Wintersport-Ort
 wordpress_id: 5032

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-10-05 19:05:01+00:00
-link: http://habi.gna.ch/2015/10/05/zombies-davonrennen/
+link: https://habi.gna.ch/2015/10/05/zombies-davonrennen/
 slug: zombies-davonrennen
 title: Zombies davonrennen!
 wordpress_id: 4055

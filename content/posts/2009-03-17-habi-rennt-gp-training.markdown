@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-03-17 21:33:11+00:00
-link: http://habi.gna.ch/2009/03/17/habi-rennt-gp-training/
+link: https://habi.gna.ch/2009/03/17/habi-rennt-gp-training/
 slug: habi-rennt-gp-training
 title: 'habi rennt: GP-Training'
 wordpress_id: 1681

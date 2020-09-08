@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-14 19:22:48+00:00
-link: http://habi.gna.ch/2003/10/14/blogspam/
+link: https://habi.gna.ch/2003/10/14/blogspam/
 slug: blogspam
 title: blogspam
 wordpress_id: 311
@@ -11,5 +11,5 @@ categories:
 ---
 
 well, amir shure loves my blog:
-[![](http://habi.gna.ch/blog/images/blogspam-tm.jpg)](http://habi.gna.ch/blog/images/blogspam.jpg)
+[![](https://habi.gna.ch/blog/images/blogspam-tm.jpg)](https://habi.gna.ch/blog/images/blogspam.jpg)
 he posted 5 comments on all my last entries and wants to sell me some viagrainfo; well [gfy](http://www.amishrakefight.org/gfy/) amir! (listen to [fword.wav](http://nwwebworks.home.comcast.net/images/fword.wav) on that site, it's really funny!)

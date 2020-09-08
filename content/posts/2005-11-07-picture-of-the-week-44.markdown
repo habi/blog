@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-11-07 20:15:29+00:00
-link: http://habi.gna.ch/2005/11/07/picture-of-the-week-44/
+link: https://habi.gna.ch/2005/11/07/picture-of-the-week-44/
 slug: picture-of-the-week-44
 title: picture of the week 44
 wordpress_id: 97
@@ -17,7 +17,7 @@ besides coaching my team i also found time to shoot a quick and dirty panorama o
 
 
 
-[![Higra](http://habi.gna.ch/blog/images/higra-tm.jpg)](http://habi.gna.ch/blog/images/higra.mov)
+[![Higra](https://habi.gna.ch/blog/images/higra-tm.jpg)](https://habi.gna.ch/blog/images/higra.mov)
 
 
 

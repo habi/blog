@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-29 19:58:17+00:00
-link: http://habi.gna.ch/2006/05/29/picture-of-the-week-21-2/
+link: https://habi.gna.ch/2006/05/29/picture-of-the-week-21-2/
 slug: picture-of-the-week-21-2
 title: picture of the week 21
 wordpress_id: 185
@@ -22,7 +22,7 @@ the image below shows a small plane-wreck we've seen under water. it's a panoram
 
 
 
-[![Flugi](http://habi.gna.ch/blog/images/flugi-tm.jpg)](http://habi.gna.ch/blog/images/flugi.jpg)
+[![Flugi](https://habi.gna.ch/blog/images/flugi-tm.jpg)](https://habi.gna.ch/blog/images/flugi.jpg)
 
 
 

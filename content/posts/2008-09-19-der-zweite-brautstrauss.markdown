@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-19 14:00:11+00:00
-link: http://habi.gna.ch/2008/09/19/der-zweite-brautstrauss/
+link: https://habi.gna.ch/2008/09/19/der-zweite-brautstrauss/
 slug: der-zweite-brautstrauss
 title: Der zweite Brautstrauss
 wordpress_id: 1472

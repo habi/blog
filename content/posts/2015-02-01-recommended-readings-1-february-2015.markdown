@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-02-01 20:00:31+00:00
-link: http://habi.gna.ch/2015/02/01/recommended-readings-1-february-2015/
+link: https://habi.gna.ch/2015/02/01/recommended-readings-1-february-2015/
 slug: recommended-readings-1-february-2015
 title: 'Recommended readings: 1. February 2015'
 wordpress_id: 3822

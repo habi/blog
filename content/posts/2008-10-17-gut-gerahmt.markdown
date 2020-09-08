@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-10-17 06:00:28+00:00
-link: http://habi.gna.ch/2008/10/17/gut-gerahmt/
+link: https://habi.gna.ch/2008/10/17/gut-gerahmt/
 slug: gut-gerahmt
 title: gut gerahmt [update]
 wordpress_id: 1492
@@ -15,7 +15,7 @@ tags:
 - tastentest
 ---
 
-[this](http://www.borniert.com/this-is-this/) hat mich [mal wieder](http://habi.gna.ch/?s=tastentest) gefragt, ob ich bereit wäre, für die BZ in die tasten zu greifen. in untenstehendem text versuche ich die freude an meinem [neuesten gadget](http://habi.gna.ch/2008/09/09/gadget-2/) in allgemeinverständliche form zu fassen. der text sollte heute in der BZ erscheinen, falls es denn möglich sein sollte auf der etwas unpraktischen neuen seite danach zu suchen ([hier](http://www.bernerzeitung.ch/service/suche/suche.html?key=tastentest) geht nämlich nix und [espace.ch/tastentest](http://espace.ch/tastentest) ist auch tot. auf [tastentest.bernerzeitung.ch](http://www.bernerzeitung.ch//digital/dossier/tasten-test/dossier.html) ist auch noch nix zu finden...)
+[this](http://www.borniert.com/this-is-this/) hat mich [mal wieder](https://habi.gna.ch/?s=tastentest) gefragt, ob ich bereit wäre, für die BZ in die tasten zu greifen. in untenstehendem text versuche ich die freude an meinem [neuesten gadget](https://habi.gna.ch/2008/09/09/gadget-2/) in allgemeinverständliche form zu fassen. der text sollte heute in der BZ erscheinen, falls es denn möglich sein sollte auf der etwas unpraktischen neuen seite danach zu suchen ([hier](http://www.bernerzeitung.ch/service/suche/suche.html?key=tastentest) geht nämlich nix und [espace.ch/tastentest](http://espace.ch/tastentest) ist auch tot. auf [tastentest.bernerzeitung.ch](http://www.bernerzeitung.ch//digital/dossier/tasten-test/dossier.html) ist auch noch nix zu finden...)
 
 
 **update:** bei [this drüben](http://www.borniert.com/2008/10/19/nachlese-6/) gibt's die seite im [original-layout](http://www.borniert.com/wp-content/diverses/bz_e-books.pdf), auch wenn's eher um seinen artikel über die e-book-reader geht.

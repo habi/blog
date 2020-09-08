@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-12-02 05:48:29+00:00
-link: http://habi.gna.ch/2005/12/02/advent-calendar/
+link: https://habi.gna.ch/2005/12/02/advent-calendar/
 slug: advent-calendar
 title: advent calendar
 wordpress_id: 105

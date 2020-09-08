@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-03-02 10:12:45+00:00
-link: http://habi.gna.ch/2014/03/02/adelboden-aussicht-monochromatisch/
+link: https://habi.gna.ch/2014/03/02/adelboden-aussicht-monochromatisch/
 slug: adelboden-aussicht-monochromatisch
 title: 'Adelboden: Aussicht monochromatisch'
 wordpress_id: 3383

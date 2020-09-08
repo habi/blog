@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-09-14 18:03:24+00:00
-link: http://habi.gna.ch/2006/09/14/update-comments-are-down-up-and-runnig-again/
+link: https://habi.gna.ch/2006/09/14/update-comments-are-down-up-and-runnig-again/
 slug: update-comments-are-down-up-and-runnig-again
 title: 'update: comments are down up and runnig again'
 wordpress_id: 223
@@ -19,7 +19,7 @@ thanks [sigi](http://skooba.com/) for noticing (oh, and what happened to your co
 
 
 
-[![Tinyturing](http://habi.gna.ch/blog/images/tinyturing-tm.jpg)](http://habi.gna.ch/blog/images/tinyturing.jpg)**update**: the comments-script nearly took down existenz.gna.ch (again), so someone chmodded it to 000.  i'm nearly ready to switch to [wordpress](http://wordpress.org/), if this goes on, i don't want to stress the server that much [1]. for the moment i implemented the [tinyturing-test](http://www.staggernation.com/mtplugins/TinyTuring/) from [staggernation](http://www.staggernation.com/). so all commenters must now enter a random letter into the field when they want to post a comment, as seen in the image on the right.
+[![Tinyturing](https://habi.gna.ch/blog/images/tinyturing-tm.jpg)](https://habi.gna.ch/blog/images/tinyturing.jpg)**update**: the comments-script nearly took down existenz.gna.ch (again), so someone chmodded it to 000.  i'm nearly ready to switch to [wordpress](http://wordpress.org/), if this goes on, i don't want to stress the server that much [1]. for the moment i implemented the [tinyturing-test](http://www.staggernation.com/mtplugins/TinyTuring/) from [staggernation](http://www.staggernation.com/). so all commenters must now enter a random letter into the field when they want to post a comment, as seen in the image on the right.
 
 
 

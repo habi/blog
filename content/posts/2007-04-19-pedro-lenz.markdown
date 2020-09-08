@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-04-19 18:48:50+00:00
-link: http://habi.gna.ch/2007/04/19/pedro-lenz/
+link: https://habi.gna.ch/2007/04/19/pedro-lenz/
 slug: pedro-lenz
 title: pedro lenz
 wordpress_id: 923

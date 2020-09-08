@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-02-01 07:32:21+00:00
-link: http://habi.gna.ch/2013/02/01/mein-januar/
+link: https://habi.gna.ch/2013/02/01/mein-januar/
 slug: mein-januar
 title: Mein Januar
 wordpress_id: 3026
@@ -30,13 +30,13 @@ Die Liste
 
 * Silvester in den Vidmarhallen
 * Winter-Wunderland
-* Eine schöne Brücke, [immernoch](http://habi.gna.ch/2011/11/28/on-the-road/)
+* Eine schöne Brücke, [immernoch](https://habi.gna.ch/2011/11/28/on-the-road/)
 * Ein Kanute am Mittag
 * Unglaublicher Rückenwind
 * Korrekturen, Korrekturen
 * :)
 * Geburi bei Freunden
-* [Ein geiles Konzert](http://habi.gna.ch/2013/01/08/the-national-fanfare-of-kadebostany-walking-with-a-goast/)
+* [Ein geiles Konzert](https://habi.gna.ch/2013/01/08/the-national-fanfare-of-kadebostany-walking-with-a-goast/)
 * Kalt!
 * Plötzlicher Schneesturm
 * Fiirabe

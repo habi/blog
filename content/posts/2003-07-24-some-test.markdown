@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-24 21:19:30+00:00
-link: http://habi.gna.ch/2003/07/24/some-test/
+link: https://habi.gna.ch/2003/07/24/some-test/
 slug: some-test
 title: some test
 wordpress_id: 337

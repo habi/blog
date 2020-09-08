@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-07-13 22:28:15+00:00
-link: http://habi.gna.ch/2007/07/13/best-music-video-ever-video/
+link: https://habi.gna.ch/2007/07/13/best-music-video-ever-video/
 slug: best-music-video-ever-video
 title: best. music video. ever! [video]
 wordpress_id: 993

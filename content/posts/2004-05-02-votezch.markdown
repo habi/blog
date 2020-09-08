@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-05-02 11:46:12+00:00
-link: http://habi.gna.ch/2004/05/02/votezch/
+link: https://habi.gna.ch/2004/05/02/votezch/
 slug: votezch
 title: votez.ch
 wordpress_id: 519
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-![votez_logo_klein](http://habi.gna.ch/blog/images/votez_logo_klein.gif)if you're like me and think that voting is a big part of democracy then this site might be the right thing for you: [votez.ch](http://www.votez.ch/) (for obvious reasons only in german).
+![votez_logo_klein](https://habi.gna.ch/blog/images/votez_logo_klein.gif)if you're like me and think that voting is a big part of democracy then this site might be the right thing for you: [votez.ch](http://www.votez.ch/) (for obvious reasons only in german).
 since sometimes the point of a ballot can be hard to get (especially if the title is misleading) then some background information can be really helpful to help you find your decision
 the [people behind votez.ch](http://www.votez.ch/meta/werwirsind.html) provide you with little blurbs of information for the upcoming elections or ballots and explain you the pro's and con's of every [tabling](http://dict.leo.org/?p=TPi..&search=tabling) and even tell you who says to vote yes or no (e.g. if you always vote with the SP, they tell you what the SP advises to vote).
 the good thing behind votez.ch is, that the people which are behind it do not share one political direction. they actually think that politics sucks a wee bit, but also know that it's important (especially as younger people) to cast its vote in elections.

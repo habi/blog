@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-10-30 21:22:06+00:00
-link: http://habi.gna.ch/2015/10/30/konsumations-empfehlung-mr-robot/
+link: https://habi.gna.ch/2015/10/30/konsumations-empfehlung-mr-robot/
 slug: konsumations-empfehlung-mr-robot
 title: 'Konsumations-Empfehlung: Mr. Robot'
 wordpress_id: 4082

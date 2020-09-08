@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-10-03 20:28:23+00:00
-link: http://habi.gna.ch/2007/10/03/the-scanblog-is-back/
+link: https://habi.gna.ch/2007/10/03/the-scanblog-is-back/
 slug: the-scanblog-is-back
 title: the scanblog is back!
 wordpress_id: 1048

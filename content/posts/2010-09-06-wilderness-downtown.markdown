@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-09-06 22:47:27+00:00
-link: http://habi.gna.ch/2010/09/07/wilderness-downtown/
+link: https://habi.gna.ch/2010/09/07/wilderness-downtown/
 slug: wilderness-downtown
 title: Wilderness Downtown
 wordpress_id: 2198
@@ -18,7 +18,7 @@ Genauso wie [Herr Sprain](http://sprain.ch/blog/2010/09/02/wow-the-wilderness-do
 
 
 
-![thewildernessdowntown.PNG](http://habi.gna.ch/wp-content/uploads/2010/09/thewildernessdowntown.png)
+![thewildernessdowntown.PNG](https://habi.gna.ch/wp-content/uploads/2010/09/thewildernessdowntown.png)
 
 
 

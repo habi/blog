@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-07-14 12:13:17+00:00
-link: http://habi.gna.ch/2012/07/14/statt-auf-den-hoger-rauf/
+link: https://habi.gna.ch/2012/07/14/statt-auf-den-hoger-rauf/
 slug: statt-auf-den-hoger-rauf
 title: Statt auf den Hoger rauf...
 wordpress_id: 2831

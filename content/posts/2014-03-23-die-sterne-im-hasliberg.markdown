@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-03-23 20:08:58+00:00
-link: http://habi.gna.ch/2014/03/23/die-sterne-im-hasliberg/
+link: https://habi.gna.ch/2014/03/23/die-sterne-im-hasliberg/
 slug: die-sterne-im-hasliberg
 title: Die Sterne im Hasliberg
 wordpress_id: 3401

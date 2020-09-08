@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-06 11:12:28+00:00
-link: http://habi.gna.ch/2003/08/06/panorama-software/
+link: https://habi.gna.ch/2003/08/06/panorama-software/
 slug: panorama-software
 title: panorama software
 wordpress_id: 248
@@ -16,4 +16,4 @@ But the problem with LM Stitch is that the [UI](http://www.bernhardseefeld.ch/ar
 Any suggestions are more than welcome. I would really like to use the [Pano-Tools](http://www.panoguide.com/software/reviews/panotools_v21.html), but Adobe Photoshop is just too much for my wallet!
 
 The image below is just a 3 minutes hack of a little panorama from images i made this past weekend in [silvaplana](http://www.silvaplana.ch/html/sleep/camp/camp.html) (b/w because of the demo-version):
-[![](http://habi.gna.ch/blog/images/panorama-tm.jpg)](http://habi.gna.ch/blog/images/panorama.jpg)
+[![](https://habi.gna.ch/blog/images/panorama-tm.jpg)](https://habi.gna.ch/blog/images/panorama.jpg)

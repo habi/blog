@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-03-14 14:08:54+00:00
-link: http://habi.gna.ch/2016/03/14/bettmersee/
+link: https://habi.gna.ch/2016/03/14/bettmersee/
 slug: bettmersee
 title: Bettmersee
 wordpress_id: 4362

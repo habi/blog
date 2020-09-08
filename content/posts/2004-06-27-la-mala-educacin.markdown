@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-06-27 21:21:56+00:00
-link: http://habi.gna.ch/2004/06/27/la-mala-educacin/
+link: https://habi.gna.ch/2004/06/27/la-mala-educacin/
 slug: la-mala-educacin
 title: la mala educación
 wordpress_id: 568

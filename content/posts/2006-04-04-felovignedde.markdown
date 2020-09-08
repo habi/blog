@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-04-04 18:05:50+00:00
-link: http://habi.gna.ch/2006/04/04/felovignedde/
+link: https://habi.gna.ch/2006/04/04/felovignedde/
 slug: felovignedde
 title: felovignedde
 wordpress_id: 154

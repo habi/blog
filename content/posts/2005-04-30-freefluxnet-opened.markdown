@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-30 17:54:32+00:00
-link: http://habi.gna.ch/2005/04/30/freefluxnet-opened/
+link: https://habi.gna.ch/2005/04/30/freefluxnet-opened/
 slug: freefluxnet-opened
 title: freeflux.net opened
 wordpress_id: 780

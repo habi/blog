@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-03-21 20:16:38+00:00
-link: http://habi.gna.ch/2010/03/21/im-brenpark/
+link: https://habi.gna.ch/2010/03/21/im-brenpark/
 slug: im-brenpark
 title: im bärenpark
 wordpress_id: 2069
@@ -18,4 +18,4 @@ die dame mit den kindern war nicht draussen, die fotos, welche von finn entstand
 
 speziell herausheben mochte ich aber dieses foto, welches wohl gut zu einer geschichte eines traurigen kindes passen wurde.
 
-[![DSC_6217.JPG](http://habi.gna.ch/wp-content/uploads/2010/03/DSC_6217-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2010/03/DSC_6217.jpg)
+[![DSC_6217.JPG](https://habi.gna.ch/wp-content/uploads/2010/03/DSC_6217-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2010/03/DSC_6217.jpg)

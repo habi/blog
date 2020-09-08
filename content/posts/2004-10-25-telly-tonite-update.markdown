@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-10-25 18:00:43+00:00
-link: http://habi.gna.ch/2004/10/25/telly-tonite-update/
+link: https://habi.gna.ch/2004/10/25/telly-tonite-update/
 slug: telly-tonite-update
 title: telly tonite [update]
 wordpress_id: 659

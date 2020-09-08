@@ -17,9 +17,9 @@ tags:
 
 Hier einer der Posts zu meinem 2019.
 Eine Darstellung meiner Aufenthaltsorte im vergangenen Jahr.
-Dieser und andere Posts sind unter dem Tag [`jahresrückblick19`](http://habi.gna.ch/tag/jahresruckblick19) zu finden.
+Dieser und andere Posts sind unter dem Tag [`jahresrückblick19`](https://habi.gna.ch/tag/jahresruckblick19) zu finden.
 
-Wie [letztes Jahr](http://habi.gna.ch/2019/01/16/wo-war-ich-im-2018/) lief das ganze Jahr über [WHIB](http://www.bleatinc.com/) im Hintergrund auf meinem iPhone SE.
+Wie [letztes Jahr](https://habi.gna.ch/2019/01/16/wo-war-ich-im-2018/) lief das ganze Jahr über [WHIB](http://www.bleatinc.com/) im Hintergrund auf meinem iPhone SE.
 Das heisst, dass ich jetzt ca. 18000 Datenpunkte habe, wo sich mein Telefon (und dadurch mit hoher Wahrscheinlichkeit ich) im 2019 befunden hat.
 
 Im 2109 war ich drei Mal ausserhalb der Landesgrenzen.

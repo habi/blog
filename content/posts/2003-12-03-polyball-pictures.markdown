@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-12-03 16:03:32+00:00
-link: http://habi.gna.ch/2003/12/03/polyball-pictures/
+link: https://habi.gna.ch/2003/12/03/polyball-pictures/
 slug: polyball-pictures
 title: polyball pictures
 wordpress_id: 364

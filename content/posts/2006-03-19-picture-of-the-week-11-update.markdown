@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-03-19 21:00:36+00:00
-link: http://habi.gna.ch/2006/03/19/picture-of-the-week-11-update/
+link: https://habi.gna.ch/2006/03/19/picture-of-the-week-11-update/
 slug: picture-of-the-week-11-update
 title: picture of the week 11 [update]
 wordpress_id: 144
@@ -16,7 +16,7 @@ this friday tinu and urs made a medieval diner in the castle of laupen. i'm in t
 
 
 
-[![DSC03258.JPG](http://habi.gna.ch/blog/images/DSC03258-tm.jpg)](http://habi.gna.ch/blog/images/DSC03258.jpg)
+[![DSC03258.JPG](https://habi.gna.ch/blog/images/DSC03258-tm.jpg)](https://habi.gna.ch/blog/images/DSC03258.jpg)
 
 
 

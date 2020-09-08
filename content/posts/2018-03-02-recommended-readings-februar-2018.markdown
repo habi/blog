@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-03-02 20:21:44+00:00
-link: http://habi.gna.ch/2018/03/02/recommended-readings-februar-2018/
+link: https://habi.gna.ch/2018/03/02/recommended-readings-februar-2018/
 slug: recommended-readings-februar-2018
 title: 'Recommended Readings: Februar 2018'
 wordpress_id: 5328

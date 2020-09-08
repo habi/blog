@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-23 09:45:49+00:00
-link: http://habi.gna.ch/2006/05/23/panoramas-from-the-gurten/
+link: https://habi.gna.ch/2006/05/23/panoramas-from-the-gurten/
 slug: panoramas-from-the-gurten
 title: panoramas from the gurten
 wordpress_id: 181
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-as mentioned [before](http://habi.gna.ch/blog/archives/000782.html), i also shot two panoramas from the watch-tower yesterday. because i'm on holiday preparation, i found some time to stitch them with the excellent [hugin](http://hugin.sourceforge.net/) [1].
+as mentioned [before](https://habi.gna.ch/blog/archives/000782.html), i also shot two panoramas from the watch-tower yesterday. because i'm on holiday preparation, i found some time to stitch them with the excellent [hugin](http://hugin.sourceforge.net/) [1].
   
 both panoramas below were shot hand-held, without a tripod and without aperture-control (i need that with my next camera...). the original images were resized to 1024*768 pixels to prevent harddisk-bloat, and then stitched.
   
@@ -21,7 +21,7 @@ with the free program [make cubic](http://developer.apple.com/quicktime/quicktim
 
 here's the one i shot from the center of the tower:
   
-[![Gurten Turm Zentrum](http://habi.gna.ch/blog/images/gurten_turm_zentrum-tm.jpg)](http://habi.gna.ch/blog/images/gurten_turm_zentrum.mov) (1.7mb .mov)
+[![Gurten Turm Zentrum](https://habi.gna.ch/blog/images/gurten_turm_zentrum-tm.jpg)](https://habi.gna.ch/blog/images/gurten_turm_zentrum.mov) (1.7mb .mov)
   
 this image was quite tricky to assemble, mostly because of the distortion of the wooden beams in contrast to the not distorted heaven. maybe i should start carrying a tripod around...  
 
@@ -30,7 +30,7 @@ this image was quite tricky to assemble, mostly because of the distortion of the
 
 and here's the one i shot from the handrail:
   
-[![Gurten Aussen-1](http://habi.gna.ch/blog/images/gurten_aussen-1-tm.jpg)](http://habi.gna.ch/blog/images/gurten_aussen-1.mov)(1.8mb .mov)
+[![Gurten Aussen-1](https://habi.gna.ch/blog/images/gurten_aussen-1-tm.jpg)](https://habi.gna.ch/blog/images/gurten_aussen-1.mov)(1.8mb .mov)
   
 this image was assembled fully automatic using [autopano-sift](http://user.cs.tu-berlin.de/~nowozin/autopano-sift/), hugin and makecubic. no intervention from me except clicking some buttons and dragging a file to the dock. nifty, innit?  
 

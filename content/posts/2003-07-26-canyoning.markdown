@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-26 19:39:58+00:00
-link: http://habi.gna.ch/2003/07/26/canyoning/
+link: https://habi.gna.ch/2003/07/26/canyoning/
 slug: canyoning
 title: Canyoning
 wordpress_id: 233
@@ -24,7 +24,7 @@ If you're in switzerland, and have nothing else to do, go to Interlaken and do t
 
 
 The picture here shows the view from the base of [Outdoor Interlaken](http://www.outdoor-interlaken.ch/) to the [Jungrau Region.](http://www.jungfrau.ch/)
-[![](http://habi.gna.ch/blog/images/Picture(2)-tm.jpg)](http://habi.gna.ch/blog/images/Picture(2).jpg)
+[![](https://habi.gna.ch/blog/images/Picture(2)-tm.jpg)](https://habi.gna.ch/blog/images/Picture(2).jpg)
 
 
 

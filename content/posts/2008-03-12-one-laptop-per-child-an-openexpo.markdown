@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-03-12 13:33:45+00:00
-link: http://habi.gna.ch/2008/03/12/one-laptop-per-child-an-openexpo/
+link: https://habi.gna.ch/2008/03/12/one-laptop-per-child-an-openexpo/
 slug: one-laptop-per-child-an-openexpo
 title: One Laptop per child an OpenExpo
 wordpress_id: 1214

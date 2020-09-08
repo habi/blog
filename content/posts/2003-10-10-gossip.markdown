@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-10 14:04:54+00:00
-link: http://habi.gna.ch/2003/10/10/gossip/
+link: https://habi.gna.ch/2003/10/10/gossip/
 slug: gossip
 title: gossip!
 wordpress_id: 304
@@ -11,4 +11,4 @@ categories:
 ---
 
 if you want to create a real-looking gossip magazine-title-page sporting your friends, then [quickbrews dirt-generator](http://www.quickbrew.com/dirt/) has the tools for you :-)
-[![](http://habi.gna.ch/blog/images/dirt-tm.jpg)](http://habi.gna.ch/blog/images/dirt.jpg)
+[![](https://habi.gna.ch/blog/images/dirt-tm.jpg)](https://habi.gna.ch/blog/images/dirt.jpg)

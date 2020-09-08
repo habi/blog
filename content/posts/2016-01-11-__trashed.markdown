@@ -2,14 +2,14 @@
 author: admin
 comments: true
 date: 2016-01-11 22:12:11+00:00
-link: http://habi.gna.ch/2016/01/11/__trashed/
+link: https://habi.gna.ch/2016/01/11/__trashed/
 published: false
 slug: __trashed
 title: Mein Blog-Jahr 2015, mit
 wordpress_id: 4274
 ---
 
-Hier ein weiterer meiner Jahresrückblick 2015-Posts. Die anderen sind unter dem Tag [`jahresrückblick15`](http://habi.gna.ch/tag/jahresruckblick15) zu finden.
+Hier ein weiterer meiner Jahresrückblick 2015-Posts. Die anderen sind unter dem Tag [`jahresrückblick15`](https://habi.gna.ch/tag/jahresruckblick15) zu finden.
 
 
 
@@ -45,4 +45,4 @@ Hier ein weiterer meiner Jahresrückblick 2015-Posts. Die anderen sind unter dem
 
 2016 |     5 | 0.8   | 0.213
 
-![Kommentare im 2015](http://habi.gna.ch/wp-content/uploads/2016/01/comments.png)
+![Kommentare im 2015](https://habi.gna.ch/wp-content/uploads/2016/01/comments.png)

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-09-10 15:28:37+00:00
-link: http://habi.gna.ch/2005/09/10/official-hummer-salute/
+link: https://habi.gna.ch/2005/09/10/official-hummer-salute/
 slug: official-hummer-salute
 title: official hummer salute
 wordpress_id: 70

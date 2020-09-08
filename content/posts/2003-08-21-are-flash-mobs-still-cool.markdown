@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-21 14:15:48+00:00
-link: http://habi.gna.ch/2003/08/21/are-flash-mobs-still-cool/
+link: https://habi.gna.ch/2003/08/21/are-flash-mobs-still-cool/
 slug: are-flash-mobs-still-cool
 title: are flash mobs still cool?
 wordpress_id: 265

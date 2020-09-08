@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-11-02 21:31:14+00:00
-link: http://habi.gna.ch/2018/11/02/recommended-readings-vom-oktober-2018/
+link: https://habi.gna.ch/2018/11/02/recommended-readings-vom-oktober-2018/
 slug: recommended-readings-vom-oktober-2018
 title: Recommended Readings vom Oktober 2018
 wordpress_id: 5453
@@ -27,7 +27,7 @@ Im letzten Monat las ich unter anderem folgende Texte und fand diese gut:
 * [Wenn ich laufen könnte, wär dann alles geiler?](https://www.zeit.de/campus/2018-08/querschnittlaehmung-behinderung-rollstuhl-leben-glueck/komplettansicht) (zeit.de): Ein paar Drinks zu viel, ein unüberlegter Einfall. Eigentlich wollte Tisi nur etwas Spaß haben. Seitdem ist er querschnittgelähmt. Wie lebt sich ein Leben im Wenn?
 * [What Termites Can Teach Us](https://www.newyorker.com/magazine/2018/09/17/what-termites-can-teach-us) (newyorker.com): Bis jetzt wusste ich nicht, dass Termiten keine Augen haben. Dies und Anderes habe ich gelernt, als ich diesen Text gelesen habe.
 * [Fünf Brüder und die verzweifelte Suche nach Zukunft](https://www.stern.de/panorama/weltgeschehen/honduras--fuenf-brueder-und-die-verzweifelte-suche-nach-zukunft-8365866.html) (stern.de): Sie waren unzertrennlich. Dann zwangen Verbrecherbanden in Honduras sie zur Flucht, und die USA machten sie zu Illegalen. Eine Familiengeschichte über die verzweifelte Suche nach einer Zukunft in unerbittlichen Zeiten. 
-* [Some call us hoarders—I like to say we’re archivists](https://arstechnica.com/gaming/2018/10/the-internets-keepers-some-call-us-hoarders-i-like-to-say-were-archivists/) (arstechnica.com): Das Internet-Archiv speichert das Internet (z.B. ist der älteste Snapshot von meiner Seite hier aus dem [August 2003](https://web.archive.org/web/20030810003530/http://habi.gna.ch:80/)...) und ist eine der wenigen Stiftungen, die 'was mit dem Netz machen, an die ich jedes Jahr etwas spende. Ars Technica erzählt darüber, was das Internet Archiv macht und wieso es wichtig ist.
+* [Some call us hoarders—I like to say we’re archivists](https://arstechnica.com/gaming/2018/10/the-internets-keepers-some-call-us-hoarders-i-like-to-say-were-archivists/) (arstechnica.com): Das Internet-Archiv speichert das Internet (z.B. ist der älteste Snapshot von meiner Seite hier aus dem [August 2003](https://web.archive.org/web/20030810003530/https://habi.gna.ch:80/)...) und ist eine der wenigen Stiftungen, die 'was mit dem Netz machen, an die ich jedes Jahr etwas spende. Ars Technica erzählt darüber, was das Internet Archiv macht und wieso es wichtig ist.
 * [Ich möchte für das Schlechte stehen – Männer müssen endlich über ihre Depressionen reden](https://www.vice.com/de_at/article/vbj8y8/ich-mochte-fur-das-schlechte-stehen-manner-mussen-endlich-uber-ihre-depressionen-reden) (vice.com): Darüber reden hilft, auch wenn es schwierig ist. Gerade für Männer.
 
 Im letzten Monat sah ich unter anderem folgende Videos und fand diese gut:

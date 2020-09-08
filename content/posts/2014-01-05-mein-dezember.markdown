@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-01-05 16:54:44+00:00
-link: http://habi.gna.ch/2014/01/05/mein-dezember/
+link: https://habi.gna.ch/2014/01/05/mein-dezember/
 slug: mein-dezember
 title: Mein Dezember
 wordpress_id: 3347
@@ -12,7 +12,7 @@ tags:
 - 1se
 ---
 
-Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/), [Mai](http://habi.gna.ch/2013/06/01/mein-mai/), [Juni](http://habi.gna.ch/2013/07/01/mein-juni/), [Juli](http://habi.gna.ch/2013/08/02/mein-juli/), [August](http://habi.gna.ch/2013/09/02/mein-august/), [September](http://habi.gna.ch/2013/10/02/mein-september/), [Oktober](http://habi.gna.ch/2013/11/03/mein-oktober/) und [November](http://habi.gna.ch/2013/12/03/mein-november/) hab’ ich im Dezember (fast) jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
+Genau wie im [Januar](https://habi.gna.ch/2013/02/01/mein-januar/), [Februar](https://habi.gna.ch/2013/03/04/mein-februar/), [März](https://habi.gna.ch/2013/04/01/mein-marz/), [April](https://habi.gna.ch/2013/05/01/mein-april/), [Mai](https://habi.gna.ch/2013/06/01/mein-mai/), [Juni](https://habi.gna.ch/2013/07/01/mein-juni/), [Juli](https://habi.gna.ch/2013/08/02/mein-juli/), [August](https://habi.gna.ch/2013/09/02/mein-august/), [September](https://habi.gna.ch/2013/10/02/mein-september/), [Oktober](https://habi.gna.ch/2013/11/03/mein-oktober/) und [November](https://habi.gna.ch/2013/12/03/mein-november/) hab’ ich im Dezember (fast) jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
 
 {{< vimeo 83420535 >}}
 

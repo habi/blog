@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-05-15 15:31:47+00:00
-link: http://habi.gna.ch/2010/05/15/us-amerikanischer-unsinn-walmart/
+link: https://habi.gna.ch/2010/05/15/us-amerikanischer-unsinn-walmart/
 slug: us-amerikanischer-unsinn-walmart
 title: 'US-amerikanischer Unsinn: Walmart'
 wordpress_id: 2127
@@ -23,6 +23,6 @@ categories:
 
 
 
-da ich wieder in den USA bin, gibt's in den nächsten tagen evtl. wieder ein paar folgen mit [us-amerikanischem sinn und unsinn](http://habi.gna.ch/?s=us-amerikanisch): dieses mal: walmart. ja, die [people of walmart](http://www.peopleofwalmart.com/?page_id=9798) gibt's auch in echt.
+da ich wieder in den USA bin, gibt's in den nächsten tagen evtl. wieder ein paar folgen mit [us-amerikanischem sinn und unsinn](https://habi.gna.ch/?s=us-amerikanisch): dieses mal: walmart. ja, die [people of walmart](http://www.peopleofwalmart.com/?page_id=9798) gibt's auch in echt.
   
 

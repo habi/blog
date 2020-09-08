@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-11-06 16:57:55+00:00
-link: http://habi.gna.ch/2005/11/06/comment-feed/
+link: https://habi.gna.ch/2005/11/06/comment-feed/
 slug: comment-feed
 title: comment feed
 wordpress_id: 95
@@ -15,7 +15,7 @@ categories:
   
 so i've modified my already present comment-feed, which i've been using to manage my comments (e.g archive nicely, edit, despam...) into a publicly available format, for all of you to consume.
   
-the comment feed can be accessed via this file: [comments.xml](http://habi.gna.ch/blog/comments.xml). 
+the comment feed can be accessed via this file: [comments.xml](https://habi.gna.ch/blog/comments.xml). 
   
 the full code is as follows [1]:
 

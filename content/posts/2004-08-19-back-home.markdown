@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-08-19 18:46:29+00:00
-link: http://habi.gna.ch/2004/08/19/back-home/
+link: https://habi.gna.ch/2004/08/19/back-home/
 slug: back-home
 title: back home
 wordpress_id: 597
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-![backhome](http://habi.gna.ch/blog/images/backhome.jpg)i'm back home, it was wonderful.
+![backhome](https://habi.gna.ch/blog/images/backhome.jpg)i'm back home, it was wonderful.
 more on  that later on.  
 
 now i start have to sift through all the mail i got. (i think about 800 mails are actually spam, mostly comment spam on this blog)

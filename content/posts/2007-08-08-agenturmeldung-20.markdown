@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-08-08 12:10:45+00:00
-link: http://habi.gna.ch/2007/08/08/agenturmeldung-20/
+link: https://habi.gna.ch/2007/08/08/agenturmeldung-20/
 slug: agenturmeldung-20
 title: Agenturmeldung 2.0
 wordpress_id: 1000

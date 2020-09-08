@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-03-18 14:12:18+00:00
-link: http://habi.gna.ch/2011/03/18/aus-der-serie-taucher-ohne-auto/
+link: https://habi.gna.ch/2011/03/18/aus-der-serie-taucher-ohne-auto/
 slug: aus-der-serie-taucher-ohne-auto
 title: 'Aus der Serie: Taucher ohne Auto'
 wordpress_id: 2418

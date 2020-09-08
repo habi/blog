@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-10 21:36:22+00:00
-link: http://habi.gna.ch/2005/04/10/finally/
+link: https://habi.gna.ch/2005/04/10/finally/
 slug: finally
 title: finally!
 wordpress_id: 760
@@ -23,7 +23,7 @@ as i said before i am quite geeky, but definitely not the [cli-person](http://en
   
 everything is still a bit rough on the edges - the toolbar is far away from useable, only flashes up for split-seconds - but it looks like HuginOSX is going to become a very important program for me (and my conscience :-).
   
-for good results you should also use [enblend](http://enblend.sourceforge.net/), another free piece of software, which nicely blends the seams between the images. the combination of[![Tateblend](http://habi.gna.ch/blog/images/tateblend-tm.jpg)](http://habi.gna.ch/blog/images/tateblend.jpg)
+for good results you should also use [enblend](http://enblend.sourceforge.net/), another free piece of software, which nicely blends the seams between the images. the combination of[![Tateblend](https://habi.gna.ch/blog/images/tateblend-tm.jpg)](https://habi.gna.ch/blog/images/tateblend.jpg)
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-12-29 16:52:16+00:00
-link: http://habi.gna.ch/2004/12/29/sad-but-true/
+link: https://habi.gna.ch/2004/12/29/sad-but-true/
 slug: sad-but-true
 title: sad but true
 wordpress_id: 702

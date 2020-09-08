@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-01-06 17:16:05+00:00
-link: http://habi.gna.ch/2009/01/06/aus-aktuellem-anlass-im-archiv-graben/
+link: https://habi.gna.ch/2009/01/06/aus-aktuellem-anlass-im-archiv-graben/
 slug: aus-aktuellem-anlass-im-archiv-graben
 title: 'aus aktuellem anlass: im archiv graben [update]'
 wordpress_id: 1617
@@ -15,7 +15,7 @@ tags:
 - skype
 ---
 
-[leo](http://leo.buettiker.org/) hat mich heute morgen per skype [1] darauf aufmerksam gemacht, dass verschiedene ganz alte links bei mir nicht mehr funktioneren, speziell beim post über den dreikönigskuchen vor 3 jahren: [dreikönigskuchen-geheimnis gelöst](http://habi.gna.ch/2005/01/10/dreiknigskuchen-geheimnis-gelst-with-short-english-explanation/) konnte das .wav-file nicht mehr abgerufen werden.
+[leo](http://leo.buettiker.org/) hat mich heute morgen per skype [1] darauf aufmerksam gemacht, dass verschiedene ganz alte links bei mir nicht mehr funktioneren, speziell beim post über den dreikönigskuchen vor 3 jahren: [dreikönigskuchen-geheimnis gelöst](https://habi.gna.ch/2005/01/10/dreiknigskuchen-geheimnis-gelst-with-short-english-explanation/) konnte das .wav-file nicht mehr abgerufen werden.
 da kam mir in den sinn, dass ich vor längerem mal an meinem .htaccess rumgebastelt habe, so dass alle aufrufe von habi.gna.ch/blog nach habi.gna.ch umgeleitet werden.
 das hatte natürlich zur folge, dass die bilder und attachments bei den alten einträgen (die noch aus der zeit von [movable type](http://www.movabletype.com/) stammen) nicht mehr aufgerufen werden konnten.
 das problem ist jetzt gelöst und falls sich jemand für das geheimnis des kleinen plastig-königs in dem kuchen interessiert, kann er dort meinen kleinen investigativen beitrag lesen und nachschauen

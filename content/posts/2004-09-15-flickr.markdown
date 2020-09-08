@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-09-15 22:22:17+00:00
-link: http://habi.gna.ch/2004/09/16/flickr/
+link: https://habi.gna.ch/2004/09/16/flickr/
 slug: flickr
 title: Flickr
 wordpress_id: 619

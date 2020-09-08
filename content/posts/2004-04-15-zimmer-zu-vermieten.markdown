@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-15 17:59:08+00:00
-link: http://habi.gna.ch/2004/04/15/zimmer-zu-vermieten/
+link: https://habi.gna.ch/2004/04/15/zimmer-zu-vermieten/
 slug: zimmer-zu-vermieten
 title: zimmer zu vermieten
 wordpress_id: 502

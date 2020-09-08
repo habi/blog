@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-04-17 11:31:42+00:00
-link: http://habi.gna.ch/2010/04/17/gruessech-herr-legende/
+link: https://habi.gna.ch/2010/04/17/gruessech-herr-legende/
 slug: gruessech-herr-legende
 title: Grüessech Herr Legende
 wordpress_id: 2097

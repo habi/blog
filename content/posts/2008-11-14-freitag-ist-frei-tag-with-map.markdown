@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-11-14 17:48:02+00:00
-link: http://habi.gna.ch/2008/11/14/freitag-ist-frei-tag-with-map/
+link: https://habi.gna.ch/2008/11/14/freitag-ist-frei-tag-with-map/
 slug: freitag-ist-frei-tag-with-map
 title: freitag ist frei-tag [with map]
 wordpress_id: 1560

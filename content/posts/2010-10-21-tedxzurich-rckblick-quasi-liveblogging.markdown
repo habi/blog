@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-10-21 20:49:01+00:00
-link: http://habi.gna.ch/2010/10/21/tedxzurich-rckblick-quasi-liveblogging/
+link: https://habi.gna.ch/2010/10/21/tedxzurich-rckblick-quasi-liveblogging/
 slug: tedxzurich-rckblick-quasi-liveblogging
 title: 'TEDxZurich: Rückblick (quasi Liveblogging) [update]'
 wordpress_id: 2249
@@ -21,7 +21,7 @@ Wie Kusito nämlich korrekt bemerkte, gab es schon zuviele, die ihre Multitaskin
 
 {{< tweet 27916129192 >}}
 
-Stattdessen habe ich wahrend den Vortragen Gedanken in meinem Moleskine-Notizbuch festgehalten. Die Notizen sind - als Quasi-Liveblogging - unten als Galerie eingebunden, oder können in einem Rutsch als [TEDxZurich-RuckblicksPDF](http://habi.gna.ch/wp-content/uploads/2010/10/20101021093744.pdf) heruntergeladen werden.
+Stattdessen habe ich wahrend den Vortragen Gedanken in meinem Moleskine-Notizbuch festgehalten. Die Notizen sind - als Quasi-Liveblogging - unten als Galerie eingebunden, oder können in einem Rutsch als [TEDxZurich-RuckblicksPDF](https://habi.gna.ch/wp-content/uploads/2010/10/20101021093744.pdf) heruntergeladen werden.
 
 ![1](https://habi.gna.ch/wp-content/uploads/2010/10/20101021093928.jpg)
 ![2](https://habi.gna.ch/wp-content/uploads/2010/10/20101021093941.jpg)
@@ -40,7 +40,7 @@ Am [Mixed Reality Lab](http://www.mixedreality.nus.edu.sg/) forscht er als Dokto
 In einer Pause hatte ich kurz die Gelegenheit mit Jef persönlich zu sprechen und bin inspiriert von den Möglichkeiten, welche die Projekte aus seinem Labor bieten können, auch wenn einige davon auf den ersten Blick etwas doof wirken.
 
 [Robin Cornelius](http://tedxzurich.com/2010/10/18/robin-cornelius-wants-to-make-clothing-traceable/) war sich nicht zu schade, auf der Bühne den Affen zu machen und hat einen engagierten Vortrag gezeigt, bei [Nicola Forster](http://tedxzurich.com/2010/10/16/nicola-forster/) war ich mir nicht sicher, ob er beim erwähnten Coaching der TEDxZurich-Sprecher und -Sprecherinnen mitgemacht hat.
-Bei [James Gruntz](http://tedxzurich.com/2010/10/14/james-gruntz/) habe ich mir aufgeschrieben, dass der Modetrend der Saison für die Herren wohl "Halstuch" lauten muss und [David Bauer](http://tedxzurich.com/2010/09/25/david-bauer-on-how-an-ancient-greek-writer-can-help-us-understand-technology/) ist seit der [78s-Geschichte](http://habi.gna.ch/2009/08/12/bilderklau-bei-www-78s-ch/) bei mir sowieso untendurch.
+Bei [James Gruntz](http://tedxzurich.com/2010/10/14/james-gruntz/) habe ich mir aufgeschrieben, dass der Modetrend der Saison für die Herren wohl "Halstuch" lauten muss und [David Bauer](http://tedxzurich.com/2010/09/25/david-bauer-on-how-an-ancient-greek-writer-can-help-us-understand-technology/) ist seit der [78s-Geschichte](https://habi.gna.ch/2009/08/12/bilderklau-bei-www-78s-ch/) bei mir sowieso untendurch.
 [Karen Tse](http://tedxzurich.com/2010/10/12/karen-tse/) berichtete in einem ebenso emotionalen wie emotional berührenden Vortrag über die Folter im asiatischen Raum.
 Dieser Vortrag zeigte mir mal wieder was für eine unsägliche Grännerei westliche [Fuck My Life](http://www.fmylife.com/)-Stories sind.
 Seid glücklich nur solche Probleme zu haben!
@@ -75,7 +75,7 @@ Kaufen werde ich es auf jeden Fall.
 [Rachel Armstrong](http://tedxzurich.com/2010/09/01/rachel-armstrong-creates-living-environments/) hat ihren [TED-Vortrag](http://www.ted.com/talks/rachel_armstrong_architecture_that_repairs_itself.html) über selbstreparierende Architektur wiederholt, bei dem ich mir nicht ganz sicher war, ob der Vortrag auf Forschungs-Details beruht, oder eher Rückhalt in einer Ihrer ScienceFiction-Geschichten findet.
 Schöne Bilder waren's auf jeden Fall.
 
-Mindestens ebenso spannend und anregend waren auch die Gespräche und der Gedankenaustausch in den Pausen, während dem [Mittagessen](http://habi.gna.ch/panoramas/tedxzurich.html) und am abschliessenden Apero.
+Mindestens ebenso spannend und anregend waren auch die Gespräche und der Gedankenaustausch in den Pausen, während dem [Mittagessen](https://habi.gna.ch/panoramas/tedxzurich.html) und am abschliessenden Apero.
 Auch wenn ich den gestrigen Tag am Institut als Arbeitstag verkauft habe konnte ich - wie erwartet - fachlich nichts von der TEDxZurich nach Hause nehmen, menschlich und gedanklich dafür aber umso mehr.
 Ein inspirierender Tag, genau nach Vorgaben der Mutterorganisation TED.
 

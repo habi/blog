@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-12-28 19:06:44+00:00
-link: http://habi.gna.ch/2004/12/28/hilarious-flash/
+link: https://habi.gna.ch/2004/12/28/hilarious-flash/
 slug: hilarious-flash
 title: hilarious flash
 wordpress_id: 701
@@ -15,7 +15,7 @@ i remember that i saw this flash linked somewhere, but i cannot remember where. 
   
 but only until i showed him what i watched, then he nearly spurted his glass of milk through his nose.
   
-if you want to see a poor hilarious guy performing in front of his webcam then you must watch this flash movie: [numanuma.swf](http://habi.gna.ch.nyud.net:8090/blog/images/numanuma.swf) (4.5mb .swf-file). but beware, it's mean, loud and addictive!
+if you want to see a poor hilarious guy performing in front of his webcam then you must watch this flash movie: [numanuma.swf](https://habi.gna.ch.nyud.net:8090/blog/images/numanuma.swf) (4.5mb .swf-file). but beware, it's mean, loud and addictive!
 
 
 

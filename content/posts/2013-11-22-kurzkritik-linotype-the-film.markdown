@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-11-22 15:54:16+00:00
-link: http://habi.gna.ch/2013/11/22/kurzkritik-linotype-the-film/
+link: https://habi.gna.ch/2013/11/22/kurzkritik-linotype-the-film/
 slug: kurzkritik-linotype-the-film
 title: 'Kurzkritik: Linotype: The Film'
 wordpress_id: 3257

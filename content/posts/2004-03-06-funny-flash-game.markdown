@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-06 15:24:33+00:00
-link: http://habi.gna.ch/2004/03/06/funny-flash-game/
+link: https://habi.gna.ch/2004/03/06/funny-flash-game/
 slug: funny-flash-game
 title: funny flash game
 wordpress_id: 460

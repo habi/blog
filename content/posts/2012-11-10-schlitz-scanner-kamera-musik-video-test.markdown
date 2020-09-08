@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-11-10 15:14:28+00:00
-link: http://habi.gna.ch/2012/11/10/schlitz-scanner-kamera-musik-video-test/
+link: https://habi.gna.ch/2012/11/10/schlitz-scanner-kamera-musik-video-test/
 slug: schlitz-scanner-kamera-musik-video-test
 title: Schlitz-Scanner-Kamera-Musik-Video-Test
 wordpress_id: 2950

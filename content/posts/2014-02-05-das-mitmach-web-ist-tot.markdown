@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-02-05 23:14:32+00:00
-link: http://habi.gna.ch/2014/02/06/das-mitmach-web-ist-tot/
+link: https://habi.gna.ch/2014/02/06/das-mitmach-web-ist-tot/
 slug: das-mitmach-web-ist-tot
 title: Das Mitmach-Web ist tot!
 wordpress_id: 3374
@@ -16,7 +16,7 @@ tags:
 - visualization
 ---
 
-Vor [fast zwei Jahren](http://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/) haben das Thema schon mal diskutiert; und befunden dass bei verschiedenen Blogs bei den Kommentaren die Peaks überschritten sind.
+Vor [fast zwei Jahren](https://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/) haben das Thema schon mal diskutiert; und befunden dass bei verschiedenen Blogs bei den Kommentaren die Peaks überschritten sind.
 
 Letzthin fiel mir ein, dass ich das doch mal wieder anschauen wollte, ob sich daran etwas geändert hat. Nach kurzer Analyse komm ich zur Aussage, dass das Mitmach-Web tot ist, jedenfalls aus meiner Sicht. Auf meinem Blog hier hab' ich den letzten drei Jahren Kommentarzustände wie 2006, also im Schnitt ca. anderthalb Kommentare pro Eintrag.
 Dafür kann es mehrere Gründe geben, der offensichtlichste ist, dass das was ich schreibe generell wenig Reaktionen hervorruft. Ein anderer Grund ist, dass sich kein Schwein für das interessiert, was ich schreibe. Oder dass generell nicht mehr so kommentiert wird, wie vor einigen Jahren.
@@ -45,4 +45,4 @@ Wer das ganze für sich selber auch anschauen möchte, sei herzlichst eingeladen
 
 [Issues](https://github.com/habi/python/issues) und Pull Requests sind herzlich willkommen, genauso wie Kommentare mit den Bildern von euch.
 
-[![habi_gna_ch.png](http://habi.gna.ch/wp-content/uploads/2014/02/habi_gna_ch-300x113.png)](http://habi.gna.ch/wp-content/uploads/2014/02/habi_gna_ch.png)
+[![habi_gna_ch.png](https://habi.gna.ch/wp-content/uploads/2014/02/habi_gna_ch-300x113.png)](https://habi.gna.ch/wp-content/uploads/2014/02/habi_gna_ch.png)

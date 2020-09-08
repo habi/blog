@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-07-21 22:27:05+00:00
-link: http://habi.gna.ch/2004/07/22/oh-and-by-the-way/
+link: https://habi.gna.ch/2004/07/22/oh-and-by-the-way/
 slug: oh-and-by-the-way
 title: oh, and by the way
 wordpress_id: 584

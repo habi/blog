@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-06-21 19:38:19+00:00
-link: http://habi.gna.ch/2012/06/21/sonderzeichen-probleme/
+link: https://habi.gna.ch/2012/06/21/sonderzeichen-probleme/
 slug: sonderzeichen-probleme
 title: Sonderzeichen-Probleme
 wordpress_id: 2820
@@ -10,7 +10,7 @@ categories:
 - technospeak
 ---
 
-Als ich letzthin jemandem das Filmli über [Terry Pratchett](http://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/) zeigen wollte, hab' ich im Archiv hier gegraben.
+Als ich letzthin jemandem das Filmli über [Terry Pratchett](https://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/) zeigen wollte, hab' ich im Archiv hier gegraben.
 Dabei ist mir aufgefallen, dass mein ganzes Wordpress-Archiv von einem komischen Sonderzeichen-[Käfer](http://en.wikipedia.org/wiki/File:H96566k.jpg) befallen war, alle Sonderzeichen wurden nicht mehr in der UTF8-Codierung angezeigt, sondern jedes ä, ö und ü war durch Ã¤, Ã¶ und Ã¼ ersetzt.
 
 Nach einer kürzeren Suche nach möglichen Problem-Ursachen hab' ich dank der Hilfe von [Mastblau](http://www.mastblau.com/2009-01-20/wordpress-auf-utf-8-umstellen/) rausgefunden, dass ich mit einer Datenbank-Befehl alle fehlerhaften Einträge korrigieren kann.

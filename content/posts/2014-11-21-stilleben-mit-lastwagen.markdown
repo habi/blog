@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-11-21 12:07:00+00:00
-link: http://habi.gna.ch/2014/11/21/stilleben-mit-lastwagen/
+link: https://habi.gna.ch/2014/11/21/stilleben-mit-lastwagen/
 slug: stilleben-mit-lastwagen
 title: Stilleben mit Lastwagen
 wordpress_id: 3620

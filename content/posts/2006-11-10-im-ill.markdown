@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-11-10 22:05:41+00:00
-link: http://habi.gna.ch/2006/11/11/im-ill/
+link: https://habi.gna.ch/2006/11/11/im-ill/
 slug: im-ill
 title: i'm ill!
 wordpress_id: 815
@@ -15,7 +15,7 @@ i'm having a slight case of [pareidolia](http://www.google.com/search?&q=define%
 last sunday i've seen cthulu in a cloath hanger, today i see a slightly skewered face grooving with a full open mouth in a simple loudspeaker
 
 
-[![Pareidolia](http://habi.gna.ch/wp-content/uploads/2006/11/images/pareidolia-tm1.jpg)](http://habi.gna.ch/wp-content/uploads/2006/11/images/pareidolia1.jpg)
+[![Pareidolia](https://habi.gna.ch/wp-content/uploads/2006/11/images/pareidolia-tm1.jpg)](https://habi.gna.ch/wp-content/uploads/2006/11/images/pareidolia1.jpg)
 
 today at the [lomotion](http://www.lomotion.ch/)-apero.
 

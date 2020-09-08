@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-10-30 11:55:17+00:00
-link: http://habi.gna.ch/2017/10/30/inselbaustelle/
+link: https://habi.gna.ch/2017/10/30/inselbaustelle/
 slug: inselbaustelle
 title: Inselbaustelle
 wordpress_id: 5213

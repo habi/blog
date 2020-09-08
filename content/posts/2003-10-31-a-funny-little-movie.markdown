@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-31 12:52:14+00:00
-link: http://habi.gna.ch/2003/10/31/a-funny-little-movie/
+link: https://habi.gna.ch/2003/10/31/a-funny-little-movie/
 slug: a-funny-little-movie
 title: a funny little movie
 wordpress_id: 331

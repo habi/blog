@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-12-01 21:03:54+00:00
-link: http://habi.gna.ch/2014/12/01/the-ridge/
+link: https://habi.gna.ch/2014/12/01/the-ridge/
 slug: the-ridge
 title: The Ridge
 wordpress_id: 3639
@@ -14,7 +14,7 @@ tags:
 - velocontent
 ---
 
-Von Danny Mc Askill hatten wir’s schon ein paar Mal, hier im Blog aber [erst einmal](http://habi.gna.ch/?s=askill).
+Von Danny Mc Askill hatten wir’s schon ein paar Mal, hier im Blog aber [erst einmal](https://habi.gna.ch/?s=askill).
 Beim neuesten Video mit ihm könnte mann lange über die Technik diskutieren, sei es die flüssige Fahrtechnik, die verwegene Klettertechnik oder die flüssige Filmtechnik.
 
 Aber mann kann auch einfach die wunderbare Landschaft der Isle of Skye geniessen.

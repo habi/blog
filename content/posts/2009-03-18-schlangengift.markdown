@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-03-18 17:37:57+00:00
-link: http://habi.gna.ch/2009/03/18/schlangengift/
+link: https://habi.gna.ch/2009/03/18/schlangengift/
 slug: schlangengift
 title: Schlangengift?
 wordpress_id: 1682

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-28 21:53:27+00:00
-link: http://habi.gna.ch/2004/04/28/what-a-silly-boy/
+link: https://habi.gna.ch/2004/04/28/what-a-silly-boy/
 slug: what-a-silly-boy
 title: what a silly boy.
 wordpress_id: 516
@@ -11,7 +11,7 @@ categories:
 ---
 
 i could slap my head!
-i've been trying to write some files to [my flash-stick](http://habi.gna.ch/blog/archives/000042.html) for about three hours now. the thing was, that the permissions were not set right, so i thought this is some unixy hiccup, no big deal.
+i've been trying to write some files to [my flash-stick](https://habi.gna.ch/blog/archives/000042.html) for about three hours now. the thing was, that the permissions were not set right, so i thought this is some unixy hiccup, no big deal.
 
 i tried to verify the disk itself and tried to repair the disk permissions using the disk utility. nothing.
 i relaunched the finder. nothing.

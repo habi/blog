@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-01 18:08:15+00:00
-link: http://habi.gna.ch/2005/04/01/movie-of-the-week-12/
+link: https://habi.gna.ch/2005/04/01/movie-of-the-week-12/
 slug: movie-of-the-week-12
 title: movie of the week 12
 wordpress_id: 754
@@ -15,7 +15,7 @@ i spent the weekend in london with nina (just like [other people did](http://www
 
 
 
-[![Bridge](http://habi.gna.ch/blog/images/bridge-tm.jpg)](http://habi.gna.ch/blog/images/bridge.mov) 
+[![Bridge](https://habi.gna.ch/blog/images/bridge-tm.jpg)](https://habi.gna.ch/blog/images/bridge.mov) 
   
 (116kb .mov)
 

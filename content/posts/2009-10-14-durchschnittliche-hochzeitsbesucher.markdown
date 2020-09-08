@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-14 14:37:36+00:00
-link: http://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/
+link: https://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/
 slug: durchschnittliche-hochzeitsbesucher
 title: Durchschnittliche Hochzeitsbesucher
 wordpress_id: 1944

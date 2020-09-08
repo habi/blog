@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-09-10 21:23:23+00:00
-link: http://habi.gna.ch/2005/09/10/happy-holidays/
+link: https://habi.gna.ch/2005/09/10/happy-holidays/
 slug: happy-holidays
 title: happy holidays!
 wordpress_id: 72

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-12-25 13:22:04+00:00
-link: http://habi.gna.ch/2008/12/25/der-nebel-lichtet-sich/
+link: https://habi.gna.ch/2008/12/25/der-nebel-lichtet-sich/
 slug: der-nebel-lichtet-sich
 title: Der nebel lichtet sich
 wordpress_id: 1610

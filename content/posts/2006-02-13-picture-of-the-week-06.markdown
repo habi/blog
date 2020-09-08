@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-02-13 21:32:55+00:00
-link: http://habi.gna.ch/2006/02/13/picture-of-the-week-06/
+link: https://habi.gna.ch/2006/02/13/picture-of-the-week-06/
 slug: picture-of-the-week-06
 title: picture of the week 06
 wordpress_id: 134
@@ -17,7 +17,7 @@ the image below shows pesche going for 1:15.39 in 100m butterfly.
 
 
 
-[![Dsc03135](http://habi.gna.ch/blog/images/DSC03135-tm.jpg)](http://habi.gna.ch/blog/images/DSC03135.jpg)
+[![Dsc03135](https://habi.gna.ch/blog/images/DSC03135-tm.jpg)](https://habi.gna.ch/blog/images/DSC03135.jpg)
 
 
 

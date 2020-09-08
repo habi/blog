@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-12-08 19:04:45+00:00
-link: http://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/
+link: https://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/
 slug: sir-terry-pratched-will-sterben
 title: Sir Terry Pratched will sterben
 wordpress_id: 2594

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-08-08 18:08:07+00:00
-link: http://habi.gna.ch/2017/08/08/recommended-readings-august-1-2017/
+link: https://habi.gna.ch/2017/08/08/recommended-readings-august-1-2017/
 slug: recommended-readings-august-1-2017
 title: 'Recommended readings: August 1, 2017'
 wordpress_id: 5147
@@ -38,7 +38,7 @@ Viel Geld geerbt und verquere politische Ansichten, eine gefährliche Kombinatio
 
   * [How I built it: Visualizing Foursquare check-ins with Mapbox + ARKit](https://blog.mapbox.com/how-i-built-this-visualizing-foursquare-check-ins-with-mapbox-arkit-ed88463992f3) (blog.mapbox.com)
 Mit [ARKit](https://developer.apple.com/arkit/) und [iOS 11](https://www.apple.com/lae/ios/ios-11-preview/) werden ein paar coole neue Apps auf uns zu kommen. Mehr davon zeigt [Made With ARKit](http://www.madewitharkit.com/).
-iOS 11 läuft übrigens [bei mir auf dem iPhone 5S](https://beta.apple.com/sp/betaprogram/) recht prima. Leider wurde [OpenPaths](http://habi.gna.ch/?s=openpaths) schon lange nicht mehr angepasst, aber [die Website davon funktioniert seit Monaten eh nicht mehr](https://twitter.com/habi/status/890876736535240704)...
+iOS 11 läuft übrigens [bei mir auf dem iPhone 5S](https://beta.apple.com/sp/betaprogram/) recht prima. Leider wurde [OpenPaths](https://habi.gna.ch/?s=openpaths) schon lange nicht mehr angepasst, aber [die Website davon funktioniert seit Monaten eh nicht mehr](https://twitter.com/habi/status/890876736535240704)...
 
 
   * [The Wetsuitman](http://www.dagbladet.no/spesial/vatdraktmysteriet/eng/) (dagbladet.no)
@@ -51,7 +51,7 @@ Funktioniert und befreit!
 
 
   * [The death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/) (washingtonpost.com)
-Ich lese einiges, wie mensch [hier](http://habi.gna.ch/category/linkdump/) sieht. Es solten aber mehr Bücher sein. Wir arbeiten dran.
+Ich lese einiges, wie mensch [hier](https://habi.gna.ch/category/linkdump/) sieht. Es solten aber mehr Bücher sein. Wir arbeiten dran.
 
 
   * [The Truth About Bananas](https://itotd.com/articles/292/the-truth-about-bananas/r2) (itotd.com)
@@ -79,7 +79,7 @@ Faszinierend, weiviel das menschliche Gehirn in ein zufälliges Bild hinein-inte
 
 
   * [The Life, Death, and Legacy of iPhone Jailbreaking](https://motherboard.vice.com/en_us/article/8xa4ka/iphone-jailbreak-life-death-legacy) (motherboard.vice.com)
-[Irgendwann (2009)](http://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/) hatte ich auch ein iPhone mit Jailbreak. Heute bin ich froh, wenn das Ding einfach läuft, Fotos macht und mich telefonieren lässt :)
+[Irgendwann (2009)](https://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/) hatte ich auch ein iPhone mit Jailbreak. Heute bin ich froh, wenn das Ding einfach läuft, Fotos macht und mich telefonieren lässt :)
 
 
   * [Is the staggeringly profitable business of scientific publishing bad for science?](http://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science) (theguardian.com)
@@ -130,7 +130,7 @@ Inklusive [falkenförmigem Flughafen-Gebäude](http://www.openstreetmap.org/#map
 
   * [Dip Transform for 3D Shape Reconstruction](https://www.youtube.com/watch?v=yHvyPnkuAiw) (youtube.com)
 Simple aber nicht ganz einfache Methode, um die dreidimensionale Form von Gegenständen zu rekonstruieren.
-Ich bevorzuge aber immer noch ein [(Mikro)-CT](http://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/) :)
+Ich bevorzuge aber immer noch ein [(Mikro)-CT](https://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/) :)
 
 
   * [Als die Sonne vom Himmel fiel - Eine Spurensuche in Hiroshima](https://www.srf.ch/play/tv/me_chfilmszene/video/als-die-sonne-vom-himmel-fiel?id=b7bd4eb7-c986-4be9-bba5-871dfc80da0c) (srf.ch)

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-03-24 18:00:34+00:00
-link: http://habi.gna.ch/2011/03/24/digitaler-reset/
+link: https://habi.gna.ch/2011/03/24/digitaler-reset/
 slug: digitaler-reset
 title: Digitaler Reset
 wordpress_id: 2422
@@ -16,7 +16,7 @@ tags:
 - zen
 ---
 
-Eine Erkenntnis der letzten Wochen: Ich verbringe zuviel Zeit vor dem Computer. Gleichzeitig geniesse ich es, [Sachen](http://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) zu [basteln](http://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/), [Fotos zu machen](http://www.flickr.com/photos/habi/) und [Videos](http://vimeo.com/habi) zusammenzuschneiden. Vielfach verbringe ich aber ganze Abende und lese mich durch die News in meinen gut 150 Feeds durch. Gleichzeitig stapeln sich auf meinem Nachttisch Bucher und Comics, die ich teilweise seit mehreren Monaten lesen will [1]. Ich schaffe es mit Muhe, knapp den Stapel meiner Magazine [2] abzubauen, bevor immer wieder neue Ausgaben davon im Briefkasten landen.
+Eine Erkenntnis der letzten Wochen: Ich verbringe zuviel Zeit vor dem Computer. Gleichzeitig geniesse ich es, [Sachen](https://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) zu [basteln](https://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/), [Fotos zu machen](http://www.flickr.com/photos/habi/) und [Videos](http://vimeo.com/habi) zusammenzuschneiden. Vielfach verbringe ich aber ganze Abende und lese mich durch die News in meinen gut 150 Feeds durch. Gleichzeitig stapeln sich auf meinem Nachttisch Bucher und Comics, die ich teilweise seit mehreren Monaten lesen will [1]. Ich schaffe es mit Muhe, knapp den Stapel meiner Magazine [2] abzubauen, bevor immer wieder neue Ausgaben davon im Briefkasten landen.
 
 
 
@@ -33,7 +33,7 @@ Deshalb habe ich beschlossen, vor den Ferien (ab morgen bin ich ca. 3 Wochen weg
 
   
 
-[![Google Reader: No subscriptions anymore](http://habi.gna.ch/wp-content/uploads/2011/03/Screen-shot-2011-03-25-at-17.42.37-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/03/Screen-shot-2011-03-25-at-17.42.37.png)
+[![Google Reader: No subscriptions anymore](https://habi.gna.ch/wp-content/uploads/2011/03/Screen-shot-2011-03-25-at-17.42.37-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/03/Screen-shot-2011-03-25-at-17.42.37.png)
 
   
 

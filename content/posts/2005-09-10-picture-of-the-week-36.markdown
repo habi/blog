@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-09-10 16:24:25+00:00
-link: http://habi.gna.ch/2005/09/10/picture-of-the-week-36/
+link: https://habi.gna.ch/2005/09/10/picture-of-the-week-36/
 slug: picture-of-the-week-36
 title: picture of the week 36
 wordpress_id: 71
@@ -17,7 +17,7 @@ the full set of all the pictures is online on [flickr](http://www.flickr.com/pho
 
 
 
-[![Dsc01571](http://habi.gna.ch/blog/images/DSC01571-tm.jpg)](http://habi.gna.ch/blog/images/DSC01571.jpg)
+[![Dsc01571](https://habi.gna.ch/blog/images/DSC01571-tm.jpg)](https://habi.gna.ch/blog/images/DSC01571.jpg)
 
 
 

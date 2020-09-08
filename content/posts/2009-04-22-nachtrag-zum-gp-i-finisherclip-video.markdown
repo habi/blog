@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-04-22 09:37:10+00:00
-link: http://habi.gna.ch/2009/04/22/nachtrag-zum-gp-i-finisherclip-video/
+link: https://habi.gna.ch/2009/04/22/nachtrag-zum-gp-i-finisherclip-video/
 slug: nachtrag-zum-gp-i-finisherclip-video
 title: 'nachtrag zum gp I: finisherclip [video]'
 wordpress_id: 1731

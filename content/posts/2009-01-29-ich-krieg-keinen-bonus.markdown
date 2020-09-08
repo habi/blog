@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-01-29 22:18:18+00:00
-link: http://habi.gna.ch/2009/01/29/ich-krieg-keinen-bonus/
+link: https://habi.gna.ch/2009/01/29/ich-krieg-keinen-bonus/
 slug: ich-krieg-keinen-bonus
 title: ich krieg' keinen bonus!
 wordpress_id: 1632

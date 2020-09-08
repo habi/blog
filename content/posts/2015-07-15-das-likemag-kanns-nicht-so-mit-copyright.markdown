@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-07-15 15:08:16+00:00
-link: http://habi.gna.ch/2015/07/15/das-likemag-kanns-nicht-so-mit-copyright/
+link: https://habi.gna.ch/2015/07/15/das-likemag-kanns-nicht-so-mit-copyright/
 slug: das-likemag-kanns-nicht-so-mit-copyright
 title: Das LikeMag kann's nicht so mit Copyright
 wordpress_id: 3982
@@ -80,4 +80,4 @@ Fazit 2: Die Google-Bildersuche ist sehr, sehr gut.
 
 **update:** Hier noch ein Screenshot der Seite.
 
-[![](http://habi.gna.ch/wp-content/uploads/2015/07/12-Gründe-warum-du-diesen-Sommer-auf-keinen-Fall-Bern-besuchen-solltest.-LikeMag-20150624-157x1024.jpg)](http://habi.gna.ch/wp-content/uploads/2015/07/12-Gründe-warum-du-diesen-Sommer-auf-keinen-Fall-Bern-besuchen-solltest.-LikeMag-20150624.jpg)
+[![](https://habi.gna.ch/wp-content/uploads/2015/07/12-Gründe-warum-du-diesen-Sommer-auf-keinen-Fall-Bern-besuchen-solltest.-LikeMag-20150624-157x1024.jpg)](https://habi.gna.ch/wp-content/uploads/2015/07/12-Gründe-warum-du-diesen-Sommer-auf-keinen-Fall-Bern-besuchen-solltest.-LikeMag-20150624.jpg)

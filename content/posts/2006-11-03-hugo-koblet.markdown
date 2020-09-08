@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-11-03 12:45:52+00:00
-link: http://habi.gna.ch/2006/11/03/hugo-koblet/
+link: https://habi.gna.ch/2006/11/03/hugo-koblet/
 slug: hugo-koblet
 title: Hugo Koblet
 wordpress_id: 808

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-09-15 20:27:05+00:00
-link: http://habi.gna.ch/2004/09/15/pimp-watch/
+link: https://habi.gna.ch/2004/09/15/pimp-watch/
 slug: pimp-watch
 title: pimp-watch
 wordpress_id: 618

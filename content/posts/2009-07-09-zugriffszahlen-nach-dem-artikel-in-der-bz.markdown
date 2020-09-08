@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-07-09 08:02:37+00:00
-link: http://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/
+link: https://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/
 slug: zugriffszahlen-nach-dem-artikel-in-der-bz
 title: Zugriffszahlen nach dem Artikel in der BZ
 wordpress_id: 1831
@@ -30,9 +30,9 @@ wie mensch die zugriffszahlen anschaut, die das [offizielle wordpress stats-plug
 
 
 
-[![stats](http://habi.gna.ch/wp-content/uploads/2009/07/stats-300x131.png)](http://habi.gna.ch/wp-content/uploads/2009/07/stats.png)
+[![stats](https://habi.gna.ch/wp-content/uploads/2009/07/stats-300x131.png)](https://habi.gna.ch/wp-content/uploads/2009/07/stats.png)
 
-[![analytics](http://habi.gna.ch/wp-content/uploads/2009/07/analytics-300x206.png)](http://habi.gna.ch/wp-content/uploads/2009/07/analytics.png)
+[![analytics](https://habi.gna.ch/wp-content/uploads/2009/07/analytics-300x206.png)](https://habi.gna.ch/wp-content/uploads/2009/07/analytics.png)
 
   
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-06-29 09:27:02+00:00
-link: http://habi.gna.ch/2005/06/29/mit-weblog-survey/
+link: https://habi.gna.ch/2005/06/29/mit-weblog-survey/
 slug: mit-weblog-survey
 title: mit weblog survey
 wordpress_id: 35

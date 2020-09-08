@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-01-15 21:48:02+00:00
-link: http://habi.gna.ch/2016/01/15/where-have-i-been-in-2015/
+link: https://habi.gna.ch/2016/01/15/where-have-i-been-in-2015/
 slug: where-have-i-been-in-2015
 title: Where have I been in 2015
 wordpress_id: 4301
@@ -10,9 +10,9 @@ categories:
 - personal
 ---
 
-Hier ein weiterer meiner Jahresrückblick 2015-Posts. Die anderen sind unter dem Tag [`jahresrückblick15`](http://habi.gna.ch/tag/jahresruckblick15) zu finden.
+Hier ein weiterer meiner Jahresrückblick 2015-Posts. Die anderen sind unter dem Tag [`jahresrückblick15`](https://habi.gna.ch/tag/jahresruckblick15) zu finden.
 
-Weil [das letzte Mal](http://habi.gna.ch/2015/01/07/where-was-i-in-2014/) schon auf Englisch, hier grad wieder.
+Weil [das letzte Mal](https://habi.gna.ch/2015/01/07/where-was-i-in-2014/) schon auf Englisch, hier grad wieder.
 
 
 
@@ -185,7 +185,7 @@ ggmap(mapImage) +
   ggtitle(paste("Northmost point in", whichyear))
 [/code]
 
-![North](http://habi.gna.ch/wp-content/uploads/2016/01/north.png)
+![North](https://habi.gna.ch/wp-content/uploads/2016/01/north.png)
 
 The northmost point in 2015 is in [Kiedrich](http://www.openstreetmap.org/#map=12/50.0469093/8.0828733), which is true.
 Even though I've not been in Kiedrich exactly, my mobile phone was probably connected to a tower there.
@@ -193,23 +193,23 @@ I spent two days in Ingelheim in January, at the [International Masters competit
 
 The rest of the extremes can be extracted accordingly.
 
-![East](http://habi.gna.ch/wp-content/uploads/2016/01/east.png)
+![East](https://habi.gna.ch/wp-content/uploads/2016/01/east.png)
 
 The most eastern point was in the [Rehmen](http://www.openstreetmap.org/#map=13/47.3193207/9.9988728), during the first vacation with our (then) newborn daughter in the Bregenzer Wald.
 
-![South](http://habi.gna.ch/wp-content/uploads/2016/01/south.png)
+![South](https://habi.gna.ch/wp-content/uploads/2016/01/south.png)
 
 The most southern point was in [Breuil](http://www.openstreetmap.org/#map=12/45.9165421/7.6880722), while skiing in Zermatt.
 
-![West](http://habi.gna.ch/wp-content/uploads/2016/01/west.png)
+![West](https://habi.gna.ch/wp-content/uploads/2016/01/west.png)
 
 The most western point was in [St-Sulpice VD](http://www.openstreetmap.org/#map=14/46.5186157/6.5620055), during a meeting at the [EPFL](http://epfl.ch) in Lausanne for working on the [GlobalDiagnostiX](http://globaldiagnostix.org/) project.
 
-![High](http://habi.gna.ch/wp-content/uploads/2016/01/high.png)
+![High](https://habi.gna.ch/wp-content/uploads/2016/01/high.png)
 
 The highest point in 2015 at 3399.9 m AMSL was close to Zermatt on the [Furgsattel](http://www.openstreetmap.org/#map=12/45.9506149/7.7049365).
 
-![Low](http://habi.gna.ch/wp-content/uploads/2016/01/low.png)
+![Low](https://habi.gna.ch/wp-content/uploads/2016/01/low.png)
 
 The lowest point at 84.8 m AMSL was in Gau-Algesheim, [close to Ingelheim](http://www.openstreetmap.org/#map=12/49.9693642/7.9837313).
 
@@ -234,4 +234,4 @@ ggmap(HomeBase) + geom_point(aes(x = lon, y = lat),
     ggtitle(paste("Where was Habi in Switzerland in", whichyear))
 [/code]
 
-![Switzerland](http://habi.gna.ch/wp-content/uploads/2016/01/switzerland.png)
+![Switzerland](https://habi.gna.ch/wp-content/uploads/2016/01/switzerland.png)

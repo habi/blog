@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-11-20 15:26:47+00:00
-link: http://habi.gna.ch/2006/11/20/it-has-arrived/
+link: https://habi.gna.ch/2006/11/20/it-has-arrived/
 slug: it-has-arrived
 title: It has arrived!
 wordpress_id: 817

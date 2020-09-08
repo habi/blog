@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-06-28 15:18:32+00:00
-link: http://habi.gna.ch/2006/06/28/imilk/
+link: https://habi.gna.ch/2006/06/28/imilk/
 slug: imilk
 title: imilk
 wordpress_id: 195

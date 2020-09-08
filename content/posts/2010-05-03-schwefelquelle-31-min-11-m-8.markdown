@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-05-03 22:38:06+00:00
-link: http://habi.gna.ch/2010/05/04/schwefelquelle-31-min-11-m-8/
+link: https://habi.gna.ch/2010/05/04/schwefelquelle-31-min-11-m-8/
 slug: schwefelquelle-31-min-11-m-8
 title: Schwefelquelle | 31 min | 11 m | 8° [Video]
 wordpress_id: 2108
@@ -14,7 +14,7 @@ tags:
 - diving
 ---
 
-Am Sonntag haben wir [Herr Omlins Partyboot](http://www.tt-thunersee.ch/index.php?SUB=150&ACTIVE=J&CHOSEN=15) gechartert und sind von Hilterfingen nach Ersigen über den See getuckert. Nach kurzem Briefing abgetaucht und die bekannte Schwefelquelle schnell gefunden. Dabei ist folgender Film entstanden, das Tauchgangsprofil ist [hier](http://habi.gna.ch/divelog/2010.05.02.schwefelquelle.pdf) zu finden.
+Am Sonntag haben wir [Herr Omlins Partyboot](http://www.tt-thunersee.ch/index.php?SUB=150&ACTIVE=J&CHOSEN=15) gechartert und sind von Hilterfingen nach Ersigen über den See getuckert. Nach kurzem Briefing abgetaucht und die bekannte Schwefelquelle schnell gefunden. Dabei ist folgender Film entstanden, das Tauchgangsprofil ist [hier](https://habi.gna.ch/divelog/2010.05.02.schwefelquelle.pdf) zu finden.
 
 http://vimeo.com/11446743
 

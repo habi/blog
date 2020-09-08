@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-10-09 20:21:14+00:00
-link: http://habi.gna.ch/2014/10/09/schwefelquelle/
+link: https://habi.gna.ch/2014/10/09/schwefelquelle/
 slug: schwefelquelle
 title: Schwefelquelle
 wordpress_id: 3591
@@ -12,7 +12,7 @@ post_format:
 - Video
 ---
 
-Nach ein [paar Jahren](http://habi.gna.ch/2010/05/04/schwefelquelle-31-min-11-m-8/) hab' ich's endlich mal wieder geschafft, bei den Schwefelquellen im Thunersee abzutauchen.
+Nach ein [paar Jahren](https://habi.gna.ch/2010/05/04/schwefelquelle-31-min-11-m-8/) hab' ich's endlich mal wieder geschafft, bei den Schwefelquellen im Thunersee abzutauchen.
 Speziellerweise grad drei Mal in drei Wochen.
 Das [erste Mal](http://divelog.davidhaberthuer.ch/2014.08.14.schwefelquelle.pdf) hab' ich unter Wasser gemerkt, dass die SD-Karte der Kamera noch bei [Dan](http://danward.ch) ist, weil wir letzthin ein Musikvideo in der Aare aufgenommen haben (dazu später vielleicht mehr).
 

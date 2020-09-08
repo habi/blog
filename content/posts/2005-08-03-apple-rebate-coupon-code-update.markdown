@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-08-03 17:32:36+00:00
-link: http://habi.gna.ch/2005/08/03/apple-rebate-coupon-code-update/
+link: https://habi.gna.ch/2005/08/03/apple-rebate-coupon-code-update/
 slug: apple-rebate-coupon-code-update
 title: apple rebate coupon code [update]
 wordpress_id: 56

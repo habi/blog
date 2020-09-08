@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-07-18 23:21:38+00:00
-link: http://habi.gna.ch/2008/07/19/veranstaltungstipp-desmond-companie-loutop/
+link: https://habi.gna.ch/2008/07/19/veranstaltungstipp-desmond-companie-loutop/
 slug: veranstaltungstipp-desmond-companie-loutop
 title: 'veranstaltungstipp: desmond, companie loutop'
 wordpress_id: 1292

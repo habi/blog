@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-07-01 19:00:18+00:00
-link: http://habi.gna.ch/2015/07/01/recommended-readings-1-july-2015/
+link: https://habi.gna.ch/2015/07/01/recommended-readings-1-july-2015/
 slug: recommended-readings-1-july-2015
 title: 'Recommended readings: 1. July 2015'
 wordpress_id: 3971
@@ -62,6 +62,6 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [SIGGRAPH 2015 - Technical Papers Trailer](https://www.youtube.com/watch?v=XrYkEhs2FdA): Der `technical papers trailer` der [SIGGRAPH](http://www.siggraph.org) macht einem immer wieder zu staunen.
 
 
-  * [Antarctica on Vimeo](https://vimeo.com/124858722): Siehe [hier](http://habi.gna.ch/2015/06/02/die-antarktis/).
+  * [Antarctica on Vimeo](https://vimeo.com/124858722): Siehe [hier](https://habi.gna.ch/2015/06/02/die-antarktis/).
 
 

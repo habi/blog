@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-01-17 22:39:03+00:00
-link: http://habi.gna.ch/2005/01/18/picture-of-the-week-02/
+link: https://habi.gna.ch/2005/01/18/picture-of-the-week-02/
 slug: picture-of-the-week-02
 title: picture of the week 02
 wordpress_id: 715
@@ -17,7 +17,7 @@ so the image of the last week shows you the rotten watch of the trainstation in 
 
 
 
-[![Dsc04264](http://habi.gna.ch/blog/images/DSC04264-tm.jpg)](http://habi.gna.ch/blog/images/DSC04264.jpg)
+[![Dsc04264](https://habi.gna.ch/blog/images/DSC04264-tm.jpg)](https://habi.gna.ch/blog/images/DSC04264.jpg)
 
 
 

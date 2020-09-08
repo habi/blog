@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-10-30 18:34:25+00:00
-link: http://habi.gna.ch/2010/10/30/ein-samstag-nami-in-der-stadt/
+link: https://habi.gna.ch/2010/10/30/ein-samstag-nami-in-der-stadt/
 slug: ein-samstag-nami-in-der-stadt
 title: Ein Samstag Nami in der Stadt [update]
 wordpress_id: 2273

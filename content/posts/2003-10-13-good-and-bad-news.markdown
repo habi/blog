@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-13 09:36:31+00:00
-link: http://habi.gna.ch/2003/10/13/good-and-bad-news/
+link: https://habi.gna.ch/2003/10/13/good-and-bad-news/
 slug: good-and-bad-news
 title: good and bad news
 wordpress_id: 310

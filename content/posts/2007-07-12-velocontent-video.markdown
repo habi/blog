@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-07-12 19:51:13+00:00
-link: http://habi.gna.ch/2007/07/12/velocontent-video/
+link: https://habi.gna.ch/2007/07/12/velocontent-video/
 slug: velocontent-video
 title: velocontent [video]
 wordpress_id: 992

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-01 18:14:13+00:00
-link: http://habi.gna.ch/2006/05/01/backrub-from-fscklogcom/
+link: https://habi.gna.ch/2006/05/01/backrub-from-fscklogcom/
 slug: backrub-from-fscklogcom
 title: backrub from fscklog.com
 wordpress_id: 164

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-05-14 20:49:05+00:00
-link: http://habi.gna.ch/2010/05/14/codevisualisierung-mit-gource-so-arbeitete-ich-an-meiner-diss/
+link: https://habi.gna.ch/2010/05/14/codevisualisierung-mit-gource-so-arbeitete-ich-an-meiner-diss/
 slug: codevisualisierung-mit-gource-so-arbeitete-ich-an-meiner-diss
 title: Codevisualisierung mit Gource - So arbeitete ich an meiner Diss
 wordpress_id: 2125

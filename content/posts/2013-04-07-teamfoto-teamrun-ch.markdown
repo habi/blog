@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-04-07 10:48:31+00:00
-link: http://habi.gna.ch/2013/04/07/teamfoto-teamrun-ch/
+link: https://habi.gna.ch/2013/04/07/teamfoto-teamrun-ch/
 slug: teamfoto-teamrun-ch
 title: Teamfoto teamrun.ch
 wordpress_id: 3077

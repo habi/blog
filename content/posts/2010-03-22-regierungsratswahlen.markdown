@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-03-22 21:25:31+00:00
-link: http://habi.gna.ch/2010/03/22/regierungsratswahlen/
+link: https://habi.gna.ch/2010/03/22/regierungsratswahlen/
 slug: regierungsratswahlen
 title: Regierungs- und Grossrats-Wahlen 2010 in Bern
 wordpress_id: 2073
@@ -22,17 +22,17 @@ wieder einmal war es soweit, dass in bern der regierungs- und der grossrat gewah
 
 
 
-- ich bin froh, dass [josef rothenfluh](http://habi.gna.ch/2010/02/20/wahlwerbung-fail/) von mir nicht in den regierungsrat gewahlt wird
+- ich bin froh, dass [josef rothenfluh](https://habi.gna.ch/2010/02/20/wahlwerbung-fail/) von mir nicht in den regierungsrat gewahlt wird
 
 
 
 
-- ich bin erstaunt, dass ich weiter auf dem weg zum bunzli bin. meine zustimmung zu einem ausgebauten sozialstaat und einer gesellschaftlichen liberalisierung scheinen in [den letzten jahren](http://habi.gna.ch/2008/11/29/smartvote-2008/) weiter abzunehmen. von links nach rechts sind unten meine smartspiders aus dem 2004, 2007, 2008 und von heute, 2010 zu finden:
+- ich bin erstaunt, dass ich weiter auf dem weg zum bunzli bin. meine zustimmung zu einem ausgebauten sozialstaat und einer gesellschaftlichen liberalisierung scheinen in [den letzten jahren](https://habi.gna.ch/2008/11/29/smartvote-2008/) weiter abzunehmen. von links nach rechts sind unten meine smartspiders aus dem 2004, 2007, 2008 und von heute, 2010 zu finden:
 
 
 
 
-[![smartspider2010.png](http://habi.gna.ch/wp-content/uploads/2008/11/2004smartspider.jpg)](http://habi.gna.ch/wp-content/uploads/2008/11/2004smartspider.jpg)[![smartspider2010.png](http://habi.gna.ch/wp-content/uploads/2008/11/2007smartspider.jpg)](http://habi.gna.ch/wp-content/uploads/2008/11/2007smartspider.jpg)[![smartspider2010.png](http://habi.gna.ch/wp-content/uploads/2008/11/2008smartspider.jpg)](http://habi.gna.ch/wp-content/uploads/2008/11/2008smartspider.jpg)[![smartspider2010.png](http://habi.gna.ch/wp-content/uploads/2010/03/smartspider2010-tm1.jpg)](http://habi.gna.ch/wp-content/uploads/2010/03/smartspider20101.png)
+[![smartspider2010.png](https://habi.gna.ch/wp-content/uploads/2008/11/2004smartspider.jpg)](https://habi.gna.ch/wp-content/uploads/2008/11/2004smartspider.jpg)[![smartspider2010.png](https://habi.gna.ch/wp-content/uploads/2008/11/2007smartspider.jpg)](https://habi.gna.ch/wp-content/uploads/2008/11/2007smartspider.jpg)[![smartspider2010.png](https://habi.gna.ch/wp-content/uploads/2008/11/2008smartspider.jpg)](https://habi.gna.ch/wp-content/uploads/2008/11/2008smartspider.jpg)[![smartspider2010.png](https://habi.gna.ch/wp-content/uploads/2010/03/smartspider2010-tm1.jpg)](https://habi.gna.ch/wp-content/uploads/2010/03/smartspider20101.png)
   
   
 
@@ -40,7 +40,7 @@ wieder einmal war es soweit, dass in bern der regierungs- und der grossrat gewah
 
 
 
-- ich freue mich auf den tag, an dem ich die wahlempfehlungen für den [regierungs-](http://habi.gna.ch/wp-content/uploads/2010/03/smartvote_regierungsrat.pdf) und den [grossrat](http://habi.gna.ch/wp-content/uploads/2010/03/smartvote_grossrat.pdf) nicht mehr handisch auf ein paar tote baume ubertragen muss, in ein couvert zukleben, frankieren und in einen briefkasten werfen muss, sonder einfach per mail oder ähnlichem bei den betreffenden stellen einreichen kann...
+- ich freue mich auf den tag, an dem ich die wahlempfehlungen für den [regierungs-](https://habi.gna.ch/wp-content/uploads/2010/03/smartvote_regierungsrat.pdf) und den [grossrat](https://habi.gna.ch/wp-content/uploads/2010/03/smartvote_grossrat.pdf) nicht mehr handisch auf ein paar tote baume ubertragen muss, in ein couvert zukleben, frankieren und in einen briefkasten werfen muss, sonder einfach per mail oder ähnlichem bei den betreffenden stellen einreichen kann...
 
 
 

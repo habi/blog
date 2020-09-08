@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-05-08 19:21:17+00:00
-link: http://habi.gna.ch/2018/05/08/kurzkritik-the-fall/
+link: https://habi.gna.ch/2018/05/08/kurzkritik-the-fall/
 slug: kurzkritik-the-fall
 title: 'Kurzkritik: The Fall'
 wordpress_id: 5357

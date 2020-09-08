@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-10-30 16:20:09+00:00
-link: http://habi.gna.ch/2005/10/30/picture-of-the-week-43/
+link: https://habi.gna.ch/2005/10/30/picture-of-the-week-43/
 slug: picture-of-the-week-43
 title: picture of the week 43
 wordpress_id: 90
@@ -15,7 +15,7 @@ i've been to zurich this wednesday (ninas birthday...) and was greeted with a wo
 
 
 
-[![Dsc02332](http://habi.gna.ch/blog/images/DSC02332-tm.jpg)](http://habi.gna.ch/blog/images/DSC02332.jpg)
+[![Dsc02332](https://habi.gna.ch/blog/images/DSC02332-tm.jpg)](https://habi.gna.ch/blog/images/DSC02332.jpg)
 
 
 

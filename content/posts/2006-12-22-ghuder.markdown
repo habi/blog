@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-12-22 18:42:58+00:00
-link: http://habi.gna.ch/2006/12/22/ghuder/
+link: https://habi.gna.ch/2006/12/22/ghuder/
 slug: ghuder
 title: ghüder [update]
 wordpress_id: 835
@@ -12,7 +12,7 @@ categories:
 ---
 
 [this](http://www.borniert.com/2006/12/20/ghuder/) hat die schlaue idee gehabt, den abfallkalender der stadt bern als .ics-file zur verfügung zu stellen.
-da ich auch ein bisschen knausrig bin, und mich nicht per SMS an die abfuhr erinnern lassen will und nicht wie this im kreis b wohne, hab ich mir die daten in den [kalender](http://apple.com/ical) selber eingetragen. [wer auch im kreis a wohnt](http://www.bern.ch/leben_in_bern/wohnen/abfaelle/kehricht/abfuhrdaten/), findet in [diesem .ics-file](http://habi.gna.ch/wp-content/uploads/2006/12/ghueder-kreisa.ics) die daten der papier- und metallsammlung (grünsammlung hab ich ausgelassen, weil ich keinen garten hab und meine leserInnen wohl zu verteilt wohnen, als dass es sich lohnen würde, den kalender noch genauer aufzuschlüsseln.
+da ich auch ein bisschen knausrig bin, und mich nicht per SMS an die abfuhr erinnern lassen will und nicht wie this im kreis b wohne, hab ich mir die daten in den [kalender](http://apple.com/ical) selber eingetragen. [wer auch im kreis a wohnt](http://www.bern.ch/leben_in_bern/wohnen/abfaelle/kehricht/abfuhrdaten/), findet in [diesem .ics-file](https://habi.gna.ch/wp-content/uploads/2006/12/ghueder-kreisa.ics) die daten der papier- und metallsammlung (grünsammlung hab ich ausgelassen, weil ich keinen garten hab und meine leserInnen wohl zu verteilt wohnen, als dass es sich lohnen würde, den kalender noch genauer aufzuschlüsseln.
 feedback erwünscht!
 
 

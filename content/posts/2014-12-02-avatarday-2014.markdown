@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-12-02 19:11:40+00:00
-link: http://habi.gna.ch/2014/12/02/avatarday-2014/
+link: https://habi.gna.ch/2014/12/02/avatarday-2014/
 slug: avatarday-2014
 title: AvatarDay 2014
 wordpress_id: 3644
@@ -22,4 +22,4 @@ Mersi viu Mau!
 
 Das Bild unten zeigt, dass mir von 2010 bis heute das Lachen noch nicht ganz vergangen ist, mein Bartwuchs eeeextrem langsam ist und dass ich doch ein-zwei graue Haare mehr habe. Ich freue mich, bei meinen <del>hunderten</del> vielen Online-Accounts das Foto zu wechseln und meinen digitalen Bekanntschaften ein Update zu geben, wie ich aussehe.
 
-[![Montage.jpg](http://habi.gna.ch/wp-content/uploads/2014/12/Montage-1024x513.jpg)](http://habi.gna.ch/wp-content/uploads/2014/12/Montage.jpg)
+[![Montage.jpg](https://habi.gna.ch/wp-content/uploads/2014/12/Montage-1024x513.jpg)](https://habi.gna.ch/wp-content/uploads/2014/12/Montage.jpg)

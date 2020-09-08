@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-08-22 21:14:13+00:00
-link: http://habi.gna.ch/2005/08/22/picture-of-the-week-32/
+link: https://habi.gna.ch/2005/08/22/picture-of-the-week-32/
 slug: picture-of-the-week-32
 title: picture of the week 32
 wordpress_id: 60
@@ -17,7 +17,7 @@ way to go!
 
 
 
-[![Dsc01180](http://habi.gna.ch/blog/images/DSC01180-tm.jpg)](http://habi.gna.ch/blog/images/DSC01180.jpg)
+[![Dsc01180](https://habi.gna.ch/blog/images/DSC01180-tm.jpg)](https://habi.gna.ch/blog/images/DSC01180.jpg)
 
 
 

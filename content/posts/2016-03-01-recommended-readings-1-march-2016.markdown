@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-03-01 20:00:44+00:00
-link: http://habi.gna.ch/2016/03/01/recommended-readings-1-march-2016/
+link: https://habi.gna.ch/2016/03/01/recommended-readings-1-march-2016/
 slug: recommended-readings-1-march-2016
 title: 'Recommended readings: 1. March 2016'
 wordpress_id: 4356

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-09-09 13:24:37+00:00
-link: http://habi.gna.ch/2016/09/09/thunersee-von-der-baachegg/
+link: https://habi.gna.ch/2016/09/09/thunersee-von-der-baachegg/
 slug: thunersee-von-der-baachegg
 title: Thunersee, von der Baachegg
 wordpress_id: 4624

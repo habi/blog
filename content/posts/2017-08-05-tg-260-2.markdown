@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-08-05 22:18:33+00:00
-link: http://habi.gna.ch/2017/08/06/tg-260-2/
+link: https://habi.gna.ch/2017/08/06/tg-260-2/
 slug: tg-260-2
 title: TG 260
 wordpress_id: 5144

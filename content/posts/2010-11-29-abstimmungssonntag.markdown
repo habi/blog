@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-11-29 22:52:41+00:00
-link: http://habi.gna.ch/2010/11/30/abstimmungssonntag/
+link: https://habi.gna.ch/2010/11/30/abstimmungssonntag/
 slug: abstimmungssonntag
 title: AbstimmungsSonntag
 wordpress_id: 2319
@@ -20,7 +20,7 @@ Ich sag's mit den Worten von [Dr. Farnsworth](http://en.wikipedia.org/wiki/Huber
 
 
 
-![201011292350.jpg](http://habi.gna.ch/wp-content/uploads/2010/11/201011292350.jpg)
+![201011292350.jpg](https://habi.gna.ch/wp-content/uploads/2010/11/201011292350.jpg)
 
 
 

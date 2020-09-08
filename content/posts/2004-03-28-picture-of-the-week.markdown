@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-28 22:36:51+00:00
-link: http://habi.gna.ch/2004/03/29/picture-of-the-week/
+link: https://habi.gna.ch/2004/03/29/picture-of-the-week/
 slug: picture-of-the-week
 title: picture of the week
 wordpress_id: 488
@@ -15,7 +15,7 @@ the picture below was this afternoon in the rosengarten here in bern.
 hidden behind the tree is the cathedral, the mother on the right side of the tree was telling her kid stories for the whole time i was sitting there (around two hours) which i thought was really nice.
 
 
-[![DSC00744](http://habi.gna.ch/blog/images/DSC00744-tm.jpg)](http://habi.gna.ch/blog/images/DSC00744.jpg)
+[![DSC00744](https://habi.gna.ch/blog/images/DSC00744-tm.jpg)](https://habi.gna.ch/blog/images/DSC00744.jpg)
 
 
 good night.

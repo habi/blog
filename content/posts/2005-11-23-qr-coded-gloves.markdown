@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-11-23 15:18:49+00:00
-link: http://habi.gna.ch/2005/11/23/qr-coded-gloves/
+link: https://habi.gna.ch/2005/11/23/qr-coded-gloves/
 slug: qr-coded-gloves
 title: qr coded gloves
 wordpress_id: 99
@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![Dsc02420](http://habi.gna.ch/blog/images/DSC02420-tm.jpg)](http://habi.gna.ch/blog/images/DSC02420.jpg)this afternoon i went to buy some gloves (it's getting cold at work you know :-).
+[![Dsc02420](https://habi.gna.ch/blog/images/DSC02420-tm.jpg)](https://habi.gna.ch/blog/images/DSC02420.jpg)this afternoon i went to buy some gloves (it's getting cold at work you know :-).
 
 
 

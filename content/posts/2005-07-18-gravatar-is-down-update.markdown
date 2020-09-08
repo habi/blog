@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-07-18 19:04:36+00:00
-link: http://habi.gna.ch/2005/07/18/gravatar-is-down-update/
+link: https://habi.gna.ch/2005/07/18/gravatar-is-down-update/
 slug: gravatar-is-down-update
 title: gravatar is down [update]
 wordpress_id: 44
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-you might have noticed that my [gravatars](http://habi.gna.ch/blog/archives/000576.html) are not displayed anymore. this is because gravatar.com is down at the moment[1].
+you might have noticed that my [gravatars](https://habi.gna.ch/blog/archives/000576.html) are not displayed anymore. this is because gravatar.com is down at the moment[1].
   
 there is a [workaround](http://fgiasson.com/blog/index.php?title=gravatar_com_is_down_what_could_we_do_if&more=1&amp;c=1&tb=1&pb=1), but i'll just wait for some days and see if the issue resolves itself, before i start to mess with some code.
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-11-29 20:40:37+00:00
-link: http://habi.gna.ch/2004/11/29/picture-of-the-week-49/
+link: https://habi.gna.ch/2004/11/29/picture-of-the-week-49/
 slug: picture-of-the-week-49
 title: picture of the week 49
 wordpress_id: 683
@@ -17,5 +17,5 @@ the picture below was taken at the shore of the lake of zurich, near the [kongre
 
 
 
-[![Dsc03887](http://habi.gna.ch/blog/images/DSC03887-tm.jpg)](http://habi.gna.ch/blog/images/DSC03887.jpg)
+[![Dsc03887](https://habi.gna.ch/blog/images/DSC03887-tm.jpg)](https://habi.gna.ch/blog/images/DSC03887.jpg)
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-14 22:00:01+00:00
-link: http://habi.gna.ch/2005/04/15/cory-doctorows-latest-short-story-2nd-update/
+link: https://habi.gna.ch/2005/04/15/cory-doctorows-latest-short-story-2nd-update/
 slug: cory-doctorows-latest-short-story-2nd-update
 title: cory doctorows latest short story [2nd update]
 wordpress_id: 766
@@ -13,7 +13,7 @@ categories:
 
 cory doctorow (of [boingboing-fame](http://boingboing.net/)) released a short story called [i, robot](http://www.boingboing.net/2005/02/16/corys_latest_short_s.html). since i like reading stuff on my clie while on the train or so i made a palm-doc file of the story.
   
-if you'd like to read the story on your palm, then you can get it here: [cory doctorow - i, robot.pdb](http://habi.gna.ch/blog/images/cory%20doctorow%20-%20i,%20robot.pdb) (49 kb)
+if you'd like to read the story on your palm, then you can get it here: [cory doctorow - i, robot.pdb](https://habi.gna.ch/blog/images/cory%20doctorow%20-%20i,%20robot.pdb) (49 kb)
   
 for converting the file i used [PorDiBle](http://pordible.victoly.com/), a nifty palm-doc conversion tool, which is absolutely fabulous to convert any text or rtf-file to a compressed .pdb file. this (and the [adobe reader for palm os](http://www.adobe.com/products/acrobat/readstep2.html)) helps me to read any file i want on my clie.
   

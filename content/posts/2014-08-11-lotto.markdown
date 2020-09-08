@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-08-11 16:55:24+00:00
-link: http://habi.gna.ch/2014/08/11/lotto/
+link: https://habi.gna.ch/2014/08/11/lotto/
 slug: lotto
 title: Lotto
 wordpress_id: 3559

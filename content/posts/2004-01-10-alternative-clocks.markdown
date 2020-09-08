@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-10 12:45:40+00:00
-link: http://habi.gna.ch/2004/01/10/alternative-clocks/
+link: https://habi.gna.ch/2004/01/10/alternative-clocks/
 slug: alternative-clocks
 title: alternative clocks
 wordpress_id: 401

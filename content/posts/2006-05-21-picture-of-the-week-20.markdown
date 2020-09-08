@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-21 21:08:26+00:00
-link: http://habi.gna.ch/2006/05/21/picture-of-the-week-20/
+link: https://habi.gna.ch/2006/05/21/picture-of-the-week-20/
 slug: picture-of-the-week-20
 title: picture of the week 20
 wordpress_id: 180
@@ -17,7 +17,7 @@ i shot the image below between some shots for a panorama from the look-out tower
 
 
 
-[![Dsc03795](http://habi.gna.ch/blog/images/DSC03795-tm.jpg)](http://habi.gna.ch/blog/images/DSC03795.jpg)
+[![Dsc03795](https://habi.gna.ch/blog/images/DSC03795-tm.jpg)](https://habi.gna.ch/blog/images/DSC03795.jpg)
 
 
 

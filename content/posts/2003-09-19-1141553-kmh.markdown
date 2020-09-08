@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-09-19 19:23:24+00:00
-link: http://habi.gna.ch/2003/09/19/1141553-kmh/
+link: https://habi.gna.ch/2003/09/19/1141553-kmh/
 slug: 1141553-kmh
 title: 1.141553 km/h
 wordpress_id: 281
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-![](http://habi.gna.ch/blog/images/4454km.jpg)
+![](https://habi.gna.ch/blog/images/4454km.jpg)
 today i reached 4454 km on my bike (i didn't have my [camera](http://www.sonyericsson.com/t610/overview/) with me at 4444km, so this was after i finished to work today...).
 i got my [odometer](http://dict.leo.org/?search=odometer) sometimes around the beginning of april this year. so this means that i drive around 10000 km a year on my bike, hence 1.141553 km/h (only at [work](http://velokurierbern.ch/), i drive quite a bit when i do not work...)
 i could do a lot more calculations with my odometer: i consistently drive around 100 km during one work day, and make a bit more than 200 [CHF](http://xe.com/) on one day, so for each kilometer i drive at work i earn something like a [cheap little bread](http://www.migros-shop.ch/scripts/wgate/zmos6e0e49df/~flN0YXRlPTM2MzEwNzE1OTc=?~event=parent_select&p_selected_area=100200000&p_selected_area_guid=3EA6618F3E556D0EE100000092438523&p_open_area=100200000&p_open_area_guid=3EA6618F3E556D0EE100000092438523&p_load_area=100200000&p_subcategories=X&~template=zmos_katdescr&p_selected_description=Brot+%26+Backwaren&selected_area_specific_attr_exist=&p_highlight=100200000&c_highlight=#) or one of these king-size [mars bars](http://www.awt.hr/include/images/masterfoods/mars.jpg) or half a coke in the restaurant or 2 CHF.

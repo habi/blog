@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-11-25 22:47:14+00:00
-link: http://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/
+link: https://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/
 slug: einfache-probleme-vollig-over-engineered
 title: Einfache Probleme, völlig over-engineered
 wordpress_id: 4786
@@ -24,14 +24,14 @@ Coolerweise haben wir dort einen primasuprigen [3D-Drucker](https://formlabs.com
 Und eben, letzthin waren wir in [Marokko](https://flic.kr/s/aHskNfRuHS) in den Ferien. Das war wunderbar, auch mit der Kleinen. Beim Rückflug ist an unserem Kinderwagen ein Kleinteil abgebrochen, irgendwo beim Ein- oder Ausladen, oder bein Zusammenlegen oder Auseinanderklappen, spielt ja keine Rolle...
 
 Und jetzt kommt alles zusammen: Glücklicherweise ist das Kleinteil symetrisch an unserem Kinderwagen vorhanden. Also habe ich vom noch ganzen Teil im MikroCT eine Röntgentomographie-Aufnahme gemacht. Mit etwas Bildbearbeitung entsteht aus dieser Tomografie-Aufnahme das untenstehende Bild.
-![Phil und Teds-Stück, animiert](http://habi.gna.ch/wp-content/uploads/2016/11/phil_und_ted.gif)
+![Phil und Teds-Stück, animiert](https://habi.gna.ch/wp-content/uploads/2016/11/phil_und_ted.gif)
 Dieser Datensatz kann dann in [ImageJ](http://fiji.sc/) als [STL](https://en.wikipedia.org/wiki/STL_%28file_format%29)-Datei exportiert werden, ein Datenformat, welches der 3D-Drucker versteht. Nach gut 2 Stunden Warten sieht das Ding dann - frisch aus dem Drucker - so aus.
 
-![Fertiger print, 1](http://habi.gna.ch/wp-content/uploads/2016/11/IMG_0774.jpg)
-![Fertiger print, 2](http://habi.gna.ch/wp-content/uploads/2016/11/IMG_0776.jpg)
+![Fertiger print, 1](https://habi.gna.ch/wp-content/uploads/2016/11/IMG_0774.jpg)
+![Fertiger print, 2](https://habi.gna.ch/wp-content/uploads/2016/11/IMG_0776.jpg)
 
 Farblich nicht ganz passend, aber von der Form her passt's perfekt. Nachdem die Stützstrukturen entfernt wurden kann das Ding endlich montiert werden und sieht dann so aus. Alles viel einfacher als das Ersatzteil im Laden besorgen, oder?
 
-![Montiert](http://habi.gna.ch/wp-content/uploads/2016/11/IMG_0814.jpg)
+![Montiert](https://habi.gna.ch/wp-content/uploads/2016/11/IMG_0814.jpg)
 
 Also, [Herr Chm](https://twitter.com/chm), falls bei Ihnen dasselbe Teil abbricht, melden Sie sich, ich kann's gerne nochmals ausdrucken...

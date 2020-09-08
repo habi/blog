@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-01-03 21:24:05+00:00
-link: http://habi.gna.ch/2018/01/03/wo-war-ich-im-2017/
+link: https://habi.gna.ch/2018/01/03/wo-war-ich-im-2017/
 slug: wo-war-ich-im-2017
 title: Wo war ich im 2017
 wordpress_id: 5264
@@ -17,7 +17,7 @@ tags:
 - python
 ---
 
-Anfangs Jahr ist ein guter Zeitpunkt, um aufs vergangene Jahr zurückzublicken. Das heisst, es gibt mal wieder ein paar nerdige Blogeinträge. Der Rest (wenn er dann kommt) ist unter dem Tag [`jahresrückblick17`](http://habi.gna.ch/tag/jahresruckblick17) zu finden.
+Anfangs Jahr ist ein guter Zeitpunkt, um aufs vergangene Jahr zurückzublicken. Das heisst, es gibt mal wieder ein paar nerdige Blogeinträge. Der Rest (wenn er dann kommt) ist unter dem Tag [`jahresrückblick17`](https://habi.gna.ch/tag/jahresruckblick17) zu finden.
 
 Da ich erst Mitte 2017 herausgefunden habe, dass [OpenPaths](https://openpaths.cc/) tot ist (die Daten können nicht mehr exportiert werden, auf Mails und Twitter-Nachrichten reagiert niemand), habe ich mich nach Alternativen umgesehen. Leider erst ab Juli, daher fehlen die Daten der ersten Jahreshälfte...
 Nachdem [Moves](https://moves-app.com/) ausgeschieden ist, weil es zu Facebook gehört, und [Arc](http://www.bigpaua.com/arc/) ausgeschieden ist, weil die Batterielaufzeit des Telefons massiv verringert wurde, bin ich bei [WHIB](http://www.bleatinc.com/) gelandet. Dank einem 2$-`premium`-Feature können alle aufgenommenen Daten als [CSV](https://de.wikipedia.org/wiki/CSV_(Dateiformat)) exportiert werden, das macht es möglich, mit ein [bisschen Python](https://github.com/habi/jahresrueckblick/blob/master/WHIB.ipynb) zu schauen, wo ich mich (in der zweiten Hälfte) 2017 rumgetrieben habe, als ich das Telefon dabei hatte.

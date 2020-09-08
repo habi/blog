@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-02-09 16:31:13+00:00
-link: http://habi.gna.ch/2006/02/09/multi-finger-gui/
+link: https://habi.gna.ch/2006/02/09/multi-finger-gui/
 slug: multi-finger-gui
 title: multi-finger GUI
 wordpress_id: 132
@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![Multitouch](http://habi.gna.ch/blog/images/multitouch-tm.jpg)](http://habi.gna.ch/blog/images/multitouch.jpg)it is [rumored](http://www.thinksecret.com/news/0602videoipod.html) that the next iteration of the ipod will feature a nice screen with a 3.5"-touchscreen and a digital scrollwheel.
+[![Multitouch](https://habi.gna.ch/blog/images/multitouch-tm.jpg)](https://habi.gna.ch/blog/images/multitouch.jpg)it is [rumored](http://www.thinksecret.com/news/0602videoipod.html) that the next iteration of the ipod will feature a nice screen with a 3.5"-touchscreen and a digital scrollwheel.
   
 however cool that may be, i was really impressed by that tech-demo from the new york university here: [bi-manual, multi-point, and multi-user input on a graphical interaction surface](http://mrl.nyu.edu/~jhan/ftirtouch/). it shows how one would be able to interact with an OS/GUI with multiple fingers and two hands. wicked!
   

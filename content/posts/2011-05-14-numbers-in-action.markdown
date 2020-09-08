@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-05-14 22:03:17+00:00
-link: http://habi.gna.ch/2011/05/15/numbers-in-action/
+link: https://habi.gna.ch/2011/05/15/numbers-in-action/
 slug: numbers-in-action
 title: Numbers in Action
 wordpress_id: 2487

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-02-02 18:48:27+00:00
-link: http://habi.gna.ch/2010/02/02/elektronischer-abfallkalender-bern-2010-fur-alle-kreise/
+link: https://habi.gna.ch/2010/02/02/elektronischer-abfallkalender-bern-2010-fur-alle-kreise/
 slug: elektronischer-abfallkalender-bern-2010-fur-alle-kreise
 title: elektronischer Abfallkalender Bern 2010 für alle Kreise
 wordpress_id: 2034
@@ -17,7 +17,7 @@ tags:
 - google
 ---
 
-Gestern Abend am [BLGMNDYBRN-Rauschdichten-Special](http://blgmndybrn.ch/?p=58) im [MusigBistrot](http://musigbistrot.ch/) hat sich [Frau Chnübler](http://chnueb.li/) beschwert, dass sie neuerdings nicht mehr wisse, wann sie ihr gebündeltes Papier auf die Strasse stellen solle, seit mein Kalender, den ich [letzes Jahr](http://habi.gna.ch/2009/01/06/abfallkalender-bern-2009-fur-kreis-b/) veröffentlicht habe, abgelaufen ist.
+Gestern Abend am [BLGMNDYBRN-Rauschdichten-Special](http://blgmndybrn.ch/?p=58) im [MusigBistrot](http://musigbistrot.ch/) hat sich [Frau Chnübler](http://chnueb.li/) beschwert, dass sie neuerdings nicht mehr wisse, wann sie ihr gebündeltes Papier auf die Strasse stellen solle, seit mein Kalender, den ich [letzes Jahr](https://habi.gna.ch/2009/01/06/abfallkalender-bern-2009-fur-kreis-b/) veröffentlicht habe, abgelaufen ist.
 
 Im Sinne des [Teilens](http://leumund.ch/links-week-02-008111) und damit Frau Chnübler, Ihre Nachbarn und Du wissen, wann genau die Papier- und Grünabfuhr vorbeikommt, habe ich mich gestern Abend noch gschwing hingesetzt und in einem [Google Calendar](http://calendar.google.com/) alle Abfuhrdaten für jeden Kreis eingetragen.
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-06-11 18:17:08+00:00
-link: http://habi.gna.ch/2013/06/11/prism-surveillance-program-wikipedia-the-free-encyclopedia/
+link: https://habi.gna.ch/2013/06/11/prism-surveillance-program-wikipedia-the-free-encyclopedia/
 slug: prism-surveillance-program-wikipedia-the-free-encyclopedia
 title: PRISM
 wordpress_id: 3121

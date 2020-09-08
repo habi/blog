@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-10-02 17:16:28+00:00
-link: http://habi.gna.ch/2012/10/02/portrait-und-blitzworkshop-in-lausanne/
+link: https://habi.gna.ch/2012/10/02/portrait-und-blitzworkshop-in-lausanne/
 slug: portrait-und-blitzworkshop-in-lausanne
 title: Portrait- und Blitzworkshop in Lausanne
 wordpress_id: 2925
@@ -19,7 +19,7 @@ tags:
 - workshop
 ---
 
-Es ist zwar schon länger her, aber trotzdem möchte ich es nicht versäumen [Mark](http://permanenttourist.ch) noch 'offiziell' für seinen kostenlosen [Portrait- und Blitzworkshop](http://www.facebook.com/events/133545773452122/) zu danken, welcher er in Lausanne organisiert hat. Am 19. August haben sich ein paar Fotografie-Begeisterte beim [Rolex Learning Center](http://habi.gna.ch/2012/06/13/das-rolex-learning-center-an-der-epfl-in-lausanne-revisited/) an der EPFL getroffen und hatten die Gelegenheit, sich zusammen mit 3 Models an Portrait- und Blitzfotografie zu üben.
+Es ist zwar schon länger her, aber trotzdem möchte ich es nicht versäumen [Mark](http://permanenttourist.ch) noch 'offiziell' für seinen kostenlosen [Portrait- und Blitzworkshop](http://www.facebook.com/events/133545773452122/) zu danken, welcher er in Lausanne organisiert hat. Am 19. August haben sich ein paar Fotografie-Begeisterte beim [Rolex Learning Center](https://habi.gna.ch/2012/06/13/das-rolex-learning-center-an-der-epfl-in-lausanne-revisited/) an der EPFL getroffen und hatten die Gelegenheit, sich zusammen mit 3 Models an Portrait- und Blitzfotografie zu üben.
 
 
 
@@ -44,7 +44,7 @@ Für mich war dies das erste Mal überhaupt, dass ich mit externem Blitz fotogra
 
 
 
-[![Maja.jpg](http://habi.gna.ch/wp-content/uploads/2012/10/Maja-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/10/Maja.jpg) [![Maja.jpg](http://habi.gna.ch/wp-content/uploads/2012/10/Maja-tm1.jpg)](http://habi.gna.ch/wp-content/uploads/2012/10/Maja1.jpg)
+[![Maja.jpg](https://habi.gna.ch/wp-content/uploads/2012/10/Maja-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/10/Maja.jpg) [![Maja.jpg](https://habi.gna.ch/wp-content/uploads/2012/10/Maja-tm1.jpg)](https://habi.gna.ch/wp-content/uploads/2012/10/Maja1.jpg)
 
 
   
@@ -58,7 +58,7 @@ Am Nachmittag wagten wir uns nach draussen und nutzten die architektonisch inter
 
   
 
-[![DSC_9144.jpg](http://habi.gna.ch/wp-content/uploads/2012/10/DSC_9144-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/10/DSC_9144.jpg) [![Sissi.jpg](http://habi.gna.ch/wp-content/uploads/2012/10/Sissi-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/10/Sissi.jpg) [![Sissi.jpg](http://habi.gna.ch/wp-content/uploads/2012/10/Sissi-tm1.jpg)](http://habi.gna.ch/wp-content/uploads/2012/10/Sissi1.jpg)
+[![DSC_9144.jpg](https://habi.gna.ch/wp-content/uploads/2012/10/DSC_9144-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/10/DSC_9144.jpg) [![Sissi.jpg](https://habi.gna.ch/wp-content/uploads/2012/10/Sissi-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/10/Sissi.jpg) [![Sissi.jpg](https://habi.gna.ch/wp-content/uploads/2012/10/Sissi-tm1.jpg)](https://habi.gna.ch/wp-content/uploads/2012/10/Sissi1.jpg)
 
 
   

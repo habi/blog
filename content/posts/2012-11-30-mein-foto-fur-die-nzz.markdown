@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-11-30 22:44:00+00:00
-link: http://habi.gna.ch/2012/12/01/mein-foto-fur-die-nzz/
+link: https://habi.gna.ch/2012/12/01/mein-foto-fur-die-nzz/
 slug: mein-foto-fur-die-nzz
 title: Mein Foto für die NZZ
 wordpress_id: 2968
@@ -21,6 +21,6 @@ Das Bild habe ich unter einer [Creative-Commons-Lizenz](http://creativecommons.o
 
 Wenn jemand die Karte in freier Wildbahn sieht, würde mich interessieren, wo das ist. Mir wurde ein Belegexemplar versprochen, trotzdem möchte ich wissen, wo die Karte überall rumliegt.  
 
-[![Wettbewerbskarte Vorderseite 148x210mm ZS.jpg](http://habi.gna.ch/wp-content/uploads/2012/12/Wettbewerbskarte-Vorderseite-148x210mm-ZS-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/12/Wettbewerbskarte-Vorderseite-148x210mm-ZS.jpg)
+[![Wettbewerbskarte Vorderseite 148x210mm ZS.jpg](https://habi.gna.ch/wp-content/uploads/2012/12/Wettbewerbskarte-Vorderseite-148x210mm-ZS-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/12/Wettbewerbskarte-Vorderseite-148x210mm-ZS.jpg)
 
 [1]: Dazu später mehr.

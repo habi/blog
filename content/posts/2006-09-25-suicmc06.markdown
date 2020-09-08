@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-09-25 18:08:45+00:00
-link: http://habi.gna.ch/2006/09/25/suicmc06/
+link: https://habi.gna.ch/2006/09/25/suicmc06/
 slug: suicmc06
 title: suicmc06
 wordpress_id: 226
@@ -11,7 +11,7 @@ categories:
 - personal
 ---
 
-[![Suicmc06](http://habi.gna.ch/blog/images/suicmc06-tm.jpg)](http://habi.gna.ch/blog/images/suicmc06.jpg)yesterday the [swiss cycle messenger championships 2006](http://suicmc06.ch/) were held in zürich, in the [middle of the city](http://map.search.ch/8001-zuerich/loewenstr.?poi=-).
+[![Suicmc06](https://habi.gna.ch/blog/images/suicmc06-tm.jpg)](https://habi.gna.ch/blog/images/suicmc06.jpg)yesterday the [swiss cycle messenger championships 2006](http://suicmc06.ch/) were held in zürich, in the [middle of the city](http://map.search.ch/8001-zuerich/loewenstr.?poi=-).
 
 
 

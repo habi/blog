@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-25 16:40:18+00:00
-link: http://habi.gna.ch/2004/04/25/thats-disgusting/
+link: https://habi.gna.ch/2004/04/25/thats-disgusting/
 slug: thats-disgusting
 title: that's disgusting
 wordpress_id: 511

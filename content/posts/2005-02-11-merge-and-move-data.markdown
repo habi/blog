@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-02-11 13:21:59+00:00
-link: http://habi.gna.ch/2005/02/11/merge-and-move-data/
+link: https://habi.gna.ch/2005/02/11/merge-and-move-data/
 slug: merge-and-move-data
 title: merge and move data
 wordpress_id: 733

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-21 16:51:19+00:00
-link: http://habi.gna.ch/2004/01/21/take-the-minipop-quiz/
+link: https://habi.gna.ch/2004/01/21/take-the-minipop-quiz/
 slug: take-the-minipop-quiz
 title: take the minipop-quiz!
 wordpress_id: 411
@@ -12,10 +12,10 @@ categories:
 
 how good do you know famous people?
 how good do you know them when they're reduced to some pixels? 
-download [this excel-file](http://habi.gna.ch/blog/images/minipopsquiz_clear.xls) (256kb) and see for yourself!
+download [this excel-file](https://habi.gna.ch/blog/images/minipopsquiz_clear.xls) (256kb) and see for yourself!
 (open the file, then insert the names. watch for the the's, e.g. "a-team" is wrong while "the a-team" is correct.
 yes, they're really there)
-[![](http://habi.gna.ch/blog/images/minipopquiz-tm.jpg)](http://habi.gna.ch/blog/images/minipopquiz.jpg)
+[![](https://habi.gna.ch/blog/images/minipopquiz-tm.jpg)](https://habi.gna.ch/blog/images/minipopquiz.jpg)
 i managed to recognise 19, but with [sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html)'s suggestions we managed to get 27 of 95 right. (i'd never ever recognized the corrs and simon & garfunkel).
 how much do you get right? leave a comment!
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-03-31 19:29:16+00:00
-link: http://habi.gna.ch/2008/03/31/skiweekend-grindelwald/
+link: https://habi.gna.ch/2008/03/31/skiweekend-grindelwald/
 slug: skiweekend-grindelwald
 title: skiweekend grindelwald [with map]
 wordpress_id: 1229
@@ -26,7 +26,7 @@ the map of the two days can be seen below, the pictures can be found in [this se
 
   
 
-[Tracks-2008-03-30-Grindelwald.gpx](http://habi.gna.ch/wp-content/uploads/2008/03/tracks-2008-03-30-grindelwald.gpx)
+[Tracks-2008-03-30-Grindelwald.gpx](https://habi.gna.ch/wp-content/uploads/2008/03/tracks-2008-03-30-grindelwald.gpx)
 
 
 

@@ -12,7 +12,7 @@ tags:
 - research
 ---
 
-In den [letzten Wochen](http://habi.gna.ch/?s=zebrafisch&submit=Search) hab' ich's immer wieder angetönt, ich hatte viel mit Zebrafischen zu tun.
+In den [letzten Wochen](https://habi.gna.ch/?s=zebrafisch&submit=Search) hab' ich's immer wieder angetönt, ich hatte viel mit Zebrafischen zu tun.
 Beim Schaffen hatten wir ein grosses Projekt, bei dem ich die Auswertung von Tomographiedaten (und anderem) übernommen habe, damit wir schlussendlich sicher sagen konnten, dass die Kiemen von Zebrafischen wachsen, wenn die kleinen Fische feste trainieren.
 
 Aber alles der Reihe nach: Wie ihr wisst, arbeite ich seit einiger Zeit am Institut für Anatomie mit zwei MicroCT-Geräten und mache biomedizinische Forschung.

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-10-06 21:31:29+00:00
-link: http://habi.gna.ch/2004/10/06/google-trickery/
+link: https://habi.gna.ch/2004/10/06/google-trickery/
 slug: google-trickery
 title: google trickery
 wordpress_id: 636

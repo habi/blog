@@ -16,4 +16,4 @@ Und wurde dann überrascht, nicht nur wegen Tilda Swinton, die in der ersten Ein
 Startet als Kinderfilm, geht über in einen ausgelassenen Actionfilm und landet bei einer intelligenten Unternehmenssatire.
 Und macht dich vielleicht zum Vegetarier.
 
-Übrigens genauso wie [Parasite](http://habi.gna.ch/2020/02/10/kurzkritik-parasite/) von Bong Joon Ho.
+Übrigens genauso wie [Parasite](https://habi.gna.ch/2020/02/10/kurzkritik-parasite/) von Bong Joon Ho.

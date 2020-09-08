@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-30 16:36:42+00:00
-link: http://habi.gna.ch/2005/04/30/windows-powered-sewing-machine/
+link: https://habi.gna.ch/2005/04/30/windows-powered-sewing-machine/
 slug: windows-powered-sewing-machine
 title: windows powered sewing-machine
 wordpress_id: 779

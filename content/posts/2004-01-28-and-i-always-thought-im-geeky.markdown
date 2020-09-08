@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-28 09:45:40+00:00
-link: http://habi.gna.ch/2004/01/28/and-i-always-thought-im-geeky/
+link: https://habi.gna.ch/2004/01/28/and-i-always-thought-im-geeky/
 slug: and-i-always-thought-im-geeky
 title: and i always thought i'm geeky
 wordpress_id: 423

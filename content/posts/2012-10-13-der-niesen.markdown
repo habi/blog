@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-10-13 21:43:01+00:00
-link: http://habi.gna.ch/2012/10/13/der-niesen/
+link: https://habi.gna.ch/2012/10/13/der-niesen/
 slug: der-niesen
 title: Der Niesen
 wordpress_id: 2933
@@ -18,6 +18,6 @@ tags:
 
 Ich war heute morgen um halb zehn am (und dann im) Thunersee. Und ihr so?
 
-[![Niesen, tonemapped.jpg](http://habi.gna.ch/wp-content/uploads/2012/10/Niesen-tonemapped.jpg)](http://habi.gna.ch/wp-content/uploads/2012/10/Niesen-tonemapped.jpg)
+[![Niesen, tonemapped.jpg](https://habi.gna.ch/wp-content/uploads/2012/10/Niesen-tonemapped.jpg)](https://habi.gna.ch/wp-content/uploads/2012/10/Niesen-tonemapped.jpg)
 
 (Weder Hut, noch Kragen noch Mantel und Degen, [oder](http://de.wikipedia.org/wiki/Niesen_(Berg)#Wetterregel)?)

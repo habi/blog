@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-12-06 09:22:04+00:00
-link: http://habi.gna.ch/2015/12/06/psa-so-siehts-auf-dem-gurten-aus/
+link: https://habi.gna.ch/2015/12/06/psa-so-siehts-auf-dem-gurten-aus/
 slug: psa-so-siehts-auf-dem-gurten-aus
 title: 'PSA: So siehts auf dem Gurten aus.'
 wordpress_id: 4119

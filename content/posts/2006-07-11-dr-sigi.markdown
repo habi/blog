@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-07-11 17:41:45+00:00
-link: http://habi.gna.ch/2006/07/11/dr-sigi/
+link: https://habi.gna.ch/2006/07/11/dr-sigi/
 slug: dr-sigi
 title: Dr. Sigi
 wordpress_id: 198

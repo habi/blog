@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-06-28 12:18:51+00:00
-link: http://habi.gna.ch/2007/06/28/fertig/
+link: https://habi.gna.ch/2007/06/28/fertig/
 slug: fertig
 title: Fertig!
 wordpress_id: 968

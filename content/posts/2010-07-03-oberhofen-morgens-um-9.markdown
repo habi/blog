@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-07-03 08:32:15+00:00
-link: http://habi.gna.ch/2010/07/03/oberhofen-morgens-um-9/
+link: https://habi.gna.ch/2010/07/03/oberhofen-morgens-um-9/
 slug: oberhofen-morgens-um-9
 title: Oberhofen morgens um 9
 wordpress_id: 2140

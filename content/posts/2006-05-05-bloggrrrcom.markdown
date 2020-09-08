@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-05 23:19:04+00:00
-link: http://habi.gna.ch/2006/05/06/bloggrrrcom/
+link: https://habi.gna.ch/2006/05/06/bloggrrrcom/
 slug: bloggrrrcom
 title: bloggrrr.com
 wordpress_id: 169
@@ -22,7 +22,7 @@ herr löi, müssen sie die eingetragenen blogs erst freischalten?
 
 oder ist das ganze noch web-2.0-beta-ajax-massig unterwegs?
 
-[![Bloggrrr](http://habi.gna.ch/blog/images/bloggrrr-tm.jpg)](http://habi.gna.ch/blog/images/bloggrrr.jpg)in der gesamtliste bin ich momentan rang 26, ist doch auch nicht so schlecht, oder? stimmt für mich im sidebar ab, dann rutsch ich höher und gewinn die nächsten [SBAW](http://swissblogawards.ch/)!
+[![Bloggrrr](https://habi.gna.ch/blog/images/bloggrrr-tm.jpg)](https://habi.gna.ch/blog/images/bloggrrr.jpg)in der gesamtliste bin ich momentan rang 26, ist doch auch nicht so schlecht, oder? stimmt für mich im sidebar ab, dann rutsch ich höher und gewinn die nächsten [SBAW](http://swissblogawards.ch/)!
 
 aber eine lustige idee ists schon. und jetzt muss ich dringend ins bett.
   

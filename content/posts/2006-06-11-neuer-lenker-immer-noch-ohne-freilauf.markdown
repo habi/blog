@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-06-11 15:17:07+00:00
-link: http://habi.gna.ch/2006/06/11/neuer-lenker-immer-noch-ohne-freilauf/
+link: https://habi.gna.ch/2006/06/11/neuer-lenker-immer-noch-ohne-freilauf/
 slug: neuer-lenker-immer-noch-ohne-freilauf
 title: neuer lenker, immer noch ohne freilauf :-)
 wordpress_id: 188

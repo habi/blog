@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-19 17:56:16+00:00
-link: http://habi.gna.ch/2005/04/19/flickr-is-upping-the-ante-giveaway/
+link: https://habi.gna.ch/2005/04/19/flickr-is-upping-the-ante-giveaway/
 slug: flickr-is-upping-the-ante-giveaway
 title: flickr is upping the ante - giveaway
 wordpress_id: 771
@@ -30,5 +30,5 @@ send me a convincing picture or something other that justifies the donation of a
 
 
 
-[1]: since there's a bit more involved than with a [gmail invite](http://habi.gna.ch/blog/mt-search.cgi?IncludeBlogs=1&search=gmail), the hurdles are also a bit higher. i think, for instance, i must know you (least a bit) personally and must think that i could like your pictures...
+[1]: since there's a bit more involved than with a [gmail invite](https://habi.gna.ch/blog/mt-search.cgi?IncludeBlogs=1&search=gmail), the hurdles are also a bit higher. i think, for instance, i must know you (least a bit) personally and must think that i could like your pictures...
 

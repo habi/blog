@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-01-15 21:56:07+00:00
-link: http://habi.gna.ch/2007/01/15/nerd-score/
+link: https://habi.gna.ch/2007/01/15/nerd-score/
 slug: nerd-score
 title: nerd-(s)core!
 wordpress_id: 843

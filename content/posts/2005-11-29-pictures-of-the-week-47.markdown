@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-11-29 08:49:51+00:00
-link: http://habi.gna.ch/2005/11/29/pictures-of-the-week-47/
+link: https://habi.gna.ch/2005/11/29/pictures-of-the-week-47/
 slug: pictures-of-the-week-47
 title: pictures of the week 47
 wordpress_id: 104
@@ -20,7 +20,7 @@ don't we look spiffy?
 
 
 
-[![Dsc02519](http://habi.gna.ch/blog/images/DSC02519-tm.jpg)](http://habi.gna.ch/blog/images/DSC02519.jpg)
+[![Dsc02519](https://habi.gna.ch/blog/images/DSC02519-tm.jpg)](https://habi.gna.ch/blog/images/DSC02519.jpg)
 
 
 

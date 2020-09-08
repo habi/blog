@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-10-02 16:45:37+00:00
-link: http://habi.gna.ch/2013/10/02/mein-september/
+link: https://habi.gna.ch/2013/10/02/mein-september/
 slug: mein-september
 title: Mein September
 wordpress_id: 3216
@@ -12,7 +12,7 @@ tags:
 - 1se
 ---
 
-Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/), [Mai](http://habi.gna.ch/2013/06/01/mein-mai/), [Juni](http://habi.gna.ch/2013/07/01/mein-juni/), [Juli](http://habi.gna.ch/2013/08/02/mein-juli/) und [August](http://habi.gna.ch/2013/09/02/mein-august/) hab' ich im September jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
+Genau wie im [Januar](https://habi.gna.ch/2013/02/01/mein-januar/), [Februar](https://habi.gna.ch/2013/03/04/mein-februar/), [März](https://habi.gna.ch/2013/04/01/mein-marz/), [April](https://habi.gna.ch/2013/05/01/mein-april/), [Mai](https://habi.gna.ch/2013/06/01/mein-mai/), [Juni](https://habi.gna.ch/2013/07/01/mein-juni/), [Juli](https://habi.gna.ch/2013/08/02/mein-juli/) und [August](https://habi.gna.ch/2013/09/02/mein-august/) hab' ich im September jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
 
 {{< vimeo 75913862 >}}
 
@@ -30,9 +30,9 @@ Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](htt
   * Läck het das hie viu Velos!
   * Auso wie genau?
   * Blut spenden
-  * [Fabrikk](http://habi.gna.ch/2013/09/13/kurzkritik-karls-kuhne-gassenschau-fabrikk/)
+  * [Fabrikk](https://habi.gna.ch/2013/09/13/kurzkritik-karls-kuhne-gassenschau-fabrikk/)
   * An der EPFL hat's coole Stägegländer
-  * [In der Areuse](http://habi.gna.ch/2013/09/17/in-der-areuse/)
+  * [In der Areuse](https://habi.gna.ch/2013/09/17/in-der-areuse/)
   * Brunch
   * Starcraft 2-Einführung und Showmatch
   * Am Morgen wird's dunkel

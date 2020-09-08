@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-01-02 14:37:27+00:00
-link: http://habi.gna.ch/2005/01/02/picture-of-the-week-00/
+link: https://habi.gna.ch/2005/01/02/picture-of-the-week-00/
 slug: picture-of-the-week-00
 title: picture of the week 00
 wordpress_id: 707
@@ -16,7 +16,7 @@ i wanted to (digitally) record the [ibrahim ferrer show](http://www.drs.ch/drson
 
 
 
-[![Dsc04088](http://habi.gna.ch/blog/images/DSC04088-tm.jpg)](http://habi.gna.ch/blog/images/DSC04088.jpg)
+[![Dsc04088](https://habi.gna.ch/blog/images/DSC04088-tm.jpg)](https://habi.gna.ch/blog/images/DSC04088.jpg)
   
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-02-23 19:32:40+00:00
-link: http://habi.gna.ch/2007/02/23/foto-automat-error-im-migros/
+link: https://habi.gna.ch/2007/02/23/foto-automat-error-im-migros/
 slug: foto-automat-error-im-migros
 title: foto-automat-error im migros
 wordpress_id: 872

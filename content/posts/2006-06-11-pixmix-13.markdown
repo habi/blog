@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-06-11 20:39:07+00:00
-link: http://habi.gna.ch/2006/06/11/pixmix-13/
+link: https://habi.gna.ch/2006/06/11/pixmix-13/
 slug: pixmix-13
 title: pixmix 13
 wordpress_id: 189
@@ -12,14 +12,14 @@ categories:
 ---
 
 
-[![ Files 060621 2 Web Small](http://habi.gna.ch/blog/images/_files_060621_2_web_small-tm.jpg)](http://habi.gna.ch/blog/images/_files_060621_2_web_small.jpg)[mittwoch in einer woche](http://starfrosch.ch/2006/05/25/pix_mix_vol_13_20_menschen_20_bilder_20_sekunden) werde ich am [pixmix](http://starfrosch.ch/pixmix) 13 in der dampfzentrale eine reihe von 20 unterwasserbildern prasentieren. momentan bin ich am sichten aller meiner unterwasseraufnahmen. insgesamt sind es mehr als 360 aufnahmen, es sollten also 20 schone bilder zusammenkommen (siehe screenshot unten). ich war schon an einigen pixmixens, das erste mal, als [urs/splint/gosi mitgemacht](http://habi.gna.ch/blog/archives/000573.html) haben und kann sagen, es ist immer ein lustiger und spannender abend.
+[![ Files 060621 2 Web Small](https://habi.gna.ch/blog/images/_files_060621_2_web_small-tm.jpg)](https://habi.gna.ch/blog/images/_files_060621_2_web_small.jpg)[mittwoch in einer woche](http://starfrosch.ch/2006/05/25/pix_mix_vol_13_20_menschen_20_bilder_20_sekunden) werde ich am [pixmix](http://starfrosch.ch/pixmix) 13 in der dampfzentrale eine reihe von 20 unterwasserbildern prasentieren. momentan bin ich am sichten aller meiner unterwasseraufnahmen. insgesamt sind es mehr als 360 aufnahmen, es sollten also 20 schone bilder zusammenkommen (siehe screenshot unten). ich war schon an einigen pixmixens, das erste mal, als [urs/splint/gosi mitgemacht](https://habi.gna.ch/blog/archives/000573.html) haben und kann sagen, es ist immer ein lustiger und spannender abend.
   
 kommt auch vorbei!  
 
 
 
 
-[![Pixmix.Iphoto](http://habi.gna.ch/blog/images/pixmix.iphoto-tm.jpg)](http://habi.gna.ch/blog/images/pixmix.iphoto.jpg)
+[![Pixmix.Iphoto](https://habi.gna.ch/blog/images/pixmix.iphoto-tm.jpg)](https://habi.gna.ch/blog/images/pixmix.iphoto.jpg)
 
 
 

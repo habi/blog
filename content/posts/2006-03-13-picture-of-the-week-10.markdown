@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-03-13 22:23:55+00:00
-link: http://habi.gna.ch/2006/03/14/picture-of-the-week-10/
+link: https://habi.gna.ch/2006/03/14/picture-of-the-week-10/
 slug: picture-of-the-week-10
 title: picture of the week 10
 wordpress_id: 143
@@ -18,7 +18,7 @@ during our stroll through the zoo we passed at the enclosure of the otters where
 
 
 
-[![Dsc03236](http://habi.gna.ch/blog/images/DSC03236-tm.jpg)](http://habi.gna.ch/blog/images/DSC03236.jpg)
+[![Dsc03236](https://habi.gna.ch/blog/images/DSC03236-tm.jpg)](https://habi.gna.ch/blog/images/DSC03236.jpg)
 
 
 

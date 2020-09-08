@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-09-08 22:51:07+00:00
-link: http://habi.gna.ch/2004/09/09/how-nice/
+link: https://habi.gna.ch/2004/09/09/how-nice/
 slug: how-nice
 title: how nice!
 wordpress_id: 611
@@ -15,7 +15,7 @@ look what mail i just got:
 
 
 <blockquote>Would you like to donate your picture of the dugong 
-http://habi.gna.ch/blog/images/Image009_8.jpg to a good cause?
+https://habi.gna.ch/blog/images/Image009_8.jpg to a good cause?
 
 Dugong photos are very hard to find, and yours is truly wonderful.
 

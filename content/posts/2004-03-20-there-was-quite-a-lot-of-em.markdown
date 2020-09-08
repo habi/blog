@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-20 23:18:32+00:00
-link: http://habi.gna.ch/2004/03/21/there-was-quite-a-lot-of-em/
+link: https://habi.gna.ch/2004/03/21/there-was-quite-a-lot-of-em/
 slug: there-was-quite-a-lot-of-em
 title: there was quite a lot of 'em
 wordpress_id: 473
@@ -28,5 +28,5 @@ that's what they say and what it was like:
 
 
 
-[![DSC00670](http://habi.gna.ch/blog/images/DSC00670-tm.jpg)](http://habi.gna.ch/blog/images/DSC00670.JPG)[![DSC00684](http://habi.gna.ch/blog/images/DSC00684-tm.jpg)](http://habi.gna.ch/blog/images/DSC00684.JPG)[![DSC00685](http://habi.gna.ch/blog/images/DSC00685-tm.jpg)](http://habi.gna.ch/blog/images/DSC00685.JPG)
-[![DSC00686](http://habi.gna.ch/blog/images/DSC00686-tm.jpg)](http://habi.gna.ch/blog/images/DSC00686.JPG)[![DSC00687](http://habi.gna.ch/blog/images/DSC00687-tm.jpg)](http://habi.gna.ch/blog/images/DSC00687.JPG)
+[![DSC00670](https://habi.gna.ch/blog/images/DSC00670-tm.jpg)](https://habi.gna.ch/blog/images/DSC00670.JPG)[![DSC00684](https://habi.gna.ch/blog/images/DSC00684-tm.jpg)](https://habi.gna.ch/blog/images/DSC00684.JPG)[![DSC00685](https://habi.gna.ch/blog/images/DSC00685-tm.jpg)](https://habi.gna.ch/blog/images/DSC00685.JPG)
+[![DSC00686](https://habi.gna.ch/blog/images/DSC00686-tm.jpg)](https://habi.gna.ch/blog/images/DSC00686.JPG)[![DSC00687](https://habi.gna.ch/blog/images/DSC00687-tm.jpg)](https://habi.gna.ch/blog/images/DSC00687.JPG)

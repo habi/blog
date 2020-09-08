@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-07-02 20:25:07+00:00
-link: http://habi.gna.ch/2009/07/02/uber-den-belpberg-nach-muri-in-die-aare/
+link: https://habi.gna.ch/2009/07/02/uber-den-belpberg-nach-muri-in-die-aare/
 slug: uber-den-belpberg-nach-muri-in-die-aare
 title: über den belpberg nach muri in die aare
 wordpress_id: 1824

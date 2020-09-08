@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-06 13:12:35+00:00
-link: http://habi.gna.ch/2003/08/06/chinese-anyone/
+link: https://habi.gna.ch/2003/08/06/chinese-anyone/
 slug: chinese-anyone
 title: chinese anyone?
 wordpress_id: 249

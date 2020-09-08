@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-12-02 18:19:10+00:00
-link: http://habi.gna.ch/2016/12/02/geld-weitergeben/
+link: https://habi.gna.ch/2016/12/02/geld-weitergeben/
 slug: geld-weitergeben
 title: Geld weitergeben
 wordpress_id: 4849
@@ -39,4 +39,4 @@ Und zwar
 
 
 
-![Spenden](http://habi.gna.ch/wp-content/uploads/2016/12/donations.png)
+![Spenden](https://habi.gna.ch/wp-content/uploads/2016/12/donations.png)

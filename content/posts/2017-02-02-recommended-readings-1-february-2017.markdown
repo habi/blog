@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-02-02 21:38:18+00:00
-link: http://habi.gna.ch/2017/02/02/recommended-readings-1-february-2017/
+link: https://habi.gna.ch/2017/02/02/recommended-readings-1-february-2017/
 slug: recommended-readings-1-february-2017
 title: 'Recommended readings: 1. February 2017'
 wordpress_id: 5012
@@ -18,7 +18,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 
 
-  * [Das Ganser-Phänomen](https://www.woz.ch/-768a): Letzthin hatte ich es in privater Kommunikation von Dr. Ganser (im Nachgang zu [diesem Kommentar hier](http://habi.gna.ch/2016/12/02/geld-weitergeben/#comment-22525) (Und ja, ich schulde dir noch eine Antwort)). Ein schwieriges Thema, hier etwas von der WOZ hinterleuchtet.
+  * [Das Ganser-Phänomen](https://www.woz.ch/-768a): Letzthin hatte ich es in privater Kommunikation von Dr. Ganser (im Nachgang zu [diesem Kommentar hier](https://habi.gna.ch/2016/12/02/geld-weitergeben/#comment-22525) (Und ja, ich schulde dir noch eine Antwort)). Ein schwieriges Thema, hier etwas von der WOZ hinterleuchtet.
 
 
   * [Unhappy Meals](http://michaelpollan.com/articles-archive/unhappy-meals/): Ein langer Text über die ganzen 'Gesund-Ess'-Strömungen lässt sich ganz einfach zusammenfassen: "Eat food. Not too much. Mostly plants."
@@ -36,7 +36,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Upon This Rock](http://www.gq.com/story/rock-music-jesus): Mensch 'glaubt' es kaum, aber Rocken für Jesus, das geht auch.
 
 
-  * [How we mapped the world’s weirdest streets](https://medium.com/transit-app/hello-nairobi-cc27bb5a73b7): Wir hatten's hier [letzthin schon mal](http://habi.gna.ch/2016/11/08/recommended-readings-5-november-2016/) von [Transit](https://transitapp.com), der coolen öV-App. Die Karten-Nerds die dort arbeiten, haben die App in die Millionenstadt Nairobi in Kenia gebracht. Wie sie das gemacht haben, beschreiben sie in diesem Blog-Eintrag.
+  * [How we mapped the world’s weirdest streets](https://medium.com/transit-app/hello-nairobi-cc27bb5a73b7): Wir hatten's hier [letzthin schon mal](https://habi.gna.ch/2016/11/08/recommended-readings-5-november-2016/) von [Transit](https://transitapp.com), der coolen öV-App. Die Karten-Nerds die dort arbeiten, haben die App in die Millionenstadt Nairobi in Kenia gebracht. Wie sie das gemacht haben, beschreiben sie in diesem Blog-Eintrag.
 
 
   * [Seitenblicke auf einen Exzentriker: Leben zwischen den Stühlen](http://www.taz.de/!5143758/): Juergen Jonas lebt anders als die Meisten. Draussen, ohne Konto und ohne festen Wohnsitz.

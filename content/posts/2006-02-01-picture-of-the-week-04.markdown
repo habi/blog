@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-02-01 19:57:16+00:00
-link: http://habi.gna.ch/2006/02/01/picture-of-the-week-04/
+link: https://habi.gna.ch/2006/02/01/picture-of-the-week-04/
 slug: picture-of-the-week-04
 title: picture of the week 04
 wordpress_id: 130
@@ -22,7 +22,7 @@ this explains why pesche stands in front of those toboggans with his snowboard c
 
 
 
-[![Dsc02997](http://habi.gna.ch/blog/images/DSC02997-tm.jpg)](http://habi.gna.ch/blog/images/DSC02997.jpg)
+[![Dsc02997](https://habi.gna.ch/blog/images/DSC02997-tm.jpg)](https://habi.gna.ch/blog/images/DSC02997.jpg)
 
 
 

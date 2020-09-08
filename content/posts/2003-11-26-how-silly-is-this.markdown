@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-26 13:47:06+00:00
-link: http://habi.gna.ch/2003/11/26/how-silly-is-this/
+link: https://habi.gna.ch/2003/11/26/how-silly-is-this/
 slug: how-silly-is-this
 title: how silly is this
 wordpress_id: 361
@@ -16,4 +16,4 @@ to my amazement, it's 30% cheaper to buy 10 cd's in the case than to buy 10 empt
 how silly (but good for me...)
 
 ten empty cases for 15 bucks (left image) opposed to 10 cases with cd's for 10 bucks (on the right):
-[![](http://habi.gna.ch/blog/images/cdleerhuellen-tm.jpg)](http://habi.gna.ch/blog/images/cdleerhuellen.jpg) [![](http://habi.gna.ch/blog/images/cdmithuellen-tm.jpg)](http://habi.gna.ch/blog/images/cdmithuellen.jpg)
+[![](https://habi.gna.ch/blog/images/cdleerhuellen-tm.jpg)](https://habi.gna.ch/blog/images/cdleerhuellen.jpg) [![](https://habi.gna.ch/blog/images/cdmithuellen-tm.jpg)](https://habi.gna.ch/blog/images/cdmithuellen.jpg)

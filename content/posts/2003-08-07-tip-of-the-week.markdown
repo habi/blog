@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-07 19:38:26+00:00
-link: http://habi.gna.ch/2003/08/07/tip-of-the-week/
+link: https://habi.gna.ch/2003/08/07/tip-of-the-week/
 slug: tip-of-the-week
 title: tip of the week
 wordpress_id: 253
@@ -16,4 +16,4 @@ btw: the font used on [radiohead's kid a album](http://www.allmusic.com/cg/amg.d
 
 
 **UPDATE:** The decoration at the [Dampfzentrale](http://www.Dampfzentrale.ch) was absolutely amazing, the filewile-performance was great --> a good party!  
-[![](http://habi.gna.ch/blog/images/fw-Picture(1)-tm.jpg)](http://habi.gna.ch/blog/images/fw-Picture(1).jpg)[![](http://habi.gna.ch/blog/images/fw-Picture(4)-tm.jpg)](http://habi.gna.ch/blog/images/fw-Picture(4).jpg)[![](http://habi.gna.ch/blog/images/fw-Picture(5)-tm.jpg)](http://habi.gna.ch/blog/images/fw-Picture(5).jpg)
+[![](https://habi.gna.ch/blog/images/fw-Picture(1)-tm.jpg)](https://habi.gna.ch/blog/images/fw-Picture(1).jpg)[![](https://habi.gna.ch/blog/images/fw-Picture(4)-tm.jpg)](https://habi.gna.ch/blog/images/fw-Picture(4).jpg)[![](https://habi.gna.ch/blog/images/fw-Picture(5)-tm.jpg)](https://habi.gna.ch/blog/images/fw-Picture(5).jpg)

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-09-28 17:36:56+00:00
-link: http://habi.gna.ch/2010/09/28/timelapsed-zrich-ii/
+link: https://habi.gna.ch/2010/09/28/timelapsed-zrich-ii/
 slug: timelapsed-zrich-ii
 title: Timelapsed Zürich II
 wordpress_id: 2225
@@ -15,7 +15,7 @@ tags:
 - zürich
 ---
 
-Herr Hosae hat [gefragt](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/#comment-13517), wieso ich die [Timelapse-Filme von Zürich](http://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/) stündlich gemacht habe, und nicht einen einzigen Monster-Zeitraffer-Film davon erstellt habe.
+Herr Hosae hat [gefragt](https://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/#comment-13517), wieso ich die [Timelapse-Filme von Zürich](https://habi.gna.ch/2010/09/24/zrich-im-zeitraffer/) stündlich gemacht habe, und nicht einen einzigen Monster-Zeitraffer-Film davon erstellt habe.
 Die einfache Antwort war, dass der Film so nicht so schon aussieht, viel zu nervös.
 
 Die kompliziertere Antwort war auch, dass das Ganze so nicht einfach zu erstellen war, denn für jede Stunde ein Foto über 2.75 Jahre ergibt sage und schreibe gut 23000 Fotos (kein Tippfehler :)

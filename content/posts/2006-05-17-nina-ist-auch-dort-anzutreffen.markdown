@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-17 20:20:55+00:00
-link: http://habi.gna.ch/2006/05/17/nina-ist-auch-dort-anzutreffen/
+link: https://habi.gna.ch/2006/05/17/nina-ist-auch-dort-anzutreffen/
 slug: nina-ist-auch-dort-anzutreffen
 title: nina ist auch dort anzutreffen
 wordpress_id: 175
@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![Spam](http://habi.gna.ch/blog/images/spam-tm.jpg)](http://habi.gna.ch/blog/images/spam.jpg)also bei diesem spammail links, da war ich jetzt fast [reingefallen](http://flickr.com/photos/habi/tags/nina/)...
+[![Spam](https://habi.gna.ch/blog/images/spam-tm.jpg)](https://habi.gna.ch/blog/images/spam.jpg)also bei diesem spammail links, da war ich jetzt fast [reingefallen](http://flickr.com/photos/habi/tags/nina/)...
 
 
 

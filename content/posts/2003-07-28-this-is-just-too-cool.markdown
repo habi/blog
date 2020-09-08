@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-28 20:06:14+00:00
-link: http://habi.gna.ch/2003/07/28/this-is-just-too-cool/
+link: https://habi.gna.ch/2003/07/28/this-is-just-too-cool/
 slug: this-is-just-too-cool
 title: this is just too cool!
 wordpress_id: 238
@@ -12,7 +12,7 @@ categories:
 
 When i get an SMS on [my mobile phone](http://www.sonyericsson.com/t610/index.htm?overview/index.htm) while it's paired over bluetooth to my trusty little [ibook](http://www.apple.com/ibook/) i get a window like this:  
 
-[![](http://habi.gna.ch/blog/images/Bild 1-tm.jpg)](http://habi.gna.ch/blog/images/Bild 1.jpg)  
+[![](https://habi.gna.ch/blog/images/Bild 1-tm.jpg)](https://habi.gna.ch/blog/images/Bild 1.jpg)  
 
 this is just too frigging nifty!  
 
@@ -20,9 +20,9 @@ this is just too frigging nifty!
 
 **BOAH: this is even cooler!**  
 
-while i was typing this entry, [Gabu Palacios](http://habi.gna.ch/pics/GeburiGaebu/Pages/15.html) (on the left, getting the score while I play Gabu-Pong) called me, and voila I get this window!  
+while i was typing this entry, [Gabu Palacios](https://habi.gna.ch/pics/GeburiGaebu/Pages/15.html) (on the left, getting the score while I play Gabu-Pong) called me, and voila I get this window!  
 
-[![](http://habi.gna.ch/blog/images/gaebu-tm.jpg)](http://habi.gna.ch/blog/images/gaebu.jpg)  
+[![](https://habi.gna.ch/blog/images/gaebu-tm.jpg)](https://habi.gna.ch/blog/images/gaebu.jpg)  
 
 Does any PC offer the same functionality (Call me a [proselyted](http://dict.leo.org/?p=5qvU.&search=proselyte) Switcher)  
 

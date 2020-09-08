@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-07-21 22:25:43+00:00
-link: http://habi.gna.ch/2004/07/22/programming/
+link: https://habi.gna.ch/2004/07/22/programming/
 slug: programming
 title: programming
 wordpress_id: 583
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[![suicmc_pics](http://habi.gna.ch/blog/images/suicmc_pics-tm.jpg)](http://habi.gna.ch/blog/images/suicmc_pics.jpg)coding something can be quite a long process for me.
+[![suicmc_pics](https://habi.gna.ch/blog/images/suicmc_pics-tm.jpg)](https://habi.gna.ch/blog/images/suicmc_pics.jpg)coding something can be quite a long process for me.
 [anja](http://www.frauraecher.ch/) mailed me some picture which i wanted to put on the homepage of the [SUICMC04](http://suicmc04.ch/).
 since i wanted to do it in the simplest and cleanest possible way i thought to make little table with links to all of the pictures, so that when you click on them, they pop up in a new window with the right size, with a nifty "close window"-link.
 in the end it turned out to be a longer process than i thought:

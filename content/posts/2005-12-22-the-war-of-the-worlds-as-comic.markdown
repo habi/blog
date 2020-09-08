@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-12-22 13:33:45+00:00
-link: http://habi.gna.ch/2005/12/22/the-war-of-the-worlds-as-comic/
+link: https://habi.gna.ch/2005/12/22/the-war-of-the-worlds-as-comic/
 slug: the-war-of-the-worlds-as-comic
 title: the war of the worlds as comic
 wordpress_id: 113
@@ -19,7 +19,7 @@ if you also dig comics a lot, then you might give it a go.
 
 [1] there's some other stuff waiting, too:
   
-![Nnw1001-1](http://habi.gna.ch/blog/images/nnw1001-1.jpg)
+![Nnw1001-1](https://habi.gna.ch/blog/images/nnw1001-1.jpg)
 
 
 

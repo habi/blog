@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-20 11:56:53+00:00
-link: http://habi.gna.ch/2008/09/20/morgenberghorn/
+link: https://habi.gna.ch/2008/09/20/morgenberghorn/
 slug: morgenberghorn
 title: morgenberghorn
 wordpress_id: 1473

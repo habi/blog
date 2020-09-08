@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-01-28 20:04:48+00:00
-link: http://habi.gna.ch/2008/01/28/zuri-west-domino/
+link: https://habi.gna.ch/2008/01/28/zuri-west-domino/
 slug: zuri-west-domino
 title: züri west domino
 wordpress_id: 1167
@@ -40,7 +40,7 @@ also:
 * [so wie denn i däm summer bi üs im quartier är hett se wöue gsee d'Königin, aber](http://peterpanch.wordpress.com/2008/01/27/zuri-west-es-schwiizer-stockli-2/)
 * [si scharm keit i chopfsalat wüu](http://www.falki-design.ch/wordpress/?p=1969)
 * [dr](http://kusito.ch/?p=351) [geri gagarin](http://kusito.ch/?p=351) [dä](http://kusito.ch/?p=351) [souhung](http://kusito.ch/?p=351)
-* [het Am Tag wo är isch gange dänkt...](http://habi.gna.ch/2008/01/28/zuri-west-domino/)
+* [het Am Tag wo är isch gange dänkt...](https://habi.gna.ch/2008/01/28/zuri-west-domino/)
 
 also, wenn die [frau schenk](http://flickr.com/photos/habi/165093147/) auf dem internett präsent wäre, würd ich's ihr weiterschicken, sie hat mal mit der halben band in einer gross-wg gewohnt. der [sigi](http://sigi.freeflux.net/) ist auch ein fundierter züri-west-kenner, der bloggt aber seit seinem heute-bericht (29. jänner 2007, leider nicht online) nicht mehr. wenn ich in der bloggeria bleibe, ist [christian](http://hymnos.existenz.ch) der empfänger meines stöckchens, der ist ja auch ein [fundierter kenner der materie](http://hymnos.existenz.ch/2007/12/01/zuri-west-live-geblogge/).
 
@@ -68,7 +68,7 @@ und damit er meine stündige copy-paste-aktion mit formatierungskorrektur nicht 
     <li><a href="http://peterpanch.wordpress.com/2008/01/27/zuri-west-es-schwiizer-stockli-2/"><strong>so wie denn i däm summer bi üs im quartier är hett se wöue gsee d'</strong> Königin, aber</a><br /></li>
     <li><a href="http://www.falki-design.ch/wordpress/?p=1969"><strong>si scharm keit i chopfsalat</strong> wüu</a></li>
     <li><a href="http://kusito.ch/?p=351">dr</a> <strong><a href="http://kusito.ch/?p=351">geri gagarin</a></strong> <a href="http://kusito.ch/?p=351">dä</a> <strong><a href="http://kusito.ch/?p=351">souhung</a></strong></li>
-    <li><a href="http://habi.gna.ch/2008/01/28/zuri-west-domino/">het <strong>Am Tag wo är isch gange</strong> dänkt...</a></li>
+    <li><a href="https://habi.gna.ch/2008/01/28/zuri-west-domino/">het <strong>Am Tag wo är isch gange</strong> dänkt...</a></li>
 </ul> 
 ````
 

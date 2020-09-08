@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-03-02 17:23:41+00:00
-link: http://habi.gna.ch/2006/03/02/fasnachtsvorbereitungen/
+link: https://habi.gna.ch/2006/03/02/fasnachtsvorbereitungen/
 slug: fasnachtsvorbereitungen
 title: fasnachtsvorbereitungen
 wordpress_id: 139

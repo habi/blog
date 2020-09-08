@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-10-17 17:22:21+00:00
-link: http://habi.gna.ch/2007/10/17/blogcampswitzerland-20/
+link: https://habi.gna.ch/2007/10/17/blogcampswitzerland-20/
 slug: blogcampswitzerland-20
 title: BlogCampSwitzerland 2.0
 wordpress_id: 1058

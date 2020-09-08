@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-05-08 18:43:24+00:00
-link: http://habi.gna.ch/2010/05/08/zeitraffer-rund-um-bern/
+link: https://habi.gna.ch/2010/05/08/zeitraffer-rund-um-bern/
 slug: zeitraffer-rund-um-bern
 title: 'Zeitraffer: Rund um Bern [Video]'
 wordpress_id: 2117
@@ -25,7 +25,7 @@ Zubereitung:
 
 Das iPhone sauber am Velo befestigen, je nach Regenerwartungs-Haltung noch mit Arschlochfolie einpacken. Sieht so aus:
 
-[![Bild0082.jpg](http://habi.gna.ch/wp-content/uploads/2010/05/Bild0082-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2010/05/Bild0082.jpg)
+[![Bild0082.jpg](https://habi.gna.ch/wp-content/uploads/2010/05/Bild0082-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2010/05/Bild0082.jpg)
 
 Gorillacam starten und so einstellen, dass alle 10 Sekunden eine Aufnahme gemacht wird.
 

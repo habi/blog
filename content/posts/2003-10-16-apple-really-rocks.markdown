@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-16 18:52:01+00:00
-link: http://habi.gna.ch/2003/10/16/apple-really-rocks/
+link: https://habi.gna.ch/2003/10/16/apple-really-rocks/
 slug: apple-really-rocks
 title: apple really rocks!
 wordpress_id: 314

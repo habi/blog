@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-04-25 10:01:32+00:00
-link: http://habi.gna.ch/2008/04/25/1239/
+link: https://habi.gna.ch/2008/04/25/1239/
 slug: '1239'
 title: Spiderbait - Black Betty [video]
 wordpress_id: 1239

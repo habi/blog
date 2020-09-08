@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-12-01 20:00:35+00:00
-link: http://habi.gna.ch/2014/12/01/recommended-readings-1-december-2014/
+link: https://habi.gna.ch/2014/12/01/recommended-readings-1-december-2014/
 slug: recommended-readings-1-december-2014
 title: 'Recommended readings: 1. December 2014'
 wordpress_id: 3633

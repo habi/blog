@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-04-03 19:44:24+00:00
-link: http://habi.gna.ch/2006/04/03/nowpubliccom-uses-my-photos-with-my-permission/
+link: https://habi.gna.ch/2006/04/03/nowpubliccom-uses-my-photos-with-my-permission/
 slug: nowpubliccom-uses-my-photos-with-my-permission
 title: nowpublic.com uses my photos (with my permission)
 wordpress_id: 153
@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![Nowpublic](http://habi.gna.ch/blog/images/nowpublic-tm.jpg)](http://habi.gna.ch/blog/images/nowpublic.jpg)[my pictures from saturday evening](http://www.flickr.com/photos/habi/sets/72057594097067744/) are now part of a story at nowpublic.com.
+[![Nowpublic](https://habi.gna.ch/blog/images/nowpublic-tm.jpg)](https://habi.gna.ch/blog/images/nowpublic.jpg)[my pictures from saturday evening](http://www.flickr.com/photos/habi/sets/72057594097067744/) are now part of a story at nowpublic.com.
 
 
 
@@ -28,7 +28,7 @@ if you want to read the post at nowpublic, then click [here](http://www.nowpubli
 
 
 
-if this is happening [more often](http://habi.gna.ch/blog/archives/000738.html), maybe i should start to take money for my images?
+if this is happening [more often](https://habi.gna.ch/blog/archives/000738.html), maybe i should start to take money for my images?
 
 
 

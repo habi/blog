@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-02-28 11:48:50+00:00
-link: http://habi.gna.ch/2010/02/28/oschinensee/
+link: https://habi.gna.ch/2010/02/28/oschinensee/
 slug: oschinensee
 title: Oeschinensee
 wordpress_id: 2060

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-03-10 14:36:12+00:00
-link: http://habi.gna.ch/2014/03/10/viel-zu-warm-zum-skifahren/
+link: https://habi.gna.ch/2014/03/10/viel-zu-warm-zum-skifahren/
 slug: viel-zu-warm-zum-skifahren
 title: Viel zu warm zum Skifahren
 wordpress_id: 3395

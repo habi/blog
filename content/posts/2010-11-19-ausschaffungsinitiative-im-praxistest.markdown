@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-11-19 08:21:28+00:00
-link: http://habi.gna.ch/2010/11/19/ausschaffungsinitiative-im-praxistest/
+link: https://habi.gna.ch/2010/11/19/ausschaffungsinitiative-im-praxistest/
 slug: ausschaffungsinitiative-im-praxistest
 title: Ausschaffungsinitiative im Praxistest
 wordpress_id: 2292
@@ -22,4 +22,4 @@ Falls noch Unsicherheiten bestehen, wieso die Ausschaffungsinitiative und der Ge
 
 
 
-Als Zusatzbemerkung: Ich finde es wunderbar, wie das Surprise (im Gegensatz zu anderen [Holzmedien](http://habi.gna.ch/2010/10/21/hauptsache-irrational/)) begriffen hat, dass ein öffentlich zugangliches Archiv nur zu einer weiteren Verbreitung der Artikel fuhren kann. Und dass dafür das [Strassenmagazin](http://www.strassenmagazin.ch/) auch noch eine so moderne Losung wie [issuu.com](http://issuu.com/) macht's nochmal ein Tick spannender. Probleme gab's bei mir nur beim einbinden in die Seite, das bespreche ich aber im nächsten Eintrag, der bald folgt.
+Als Zusatzbemerkung: Ich finde es wunderbar, wie das Surprise (im Gegensatz zu anderen [Holzmedien](https://habi.gna.ch/2010/10/21/hauptsache-irrational/)) begriffen hat, dass ein öffentlich zugangliches Archiv nur zu einer weiteren Verbreitung der Artikel fuhren kann. Und dass dafür das [Strassenmagazin](http://www.strassenmagazin.ch/) auch noch eine so moderne Losung wie [issuu.com](http://issuu.com/) macht's nochmal ein Tick spannender. Probleme gab's bei mir nur beim einbinden in die Seite, das bespreche ich aber im nächsten Eintrag, der bald folgt.

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-11-23 18:00:16+00:00
-link: http://habi.gna.ch/2005/11/23/keeping-a-promise/
+link: https://habi.gna.ch/2005/11/23/keeping-a-promise/
 slug: keeping-a-promise
 title: keeping a promise
 wordpress_id: 100
@@ -20,7 +20,7 @@ i just loved the thought of him saying things about me and now he finally did, r
 
 rule #8 of the little game says, that i must post it here, which is what i do here.
   
-the rules are as follows: leave your name (and web-address) in [a comment](http://habi.gna.ch/blog/archives/000697.html#comments) below and...
+the rules are as follows: leave your name (and web-address) in [a comment](https://habi.gna.ch/blog/archives/000697.html#comments) below and...
 
 
 

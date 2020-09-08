@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-07-31 16:49:44+00:00
-link: http://habi.gna.ch/2008/07/31/aus-der-werbung/
+link: https://habi.gna.ch/2008/07/31/aus-der-werbung/
 slug: aus-der-werbung
 title: aus der werbung
 wordpress_id: 1328

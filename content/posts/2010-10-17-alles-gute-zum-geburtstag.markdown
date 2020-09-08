@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-10-17 15:49:35+00:00
-link: http://habi.gna.ch/2010/10/17/alles-gute-zum-geburtstag/
+link: https://habi.gna.ch/2010/10/17/alles-gute-zum-geburtstag/
 slug: alles-gute-zum-geburtstag
 title: Alles Gute zum Geburtstag!
 wordpress_id: 2233
@@ -49,7 +49,7 @@ Damals waren es diese ersten 258 Byte Text, mit der ich zum ersten Mal etwas von
 > 
 </blockquote>
 
-Dies war mein erster Eintrag auf [iam.bmezine.com](http://iam.bmezine.com/), der Community-Plattform des Magazins für Korperkultur [BMEzine.com](http://en.wikipedia.org/wiki/Bmezine), die von [Shannon Larratt](http://zentastic.com/) aufgebaut und progammiert wurde. Diese Community war ein Analogon zu [livejournal](http://www.livejournal.com/) und vereinigte Menschen mit Tatowierungen und Piercings, was damals in meinem Leben eine wichtigere Rolle als heute spielten. Die Beweggrunde dazu, dass ich heute hier auf dieser Domain blogge, habe ich schon vor Jahren in einem [langeren englischen Beitrag](http://habi.gna.ch/2004/06/09/why-i-blog/) festgehalten, grosstenteils gelten diese immer noch.  
+Dies war mein erster Eintrag auf [iam.bmezine.com](http://iam.bmezine.com/), der Community-Plattform des Magazins für Korperkultur [BMEzine.com](http://en.wikipedia.org/wiki/Bmezine), die von [Shannon Larratt](http://zentastic.com/) aufgebaut und progammiert wurde. Diese Community war ein Analogon zu [livejournal](http://www.livejournal.com/) und vereinigte Menschen mit Tatowierungen und Piercings, was damals in meinem Leben eine wichtigere Rolle als heute spielten. Die Beweggrunde dazu, dass ich heute hier auf dieser Domain blogge, habe ich schon vor Jahren in einem [langeren englischen Beitrag](https://habi.gna.ch/2004/06/09/why-i-blog/) festgehalten, grosstenteils gelten diese immer noch.  
 
 Die Eintrage, die ich damals auf iam.bmezine.com verfasst habe, sind mit etwas gutem Willen teilweise mit der [Wayback Machine von archive.org](http://www.archive.org/web/web.php) zu finden und sitzen auch sauber archiviert in einem Textfile auf der Harddisk meines Laptops. Erstaunlich ist, dass sich in knapp vier Jahren (abgesehen von den Fotos, die ich dort hochgeladen habe) nur eine 213 KB grosse Textmenge angesammelt hat. Wenn ich sehe, was ich heutzutage an personlichen Datenmengen produziere [1], frage ich mich manchmal schon, wie gross ein Zusammenzug meiner im Netz verteilten Daten jetzt ware.  
 

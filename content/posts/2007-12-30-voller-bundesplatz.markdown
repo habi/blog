@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-30 15:44:02+00:00
-link: http://habi.gna.ch/2007/12/30/voller-bundesplatz/
+link: https://habi.gna.ch/2007/12/30/voller-bundesplatz/
 slug: voller-bundesplatz
 title: Voller Bundesplatz
 wordpress_id: 1115

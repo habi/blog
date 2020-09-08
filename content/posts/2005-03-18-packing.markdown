@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-03-18 21:34:35+00:00
-link: http://habi.gna.ch/2005/03/18/packing/
+link: https://habi.gna.ch/2005/03/18/packing/
 slug: packing
 title: packing
 wordpress_id: 749
@@ -11,5 +11,5 @@ categories:
 ---
 
 
-[![Dsc04478](http://habi.gna.ch/blog/images/DSC04478-tm.jpg)](http://habi.gna.ch/blog/images/DSC04478.jpg)[![Dsc04477](http://habi.gna.ch/blog/images/DSC04477-tm.jpg)](http://habi.gna.ch/blog/images/DSC04477.jpg)sometimes - especially when packing for a weekend away or so - i really wish my room had an [F9 or F11 button](http://www.apple.com/macosx/features/expose/).
+[![Dsc04478](https://habi.gna.ch/blog/images/DSC04478-tm.jpg)](https://habi.gna.ch/blog/images/DSC04478.jpg)[![Dsc04477](https://habi.gna.ch/blog/images/DSC04477-tm.jpg)](https://habi.gna.ch/blog/images/DSC04477.jpg)sometimes - especially when packing for a weekend away or so - i really wish my room had an [F9 or F11 button](http://www.apple.com/macosx/features/expose/).
 

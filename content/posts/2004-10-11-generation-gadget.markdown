@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-10-11 22:15:17+00:00
-link: http://habi.gna.ch/2004/10/12/generation-gadget/
+link: https://habi.gna.ch/2004/10/12/generation-gadget/
 slug: generation-gadget
 title: generation gadget
 wordpress_id: 644

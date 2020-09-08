@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-12-19 20:22:20+00:00
-link: http://habi.gna.ch/2004/12/19/recommended-listening/
+link: https://habi.gna.ch/2004/12/19/recommended-listening/
 slug: recommended-listening
 title: recommended listening
 wordpress_id: 695

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-05-01 22:34:01+00:00
-link: http://habi.gna.ch/2015/05/02/so-entstehen-meine-recommended-readings/
+link: https://habi.gna.ch/2015/05/02/so-entstehen-meine-recommended-readings/
 slug: so-entstehen-meine-recommended-readings
 title: So entstehen meine 'Recommended readings'
 wordpress_id: 3892
@@ -21,7 +21,7 @@ Irgendwann hat mensch dann immer etwas Zeit, um den einen oder anderen Artikel d
 
 Die Artikel, die bei Instapaper mit einem Herzli markiere, werden mit einem [IFTTT-Rezept](https://ifttt.com/recipes/285780-post-liked-instapaper-stuff-to-del-icio-us) [1] zu meinem [del.icio.us](https://delicious.com/habi)-Account gezügelt.
 Mit [einem Wordpress-Plugin](https://wordpress.org/plugins/delicious-curator/), welches ich einmal im Monat laufen lasse, werden diese Einträge dort abgeholt und in ein Blogpost abgefüllt.
-Dieses wird dann händisch noch etwas aufgeräumt und sortiert, bevor ich dann auf den 'publizieren'-Knopf drücke und die Blogposts wiederum unter dem [`instapaper`](http://habi.gna.ch/tag/instapaper/)-Tag hier landen
+Dieses wird dann händisch noch etwas aufgeräumt und sortiert, bevor ich dann auf den 'publizieren'-Knopf drücke und die Blogposts wiederum unter dem [`instapaper`](https://habi.gna.ch/tag/instapaper/)-Tag hier landen
 
 Das Ganze liesse sich - wie bei Bastian - noch deutlich hübscher gesamt-automatisieren, damit z.B. auch die Herkunft des Links vermerkt wird.
 So funktioniert es aber im Moment einigermassen gut.

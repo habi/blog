@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-08-21 21:22:44+00:00
-link: http://habi.gna.ch/2013/08/21/ich-war-ein-paar-tage-in-den-bergen/
+link: https://habi.gna.ch/2013/08/21/ich-war-ein-paar-tage-in-den-bergen/
 slug: ich-war-ein-paar-tage-in-den-bergen
 title: Ich war ein paar Tage in den Bergen
 wordpress_id: 3184
@@ -54,5 +54,5 @@ Ich hab' zwar nur die kleine Kamera mitgenommen, nichtsdestotrotz sind ein paar 
 
 
 
-[![Breithorngrat mit Bergsteiger, HDR.jpg](http://habi.gna.ch/wp-content/uploads/2013/08/Breithorngrat-mit-Bergsteiger-HDR-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2013/08/Breithorngrat-mit-Bergsteiger-HDR.jpg)  
+[![Breithorngrat mit Bergsteiger, HDR.jpg](https://habi.gna.ch/wp-content/uploads/2013/08/Breithorngrat-mit-Bergsteiger-HDR-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2013/08/Breithorngrat-mit-Bergsteiger-HDR.jpg)  
 

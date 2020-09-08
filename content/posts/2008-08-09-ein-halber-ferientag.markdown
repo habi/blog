@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-09 15:36:26+00:00
-link: http://habi.gna.ch/2008/08/09/ein-halber-ferientag/
+link: https://habi.gna.ch/2008/08/09/ein-halber-ferientag/
 slug: ein-halber-ferientag
 title: ein halber ferientag [with map]
 wordpress_id: 1335
@@ -24,7 +24,7 @@ trotz langen ferien in kanada und relativ viel zu tun im zusammenhang mit arbeit
 
 
 
-[2008-08-07-Kurier.gpx](http://habi.gna.ch/wp-content/uploads/2008/08/2008-08-07-kurier.gpx)
+[2008-08-07-Kurier.gpx](https://habi.gna.ch/wp-content/uploads/2008/08/2008-08-07-kurier.gpx)
 
 
 

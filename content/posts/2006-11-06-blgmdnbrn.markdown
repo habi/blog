@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-11-06 20:48:24+00:00
-link: http://habi.gna.ch/2006/11/06/blgmdnbrn/
+link: https://habi.gna.ch/2006/11/06/blgmdnbrn/
 slug: blgmdnbrn
 title: blgmdnbrn [update]
 wordpress_id: 812
@@ -30,7 +30,7 @@ willst du das [nächste mal](http://upcoming.org/event/104397/) auch dabei sein?
 **update**: hier noch der beweis von this, da es mit seinem kommentar (unten) nicht ganz geklappt hat...
 
 
-![statuten](http://habi.gna.ch/wp-content/uploads/2006/11/statuten.thumbnail.JPG)
+![statuten](https://habi.gna.ch/wp-content/uploads/2006/11/statuten.thumbnail.JPG)
 
 
 

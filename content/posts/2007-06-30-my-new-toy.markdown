@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-06-30 16:10:10+00:00
-link: http://habi.gna.ch/2007/06/30/my-new-toy/
+link: https://habi.gna.ch/2007/06/30/my-new-toy/
 slug: my-new-toy
 title: my new toy
 wordpress_id: 976
@@ -12,7 +12,7 @@ categories:
 ---
 
 the [general idea](http://www.pedalmafia.com/mafid/mafia_id.html) on the left vs. the outcome on the right:
-[![VeloÌˆli](http://habi.gna.ch/wp-content/uploads/2007/06/veloli-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/06/veloli.jpg)[![DSC06866.JPG](http://habi.gna.ch/wp-content/uploads/2007/06/dsc06866-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/06/dsc06866.jpg)
+[![VeloÌˆli](https://habi.gna.ch/wp-content/uploads/2007/06/veloli-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/06/veloli.jpg)[![DSC06866.JPG](https://habi.gna.ch/wp-content/uploads/2007/06/dsc06866-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/06/dsc06866.jpg)
 looks: [fancy](http://www.flickr.com/photos/habi/tags/hugokoblet/)!
 sound: [super](http://www.youtube.com/watch?v=ezzC_cSe47I)!
 finished? not completely, i still need some stickers to keep it close to the original, but i have to talk with [märcu](http://kreativpunkt.ch/) [1] first...

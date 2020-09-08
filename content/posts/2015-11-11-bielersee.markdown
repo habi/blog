@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-11-11 15:38:43+00:00
-link: http://habi.gna.ch/2015/11/11/bielersee/
+link: https://habi.gna.ch/2015/11/11/bielersee/
 slug: bielersee
 title: Bielersee
 wordpress_id: 4093

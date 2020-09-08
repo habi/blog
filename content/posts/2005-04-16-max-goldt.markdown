@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-16 00:17:18+00:00
-link: http://habi.gna.ch/2005/04/16/max-goldt/
+link: https://habi.gna.ch/2005/04/16/max-goldt/
 slug: max-goldt
 title: max goldt
 wordpress_id: 767

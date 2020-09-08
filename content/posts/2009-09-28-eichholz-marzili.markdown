@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-09-28 22:36:14+00:00
-link: http://habi.gna.ch/2009/09/29/eichholz-marzili/
+link: https://habi.gna.ch/2009/09/29/eichholz-marzili/
 slug: eichholz-marzili
 title: Eichholz-Marzili
 wordpress_id: 1923

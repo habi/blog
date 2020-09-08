@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-07-06 21:30:09+00:00
-link: http://habi.gna.ch/2010/07/06/kulturtipp-der-woche-loutop-attache/
+link: https://habi.gna.ch/2010/07/06/kulturtipp-der-woche-loutop-attache/
 slug: kulturtipp-der-woche-loutop-attache
 title: 'Kulturtipp der Woche: Loutop ATTACHE'
 wordpress_id: 2143
@@ -15,7 +15,7 @@ tags:
 - loutop
 ---
 
-[![076.JPG](http://habi.gna.ch/wp-content/uploads/2010/07/076-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2010/07/076.jpg)Heute Abend war ich auf der [Munsterplattform](http://foursquare.com/venue/4122427) und habe ein wunderbares Tanzstuck der [Compagnie Loutop](http://loutop.com/) gesehen.
+[![076.JPG](https://habi.gna.ch/wp-content/uploads/2010/07/076-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2010/07/076.jpg)Heute Abend war ich auf der [Munsterplattform](http://foursquare.com/venue/4122427) und habe ein wunderbares Tanzstuck der [Compagnie Loutop](http://loutop.com/) gesehen.
 
 
 

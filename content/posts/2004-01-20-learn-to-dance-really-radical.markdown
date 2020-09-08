@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-20 19:59:21+00:00
-link: http://habi.gna.ch/2004/01/20/learn-to-dance-really-radical/
+link: https://habi.gna.ch/2004/01/20/learn-to-dance-really-radical/
 slug: learn-to-dance-really-radical
 title: learn to dance really radical
 wordpress_id: 409
@@ -12,7 +12,7 @@ categories:
 
 [boinboing's link-fu-competition](http://boingboing.net/2004_01_01_archive.html#107461898444256062) is always a plethora of really weird stuff, but this one blows it all!  
 
-[![](http://habi.gna.ch/blog/images/diskofinska-tm.jpg)](http://habi.gna.ch/blog/images/diskofinska.jpg)  [![](http://habi.gna.ch/blog/images/diskofinska2-tm.jpg)](http://habi.gna.ch/blog/images/diskofinska2.jpg)  
+[![](https://habi.gna.ch/blog/images/diskofinska-tm.jpg)](https://habi.gna.ch/blog/images/diskofinska.jpg)  [![](https://habi.gna.ch/blog/images/diskofinska2-tm.jpg)](https://habi.gna.ch/blog/images/diskofinska2.jpg)  
 
 a [movie](http://jimmac.musichall.cz/stuff/Discofinska.mpeg) (probably czech according to the TLD, although the filename suggest that it's finnish) where a guy shows you how to dance "disco" really well. you absolutely have to watch [the whole movie](http://jimmac.musichall.cz/stuff/Discofinska.mpeg)  (6.8 mb mpeg), it's absoluhutely hilarious!
 

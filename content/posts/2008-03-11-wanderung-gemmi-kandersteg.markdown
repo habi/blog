@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-03-11 18:13:57+00:00
-link: http://habi.gna.ch/2008/03/11/wanderung-gemmi-kandersteg/
+link: https://habi.gna.ch/2008/03/11/wanderung-gemmi-kandersteg/
 slug: wanderung-gemmi-kandersteg
 title: wanderung gemmi - kandersteg [with map]
 wordpress_id: 1211
@@ -18,7 +18,7 @@ tags:
 - kandersteg
 ---
 
-dieses wochenende bin ich am samstag bei wolkenverhangenem himmel von kandersteg auf die gemmi gewandert und am sonntag bei wunderschönem wetter wieder retour. am samstag hat das wintec-kästli probleme gemacht, deshalb habe ich nur am sonntag aufgenommen, wo wir durch-geschneeschuht sind. den aufgenommenen track findet ihr unten, die dazugehörigen fotos im flickr-set [wanderung kandersteg - gemmipass](http://habi.gna.ch/pictures/set.php?id=72157604090614927&title=Wanderung+Kandersteg+-+Gemmipass) [1], dank gps-track natürlich auch mit korrekter [lokalisation](http://www.flickr.com/photos/habi/sets/72157604090614927/map) der fotos auf der karte.
+dieses wochenende bin ich am samstag bei wolkenverhangenem himmel von kandersteg auf die gemmi gewandert und am sonntag bei wunderschönem wetter wieder retour. am samstag hat das wintec-kästli probleme gemacht, deshalb habe ich nur am sonntag aufgenommen, wo wir durch-geschneeschuht sind. den aufgenommenen track findet ihr unten, die dazugehörigen fotos im flickr-set [wanderung kandersteg - gemmipass](https://habi.gna.ch/pictures/set.php?id=72157604090614927&title=Wanderung+Kandersteg+-+Gemmipass) [1], dank gps-track natürlich auch mit korrekter [lokalisation](http://www.flickr.com/photos/habi/sets/72157604090614927/map) der fotos auf der karte.
 
 
 
@@ -28,7 +28,7 @@ dieses wochenende bin ich am samstag bei wolkenverhangenem himmel von kandersteg
 
 
 
-[2008-03-09-23-gemmi.gpx](http://habi.gna.ch/wp-content/uploads/2008/03/2008-03-09-23-gemmi.gpx)
+[2008-03-09-23-gemmi.gpx](https://habi.gna.ch/wp-content/uploads/2008/03/2008-03-09-23-gemmi.gpx)
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-09-04 19:21:33+00:00
-link: http://habi.gna.ch/2018/09/04/recommended-readings-vom-august-2018/
+link: https://habi.gna.ch/2018/09/04/recommended-readings-vom-august-2018/
 slug: recommended-readings-vom-august-2018
 title: Recommended Readings vom August 2018
 wordpress_id: 5417

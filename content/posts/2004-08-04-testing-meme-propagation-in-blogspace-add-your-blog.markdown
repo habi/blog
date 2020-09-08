@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-08-04 08:32:30+00:00
-link: http://habi.gna.ch/2004/08/04/testing-meme-propagation-in-blogspace-add-your-blog/
+link: https://habi.gna.ch/2004/08/04/testing-meme-propagation-in-blogspace-add-your-blog/
 slug: testing-meme-propagation-in-blogspace-add-your-blog
 title: 'Testing Meme Propagation In Blogspace: Add Your Blog!'
 wordpress_id: 594
@@ -23,7 +23,7 @@ This posting is a community experiment started by [Minding the Planet](http://no
  (Note: Replace the answers below with your own answers) 
  1. I found this experiment at URL: [http://powerbook.blogger.de](http://powerbook.blogger.de) 
  2. I found it via "Newsreader Software" or "Browsing or Searching the Web" or "An E-Mail Message": Newsreader Software 
- 3. I posted this experiment at URL: [http://habi.gna.ch/blog](http://habi.gna.ch/blog) 
+ 3. I posted this experiment at URL: [https://habi.gna.ch/blog](https://habi.gna.ch/blog) 
  4. I posted this on date (day, month, year): 04 August 2004 
  5. I posted this at time (24 hour time): 10:07:35 
  6. My posting location is (city, state, country): Bern, Switzerland, Europe
@@ -35,6 +35,6 @@ This posting is a community experiment started by [Minding the Planet](http://no
  4. My occupation is: Bike Messenger
  5. I use the following RSS/Atom reader software: Net News Wire light 
  6. I use the following software to post to my blog: ecto 
- 7. I have been blogging since (day, month, year): 17 October 2000 (but not here). Here my first post dates from [08 July 2003](http://habi.gna.ch/blog/archives/000003.html) 
+ 7. I have been blogging since (day, month, year): 17 October 2000 (but not here). Here my first post dates from [08 July 2003](https://habi.gna.ch/blog/archives/000003.html) 
  8. My web browser is: Safari
  9. My operating system is: Mac OS X 10.3.4

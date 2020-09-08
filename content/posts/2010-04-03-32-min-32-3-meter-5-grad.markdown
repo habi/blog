@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-04-03 15:21:27+00:00
-link: http://habi.gna.ch/2010/04/03/32-min-32-3-meter-5-grad/
+link: https://habi.gna.ch/2010/04/03/32-min-32-3-meter-5-grad/
 slug: 32-min-32-3-meter-5-grad
 title: 32 min | 32.3 meter | 5 grad
 wordpress_id: 2091
@@ -26,4 +26,4 @@ categories:
 Hat der Niesen Wolken, findest du auch auf 32m Tiefe keine Osterhasen.
   
 
-**update:** das divelog dieses tauchgangs ist [hier](http://habi.gna.ch/divelog/10.04.03.ralligen.pdf) zu finden.
+**update:** das divelog dieses tauchgangs ist [hier](https://habi.gna.ch/divelog/10.04.03.ralligen.pdf) zu finden.

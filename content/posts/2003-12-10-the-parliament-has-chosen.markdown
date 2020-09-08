@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-12-10 10:54:40+00:00
-link: http://habi.gna.ch/2003/12/10/the-parliament-has-chosen/
+link: https://habi.gna.ch/2003/12/10/the-parliament-has-chosen/
 slug: the-parliament-has-chosen
 title: the parliament has chosen
 wordpress_id: 372

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-05-30 22:04:33+00:00
-link: http://habi.gna.ch/2011/05/31/maman-zum-zweiten/
+link: https://habi.gna.ch/2011/05/31/maman-zum-zweiten/
 slug: maman-zum-zweiten
 title: Maman zum Zweiten
 wordpress_id: 2508
@@ -33,7 +33,7 @@ Das erste Bild zeigt die eindrucksvolle Grosse der Skulptur, die doch ein bissch
 
 
 
-[![Maman DSC_1206-DSC_1205 stereographic under_exposure_layers_0000.jpg](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000.jpg)  
+[![Maman DSC_1206-DSC_1205 stereographic under_exposure_layers_0000.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000.jpg)  
 
 
 
@@ -46,7 +46,7 @@ Das zweite Bild zeigt, wie sich [Louise Bourgeois](http://de.wikipedia.org/wiki/
 
 
 
-[![Maman DSC_1206-DSC_1205 stereographic_exposure_layers_0000.jpg](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000.jpg)
+[![Maman DSC_1206-DSC_1205 stereographic_exposure_layers_0000.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000.jpg)
   
 
 
@@ -65,6 +65,6 @@ Wer schlussendlich ganz unter die Spinne eintauchen mochte, kann sich auf dem Bi
 
   
 
-PS: Und nur damit das klar ist: [Herr Lauer](http://habi.gna.ch/2011/04/16/indien/#comment-14584), es ging nicht darum, Sie mit dem Foto zu schlagen, ich ware sehr gespannt, ihre fruhmorgendliche Ansicht zu sehen!  
+PS: Und nur damit das klar ist: [Herr Lauer](https://habi.gna.ch/2011/04/16/indien/#comment-14584), es ging nicht darum, Sie mit dem Foto zu schlagen, ich ware sehr gespannt, ihre fruhmorgendliche Ansicht zu sehen!  
 
 

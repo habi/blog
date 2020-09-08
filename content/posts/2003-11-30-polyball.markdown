@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-30 23:04:51+00:00
-link: http://habi.gna.ch/2003/12/01/polyball/
+link: https://habi.gna.ch/2003/12/01/polyball/
 slug: polyball
 title: polyball
 wordpress_id: 362
@@ -11,7 +11,7 @@ categories:
 ---
 
 [it](http://www.polyball.ch/) was lovely, thanks for asking.
-[![](http://habi.gna.ch/blog/images/DSC02572-tm.jpg)](http://habi.gna.ch/blog/images/DSC02572.jpg)
+[![](https://habi.gna.ch/blog/images/DSC02572-tm.jpg)](https://habi.gna.ch/blog/images/DSC02572.jpg)
 
-[![](http://habi.gna.ch/blog/images/DSC02556-tm.jpg)](http://habi.gna.ch/blog/images/DSC02556.jpg)
+[![](https://habi.gna.ch/blog/images/DSC02556-tm.jpg)](https://habi.gna.ch/blog/images/DSC02556.jpg)
 the second picture has quite funky colors, which were achieved through a long exposure time and without a flash.

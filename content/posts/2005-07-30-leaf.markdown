@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-07-30 17:48:50+00:00
-link: http://habi.gna.ch/2005/07/30/leaf/
+link: https://habi.gna.ch/2005/07/30/leaf/
 slug: leaf
 title: leaf
 wordpress_id: 51

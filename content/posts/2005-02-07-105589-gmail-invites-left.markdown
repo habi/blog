@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2005-02-07 13:26:34+00:00
-link: http://habi.gna.ch/2005/02/07/105589-gmail-invites-left/
+link: https://habi.gna.ch/2005/02/07/105589-gmail-invites-left/
 slug: 105589-gmail-invites-left
 title: 105589 gmail invites left
 wordpress_id: 732

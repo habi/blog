@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-05 18:14:24+00:00
-link: http://habi.gna.ch/2004/04/05/update-bike-ride-to-chernobyl/
+link: https://habi.gna.ch/2004/04/05/update-bike-ride-to-chernobyl/
 slug: update-bike-ride-to-chernobyl
 title: 'update: bike ride to chernobyl'
 wordpress_id: 494

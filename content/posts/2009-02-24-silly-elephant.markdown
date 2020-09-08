@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-02-24 17:37:53+00:00
-link: http://habi.gna.ch/2009/02/24/silly-elephant/
+link: https://habi.gna.ch/2009/02/24/silly-elephant/
 slug: silly-elephant
 title: silly elephant
 wordpress_id: 1658

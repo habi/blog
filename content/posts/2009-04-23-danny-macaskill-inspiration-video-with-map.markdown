@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-04-23 07:21:29+00:00
-link: http://habi.gna.ch/2009/04/23/danny-macaskill-inspiration-video-with-map/
+link: https://habi.gna.ch/2009/04/23/danny-macaskill-inspiration-video-with-map/
 slug: danny-macaskill-inspiration-video-with-map
 title: danny macaskill, inspiration [video] [with map]
 wordpress_id: 1733
@@ -22,4 +22,4 @@ da fühle ich mich mit meinen knapp 20 km ein bisschen hoch- und runterfahren am
 
 
 
-[![zimmerwald.png](http://habi.gna.ch/wp-content/uploads/2009/04/zimmerwald.jpg)](http://habi.gna.ch/wp-content/uploads/2009/04/zimmerwald.png)
+[![zimmerwald.png](https://habi.gna.ch/wp-content/uploads/2009/04/zimmerwald.jpg)](https://habi.gna.ch/wp-content/uploads/2009/04/zimmerwald.png)

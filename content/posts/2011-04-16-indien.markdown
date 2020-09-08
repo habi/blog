@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-04-16 13:49:17+00:00
-link: http://habi.gna.ch/2011/04/16/indien/
+link: https://habi.gna.ch/2011/04/16/indien/
 slug: indien
 title: Indien
 wordpress_id: 2473
@@ -42,4 +42,4 @@ Weiter
 
 
 
-![foodie.gif](http://habi.gna.ch/wp-content/uploads/2011/04/foodie.gif)
+![foodie.gif](https://habi.gna.ch/wp-content/uploads/2011/04/foodie.gif)

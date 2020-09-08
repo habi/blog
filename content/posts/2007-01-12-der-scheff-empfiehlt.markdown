@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-01-12 19:19:22+00:00
-link: http://habi.gna.ch/2007/01/12/der-scheff-empfiehlt/
+link: https://habi.gna.ch/2007/01/12/der-scheff-empfiehlt/
 slug: der-scheff-empfiehlt
 title: Der scheff empfiehlt...
 wordpress_id: 841

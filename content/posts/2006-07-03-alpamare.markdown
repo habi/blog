@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-07-03 20:43:48+00:00
-link: http://habi.gna.ch/2006/07/03/alpamare/
+link: https://habi.gna.ch/2006/07/03/alpamare/
 slug: alpamare
 title: alpamare
 wordpress_id: 197
@@ -12,7 +12,7 @@ categories:
 ---
 
 
-oh, and if you want to see what i did on saturday [1], you can watch the slideshow [here](http://habi.gna.ch/pics/alpamare06/).
+oh, and if you want to see what i did on saturday [1], you can watch the slideshow [here](https://habi.gna.ch/pics/alpamare06/).
 
 
 

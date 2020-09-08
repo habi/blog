@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-13 16:37:29+00:00
-link: http://habi.gna.ch/2008/09/13/novemberstimmung/
+link: https://habi.gna.ch/2008/09/13/novemberstimmung/
 slug: novemberstimmung
 title: novemberstimmung
 wordpress_id: 1427

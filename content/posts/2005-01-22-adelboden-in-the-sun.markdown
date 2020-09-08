@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-01-22 19:29:08+00:00
-link: http://habi.gna.ch/2005/01/22/adelboden-in-the-sun/
+link: https://habi.gna.ch/2005/01/22/adelboden-in-the-sun/
 slug: adelboden-in-the-sun
 title: adelboden in the sun
 wordpress_id: 720

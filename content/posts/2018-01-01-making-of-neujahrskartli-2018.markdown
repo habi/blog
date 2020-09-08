@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-01-01 00:01:54+00:00
-link: http://habi.gna.ch/2018/01/01/making-of-neujahrskartli-2018/
+link: https://habi.gna.ch/2018/01/01/making-of-neujahrskartli-2018/
 slug: making-of-neujahrskartli-2018
 title: 'Making of: Neujahrskärtli 2018'
 wordpress_id: 5248
@@ -12,7 +12,7 @@ tags:
 - happy new year
 ---
 
-Wie [letztes Jahr](http://habi.gna.ch/2016/12/31/making-of-neujahrskartli-2017/), für die, die's wunder nimmt.
+Wie [letztes Jahr](https://habi.gna.ch/2016/12/31/making-of-neujahrskartli-2017/), für die, die's wunder nimmt.
 Das 'Making Of' meines Neujahrskärtlis.
 
 Zutaten:
@@ -30,6 +30,6 @@ Zubereitung:
 - Mit dem aus Pages exportierten PDF ins [CopyQuick](https://www.sbb.ch/en/meta/shop-detail.html/geo-copyquick-9046) im Bahnhof.
 - Adiömersi, ab die Post!
 
-![](http://habi.gna.ch/wp-content/uploads/2018/01/2018-1024x512.jpg)
+![](https://habi.gna.ch/wp-content/uploads/2018/01/2018-1024x512.jpg)
 
 Happy New Year!

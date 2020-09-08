@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-08-17 20:18:19+00:00
-link: http://habi.gna.ch/2010/08/17/island/
+link: https://habi.gna.ch/2010/08/17/island/
 slug: island
 title: Island
 wordpress_id: 2177
@@ -25,7 +25,7 @@ Ganz old-school-massig habe ich mal versucht aus einer Bildserie des [Strokkur-G
 
 
 
-![strokkur.gif](http://habi.gna.ch/wp-content/uploads/2010/08/strokkur.gif)
+![strokkur.gif](https://habi.gna.ch/wp-content/uploads/2010/08/strokkur.gif)
 
 
 

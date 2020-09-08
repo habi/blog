@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-10-02 21:08:09+00:00
-link: http://habi.gna.ch/2017/10/02/recommended-readings-september-2017-2/
+link: https://habi.gna.ch/2017/10/02/recommended-readings-september-2017-2/
 slug: recommended-readings-september-2017-2
 title: 'Recommended readings: September 2017'
 wordpress_id: 5198

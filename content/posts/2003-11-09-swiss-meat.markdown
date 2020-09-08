@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-09 15:57:11+00:00
-link: http://habi.gna.ch/2003/11/09/swiss-meat/
+link: https://habi.gna.ch/2003/11/09/swiss-meat/
 slug: swiss-meat
 title: swiss meat
 wordpress_id: 344
@@ -11,7 +11,7 @@ categories:
 ---
 
 hmm, i think if i participated in [that picture-contest](http://www.schweizerfleisch.ch/images/events/Olma03/Sieger-olma_1/page1.htm), i would have been the designated winner.
-compare the [winner](http://www.schweizerfleisch.ch/images/events/Olma03/Sieger-olma_1/ppages/ppage7.htm) with the [original](http://habi.gna.ch/pics/CH-Fleisch/) :-)
+compare the [winner](http://www.schweizerfleisch.ch/images/events/Olma03/Sieger-olma_1/ppages/ppage7.htm) with the [original](https://habi.gna.ch/pics/CH-Fleisch/) :-)
 
 oh, and btw: [a huge amount of people](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html) might wonder how i always find obscure links like these.
 

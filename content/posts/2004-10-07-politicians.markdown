@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-10-07 20:01:37+00:00
-link: http://habi.gna.ch/2004/10/07/politicians/
+link: https://habi.gna.ch/2004/10/07/politicians/
 slug: politicians
 title: politicians
 wordpress_id: 639

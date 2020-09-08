@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-12-27 20:55:40+00:00
-link: http://habi.gna.ch/2004/12/27/a-little-challenge-for-you-2nd-update/
+link: https://habi.gna.ch/2004/12/27/a-little-challenge-for-you-2nd-update/
 slug: a-little-challenge-for-you-2nd-update
 title: a little challenge for you [2nd update]
 wordpress_id: 700
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Penguinjump](http://habi.gna.ch/blog/images/penguinjump-tm.jpg)](http://habi.gna.ch/blog/images/penguinjump.jpg)today was a reeeealy slow day at work, so i was catching up with the posts on [boingboing.net](http://www.boingboing.net/). while checking out the entries on t[he latest web-zen pos](http://www.boingboing.net/2004/12/26/web_zen_holiday_left.html)t i found [this marvelous penguin game](http://www.macromedia.com/macromedia/holiday2004/), a holiday greeting from macromedia.com. it seams that i've been really lucky, because managed to impress the "judges", i made 29.4 points.
+[![Penguinjump](https://habi.gna.ch/blog/images/penguinjump-tm.jpg)](https://habi.gna.ch/blog/images/penguinjump.jpg)today was a reeeealy slow day at work, so i was catching up with the posts on [boingboing.net](http://www.boingboing.net/). while checking out the entries on t[he latest web-zen pos](http://www.boingboing.net/2004/12/26/web_zen_holiday_left.html)t i found [this marvelous penguin game](http://www.macromedia.com/macromedia/holiday2004/), a holiday greeting from macromedia.com. it seams that i've been really lucky, because managed to impress the "judges", i made 29.4 points.
   
 can you beat me? leave a comment!
 
@@ -29,11 +29,11 @@ all those beat me!
 
 
 
-[![Penguin2](http://habi.gna.ch/blog/images/penguin2-tm.jpg)](http://habi.gna.ch/blog/images/penguin2.jpg)[sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html) at 08.56 in the morning
+[![Penguin2](https://habi.gna.ch/blog/images/penguin2-tm.jpg)](https://habi.gna.ch/blog/images/penguin2.jpg)[sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html) at 08.56 in the morning
 
 
 
-[![Penguinjump-1](http://habi.gna.ch/blog/images/penguinjump-1-tm.jpg)](http://habi.gna.ch/blog/images/penguinjump-1.jpg)[raphael](http://www.velocite.ch/article.php3?id_article=17/), he wrote some more on penguin games [on the velocite-blog](http://velocite.ch/weblogtoo/index.php?p=61).
+[![Penguinjump-1](https://habi.gna.ch/blog/images/penguinjump-1-tm.jpg)](https://habi.gna.ch/blog/images/penguinjump-1.jpg)[raphael](http://www.velocite.ch/article.php3?id_article=17/), he wrote some more on penguin games [on the velocite-blog](http://velocite.ch/weblogtoo/index.php?p=61).
 
 
 
@@ -41,7 +41,7 @@ all those beat me!
 
 
 
-my sister would have been the fastest [to respond](http://habi.gna.ch/blog/mt-comments.cgi?entry_id=502), but needs some practice :-) keep going!
+my sister would have been the fastest [to respond](https://habi.gna.ch/blog/mt-comments.cgi?entry_id=502), but needs some practice :-) keep going!
 
 
 

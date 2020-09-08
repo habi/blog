@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-12-03 22:24:49+00:00
-link: http://habi.gna.ch/2013/12/03/mein-november/
+link: https://habi.gna.ch/2013/12/03/mein-november/
 slug: mein-november
 title: Mein November
 wordpress_id: 3263
@@ -12,7 +12,7 @@ tags:
 - 1se
 ---
 
-Genau wie im [Januar](http://habi.gna.ch/2013/02/01/mein-januar/), [Februar](http://habi.gna.ch/2013/03/04/mein-februar/), [März](http://habi.gna.ch/2013/04/01/mein-marz/), [April](http://habi.gna.ch/2013/05/01/mein-april/), [Mai](http://habi.gna.ch/2013/06/01/mein-mai/), [Juni](http://habi.gna.ch/2013/07/01/mein-juni/), [Juli](http://habi.gna.ch/2013/08/02/mein-juli/), [August](http://habi.gna.ch/2013/09/02/mein-august/), [September](http://habi.gna.ch/2013/10/02/mein-september/) und [Oktober](http://habi.gna.ch/2013/11/03/mein-oktober/) hab’ ich im November jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
+Genau wie im [Januar](https://habi.gna.ch/2013/02/01/mein-januar/), [Februar](https://habi.gna.ch/2013/03/04/mein-februar/), [März](https://habi.gna.ch/2013/04/01/mein-marz/), [April](https://habi.gna.ch/2013/05/01/mein-april/), [Mai](https://habi.gna.ch/2013/06/01/mein-mai/), [Juni](https://habi.gna.ch/2013/07/01/mein-juni/), [Juli](https://habi.gna.ch/2013/08/02/mein-juli/), [August](https://habi.gna.ch/2013/09/02/mein-august/), [September](https://habi.gna.ch/2013/10/02/mein-september/) und [Oktober](https://habi.gna.ch/2013/11/03/mein-oktober/) hab’ ich im November jeden Tag ein Videoschnipsel aufgenommen; Ende Monat ergeben sich diese gut 30 Sekunden.
 
 {{< vimeo 80838771 >}}
 
@@ -20,10 +20,10 @@ Da ich zwei Wochen in den Ferien war (dazu später mehr), gibt’s ein paar Einb
 
 Die vollständige Liste:
 * der letzte [Nass-Tauchgang der Saison](http://divelog.davidhaberthuer.ch/2013.11.01.eichholz-marzili.pdf)
-* der erste [Trocken-Tauchgang der Saison](http://habi.gna.ch/2013/11/05/tauchen-im-lac-st-leonard/)
+* der erste [Trocken-Tauchgang der Saison](https://habi.gna.ch/2013/11/05/tauchen-im-lac-st-leonard/)
 * Geisterstadt Bern, Sonntag Abend
 * Goodbye Sally!
-* Unterwegs nach [Lausanne](http://habi.gna.ch/2013/11/05/zmorge-am-see/)
+* Unterwegs nach [Lausanne](https://habi.gna.ch/2013/11/05/zmorge-am-see/)
 * Es wird langsam richtig dunkel am Abend
 * Abflug
 * Tuktuk nach Negombo

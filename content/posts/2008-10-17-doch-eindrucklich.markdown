@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-10-17 16:18:05+00:00
-link: http://habi.gna.ch/2008/10/17/doch-eindrucklich/
+link: https://habi.gna.ch/2008/10/17/doch-eindrucklich/
 slug: doch-eindrucklich
 title: doch, eindrücklich
 wordpress_id: 1498

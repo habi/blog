@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-03-08 19:38:46+00:00
-link: http://habi.gna.ch/2013/03/08/eistauchen-2013-das-video/
+link: https://habi.gna.ch/2013/03/08/eistauchen-2013-das-video/
 slug: eistauchen-2013-das-video
 title: Eistauchen 2013, das Video
 wordpress_id: 3059

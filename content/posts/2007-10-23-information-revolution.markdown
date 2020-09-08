@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-10-23 20:03:49+00:00
-link: http://habi.gna.ch/2007/10/23/information-revolution/
+link: https://habi.gna.ch/2007/10/23/information-revolution/
 slug: information-revolution
 title: Information R/evolution
 wordpress_id: 1063

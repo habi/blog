@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-06-04 19:02:31+00:00
-link: http://habi.gna.ch/2007/06/04/l33t-wasserhane/
+link: https://habi.gna.ch/2007/06/04/l33t-wasserhane/
 slug: l33t-wasserhane
 title: l33t wasserhane
 wordpress_id: 949

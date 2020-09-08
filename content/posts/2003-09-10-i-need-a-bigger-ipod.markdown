@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-09-10 11:22:05+00:00
-link: http://habi.gna.ch/2003/09/10/i-need-a-bigger-ipod/
+link: https://habi.gna.ch/2003/09/10/i-need-a-bigger-ipod/
 slug: i-need-a-bigger-ipod
 title: i need a bigger ipod
 wordpress_id: 274
@@ -12,7 +12,7 @@ categories:
 
 i just ripped an old cd i had lying around here: [Overproof](http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70309100629&sql=A2fdsa9qgi23h) from [Rockers Hi-Fi](http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70309100629&sql=Bhy63mpnd9f8o). 
 And after i synced it to my ipod, i found out, that i need a bigger one, it's nearly full!!!
-[![](http://habi.gna.ch/blog/images/ipod-tm.jpg)](http://habi.gna.ch/blog/images/ipod.jpg)
+[![](https://habi.gna.ch/blog/images/ipod-tm.jpg)](https://habi.gna.ch/blog/images/ipod.jpg)
 
 btw: the vast majority of all the songs on my ipod (i guess more than 95%) are legally owned/bougth by either me, my flat-mates or another friend i borrowed the CD. i admit that i have some songs that i got through [poisoned](http://www.gottsilla.net/software.php?site=poisoned) or [aquisition](http://www.acquisitionx.com/) (three songs from [Seeed](http://www.seeed.de/), which i saw on the Gurtenfestival last year and Tour de France (the 1983 version, not the new one from 2003) from [Kraftwerk](http://217.69.65.130/de/), are some i remember out of my head...).
 

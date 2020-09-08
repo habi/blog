@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-07 15:09:10+00:00
-link: http://habi.gna.ch/2004/03/07/exercise-in-style/
+link: https://habi.gna.ch/2004/03/07/exercise-in-style/
 slug: exercise-in-style
 title: exercise in style
 wordpress_id: 461

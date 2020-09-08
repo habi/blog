@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-01-30 12:39:25+00:00
-link: http://habi.gna.ch/2010/01/30/saanenmoser-schnee-super/
+link: https://habi.gna.ch/2010/01/30/saanenmoser-schnee-super/
 slug: saanenmoser-schnee-super
 title: 'Saanenmöser: Schnee super!'
 wordpress_id: 2032

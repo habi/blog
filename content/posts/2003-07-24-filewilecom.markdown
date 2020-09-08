@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-24 21:24:41+00:00
-link: http://habi.gna.ch/2003/07/24/filewilecom/
+link: https://habi.gna.ch/2003/07/24/filewilecom/
 slug: filewilecom
 title: filewile.com
 wordpress_id: 229
@@ -18,7 +18,7 @@ go to their site and download some music and put a tip in the jar..
   
   
 
-![](http://habi.gna.ch/blog/images/filewile.com.jpg)
+![](https://habi.gna.ch/blog/images/filewile.com.jpg)
 
 
 

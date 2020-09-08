@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-11-27 10:33:09+00:00
-link: http://habi.gna.ch/2016/11/27/as-steit-auso-no/
+link: https://habi.gna.ch/2016/11/27/as-steit-auso-no/
 slug: as-steit-auso-no
 title: Äs steit auso no...
 wordpress_id: 4844

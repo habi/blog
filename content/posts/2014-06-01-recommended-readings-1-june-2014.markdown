@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-06-01 19:21:06+00:00
-link: http://habi.gna.ch/2014/06/01/recommended-readings-1-june-2014/
+link: https://habi.gna.ch/2014/06/01/recommended-readings-1-june-2014/
 slug: recommended-readings-1-june-2014
 title: 'Recommended readings: 1. June 2014'
 wordpress_id: 3457

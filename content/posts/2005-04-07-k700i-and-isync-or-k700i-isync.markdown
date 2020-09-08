@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-07 21:53:34+00:00
-link: http://habi.gna.ch/2005/04/07/k700i-and-isync-or-k700i-isync/
+link: https://habi.gna.ch/2005/04/07/k700i-and-isync-or-k700i-isync/
 slug: k700i-and-isync-or-k700i-isync
 title: k700i and isync (or k700i & isync :-)
 wordpress_id: 757
@@ -22,7 +22,7 @@ just in case anyone out there has the same problem and is trying to find a solut
 
 
 
-[![Btk700I](http://habi.gna.ch/blog/images/btk700i-tm.jpg)](http://habi.gna.ch/blog/images/btk700i.jpg)now i just need to get file transfers going, that's also a thing that doesn't work. the transfer starts just right, but then dies with the error seen on the left. i can send files from the phone to the mac, but not the other way. really weird!
+[![Btk700I](https://habi.gna.ch/blog/images/btk700i-tm.jpg)](https://habi.gna.ch/blog/images/btk700i.jpg)now i just need to get file transfers going, that's also a thing that doesn't work. the transfer starts just right, but then dies with the error seen on the left. i can send files from the phone to the mac, but not the other way. really weird!
   
 anyone any suggestions on how to remedy that situation, 'cause i'd really like to use a cool .mp3 as a ringtone...
 

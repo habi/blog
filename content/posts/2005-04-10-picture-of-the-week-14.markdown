@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-10 17:28:09+00:00
-link: http://habi.gna.ch/2005/04/10/picture-of-the-week-14/
+link: https://habi.gna.ch/2005/04/10/picture-of-the-week-14/
 slug: picture-of-the-week-14
 title: picture of the week 14
 wordpress_id: 759
@@ -15,5 +15,5 @@ finally i got some time to sort through the pile of pictures i took on vacation 
 
 
 
-[![Dsc00433](http://habi.gna.ch/blog/images/DSC00433-tm.jpg)](http://habi.gna.ch/blog/images/DSC00433.jpg)
+[![Dsc00433](https://habi.gna.ch/blog/images/DSC00433-tm.jpg)](https://habi.gna.ch/blog/images/DSC00433.jpg)
 

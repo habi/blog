@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-11-05 22:15:05+00:00
-link: http://habi.gna.ch/2006/11/06/picture-of-the-week-44-2/
+link: https://habi.gna.ch/2006/11/06/picture-of-the-week-44-2/
 slug: picture-of-the-week-44-2
 title: picture of the week 44
 wordpress_id: 811
@@ -16,7 +16,7 @@ the tower was designed by mario botta, a famous swiss architect and built by swi
 
 
 
-[![DSC05252.JPG](http://habi.gna.ch/wp-content/uploads/2006/11/images/DSC05252-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/11/images/DSC05252.jpg)
+[![DSC05252.JPG](https://habi.gna.ch/wp-content/uploads/2006/11/images/DSC05252-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2006/11/images/DSC05252.jpg)
 
 
 

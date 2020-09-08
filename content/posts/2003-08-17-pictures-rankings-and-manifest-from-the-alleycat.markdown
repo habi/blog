@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-17 19:10:50+00:00
-link: http://habi.gna.ch/2003/08/17/pictures-rankings-and-manifest-from-the-alleycat/
+link: https://habi.gna.ch/2003/08/17/pictures-rankings-and-manifest-from-the-alleycat/
 slug: pictures-rankings-and-manifest-from-the-alleycat
 title: pictures, rankings, and manifest from the alleycat
 wordpress_id: 262
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[the pictures](http://habi.gna.ch/pics/AlleycatBern03/) from the alleycat last friday night are online:
+[the pictures](https://habi.gna.ch/pics/AlleycatBern03/) from the alleycat last friday night are online:
 
 the results were:
 
@@ -28,4 +28,4 @@ the results were:
 11 Renzo 1.11:15
 DNF Hamme & Simu
 
-the manifest can be found [here](http://habi.gna.ch/pics/AlleycatBern03/manifest_fahrer.pdf) (38kb .pdf) and the list of all the posts can be found [here](http://habi.gna.ch/pics/AlleycatBern03/postenliste.pdf) (40kb .pdf)
+the manifest can be found [here](https://habi.gna.ch/pics/AlleycatBern03/manifest_fahrer.pdf) (38kb .pdf) and the list of all the posts can be found [here](https://habi.gna.ch/pics/AlleycatBern03/postenliste.pdf) (40kb .pdf)

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-25 15:28:14+00:00
-link: http://habi.gna.ch/2003/07/25/some-other-blogs-near-my-epicentre/
+link: https://habi.gna.ch/2003/07/25/some-other-blogs-near-my-epicentre/
 slug: some-other-blogs-near-my-epicentre
 title: some other blogs near my epicentre
 wordpress_id: 231

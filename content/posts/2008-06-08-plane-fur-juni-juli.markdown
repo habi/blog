@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-06-08 21:11:49+00:00
-link: http://habi.gna.ch/2008/06/08/plane-fur-juni-juli/
+link: https://habi.gna.ch/2008/06/08/plane-fur-juni-juli/
 slug: plane-fur-juni-juli
 title: pläne für juni-juli [with map]
 wordpress_id: 1280

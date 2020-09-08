@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-06-03 22:48:10+00:00
-link: http://habi.gna.ch/2004/06/04/waterworld-ii/
+link: https://habi.gna.ch/2004/06/04/waterworld-ii/
 slug: waterworld-ii
 title: waterworld II
 wordpress_id: 545

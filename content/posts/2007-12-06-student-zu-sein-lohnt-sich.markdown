@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-06 09:00:08+00:00
-link: http://habi.gna.ch/2007/12/06/student-zu-sein-lohnt-sich/
+link: https://habi.gna.ch/2007/12/06/student-zu-sein-lohnt-sich/
 slug: student-zu-sein-lohnt-sich
 title: student zu sein lohnt sich!
 wordpress_id: 1081

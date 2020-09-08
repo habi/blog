@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-12-10 22:34:11+00:00
-link: http://habi.gna.ch/2006/12/10/picture-of-the-week-49-2/
+link: https://habi.gna.ch/2006/12/10/picture-of-the-week-49-2/
 slug: picture-of-the-week-49-2
 title: picture of the week 49
 wordpress_id: 832
@@ -15,7 +15,7 @@ if you ever want to spend the night in a nice hotel [2] we can recommend it. the
 
 
 
-[![DSC05464.JPG](http://habi.gna.ch/wp-content/uploads/2006/12/DSC05464-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2006/12/DSC05464.jpg)
+[![DSC05464.JPG](https://habi.gna.ch/wp-content/uploads/2006/12/DSC05464-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2006/12/DSC05464.jpg)
 
 [1]: three single beds were free in whole leukerbad, but we didn't want that
 [2]: that is also quite cheap and is run by people with disabilities - as an integration project and place to live

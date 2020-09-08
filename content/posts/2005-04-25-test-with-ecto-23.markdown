@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-25 08:53:14+00:00
-link: http://habi.gna.ch/2005/04/25/test-with-ecto-23/
+link: https://habi.gna.ch/2005/04/25/test-with-ecto-23/
 slug: test-with-ecto-23
 title: test with ecto 2.3
 wordpress_id: 773

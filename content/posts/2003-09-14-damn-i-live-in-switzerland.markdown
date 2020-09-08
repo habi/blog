@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-09-14 21:40:18+00:00
-link: http://habi.gna.ch/2003/09/14/damn-i-live-in-switzerland/
+link: https://habi.gna.ch/2003/09/14/damn-i-live-in-switzerland/
 slug: damn-i-live-in-switzerland
 title: damn i live in switzerland
 wordpress_id: 276

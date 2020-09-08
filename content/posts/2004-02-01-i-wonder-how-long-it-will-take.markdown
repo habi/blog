@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-02-01 16:21:55+00:00
-link: http://habi.gna.ch/2004/02/01/i-wonder-how-long-it-will-take/
+link: https://habi.gna.ch/2004/02/01/i-wonder-how-long-it-will-take/
 slug: i-wonder-how-long-it-will-take
 title: i wonder how long it will take
 wordpress_id: 428
@@ -11,7 +11,7 @@ categories:
 ---
 
 i thought it's time that i tidy up my desk a bit
-1: [![](http://habi.gna.ch/blog/images/DSC02809_1-tm.jpg)](http://habi.gna.ch/blog/images/DSC02809_1.jpg)
+1: [![](https://habi.gna.ch/blog/images/DSC02809_1-tm.jpg)](https://habi.gna.ch/blog/images/DSC02809_1.jpg)
 
-2:  [![](http://habi.gna.ch/blog/images/DSC02815-tm.jpg)](http://habi.gna.ch/blog/images/DSC02815.jpg)
+2:  [![](https://habi.gna.ch/blog/images/DSC02815-tm.jpg)](https://habi.gna.ch/blog/images/DSC02815.jpg)
 i wonder how long it takes until state 1 comes back :-)

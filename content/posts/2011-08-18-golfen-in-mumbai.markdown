@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-08-18 21:47:38+00:00
-link: http://habi.gna.ch/2011/08/18/golfen-in-mumbai/
+link: https://habi.gna.ch/2011/08/18/golfen-in-mumbai/
 slug: golfen-in-mumbai
 title: Golfen In Mumbai
 wordpress_id: 2552

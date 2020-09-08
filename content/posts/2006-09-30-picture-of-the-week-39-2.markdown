@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-09-30 20:39:54+00:00
-link: http://habi.gna.ch/2006/09/30/picture-of-the-week-39-2/
+link: https://habi.gna.ch/2006/09/30/picture-of-the-week-39-2/
 slug: picture-of-the-week-39-2
 title: picture of the week 39
 wordpress_id: 796
@@ -16,7 +16,7 @@ today we went for a little walk onto the [niederhorn](http://map.search.ch/beate
 
 
 
-[![DSC05002.JPG](http://habi.gna.ch/wp-content/uploads/images/DSC05002-tm.jpg)](http://habi.gna.ch/wp-content/uploads/images/DSC05002.jpg)
+[![DSC05002.JPG](https://habi.gna.ch/wp-content/uploads/images/DSC05002-tm.jpg)](https://habi.gna.ch/wp-content/uploads/images/DSC05002.jpg)
 
 
 

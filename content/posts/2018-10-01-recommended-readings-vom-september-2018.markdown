@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-10-01 19:21:55+00:00
-link: http://habi.gna.ch/2018/10/01/recommended-readings-vom-september-2018/
+link: https://habi.gna.ch/2018/10/01/recommended-readings-vom-september-2018/
 slug: recommended-readings-vom-september-2018
 title: Recommended Readings vom September 2018
 wordpress_id: 5433

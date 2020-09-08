@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-07-08 16:43:27+00:00
-link: http://habi.gna.ch/2007/07/08/stefan-sagmeister-on-design-and-happiness-video/
+link: https://habi.gna.ch/2007/07/08/stefan-sagmeister-on-design-and-happiness-video/
 slug: stefan-sagmeister-on-design-and-happiness-video
 title: stefan sagmeister on design and happiness [video]
 wordpress_id: 991
@@ -12,7 +12,7 @@ categories:
 - personal
 ---
 
-the [tedtalks](http://www.ted.com/talks) are always inspriring and a great watch, (as i'vee [said before](http://habi.gna.ch/?s=tedtalks)...), but [this one](http://www.ted.com/talks/view/id/50) from [stefan sagmeister](http://en.wikipedia.org/wiki/Stefan_Sagmeister) has some more to it.
+the [tedtalks](http://www.ted.com/talks) are always inspriring and a great watch, (as i'vee [said before](https://habi.gna.ch/?s=tedtalks)...), but [this one](http://www.ted.com/talks/view/id/50) from [stefan sagmeister](http://en.wikipedia.org/wiki/Stefan_Sagmeister) has some more to it.
 
 
 

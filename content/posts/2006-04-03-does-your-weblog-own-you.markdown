@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-04-03 17:33:54+00:00
-link: http://habi.gna.ch/2006/04/03/does-your-weblog-own-you/
+link: https://habi.gna.ch/2006/04/03/does-your-weblog-own-you/
 slug: does-your-weblog-own-you
 title: does your weblog own you?
 wordpress_id: 152

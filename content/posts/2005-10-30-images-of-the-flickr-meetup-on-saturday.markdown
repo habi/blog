@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-10-30 16:23:40+00:00
-link: http://habi.gna.ch/2005/10/30/images-of-the-flickr-meetup-on-saturday/
+link: https://habi.gna.ch/2005/10/30/images-of-the-flickr-meetup-on-saturday/
 slug: images-of-the-flickr-meetup-on-saturday
 title: images of the flickr-meetup on saturday
 wordpress_id: 91
@@ -18,7 +18,7 @@ i really like the one stephanie shot while we were having a drink in the tramdep
 
 
 
-[![ 29 57543830 B285B3A674 T-1](http://habi.gna.ch/blog/images/_29_57543830_b285b3a674_t-1-tm.jpg)](http://habi.gna.ch/blog/images/_29_57543830_b285b3a674_t-1.jpg)
+[![ 29 57543830 B285B3A674 T-1](https://habi.gna.ch/blog/images/_29_57543830_b285b3a674_t-1-tm.jpg)](https://habi.gna.ch/blog/images/_29_57543830_b285b3a674_t-1.jpg)
 
 
 

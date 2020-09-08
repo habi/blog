@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-05 12:54:21+00:00
-link: http://habi.gna.ch/2004/01/05/it-was-lovely-altough/
+link: https://habi.gna.ch/2004/01/05/it-was-lovely-altough/
 slug: it-was-lovely-altough
 title: it was lovely, altough
 wordpress_id: 393

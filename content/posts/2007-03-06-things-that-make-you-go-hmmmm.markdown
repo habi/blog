@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-03-06 17:18:50+00:00
-link: http://habi.gna.ch/2007/03/06/things-that-make-you-go-hmmmm/
+link: https://habi.gna.ch/2007/03/06/things-that-make-you-go-hmmmm/
 slug: things-that-make-you-go-hmmmm
 title: things that make you go hmmmm....
 wordpress_id: 878

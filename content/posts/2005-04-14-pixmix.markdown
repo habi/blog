@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-04-14 21:27:32+00:00
-link: http://habi.gna.ch/2005/04/14/pixmix/
+link: https://habi.gna.ch/2005/04/14/pixmix/
 slug: pixmix
 title: pixmix
 wordpress_id: 765
@@ -11,7 +11,7 @@ categories:
 - tschörman
 ---
 
-[![Derblaueadler](http://habi.gna.ch/blog/images/derblaueadler-tm.jpg)](http://habi.gna.ch/blog/images/derblaueadler.jpg)
+[![Derblaueadler](https://habi.gna.ch/blog/images/derblaueadler-tm.jpg)](https://habi.gna.ch/blog/images/derblaueadler.jpg)
 Aus akutellem und bernbezogenem anlass in deutsch: nächsten mittwoch abend findet [pixmix vol III](http://www.starfrosch.ch/starfrosch/module-pagesetter-viewpub-tid-8-pid-39.html)[1] in der dampfzentrale statt.
 
 der [urs](http://www.flickr.com/photos/habi/sets/22039/) (bzw. der luchs), gosi und [splint](http://splint.ch) machen da eine kleine, sicherlich sehr lustige geschichte, nämlich ein tag im leben eines prototypen des postmodernen proletariats: der fahrrad-eilbote.

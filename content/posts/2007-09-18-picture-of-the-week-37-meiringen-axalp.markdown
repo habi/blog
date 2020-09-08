@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-09-18 20:55:54+00:00
-link: http://habi.gna.ch/2007/09/18/picture-of-the-week-37-meiringen-axalp/
+link: https://habi.gna.ch/2007/09/18/picture-of-the-week-37-meiringen-axalp/
 slug: picture-of-the-week-37-meiringen-axalp
 title: 'picture of the week 37: meiringen-axalp '
 wordpress_id: 1024
@@ -19,7 +19,7 @@ see it here small or in full glory in the [meiringen-axalp](http://flickr.com/ph
 
 
 
-[![Sattel](http://habi.gna.ch/wp-content/uploads/2007/09/sattel-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/09/sattel.jpg)
+[![Sattel](https://habi.gna.ch/wp-content/uploads/2007/09/sattel-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/09/sattel.jpg)
 
 
 

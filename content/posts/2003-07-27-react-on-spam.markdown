@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-27 21:13:46+00:00
-link: http://habi.gna.ch/2003/07/27/react-on-spam/
+link: https://habi.gna.ch/2003/07/27/react-on-spam/
 slug: react-on-spam
 title: React on SPAM!
 wordpress_id: 236

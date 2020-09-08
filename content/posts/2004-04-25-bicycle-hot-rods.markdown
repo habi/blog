@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-25 19:33:06+00:00
-link: http://habi.gna.ch/2004/04/25/bicycle-hot-rods/
+link: https://habi.gna.ch/2004/04/25/bicycle-hot-rods/
 slug: bicycle-hot-rods
 title: bicycle hot rods
 wordpress_id: 514

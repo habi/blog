@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-12-13 21:51:50+00:00
-link: http://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/
+link: https://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/
 slug: jeder-rappen-zhlt-habi-spendet-auch-with-a-twist
 title: 'Jeder Rappen zählt: Habi spendet auch (with a Twist)'
 wordpress_id: 2324
@@ -62,7 +62,7 @@ Wer mich nicht genauer kennt: Schlecht rasiert, Tattoo an der linken Wade und di
 
 
 
-![DSC_1073.JPG](http://habi.gna.ch/wp-content/uploads/2010/12/DSC_1073.jpg)
+![DSC_1073.JPG](https://habi.gna.ch/wp-content/uploads/2010/12/DSC_1073.jpg)
 
 
 

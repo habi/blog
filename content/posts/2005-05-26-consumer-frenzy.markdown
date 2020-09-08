@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-05-26 17:31:15+00:00
-link: http://habi.gna.ch/2005/05/26/consumer-frenzy/
+link: https://habi.gna.ch/2005/05/26/consumer-frenzy/
 slug: consumer-frenzy
 title: consumer frenzy
 wordpress_id: 16
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Threadlesss](http://habi.gna.ch/blog/images/threadlesss-tm.jpg)](http://habi.gna.ch/blog/images/threadlesss.jpg)omg! 
+[![Threadlesss](https://habi.gna.ch/blog/images/threadlesss-tm.jpg)](https://habi.gna.ch/blog/images/threadlesss.jpg)omg! 
   
 i just couldn't resist. after stumbling over a link to the [threadless t-shirts](http://www.threadless.com/) on [waxy.org](http://www.waxy.org/links/) i ordered ten t-shirts from them, because i could not decide which ones to get, they're all almost too cool not to buy. i got into a complete shopping frenzy, because all the t-shirts are only 10$ until june 6th. and because i really really love printed t-shirts i ended up maniacally clicking on the "add to cart" button.
   

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-20 19:54:11+00:00
-link: http://habi.gna.ch/2012/01/20/zebras-rocken/
+link: https://habi.gna.ch/2012/01/20/zebras-rocken/
 slug: zebras-rocken
 title: Zebras rocken!
 wordpress_id: 2631

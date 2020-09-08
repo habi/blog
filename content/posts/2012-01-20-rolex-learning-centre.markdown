@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-20 19:03:46+00:00
-link: http://habi.gna.ch/2012/01/20/rolex-learning-centre/
+link: https://habi.gna.ch/2012/01/20/rolex-learning-centre/
 slug: rolex-learning-centre
 title: Rolex Learning Centre, EPFL Lausanne
 wordpress_id: 2627

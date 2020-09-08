@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-08 09:06:30+00:00
-link: http://habi.gna.ch/2006/05/08/sbaw-a-retrospective-and-picture-of-the-week-18/
+link: https://habi.gna.ch/2006/05/08/sbaw-a-retrospective-and-picture-of-the-week-18/
 slug: sbaw-a-retrospective-and-picture-of-the-week-18
 title: SBAW, a retrospective and picture of the week 18
 wordpress_id: 171
@@ -31,7 +31,7 @@ the picture below shows some random geeks in the volkshaus staring at their scre
 
 
 
-[![Dsc03665](http://habi.gna.ch/blog/images/DSC03665-tm.jpg)](http://habi.gna.ch/blog/images/DSC03665.jpg)
+[![Dsc03665](https://habi.gna.ch/blog/images/DSC03665-tm.jpg)](https://habi.gna.ch/blog/images/DSC03665.jpg)
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-04-02 21:42:50+00:00
-link: http://habi.gna.ch/2006/04/02/picture-of-the-week-13/
+link: https://habi.gna.ch/2006/04/02/picture-of-the-week-13/
 slug: picture-of-the-week-13
 title: picture of the week 13
 wordpress_id: 151
@@ -15,7 +15,7 @@ guess where i've been this saturday...
 
 
 
-[![Dsc03433](http://habi.gna.ch/blog/images/DSC03433-tm.jpg)](http://habi.gna.ch/blog/images/DSC03433.jpg)
+[![Dsc03433](https://habi.gna.ch/blog/images/DSC03433-tm.jpg)](https://habi.gna.ch/blog/images/DSC03433.jpg)
 
 
 

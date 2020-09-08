@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-02-06 14:48:14+00:00
-link: http://habi.gna.ch/2018/02/06/vor-genau-drei-jahren-haben-wir-hier-geheiratet/
+link: https://habi.gna.ch/2018/02/06/vor-genau-drei-jahren-haben-wir-hier-geheiratet/
 slug: vor-genau-drei-jahren-haben-wir-hier-geheiratet
 title: Vor genau drei Jahren haben wir hier geheiratet.
 wordpress_id: 5316

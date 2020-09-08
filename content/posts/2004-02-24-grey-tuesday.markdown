@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-02-24 17:46:38+00:00
-link: http://habi.gna.ch/2004/02/24/grey-tuesday/
+link: https://habi.gna.ch/2004/02/24/grey-tuesday/
 slug: grey-tuesday
 title: grey tuesday
 wordpress_id: 447
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[![](http://habi.gna.ch/blog/images/greyalbum-tm.jpg)](http://habi.gna.ch/blog/images/greyalbum.jpg)public disobedience?
+[![](https://habi.gna.ch/blog/images/greyalbum-tm.jpg)](https://habi.gna.ch/blog/images/greyalbum.jpg)public disobedience?
 count me in!
 
 **explanation**: dj danger mouse remixed [the white album](http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDSUB040402241352592746&sql=Ajxkxikp6bbo9) of the beatles and [the black album](http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDSUB040402241353523017&sql=A8vaxlfjeacqq) of jay-z which of course makes grey.

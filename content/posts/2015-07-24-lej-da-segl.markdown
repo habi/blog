@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-07-24 13:13:56+00:00
-link: http://habi.gna.ch/2015/07/24/lej-da-segl/
+link: https://habi.gna.ch/2015/07/24/lej-da-segl/
 slug: lej-da-segl
 title: Lej da Segl
 wordpress_id: 3999

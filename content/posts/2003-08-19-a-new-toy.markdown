@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-19 20:39:09+00:00
-link: http://habi.gna.ch/2003/08/19/a-new-toy/
+link: https://habi.gna.ch/2003/08/19/a-new-toy/
 slug: a-new-toy
 title: a new toy
 wordpress_id: 263
@@ -16,7 +16,7 @@ so i bought one of these USB-memorysticks with 128mb capacity.
 
 today it was in the mail and i have to say i was truly surprised how small this thingy is (good there was a little hand-leash included :-)
 
-![](http://habi.gna.ch/blog/images/stick.jpg)
+![](https://habi.gna.ch/blog/images/stick.jpg)
 
 it's about the size of my [pinkie](http://dict.leo.org/?p=5qvU.&search=pinkie) .
 

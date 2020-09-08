@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-11-08 21:21:43+00:00
-link: http://habi.gna.ch/2016/11/08/recommended-readings-5-november-2016/
+link: https://habi.gna.ch/2016/11/08/recommended-readings-5-november-2016/
 slug: recommended-readings-5-november-2016
 title: 'Recommended readings: 5. November 2016'
 wordpress_id: 4710
@@ -20,7 +20,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 
 
-  * [I Went Undercover With a Border Militia. Here's What I Saw.](http://www.motherjones.com/politics/2016/10/undercover-border-militia-immigration-bauer): Nachdem [Shane Bauer 4 Monate Aufseher in einem Gefängnis war](http://habi.gna.ch/2016/08/01/recommended-readings-1-august-2016/) verbrachte er einige Zeit mit Paramilitärs an der US-Mexikanischen Grenze. Spannend und beängstigend gleichzeitig.
+  * [I Went Undercover With a Border Militia. Here's What I Saw.](http://www.motherjones.com/politics/2016/10/undercover-border-militia-immigration-bauer): Nachdem [Shane Bauer 4 Monate Aufseher in einem Gefängnis war](https://habi.gna.ch/2016/08/01/recommended-readings-1-august-2016/) verbrachte er einige Zeit mit Paramilitärs an der US-Mexikanischen Grenze. Spannend und beängstigend gleichzeitig.
 
 
   * [Bautzen: Kampf um den Kornmarkt](http://www.zeit.de/2016/42/bautzen-gewalt-fluechtlinge-neonazis-rechtsextremismus-kornmarkt/komplettansicht): In Bautzen verbringen Flüchtlinge den Abend in der Nähe von nationalistischen Jugendlichen. Welche Konflikte da auflodern beschreibt dieser Text.

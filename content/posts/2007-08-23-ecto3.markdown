@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-08-23 21:27:27+00:00
-link: http://habi.gna.ch/2007/08/23/ecto3/
+link: https://habi.gna.ch/2007/08/23/ecto3/
 slug: ecto3
 title: ecto3
 wordpress_id: 1009

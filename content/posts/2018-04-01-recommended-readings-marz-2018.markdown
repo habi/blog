@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-04-01 20:22:52+00:00
-link: http://habi.gna.ch/2018/04/01/recommended-readings-marz-2018/
+link: https://habi.gna.ch/2018/04/01/recommended-readings-marz-2018/
 slug: recommended-readings-marz-2018
 title: 'Recommended Readings: März 2018'
 wordpress_id: 5349
@@ -42,7 +42,7 @@ Im letzten Monat las ich unter anderem folgende Texte und fand diese gut:
   * [This Route Doesn’t Exist on the Map](https://newrepublic.com/article/146919/this-route-doesnt-exist-map) (newrepublic.com): Es tönt einfach, Flüchtlinge an der 'Quelle' zu blokieren. Die Auswirkungen spannen sich aber um den ganzen Globus.
 
 
-  * [The Slick Science of Making Olympic Snow and Ice](https://www.smithsonianmag.com/science-nature/slick-science-making-olympic-snow-and-ice-180968014/) (smithsonianmag.com): Dank [Renzo](http://habi.gna.ch/?s=renzo) (Physiotherapeut bei [Swiss Sliding](http://www.swiss-sliding.ch/)) hatte ich einen Einblick ins Geschehen an den Olympischen Spielen. Hier einen Einblick in die Technik, die es braucht um eine geeignete Unterlage für die Bobfahrer und so zu machen.
+  * [The Slick Science of Making Olympic Snow and Ice](https://www.smithsonianmag.com/science-nature/slick-science-making-olympic-snow-and-ice-180968014/) (smithsonianmag.com): Dank [Renzo](https://habi.gna.ch/?s=renzo) (Physiotherapeut bei [Swiss Sliding](http://www.swiss-sliding.ch/)) hatte ich einen Einblick ins Geschehen an den Olympischen Spielen. Hier einen Einblick in die Technik, die es braucht um eine geeignete Unterlage für die Bobfahrer und so zu machen.
 
 
   * [Prozess um ermordeten Rentner in Berlin: Zehn Jahre in der Tiefkühltruhe](http://www.taz.de/!5482648/) (taz.de): Als Heinz N. in seiner Wohnung gefunden wird, liegt er da schon zehn Jahre – ermordet. Wie kann ein Mensch einfach so verschwinden?

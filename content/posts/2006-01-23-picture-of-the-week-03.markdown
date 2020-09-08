@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-01-23 13:11:57+00:00
-link: http://habi.gna.ch/2006/01/23/picture-of-the-week-03/
+link: https://habi.gna.ch/2006/01/23/picture-of-the-week-03/
 slug: picture-of-the-week-03
 title: picture of the week 03
 wordpress_id: 128
@@ -16,7 +16,7 @@ i've been dog-sitting two big dogs [1] of a friend this weekend. while going for
 
 
 
-[![Dsc02973](http://habi.gna.ch/blog/images/DSC02973-tm.jpg)](http://habi.gna.ch/blog/images/DSC02973.jpg)
+[![Dsc02973](https://habi.gna.ch/blog/images/DSC02973-tm.jpg)](https://habi.gna.ch/blog/images/DSC02973.jpg)
 
 
 

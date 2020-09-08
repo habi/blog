@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-02-23 08:17:16+00:00
-link: http://habi.gna.ch/2014/02/23/das-wird-ein-guter-tag/
+link: https://habi.gna.ch/2014/02/23/das-wird-ein-guter-tag/
 slug: das-wird-ein-guter-tag
 title: Das wird ein guter Tag!
 wordpress_id: 3380

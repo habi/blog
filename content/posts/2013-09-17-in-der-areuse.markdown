@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-09-17 20:13:45+00:00
-link: http://habi.gna.ch/2013/09/17/in-der-areuse/
+link: https://habi.gna.ch/2013/09/17/in-der-areuse/
 slug: in-der-areuse
 title: In der Areuse
 wordpress_id: 3203

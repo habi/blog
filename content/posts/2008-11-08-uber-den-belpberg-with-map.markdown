@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-11-08 15:56:12+00:00
-link: http://habi.gna.ch/2008/11/08/uber-den-belpberg-with-map/
+link: https://habi.gna.ch/2008/11/08/uber-den-belpberg-with-map/
 slug: uber-den-belpberg-with-map
 title: über den belpberg [with map]
 wordpress_id: 1543

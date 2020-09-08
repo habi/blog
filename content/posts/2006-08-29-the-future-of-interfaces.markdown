@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-08-29 21:42:59+00:00
-link: http://habi.gna.ch/2006/08/29/the-future-of-interfaces/
+link: https://habi.gna.ch/2006/08/29/the-future-of-interfaces/
 slug: the-future-of-interfaces
 title: the future of interfaces
 wordpress_id: 217
@@ -23,7 +23,7 @@ and i also found mr. han quite entertaining. he has to talk really fast to get a
 
 
 
-[1] bummer: while searching for his homepage, i found out, that i've already [blogged him](http://habi.gna.ch/blog/archives/000730.html) with with the same project... yeah well, talk about short attention span. but if you want, you can watch some other talks [here](http://www.ted.com/tedtalks/).
+[1] bummer: while searching for his homepage, i found out, that i've already [blogged him](https://habi.gna.ch/blog/archives/000730.html) with with the same project... yeah well, talk about short attention span. but if you want, you can watch some other talks [here](http://www.ted.com/tedtalks/).
 
 
 

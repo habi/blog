@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-10-03 00:23:57+00:00
-link: http://habi.gna.ch/2010/10/03/super/
+link: https://habi.gna.ch/2010/10/03/super/
 slug: super
 title: Super!
 wordpress_id: 2226

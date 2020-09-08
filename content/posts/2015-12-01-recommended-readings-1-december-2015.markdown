@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-12-01 20:21:38+00:00
-link: http://habi.gna.ch/2015/12/01/recommended-readings-1-december-2015/
+link: https://habi.gna.ch/2015/12/01/recommended-readings-1-december-2015/
 slug: recommended-readings-1-december-2015
 title: 'Recommended readings: 1. December 2015'
 wordpress_id: 4111

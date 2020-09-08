@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-09-01 21:42:13+00:00
-link: http://habi.gna.ch/2017/09/01/recommended-readings-august-2017/
+link: https://habi.gna.ch/2017/09/01/recommended-readings-august-2017/
 slug: recommended-readings-august-2017
 title: 'Recommended readings: August 2017'
 wordpress_id: 5182

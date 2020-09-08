@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-01-06 19:59:57+00:00
-link: http://habi.gna.ch/2009/01/06/abfallkalender-bern-2009-fur-kreis-b/
+link: https://habi.gna.ch/2009/01/06/abfallkalender-bern-2009-fur-kreis-b/
 slug: abfallkalender-bern-2009-fur-kreis-b
 title: elektronischer Abfallkalender Bern 2009 für Kreis B
 wordpress_id: 1619
@@ -14,7 +14,7 @@ tags:
 - bern
 ---
 
-Da es die Stadverwaltung Bern auch dieses Jahr nicht schafft, den Abfallkalender in einer elektronischen Form zur Verfügung zu stellen [1], muss mann sich halt [genau wie letztes Jahr](http://habi.gna.ch/2007/12/14/neuer-ghuder-kalender-fur-bern-b1/) wieder selber helfen. Falls jemand meiner Leser oder Leserinnen genau wie ich im Kreis B wohnt, findet er oder sie in der Datei [Papier.ics](http://habi.gna.ch/wp-content/uploads/2009/01/papier.ics) [2] die Daten der Papier & Karton-Abfuhr, sowie in der Datei [Grünzeugs.ics](http://habi.gna.ch/wp-content/uploads/2009/01/gr%C3%BCnzeugs.ics) [3] die Daten, an denen der Mann mit der grünen Tonne vorbeikommt. Beide Datein sollten sich einfach in jegliches Programm zur Verwaltung elektronischer Agenden importieren lassen. Falls die Dateien mit komischer Endung auf der Festplatte landen, einfach so umbenennen, dass die Endung .ics ist, dann klappts!
+Da es die Stadverwaltung Bern auch dieses Jahr nicht schafft, den Abfallkalender in einer elektronischen Form zur Verfügung zu stellen [1], muss mann sich halt [genau wie letztes Jahr](https://habi.gna.ch/2007/12/14/neuer-ghuder-kalender-fur-bern-b1/) wieder selber helfen. Falls jemand meiner Leser oder Leserinnen genau wie ich im Kreis B wohnt, findet er oder sie in der Datei [Papier.ics](https://habi.gna.ch/wp-content/uploads/2009/01/papier.ics) [2] die Daten der Papier & Karton-Abfuhr, sowie in der Datei [Grünzeugs.ics](https://habi.gna.ch/wp-content/uploads/2009/01/gr%C3%BCnzeugs.ics) [3] die Daten, an denen der Mann mit der grünen Tonne vorbeikommt. Beide Datein sollten sich einfach in jegliches Programm zur Verwaltung elektronischer Agenden importieren lassen. Falls die Dateien mit komischer Endung auf der Festplatte landen, einfach so umbenennen, dass die Endung .ics ist, dann klappts!
 
 
 

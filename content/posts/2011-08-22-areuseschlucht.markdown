@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-08-22 16:15:20+00:00
-link: http://habi.gna.ch/2011/08/22/areuseschlucht/
+link: https://habi.gna.ch/2011/08/22/areuseschlucht/
 slug: areuseschlucht
 title: Areuseschlucht
 wordpress_id: 2553

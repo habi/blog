@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-05-27 20:15:34+00:00
-link: http://habi.gna.ch/2014/05/27/augdemented-reality/
+link: https://habi.gna.ch/2014/05/27/augdemented-reality/
 slug: augdemented-reality
 title: Aug(De)Mented Reality
 wordpress_id: 3450

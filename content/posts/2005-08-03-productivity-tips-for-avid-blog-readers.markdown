@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-08-03 15:43:18+00:00
-link: http://habi.gna.ch/2005/08/03/productivity-tips-for-avid-blog-readers/
+link: https://habi.gna.ch/2005/08/03/productivity-tips-for-avid-blog-readers/
 slug: productivity-tips-for-avid-blog-readers
 title: productivity tips for avid blog readers
 wordpress_id: 53

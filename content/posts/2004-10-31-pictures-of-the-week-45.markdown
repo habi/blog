@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-10-31 20:59:00+00:00
-link: http://habi.gna.ch/2004/10/31/pictures-of-the-week-45/
+link: https://habi.gna.ch/2004/10/31/pictures-of-the-week-45/
 slug: pictures-of-the-week-45
 title: pictures of the week  45
 wordpress_id: 664
@@ -14,13 +14,13 @@ today i've been in the [rope-park](http://www.seilpark-gantrisch.ch/) with nine 
 that was quite an amazing and adrenalie-inducing afternoon.
 but the most amazing thing was that nina is able to smile really charming before abseiling herself 15 meters down a tree.
 
-[![DSC03788](http://habi.gna.ch/blog/images/DSC03788-tm.jpg)](http://habi.gna.ch/blog/images/DSC03788.JPG)
+[![DSC03788](https://habi.gna.ch/blog/images/DSC03788-tm.jpg)](https://habi.gna.ch/blog/images/DSC03788.JPG)
 from above
 
-[![DSC03790](http://habi.gna.ch/blog/images/DSC03790-tm.jpg)](http://habi.gna.ch/blog/images/DSC03790.JPG)
+[![DSC03790](https://habi.gna.ch/blog/images/DSC03790-tm.jpg)](https://habi.gna.ch/blog/images/DSC03790.JPG)
 while abseiling
 
-[![DSC03791](http://habi.gna.ch/blog/images/DSC03791-tm.jpg)](http://habi.gna.ch/blog/images/DSC03791.JPG)
+[![DSC03791](https://habi.gna.ch/blog/images/DSC03791-tm.jpg)](https://habi.gna.ch/blog/images/DSC03791.JPG)
 from below
 
 ps: i know the picture lacks in the sharpness-departement, but i like it anyway...

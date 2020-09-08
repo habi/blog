@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-08-22 20:31:14+00:00
-link: http://habi.gna.ch/2017/08/22/1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session/
+link: https://habi.gna.ch/2017/08/22/1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session/
 slug: 1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session
 title: 1000e Bilder für OSM bereitstellen | Mapillary mit GoPro Hero 4 Session
 wordpress_id: 5168
@@ -15,7 +15,7 @@ tags:
 - openstreetmap
 ---
 
-Vor [einiger Zeit](http://habi.gna.ch/2017/03/29/osm-mapillary/) hab ich ja schon mal darüber geschrieben, wie mensch die <del>Welt</del> [kostenloses Kartenmaterial](http://osm.org) verbessern kann.
+Vor [einiger Zeit](https://habi.gna.ch/2017/03/29/osm-mapillary/) hab ich ja schon mal darüber geschrieben, wie mensch die <del>Welt</del> [kostenloses Kartenmaterial](http://osm.org) verbessern kann.
 
 Da das Zusammenspiel der Mapillary-App mit der GoPro Hero 4 Session [nicht ganz problemfrei ist](https://github.com/mapillary/mapillary_issues/issues?utf8=?&q=is%3Aissue%20hero%20session%20) habe ich letzthin beim Velopendeln 'was neues versucht.
 

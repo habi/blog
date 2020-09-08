@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-09 14:46:45+00:00
-link: http://habi.gna.ch/2003/08/09/guerillia-tactics-is-the-right-way/
+link: https://habi.gna.ch/2003/08/09/guerillia-tactics-is-the-right-way/
 slug: guerillia-tactics-is-the-right-way
 title: guerillia tactics is the right way!
 wordpress_id: 254

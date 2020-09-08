@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-05-23 20:19:30+00:00
-link: http://habi.gna.ch/2011/05/23/zweiter-science-slam-der-uni-bern/
+link: https://habi.gna.ch/2011/05/23/zweiter-science-slam-der-uni-bern/
 slug: zweiter-science-slam-der-uni-bern
 title: Zweiter Science Slam der Uni Bern
 wordpress_id: 2498

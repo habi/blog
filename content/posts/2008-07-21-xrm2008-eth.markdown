@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-07-21 10:45:56+00:00
-link: http://habi.gna.ch/2008/07/21/xrm2008-eth/
+link: https://habi.gna.ch/2008/07/21/xrm2008-eth/
 slug: xrm2008-eth
 title: XRM2008 @ ETH
 wordpress_id: 1294

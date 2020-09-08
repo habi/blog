@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-06-19 19:57:30+00:00
-link: http://habi.gna.ch/2005/06/19/picture-of-the-week-24/
+link: https://habi.gna.ch/2005/06/19/picture-of-the-week-24/
 slug: picture-of-the-week-24
 title: picture of the week 24
 wordpress_id: 30
@@ -15,5 +15,5 @@ you might have seen the pictures already [over at flickr](http://www.flickr.com/
 
 
 
-[![Dsc00785](http://habi.gna.ch/blog/images/DSC00785-tm.jpg)](http://habi.gna.ch/blog/images/DSC00785.jpg)
+[![Dsc00785](https://habi.gna.ch/blog/images/DSC00785-tm.jpg)](https://habi.gna.ch/blog/images/DSC00785.jpg)
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-10 16:34:57+00:00
-link: http://habi.gna.ch/2004/03/10/memorysticks-to-sell/
+link: https://habi.gna.ch/2004/03/10/memorysticks-to-sell/
 slug: memorysticks-to-sell
 title: memorysticks to sell
 wordpress_id: 463

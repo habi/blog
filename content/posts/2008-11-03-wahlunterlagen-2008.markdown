@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-11-03 21:12:36+00:00
-link: http://habi.gna.ch/2008/11/03/wahlunterlagen-2008/
+link: https://habi.gna.ch/2008/11/03/wahlunterlagen-2008/
 slug: wahlunterlagen-2008
 title: wahlunterlagen 2008
 wordpress_id: 1520

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-06-05 09:23:09+00:00
-link: http://habi.gna.ch/2010/06/05/hotel-giessbachfalle/
+link: https://habi.gna.ch/2010/06/05/hotel-giessbachfalle/
 slug: hotel-giessbachfalle
 title: Hotel Giessbachfälle
 wordpress_id: 2132

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-12-20 17:42:10+00:00
-link: http://habi.gna.ch/2017/12/20/sunntigsfahrtli/
+link: https://habi.gna.ch/2017/12/20/sunntigsfahrtli/
 slug: sunntigsfahrtli
 title: Sunntigsfährtli
 wordpress_id: 5244

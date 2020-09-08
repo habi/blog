@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-02-21 21:17:45+00:00
-link: http://habi.gna.ch/2005/02/21/picture-of-the-week-07/
+link: https://habi.gna.ch/2005/02/21/picture-of-the-week-07/
 slug: picture-of-the-week-07
 title: picture of the week 07
 wordpress_id: 738
@@ -19,5 +19,5 @@ the pic below shows me having some fun in a locker at the cable car station (yes
 
 
 
-[![Dsc04353](http://habi.gna.ch/blog/images/DSC04353-tm.jpg)](http://habi.gna.ch/blog/images/DSC04353.jpg)
+[![Dsc04353](https://habi.gna.ch/blog/images/DSC04353-tm.jpg)](https://habi.gna.ch/blog/images/DSC04353.jpg)
 

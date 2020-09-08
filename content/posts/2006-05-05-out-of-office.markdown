@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-05 13:08:49+00:00
-link: http://habi.gna.ch/2006/05/05/out-of-office/
+link: https://habi.gna.ch/2006/05/05/out-of-office/
 slug: out-of-office
 title: out of office
 wordpress_id: 167
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Sbaw Outofoffice](http://habi.gna.ch/blog/images/sbaw_outofoffice-tm.jpg)](http://habi.gna.ch/blog/images/sbaw_outofoffice.jpg)
+[![Sbaw Outofoffice](https://habi.gna.ch/blog/images/sbaw_outofoffice-tm.jpg)](https://habi.gna.ch/blog/images/sbaw_outofoffice.jpg)
 
 
 
@@ -27,7 +27,7 @@ notizbuch? check: namics hipster pda, nicht als [einziger](http://flickr.com/pho
   
 gepackt für [morgen](http://schwimmen.dsv.de/Modules/Schedule/Meet.aspx?MeetID=1582006&Lang=de-DE)? leider nein
   
-[velo](http://leo.freeflux.net/blog/archiv/an-den-blog-award-2.html) gesattelt? leider nein:[![Sbaw.Rain](http://habi.gna.ch/blog/images/sbaw.rain-tm.jpg)](http://habi.gna.ch/blog/images/sbaw.rain.jpg)
+[velo](http://leo.freeflux.net/blog/archiv/an-den-blog-award-2.html) gesattelt? leider nein:[![Sbaw.Rain](https://habi.gna.ch/blog/images/sbaw.rain-tm.jpg)](https://habi.gna.ch/blog/images/sbaw.rain.jpg)
 
 
 

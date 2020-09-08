@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-03-31 18:41:12+00:00
-link: http://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/
+link: https://habi.gna.ch/2012/03/31/wohin-gehen-all-die-kommentare-visualisiert/
 slug: wohin-gehen-all-die-kommentare-visualisiert
 title: Wohin gehen all die Kommentare, visualisiert
 wordpress_id: 2709
@@ -91,7 +91,7 @@ Als ich das kleine Skript mit den angegebenen Zahlen laufen liess, entstehen unt
 
   
 
-[![habi.png](http://habi.gna.ch/wp-content/uploads/2012/03/habi-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/03/habi1.png) [![markus.png](http://habi.gna.ch/wp-content/uploads/2012/03/markus-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/03/markus.png) [![robert.png](http://habi.gna.ch/wp-content/uploads/2012/03/robert-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/03/robert.png) [![roger.png](http://habi.gna.ch/wp-content/uploads/2012/03/roger-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2012/03/roger.png) [![sprain.png](http://habi.gna.ch/wp-content/uploads/2012/03/sprain-tm1.jpg)](http://habi.gna.ch/wp-content/uploads/2012/03/sprain1.png)
+[![habi.png](https://habi.gna.ch/wp-content/uploads/2012/03/habi-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/03/habi1.png) [![markus.png](https://habi.gna.ch/wp-content/uploads/2012/03/markus-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/03/markus.png) [![robert.png](https://habi.gna.ch/wp-content/uploads/2012/03/robert-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/03/robert.png) [![roger.png](https://habi.gna.ch/wp-content/uploads/2012/03/roger-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2012/03/roger.png) [![sprain.png](https://habi.gna.ch/wp-content/uploads/2012/03/sprain-tm1.jpg)](https://habi.gna.ch/wp-content/uploads/2012/03/sprain1.png)
 
   
 

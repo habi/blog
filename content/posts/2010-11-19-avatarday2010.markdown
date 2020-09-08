@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-11-19 20:53:42+00:00
-link: http://habi.gna.ch/2010/11/19/avatarday2010/
+link: https://habi.gna.ch/2010/11/19/avatarday2010/
 slug: avatarday2010
 title: AvatarDay2010
 wordpress_id: 2297

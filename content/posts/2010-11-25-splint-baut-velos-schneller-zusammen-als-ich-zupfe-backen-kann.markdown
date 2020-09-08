@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-11-25 15:30:23+00:00
-link: http://habi.gna.ch/2010/11/25/splint-baut-velos-schneller-zusammen-als-ich-zupfe-backen-kann/
+link: https://habi.gna.ch/2010/11/25/splint-baut-velos-schneller-zusammen-als-ich-zupfe-backen-kann/
 slug: splint-baut-velos-schneller-zusammen-als-ich-zupfe-backen-kann
 title: Splint baut Velos schneller zusammen als ich Züpfe backen kann
 wordpress_id: 2306
@@ -15,7 +15,7 @@ tags:
 - velokurier
 ---
 
-[Letzten Freitag habe ich gezeigt](http://habi.gna.ch/2010/11/19/avatarday2010/), wie mann innerhalb eineinhalb Minuten ein Kilo Züpfe backen kann. [Splint ](http://www.splint.ch)hat in knapp der Hälfte dieser Zeit 262 Teile zu seinem neuen Velo zusammengebaut, doch seht selbst:
+[Letzten Freitag habe ich gezeigt](https://habi.gna.ch/2010/11/19/avatarday2010/), wie mann innerhalb eineinhalb Minuten ein Kilo Züpfe backen kann. [Splint ](http://www.splint.ch)hat in knapp der Hälfte dieser Zeit 262 Teile zu seinem neuen Velo zusammengebaut, doch seht selbst:
 
 
 

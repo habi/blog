@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-09-14 21:08:50+00:00
-link: http://habi.gna.ch/2004/09/14/bluetooth-headset/
+link: https://habi.gna.ch/2004/09/14/bluetooth-headset/
 slug: bluetooth-headset
 title: bluetooth headset
 wordpress_id: 614

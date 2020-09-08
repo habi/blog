@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-12-15 17:21:27+00:00
-link: http://habi.gna.ch/2007/12/15/skitag-with-map/
+link: https://habi.gna.ch/2007/12/15/skitag-with-map/
 slug: skitag-with-map
 title: skitag [with map]
 wordpress_id: 1094
@@ -20,9 +20,9 @@ so sieht der skitag eines datenjunkies aus [1]:
 
 
 
-[tracks-2007-12-15-adelboden.gpx [maptype=G_SATELLITE_TYPE]](http://habi.gna.ch/wp-content/uploads/2007/12/tracks-2007-12-15-adelboden.gpx)  
+[tracks-2007-12-15-adelboden.gpx [maptype=G_SATELLITE_TYPE]](https://habi.gna.ch/wp-content/uploads/2007/12/tracks-2007-12-15-adelboden.gpx)  
 
-am besten haben mir die tiefschnee-abfahrten gefallen, leider ist die schneehöhe nicht ersichtlich :-)[![1197739871-22079-P-84.75.164.164](http://habi.gna.ch/wp-content/uploads/2007/12/1197739871-22079-p-84.75.164.164-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/12/1197739871-22079-p-84.75.164.164.jpg)  
+am besten haben mir die tiefschnee-abfahrten gefallen, leider ist die schneehöhe nicht ersichtlich :-)[![1197739871-22079-P-84.75.164.164](https://habi.gna.ch/wp-content/uploads/2007/12/1197739871-22079-p-84.75.164.164-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/12/1197739871-22079-p-84.75.164.164.jpg)  
 
 - das bild rechts zeigt das gefahrene höhenprofil (danke an den [gpsvisualizer](http://gpsvisualizer.com))
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-05-31 17:33:57+00:00
-link: http://habi.gna.ch/2004/05/31/yeehaw-picture-of-the-week/
+link: https://habi.gna.ch/2004/05/31/yeehaw-picture-of-the-week/
 slug: yeehaw-picture-of-the-week
 title: yeehaw! (picture of the week)
 wordpress_id: 543
@@ -16,4 +16,4 @@ i think Descent2 was the best 3d-mission game, i remember playing it for hours (
 [miklos](http://kozary.com/mt/) and [b.](http://www.bernhardseefeld.ch/) do you remember?
 flashback ahoi!
 
-[![descent](http://habi.gna.ch/blog/images/descent-tm.jpg)](http://habi.gna.ch/blog/images/descent.jpg)
+[![descent](https://habi.gna.ch/blog/images/descent-tm.jpg)](https://habi.gna.ch/blog/images/descent.jpg)

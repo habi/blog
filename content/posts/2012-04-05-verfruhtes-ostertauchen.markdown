@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-04-05 17:55:24+00:00
-link: http://habi.gna.ch/2012/04/05/verfruhtes-ostertauchen/
+link: https://habi.gna.ch/2012/04/05/verfruhtes-ostertauchen/
 slug: verfruhtes-ostertauchen
 title: verfrühtes Ostertauchen
 wordpress_id: 2717

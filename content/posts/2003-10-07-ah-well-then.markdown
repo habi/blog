@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-07 16:40:47+00:00
-link: http://habi.gna.ch/2003/10/07/ah-well-then/
+link: https://habi.gna.ch/2003/10/07/ah-well-then/
 slug: ah-well-then
 title: ah well then!
 wordpress_id: 299
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-this is a fast [reaction](http://habi.gna.ch/blog/archives/000077.html)!  
+this is a fast [reaction](https://habi.gna.ch/blog/archives/000077.html)!  
 
 today i got two mails in my inbox regarding the letter i wrote to the editor of the sonntagszeitung, first, one of the head of the 'science'-part of the newspaper;
 

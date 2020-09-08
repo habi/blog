@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-05-09 20:16:07+00:00
-link: http://habi.gna.ch/2005/05/09/picture-of-the-week-18/
+link: https://habi.gna.ch/2005/05/09/picture-of-the-week-18/
 slug: picture-of-the-week-18
 title: picture of the week 18
 wordpress_id: 785
@@ -18,7 +18,7 @@ it's sigi at about 16m below surface exiting the cave at the dive-site tres cova
 
 
 
-[![Dsc00327](http://habi.gna.ch/blog/images/DSC00327-tm.jpg)](http://habi.gna.ch/blog/images/DSC00327.jpg)
+[![Dsc00327](https://habi.gna.ch/blog/images/DSC00327-tm.jpg)](https://habi.gna.ch/blog/images/DSC00327.jpg)
 
 
 technorati tags: [diving](http://technorati.com/tag/diving)

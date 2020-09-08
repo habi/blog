@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-12-01 18:59:09+00:00
-link: http://habi.gna.ch/2010/12/01/unisport-frisbee-im-schnee-juhee/
+link: https://habi.gna.ch/2010/12/01/unisport-frisbee-im-schnee-juhee/
 slug: unisport-frisbee-im-schnee-juhee
 title: Unisport-Frisbee im Schnee. Juhee!
 wordpress_id: 2321

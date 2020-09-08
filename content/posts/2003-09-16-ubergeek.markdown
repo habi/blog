@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-09-16 21:35:56+00:00
-link: http://habi.gna.ch/2003/09/16/ubergeek/
+link: https://habi.gna.ch/2003/09/16/ubergeek/
 slug: ubergeek
 title: ubergeek
 wordpress_id: 278

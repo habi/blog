@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-07-17 12:35:05+00:00
-link: http://habi.gna.ch/2010/07/17/oberhofen-churchill-video/
+link: https://habi.gna.ch/2010/07/17/oberhofen-churchill-video/
 slug: oberhofen-churchill-video
 title: Oberhofen Churchill [Video]
 wordpress_id: 2160
@@ -15,7 +15,7 @@ tags:
 - thunersee
 ---
 
-Vor 14 Tagen war ich mit Renzo früh am Morgen im Thunersee und wir haben gemeinsam unser Equipement gebadet. Dabei ist [dieses Tauchprofil](http://habi.gna.ch/divelog/2010.07.03.oberhofen.pdf) und folgender Film entstanden.
+Vor 14 Tagen war ich mit Renzo früh am Morgen im Thunersee und wir haben gemeinsam unser Equipement gebadet. Dabei ist [dieses Tauchprofil](https://habi.gna.ch/divelog/2010.07.03.oberhofen.pdf) und folgender Film entstanden.
 
 http://vimeo.com/13390655
 

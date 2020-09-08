@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-12-23 13:47:42+00:00
-link: http://habi.gna.ch/2003/12/23/lotr3-the-return-of-the-king/
+link: https://habi.gna.ch/2003/12/23/lotr3-the-return-of-the-king/
 slug: lotr3-the-return-of-the-king
 title: 'lotr3: the return of the king'
 wordpress_id: 385

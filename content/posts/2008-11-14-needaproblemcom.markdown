@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-11-14 10:10:57+00:00
-link: http://habi.gna.ch/2008/11/14/needaproblemcom/
+link: https://habi.gna.ch/2008/11/14/needaproblemcom/
 slug: needaproblemcom
 title: needaproblem.com?
 wordpress_id: 1548
@@ -17,7 +17,7 @@ in der schweiz geht's uns allen ja so gut, dass wir [1] eigentlich keine wirklic
 
 ein bekannter von mir hat nun gemeinsam mit zwei weiteren marketing-fachleuten aus diesem "problem" eine webseite gebastelt: [needaproblem.com](http://www.needaproblem.com/) dort kann sich jedermensch für 1.-, 5.-, 50.-, 500.- oder 5000.- probleme bestellen, je nach preis von trivial bis fast unlösbar.
 
-[![needaproblem1.png](http://habi.gna.ch/wp-content/uploads/2008/11/needaproblem1.jpg)](http://habi.gna.ch/wp-content/uploads/2008/11/needaproblem1.png)gestern abend war dieser bekannte [2] bei mir zum znacht und hat davon erzählt. also hab' ich mir heute morgen gleich so ein problem bestellt und bekomme für einen stutz ein triviales geliefert:
+[![needaproblem1.png](https://habi.gna.ch/wp-content/uploads/2008/11/needaproblem1.jpg)](https://habi.gna.ch/wp-content/uploads/2008/11/needaproblem1.png)gestern abend war dieser bekannte [2] bei mir zum znacht und hat davon erzählt. also hab' ich mir heute morgen gleich so ein problem bestellt und bekomme für einen stutz ein triviales geliefert:
 
 die frage ist jetzt: was ist mit kaffe-sorten gemeint? kaffe hag und nescoré, o.ä.? oder verschiedene sorten von kaffebohnen? egal wie, die lösung des problems ist dann wie erwartet nicht allzuschwer:
 

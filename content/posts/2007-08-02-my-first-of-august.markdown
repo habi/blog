@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-08-02 22:37:01+00:00
-link: http://habi.gna.ch/2007/08/02/my-first-of-august/
+link: https://habi.gna.ch/2007/08/02/my-first-of-august/
 slug: my-first-of-august
 title: my first of august
 wordpress_id: 999
@@ -18,7 +18,7 @@ quite a funny face i make, what do you think?
 if you want to judge the height a bit better, there's another movie of dan jumping off the bridge [here](http://www.youtube.com/watch?v=n-d1tseX0nk). i've also made some images: they can be seen [here](http://flickr.com/photos/habi/sets/72157601180023273/show/), i just wanted to mention this image for the special jump i made: let's call it the floating buddha:
 
 
-[![Dsc07136](http://habi.gna.ch/wp-content/uploads/2007/08/dsc07136-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/08/dsc07136.jpg)
+[![Dsc07136](https://habi.gna.ch/wp-content/uploads/2007/08/dsc07136-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/08/dsc07136.jpg)
 
 
 

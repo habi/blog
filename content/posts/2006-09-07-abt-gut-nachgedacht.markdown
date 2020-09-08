@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-09-07 16:42:41+00:00
-link: http://habi.gna.ch/2006/09/07/abt-gut-nachgedacht/
+link: https://habi.gna.ch/2006/09/07/abt-gut-nachgedacht/
 slug: abt-gut-nachgedacht
 title: abt. gut nachgedacht...
 wordpress_id: 220

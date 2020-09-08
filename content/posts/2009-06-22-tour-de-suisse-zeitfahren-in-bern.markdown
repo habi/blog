@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-06-22 16:50:23+00:00
-link: http://habi.gna.ch/2009/06/22/tour-de-suisse-zeitfahren-in-bern/
+link: https://habi.gna.ch/2009/06/22/tour-de-suisse-zeitfahren-in-bern/
 slug: tour-de-suisse-zeitfahren-in-bern
 title: tour de suisse zeitfahren in bern
 wordpress_id: 1817
@@ -25,17 +25,17 @@ analog zu den action-photos, die ich an der suicmc08 in luzern gemacht habe ([pi
 
 
 
-[![DSC_2561-DSC_2566.jpg](http://habi.gna.ch/wp-content/uploads/2009/06/DSC_2561-DSC_25661.jpg)](http://habi.gna.ch/wp-content/uploads/2009/06/DSC_2561-DSC_2566.jpg)
+[![DSC_2561-DSC_2566.jpg](https://habi.gna.ch/wp-content/uploads/2009/06/DSC_2561-DSC_25661.jpg)](https://habi.gna.ch/wp-content/uploads/2009/06/DSC_2561-DSC_2566.jpg)
 
 
 
 
-[![DSC_2622-DSC_2629.jpg](http://habi.gna.ch/wp-content/uploads/2009/06/DSC_2622-DSC_26291.jpg)](http://habi.gna.ch/wp-content/uploads/2009/06/DSC_2622-DSC_2629.jpg)
+[![DSC_2622-DSC_2629.jpg](https://habi.gna.ch/wp-content/uploads/2009/06/DSC_2622-DSC_26291.jpg)](https://habi.gna.ch/wp-content/uploads/2009/06/DSC_2622-DSC_2629.jpg)
 
 
 
 
-[![DSC_2593-DSC_2600.jpg](http://habi.gna.ch/wp-content/uploads/2009/06/DSC_2593-DSC_26001.jpg)](http://habi.gna.ch/wp-content/uploads/2009/06/DSC_2593-DSC_2600.jpg)
+[![DSC_2593-DSC_2600.jpg](https://habi.gna.ch/wp-content/uploads/2009/06/DSC_2593-DSC_26001.jpg)](https://habi.gna.ch/wp-content/uploads/2009/06/DSC_2593-DSC_2600.jpg)
 
 
 

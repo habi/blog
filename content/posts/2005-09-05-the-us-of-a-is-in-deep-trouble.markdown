@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-09-05 13:45:00+00:00
-link: http://habi.gna.ch/2005/09/05/the-us-of-a-is-in-deep-trouble/
+link: https://habi.gna.ch/2005/09/05/the-us-of-a-is-in-deep-trouble/
 slug: the-us-of-a-is-in-deep-trouble
 title: the us of a is in deep trouble.
 wordpress_id: 69
@@ -20,13 +20,13 @@ the first video shows two reporters of fox news really freaking out while giving
 
 
 
-[![Geraldo-1](http://habi.gna.ch/blog/images/geraldo-1-tm.jpg)](http://habi.gna.ch/blog/images/geraldo-1.jpg) [Hannity-Colmes-Smith-Rivera-freak-in-NO.wmv](http://habi.gna.ch/blog/images/Hannity-Colmes-Smith-Rivera-freak-in-NO.wmv) (5.1mb .wmv-file).
+[![Geraldo-1](https://habi.gna.ch/blog/images/geraldo-1-tm.jpg)](https://habi.gna.ch/blog/images/geraldo-1.jpg) [Hannity-Colmes-Smith-Rivera-freak-in-NO.wmv](https://habi.gna.ch/blog/images/Hannity-Colmes-Smith-Rivera-freak-in-NO.wmv) (5.1mb .wmv-file).
 
 
 
 the second video shows [kayne west](http://www.kanyewest.com/) yelling a rather unplanned "George Bush doesn't care about black people" while on a show with mike myers:
   
-[![Kayne-1](http://habi.gna.ch/blog/images/kayne-1-tm.jpg)](http://habi.gna.ch/blog/images/kayne-1.jpg)[Kayne-West-Bush-Black-People.wmv](http://habi.gna.ch/blog/images/Kayne-West-Bush-Black-People.wmv) (4.1mb .wmv-file)
+[![Kayne-1](https://habi.gna.ch/blog/images/kayne-1-tm.jpg)](https://habi.gna.ch/blog/images/kayne-1.jpg)[Kayne-West-Bush-Black-People.wmv](https://habi.gna.ch/blog/images/Kayne-West-Bush-Black-People.wmv) (4.1mb .wmv-file)
 
 
 

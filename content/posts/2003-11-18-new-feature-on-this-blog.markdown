@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-18 22:17:42+00:00
-link: http://habi.gna.ch/2003/11/19/new-feature-on-this-blog/
+link: https://habi.gna.ch/2003/11/19/new-feature-on-this-blog/
 slug: new-feature-on-this-blog
 title: new feature on this blog
 wordpress_id: 351
@@ -27,7 +27,7 @@ you can now see what five songs my itunes played in the last few minutes. includ
 an interesting point of view if you want to know what rocks my socks.
   
 
-if you want only to see the songs, and not read my babble all day long, then you can [click here](http://habi.gna.ch/blog/ipod/now_playing.html), there sits the file that gets included into the sidebar through some php-magic.  
+if you want only to see the songs, and not read my babble all day long, then you can [click here](https://habi.gna.ch/blog/ipod/now_playing.html), there sits the file that gets included into the sidebar through some php-magic.  
 
 
 resources: 

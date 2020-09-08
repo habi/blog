@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-01-10 21:01:48+00:00
-link: http://habi.gna.ch/2011/01/10/abschluss-meiner-spezial-spende-aktion/
+link: https://habi.gna.ch/2011/01/10/abschluss-meiner-spezial-spende-aktion/
 slug: abschluss-meiner-spezial-spende-aktion
 title: Abschluss meiner Spezial-Spende-Aktion
 wordpress_id: 2355
@@ -16,7 +16,7 @@ tags:
 - kiva.org
 ---
 
-Eigentlich wollte ich diesen Eintrag schon lange schreiben [1], bin aber aufgrund einiger - auch personlicher - Sachen nicht dazugekommen. Eben: genau wie [Herr Studer](http://hymnos.existenz.ch/2011/01/08/ein-letztes-mal-in-der-aare/) ging ich ja für [JRZ in's Wasser](http://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/), genauer in die kalte Aare. Fur jedes Foto, das von meinem Internett-Umfeld davon gepostet wurde, hab' ich 25.- für ein Projekt bei kiva.org versprochen. Einen Bonus-Beitrag sollte es für jedes sichtbare Sixpack geben.
+Eigentlich wollte ich diesen Eintrag schon lange schreiben [1], bin aber aufgrund einiger - auch personlicher - Sachen nicht dazugekommen. Eben: genau wie [Herr Studer](http://hymnos.existenz.ch/2011/01/08/ein-letztes-mal-in-der-aare/) ging ich ja für [JRZ in's Wasser](https://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/), genauer in die kalte Aare. Fur jedes Foto, das von meinem Internett-Umfeld davon gepostet wurde, hab' ich 25.- für ein Projekt bei kiva.org versprochen. Einen Bonus-Beitrag sollte es für jedes sichtbare Sixpack geben.
 
 Hinecht bin ich nun dazu gekommen, einige Projekte auszuwahlen. 
 
@@ -35,7 +35,7 @@ Danke an alle, die mitgemacht haben [2], ich glaub' ich hab' schlussendlich weni
 
 
 
-[2]: Danke auch an [Tinu](http://tinus-welt.blogspot.com/), dessen Fotos zwar nix geworden sind, der aber aus dem eigenen Portemonnaie [etwas an kiva gespendet hat](http://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14279).
+[2]: Danke auch an [Tinu](http://tinus-welt.blogspot.com/), dessen Fotos zwar nix geworden sind, der aber aus dem eigenen Portemonnaie [etwas an kiva gespendet hat](https://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14279).
 
 
 

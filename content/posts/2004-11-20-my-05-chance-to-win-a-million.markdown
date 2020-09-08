@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-11-20 14:57:01+00:00
-link: http://habi.gna.ch/2004/11/20/my-05-chance-to-win-a-million/
+link: https://habi.gna.ch/2004/11/20/my-05-chance-to-win-a-million/
 slug: my-05-chance-to-win-a-million
 title: my 0.5% chance to win a million
 wordpress_id: 677

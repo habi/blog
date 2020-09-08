@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-03-02 20:16:06+00:00
-link: http://habi.gna.ch/2005/03/02/stckchenwerfen/
+link: https://habi.gna.ch/2005/03/02/stckchenwerfen/
 slug: stckchenwerfen
 title: stöckchenwerfen
 wordpress_id: 742
@@ -48,7 +48,7 @@ das schönste und funkigste dialekt-liebeslied.
 
 club soda von thomas bangalter.
 
-groovigster electro-track ever. und nicht nur weil ich ihn von der <a href="http://habi.gna.ch/blog/archives/000205.html">vanity9-dvd</a> kenne (da wo die mädels in den knappen kleidchen tanzen...)
+groovigster electro-track ever. und nicht nur weil ich ihn von der <a href="https://habi.gna.ch/blog/archives/000205.html">vanity9-dvd</a> kenne (da wo die mädels in den knappen kleidchen tanzen...)
 
 see breeze von <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=377631">talvin singh</a>.
 
@@ -62,7 +62,7 @@ tief im herzen bin ich der blueser par excellence.
 
 geiler piano-hook. und mike skinner hat ziemlich was zu erzählen, dem hör ich gerne zu.
 
-schlussendlich möcht ich mich aber nicht auf 20% sülze 60% elektronik und 20% blues festlegen. <a href="http://habi.gna.ch/music/">ich hör nämlich viel mehr</a>...
+schlussendlich möcht ich mich aber nicht auf 20% sülze 60% elektronik und 20% blues festlegen. <a href="https://habi.gna.ch/music/">ich hör nämlich viel mehr</a>...
 
 <strong>5. wem wirfst du den stock zu?
 

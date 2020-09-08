@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-06-04 20:29:17+00:00
-link: http://habi.gna.ch/2007/06/04/blgmdybrn-oder-so-recap/
+link: https://habi.gna.ch/2007/06/04/blgmdybrn-oder-so-recap/
 slug: blgmdybrn-oder-so-recap
 title: blgmdybrn (oder so) recap
 wordpress_id: 950

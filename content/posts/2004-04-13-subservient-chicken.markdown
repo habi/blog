@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-04-13 20:22:18+00:00
-link: http://habi.gna.ch/2004/04/13/subservient-chicken/
+link: https://habi.gna.ch/2004/04/13/subservient-chicken/
 slug: subservient-chicken
 title: subservient chicken
 wordpress_id: 500

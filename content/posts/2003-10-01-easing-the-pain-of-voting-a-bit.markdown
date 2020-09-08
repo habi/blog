@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-01 19:38:40+00:00
-link: http://habi.gna.ch/2003/10/01/easing-the-pain-of-voting-a-bit/
+link: https://habi.gna.ch/2003/10/01/easing-the-pain-of-voting-a-bit/
 slug: easing-the-pain-of-voting-a-bit
 title: easing the pain of voting a bit
 wordpress_id: 288

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-03-24 14:54:38+00:00
-link: http://habi.gna.ch/2013/03/24/museumsnacht/
+link: https://habi.gna.ch/2013/03/24/museumsnacht/
 slug: museumsnacht
 title: Museumsnacht
 wordpress_id: 3074

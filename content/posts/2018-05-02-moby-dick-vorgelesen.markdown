@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-05-02 07:39:25+00:00
-link: http://habi.gna.ch/2018/05/02/moby-dick-vorgelesen/
+link: https://habi.gna.ch/2018/05/02/moby-dick-vorgelesen/
 slug: moby-dick-vorgelesen
 title: Moby Dick, vorgelesen
 wordpress_id: 5353

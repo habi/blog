@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-01-01 21:22:08+00:00
-link: http://habi.gna.ch/2018/01/01/recommended-readings-dezember-2017/
+link: https://habi.gna.ch/2018/01/01/recommended-readings-dezember-2017/
 slug: recommended-readings-dezember-2017
 title: 'Recommended Readings: Dezember 2017'
 wordpress_id: 5260

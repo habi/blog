@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-08-01 19:00:28+00:00
-link: http://habi.gna.ch/2015/08/01/recommended-readings-1-august-2015/
+link: https://habi.gna.ch/2015/08/01/recommended-readings-1-august-2015/
 slug: recommended-readings-1-august-2015
 title: 'Recommended readings: 1. August 2015'
 wordpress_id: 4002
@@ -59,6 +59,6 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [The Shadow in the Darkness: A guide dogs story](https://www.youtube.com/watch?v=7lGgCeg3MaM): Hundecontent, nach der harten Kost obendran.
 
 
-  * [KUNG FURY](https://www.youtube.com/watch?v=bS5P_LAqiVg): Ich hab' ja schon mal über [Kung Fury geschrieben](http://habi.gna.ch/2015/04/25/kung-fury/), jetzt ist der ganze Film auf Youtube erhältlich. Immer noch einer der besten Fünfliber, die ich je ausgegeben habe :)
+  * [KUNG FURY](https://www.youtube.com/watch?v=bS5P_LAqiVg): Ich hab' ja schon mal über [Kung Fury geschrieben](https://habi.gna.ch/2015/04/25/kung-fury/), jetzt ist der ganze Film auf Youtube erhältlich. Immer noch einer der besten Fünfliber, die ich je ausgegeben habe :)
 
 

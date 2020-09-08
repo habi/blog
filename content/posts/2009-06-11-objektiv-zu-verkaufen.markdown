@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-06-11 16:26:19+00:00
-link: http://habi.gna.ch/2009/06/11/objektiv-zu-verkaufen/
+link: https://habi.gna.ch/2009/06/11/objektiv-zu-verkaufen/
 slug: objektiv-zu-verkaufen
 title: objektiv zu verkaufen [update]
 wordpress_id: 1798
@@ -40,7 +40,7 @@ das objektiv hat mir bis jetzt gute dienste geleistet, ist gebraucht, funktionie
 
 
 
-[![562402048_Big.jpg](http://habi.gna.ch/wp-content/uploads/2009/06/562402048_Big1.jpg)](http://habi.gna.ch/wp-content/uploads/2009/06/562402048_Big.jpg)  
+[![562402048_Big.jpg](https://habi.gna.ch/wp-content/uploads/2009/06/562402048_Big1.jpg)](https://habi.gna.ch/wp-content/uploads/2009/06/562402048_Big.jpg)  
 
 
 

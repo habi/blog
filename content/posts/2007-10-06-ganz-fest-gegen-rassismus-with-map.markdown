@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-10-06 14:23:07+00:00
-link: http://habi.gna.ch/2007/10/06/ganz-fest-gegen-rassismus-with-map/
+link: https://habi.gna.ch/2007/10/06/ganz-fest-gegen-rassismus-with-map/
 slug: ganz-fest-gegen-rassismus-with-map
 title: ganz fest gegen rassismus [with map]
 wordpress_id: 1050
@@ -19,7 +19,7 @@ heute nami fand auf dem münsterplatz das [fest gegen rassismus](http://www.das-
 meine fotos von heute nachmittag sind in diesem flickr-set zu finden: [ganz FEST GEGEN RASSISMUS](http://www.flickr.com/photos/habi/sets/72157602283496768/).
 dazu gibt's nur noch zu erwähnen, dass der [gps-photo-linker](http://oregonstate.edu/~earlyj/gpsphotolinker/) zusammen mit iphoto, [1001](http://infinite-sushi.com/software/1001/) und meinem gps-kästli wunderbar funktioniert: alle fotos sind in kürzester zeit ge-geotagged und landen mit den entsprechenden infos bei flickr, so dass sie auf einer [karte](http://www.flickr.com/photos/habi/sets/72157602283496768/map/) angeordnet werden können. damit in zukunft die positionsangaben noch genauer stimmen und es nicht so ein gekritzel gibt wie auf rund um den münsterplatz in der karte unten, muss ich mal noch an den [detail-einstellungen](http://bloxxs.ch/?p=1065) des wbt schrauben. aber dazu brauch ich wohl nächsten mal einen windows-kompi (oder muss mal schauen, ob's mit [q - [kju:]](http://www.kju-app.org/kju/) auch funktioniert...)
 
-[071006.kml](http://habi.gna.ch/wp-content/uploads/2007/10/071006.kml)
+[071006.kml](https://habi.gna.ch/wp-content/uploads/2007/10/071006.kml)
 
 [1]: andere news auf [indymedia.ch](http://ch.indymedia.org/demix/2007/10/53152.shtml), dort auch noch weitere links zu weiteren news-beiträgen.
 

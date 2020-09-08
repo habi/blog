@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-05-28 19:07:52+00:00
-link: http://habi.gna.ch/2008/05/28/dicke-post/
+link: https://habi.gna.ch/2008/05/28/dicke-post/
 slug: dicke-post
 title: Dicke Post
 wordpress_id: 1272

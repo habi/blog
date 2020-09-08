@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-11-18 08:41:37+00:00
-link: http://habi.gna.ch/2003/11/18/pros-and-cons-of-every-major-os/
+link: https://habi.gna.ch/2003/11/18/pros-and-cons-of-every-major-os/
 slug: pros-and-cons-of-every-major-os
 title: pros and cons of every major os.
 wordpress_id: 350

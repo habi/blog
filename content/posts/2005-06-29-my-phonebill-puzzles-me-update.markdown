@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-06-29 10:32:23+00:00
-link: http://habi.gna.ch/2005/06/29/my-phonebill-puzzles-me-update/
+link: https://habi.gna.ch/2005/06/29/my-phonebill-puzzles-me-update/
 slug: my-phonebill-puzzles-me-update
 title: my phonebill puzzles me [update]
 wordpress_id: 36
@@ -30,7 +30,7 @@ do you have any tips to lower my phone bill?
 
 
 
-**update: **[bitflux-chregu](http://blog.bitflux.ch) has some remedies. see his comment [here](http://habi.gna.ch/blog/archives/000631.html).
+**update: **[bitflux-chregu](http://blog.bitflux.ch) has some remedies. see his comment [here](https://habi.gna.ch/blog/archives/000631.html).
 
 
 

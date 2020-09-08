@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-05-11 20:28:41+00:00
-link: http://habi.gna.ch/2009/05/11/saletti/
+link: https://habi.gna.ch/2009/05/11/saletti/
 slug: saletti
 title: saletti!
 wordpress_id: 1757

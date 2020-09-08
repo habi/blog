@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-08 19:31:23+00:00
-link: http://habi.gna.ch/2009/10/08/blogparade-dieses-bild-variante-b/
+link: https://habi.gna.ch/2009/10/08/blogparade-dieses-bild-variante-b/
 slug: blogparade-dieses-bild-variante-b
 title: 'blogparade: dieses bild... (variante b)'
 wordpress_id: 1943
@@ -20,7 +20,7 @@ aufgenommen mitten in der nacht am flughafen von dubai, während dem warten auf 
 
 
 
-![DSC_3458.JPG](http://habi.gna.ch/wp-content/uploads/2009/10/DSC_3458.jpg)
+![DSC_3458.JPG](https://habi.gna.ch/wp-content/uploads/2009/10/DSC_3458.jpg)
 
 
 

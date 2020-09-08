@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-01-20 21:14:39+00:00
-link: http://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/
+link: https://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/
 slug: making-of-neujahrskartli-2015
 title: 'Making Of: Neujahrskärtli 2015'
 wordpress_id: 3805
@@ -77,8 +77,8 @@ Zubereitung:
 
 
 
-[![1_mask2.jpg](http://habi.gna.ch/wp-content/uploads/2015/01/1_mask2-1024x456.jpg)](http://habi.gna.ch/wp-content/uploads/2015/01/1_mask2.jpg)
-[![1_mask1.jpg](http://habi.gna.ch/wp-content/uploads/2015/01/1_mask1-1024x458.jpg)](http://habi.gna.ch/wp-content/uploads/2015/01/1_mask1.jpg)
+[![1_mask2.jpg](https://habi.gna.ch/wp-content/uploads/2015/01/1_mask2-1024x456.jpg)](https://habi.gna.ch/wp-content/uploads/2015/01/1_mask2.jpg)
+[![1_mask1.jpg](https://habi.gna.ch/wp-content/uploads/2015/01/1_mask1-1024x458.jpg)](https://habi.gna.ch/wp-content/uploads/2015/01/1_mask1.jpg)
 
 
 
@@ -109,4 +109,4 @@ Backen:
 
 Äbe: Auch wenn schon chli spät; **Äs guets Nöis!**
 
-[![3_2_1_2015.jpg](http://habi.gna.ch/wp-content/uploads/2015/01/3_2_1_2015-1024x719.jpg)](http://habi.gna.ch/wp-content/uploads/2015/01/3_2_1_2015.jpg)
+[![3_2_1_2015.jpg](https://habi.gna.ch/wp-content/uploads/2015/01/3_2_1_2015-1024x719.jpg)](https://habi.gna.ch/wp-content/uploads/2015/01/3_2_1_2015.jpg)

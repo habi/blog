@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-02-21 12:29:58+00:00
-link: http://habi.gna.ch/2010/02/21/1-velotour-2010/
+link: https://habi.gna.ch/2010/02/21/1-velotour-2010/
 slug: 1-velotour-2010
 title: 1. Velotour 2010 [update]
 wordpress_id: 2049

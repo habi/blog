@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-19 22:27:03+00:00
-link: http://habi.gna.ch/2006/05/20/funny-machiminia/
+link: https://habi.gna.ch/2006/05/20/funny-machiminia/
 slug: funny-machiminia
 title: '"funny" machiminia'
 wordpress_id: 178
@@ -19,7 +19,7 @@ watch it yourself!
 
 
 <blockquote>
-[![Deviation-2](http://habi.gna.ch/blog/images/deviation-2-tm.jpg)](http://habi.gna.ch/blog/images/deviation-2.jpg)Macintyre, an online-game character and member of a four-man  counter-terrorist squad, attempts to break out of the cycle of  futile violence that has been his sole existence.
+[![Deviation-2](https://habi.gna.ch/blog/images/deviation-2-tm.jpg)](https://habi.gna.ch/blog/images/deviation-2.jpg)Macintyre, an online-game character and member of a four-man  counter-terrorist squad, attempts to break out of the cycle of  futile violence that has been his sole existence.
   
 Dropped into the middle of a mission and faced with the prospect of climbing into an ambush at the end of a manhole tunnel, Macintyre strives to convince the other squad members that there is another way...  
 

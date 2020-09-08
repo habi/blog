@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-12-31 10:52:41+00:00
-link: http://habi.gna.ch/2005/12/31/what-we-do-at-noon/
+link: https://habi.gna.ch/2005/12/31/what-we-do-at-noon/
 slug: what-we-do-at-noon
 title: what we do at noon
 wordpress_id: 118
@@ -15,19 +15,19 @@ yesterday - the last workday in 2005 - kude [1] made lunch for us. the perfect m
   
 here are some impressions:
   
-[![Fondue0](http://habi.gna.ch/blog/images/fondue0-tm.jpg)](http://habi.gna.ch/blog/images/fondue0.jpg) [![Fondue1](http://habi.gna.ch/blog/images/fondue1-tm.jpg)](http://habi.gna.ch/blog/images/fondue1.jpg)
+[![Fondue0](https://habi.gna.ch/blog/images/fondue0-tm.jpg)](https://habi.gna.ch/blog/images/fondue0.jpg) [![Fondue1](https://habi.gna.ch/blog/images/fondue1-tm.jpg)](https://habi.gna.ch/blog/images/fondue1.jpg)
   
 the table getting ready - [simu](http://flickr.com/photos/habi/tags/simu/) cooking
 
 
 
-[![Fondue2](http://habi.gna.ch/blog/images/fondue2-tm.jpg)](http://habi.gna.ch/blog/images/fondue2.jpg) [![Fondue4](http://habi.gna.ch/blog/images/fondue4-tm.jpg)](http://habi.gna.ch/blog/images/fondue4.jpg)
+[![Fondue2](https://habi.gna.ch/blog/images/fondue2-tm.jpg)](https://habi.gna.ch/blog/images/fondue2.jpg) [![Fondue4](https://habi.gna.ch/blog/images/fondue4-tm.jpg)](https://habi.gna.ch/blog/images/fondue4.jpg)
   
 [andi](http://flickr.com/photos/habi/tags/dustbowl/) readying the fondue, [dewi](http://flickr.com/photos/habi/tags/dewi/) having some wine - [reto](http://flickr.com/photos/habi/tags/reto/) and simu digesting
 
 
 
-[![Fondue5](http://habi.gna.ch/blog/images/fondue5-tm.jpg)](http://habi.gna.ch/blog/images/fondue5.jpg) [![Fondue3](http://habi.gna.ch/blog/images/fondue3-tm.jpg)](http://habi.gna.ch/blog/images/fondue3.jpg)
+[![Fondue5](https://habi.gna.ch/blog/images/fondue5-tm.jpg)](https://habi.gna.ch/blog/images/fondue5.jpg) [![Fondue3](https://habi.gna.ch/blog/images/fondue3-tm.jpg)](https://habi.gna.ch/blog/images/fondue3.jpg)
   
 [hamme](http://flickr.com/photos/habi/tags/h%C3%A4mme/), [nicola](http://flickr.com/photos/habi/tags/nicola/), andi - nicola finishing off, andi and hamme watching.
 

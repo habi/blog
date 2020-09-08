@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-11-22 00:57:16+00:00
-link: http://habi.gna.ch/2008/11/22/the-it-crowd-ist-zuruck-oder-tv-on-demand/
+link: https://habi.gna.ch/2008/11/22/the-it-crowd-ist-zuruck-oder-tv-on-demand/
 slug: the-it-crowd-ist-zuruck-oder-tv-on-demand
 title: the IT crowd ist zurück - oder TV on demand
 wordpress_id: 1561

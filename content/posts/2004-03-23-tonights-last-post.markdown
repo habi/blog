@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-23 21:17:39+00:00
-link: http://habi.gna.ch/2004/03/23/tonights-last-post/
+link: https://habi.gna.ch/2004/03/23/tonights-last-post/
 slug: tonights-last-post
 title: tonights last post
 wordpress_id: 478

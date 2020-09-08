@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2018-07-16 18:51:56+00:00
-link: http://habi.gna.ch/2018/07/16/recommended-readings-vom-juni-2018/
+link: https://habi.gna.ch/2018/07/16/recommended-readings-vom-juni-2018/
 slug: recommended-readings-vom-juni-2018
 title: Recommended Readings vom Juni 2018
 wordpress_id: 5386
@@ -15,7 +15,7 @@ tags:
 - recommended readings
 ---
 
-Wegen [Kurz-Ferien](http://habi.gna.ch/2018/07/04/landli-idylle/) und so ein paar Tage später...
+Wegen [Kurz-Ferien](https://habi.gna.ch/2018/07/04/landli-idylle/) und so ein paar Tage später...
 
 Im letzten Monat las ich unter anderem folgende Texte und fand diese gut:
 

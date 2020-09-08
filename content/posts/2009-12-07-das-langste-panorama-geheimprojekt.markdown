@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-12-07 22:01:55+00:00
-link: http://habi.gna.ch/2009/12/08/das-langste-panorama-geheimprojekt/
+link: https://habi.gna.ch/2009/12/08/das-langste-panorama-geheimprojekt/
 slug: das-langste-panorama-geheimprojekt
 title: das längste panorama (#geheimprojekt)
 wordpress_id: 1988
@@ -18,7 +18,7 @@ tags:
 
 meine stalker wissen, dass ich schon seit einiger zeit an einem #geheimprojekt dran bin, seit freitag abend ist es nicht mehr so geheim wie auch schon.
 
-an der hochzeit, welche ich am 10. oktober besuchte, haben alle hochzeitsgäste von sich selber ein foto auf dem sofa gemacht. ein paar tage später habe ich die durchschnittlichen hochzeitsgäste gezeigt, was dann schon mal relativ speziell aussah, wie [hier zu sehen war](http://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/). die idee, die aber hinter dem ganzen #geheimprojekt stand, wurde von [herr lerjen](http://www.arua.ch/) [1] schon vor [einigen jahren verwirklicht](http://www.arua.ch/pics/75.html), ihm gebührt der dank für die idee.
+an der hochzeit, welche ich am 10. oktober besuchte, haben alle hochzeitsgäste von sich selber ein foto auf dem sofa gemacht. ein paar tage später habe ich die durchschnittlichen hochzeitsgäste gezeigt, was dann schon mal relativ speziell aussah, wie [hier zu sehen war](https://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/). die idee, die aber hinter dem ganzen #geheimprojekt stand, wurde von [herr lerjen](http://www.arua.ch/) [1] schon vor [einigen jahren verwirklicht](http://www.arua.ch/pics/75.html), ihm gebührt der dank für die idee.
 
 mein hochzeitsgeschenk an das frisch vermählte paar sollte alle gäste auf einem sofa zeigen. und zwar nicht als durchschnittliche gäste, wie in meinem beitrag oben gezeigt, sonder auf einem sofa, auf dem nicht 3, sondern 70 menschen sitzen.
 
@@ -32,7 +32,7 @@ https://www.flickr.com/photos/habi/4167535918
 
 ein panorama mit herzblut, aber für die freude der beschenkten hat sich jede minute der arbeit daran gelohnt!
 
-übrigens: da herr hämmann als einziger [mitrater die richtige lösung gewusst hat,](http://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/#comment-12688) kommt er morgen zum znacht, also kann ich das #geheimprojekt abschliessen und wende mich dem nächsten zu.
+übrigens: da herr hämmann als einziger [mitrater die richtige lösung gewusst hat,](https://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/#comment-12688) kommt er morgen zum znacht, also kann ich das #geheimprojekt abschliessen und wende mich dem nächsten zu.
 
 [1] der übrigens auch hinter dem [famosen titelbild](http://www.arua.ch/insp/206.html) des [velokurierbuches](http://www.velokurierbern.ch/ueber-uns/velokurierbuch.html) steckt.
 

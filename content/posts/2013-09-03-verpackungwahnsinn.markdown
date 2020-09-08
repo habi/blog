@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-09-03 07:22:47+00:00
-link: http://habi.gna.ch/2013/09/03/verpackungwahnsinn/
+link: https://habi.gna.ch/2013/09/03/verpackungwahnsinn/
 slug: verpackungwahnsinn
 title: Verpackungwahnsinn
 wordpress_id: 3190

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-07-21 22:22:20+00:00
-link: http://habi.gna.ch/2005/07/22/grand-challenge-05/
+link: https://habi.gna.ch/2005/07/22/grand-challenge-05/
 slug: grand-challenge-05
 title: grand challenge 05
 wordpress_id: 47
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-hopefully this year's [grand challenge](http://www.darpa.mil/grandchallenge/) will be more of a success than [the last one](http://habi.gna.ch/blog/mt-search.cgi?IncludeBlogs=1&search=grand+challenge).
+hopefully this year's [grand challenge](http://www.darpa.mil/grandchallenge/) will be more of a success than [the last one](https://habi.gna.ch/blog/mt-search.cgi?IncludeBlogs=1&search=grand+challenge).
   
 at least there's hope, because a [contestant](http://team.gobanzai.com/home.html) is driven by max os x (albeit there could be a kernel panic on track :-)
 

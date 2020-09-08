@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-05-02 17:45:28+00:00
-link: http://habi.gna.ch/2008/05/02/chm-der-ist-fur-dich/
+link: https://habi.gna.ch/2008/05/02/chm-der-ist-fur-dich/
 slug: chm-der-ist-fur-dich
 title: chm, der ist für dich!
 wordpress_id: 1248
@@ -27,7 +27,7 @@ für alle, die [iphoney](http://www.marketcircle.com/iphoney/) nicht installiere
 
 
 
-  [![wptouch1.jpg](http://habi.gna.ch/wp-content/uploads/2008/05/wptouch11.jpg)](http://habi.gna.ch/wp-content/uploads/2008/05/wptouch1.jpg) [![wptouch2.jpg](http://habi.gna.ch/wp-content/uploads/2008/05/wptouch21.jpg)](http://habi.gna.ch/wp-content/uploads/2008/05/wptouch2.jpg)  
+  [![wptouch1.jpg](https://habi.gna.ch/wp-content/uploads/2008/05/wptouch11.jpg)](https://habi.gna.ch/wp-content/uploads/2008/05/wptouch1.jpg) [![wptouch2.jpg](https://habi.gna.ch/wp-content/uploads/2008/05/wptouch21.jpg)](https://habi.gna.ch/wp-content/uploads/2008/05/wptouch2.jpg)  
 
 
 

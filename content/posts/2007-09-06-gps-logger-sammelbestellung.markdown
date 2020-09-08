@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-09-06 21:01:41+00:00
-link: http://habi.gna.ch/2007/09/06/gps-logger-sammelbestellung/
+link: https://habi.gna.ch/2007/09/06/gps-logger-sammelbestellung/
 slug: gps-logger-sammelbestellung
 title: gps-logger-sammelbestellung
 wordpress_id: 1011
@@ -22,7 +22,7 @@ ich werde einige zeit (ca. 1 woche) warten, bevor ich für mich sowieso so ein g
 die geräte sind heute (20. September, 2007) abend bestellt worden:
 chm und mm: wbt201
 ich, tobi und bruni: wbt200
-[![Buygpsnow](http://habi.gna.ch/wp-content/uploads/2007/09/buygpsnow-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/09/buygpsnow.jpg)
+[![Buygpsnow](https://habi.gna.ch/wp-content/uploads/2007/09/buygpsnow-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/09/buygpsnow.jpg)
 
 
 

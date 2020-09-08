@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-07-01 19:08:03+00:00
-link: http://habi.gna.ch/2004/07/01/update2-two-links-for-you/
+link: https://habi.gna.ch/2004/07/01/update2-two-links-for-you/
 slug: update2-two-links-for-you
 title: '[update2] two links for you'
 wordpress_id: 573
@@ -16,8 +16,8 @@ the second one is interesting in a physicists way: the [new scientist](http://ww
 
 **[update]**
 i managed to grab a screenshot this morning: 77m! how much do you get? leave a comment.
-[![wagenschenke](http://habi.gna.ch/blog/images/wagenschenke-tm.jpg)](http://habi.gna.ch/blog/images/wagenschenke.jpg)
+[![wagenschenke](https://habi.gna.ch/blog/images/wagenschenke-tm.jpg)](https://habi.gna.ch/blog/images/wagenschenke.jpg)
 
 **update2**
 max made it to 88 meters!
-[![88meter](http://habi.gna.ch/blog/images/88meter-tm.jpg)](http://habi.gna.ch/blog/images/88meter.png)
+[![88meter](https://habi.gna.ch/blog/images/88meter-tm.jpg)](https://habi.gna.ch/blog/images/88meter.png)

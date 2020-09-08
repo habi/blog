@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-04-10 19:51:26+00:00
-link: http://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/
+link: https://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/
 slug: panoramas-from-low-quality-movies
 title: panoramas from (low quality) movies [update]
 wordpress_id: 1722
@@ -21,7 +21,7 @@ whenever i'm spending a day outdoor, i love to take pictures, many of them turn 
 
 sometimes i leave my camera at home and only have my [mobile phone](http://www.apple.com/iphone/) with me. shoothing panoramas with the iphone is possible with [panolab](http://linktoapp.com/panolab) [link opens itunes], but very cumbersome. and i try to keep the annoyance of nina as low as possible while stopping on the slopes, so fiddling with my phone for longer than a minute or two is not an option.
 
-recently i was thinking about a quick-and-dirty way of creating panorams with the iphone: wouldn't it be possible to extract the images of a movie shot while panning the scenery and stitch those together to generate a panorama? today was the perfect way to test this out, on the slopes of the wonderful [stockhorn](http://habi.gna.ch/2009/04/10/der-wohl-letzte-skitag-der-with-map/).
+recently i was thinking about a quick-and-dirty way of creating panorams with the iphone: wouldn't it be possible to extract the images of a movie shot while panning the scenery and stitch those together to generate a panorama? today was the perfect way to test this out, on the slopes of the wonderful [stockhorn](https://habi.gna.ch/2009/04/10/der-wohl-letzte-skitag-der-with-map/).
 
 the whole process is fairly easy, you only need
 
@@ -75,8 +75,8 @@ yes, that's it, it's really that [easy](http://wiki.panotools.org/Hugin_Assistan
 
 
 
-[![stockhorn_panorama1_fused.jpg](http://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama1-fused1.jpg)](http://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama1-fused.jpg)
-[![stockhorn_panorama2.jpg](http://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama21.jpg)](http://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama2.jpg)
+[![stockhorn_panorama1_fused.jpg](https://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama1-fused1.jpg)](https://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama1-fused.jpg)
+[![stockhorn_panorama2.jpg](https://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama21.jpg)](https://habi.gna.ch/wp-content/uploads/2009/04/stockhorn-panorama2.jpg)
 
 
 
@@ -88,7 +88,7 @@ i know that both panoramas are not perfect. both are quite small, especially the
 
 **update:**
 
-arru from sweden left a [comment](http://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/comment-page-1/#comment-12364) about extracting the frames of videos using [VLC](http://www.videolan.org/vlc/), which is great, because it plays pretty much any movie-format.
+arru from sweden left a [comment](https://habi.gna.ch/2009/04/10/panoramas-from-low-quality-movies/comment-page-1/#comment-12364) about extracting the frames of videos using [VLC](http://www.videolan.org/vlc/), which is great, because it plays pretty much any movie-format.
 
 since i couldn't find it, i asked him to outline it for me via email. he agreed that i share his howto, which you can find below:
 

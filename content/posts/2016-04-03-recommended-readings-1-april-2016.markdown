@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-04-03 20:33:08+00:00
-link: http://habi.gna.ch/2016/04/03/recommended-readings-1-april-2016/
+link: https://habi.gna.ch/2016/04/03/recommended-readings-1-april-2016/
 slug: recommended-readings-1-april-2016
 title: 'Recommended readings: 1. April 2016'
 wordpress_id: 4378
@@ -42,7 +42,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Syonyk's Project Blog: Why I think Tesla is building throwaway cars](http://syonyk.blogspot.com/2016/03/is-tesla-building-throwaway-cars.html): `If you can't open it, you don't own it`...
 
 
-  * [The Nefertiti 3D Scan Heist Is A Hoax](https://cosmowenman.wordpress.com/2016/03/08/the-nefertiti-3d-scan-heist-is-a-hoax/): [Cosmo Wenman](https://cosmowenman.wordpress.com) weis chli, wie das mit 3D-Scans und Statuen/Kunst geht. Drum weiss er auch, dass der Nefretiti-Scan (siehe letzter [Monat](http://habi.gna.ch/2016/03/01/recommended-readings-1-march-2016/)) so nicht stimmen kann.
+  * [The Nefertiti 3D Scan Heist Is A Hoax](https://cosmowenman.wordpress.com/2016/03/08/the-nefertiti-3d-scan-heist-is-a-hoax/): [Cosmo Wenman](https://cosmowenman.wordpress.com) weis chli, wie das mit 3D-Scans und Statuen/Kunst geht. Drum weiss er auch, dass der Nefretiti-Scan (siehe letzter [Monat](https://habi.gna.ch/2016/03/01/recommended-readings-1-march-2016/)) so nicht stimmen kann.
 
 
   * [Sterben nach Ostern](http://reportagen.com/content/sterben-nach-ostern): Eine Geschichte über den gewählten Freitod. In den [Reportagen](http://reportagen.com) auf totem Holz gelesen, mit Tränen in den Augen. Der Artikel ist dort nicht frei verfügbar, eine Version erschien aber auch im SZ-Magazin und ist bei [Blendle für sich lohnende 0.79€ erhältlich](https://blendle.com/i/suddeutsche-zeitung-magazin/die-eltern-gehen-weg/bnl-szmagazin-20160325-150625_die_eltern_gehen_weg).

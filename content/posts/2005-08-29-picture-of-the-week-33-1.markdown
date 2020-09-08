@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-08-29 17:33:41+00:00
-link: http://habi.gna.ch/2005/08/29/picture-of-the-week-33-1/
+link: https://habi.gna.ch/2005/08/29/picture-of-the-week-33-1/
 slug: picture-of-the-week-33-1
 title: picture of the week 33 [1]
 wordpress_id: 66
@@ -21,7 +21,7 @@ enjoy!
 
 
 
-[![Fatbursparken](http://habi.gna.ch/blog/images/fatbursparken-tm.jpg)](http://habi.gna.ch/blog/images/fatbursparken.mov)
+[![Fatbursparken](https://habi.gna.ch/blog/images/fatbursparken-tm.jpg)](https://habi.gna.ch/blog/images/fatbursparken.mov)
 
 
 

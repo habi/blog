@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-11-30 13:22:22+00:00
-link: http://habi.gna.ch/2013/11/30/schon-ischs-ds-horu/
+link: https://habi.gna.ch/2013/11/30/schon-ischs-ds-horu/
 slug: schon-ischs-ds-horu
 title: Schön ischs, ds Horu
 wordpress_id: 3261

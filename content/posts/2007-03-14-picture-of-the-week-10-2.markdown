@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-03-14 07:28:47+00:00
-link: http://habi.gna.ch/2007/03/14/picture-of-the-week-10-2/
+link: https://habi.gna.ch/2007/03/14/picture-of-the-week-10-2/
 slug: picture-of-the-week-10-2
 title: picture of the week 10
 wordpress_id: 884
@@ -20,7 +20,7 @@ on sunday the weather was again marvelous (as you can see from the images in the
 
 
 
-[![Gletschermitnina](http://habi.gna.ch/wp-content/uploads/2007/03/gletschermitnina-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2007/03/gletschermitnina.jpg)
+[![Gletschermitnina](https://habi.gna.ch/wp-content/uploads/2007/03/gletschermitnina-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/gletschermitnina.jpg)
 
 [1]: thanks to [wikipedia](http://de.wikipedia.org/wiki/Pistenraupe) for providing me with the necessary links...
 

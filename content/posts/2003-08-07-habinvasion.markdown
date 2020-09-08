@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-08-07 18:54:26+00:00
-link: http://habi.gna.ch/2003/08/07/habinvasion/
+link: https://habi.gna.ch/2003/08/07/habinvasion/
 slug: habinvasion
 title: HABinvasion
 wordpress_id: 252
@@ -12,8 +12,8 @@ categories:
 
 how nice!
 now everyday i step out of my house, i see myself cheating :-)
-[![](http://habi.gna.ch/blog/images/ch-fleisch-tm.jpg)](http://habi.gna.ch/blog/images/ch-fleisch.jpg)
-The campaign for [Swiss Meat](http://www.schweizerfleisch.ch/) which i [modeled](http://habi.gna.ch/pics/CH-Fleisch/) started again. 
+[![](https://habi.gna.ch/blog/images/ch-fleisch-tm.jpg)](https://habi.gna.ch/blog/images/ch-fleisch.jpg)
+The campaign for [Swiss Meat](http://www.schweizerfleisch.ch/) which i [modeled](https://habi.gna.ch/pics/CH-Fleisch/) started again. 
 As [Barni pointed out](http://www.bernhardseefeld.ch/archives/000044.html), i'm a vegetarian (strict since about four years, loose one since longer time), but i look like a happy meat eater on these pictures.
 So if you see one of these ads, then you know that it's just an ad and not a true situation :-) 
 

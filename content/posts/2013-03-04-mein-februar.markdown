@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-03-04 21:16:17+00:00
-link: http://habi.gna.ch/2013/03/04/mein-februar/
+link: https://habi.gna.ch/2013/03/04/mein-februar/
 slug: mein-februar
 title: Mein Februar
 wordpress_id: 3037
@@ -14,7 +14,7 @@ tags:
 - one second everyday
 ---
 
-Genau wie [im Januar](http://habi.gna.ch/2013/02/01/mein-januar/) habe ich im letzten Monat (fast) jeden Tag einen Videoschnipsel generiert und am Ende des Februars davon mit der [One Second Everyday App](http://1secondeveryday.com) je eine Sekunde zu einem Film kondensiert.
+Genau wie [im Januar](https://habi.gna.ch/2013/02/01/mein-januar/) habe ich im letzten Monat (fast) jeden Tag einen Videoschnipsel generiert und am Ende des Februars davon mit der [One Second Everyday App](http://1secondeveryday.com) je eine Sekunde zu einem Film kondensiert.
 
 {{< vimeo 60956943 >}}
 

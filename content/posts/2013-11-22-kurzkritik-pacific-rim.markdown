@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-11-22 15:44:58+00:00
-link: http://habi.gna.ch/2013/11/22/kurzkritik-pacific-rim/
+link: https://habi.gna.ch/2013/11/22/kurzkritik-pacific-rim/
 slug: kurzkritik-pacific-rim
 title: 'Kurzkritik: Pacific Rim'
 wordpress_id: 3255

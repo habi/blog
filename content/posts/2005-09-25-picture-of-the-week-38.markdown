@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-09-25 18:03:23+00:00
-link: http://habi.gna.ch/2005/09/25/picture-of-the-week-38/
+link: https://habi.gna.ch/2005/09/25/picture-of-the-week-38/
 slug: picture-of-the-week-38
 title: picture of the week 38
 wordpress_id: 74
@@ -19,7 +19,7 @@ here's one of the few i took above sea-level which i like quite a bit.
 
 
 
-[![Dsc02024](http://habi.gna.ch/blog/images/DSC02024-tm.jpg)](http://habi.gna.ch/blog/images/DSC02024.jpg)
+[![Dsc02024](https://habi.gna.ch/blog/images/DSC02024-tm.jpg)](https://habi.gna.ch/blog/images/DSC02024.jpg)
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-01-23 16:52:35+00:00
-link: http://habi.gna.ch/2008/01/23/nummer-drei/
+link: https://habi.gna.ch/2008/01/23/nummer-drei/
 slug: nummer-drei
 title: Nummer Drei...
 wordpress_id: 1165

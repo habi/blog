@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-05-17 21:44:51+00:00
-link: http://habi.gna.ch/2005/05/17/go-vote-update/
+link: https://habi.gna.ch/2005/05/17/go-vote-update/
 slug: go-vote-update
 title: go vote! [update]
 wordpress_id: 7
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![ Images Pictures Noergeli-G](http://habi.gna.ch/blog/images/_images_pictures_noergeli-g-tm.jpg)](http://habi.gna.ch/blog/images/_images_pictures_noergeli-g.jpg)in about two weeks we the swiss vote for or against schengen. the right wing politicians started a [scare monger](http://dict.leo.org/?search=scare%20monger)-campaing featuring [comics-styled ads](http://www.svp.ch/index.html?page_id=1598&l=2). i haven't voted yet, but am making sure i do in the next few days. all of my - swiss - readers, don't remember to cast your vote and write yes what you want on the little slip of paper. 
+[![ Images Pictures Noergeli-G](https://habi.gna.ch/blog/images/_images_pictures_noergeli-g-tm.jpg)](https://habi.gna.ch/blog/images/_images_pictures_noergeli-g.jpg)in about two weeks we the swiss vote for or against schengen. the right wing politicians started a [scare monger](http://dict.leo.org/?search=scare%20monger)-campaing featuring [comics-styled ads](http://www.svp.ch/index.html?page_id=1598&l=2). i haven't voted yet, but am making sure i do in the next few days. all of my - swiss - readers, don't remember to cast your vote and write yes what you want on the little slip of paper. 
 
 
 

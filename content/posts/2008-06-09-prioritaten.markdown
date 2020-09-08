@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-06-09 19:42:13+00:00
-link: http://habi.gna.ch/2008/06/09/prioritaten/
+link: https://habi.gna.ch/2008/06/09/prioritaten/
 slug: prioritaten
 title: prioritäten...
 wordpress_id: 1281

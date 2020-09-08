@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-12-30 15:28:32+00:00
-link: http://habi.gna.ch/2014/12/30/die-letzte-gondel-aufs-bettmerhorn/
+link: https://habi.gna.ch/2014/12/30/die-letzte-gondel-aufs-bettmerhorn/
 slug: die-letzte-gondel-aufs-bettmerhorn
 title: Die letzte Gondel aufs Bettmerhorn
 wordpress_id: 3728

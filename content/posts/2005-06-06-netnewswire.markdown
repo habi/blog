@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-06-06 21:28:26+00:00
-link: http://habi.gna.ch/2005/06/06/netnewswire/
+link: https://habi.gna.ch/2005/06/06/netnewswire/
 slug: netnewswire
 title: NetnewsWire
 wordpress_id: 21

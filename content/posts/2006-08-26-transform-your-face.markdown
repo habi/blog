@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-08-26 14:29:33+00:00
-link: http://habi.gna.ch/2006/08/26/transform-your-face/
+link: https://habi.gna.ch/2006/08/26/transform-your-face/
 slug: transform-your-face
 title: transform your face!
 wordpress_id: 214
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Habi.Norml](http://habi.gna.ch/blog/images/habi.norml-tm.jpg)](http://habi.gna.ch/blog/images/habi.norml.jpg)did you ever wonder how you're gonna look in some years? or how you would look if born in another part of your world? or look when painted?
+[![Habi.Norml](https://habi.gna.ch/blog/images/habi.norml-tm.jpg)](https://habi.gna.ch/blog/images/habi.norml.jpg)did you ever wonder how you're gonna look in some years? or how you would look if born in another part of your world? or look when painted?
   
 then you have to go and check out the free [face transformer](http://www.dcs.st-and.ac.uk/~morph/Transformer/index.html) from the perception laboratory of the [university of st. andrews](http://www.st-andrews.ac.uk/)! it's really  quite funny and made me laugh!
   
@@ -28,19 +28,19 @@ you just feed it an image of yourself, something like the image on the top left,
 
 <tr >
 	
-<td align="center" valign="top" >[![Habi.Baby](http://habi.gna.ch/blog/images/habi.baby-tm.jpg)](http://habi.gna.ch/blog/images/habi.baby.jpg)  
+<td align="center" valign="top" >[![Habi.Baby](https://habi.gna.ch/blog/images/habi.baby-tm.jpg)](https://habi.gna.ch/blog/images/habi.baby.jpg)  
 habi as a baby
 </td>
 	
-<td align="center" valign="top" >[![Habi.Child](http://habi.gna.ch/blog/images/habi.child-tm.jpg)](http://habi.gna.ch/blog/images/habi.child.jpg)  
+<td align="center" valign="top" >[![Habi.Child](https://habi.gna.ch/blog/images/habi.child-tm.jpg)](https://habi.gna.ch/blog/images/habi.child.jpg)  
 as a child
 </td>
 	
-<td align="center" valign="top" >[![Habi.Teenage](http://habi.gna.ch/blog/images/habi.teenage-tm.jpg)](http://habi.gna.ch/blog/images/habi.teenage.jpg)  
+<td align="center" valign="top" >[![Habi.Teenage](https://habi.gna.ch/blog/images/habi.teenage-tm.jpg)](https://habi.gna.ch/blog/images/habi.teenage.jpg)  
 as a teenager
 </td>
      
-<td align="center" valign="top" >[![Habi.Old](http://habi.gna.ch/blog/images/habi.old-tm.jpg)](http://habi.gna.ch/blog/images/habi.old.jpg)  
+<td align="center" valign="top" >[![Habi.Old](https://habi.gna.ch/blog/images/habi.old-tm.jpg)](https://habi.gna.ch/blog/images/habi.old.jpg)  
 as an old man
 </td>
 
@@ -48,35 +48,35 @@ as an old man
 
 <tr >
      
-<td align="center" valign="top" >[![Habi.Black](http://habi.gna.ch/blog/images/habi.black-tm.jpg)](http://habi.gna.ch/blog/images/habi.black.jpg)  
+<td align="center" valign="top" >[![Habi.Black](https://habi.gna.ch/blog/images/habi.black-tm.jpg)](https://habi.gna.ch/blog/images/habi.black.jpg)  
 as a black man
 </td>
      
-<td align="center" valign="top" >[![Habi.Eastasian](http://habi.gna.ch/blog/images/habi.eastasian-tm.jpg)](http://habi.gna.ch/blog/images/habi.eastasian.jpg)  
+<td align="center" valign="top" >[![Habi.Eastasian](https://habi.gna.ch/blog/images/habi.eastasian-tm.jpg)](https://habi.gna.ch/blog/images/habi.eastasian.jpg)  
 as an asian man
 </td>
      
-<td align="center" valign="top" >[![Habi.Apeman](http://habi.gna.ch/blog/images/habi.apeman-tm.jpg)](http://habi.gna.ch/blog/images/habi.apeman.jpg)  
+<td align="center" valign="top" >[![Habi.Apeman](https://habi.gna.ch/blog/images/habi.apeman-tm.jpg)](https://habi.gna.ch/blog/images/habi.apeman.jpg)  
 as an apeman
 </td>
      
-<td align="center" valign="top" >[![Habi.Female](http://habi.gna.ch/blog/images/habi.female-tm.jpg)](http://habi.gna.ch/blog/images/habi.female.jpg)  
+<td align="center" valign="top" >[![Habi.Female](https://habi.gna.ch/blog/images/habi.female-tm.jpg)](https://habi.gna.ch/blog/images/habi.female.jpg)  
 as a woman
 </td>
 </tr>
 
 <tr >
      
-<td align="center" valign="top" >[![Habi.Manga](http://habi.gna.ch/blog/images/habi.manga-tm.jpg)](http://habi.gna.ch/blog/images/habi.manga.jpg)  
+<td align="center" valign="top" >[![Habi.Manga](https://habi.gna.ch/blog/images/habi.manga-tm.jpg)](https://habi.gna.ch/blog/images/habi.manga.jpg)  
 manga character
 </td>
      
-<td align="center" valign="top" >[![Habi.Boticelli](http://habi.gna.ch/blog/images/habi.boticelli-tm.jpg)](http://habi.gna.ch/blog/images/habi.boticelli.jpg)  
+<td align="center" valign="top" >[![Habi.Boticelli](https://habi.gna.ch/blog/images/habi.boticelli-tm.jpg)](https://habi.gna.ch/blog/images/habi.boticelli.jpg)  
 painted by   
 [boticelli](http://en.wikipedia.org/wiki/Sandro_Botticelli)
 </td>
      
-<td align="center" valign="top" >[![Habi.Modigliani](http://habi.gna.ch/blog/images/habi.modigliani-tm.jpg)](http://habi.gna.ch/blog/images/habi.modigliani.jpg)  
+<td align="center" valign="top" >[![Habi.Modigliani](https://habi.gna.ch/blog/images/habi.modigliani-tm.jpg)](https://habi.gna.ch/blog/images/habi.modigliani.jpg)  
 painted by   
 [modigliani](http://en.wikipedia.org/wiki/Amedeo_Modigliani)
 </td>

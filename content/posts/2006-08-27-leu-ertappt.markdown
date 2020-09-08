@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-08-27 00:39:32+00:00
-link: http://habi.gna.ch/2006/08/27/leu-ertappt/
+link: https://habi.gna.ch/2006/08/27/leu-ertappt/
 slug: leu-ertappt
 title: leu ertappt!
 wordpress_id: 215
@@ -20,7 +20,7 @@ gute nacht.
 
 
 
-[![Dsc04550](http://habi.gna.ch/blog/images/DSC04550-tm.jpg)](http://habi.gna.ch/blog/images/DSC04550.jpg) [![Dsc04551](http://habi.gna.ch/blog/images/DSC04551-tm.jpg)](http://habi.gna.ch/blog/images/DSC04551.jpg)
+[![Dsc04550](https://habi.gna.ch/blog/images/DSC04550-tm.jpg)](https://habi.gna.ch/blog/images/DSC04550.jpg) [![Dsc04551](https://habi.gna.ch/blog/images/DSC04551-tm.jpg)](https://habi.gna.ch/blog/images/DSC04551.jpg)
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-16 20:12:50+00:00
-link: http://habi.gna.ch/2004/03/16/4-quick-notes/
+link: https://habi.gna.ch/2004/03/16/4-quick-notes/
 slug: 4-quick-notes
 title: 4 quick notes
 wordpress_id: 466
@@ -11,7 +11,7 @@ categories:
 - personal
 ---
 
-- [vienna](http://habi.gna.ch/blog/archives/000247.html) was more than lovely.
+- [vienna](https://habi.gna.ch/blog/archives/000247.html) was more than lovely.
 
 - [filewile](http://www.filewile.com/) is having a party tomorrow @ cafe kairo, promoting their video-clip (which runs on [viva-swizz](http://www.viva-swizz.ch/) after midnight).
 

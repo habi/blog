@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-07-30 18:17:10+00:00
-link: http://habi.gna.ch/2008/07/30/beereli-chueche/
+link: https://habi.gna.ch/2008/07/30/beereli-chueche/
 slug: beereli-chueche
 title: beereli-chueche
 wordpress_id: 1322

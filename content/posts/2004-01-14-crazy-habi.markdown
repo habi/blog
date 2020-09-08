@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-14 17:59:02+00:00
-link: http://habi.gna.ch/2004/01/14/crazy-habi/
+link: https://habi.gna.ch/2004/01/14/crazy-habi/
 slug: crazy-habi
 title: crazy habi!
 wordpress_id: 405
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[![](http://habi.gna.ch/blog/images/crazy-tm.jpg)](http://habi.gna.ch/blog/images/crazy.jpg)
+[![](https://habi.gna.ch/blog/images/crazy-tm.jpg)](https://habi.gna.ch/blog/images/crazy.jpg)
 look at my [crazy new page](http://www.habi.gna.ch.crazy.sytes.org/)!
 i'm such a bad-ass-web-designer!!!
 

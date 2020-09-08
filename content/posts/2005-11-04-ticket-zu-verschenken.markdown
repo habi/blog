@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-11-04 07:18:49+00:00
-link: http://habi.gna.ch/2005/11/04/ticket-zu-verschenken/
+link: https://habi.gna.ch/2005/11/04/ticket-zu-verschenken/
 slug: ticket-zu-verschenken
 title: ticket zu verschenken
 wordpress_id: 94

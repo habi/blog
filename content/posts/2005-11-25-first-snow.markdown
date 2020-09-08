@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-11-25 15:13:09+00:00
-link: http://habi.gna.ch/2005/11/25/first-snow/
+link: https://habi.gna.ch/2005/11/25/first-snow/
 slug: first-snow
 title: first snow...
 wordpress_id: 102
@@ -13,7 +13,7 @@ categories:
 
 ... my ass!
   
-[![Fort](http://habi.gna.ch/blog/images/fort-tm.jpg)](http://habi.gna.ch/blog/images/fort.jpg) [![Fort2-1](http://habi.gna.ch/blog/images/fort2-1-tm.jpg)](http://habi.gna.ch/blog/images/fort2-1.jpg)
+[![Fort](https://habi.gna.ch/blog/images/fort-tm.jpg)](https://habi.gna.ch/blog/images/fort.jpg) [![Fort2-1](https://habi.gna.ch/blog/images/fort2-1-tm.jpg)](https://habi.gna.ch/blog/images/fort2-1.jpg)
 
 
   

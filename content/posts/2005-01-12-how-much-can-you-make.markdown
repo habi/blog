@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-01-12 21:24:42+00:00
-link: http://habi.gna.ch/2005/01/12/how-much-can-you-make/
+link: https://habi.gna.ch/2005/01/12/how-much-can-you-make/
 slug: how-much-can-you-make
 title: how much can you make?
 wordpress_id: 713

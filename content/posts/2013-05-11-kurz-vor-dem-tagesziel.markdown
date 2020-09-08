@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-05-11 14:36:28+00:00
-link: http://habi.gna.ch/2013/05/11/kurz-vor-dem-tagesziel/
+link: https://habi.gna.ch/2013/05/11/kurz-vor-dem-tagesziel/
 slug: kurz-vor-dem-tagesziel
 title: Kurz vor dem Tagesziel
 wordpress_id: 3104

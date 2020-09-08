@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-05-28 20:33:24+00:00
-link: http://habi.gna.ch/2006/05/28/smackbook-pro/
+link: https://habi.gna.ch/2006/05/28/smackbook-pro/
 slug: smackbook-pro
 title: smackbook pro
 wordpress_id: 184

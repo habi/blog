@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-12-11 07:55:26+00:00
-link: http://habi.gna.ch/2008/12/11/wordpress-27/
+link: https://habi.gna.ch/2008/12/11/wordpress-27/
 slug: wordpress-27
 title: wordpress 2.7
 wordpress_id: 1589
@@ -12,5 +12,5 @@ tags:
 - wordpress
 ---
 
-doch, das sieht gut aus, dieses neue admin-panel.[![admin panel screenshot](http://habi.gna.ch/wp-content/uploads/2008/12/picture-1-300x216.png)](http://habi.gna.ch/wp-content/uploads/2008/12/picture-1-1024x737.png)
+doch, das sieht gut aus, dieses neue admin-panel.[![admin panel screenshot](https://habi.gna.ch/wp-content/uploads/2008/12/picture-1-300x216.png)](https://habi.gna.ch/wp-content/uploads/2008/12/picture-1-1024x737.png)
 

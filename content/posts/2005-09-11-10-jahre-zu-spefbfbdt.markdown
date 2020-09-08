@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-09-11 10:45:16+00:00
-link: http://habi.gna.ch/2005/09/11/10-jahre-zu-sp%ef%bf%bdt/
+link: https://habi.gna.ch/2005/09/11/10-jahre-zu-sp%ef%bf%bdt/
 slug: 10-jahre-zu-sp%ef%bf%bdt
 title: 10 jahre zu spät
 wordpress_id: 73

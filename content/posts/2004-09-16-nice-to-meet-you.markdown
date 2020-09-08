@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-09-16 16:50:49+00:00
-link: http://habi.gna.ch/2004/09/16/nice-to-meet-you/
+link: https://habi.gna.ch/2004/09/16/nice-to-meet-you/
 slug: nice-to-meet-you
 title: nice to meet you
 wordpress_id: 621

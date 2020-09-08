@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-01-22 22:26:14+00:00
-link: http://habi.gna.ch/2013/01/22/trendy-sein/
+link: https://habi.gna.ch/2013/01/22/trendy-sein/
 slug: trendy-sein
 title: Trendy sein.
 wordpress_id: 3023
@@ -15,7 +15,7 @@ tags:
 - panorama
 ---
 
-[Herr Born](http://www.borniert.com), für den ich [letzten Frühling](http://habi.gna.ch/2012/03/08/planeten-bauen-und-filme-fotografieren/) etwas für die BZ geschrieben habe, hat mich auf den neuesten Trend aufmerksam gemacht, über die er als Journalist informiert wurde.
+[Herr Born](http://www.borniert.com), für den ich [letzten Frühling](https://habi.gna.ch/2012/03/08/planeten-bauen-und-filme-fotografieren/) etwas für die BZ geschrieben habe, hat mich auf den neuesten Trend aufmerksam gemacht, über die er als Journalist informiert wurde.
 
 
 

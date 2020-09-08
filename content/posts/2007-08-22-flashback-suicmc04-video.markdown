@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-08-22 22:07:55+00:00
-link: http://habi.gna.ch/2007/08/22/flashback-suicmc04-video/
+link: https://habi.gna.ch/2007/08/22/flashback-suicmc04-video/
 slug: flashback-suicmc04-video
 title: 'flashback: SUICMC04 [video]'
 wordpress_id: 1007

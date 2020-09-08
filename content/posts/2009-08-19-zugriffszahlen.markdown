@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-08-19 09:58:27+00:00
-link: http://habi.gna.ch/2009/08/19/zugriffszahlen/
+link: https://habi.gna.ch/2009/08/19/zugriffszahlen/
 slug: zugriffszahlen
 title: zugriffszahlen
 wordpress_id: 1900
@@ -17,13 +17,13 @@ kleines update zu der geschichte mit dem nicht korrekt referenzierten bild, das 
 
   
 
-[![image1.png](http://habi.gna.ch/wp-content/uploads/2009/09/image1-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2009/09/image1.png)
+[![image1.png](https://habi.gna.ch/wp-content/uploads/2009/09/image1-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2009/09/image1.png)
 
   
 
 
 
-da kann die [bz](http://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/) mit ihren 50 zusätzlichen hits grad einpacken...
+da kann die [bz](https://habi.gna.ch/2009/07/09/zugriffszahlen-nach-dem-artikel-in-der-bz/) mit ihren 50 zusätzlichen hits grad einpacken...
 
 
 

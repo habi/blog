@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-09-12 14:19:27+00:00
-link: http://habi.gna.ch/2016/09/12/heidsee-sommerlich/
+link: https://habi.gna.ch/2016/09/12/heidsee-sommerlich/
 slug: heidsee-sommerlich
 title: Heidsee, sommerlich
 wordpress_id: 4626

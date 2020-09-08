@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-12-03 23:34:26+00:00
-link: http://habi.gna.ch/2013/12/04/gutscheine-gutscheine-gutscheine-2/
+link: https://habi.gna.ch/2013/12/04/gutscheine-gutscheine-gutscheine-2/
 slug: gutscheine-gutscheine-gutscheine-2
 title: Gutscheine, Gutscheine, Gutscheine!
 wordpress_id: 3269
@@ -22,7 +22,7 @@ Offensichtlich scheint’s überall zu weihnachten. Obwohl ich eine Newsletter-A
 **update: **Das Reportagen-Abo ist weg. Wer mal reinschauen will, kann aktuell (als Weihnachtsgeschenk in Zusammenarbeit mit dem [NZZ Folio](http://folio.nzz.ch)) bei [reportagen.com/folio](http://reportagen.com/folio) ein Probe-Exemplar bestellen. 
 
 
-Wer wie ich eine [Pebble](http://habi.gna.ch/?s=pebble) kaufen möchte, kriegt diese hinter [diesem Link](http://getpebble.us2.list-manage.com/track/click?u=dd6d54b0e22472d9f5004013a&id=0f8e4a221b&e=69b03ac3ce) für 25$ weniger. Wenn du von diesem Angebot gebrauch machst, trag dich im Kommentarfeld unten ein, dann wissen die nächsten Leser, ob das Angebot schon weg ist.
+Wer wie ich eine [Pebble](https://habi.gna.ch/?s=pebble) kaufen möchte, kriegt diese hinter [diesem Link](http://getpebble.us2.list-manage.com/track/click?u=dd6d54b0e22472d9f5004013a&id=0f8e4a221b&e=69b03ac3ce) für 25$ weniger. Wenn du von diesem Angebot gebrauch machst, trag dich im Kommentarfeld unten ein, dann wissen die nächsten Leser, ob das Angebot schon weg ist.
 
 
 

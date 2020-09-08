@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-07-23 18:57:29+00:00
-link: http://habi.gna.ch/2004/07/23/powerbook-blog/
+link: https://habi.gna.ch/2004/07/23/powerbook-blog/
 slug: powerbook-blog
 title: powerbook-blog
 wordpress_id: 585

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2005-12-22 21:47:21+00:00
-link: http://habi.gna.ch/2005/12/22/blogugch-is-working/
+link: https://habi.gna.ch/2005/12/22/blogugch-is-working/
 slug: blogugch-is-working
 title: '*.blogug.ch is working'
 wordpress_id: 116

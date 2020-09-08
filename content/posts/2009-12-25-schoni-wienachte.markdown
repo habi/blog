@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-12-25 23:07:57+00:00
-link: http://habi.gna.ch/2009/12/26/schoni-wienachte/
+link: https://habi.gna.ch/2009/12/26/schoni-wienachte/
 slug: schoni-wienachte
 title: Schöni Wienachte
 wordpress_id: 2003

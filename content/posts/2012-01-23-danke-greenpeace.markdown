@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-01-23 20:10:18+00:00
-link: http://habi.gna.ch/2012/01/23/danke-greenpeace/
+link: https://habi.gna.ch/2012/01/23/danke-greenpeace/
 slug: danke-greenpeace
 title: Danke Greenpeace
 wordpress_id: 2641

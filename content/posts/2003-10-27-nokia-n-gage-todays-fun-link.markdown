@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-27 19:48:22+00:00
-link: http://habi.gna.ch/2003/10/27/nokia-n-gage-todays-fun-link/
+link: https://habi.gna.ch/2003/10/27/nokia-n-gage-todays-fun-link/
 slug: nokia-n-gage-todays-fun-link
 title: nokia n-gage (todays fun link)
 wordpress_id: 326

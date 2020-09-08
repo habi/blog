@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-09-24 07:30:31+00:00
-link: http://habi.gna.ch/2014/09/24/der-herbst-ist-da/
+link: https://habi.gna.ch/2014/09/24/der-herbst-ist-da/
 slug: der-herbst-ist-da
 title: Der Herbst ist da
 wordpress_id: 3576

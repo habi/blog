@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-07-23 07:49:45+00:00
-link: http://habi.gna.ch/2011/07/23/gehirnakrobatik/
+link: https://habi.gna.ch/2011/07/23/gehirnakrobatik/
 slug: gehirnakrobatik
 title: Gehirnakrobatik
 wordpress_id: 2535

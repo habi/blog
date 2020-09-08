@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2006-06-21 22:14:43+00:00
-link: http://habi.gna.ch/2006/06/22/pictures-from-pixmix/
+link: https://habi.gna.ch/2006/06/22/pictures-from-pixmix/
 slug: pictures-from-pixmix
 title: pictures from pixmix
 wordpress_id: 192
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Pixmixsimpleviewer](http://habi.gna.ch/blog/images/pixmixsimpleviewer-tm.jpg)](http://habi.gna.ch/blog/images/pixmixsimpleviewer.jpg)if you missed the pixmix tonight, then you can see all the images i showed in the [/pics](http://habi.gna.ch/pics/) section, in the folder [pixmix13](http://habi.gna.ch/pics/pixmix13/).
+[![Pixmixsimpleviewer](https://habi.gna.ch/blog/images/pixmixsimpleviewer-tm.jpg)](https://habi.gna.ch/blog/images/pixmixsimpleviewer.jpg)if you missed the pixmix tonight, then you can see all the images i showed in the [/pics](https://habi.gna.ch/pics/) section, in the folder [pixmix13](https://habi.gna.ch/pics/pixmix13/).
 
 
 

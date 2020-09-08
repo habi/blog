@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-09-24 09:13:49+00:00
-link: http://habi.gna.ch/2013/09/24/guten-morgen-herbst/
+link: https://habi.gna.ch/2013/09/24/guten-morgen-herbst/
 slug: guten-morgen-herbst
 title: Guten Morgen Herbst
 wordpress_id: 3209

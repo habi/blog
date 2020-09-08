@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-01-21 18:04:05+00:00
-link: http://habi.gna.ch/2008/01/21/leu-als-dienstaltester-blogger-der-schweiz/
+link: https://habi.gna.ch/2008/01/21/leu-als-dienstaltester-blogger-der-schweiz/
 slug: leu-als-dienstaltester-blogger-der-schweiz
 title: leu als dienstältester blogger der schweiz?
 wordpress_id: 1152
@@ -14,7 +14,7 @@ categories:
 
   
 
-[![IAM.png](http://habi.gna.ch/wp-content/uploads/2008/01/iam.jpg)](http://habi.gna.ch/wp-content/uploads/2008/01/iam1.png)ich will jetzt nicht als nörgler dastehen, aber [herr bö](http://www.benkoe.ch/) liebe heute-redaktion [1], da haben sie sich einen schnitzer geleistet: laut meiner minimalen [recherche](http://web.archive.org/web/20030613111603/http://www.leumund.ch/) bloggt der herr leu nicht mit abstand am längsten in der schweiz (seit irgendwann im 2002), sondern wird knapp von meiner wenigkeit geschlagen, der im oktober 2000 seinen ersten blogeintrag verfasst hat (damals hiess das noch community: die details [hier](http://habi.gna.ch/2004/06/09/why-i-blog/) und der dazugehörige screenshot zur rechten...)
+[![IAM.png](https://habi.gna.ch/wp-content/uploads/2008/01/iam.jpg)](https://habi.gna.ch/wp-content/uploads/2008/01/iam1.png)ich will jetzt nicht als nörgler dastehen, aber [herr bö](http://www.benkoe.ch/) liebe heute-redaktion [1], da haben sie sich einen schnitzer geleistet: laut meiner minimalen [recherche](http://web.archive.org/web/20030613111603/http://www.leumund.ch/) bloggt der herr leu nicht mit abstand am längsten in der schweiz (seit irgendwann im 2002), sondern wird knapp von meiner wenigkeit geschlagen, der im oktober 2000 seinen ersten blogeintrag verfasst hat (damals hiess das noch community: die details [hier](https://habi.gna.ch/2004/06/09/why-i-blog/) und der dazugehörige screenshot zur rechten...)
 
 
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-12-10 14:25:33+00:00
-link: http://habi.gna.ch/2003/12/10/update-on-blocher/
+link: https://habi.gna.ch/2003/12/10/update-on-blocher/
 slug: update-on-blocher
 title: update on blocher
 wordpress_id: 373

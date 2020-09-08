@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-12-31 10:13:26+00:00
-link: http://habi.gna.ch/2016/12/31/making-of-neujahrskartli-2017/
+link: https://habi.gna.ch/2016/12/31/making-of-neujahrskartli-2017/
 slug: making-of-neujahrskartli-2017
 title: 'Making of: Neujahrskärtli 2017'
 wordpress_id: 4885
@@ -10,7 +10,7 @@ categories:
 - personal
 ---
 
-Wie [letztes Jahr](http://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/), für die, die's wunder nimmt. Das 'Making Of' meines Neujahrskärtlis.
+Wie [letztes Jahr](https://habi.gna.ch/2016/01/01/making-of-neujahrskartli-2016/), für die, die's wunder nimmt. Das 'Making Of' meines Neujahrskärtlis.
 
 Zutaten:
 - Ein [Fieldpapers-Ausdruck](http://fieldpapers.org/atlases/2udbtq66), Blofi und Radiergummi.

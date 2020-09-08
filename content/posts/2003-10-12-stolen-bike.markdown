@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-10-12 19:04:42+00:00
-link: http://habi.gna.ch/2003/10/12/stolen-bike/
+link: https://habi.gna.ch/2003/10/12/stolen-bike/
 slug: stolen-bike
 title: stolen bike!
 wordpress_id: 309
@@ -18,4 +18,4 @@ if you find it, then you get at least an invitation to the cinema or something l
 
 i want it back so deeply. i do not care if my insurance pays me a new bike, i just want that one back, there's so many emotions attached to it!
 
-ps: here are some pictures of the bike ([1](http://habi.gna.ch/pics/SUICMC03_Renzo/Pages/8.html), [2](http://habi.gna.ch/pics/SUICMC03_Renzo/Pages/6.html), [3](http://habi.gna.ch/pics/SUICMC03_Renzo/Pages/17.html))
+ps: here are some pictures of the bike ([1](https://habi.gna.ch/pics/SUICMC03_Renzo/Pages/8.html), [2](https://habi.gna.ch/pics/SUICMC03_Renzo/Pages/6.html), [3](https://habi.gna.ch/pics/SUICMC03_Renzo/Pages/17.html))

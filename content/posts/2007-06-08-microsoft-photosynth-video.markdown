@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-06-08 12:53:01+00:00
-link: http://habi.gna.ch/2007/06/08/microsoft-photosynth-video/
+link: https://habi.gna.ch/2007/06/08/microsoft-photosynth-video/
 slug: microsoft-photosynth-video
 title: microsoft photosynth [video]
 wordpress_id: 953
@@ -12,7 +12,7 @@ categories:
 ---
 
 the [ted-talks](http://www.ted.com/talks) are always a good source for inspiration and sometimes are just pure eyecandy and droolworthy innovations.
-i've added them to my [democracy-player](http://www.getdemocracy.com/) but seldom take my time to watch all of them. the [demo](http://www.ted.com/talks/view/id/129) of photosynth and seadragon by [Blaise Aguera y Arcas](http://www.ted.com/index.php/speakers/view/id/117) from microsoft research is amazing. now this should be combined with [jeff hans multi-touch interface](http://habi.gna.ch/2007/01/23/multi-touch-demo/), and i'll never leave my desk again...
+i've added them to my [democracy-player](http://www.getdemocracy.com/) but seldom take my time to watch all of them. the [demo](http://www.ted.com/talks/view/id/129) of photosynth and seadragon by [Blaise Aguera y Arcas](http://www.ted.com/index.php/speakers/view/id/117) from microsoft research is amazing. now this should be combined with [jeff hans multi-touch interface](https://habi.gna.ch/2007/01/23/multi-touch-demo/), and i'll never leave my desk again...
 sometimes even microsoft manages to do impressive stuff!
 
 i couldn't embed the original talk from ted.com, so i linked to the youtube-version. if you want to see the full eyecandy, go here: [ted.com/talks/view/id/129](http://www.ted.com/talks/view/id/129)

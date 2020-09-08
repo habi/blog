@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-03-23 20:32:05+00:00
-link: http://habi.gna.ch/2004/03/23/viruses-and-trojans-are-coming/
+link: https://habi.gna.ch/2004/03/23/viruses-and-trojans-are-coming/
 slug: viruses-and-trojans-are-coming
 title: viruses and trojans are coming
 wordpress_id: 476

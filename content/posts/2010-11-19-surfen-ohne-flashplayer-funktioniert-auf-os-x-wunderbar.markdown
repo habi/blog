@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-11-19 09:20:43+00:00
-link: http://habi.gna.ch/2010/11/19/surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar/
+link: https://habi.gna.ch/2010/11/19/surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar/
 slug: surfen-ohne-flashplayer-funktioniert-auf-os-x-wunderbar
 title: Surfen ohne Flashplayer funktioniert auf OS X wunderbar
 wordpress_id: 2294
@@ -27,7 +27,7 @@ Seit 10 Tagen surfe ich fast ausschliesslich Flash Player-frei durch das Interne
   * [Vimeo auf HTML5 umstellen](http://vimeo.com/blog:268)
   * Die Safari-Extension [Youtube5](http://www.verticalforest.com/youtube5-extension/) installieren, damit auch eingebundene YouTube-Videos ohne Flash Player angezeigt werden.
 
-So bewege ich mich nun seit 10 Tagen durchs Netz und habe nur ein paar Einschrankungen bemerkt. Entweder weil ich (noch) keinen Vimeo Pro Account habe oder weil die Youtube5-Extension nicht korrekt funktioniert werden die eingebetteten Videos von mir nicht als HTML5 ausgeliefert. Teilweise werden Videos von anderen Seiten als Youtube und Vimeo nicht als HTML5-Alternative ausgeliefert (z.B. [Spiegel.de](http://spiegel.de/video/video-1086540.html) oder [NewsNetz](http://spiegel.de/video/video-1086540.html)). Flashgames (z.B. die witzigen der [Nothing Agency](https://nothing.ch/works/games)) funktionieren nicht und die [Flickr-Diashows werden auch nicht angezeigt](http://cl.ly/3Iy6). Diese Probleme sind aber sehr einfach losbar. Und wie ich im [vorhergehenden Eintrag](http://habi.gna.ch/2010/11/19/ausschaffungsinitiative-im-praxistest/) geschrieben habe, ist ohne Flash Player der Link zum Einbinden von issuu.com-Dokumenten zwar kurz sichtbar, fuhr aber nach einem Klick und der Anzeige des [Einbett-Codes](http://issuu.com/surprise/docs/surprise_237?showEmbed=true) direkt zum Dokument.
+So bewege ich mich nun seit 10 Tagen durchs Netz und habe nur ein paar Einschrankungen bemerkt. Entweder weil ich (noch) keinen Vimeo Pro Account habe oder weil die Youtube5-Extension nicht korrekt funktioniert werden die eingebetteten Videos von mir nicht als HTML5 ausgeliefert. Teilweise werden Videos von anderen Seiten als Youtube und Vimeo nicht als HTML5-Alternative ausgeliefert (z.B. [Spiegel.de](http://spiegel.de/video/video-1086540.html) oder [NewsNetz](http://spiegel.de/video/video-1086540.html)). Flashgames (z.B. die witzigen der [Nothing Agency](https://nothing.ch/works/games)) funktionieren nicht und die [Flickr-Diashows werden auch nicht angezeigt](http://cl.ly/3Iy6). Diese Probleme sind aber sehr einfach losbar. Und wie ich im [vorhergehenden Eintrag](https://habi.gna.ch/2010/11/19/ausschaffungsinitiative-im-praxistest/) geschrieben habe, ist ohne Flash Player der Link zum Einbinden von issuu.com-Dokumenten zwar kurz sichtbar, fuhr aber nach einem Klick und der Anzeige des [Einbett-Codes](http://issuu.com/surprise/docs/surprise_237?showEmbed=true) direkt zum Dokument.
 
 Fur solche Spezialfalle greife ich auf [Google Chrome](http://www.google.com/chrome/) zuruck. Google Chrome hat seinen eigenen Flash Player eingebaut, der nach dem Beenden des Browsers auch sauber wieder aus dem Speicher geloscht wird und so nach dem Anschauen eines Videos oder einer Diashow keine weiteren Probleme macht.
 

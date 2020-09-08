@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-07-30 15:24:18+00:00
-link: http://habi.gna.ch/2003/07/30/plans-for-tonight/
+link: https://habi.gna.ch/2003/07/30/plans-for-tonight/
 slug: plans-for-tonight
 title: plans for tonight
 wordpress_id: 242
@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-I'm gonna go and see [Akua](http://www.akua.ch/) from "Karls Kuhne Gassenschau" with [Nina](http://habi.gna.ch/pics/Aare/Pages/22.html).
+I'm gonna go and see [Akua](http://www.akua.ch/) from "Karls Kuhne Gassenschau" with [Nina](https://habi.gna.ch/pics/Aare/Pages/22.html).
 
 PS: hopefully she will not read my blog until we meet (in 40 minutes or so), because it's a surprise for her (for our third anniversary - which was some days ago, but couldn't be celebrated properly, 'cause she had a lot of exams)
 

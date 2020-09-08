@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-11-21 14:33:47+00:00
-link: http://habi.gna.ch/2004/11/21/picture-of-the-week-48/
+link: https://habi.gna.ch/2004/11/21/picture-of-the-week-48/
 slug: picture-of-the-week-48
 title: picture of the week 48
 wordpress_id: 678
@@ -17,5 +17,5 @@ it was taken on my vacation in vienna this march. it's the wall and a chair in a
 
 
 
-[![Dsc03159](http://habi.gna.ch/blog/images/DSC03159-tm.jpg)](http://habi.gna.ch/blog/images/DSC03159.jpg)
+[![Dsc03159](https://habi.gna.ch/blog/images/DSC03159-tm.jpg)](https://habi.gna.ch/blog/images/DSC03159.jpg)
 

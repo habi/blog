@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-05-03 09:54:26+00:00
-link: http://habi.gna.ch/2007/05/03/bottle-on-the-head/
+link: https://habi.gna.ch/2007/05/03/bottle-on-the-head/
 slug: bottle-on-the-head
 title: bottle on the head
 wordpress_id: 934

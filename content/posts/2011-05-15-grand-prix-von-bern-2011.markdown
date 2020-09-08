@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-05-15 14:01:50+00:00
-link: http://habi.gna.ch/2011/05/15/grand-prix-von-bern-2011/
+link: https://habi.gna.ch/2011/05/15/grand-prix-von-bern-2011/
 slug: grand-prix-von-bern-2011
 title: Grand-Prix von Bern 2011
 wordpress_id: 2491
@@ -24,7 +24,7 @@ Wie schon [anderswo](http://hymnos.existenz.ch/2011/05/13/das-anstrengendste-am-
 
 Nachdem das ganze Feld das erste Mal durch die Kramgasse gerannt war, blieb mir noch genug Zeit, um auf dem Bundesplatz noch ein weiteres Foto zu schiessen. Genauer waren's dann insgesamt 72 Fotos, die nach etwas Bearbeitung dann so aussehen.  
 
-[![Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused-Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused stereographic.jpg](http://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic.jpg)  
+[![Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused-Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused stereographic.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic.jpg)  
 
   
 

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-09-01 19:00:14+00:00
-link: http://habi.gna.ch/2014/09/01/recommended-readings-01-september-2014/
+link: https://habi.gna.ch/2014/09/01/recommended-readings-01-september-2014/
 slug: recommended-readings-01-september-2014
 title: 'Recommended readings: 1. September 2014'
 wordpress_id: 3570

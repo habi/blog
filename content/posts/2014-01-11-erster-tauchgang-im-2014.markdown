@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-01-11 16:22:56+00:00
-link: http://habi.gna.ch/2014/01/11/erster-tauchgang-im-2014/
+link: https://habi.gna.ch/2014/01/11/erster-tauchgang-im-2014/
 slug: erster-tauchgang-im-2014
 title: Erster Tauchgang im 2014
 wordpress_id: 3351

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-31 13:21:53+00:00
-link: http://habi.gna.ch/2009/10/31/54-20-4m-12-gipsunion/
+link: https://habi.gna.ch/2009/10/31/54-20-4m-12-gipsunion/
 slug: 54-20-4m-12
 title: 54' | 20.4m | 12° | Gipsunion
 wordpress_id: 1949
@@ -18,5 +18,5 @@ Originally uploaded by [habi](http://www.flickr.com/people/habi/).
 
 So, jetzt habe ich den neuen Tauchcomputer grad mal richtig eingetaucht.
 
-**update****:** hab' ich schon erwähnt, dass der neue tauchcomputer ziemlich super ist? nebst digitalem kompass unter wasser kann ich den nun auch am laptop auslesen und erhalte dann mit der entsprechenden [software](http://www.thedoorisajar.org/macdive/) solche tauch-details: [gipsunion.pdf](http://habi.gna.ch/wp-content/uploads/2009/11/gipsunion.pdf)
+**update****:** hab' ich schon erwähnt, dass der neue tauchcomputer ziemlich super ist? nebst digitalem kompass unter wasser kann ich den nun auch am laptop auslesen und erhalte dann mit der entsprechenden [software](http://www.thedoorisajar.org/macdive/) solche tauch-details: [gipsunion.pdf](https://habi.gna.ch/wp-content/uploads/2009/11/gipsunion.pdf)
 

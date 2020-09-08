@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-09-26 21:27:44+00:00
-link: http://habi.gna.ch/2004/09/26/picture-of-the-week-40-update/
+link: https://habi.gna.ch/2004/09/26/picture-of-the-week-40-update/
 slug: picture-of-the-week-40-update
 title: picture of the week 40 [update]
 wordpress_id: 628
@@ -17,7 +17,7 @@ so sigi and me went to the museum to see [der gespiegelte mensch](http://www.der
 
 so i'm just grabbing a pic from my archive:
 here's one i shot at kims stag night in crans montana:
-[![DSC01354](http://habi.gna.ch/blog/images/DSC01354-tm.jpg)](http://habi.gna.ch/blog/images/DSC01354.jpg)
+[![DSC01354](https://habi.gna.ch/blog/images/DSC01354-tm.jpg)](https://habi.gna.ch/blog/images/DSC01354.jpg)
 
 **[update]**
 [here's](http://www.tagesanzeiger.ch/dyn/news/galerie/zuerich/967.html) a better pic

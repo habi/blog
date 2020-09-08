@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2007-06-08 21:21:37+00:00
-link: http://habi.gna.ch/2007/06/08/unerhortverhort/
+link: https://habi.gna.ch/2007/06/08/unerhortverhort/
 slug: unerhortverhort
 title: unerhörtverhört
 wordpress_id: 954
@@ -19,7 +19,7 @@ das ganze ist teil seiner [unerhört verhört serie](http://bloxxs.ch/index.php?
 wer also ein bisschen mehr über mich wissen will [2], kann [mein verhör mit chrigu bei ihm](http://bloxxs.ch/?p=756) nachlesen. ich find' es ist ganz gut gelungen!
 
 [1]: bin gespannt auf die weiteren!
-[2]: das verhör wär evtl. was für meine [/about-seite](http://habi.gna.ch/about/)...
+[2]: das verhör wär evtl. was für meine [/about-seite](https://habi.gna.ch/about/)...
 
 
 Technorati Tags: [lang:de](http://www.technorati.com/tag/lang:de), [unerhörtverhört](http://www.technorati.com/tag/unerhörtverhört)

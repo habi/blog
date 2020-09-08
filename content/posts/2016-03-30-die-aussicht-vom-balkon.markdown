@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-03-30 20:51:58+00:00
-link: http://habi.gna.ch/2016/03/30/die-aussicht-vom-balkon/
+link: https://habi.gna.ch/2016/03/30/die-aussicht-vom-balkon/
 slug: die-aussicht-vom-balkon
 title: Die Aussicht vom Balkon
 wordpress_id: 4367

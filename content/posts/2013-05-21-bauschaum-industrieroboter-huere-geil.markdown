@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-05-21 19:34:09+00:00
-link: http://habi.gna.ch/2013/05/21/bauschaum-industrieroboter-huere-geil/
+link: https://habi.gna.ch/2013/05/21/bauschaum-industrieroboter-huere-geil/
 slug: bauschaum-industrieroboter-huere-geil
 title: Bauschaum + Industrieroboter = huere geil
 wordpress_id: 3107

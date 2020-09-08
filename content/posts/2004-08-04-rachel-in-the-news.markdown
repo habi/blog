@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-08-04 12:26:52+00:00
-link: http://habi.gna.ch/2004/08/04/rachel-in-the-news/
+link: https://habi.gna.ch/2004/08/04/rachel-in-the-news/
 slug: rachel-in-the-news
 title: rachel in the news
 wordpress_id: 595

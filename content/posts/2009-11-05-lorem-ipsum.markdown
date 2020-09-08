@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-11-05 13:34:40+00:00
-link: http://habi.gna.ch/2009/11/05/lorem-ipsum/
+link: https://habi.gna.ch/2009/11/05/lorem-ipsum/
 slug: lorem-ipsum
 title: lorem ipsum
 wordpress_id: 1961

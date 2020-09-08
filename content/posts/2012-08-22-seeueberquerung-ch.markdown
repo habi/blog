@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2012-08-22 16:10:52+00:00
-link: http://habi.gna.ch/2012/08/22/seeueberquerung-ch/
+link: https://habi.gna.ch/2012/08/22/seeueberquerung-ch/
 slug: seeueberquerung-ch
 title: seeueberquerung.ch
 wordpress_id: 2868

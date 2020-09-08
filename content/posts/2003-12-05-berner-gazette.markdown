@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2003-12-05 14:55:16+00:00
-link: http://habi.gna.ch/2003/12/05/berner-gazette/
+link: https://habi.gna.ch/2003/12/05/berner-gazette/
 slug: berner-gazette
 title: berner gazette
 wordpress_id: 368

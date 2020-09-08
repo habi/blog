@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2004-01-08 22:08:58+00:00
-link: http://habi.gna.ch/2004/01/09/weebl-and-bob-the-funniest-guys-on-earth/
+link: https://habi.gna.ch/2004/01/09/weebl-and-bob-the-funniest-guys-on-earth/
 slug: weebl-and-bob-the-funniest-guys-on-earth
 title: weebl and bob - the funniest guys on earth.
 wordpress_id: 398

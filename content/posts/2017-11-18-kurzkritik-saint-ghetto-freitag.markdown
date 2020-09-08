@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2017-11-18 01:09:45+00:00
-link: http://habi.gna.ch/2017/11/18/kurzkritik-saint-ghetto-freitag/
+link: https://habi.gna.ch/2017/11/18/kurzkritik-saint-ghetto-freitag/
 slug: kurzkritik-saint-ghetto-freitag
 title: 'Kurzkritik: Saint Ghetto (Freitag)'
 wordpress_id: 5228

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-12-10 19:48:33+00:00
-link: http://habi.gna.ch/2008/12/10/the-argentinian-schoolbook-and-me/
+link: https://habi.gna.ch/2008/12/10/the-argentinian-schoolbook-and-me/
 slug: the-argentinian-schoolbook-and-me
 title: the argentinian schoolbook and me
 wordpress_id: 1586
@@ -32,10 +32,10 @@ she wrote me that she came across my photo and she:
 i quickly agreed that she can use the image with proper attribution and now, after some emailing back and forth, she has sent me the final page from the book.
 and i have to say that i'm quite pleased with the result, but judge for yourself: here's a screenshot of the page of the book:
 
-[![book.jpg](http://habi.gna.ch/wp-content/uploads/2008/12/book2.jpg)](http://habi.gna.ch/wp-content/uploads/2008/12/book1.jpg)
+[![book.jpg](https://habi.gna.ch/wp-content/uploads/2008/12/book2.jpg)](https://habi.gna.ch/wp-content/uploads/2008/12/book1.jpg)
 
-if you're really interested, you can also download a copy of [the page as a pdf](http://habi.gna.ch/wp-content/uploads/2008/12/book.pdf), but it's a hefty 4 MB and you don't see much more than on the screenshot.
+if you're really interested, you can also download a copy of [the page as a pdf](https://habi.gna.ch/wp-content/uploads/2008/12/book.pdf), but it's a hefty 4 MB and you don't see much more than on the screenshot.
 
 not too bad, innit?
 
-i'll add this to the nice stories that creative commons has brought to me already: [another diving story](http://habi.gna.ch/2004/09/09/how-nice/), even [another one](http://goseasia.about.com/od/travelplanning/ss/8seasiasights_3.htm), one about [police and demonstrators](http://habi.gna.ch/2006/04/03/nowpubliccom-uses-my-photos-with-my-permission/) , one about [downtown fires](http://habi.gna.ch/2006/03/07/creative-commons-in-full-effect/) and one about [screensavers](http://habi.gna.ch/2007/02/08/nokia/).
+i'll add this to the nice stories that creative commons has brought to me already: [another diving story](https://habi.gna.ch/2004/09/09/how-nice/), even [another one](http://goseasia.about.com/od/travelplanning/ss/8seasiasights_3.htm), one about [police and demonstrators](https://habi.gna.ch/2006/04/03/nowpubliccom-uses-my-photos-with-my-permission/) , one about [downtown fires](https://habi.gna.ch/2006/03/07/creative-commons-in-full-effect/) and one about [screensavers](https://habi.gna.ch/2007/02/08/nokia/).

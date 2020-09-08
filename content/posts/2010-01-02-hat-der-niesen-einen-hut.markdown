@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-01-02 15:32:53+00:00
-link: http://habi.gna.ch/2010/01/02/hat-der-niesen-einen-hut/
+link: https://habi.gna.ch/2010/01/02/hat-der-niesen-einen-hut/
 slug: hat-der-niesen-einen-hut
 title: Hat der Niesen einen Hut...
 wordpress_id: 2019
