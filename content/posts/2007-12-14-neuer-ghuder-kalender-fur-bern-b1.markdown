@@ -17,7 +17,7 @@ da ich einen sachen-in-die-agenda-schreiben-und-vergessen-fetisch habe; habe ich
 wer sich den abfallkalender nicht an den schrank hängen will, oder sich die mühe des abtippen sparen will, findet in [diesem .ics-file](https://habi.gna.ch/wp-content/uploads/2007/12/abfallkalender_bern_b1_2008.ics) (das für jedes standard-konforme kalenderprogramm funktionieren sollte [1]) die daten für den abfuhrkreis B1.
 
 
-übrigens: am letzten [blgmdybrn](http://blog.dasrecht.net/2007/12/04/blgmdybrn-03122007/) haben wir die problematik der fehlenden daten mit der anwesenden [stadträtin](http://dannie.wordpress.com/) besprochen, evtl. gibt das bald mal eine motion...
+übrigens: am letzten [blgmdybrn](https://blog.dasrecht.net/2007/12/04/blgmdybrn-03122007/) haben wir die problematik der fehlenden daten mit der anwesenden [stadträtin](http://dannie.wordpress.com/) besprochen, evtl. gibt das bald mal eine motion...
 
 [1]: daten ohne gewähr, rückmeldung bei nichtfunktionieren oder ergänzungen erwünscht!
 

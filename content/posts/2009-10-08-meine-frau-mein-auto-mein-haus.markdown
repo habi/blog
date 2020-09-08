@@ -17,7 +17,7 @@ tags:
 - screenshot
 ---
 
-[bastian interessierts](http://blog.dasrecht.net/2009/10/07/desktop-07-10-2009/), wie meine arbeitsoberfläche gestaltet ist. momentan sieht mein desktop für meine verhältnisse sehr überladen aus, denn ich bin ein verfechter eines [minimalen macs](http://minimalmac.com/).
+[bastian interessierts](https://blog.dasrecht.net/2009/10/07/desktop-07-10-2009/), wie meine arbeitsoberfläche gestaltet ist. momentan sieht mein desktop für meine verhältnisse sehr überladen aus, denn ich bin ein verfechter eines [minimalen macs](http://minimalmac.com/).
 
 erstens hat's ein kleines fotoprojekt dort zwischengelagert und andererseits bin ich bin auch gerade in deutschland, nämlich in bremen bei [mevis](http://mevis.de/mre/Lunge.html) zu besuch. deshalb sind 80 gb wissenschaftliche daten auf dem desktop zwischengelagert, die wir gestern, heute und morgen besprochen haben und besprechen werden.
 

@@ -13,7 +13,7 @@ tags:
 ---
 
 Seit einiger Zeit versuche ich immer Anfangs Monat ein Blogpost mit Texten und Videos zu machen, die mir letzten Monat gut gefallen haben.
-Nachdem letzthin [auch schon andere](http://blog.dasrecht.net/2015/04/19/angelesen-16) darüber geschrieben haben, wie ihre Linksammlung entsteht, dachte ich, ist es an der Zeit, zu erzählen, wie ich es mache.
+Nachdem letzthin [auch schon andere](https://blog.dasrecht.net/2015/04/19/angelesen-16) darüber geschrieben haben, wie ihre Linksammlung entsteht, dachte ich, ist es an der Zeit, zu erzählen, wie ich es mache.
 
 Der allergrössten Teil meiner Nicht-Bücher und Nicht-Magazine lese ich via [Instapaper](https://www.instapaper.com), das ich von überallhin z.B. mit einem Bookmarklet befülle.
 Instapaper ist extrem gut geeignet, um _immer_ etwas zum Lesen dabei zu haben, sei es direkt auf dem Mobiltelefon oder z.B. auf dem Kindle, der normalerweise irgendwo in meiner Tasche oder in meinem Rucksack rumliegt.

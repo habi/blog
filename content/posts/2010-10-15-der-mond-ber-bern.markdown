@@ -13,7 +13,7 @@ tags:
 - timelapse
 ---
 
-Letzthin durfte ich mal wieder [Herr Widmers](http://blog.dasrecht.net/) Nikon 10.5mm f/2.8 DX Fisheye-Objektiv ausleihen [1]. Die eindruckliche Kombination aus Vollmond und Wolken hat mich dazu animiert, meine Kamera um Mitternacht ungefahr eine Viertelstunde auf den Balkon zu stellen und insgesamt 787 Fotos zu machen.
+Letzthin durfte ich mal wieder [Herr Widmers](https://blog.dasrecht.net/) Nikon 10.5mm f/2.8 DX Fisheye-Objektiv ausleihen [1]. Die eindruckliche Kombination aus Vollmond und Wolken hat mich dazu animiert, meine Kamera um Mitternacht ungefahr eine Viertelstunde auf den Balkon zu stellen und insgesamt 787 Fotos zu machen.
 
 
 

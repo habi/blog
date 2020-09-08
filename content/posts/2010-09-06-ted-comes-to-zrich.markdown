@@ -13,7 +13,7 @@ tags:
 - ted
 ---
 
-Schon-Lange-Mitleser hier wissen, dass ich ein grosser Freund der [TED-Talks](http://www.ted.com/) bin, immer wieder begeistern mich die vorgestellten Ideen und fasziniert mich die Rhetorik der Redner und Rednerinnen. Heute habe ich bei [Bastian drüben](http://blog.dasrecht.net/2010/09/06/tedxzurich/) gelesen, dass die TED-Konferenz als [Satellitenkonferenz](http://www.ted.com/tedx) nach Zürich kommt, und zwar als [TEDxZurich](http://tedxzurich.com/).
+Schon-Lange-Mitleser hier wissen, dass ich ein grosser Freund der [TED-Talks](http://www.ted.com/) bin, immer wieder begeistern mich die vorgestellten Ideen und fasziniert mich die Rhetorik der Redner und Rednerinnen. Heute habe ich bei [Bastian drüben](https://blog.dasrecht.net/2010/09/06/tedxzurich/) gelesen, dass die TED-Konferenz als [Satellitenkonferenz](http://www.ted.com/tedx) nach Zürich kommt, und zwar als [TEDxZurich](http://tedxzurich.com/).
 
 
 

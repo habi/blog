@@ -26,7 +26,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [The problem with self-driving cars: who controls the code?](http://www.theguardian.com/technology/2015/dec/23/the-problem-with-self-driving-cars-who-controls-the-code): Der Guardian schreibt über selbstfahrende Autos. Und die Implikationen, die sich daraus für die Software ergeben.
 
 
-  * [Überwachung für mehr Sicherheit? Ein fataler Trend](http://www.spiegel.de/netzwelt/web/sascha-lobo-ueber-die-irrationale-ausweitung-der-ueberwachung-a-1064508.html): Sascha Lobo schreibt über die Reaktionen auf den Terror in Paris. Via [Bastian](http://blog.dasrecht.net/2015/12/29/angelesen-24/).
+  * [Überwachung für mehr Sicherheit? Ein fataler Trend](http://www.spiegel.de/netzwelt/web/sascha-lobo-ueber-die-irrationale-ausweitung-der-ueberwachung-a-1064508.html): Sascha Lobo schreibt über die Reaktionen auf den Terror in Paris. Via [Bastian](https://blog.dasrecht.net/2015/12/29/angelesen-24/).
 
 
   * [Das Morden hat begonnen](https://krautreporter.de/1204--das-morden-hat-begonnen): Eine kaum zu ertragende Reportage über den beginnenden Bürgerkrieg in Burundi.

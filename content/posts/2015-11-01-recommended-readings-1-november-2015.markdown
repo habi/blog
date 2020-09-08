@@ -47,7 +47,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [Real-time Expression Transfer for Facial Reenactment](https://www.youtube.com/watch?v=eXVspNUeiWw): Das könnte ein paar Schauspieler arbeitslos machen.
 
 
-  * [Chris Hadfield: What I learned from going blind in space](https://www.youtube.com/watch?v=Zo62S0ulqhA): Commander Chris Hadfield erzählt, was er im Weltraum erlebt hat. [Wie Bastian sagt](http://blog.dasrecht.net/2015/08/20/chris-hadfield-what-i-learned-from-going-blind-in-space/): ein berührender TED-Talk.
+  * [Chris Hadfield: What I learned from going blind in space](https://www.youtube.com/watch?v=Zo62S0ulqhA): Commander Chris Hadfield erzählt, was er im Weltraum erlebt hat. [Wie Bastian sagt](https://blog.dasrecht.net/2015/08/20/chris-hadfield-what-i-learned-from-going-blind-in-space/): ein berührender TED-Talk.
 
 
   * [This is Cuba's Netflix, Hulu, and Spotify - all without the internet](https://www.youtube.com/watch?v=fTTno8D-b2E): In Kuba ist ein Internet-Anschluss nicht so einfach zu bekommen wie bei uns. Trotzdem werden dort Serien, Filme und Musik vom Netz konsumiert. Wie das geht, zeigt diese Vox-Doku.

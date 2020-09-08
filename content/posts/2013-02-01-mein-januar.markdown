@@ -19,7 +19,7 @@ Das Projekt wurde Ende Dezember vollständig finanziert und hat [die App](https:
 Das hatte zur Folge, dass ich im Januar etwas aufmerksamer durch den Tag versuchte zu gehen, und (fast) jeden Tag ein Filmschnipsel aufgenommen habe.
 Für mich mit einer Dokumentations-Zwangsstörung natürlich wunderschön :)
 
-Fast wie beim [365-Projekt](http://blog.dasrecht.net/tag/365/) werde ich versuchen, jeden Tag im 2013 einen Schnipsel Video aufzunehmen, damit ich dann Ende Jahr einen 6-minütigen Jahresüberblick präsentieren kann.
+Fast wie beim [365-Projekt](https://blog.dasrecht.net/tag/365/) werde ich versuchen, jeden Tag im 2013 einen Schnipsel Video aufzunehmen, damit ich dann Ende Jahr einen 6-minütigen Jahresüberblick präsentieren kann.
 Unten ist das Filmli eingebunden, welches im Januar entstanden ist.
 Für mich ist spannend zu sehen, dass ich mich trotz der nur sehr kurzen einsekündigen Ausschnitte genau an die Situation erinnern kann.
 Mal schauen, ob das mit einem längeren Film dann immernoch möglich ist.

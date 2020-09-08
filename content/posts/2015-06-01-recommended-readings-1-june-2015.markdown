@@ -39,7 +39,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Test drive of a petrol car](http://teslaclubsweden.se/test-drive-of-a-petrol-car/): So würde ein Testbericht tönen, wenn wir Elektro-Autos kennen würden und eine Testfahrt in einem  Benzin- oder Diesel-Auto machen würden.
 
 
-  * [Hausschlachtung: Wir schlachten ein Schwein](http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof): Eine Multimedia-Reportage, nichts für schwache Magen. Oder Vegetarier wie ich. [via [Bastian](http://blog.dasrecht.net/2015/04/19/angelesen-16/)]
+  * [Hausschlachtung: Wir schlachten ein Schwein](http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof): Eine Multimedia-Reportage, nichts für schwache Magen. Oder Vegetarier wie ich. [via [Bastian](https://blog.dasrecht.net/2015/04/19/angelesen-16/)]
 
 
   * [Altruismus: Sind Gutmenschen wirklich gut?](http://www.zeit.de/gesellschaft/2015-04/altruismus-gutmensch-motive/komplettansicht): Lohnt es sich, ein Gutmensch zu sein, und sich für seine Prinzipien einzusetzen?
