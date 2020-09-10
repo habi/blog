@@ -33,7 +33,7 @@ the table getting ready - [simu](http://flickr.com/photos/habi/tags/simu/) cooki
 
 
 
-[1] actually his name is simu: see him in action [here](http://velocite.ch/weblogtoo/archives/228) and hear his [messenger-song](http://velokurierbern.ch/kuriersong.mp3) here (4mb swiss german [gola](http://images.google.com/images?client=safari&rls=en&q=g%C3%B6l%C3%A4&ie=UTF-8&oe=UTF-8&sa=N&tab=wi)-tribute .mp3). the song was the gift we/he made to our customers last year.
+[1] actually his name is simu: see him in action [here](http://velocite.ch/weblogtoo/archives/228) and hear his [messenger-song](https://velokurierbern.ch/kuriersong.mp3) here (4mb swiss german [gola](http://images.google.com/images?client=safari&rls=en&q=g%C3%B6l%C3%A4&ie=UTF-8&oe=UTF-8&sa=N&tab=wi)-tribute .mp3). the song was the gift we/he made to our customers last year.
   
 [2] the whole afternoon was rather unpleasant to ride, 'cause i had big cheeseblob in my belly...
 

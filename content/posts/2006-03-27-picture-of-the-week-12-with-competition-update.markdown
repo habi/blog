@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[we've](http://velokurierbern.ch/) been skiing this weekend. in the morning, just before we hit the slopes i shot this panorama.
+[we've](https://velokurierbern.ch/) been skiing this weekend. in the morning, just before we hit the slopes i shot this panorama.
   
 normally i tell a bit about the backstory of [my potw's](https://habi.gna.ch/blog/archives/cat_picture_of_the_week.html), but this time i thought i'd make a little competition:
   
@@ -44,7 +44,7 @@ B) is there a **free** software (for OS X) to automatically normalize the bright
 
 und nun noch auf deutsch:
   
-dieses wochenende waren [wir](http://velokurierbern.ch/) schilen.
+dieses wochenende waren [wir](https://velokurierbern.ch/) schilen.
   
 gestern morgen hab ich von unserem haus aus obiges panorama fotografiert. normalerweise gibts ja zu meinen [bildern der woche](https://habi.gna.ch/blog/archives/cat_picture_of_the_week.html) immer ein kleines gschichtli dazu, diesmal gibts einen kleinen wettbewerb: wer als erstes eine der folgenden fragen beantwortet, gewinnt wahlweise ein game für die [PSP](http://www.yourpsp.com/) (ich hab verschiedene zur auswahl), zwei drinks an einem der nächsten blogger-treffen oder eine carte blanche für ein post in diesem blog. die zweite und die dritte antwort kann nur noch auswahlen :-)
 

@@ -14,7 +14,7 @@ the suicmc04 is over. now i've got to see that i don't fall into a post-evental 
 here's a some pictures for you (we prepared the whole event for about a year, so this justifies some more pics :-)
 hamme during the preparations:
 [![DSC03577](https://habi.gna.ch/blog/images/DSC03577-tm.jpg)](https://habi.gna.ch/blog/images/DSC03577.jpg)
-pascal from [biel](http://velokurierbiel.ch/) and roman1 from [basel](http://veloexpress.ch/) during the mainrace:
+pascal from [biel](https://velokurierbiel.ch/) and roman1 from [basel](http://veloexpress.ch/) during the mainrace:
 [![DSC03616](https://habi.gna.ch/blog/images/DSC03616-tm.jpg)](https://habi.gna.ch/blog/images/DSC03616.jpg)
 some [krick](http://www.krick.ch/)er during the mainrace:
 [![DSC03626](https://habi.gna.ch/blog/images/DSC03626-tm.jpg)](https://habi.gna.ch/blog/images/DSC03626.jpg)

@@ -19,7 +19,7 @@ tags:
 - kurier
 ---
 
-wie [angesagt](http://identi.ca/notice/2163772) war mein wochenende spannend. am freitag nachmittag konnte ich ein bisschen überzeit abbauen und hab' mich mal wieder ein bisschen aufs velo gesetzt und bin eine schicht für den [velokurier](http://velokurierbern.ch/) gefahren. immerhin gut 50 getrackte kilometer sind da zusammengekommen (ab ca. 17 uhr ist meinem logger der strom ausgegangen...)
+wie [angesagt](http://identi.ca/notice/2163772) war mein wochenende spannend. am freitag nachmittag konnte ich ein bisschen überzeit abbauen und hab' mich mal wieder ein bisschen aufs velo gesetzt und bin eine schicht für den [velokurier](https://velokurierbern.ch/) gefahren. immerhin gut 50 getrackte kilometer sind da zusammengekommen (ab ca. 17 uhr ist meinem logger der strom ausgegangen...)
 
 am samstag habe ich mich dank dem unisport bern im [freeski](http://www.zssw.unibe.ch/usp/uspangebot/angebot/freeski.php) weiterbilden lassen. aufgrund des unglaublich schlechten wetters in grindelwald sind a) keine fotos entstanden (es hätte noch schlechter ausgesehen als wie bei herrn [widmer](https://blog.dasrecht.net/2009/02/08/grindelwald-skiing-wintersport-advanced/)) und konnten wir b) keine grossen sprünge wagen, aber immerhin eine solide einführung ins halfpipe-fahren und rail-sliden geniessen. mal schauen, ob das gelernte bald bei schönerem wetter angewandt werden kann.
 

@@ -16,5 +16,5 @@ raph[1] posted a funny movie over at velocites blog: [how not to win a race](htt
 
 
 
-[1] he returned from basel as [the fastest european messenger](http://velocite.ch/weblogtoo/?p=180). and [rachel and nicola](http://velokurierbern.ch/popup.html) from bern also are european champions, rachel was the fastest woman on track and nicola is the best bunny-hopper. congratulations from me!
+[1] he returned from basel as [the fastest european messenger](http://velocite.ch/weblogtoo/?p=180). and [rachel and nicola](https://velokurierbern.ch/popup.html) from bern also are european champions, rachel was the fastest woman on track and nicola is the best bunny-hopper. congratulations from me!
 

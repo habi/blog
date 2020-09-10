@@ -25,6 +25,6 @@ ich weiss, dass dies ein grosser schritt wird; gerade am letzten wochenende wars
 
 manchmal frage ich mich aber trotzdem, kommt es gut, mache ich es richtig? schlussendlich wird dies nur die zeit zeigen; ich hab vertrauen, dass ich am ende weiss, ob es gut war.
 
-auf alle fälle weiss ich, dass ich <a href="http://velokurierbern.ch/">euch alle</a> vermissen werde, wenns dann soweit ist! (und hoffe, wir sehen uns trotzdem immer mal wieder, sonst erfinde ich dann halt irgendwelche aufträge vom anatomischen institut aus, zB. <a href="https://habi.gna.ch/blog/archives/000779.html">schweineaugen</a> oder so :-)
+auf alle fälle weiss ich, dass ich <a href="https://velokurierbern.ch/">euch alle</a> vermissen werde, wenns dann soweit ist! (und hoffe, wir sehen uns trotzdem immer mal wieder, sonst erfinde ich dann halt irgendwelche aufträge vom anatomischen institut aus, zB. <a href="https://habi.gna.ch/blog/archives/000779.html">schweineaugen</a> oder so :-)
 
 und jetzt gehabt euch wohl, ich bin nämlich bis sonntag abend am tauchen in <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=elba,+italy&amp;ll=42.795401,10.283203&amp;spn=0.375872,0.644073&amp;om=1">elba</a>!

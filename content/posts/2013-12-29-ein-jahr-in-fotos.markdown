@@ -49,7 +49,7 @@ Zwischen Tessin und Graubünden. Mersi (und Bravo) Nina.
 
 
 [![Dead Bunny.jpg](https://habi.gna.ch/wp-content/uploads/2013/12/Dead-Bunny-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2013/12/Dead-Bunny.jpg)
-Die [Dead Bunnies](http://www.deadbunny.ch) an der [ECMC](http://ecmc2013.ch). Mersi [Velokurier Bern](http://velokurierbern.ch).
+Die [Dead Bunnies](http://www.deadbunny.ch) an der [ECMC](http://ecmc2013.ch). Mersi [Velokurier Bern](https://velokurierbern.ch).
   
 
 

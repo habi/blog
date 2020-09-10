@@ -10,6 +10,6 @@ categories:
 - music
 ---
 
-deejot and [777](http://velokurierbern.ch/) have released a new track: keppa
+deejot and [777](https://velokurierbern.ch/) have released a new track: keppa
 go and grab it on [their page](http://www.filewile.com/) under "tracks&charts;"!
 and you might put a tip in the jar, although the track is free for you to download.
