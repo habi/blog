@@ -13,7 +13,7 @@ tags:
 - sports
 ---
 
-Ich schaue ja nicht wirklich bei den Olympischen Spielen zu, aber in der Berichterstattung ist mir aufgefallen, dass bei den gymnastischen Sprungbewerben [Bullet Time](http://de.wikipedia.org/wiki/Bullet_Time)-Effekte (wie bei den Matrix-Filmen) eingesetzt [1].
+Ich schaue ja nicht wirklich bei den Olympischen Spielen zu, aber in der Berichterstattung ist mir aufgefallen, dass bei den gymnastischen Sprungbewerben [Bullet Time](https://de.wikipedia.org/wiki/Bullet_Time)-Effekte (wie bei den Matrix-Filmen) eingesetzt [1].
 
 
 

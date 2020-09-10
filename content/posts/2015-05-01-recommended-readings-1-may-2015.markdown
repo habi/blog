@@ -27,7 +27,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [A Mysterious Death at the South Pole](http://www.mensjournal.com/magazine/a-mysterious-death-at-the-south-pole-20131125): Am Südpol stirbt ein Mann unter mysteriösen Umständen. Eine Geschichte, dies sich spannend wie ein Krimi liest.
 
     
-  * [The Nanda Devi mystery](http://www.livemint.com/Leisure/3QfYqLadggrbnrn41H0mAJ/The-Nanda-Devi-mystery.html): Zwischen 1965 und 1968 wollte die CIA zusammen mit dem indischen Geheimdienst auf dem Gipfel des [Nanda Devi](http://en.wikipedia.org/wiki/Nanda_Devi) ein Abhörgerät mit nuklearer Batterie deponieren, um nach China rüberzuhören. Wegen schlechtem Wetter musste die Mission abgebrochen werden, eine Saison später war die Batterie nirgends mehr zu finden. Eine spannende Alpinismus-Geschichte.
+  * [The Nanda Devi mystery](http://www.livemint.com/Leisure/3QfYqLadggrbnrn41H0mAJ/The-Nanda-Devi-mystery.html): Zwischen 1965 und 1968 wollte die CIA zusammen mit dem indischen Geheimdienst auf dem Gipfel des [Nanda Devi](https://en.wikipedia.org/wiki/Nanda_Devi) ein Abhörgerät mit nuklearer Batterie deponieren, um nach China rüberzuhören. Wegen schlechtem Wetter musste die Mission abgebrochen werden, eine Saison später war die Batterie nirgends mehr zu finden. Eine spannende Alpinismus-Geschichte.
 
     
   * [Metal Detectors at Sports Stadiums](https://www.schneier.com/blog/archives/2015/04/metal_detectors.html): Bruce Schneier schreibt darüber, dass wir die Bedrohung durch Terroristen gar nicht mehr nötig haben; wir sind mittlerweilen gut genug im uns selber zu terrorisieren.

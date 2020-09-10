@@ -21,7 +21,7 @@ ist vor allem richtig lustig, wenn mann sich vorher das original-filmli von herr
 
 [via der wiederauferstandenen [berner gazette](http://www.bernergazette.ch/archives/002193.html)]
 
-ach und übrigens: ist euch auch schon mal die neue [dock](http://en.wikipedia.org/wiki/Dock_(computing))-animation am ende der youtube-filmlis aufgefallen?
+ach und übrigens: ist euch auch schon mal die neue [dock](https://en.wikipedia.org/wiki/Dock_(computing))-animation am ende der youtube-filmlis aufgefallen?
 
 
 

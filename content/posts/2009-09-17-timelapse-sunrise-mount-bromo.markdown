@@ -14,7 +14,7 @@ tags:
 - timelapse
 ---
 
-Ich bin wieder da, schön wars, mindestens so schön wie dieser sonnenaufgang auf dem aussichtspunkt zum [bromo](http://en.wikipedia.org/wiki/Mount_Bromo), den ich aufgenommen habe.
+Ich bin wieder da, schön wars, mindestens so schön wie dieser sonnenaufgang auf dem aussichtspunkt zum [bromo](https://en.wikipedia.org/wiki/Mount_Bromo), den ich aufgenommen habe.
 
 {{< vimeo 6622255 >}}
 

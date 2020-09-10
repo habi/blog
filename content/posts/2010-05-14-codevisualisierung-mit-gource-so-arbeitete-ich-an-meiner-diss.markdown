@@ -16,7 +16,7 @@ Meine Diss ist auf der Post, im Moment heissts nur noch warten, was die beiden K
 
 
 
-Genau das habe ich gestern gemacht. Als [Typo-Nerd](http://www.google.com/images?hl=en&client=safari&rls=en&q=i%20shot%20the%20serif&um=1&ie=UTF-8&source=og&sa=N&tab=wi) habe ich meine Diss in [LaTeX](http://www.latex-project.org/) geschrieben und den Fortschritt zusatzlich in einem [Subversion](http://en.wikipedia.org/wiki/Apache_Subversion)-Repository festgehalten. Dies auch damit ich jederzeit zu einer alteren Version zuruckwechseln konnte, ware es denn notig gewesen. Kurzlich bin ich über die faszinierenden Code-Visualisierungen gestossen, die mit [Gource](http://code.google.com/p/gource/) gemacht werden können. Wenn mann versucht, meine Arbeit an meiner Diss zu visualisieren, sieht das dann so aus:
+Genau das habe ich gestern gemacht. Als [Typo-Nerd](http://www.google.com/images?hl=en&client=safari&rls=en&q=i%20shot%20the%20serif&um=1&ie=UTF-8&source=og&sa=N&tab=wi) habe ich meine Diss in [LaTeX](http://www.latex-project.org/) geschrieben und den Fortschritt zusatzlich in einem [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion)-Repository festgehalten. Dies auch damit ich jederzeit zu einer alteren Version zuruckwechseln konnte, ware es denn notig gewesen. Kurzlich bin ich über die faszinierenden Code-Visualisierungen gestossen, die mit [Gource](http://code.google.com/p/gource/) gemacht werden können. Wenn mann versucht, meine Arbeit an meiner Diss zu visualisieren, sieht das dann so aus:
 
 
 
@@ -111,7 +111,7 @@ Das oben eingebundene Filmli habe ich dann mit
 
 
 
-erstellt. Am besten trinkst du jetzt deinen Kafi fertig, das ganze kann wieder etwas dauern. Obiger Befehl berechnet das Filmli mit Gource in HD-Auflosung (-1280x720), ohne Progress-Bar, hort am Ende auf, andert die Darstellung etwas (-bloom-multiplier, -bloom-intensity und -a) und schreibt das ganze in einen [PPM](http://en.wikipedia.org/wiki/Netpbm_format#PPM_example)-Stream. Dieser Stream wird dann mit ffmpeg direkt in das Filmli Thesis.mp4 umgewandelt. Hochladen zu vimeo, fertig!
+erstellt. Am besten trinkst du jetzt deinen Kafi fertig, das ganze kann wieder etwas dauern. Obiger Befehl berechnet das Filmli mit Gource in HD-Auflosung (-1280x720), ohne Progress-Bar, hort am Ende auf, andert die Darstellung etwas (-bloom-multiplier, -bloom-intensity und -a) und schreibt das ganze in einen [PPM](https://en.wikipedia.org/wiki/Netpbm_format#PPM_example)-Stream. Dieser Stream wird dann mit ffmpeg direkt in das Filmli Thesis.mp4 umgewandelt. Hochladen zu vimeo, fertig!
 
 
 

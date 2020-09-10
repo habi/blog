@@ -12,7 +12,7 @@ categories:
 - personal
 ---
 
-the [tedtalks](http://www.ted.com/talks) are always inspriring and a great watch, (as i'vee [said before](https://habi.gna.ch/?s=tedtalks)...), but [this one](http://www.ted.com/talks/view/id/50) from [stefan sagmeister](http://en.wikipedia.org/wiki/Stefan_Sagmeister) has some more to it.
+the [tedtalks](http://www.ted.com/talks) are always inspriring and a great watch, (as i'vee [said before](https://habi.gna.ch/?s=tedtalks)...), but [this one](http://www.ted.com/talks/view/id/50) from [stefan sagmeister](https://en.wikipedia.org/wiki/Stefan_Sagmeister) has some more to it.
 
 
 

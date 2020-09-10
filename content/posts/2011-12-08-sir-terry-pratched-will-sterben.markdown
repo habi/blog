@@ -22,7 +22,7 @@ In einer schön gefilmten knappen Stunde führt der alzheimerbetroffene [Sir Ter
 
 
 
-Mich hat der Film sehr berührt, auch wenn mir das Thema glücklicherweise fern liegt. Ich persönlich begrüsse aber, dass in der Schweiz die Wahlmöglichkeit besteht, zu entscheiden, falls mensch diese Entscheidung denn fällen will. Wie im Film beim Besuch der Büroräumlichkeiten von [Dignitas](http://dignitas.ch/) gezeigt wird, gibt es ja auch viele Menschen, welche froh sind, um die Möglichkeit zu wissen, deren Akte aber nach abheften in die weissen Ordner nie mehr hervorgenommen wird. [Herr Minelli](http://en.wikipedia.org/wiki/Ludwig_Minelli), sagt zu dem: 'To know that you can go, gives you strength'.
+Mich hat der Film sehr berührt, auch wenn mir das Thema glücklicherweise fern liegt. Ich persönlich begrüsse aber, dass in der Schweiz die Wahlmöglichkeit besteht, zu entscheiden, falls mensch diese Entscheidung denn fällen will. Wie im Film beim Besuch der Büroräumlichkeiten von [Dignitas](http://dignitas.ch/) gezeigt wird, gibt es ja auch viele Menschen, welche froh sind, um die Möglichkeit zu wissen, deren Akte aber nach abheften in die weissen Ordner nie mehr hervorgenommen wird. [Herr Minelli](https://en.wikipedia.org/wiki/Ludwig_Minelli), sagt zu dem: 'To know that you can go, gives you strength'.
 
 
 

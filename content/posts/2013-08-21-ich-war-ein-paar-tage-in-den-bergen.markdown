@@ -34,12 +34,12 @@ Am [Mittwoch](http://runkeeper.com/user/davidhaberthuer/activity/223069691) muss
 
 
 
-Am Donnerstag war extrem schlecht Wetter, mit ca. 20 cm Neuschnee und ungefähr so viel Sicht, so dass wir den Tag in der Hütte verbrachten und nur am [Nachmittag](http://runkeeper.com/user/davidhaberthuer/activity/223071454) kurz zu Kaffe und Kuchen in der [Gnifetti-Hütte](http://de.wikipedia.org/wiki/Capanna_Gnifetti) vorbeischauten.
+Am Donnerstag war extrem schlecht Wetter, mit ca. 20 cm Neuschnee und ungefähr so viel Sicht, so dass wir den Tag in der Hütte verbrachten und nur am [Nachmittag](http://runkeeper.com/user/davidhaberthuer/activity/223071454) kurz zu Kaffe und Kuchen in der [Gnifetti-Hütte](https://de.wikipedia.org/wiki/Capanna_Gnifetti) vorbeischauten.
 
 
 
 
-Am [Freitag](http://runkeeper.com/user/davidhaberthuer/activity/223072355) ging's dann so früh raus, dass wir nach Besteigung der [Pyramide Vincent](http://de.wikipedia.org/wiki/Vincent-Pyramide) und der [Zumsteinspitze](http://de.wikipedia.org/wiki/Zumsteinspitze) kurz nach Mittag schon in der [Margerita-Hütte](http://de.wikipedia.org/wiki/Capanna_Regina_Margherita) waren. Im höchsten Gebäude Europas hatten wir grandiose [Fernsicht](http://www.flickr.com/photos/habi/9506013500/in/set-72157635023250205) und genossen (wie auch in allen anderen Hütten) ein feines Znacht mit Primo und Secondo. Während der ganzen Woche gab's zwar nie die namensgebenden Spaghetti, aber immerhin immer Teigwaren als Primo.
+Am [Freitag](http://runkeeper.com/user/davidhaberthuer/activity/223072355) ging's dann so früh raus, dass wir nach Besteigung der [Pyramide Vincent](https://de.wikipedia.org/wiki/Vincent-Pyramide) und der [Zumsteinspitze](http://de.wikipedia.org/wiki/Zumsteinspitze) kurz nach Mittag schon in der [Margerita-Hütte](http://de.wikipedia.org/wiki/Capanna_Regina_Margherita) waren. Im höchsten Gebäude Europas hatten wir grandiose [Fernsicht](http://www.flickr.com/photos/habi/9506013500/in/set-72157635023250205) und genossen (wie auch in allen anderen Hütten) ein feines Znacht mit Primo und Secondo. Während der ganzen Woche gab's zwar nie die namensgebenden Spaghetti, aber immerhin immer Teigwaren als Primo.
 
 
 

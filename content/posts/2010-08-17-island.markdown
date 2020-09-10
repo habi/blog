@@ -20,7 +20,7 @@ Die Ferien in Island waren wie gesagt wunderbar, wir hatten grundsatzlich Wetter
 
 
 
-Ganz old-school-massig habe ich mal versucht aus einer Bildserie des [Strokkur-Geysirs](http://en.wikipedia.org/wiki/Strokkur) ein animiertes .gif-Bild gemacht, das eine Eruption der Wassersaule zeigt. Das Filmli wurde aus 22 freihändisch aufgenommenen Einzelbildern erstellt, die mit [hugin](http://hugin.sourceforge.net/) ausgerichtet und mit [Fiji](http://pacific.mpi-cbg.de/wiki/index.php/Fiji) in ein gif-Bild geschrieben wurden. Die Datei ist fast 3 MB gross, es kann also etwas dauern, bis der Geysir ausbricht...
+Ganz old-school-massig habe ich mal versucht aus einer Bildserie des [Strokkur-Geysirs](https://en.wikipedia.org/wiki/Strokkur) ein animiertes .gif-Bild gemacht, das eine Eruption der Wassersaule zeigt. Das Filmli wurde aus 22 freihändisch aufgenommenen Einzelbildern erstellt, die mit [hugin](http://hugin.sourceforge.net/) ausgerichtet und mit [Fiji](http://pacific.mpi-cbg.de/wiki/index.php/Fiji) in ein gif-Bild geschrieben wurden. Die Datei ist fast 3 MB gross, es kann also etwas dauern, bis der Geysir ausbricht...
 
 
 

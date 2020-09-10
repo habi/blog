@@ -45,7 +45,7 @@ Hier die Liste:
 * [Adubode Länk, dänk](http://runkeeper.com/user/davidhaberthuer/activity/284213393). Mit fixierter Ferse
 * [Neujahrskarten verteilen](http://runkeeper.com/user/davidhaberthuer/activity/284556011)
 * Freunde treffen im Tibits
-* [Der Schrei](http://en.wikipedia.org/wiki/The_Scream) in Oslo
+* [Der Schrei](https://en.wikipedia.org/wiki/The_Scream) in Oslo
 * Das Jahr hört auf, wie’s begonnen hat: mit einer coolen Party, diesmal im [Hausmania](http://hausmania.org/)
 
 Die Zusammenstellung des gesamten 2013 kommt auch noch, ich glaub' ich muss nur noch den passenden Song zum hinterlegen finden...

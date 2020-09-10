@@ -29,7 +29,7 @@ and since i can leave comments, everything seems to work fine, so i'll just have
 
 
 
-[1] if that's not gonna help now i need to start doing something with [captchas](http://en.wikipedia.org/wiki/Captcha), but i really detest them!
+[1] if that's not gonna help now i need to start doing something with [captchas](https://en.wikipedia.org/wiki/Captcha), but i really detest them!
 
 
 

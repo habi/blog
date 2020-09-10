@@ -14,7 +14,7 @@ tags:
 - science
 ---
 
-Forscher von IBM haben mit einem [Rasterkraftmikroskop](http://de.wikipedia.org/wiki/Rasterkraftmikroskop) einige Atome auf einer Oberfläche rumbewegt, um den kleinsten Film der Welt zu machen.
+Forscher von IBM haben mit einem [Rasterkraftmikroskop](https://de.wikipedia.org/wiki/Rasterkraftmikroskop) einige Atome auf einer Oberfläche rumbewegt, um den kleinsten Film der Welt zu machen.
 Härzig!
 
 {{< youtube oSCX78-8-q0 >}}

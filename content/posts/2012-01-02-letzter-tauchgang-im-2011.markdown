@@ -19,5 +19,5 @@ Vergangene Woche war ich das letzte Mal im Wasser, fürs 2011. Gemeinsam mit Ren
 
 {{< vimeo 34460830 >}}
 
-[1] Auf der Höhe des Parkhauses in Oberhofen hat's unten an der Seepromenade ein Denkmal für den [Herrn](http://en.wikipedia.org/wiki/Churchill)
+[1] Auf der Höhe des Parkhauses in Oberhofen hat's unten an der Seepromenade ein Denkmal für den [Herrn](https://en.wikipedia.org/wiki/Churchill)
 [2] Eigentlich war ja mein Ziel, im 2011 meinen 200. Tauchgang zu machen, aber wegen dem [angeknacksten Schlüsselbein](https://habi.gna.ch/2011/11/28/on-the-road/) verschieben wir das Jubiläum auf dieses Jahr.

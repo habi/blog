@@ -19,7 +19,7 @@ Immer wieder, wenn irgendwelche Wahlen und Abstimmungen angesagt sind, bin ich f
 
 
 
-Ebenso cool finde ich die Dienstleistung von [smartvote.ch](http://smartvote.ch/) [1]. Mit der Beantwortung von einigen Fragen konnte ich relativ schmerzlos entweder eine Liste von KandidatInnen generieren, deren Meinung sich möglichst mit der meinigen deckt. Im Gegensatz zu den letzten Jahren habe ich aber darauf verzichtet, eine leere Liste mit diesen Namen zu füllen [2], sondern habe - für den Stadtrat - die unveränderte [Liste 5](https://habi.gna.ch/wp-content/uploads/2012/11/smartvote-sr.pdf) eingeworfen. Für den Gemeinderat habe ich auf die Liste [RotGrünMitte](https://habi.gna.ch/wp-content/uploads/2012/11/smartvote-gr.pdf) Claude Grosjean dazu-[panaschiert](http://de.wikipedia.org/wiki/Panaschieren), weil sich unsere Meinungen wenigstens teilweise zu decken scheinen.
+Ebenso cool finde ich die Dienstleistung von [smartvote.ch](http://smartvote.ch/) [1]. Mit der Beantwortung von einigen Fragen konnte ich relativ schmerzlos entweder eine Liste von KandidatInnen generieren, deren Meinung sich möglichst mit der meinigen deckt. Im Gegensatz zu den letzten Jahren habe ich aber darauf verzichtet, eine leere Liste mit diesen Namen zu füllen [2], sondern habe - für den Stadtrat - die unveränderte [Liste 5](https://habi.gna.ch/wp-content/uploads/2012/11/smartvote-sr.pdf) eingeworfen. Für den Gemeinderat habe ich auf die Liste [RotGrünMitte](https://habi.gna.ch/wp-content/uploads/2012/11/smartvote-gr.pdf) Claude Grosjean dazu-[panaschiert](https://de.wikipedia.org/wiki/Panaschieren), weil sich unsere Meinungen wenigstens teilweise zu decken scheinen.
 
 
 

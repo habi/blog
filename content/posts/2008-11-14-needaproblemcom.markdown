@@ -23,7 +23,7 @@ die frage ist jetzt: was ist mit kaffe-sorten gemeint? kaffe hag und nescoré, o
 
 wenn mann animmt, dass nestle der weltweit grösste kaffe-verkäufer ist, dann ist wohl nescafé eine der gangigsten sorten. starbucks verkauft auch viel kaffe, also ist die starbucks-sorte wohl die zweite. oder nespresso, jedenfalls in der schweiz...
 
-wenn aber mit sorte die biologische art gemeint ist, dann hilft ein kleiner ausflug auf die [kaffe](http://de.wikipedia.org/wiki/Kaffee)-seite der wikipedia weiter: Coffea arabica und Coffea canephora, auch bekannt als arabica-kaffe und robusta sind die beiden wichtigsten arten der kaffeepflanze.
+wenn aber mit sorte die biologische art gemeint ist, dann hilft ein kleiner ausflug auf die [kaffe](https://de.wikipedia.org/wiki/Kaffee)-seite der wikipedia weiter: Coffea arabica und Coffea canephora, auch bekannt als arabica-kaffe und robusta sind die beiden wichtigsten arten der kaffeepflanze.
 
 problem gelöst! wenn's nur mit allen problemen so einfach wäre :)
 

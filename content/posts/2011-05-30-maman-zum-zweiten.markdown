@@ -41,7 +41,7 @@ Das erste Bild zeigt die eindrucksvolle Grosse der Skulptur, die doch ein bissch
 
 
 
-Das zweite Bild zeigt, wie sich [Louise Bourgeois](http://de.wikipedia.org/wiki/Louise_Bourgeois) die Skulptur vielleicht vorgestellt hat. Namlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschutzt und ernahrt hat.
+Das zweite Bild zeigt, wie sich [Louise Bourgeois](https://de.wikipedia.org/wiki/Louise_Bourgeois) die Skulptur vielleicht vorgestellt hat. Namlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschutzt und ernahrt hat.
 
 
 

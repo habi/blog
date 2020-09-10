@@ -16,7 +16,7 @@ categories:
 
 
 
-coming home i noticed that they have a normal label and a supplementary [qr code](http://en.wikipedia.org/wiki/QR_Code) ([german](http://circle.ch/blog/p1773.html)) sewn into them. since i couldn't find a decoder for os x (the java-version of the one [urs [1] found](http://circle.ch/blog/p1774.html) doesn't work for me), i kindly ask the blogosphere if they can decode it for me.
+coming home i noticed that they have a normal label and a supplementary [qr code](https://en.wikipedia.org/wiki/QR_Code) ([german](http://circle.ch/blog/p1773.html)) sewn into them. since i couldn't find a decoder for os x (the java-version of the one [urs [1] found](http://circle.ch/blog/p1774.html) doesn't work for me), i kindly ask the blogosphere if they can decode it for me.
   
 i'm just wondering what adidas is writing in my gloves.
 

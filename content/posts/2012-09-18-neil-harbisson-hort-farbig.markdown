@@ -17,7 +17,7 @@ tags:
 - ted
 ---
 
-[Neil Harbisson](http://en.wikipedia.org/wiki/Neil_Harbisson) hört farbig, dennoch ist er kein [Synästheth](http://de.wikipedia.org/wiki/Syn%C3%A4sthesie). Im klassischen Sinn ist er behindert, wurde er mit einer [Erbkrankheit der Netzhaut](http://de.wikipedia.org/wiki/Achromatopsie) geboren, das heisst, er ist nicht nur etwas [farbenblind](http://de.wikipedia.org/wiki/Rot-Gr%C3%BCn-Sehschw%C3%A4che) wie ca. 5% aller Männer, sondern komplett farbenblind, er sieht die Welt komplett monochrom. Mit 21 Jahren beschloss er, zu einem - wie er sagt - Cyborg zu werden und installierte sich einen Chip im Schädelknochen, der mit einem Spektrometer verbunden ist, welcher Farbinformationen in Töne umwandelt. Diese Töne kann er über [Knochenschall](http://de.wikipedia.org/wiki/Knochenschall) hören und so Farben empfinden.
+[Neil Harbisson](https://en.wikipedia.org/wiki/Neil_Harbisson) hört farbig, dennoch ist er kein [Synästheth](https://de.wikipedia.org/wiki/Syn%C3%A4sthesie). Im klassischen Sinn ist er behindert, wurde er mit einer [Erbkrankheit der Netzhaut](http://de.wikipedia.org/wiki/Achromatopsie) geboren, das heisst, er ist nicht nur etwas [farbenblind](http://de.wikipedia.org/wiki/Rot-Gr%C3%BCn-Sehschw%C3%A4che) wie ca. 5% aller Männer, sondern komplett farbenblind, er sieht die Welt komplett monochrom. Mit 21 Jahren beschloss er, zu einem - wie er sagt - Cyborg zu werden und installierte sich einen Chip im Schädelknochen, der mit einem Spektrometer verbunden ist, welcher Farbinformationen in Töne umwandelt. Diese Töne kann er über [Knochenschall](http://de.wikipedia.org/wiki/Knochenschall) hören und so Farben empfinden.
 
 
 

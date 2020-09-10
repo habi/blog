@@ -13,7 +13,7 @@ tags:
 - upgoerfive
 ---
 
-Ich bin ein grosser Freund von Webcomics, [xkcd](http://xkcd.com/) von [Randall Munroe](http://en.wikipedia.org/wiki/Randall_Munroe) hat es mir sehr angetan. Vor einiger Zeit hat er eine Beschreibung der [Saturn V-Mondrakete](http://de.wikipedia.org/wiki/Saturn_(Rakete)#Saturn_V) veröffentlicht, bei der er nur die 10 100 häufigsten Wörter in Englisch gebraucht hat (1000 ist nicht dabei, deshalb 10 100 :).
+Ich bin ein grosser Freund von Webcomics, [xkcd](http://xkcd.com/) von [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) hat es mir sehr angetan. Vor einiger Zeit hat er eine Beschreibung der [Saturn V-Mondrakete](https://de.wikipedia.org/wiki/Saturn_(Rakete)#Saturn_V) veröffentlicht, bei der er nur die 10 100 häufigsten Wörter in Englisch gebraucht hat (1000 ist nicht dabei, deshalb 10 100 :).
 
 
 

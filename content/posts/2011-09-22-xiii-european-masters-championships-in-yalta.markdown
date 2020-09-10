@@ -14,7 +14,7 @@ tags:
 - yalta
 ---
 
-Vom 3.-12. September war ich auf der [Krim](http://de.wikipedia.org/wiki/Krim) und habe an den Masters-Europameisterschaften im Schwimmen teilgenommen.
+Vom 3.-12. September war ich auf der [Krim](https://de.wikipedia.org/wiki/Krim) und habe an den Masters-Europameisterschaften im Schwimmen teilgenommen.
 Die geschwommenen Zeiten waren eher zweitrangig (oder noch weniger :), trotzdem hatte das Team SKBE, verstärkt durch einen Schwimmer der Limmat Sharks Zürich eine gute Woche in Yalta.
 Wer sich wirklich für die Resultate interessiert, findet [hier](http://yaltamasters2011.org/competition/results) die offizielle Resultateliste, ich bin 200m Lagen, 50m Delphin, 100m und 50m Crawl sowie 3km Openwater geschwommen...
 Das Bild unten zeigt zwei Schwimmerinnen des SKBE plus das komplette Team der Limmat Sharks, der dritte SKBE-Schwimmer steht hinter der Kamera.
@@ -26,7 +26,7 @@ Auch sonst bietet Yalta und die nähere Umgebung viel um eine interessante Woche
 
 [![yalta becken stereographic.jpg](https://habi.gna.ch/wp-content/uploads/2011/09/yalta-becken-stereographic-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/09/yalta-becken-stereographic.jpg)
 
-Dank dem wenig gedrängten Schwimm-Programm habe ich in dieser Woche einige normale Fotos und Panoramen gemacht, so z.B. vom [Schwalbennest](http://de.wikipedia.org/wiki/Schwalbennest_(Krim)), das mit einer kurzen Schiffsfahrt von Yalta aus erreichbar ist.
+Dank dem wenig gedrängten Schwimm-Programm habe ich in dieser Woche einige normale Fotos und Panoramen gemacht, so z.B. vom [Schwalbennest](https://de.wikipedia.org/wiki/Schwalbennest_(Krim)), das mit einer kurzen Schiffsfahrt von Yalta aus erreichbar ist.
 
 Wer sich die restlichen Fotos anschauen möchte, findet unten eine eingebettete Flickr-Slideshow, oder für diejenigen, die ohne Flashplayer unterwegs sind, ganz normal in [diesem Set](http://fotos.davidhaberth%C3%BCr.ch/index.php?type=sets&setId=72157627688031024) drüben bei [meinen Fotos.](http://fotos.davidhaberth%C3%BCr.ch/)
 

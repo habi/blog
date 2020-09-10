@@ -15,7 +15,7 @@ tags:
 - in den bergen ist freiheit
 ---
 
-Trotz dem schlechten Wetter wagten wir uns am Wochenende etwas in die Höhe. Am Samstag hing der Nebel im Gasterntal so tief, dass wir von Kandersteg nur bis zum [Hotel Waldhaus](http://de.wikipedia.org/wiki/Gasterntal#Hotel_Waldhaus) wanderten und dort einen gemütlichen Abend bei Kerzenlicht verbrachten. Am Sonntag war der Nebel immernoch dicht, aber die Wetterprognose verhiess besseres, so dass wir uns auf eine kleinere Wanderung zur [Balmhornhütte](http://www.sac-altels.ch/huetten/balmhornhuette.php) wagten.
+Trotz dem schlechten Wetter wagten wir uns am Wochenende etwas in die Höhe. Am Samstag hing der Nebel im Gasterntal so tief, dass wir von Kandersteg nur bis zum [Hotel Waldhaus](https://de.wikipedia.org/wiki/Gasterntal#Hotel_Waldhaus) wanderten und dort einen gemütlichen Abend bei Kerzenlicht verbrachten. Am Sonntag war der Nebel immernoch dicht, aber die Wetterprognose verhiess besseres, so dass wir uns auf eine kleinere Wanderung zur [Balmhornhütte](http://www.sac-altels.ch/huetten/balmhornhuette.php) wagten.
 
 
 

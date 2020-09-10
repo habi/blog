@@ -16,7 +16,7 @@ tags:
 - music
 ---
 
-Dieses Jahr bin ich nur am Freitag 'On the Hill' gewesen, trotzdem hat sich mein Gurtenfestival schon gelohnt: [The Cribs](http://www.thecribs.com/) waren schnoddrig britisch rockend, [The Gossip](http://www.gossipyouth.com/) hat das Publikum begeistert, [Gustav](http://www.gustav.ch/) hat dem Regen getrotzt, [Faith No More](http://www.fnm.com/) haben alte Zeiten aufleben lassen, [Navel](http://www.myspace.com/navelofswitzerland) haben den Abschluss meines Gurtenfestival-Abends vorbereitet für den famosen Old-School-Hiphop von [Sens Unik](http://en.wikipedia.org/wiki/Sens_Unik).
+Dieses Jahr bin ich nur am Freitag 'On the Hill' gewesen, trotzdem hat sich mein Gurtenfestival schon gelohnt: [The Cribs](http://www.thecribs.com/) waren schnoddrig britisch rockend, [The Gossip](http://www.gossipyouth.com/) hat das Publikum begeistert, [Gustav](http://www.gustav.ch/) hat dem Regen getrotzt, [Faith No More](http://www.fnm.com/) haben alte Zeiten aufleben lassen, [Navel](http://www.myspace.com/navelofswitzerland) haben den Abschluss meines Gurtenfestival-Abends vorbereitet für den famosen Old-School-Hiphop von [Sens Unik](https://en.wikipedia.org/wiki/Sens_Unik).
 
 
 
@@ -30,7 +30,7 @@ Dieses Jahr bin ich nur am Freitag 'On the Hill' gewesen, trotzdem hat sich mein
 
   
 
-Das einzige, was ich bereue, ist dass ich durch dem Zuhoren bei Gustav nur die Halfte des Auftrittes von [Rodrigo y Gabriela](http://www.rodgab.com/) mitbekommen zu haben. 2 Menschen, die mit ihren akustischen Gitarren eine wahnsinnige Buhnenprasenz zeigen, und durch virtuoses Bedienen Ihrer Musikgerate unglaublich groovige Songs produzierten. Haberthürs Empfehlung: Das neue Album der beiden (11:11) unbedingt [kaufen](http://itunes.apple.com/ch/album/11-11/id327652836) und auf [Lautstarke 11](http://en.wikipedia.org/wiki/Up_to_eleven) horen!
+Das einzige, was ich bereue, ist dass ich durch dem Zuhoren bei Gustav nur die Halfte des Auftrittes von [Rodrigo y Gabriela](http://www.rodgab.com/) mitbekommen zu haben. 2 Menschen, die mit ihren akustischen Gitarren eine wahnsinnige Buhnenprasenz zeigen, und durch virtuoses Bedienen Ihrer Musikgerate unglaublich groovige Songs produzierten. Haberthürs Empfehlung: Das neue Album der beiden (11:11) unbedingt [kaufen](http://itunes.apple.com/ch/album/11-11/id327652836) und auf [Lautstarke 11](https://en.wikipedia.org/wiki/Up_to_eleven) horen!
 
 
 

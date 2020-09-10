@@ -16,7 +16,7 @@ tags:
 ---
 
 Mein [ehemaliger Mitbewohner](http://studium-punctum.ch) hat sich die letzten <del>Wochen</del> Monate ein paar Abende in der Stadt mit fotografieren beschäftigt.
-Dabei herausgekommen ist das folgende grandiose Video, die Steigerung eines Zeitraffer-Films, ein [Hyperlapse](http://en.wikipedia.org/wiki/Hyperlapse).
+Dabei herausgekommen ist das folgende grandiose Video, die Steigerung eines Zeitraffer-Films, ein [Hyperlapse](https://en.wikipedia.org/wiki/Hyperlapse).
 
 Mäsche, das Ding ist grandios, ich bin neidisch!
 

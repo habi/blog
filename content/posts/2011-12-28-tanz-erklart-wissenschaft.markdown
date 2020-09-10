@@ -15,7 +15,7 @@ tags:
 - tedx
 ---
 
-[John Bohannon](http://www.johnbohannon.org/) erklärt mit den Tänzerinnen und Tänzern des [Black Label Movement](http://www.blacklabelmovement.com/)s wie die [Kühlung von Atomen mit Lasern](http://de.wikipedia.org/wiki/Laserk%C3%BChlung) funktioniert. Und noch ein paar Sachen mehr. Sehenswerte elf Minuten auf der Bühne des [TEDx in Brüssel](http://www.tedxbrussels.eu/).
+[John Bohannon](http://www.johnbohannon.org/) erklärt mit den Tänzerinnen und Tänzern des [Black Label Movement](http://www.blacklabelmovement.com/)s wie die [Kühlung von Atomen mit Lasern](https://de.wikipedia.org/wiki/Laserk%C3%BChlung) funktioniert. Und noch ein paar Sachen mehr. Sehenswerte elf Minuten auf der Bühne des [TEDx in Brüssel](http://www.tedxbrussels.eu/).
 
 
 

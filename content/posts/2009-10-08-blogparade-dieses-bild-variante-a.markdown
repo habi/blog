@@ -13,7 +13,7 @@ tags:
 - panorama
 ---
 
-dieses bild erinnert mich auch im kalten und regnerischen deutschland, wo ich grad einige tage verbringe an die wunderbaren ferien zurück, die ich vor kurzer zeit mit meiner liebsten genossen habe. um halb fünf uhr morgens haben wir uns mit dem jeep auf den ausichtspunkt neben dem [gunung bromo](http://en.wikipedia.org/wiki/Mount_Bromo) gemacht, um dort den sonnenaufgang anzusehen.
+dieses bild erinnert mich auch im kalten und regnerischen deutschland, wo ich grad einige tage verbringe an die wunderbaren ferien zurück, die ich vor kurzer zeit mit meiner liebsten genossen habe. um halb fünf uhr morgens haben wir uns mit dem jeep auf den ausichtspunkt neben dem [gunung bromo](https://en.wikipedia.org/wiki/Mount_Bromo) gemacht, um dort den sonnenaufgang anzusehen.
 
 
 

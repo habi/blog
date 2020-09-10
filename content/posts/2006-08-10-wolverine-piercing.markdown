@@ -24,7 +24,7 @@ It's just temporary. Piercing on [Freakboy](http://iam.bmezine.com/?Freakboy) by
 
 
 
-[1]: guess who's a big [wolverine](http://en.wikipedia.org/wiki/Wolverine_(comics))-fan
+[1]: guess who's a big [wolverine](https://en.wikipedia.org/wiki/Wolverine_(comics))-fan
 
 
 

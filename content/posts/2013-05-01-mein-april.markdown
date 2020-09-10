@@ -41,7 +41,7 @@ Die Liste:
 * heifahre mit Sunne im Rügge (oder von rechts...)
 * Ferienstimmung am Rhein
 * [Jungfernfahrt](http://runkeeper.com/user/davidhaberthuer/activity/171991857) des Geheimprojekts (ok, jetzt ist es definitiv nicht mehr geheim :)
-* Start in die [DDC](http://de.wikipedia.org/wiki/Double_Disc_Court)-Saison
+* Start in die [DDC](https://de.wikipedia.org/wiki/Double_Disc_Court)-Saison
 * Happy Birthday Simone!
 * Happy Birthday Herr Studer!
 * die Hände der Dame

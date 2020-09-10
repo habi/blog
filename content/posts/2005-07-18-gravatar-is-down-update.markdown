@@ -17,7 +17,7 @@ there is a [workaround](http://fgiasson.com/blog/index.php?title=gravatar_com_is
 
 
 
-[1] not really down, but their [DNS](http://en.wikipedia.org/wiki/DNS) is [b0rked](http://www.urbandictionary.com/define.php?term=b0rked) somehow. see [technorati](http://technorati.com/search/gravatar) for more info...
+[1] not really down, but their [DNS](https://en.wikipedia.org/wiki/DNS) is [b0rked](http://www.urbandictionary.com/define.php?term=b0rked) somehow. see [technorati](http://technorati.com/search/gravatar) for more info...
 
 
 

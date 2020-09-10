@@ -23,7 +23,7 @@ Das untenstehende ist eine Lanzeitbelichtung, wie [Mike](http://www.michaelzwahl
 
 [![DSC_8475.jpg](https://habi.gna.ch/wp-content/uploads/2010/11/DSC_8475-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2010/11/DSC_8475.jpg)
 
-Wahrend dem Fondueessen habe ich mit dem [Intervalometer](http://en.wikipedia.org/wiki/Intervalometer) meine Kamera ein bisschen beschäftigt, daraus entstanden ist unten eingebundenes Zeitraffer-Filmli.
+Wahrend dem Fondueessen habe ich mit dem [Intervalometer](https://en.wikipedia.org/wiki/Intervalometer) meine Kamera ein bisschen beschäftigt, daraus entstanden ist unten eingebundenes Zeitraffer-Filmli.
 
 {{< vimeo 16583515 >}}
 

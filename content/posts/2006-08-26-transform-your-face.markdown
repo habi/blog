@@ -73,12 +73,12 @@ manga character
      
 <td align="center" valign="top" >[![Habi.Boticelli](https://habi.gna.ch/blog/images/habi.boticelli-tm.jpg)](https://habi.gna.ch/blog/images/habi.boticelli.jpg)  
 painted by   
-[boticelli](http://en.wikipedia.org/wiki/Sandro_Botticelli)
+[boticelli](https://en.wikipedia.org/wiki/Sandro_Botticelli)
 </td>
      
 <td align="center" valign="top" >[![Habi.Modigliani](https://habi.gna.ch/blog/images/habi.modigliani-tm.jpg)](https://habi.gna.ch/blog/images/habi.modigliani.jpg)  
 painted by   
-[modigliani](http://en.wikipedia.org/wiki/Amedeo_Modigliani)
+[modigliani](https://en.wikipedia.org/wiki/Amedeo_Modigliani)
 </td>
      
 <td align="center" valign="top" >

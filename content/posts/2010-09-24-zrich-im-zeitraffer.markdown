@@ -16,7 +16,7 @@ tags:
 
 Letzthin ist mir aufgefallen, dass die Bilder der [SWITCH](http://switch.ch/)-[Webcam](http://cam.switch.ch/about.en.html), die seit 2008 schon sauberlich in einem [Archiv](http://cam.switch.ch/cgi-bin/pano2.pl) auf denen ihrem Webserver abgespeichert werden. Da die SWITCH-Cam jede Stunde ein Panoramabild der Innenstadtregion, der ETH und dem unteren Seebecken macht, habe ich mir gedacht, dass so schone Zeitrafferaufnahmen entstehen konnten.
 
-Da ich die schnelle Datenleitung der SWITCH ausnutzen wollte, habe ich mir (in der Freizeit, ja) im Buro ein kleines [MATLAB](http://de.wikipedia.org/wiki/Matlab)-Skript [1] geschrieben, welches für jede Stunde seit 2008 das Panoramabild von Zürich heruntergeladen hat. Fur Interessierte ist das Skript unten dargestellt und kann [hier](http://habi.pastebin.com/gYCjzhFx) heruntergeladen und angeschaut werden.
+Da ich die schnelle Datenleitung der SWITCH ausnutzen wollte, habe ich mir (in der Freizeit, ja) im Buro ein kleines [MATLAB](https://de.wikipedia.org/wiki/Matlab)-Skript [1] geschrieben, welches für jede Stunde seit 2008 das Panoramabild von Zürich heruntergeladen hat. Fur Interessierte ist das Skript unten dargestellt und kann [hier](http://habi.pastebin.com/gYCjzhFx) heruntergeladen und angeschaut werden.
 
 <iframe src="https://pastebin.com/embed_iframe/gYCjzhFx" style="border:none;width:100%"></iframe>
 

@@ -32,7 +32,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Futures of text](http://whoo.ps/2015/02/23/futures-of-text): Wie Text-Interaktion (z.B. als SMS) ein perfektes Medium sein kann.
 
 	
-  * [The Pale Cast of Thought](http://harpers.org/blog/2014/10/the-pale-cast-of-thought/): Vor längerem hab' ich mal mit jemandem über die [Ayahuasca](http://en.wikipedia.org/wiki/Ayahuasca)-Zeremonie gesprochen. Dieser Text aus dem Harper's Magazine gibt einen Einblick, wie das ablaufen könnte.
+  * [The Pale Cast of Thought](http://harpers.org/blog/2014/10/the-pale-cast-of-thought/): Vor längerem hab' ich mal mit jemandem über die [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca)-Zeremonie gesprochen. Dieser Text aus dem Harper's Magazine gibt einen Einblick, wie das ablaufen könnte.
 
 	
   * [Katastrophen: Operation Tomodachi](http://www.spiegel.de/spiegel/print/d-131578914.html): Und manche Menschen denken immer noch, dass die Atomkraft die Menschheit aus dem dunklen Zeitalter führen wird.

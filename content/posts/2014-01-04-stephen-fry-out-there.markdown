@@ -11,7 +11,7 @@ categories:
 - personal
 ---
 
-Diese zwei Stunden sind schon länger in meiner “Mal anschauen”-Warteschlange, heute Abend kam ich endlich mal dazu, [Stephen Fry](http://en.wikipedia.org/wiki/Stephen_Fry) zuzuschauen, wie er homosexuelle Brennpunkte in der Welt besucht und spannende, packende und emotionale Momente zeigt. Nebenbei entlarvt er extrem eloquent rückständige Priester in Uganda und ziemlich unerträgliche Politiker in St. Petersburg.
+Diese zwei Stunden sind schon länger in meiner “Mal anschauen”-Warteschlange, heute Abend kam ich endlich mal dazu, [Stephen Fry](https://en.wikipedia.org/wiki/Stephen_Fry) zuzuschauen, wie er homosexuelle Brennpunkte in der Welt besucht und spannende, packende und emotionale Momente zeigt. Nebenbei entlarvt er extrem eloquent rückständige Priester in Uganda und ziemlich unerträgliche Politiker in St. Petersburg.
 
 Mensch sollte sich einen guten Tee aufkochen, etwas Zeit beiseite tun und diese zwei Videos [1] zu Gemüte führen. Mir haben sie (so schlimm die Stories manchmal auch sind) sehr gefallen.
 

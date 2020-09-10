@@ -28,7 +28,7 @@ This is the <del>first </del>second of some of my _look back on 2014_ posts. T
 
 I tracked my location data with [OpenPaths](http://openpaths.cc) since the beginning of 2014. OpenPaths comes as an application for your phone, which tracks its location, uploads it to the OpenPath servers, where you can donate your data for scientific research, and look at the data yourself.
 
-To do this, we grab a .CSV file with the location data. Log in to OpenPaths, and click on _CSV_ under _Download my data_, which gives you a [comma separated](http://en.wikipedia.org/wiki/Comma-separated_values) list of your location data, which can then visualize with [R](http://www.r-project.org), which is what we've done here.
+To do this, we grab a .CSV file with the location data. Log in to OpenPaths, and click on _CSV_ under _Download my data_, which gives you a [comma separated](https://en.wikipedia.org/wiki/Comma-separated_values) list of your location data, which can then visualize with [R](http://www.r-project.org), which is what we've done here.
 
 
 

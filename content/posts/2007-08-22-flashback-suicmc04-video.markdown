@@ -25,10 +25,10 @@ Teil1:
 
 Teil2:
 - 00:48: [mischu tobler](http://velokurierladen.ch/08whomichel.html) beim trackstand ohne fixie.
-- 01:40: porno stevies monster-[skid](http://en.wikipedia.org/wiki/Fixed-gear_bicycle)
+- 01:40: porno stevies monster-[skid](https://en.wikipedia.org/wiki/Fixed-gear_bicycle)
 - 02:45: michel: "die mit de fixies fahre haut id muur"
 - 04:13: [nicola](http://www.nicolafrombern.com/) (oder [hier](http://foldschool.com/)) im sprint auf [stefans](http://velokurierladen.ch/08whostefan.html) mini-velo, weil er im vorlauf seinen lenker zerbrochen hat.
-- 04:54: der suppenkasper: "du rächt geil" und das anschliessende extrem hühnerhaut induzierende [critical mass](http://en.wikipedia.org/wiki/Critical_Mass), mit der unglaublich coolen szene auf dem bundesplatz
+- 04:54: der suppenkasper: "du rächt geil" und das anschliessende extrem hühnerhaut induzierende [critical mass](https://en.wikipedia.org/wiki/Critical_Mass), mit der unglaublich coolen szene auf dem bundesplatz
 
 
 röme, mersi hast du das damals gemacht! beim anschauen hab ich hühnerhaut bekommen!

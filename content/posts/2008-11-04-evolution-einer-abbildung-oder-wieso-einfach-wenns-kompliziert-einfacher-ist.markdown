@@ -22,7 +22,7 @@ dafür braucht es natürlich abbildungen, um das ganze ein wenig anschaulich zu 
 
 
 
-während der masterarbeit am [PSI](http://www.psi.ch/) habe ich unter [linux](http://en.wikipedia.org/wiki/Scientific_Linux) [xfig](http://www.xfig.org/) als zwar altmodisches, aber extrem [potentes](http://www.xfig.org/art9.html) zeichenprogramm kennengelernt. meine erste idee war deshalb, die abbildung mithilfe von [jfig](http://tams-www.informatik.uni-hamburg.de/applets/jfig/) zu erstellen, einer java-implementation von jfig, die auch per [webstart](http://tams-www.informatik.uni-hamburg.de/applets/jfig/webstart.html) ohne installation gestartet werden kann [1].
+während der masterarbeit am [PSI](http://www.psi.ch/) habe ich unter [linux](https://en.wikipedia.org/wiki/Scientific_Linux) [xfig](http://www.xfig.org/) als zwar altmodisches, aber extrem [potentes](http://www.xfig.org/art9.html) zeichenprogramm kennengelernt. meine erste idee war deshalb, die abbildung mithilfe von [jfig](http://tams-www.informatik.uni-hamburg.de/applets/jfig/) zu erstellen, einer java-implementation von jfig, die auch per [webstart](http://tams-www.informatik.uni-hamburg.de/applets/jfig/webstart.html) ohne installation gestartet werden kann [1].
 
 
 

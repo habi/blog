@@ -26,7 +26,7 @@ Letzten Sonntag habe ich mich dann endlich hingesetzt und das erste Mal in meine
 
 Nach einer weiteren halben Stunde Gebastel (inklusive Wiederauseinandernehmen des Gehäuses und einlöten des USB-Adapters, den ich vergessen hatte) konnte ich dann die gewünschte <a href="http://www.ladyada.net/make/monochron/newclock.html">Pong-Firmware</a> auf die MONOCHRON laden und habe jetzt eine schöne neue Uhr in meiner Sammlung (die bis jetzt neben der MONOCHRON-Uhr aus einer <a href="http://www.artlebedev.com/everything/verbarius/">Verbarius</a>, einer <a href="http://www.studiove.com/projects/manifold-clock">Manifold Clock</a> und einer <a href="http://www.phosphorwatches.com/E-Ink-Digital-Hour-Clock-Watch-Black-Polyurethane-p/70510565260.htm">Phosphor E-Ink Clock</a> besteht, Hinweise auf weitere Uhren sind willkommen!).
 
-Die MONOCHRON-Uhr spielt mit sich selber <a href="http://de.wikipedia.org/wiki/Pong">Pong</a>, das linke Paddle spielt extrem schlecht, so dass der rechte "Spieler" pro Minute einen Punkt macht, der linke "Spieler" währenddessen nur einen Punkt pro Stunde. Will heissen: der Punktestand des autonomen Pongspiels zeigt mir immer die aktuelle Uhrzeit an:
+Die MONOCHRON-Uhr spielt mit sich selber <a href="https://de.wikipedia.org/wiki/Pong">Pong</a>, das linke Paddle spielt extrem schlecht, so dass der rechte "Spieler" pro Minute einen Punkt macht, der linke "Spieler" währenddessen nur einen Punkt pro Stunde. Will heissen: der Punktestand des autonomen Pongspiels zeigt mir immer die aktuelle Uhrzeit an:
 
 <a href="https://habi.gna.ch/wp-content/uploads/2011/01/DSC_3278.jpg"><img src="https://habi.gna.ch/wp-content/uploads/2011/01/DSC_3278-300x200.jpg" alt="" title="DSC_3278.jpg" class="aligncenter size-medium wp-image-2356" width="300" height="200"></a><br clear="all">
 
@@ -34,7 +34,7 @@ Wer mir beim Zusammenbau der Uhr über die Schulter gucken will, kann dies in un
 
 https://vimeo.com/18673966
 
-[1]: Adafruit Industries verkauft einiges an sogenannten Kits, elektronische Gadgets, die selber zusammengebaut werden müssen. Ein Grossteil der Kits ist <a href="http://de.wikipedia.org/wiki/Open_Source_Hardware">Open Source Hardware</a>, das heisst, die Pläne sind frei verfügbar und könnten auch selber erstellt werden. Einfacher ist es aber, auf der Webseite ein Kit zu bestellen, so dass mensch nicht 20 verschiedene Läden abklappern muss...
+[1]: Adafruit Industries verkauft einiges an sogenannten Kits, elektronische Gadgets, die selber zusammengebaut werden müssen. Ein Grossteil der Kits ist <a href="https://de.wikipedia.org/wiki/Open_Source_Hardware">Open Source Hardware</a>, das heisst, die Pläne sind frei verfügbar und könnten auch selber erstellt werden. Einfacher ist es aber, auf der Webseite ein Kit zu bestellen, so dass mensch nicht 20 verschiedene Läden abklappern muss...
 [2]: Es hat etwa eine halbe Stunde gedauert, bis ich denn rausgefunden habe, dass der <a href="https://docs.google.com/viewer">Google Docs Viewer</a> scheinbar nicht mit mehreren Bindestrichen im Filenamen umgehen kann...
 
 <strong>update:</strong> Mein Filmli hat's übrigens bis aufs <a href="http://www.adafruit.com/blog/2011/01/20/monochron-assembly-timelapse/">adafruit-blog</a> gebracht!

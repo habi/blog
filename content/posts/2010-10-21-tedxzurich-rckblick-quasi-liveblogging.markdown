@@ -44,13 +44,13 @@ Bei [James Gruntz](http://tedxzurich.com/2010/10/14/james-gruntz/) habe ich mir 
 [Karen Tse](http://tedxzurich.com/2010/10/12/karen-tse/) berichtete in einem ebenso emotionalen wie emotional berührenden Vortrag über die Folter im asiatischen Raum.
 Dieser Vortrag zeigte mir mal wieder was für eine unsägliche Grännerei westliche [Fuck My Life](http://www.fmylife.com/)-Stories sind.
 Seid glücklich nur solche Probleme zu haben!
-Sehr berührend war dann auch das anschliessende Geburtstagsgeschenk an Karen Tse, ein Geburtstagsständchen aller Teilnehmenden unter der videographischen Anleitung von [Benjamin Zander](http://en.wikipedia.org/wiki/Benjamin_Zander), der unter anderem auch noch erzählte, wie mensch auf Herausforderungen reagieren kann: mit Resignation, mit Angst oder der Aussicht auf eine neue Möglichkeit.
+Sehr berührend war dann auch das anschliessende Geburtstagsgeschenk an Karen Tse, ein Geburtstagsständchen aller Teilnehmenden unter der videographischen Anleitung von [Benjamin Zander](https://en.wikipedia.org/wiki/Benjamin_Zander), der unter anderem auch noch erzählte, wie mensch auf Herausforderungen reagieren kann: mit Resignation, mit Angst oder der Aussicht auf eine neue Möglichkeit.
 Guess what to choose?
 Auch wenn sich nicht dabeigewesene kaum [vorstellen können](http://thomnagy.com/benjamin-zander-on-music-and-passion) (siehe Kommentare), dass das sehr bewegend war, stimme ich Thomas Nagy zu. mind. blown!
 
 {{< tweet 27918398783 >}}
 
-[Corsin Gwerder und Lukas Limacher](http://tedxzurich.com/2010/10/16/rezero/) stellten ihren instabilen stabilen Roboter [Rezero](http://www.rezero.ethz.ch/) vor, der für ein Master-Projekt perfekt funktioniert, [Heike Bruch](http://tedxzurich.com/2010/09/29/heike-bruch-on-how-to-manage-organizational-energy/) hatte eine zu grosse Portion [Management-Theorie](http://de.wikipedia.org/wiki/Bullshit-Generator) in ihrem Organisations-Energie-Vortrag, der mich völlig uninspiriert zurückliess.
+[Corsin Gwerder und Lukas Limacher](http://tedxzurich.com/2010/10/16/rezero/) stellten ihren instabilen stabilen Roboter [Rezero](http://www.rezero.ethz.ch/) vor, der für ein Master-Projekt perfekt funktioniert, [Heike Bruch](http://tedxzurich.com/2010/09/29/heike-bruch-on-how-to-manage-organizational-energy/) hatte eine zu grosse Portion [Management-Theorie](https://de.wikipedia.org/wiki/Bullshit-Generator) in ihrem Organisations-Energie-Vortrag, der mich völlig uninspiriert zurückliess.
 [Abt Martin Werlen](http://tedxzurich.com/2010/10/13/abbot-martin-werlen/) erzählte aus seinem Autostöppler-Leben [2] und inspirierte uns dazu, auch mal denjenigen zuzuhören, von welchen wir eigentlich nichts erwarten.
 Eine spannende Erscheinung, dieser Herr Werlen, bei Ihm merkte ich, dass er es gewohnt ist, vor Menschen hinzustehen und Geschichten zu erzählen.
 Ahnlich unispiriert wie der Vortrag über Organisations-Energie liess mich der Vortrag von [Reto Ringger](http://tedxzurich.com/2010/10/17/reto-ringger/) zurück, der erzählte, wie er eine nachhaltige Bank aufgebaut hat.

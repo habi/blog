@@ -22,7 +22,7 @@ tags:
 Wer meinen flickr-Stream etwas im Auge behält, weiss, dass ich im 2012 jeden Monat ein Panorama im Innenhof der [Swiss Light Source](http://www.psi.ch/sls/) gemacht habe.
 Die Panoramas zeigen die Rundum-Sicht im imposanten Innenhof, teilweise bei schönem Wetter, teilweise bei weniger schönem.
 
-Damit ich mit den Bildern etwas dynamischer den Jahresverlauf zeigen kann, habe ich mir ein kleines Python-Skript geschrieben [1], welches die 12 [stereographischen Panoramen](http://en.wikipedia.org/wiki/Stereographic_projection) nimmt, ineinander überblendet und die ganze Sache nadisna um 360° rotiert.
+Damit ich mit den Bildern etwas dynamischer den Jahresverlauf zeigen kann, habe ich mir ein kleines Python-Skript geschrieben [1], welches die 12 [stereographischen Panoramen](https://en.wikipedia.org/wiki/Stereographic_projection) nimmt, ineinander überblendet und die ganze Sache nadisna um 360° rotiert.
 Das Skript ist unten eingebunden und kann in meinem [Python-GitHub-Repository](https://github.com/habi/python) geforkt und kopiert werden, wenn Bedarf daran besteht.
 Ich habe versucht, das Skript grosszügig zu kommentieren, so dass die interessierte Leserschaft sieht, was wie gemacht wird :)
 

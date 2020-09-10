@@ -20,7 +20,7 @@ the thing that now puzzles me, is that i actually paid less for my data in spain
   
 in switzerland i paid [0.02 CHF per kB](http://www.sunrise.ch/privatkunden/mobiltelefonieren/mobilesinternet/live/live_preise.htm), which results in a price of 20.50 CHF per MB (!!!).
   
-in spain, i paid 0.0116 CHF per kB, resulting in a price of 11.90 per MB, which is nearly half the price i pay in switzerland. and remember, i was [roaming](http://en.wikipedia.org/wiki/Roaming) with my swiss phone on a spanish network, so i surely didn't pay the least expensive price there.
+in spain, i paid 0.0116 CHF per kB, resulting in a price of 11.90 per MB, which is nearly half the price i pay in switzerland. and remember, i was [roaming](https://en.wikipedia.org/wiki/Roaming) with my swiss phone on a spanish network, so i surely didn't pay the least expensive price there.
 
 
 

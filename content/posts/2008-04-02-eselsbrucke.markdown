@@ -22,7 +22,7 @@ tags:
 
 
 
-der schauspieler in "[und das ist dann das überdruckventil](http://stadttheaterbern.ch/index.php?seid=40&ga=1&St_ID=17)" sagt zum imaginären [speleologen](http://de.wikipedia.org/wiki/Speleologie) im kühlschrank [1]:
+der schauspieler in "[und das ist dann das überdruckventil](http://stadttheaterbern.ch/index.php?seid=40&ga=1&St_ID=17)" sagt zum imaginären [speleologen](https://de.wikipedia.org/wiki/Speleologie) im kühlschrank [1]:
 
 
 

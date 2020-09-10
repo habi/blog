@@ -11,7 +11,7 @@ categories:
 ---
 
 Als ich letzthin jemandem das Filmli über [Terry Pratchett](https://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/) zeigen wollte, hab' ich im Archiv hier gegraben.
-Dabei ist mir aufgefallen, dass mein ganzes Wordpress-Archiv von einem komischen Sonderzeichen-[Käfer](http://en.wikipedia.org/wiki/File:H96566k.jpg) befallen war, alle Sonderzeichen wurden nicht mehr in der UTF8-Codierung angezeigt, sondern jedes ä, ö und ü war durch Ã¤, Ã¶ und Ã¼ ersetzt.
+Dabei ist mir aufgefallen, dass mein ganzes Wordpress-Archiv von einem komischen Sonderzeichen-[Käfer](https://en.wikipedia.org/wiki/File:H96566k.jpg) befallen war, alle Sonderzeichen wurden nicht mehr in der UTF8-Codierung angezeigt, sondern jedes ä, ö und ü war durch Ã¤, Ã¶ und Ã¼ ersetzt.
 
 Nach einer kürzeren Suche nach möglichen Problem-Ursachen hab' ich dank der Hilfe von [Mastblau](http://www.mastblau.com/2009-01-20/wordpress-auf-utf-8-umstellen/) rausgefunden, dass ich mit einer Datenbank-Befehl alle fehlerhaften Einträge korrigieren kann.
 Mit der Hilfe von [Sequel Pro](http://www.sequelpro.com/) hab' ich untenstehende Änderungen an meiner Wordpress-Datenbank gemacht, so dass das Archiv wieder mit korrekten Umlauten dargestellt werden sollte (und momentan wird).

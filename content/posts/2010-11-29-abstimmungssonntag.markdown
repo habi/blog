@@ -15,7 +15,7 @@ Matthias hat den gestrigen Abstimmungs-Sonntag gut [zusammengefasst](http://matt
 
 
 
-Ich sag's mit den Worten von [Dr. Farnsworth](http://en.wikipedia.org/wiki/Hubert_J._Farnsworth), der [letzhin in meiner](http://m1ndwarp.soup.io/post/88547195/I-dont-want-to) [soup.io-Timeline](http://habi.soup.io/friends) aufgetaucht ist:
+Ich sag's mit den Worten von [Dr. Farnsworth](https://en.wikipedia.org/wiki/Hubert_J._Farnsworth), der [letzhin in meiner](http://m1ndwarp.soup.io/post/88547195/I-dont-want-to) [soup.io-Timeline](http://habi.soup.io/friends) aufgetaucht ist:
 
 
 

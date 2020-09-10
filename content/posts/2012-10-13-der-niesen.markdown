@@ -20,4 +20,4 @@ Ich war heute morgen um halb zehn am (und dann im) Thunersee. Und ihr so?
 
 [![Niesen, tonemapped.jpg](https://habi.gna.ch/wp-content/uploads/2012/10/Niesen-tonemapped.jpg)](https://habi.gna.ch/wp-content/uploads/2012/10/Niesen-tonemapped.jpg)
 
-(Weder Hut, noch Kragen noch Mantel und Degen, [oder](http://de.wikipedia.org/wiki/Niesen_(Berg)#Wetterregel)?)
+(Weder Hut, noch Kragen noch Mantel und Degen, [oder](https://de.wikipedia.org/wiki/Niesen_(Berg)#Wetterregel)?)

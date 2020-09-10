@@ -41,7 +41,7 @@ OpenPaths comes as an application for your phone, which tracks its location, upl
 You can then donate your data for scientific research and also look at the data yourself, which is what we do here.
 
 To be able to do this, we grab a .CSV file with the location data.
-Log in to OpenPaths, and click on _CSV_ under _Download my data_, which gives you a [comma separated](http://en.wikipedia.org/wiki/Comma-separated_values) list of your location data, which can then visualize with [R](http://www.r-project.org), which is what we've done here.
+Log in to OpenPaths, and click on _CSV_ under _Download my data_, which gives you a [comma separated](https://en.wikipedia.org/wiki/Comma-separated_values) list of your location data, which can then visualize with [R](http://www.r-project.org), which is what we've done here.
 
 
 

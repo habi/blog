@@ -22,7 +22,7 @@ on sunday the weather was again marvelous (as you can see from the images in the
 
 [![Gletschermitnina](https://habi.gna.ch/wp-content/uploads/2007/03/gletschermitnina-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/gletschermitnina.jpg)
 
-[1]: thanks to [wikipedia](http://de.wikipedia.org/wiki/Pistenraupe) for providing me with the necessary links...
+[1]: thanks to [wikipedia](https://de.wikipedia.org/wiki/Pistenraupe) for providing me with the necessary links...
 
 
 

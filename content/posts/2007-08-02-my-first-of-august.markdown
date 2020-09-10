@@ -11,7 +11,7 @@ categories:
 - personal
 ---
 
-it becomes more and more of a tradition, the yearly boatride at the [first of august](http://de.wikipedia.org/wiki/Schweizer_Nationalfeiertag). this year i took my camera with me, and time even managed to make a movie while jumping from the [auguet bridge](http://map.search.ch/muri-bei-bern?x=1328&y=1356&z=1024) as you can see below:
+it becomes more and more of a tradition, the yearly boatride at the [first of august](https://de.wikipedia.org/wiki/Schweizer_Nationalfeiertag). this year i took my camera with me, and time even managed to make a movie while jumping from the [auguet bridge](http://map.search.ch/muri-bei-bern?x=1328&y=1356&z=1024) as you can see below:
 
 
 quite a funny face i make, what do you think?

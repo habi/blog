@@ -16,7 +16,7 @@ Das Wetter war vermutlich so, wie's für einen solchen Lauf sein muss, sogenannt
 Und zwar so, dass die Strecke halbiert wurde, statt der angesagten 20 km waren's dann etwas mehr als 10 km.
 
 Dies über Strohballen und Reifenstapel drüber, unter Netzen drunter und durch Schlamm und kaltes Wasser durch.
-Und fast ganz zum Ende noch die Auslaufzone der [Gross-Titlis-Schanze](http://de.wikipedia.org/wiki/Gross-Titlis-Schanze) hoch.
+Und fast ganz zum Ende noch die Auslaufzone der [Gross-Titlis-Schanze](https://de.wikipedia.org/wiki/Gross-Titlis-Schanze) hoch.
 Einerseits einen Heidenspass, andererseits bin ich wohl doch nicht stark genug, denn die eine Runde auf der Strecke hat eigentlich gereicht :)
 
 Dank einer Verteilung von 50% GoPro-Kameras pro Team-Mitglied (danke Lars für die Kamera, danke Renzo für die Video-Schnipsel) entstand unterstehender, recht wackliger und langer Film.

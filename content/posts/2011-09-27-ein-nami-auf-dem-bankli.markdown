@@ -12,4 +12,4 @@ tags:
 - music
 ---
 
-Auch wenn die geschätzten Leserinnen und Leser hier mit [Dubstep](http://de.wikipedia.org/wiki/Dubstep) nix anfangen können, die Tanzkünste des unten eingebundenen jungen Herrns beeindrucken auch unabhängig von der Musikrichtung:
+Auch wenn die geschätzten Leserinnen und Leser hier mit [Dubstep](https://de.wikipedia.org/wiki/Dubstep) nix anfangen können, die Tanzkünste des unten eingebundenen jungen Herrns beeindrucken auch unabhängig von der Musikrichtung:

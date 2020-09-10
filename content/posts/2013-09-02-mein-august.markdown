@@ -40,5 +40,5 @@ Die Liste:
 * Der Mann im Licht
 * Ciao Bella
 * Der Himmel über Berlin (da sammeln sich schon die Vögel)
-* Bernd im [Denkmal für die ermordeten Juden Europas](http://de.wikipedia.org/wiki/Denkmal_f%C3%BCr_die_ermordeten_Juden_Europas)
+* Bernd im [Denkmal für die ermordeten Juden Europas](https://de.wikipedia.org/wiki/Denkmal_f%C3%BCr_die_ermordeten_Juden_Europas)
 * TOMCATs @ [Berliner Unterwelten](http://berliner-unterwelten.de)

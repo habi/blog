@@ -22,7 +22,7 @@ Sehr geehrter Herr Glogger
 
 Zu ihrer 'Glogger mailt...'-Kolummne von heute Abend: Der 44. US-Präsident Obama ist seit 2008 im Amt, das Überwachungsprogramm PRISM startete im 2007:  
 
-[en.wikipedia.org/wiki/PRISM](http://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29)  
+[en.wikipedia.org/wiki/PRISM](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29)  
 
   
 

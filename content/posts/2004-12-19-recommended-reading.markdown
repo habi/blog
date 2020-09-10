@@ -13,7 +13,7 @@ categories:
 
 ![](http://images.amazon.com/images/P/3827005469.03._SCTHUMBZZZ_.jpg)my mother recently gave me [schotts sammelsurium](http://www.amazon.de/exec/obidos/tg/detail/-/3827005469/habignach-20), a very funny book.
   
-in case you want to be a brilliant conversation-partner at your next diner party i recommend that you get that book. it's a overly extensive list of things one should know. things to know like: the thickness of ice needed to carry you, a car or a lorry, how to tie a sari, a list of european cities with metro, some shakespearean curses, [the longest word in english](http://en.wikipedia.org/wiki/Acetylseryltyrosylserylisol...serine) and other stuff to know. it's a fabulous reading and you should get is asap :-)
+in case you want to be a brilliant conversation-partner at your next diner party i recommend that you get that book. it's a overly extensive list of things one should know. things to know like: the thickness of ice needed to carry you, a car or a lorry, how to tie a sari, a list of european cities with metro, some shakespearean curses, [the longest word in english](https://en.wikipedia.org/wiki/Acetylseryltyrosylserylisol...serine) and other stuff to know. it's a fabulous reading and you should get is asap :-)
 
 
 

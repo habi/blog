@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![Simonextreme](https://habi.gna.ch/blog/images/simonextreme-tm.jpg)](https://habi.gna.ch/blog/images/simonextreme.jpg)do you remember [simon](http://en.wikipedia.org/wiki/Simon_(game)) (**update: **or senso, like neopren-sigi [1] points out)?
+[![Simonextreme](https://habi.gna.ch/blog/images/simonextreme-tm.jpg)](https://habi.gna.ch/blog/images/simonextreme.jpg)do you remember [simon](https://en.wikipedia.org/wiki/Simon_(game)) (**update: **or senso, like neopren-sigi [1] points out)?
   
 i remember playing it for hours. i actually remember it so good, that i couldn't help but having a biiiiig smile after downloading [simon extreme](http://lumacode.com/simon/), the port of the game to os x. it even has alternate sound sets like heavy metal and hip-hop. and lickable eye-candy, like most software on osx...
 

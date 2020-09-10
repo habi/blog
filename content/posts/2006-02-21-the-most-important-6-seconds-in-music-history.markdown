@@ -16,7 +16,7 @@ categories:
 
 
 
-if you've listened to any song that uses samples, be it hip hop, drum n bass, dub or a lot of other flavors, you've heard the "amen break". it's a sample from the b-side of a single of [the winstons](http://en.wikipedia.org/wiki/The_Winstons) from 1969, that only lasts 6 seconds.
+if you've listened to any song that uses samples, be it hip hop, drum n bass, dub or a lot of other flavors, you've heard the "amen break". it's a sample from the b-side of a single of [the winstons](https://en.wikipedia.org/wiki/The_Winstons) from 1969, that only lasts 6 seconds.
   
 it's absolutely amazing how far those snare beats came, it became the base of nearly every drum n bass and jungle song.
   

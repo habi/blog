@@ -17,12 +17,12 @@ wie jeden ersten montag im monat fand auch heute der [blgmndybrn](https://leumun
 dabei waren diesmal
 
 [christian](https://hymnos.existenz.ch/)
-[kus](http://starfrosch.ch/) (übrigens mit eigenem [wikipedia-eintrag](http://de.wikipedia.org/wiki/Starfrosch)...)
+[kus](http://starfrosch.ch/) (übrigens mit eigenem [wikipedia-eintrag](https://de.wikipedia.org/wiki/Starfrosch)...)
 [herr löi](https://leumund.ch/)
 [olivier](http://olivier.oswald.name/)
 [reto](http://hugi.to/blog/)
 
-gesprochen haben wir über einiges; vieles eher insidermässig, aber immer mal wieder kreisen die themen um spam, [phpBB](http://de.wikipedia.org/wiki/PhpBB), [selbstprogrammierte fotoalben](http://n.ethz.ch/student/hadavid/album/) [2], die wikipedia als zitierbares medium, [herr löis projekt](https://leumund.ch/v3/comments/feedframe-protoa-by-der-leumundch/), [sellout im zusammenhang mit blogs/bloggers an der hand nehmen](https://pieceoplastic.com/index.php/2818/blogcampswitzerland-ein-wolf-im-schafspelz/), bezahlten content sowie digg-votes, [42](http://www.google.ch/search?hl=de&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=the+answer+to+life,+the+universe+and+everything&spell=1), [43folders](http://www.43folders.com/), [stickkit](http://stikkit.com/) und einiges mehr...
+gesprochen haben wir über einiges; vieles eher insidermässig, aber immer mal wieder kreisen die themen um spam, [phpBB](https://de.wikipedia.org/wiki/PhpBB), [selbstprogrammierte fotoalben](http://n.ethz.ch/student/hadavid/album/) [2], die wikipedia als zitierbares medium, [herr löis projekt](https://leumund.ch/v3/comments/feedframe-protoa-by-der-leumundch/), [sellout im zusammenhang mit blogs/bloggers an der hand nehmen](https://pieceoplastic.com/index.php/2818/blogcampswitzerland-ein-wolf-im-schafspelz/), bezahlten content sowie digg-votes, [42](http://www.google.ch/search?hl=de&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=the+answer+to+life,+the+universe+and+everything&spell=1), [43folders](http://www.43folders.com/), [stickkit](http://stikkit.com/) und einiges mehr...
 
 diesmal war der gadgetfaktor für einen blgmndybrn erstaunlich niedrig, olivier hat mit seinem leistungsfähigen [1] handy notizen gemacht, ansonsten wars eher weniger gadgety..
 

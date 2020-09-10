@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![Erl4Men](https://habi.gna.ch/blog/images/erl4men-tm.jpg)](https://habi.gna.ch/blog/images/erl4men.jpg)i guess [those four guys](http://www.hk-icycling.net.nyud.net:8090/movie/erl4men.mpg) [1] would really rule all [trackstand](http://en.wikipedia.org/wiki/Track_stand) [competitions](http://flickr.com/photos/tags/trackstand/) although they chose the uber-cheesiest medley for their presentation.
+[![Erl4Men](https://habi.gna.ch/blog/images/erl4men-tm.jpg)](https://habi.gna.ch/blog/images/erl4men.jpg)i guess [those four guys](http://www.hk-icycling.net.nyud.net:8090/movie/erl4men.mpg) [1] would really rule all [trackstand](https://en.wikipedia.org/wiki/Track_stand) [competitions](http://flickr.com/photos/tags/trackstand/) although they chose the uber-cheesiest medley for their presentation.
 
 
 

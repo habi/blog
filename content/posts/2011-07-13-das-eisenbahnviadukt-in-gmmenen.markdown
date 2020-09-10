@@ -16,7 +16,7 @@ tags:
 - velocontent
 ---
 
-Am Montag Abend habe ich ein kleines [Velofährtli](http://runkeeper.com/user/davidhaberthuer/activity/42870384) gemacht um mal das Eisenbahnviadukt neben [Gümmenen](http://de.wikipedia.org/wiki/G%C3%BCmmenen) im Abendlicht zu fotografieren. Mit dem 8mm Fischauge-Objektiv, dass ich momentan zur Evaluation von [Martin Bichsel](http://martinbichsel.ch/) ausgeliehen habe, entstanden dann einige schöne Fotos des Viaduktes. Dank dem extrem weitwinklichen Objektiv konnte ich mit 6 Fotos (ohne Stativ) komplette Rundumansichten des Viaduktes machen.
+Am Montag Abend habe ich ein kleines [Velofährtli](http://runkeeper.com/user/davidhaberthuer/activity/42870384) gemacht um mal das Eisenbahnviadukt neben [Gümmenen](https://de.wikipedia.org/wiki/G%C3%BCmmenen) im Abendlicht zu fotografieren. Mit dem 8mm Fischauge-Objektiv, dass ich momentan zur Evaluation von [Martin Bichsel](http://martinbichsel.ch/) ausgeliehen habe, entstanden dann einige schöne Fotos des Viaduktes. Dank dem extrem weitwinklichen Objektiv konnte ich mit 6 Fotos (ohne Stativ) komplette Rundumansichten des Viaduktes machen.
 
 [![Laupen Viadukt Fused.jpg](https://habi.gna.ch/wp-content/uploads/2011/07/Laupen-Viadukt-Fused-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/07/Laupen-Viadukt-Fused.jpg)
 

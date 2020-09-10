@@ -50,7 +50,7 @@ die skripte sind im file [automatorworkflows.zip](https://habi.gna.ch/wp-content
 
 
   
-  * convert>png: macht dasselbe nach [png](http://en.wikipedia.org/wiki/Portable_Network_Graphics)
+  * convert>png: macht dasselbe nach [png](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
 
 
   

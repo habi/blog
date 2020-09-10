@@ -23,6 +23,6 @@ categories:
 
 
 
-**update:** [more on wikipedia...](http://en.wikipedia.org/wiki/Cthulhu)
+**update:** [more on wikipedia...](https://en.wikipedia.org/wiki/Cthulhu)
   
 

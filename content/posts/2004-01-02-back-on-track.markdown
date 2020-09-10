@@ -18,7 +18,7 @@ prepare gifts, do not proceed until finished
 go offline, turn computer off
 stay offline until '04
 wish everyone a happy new year!
-read a book (naomi klein, [no logo!](http://www.amazon.com/exec/obidos/ASIN/0312421435/qid=1073044964/sr=2-2/ref=sr_2_2/104-0802568-2555104), quite complicated, stanislav lem, [transfer](http://de.wikipedia.org/wiki/Stanislav_Lem) (an old favourite of mine), and about 3.5 backissues of the [weltwoche](http://www.weltwoche.ch/))
+read a book (naomi klein, [no logo!](http://www.amazon.com/exec/obidos/ASIN/0312421435/qid=1073044964/sr=2-2/ref=sr_2_2/104-0802568-2555104), quite complicated, stanislav lem, [transfer](https://de.wikipedia.org/wiki/Stanislav_Lem) (an old favourite of mine), and about 3.5 backissues of the [weltwoche](http://www.weltwoche.ch/))
 go skiing (i'll go to the [lauchernalp](http://www.lauchernalp.ch/) tomorrow)
 try out that bunch of recipes (i liked [that one](http://wastun.ch/kochen/rezept.php?vDate=031222))
 cuddle with nina

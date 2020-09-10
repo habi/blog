@@ -24,4 +24,4 @@ Viel Spass damit.
 
 {{< vimeo 78579911 >}}
 
-[1] Für [Tekkies](http://de.wikipedia.org/wiki/Technisches_Tauchen) ist’s erst ein Höhlentauchgang, wenn mensch nicht mehr direkt auftauchen kann, der Lac St-Léonard ist aber immer und jederzeit (jedenfalls soweit mensch tauchen kann) gegen oben offen, schliesslich müssen ja dort die Touristen durchböötlen.
+[1] Für [Tekkies](https://de.wikipedia.org/wiki/Technisches_Tauchen) ist’s erst ein Höhlentauchgang, wenn mensch nicht mehr direkt auftauchen kann, der Lac St-Léonard ist aber immer und jederzeit (jedenfalls soweit mensch tauchen kann) gegen oben offen, schliesslich müssen ja dort die Touristen durchböötlen.
