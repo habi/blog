@@ -12,7 +12,7 @@ categories:
 ---
 
 
-the pictures from the [alleycat yesterday](http://upcoming.org/event/34230/) are already online for your perusal. go and see them [here on flickr](http://www.flickr.com/photos/habi/sets/1187813/). if you have any corrections regarding names, send me a note.
+the pictures from the [alleycat yesterday](http://upcoming.org/event/34230/) are already online for your perusal. go and see them [here on flickr](https://www.flickr.com/photos/habi/sets/1187813/). if you have any corrections regarding names, send me a note.
 
 
 

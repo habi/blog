@@ -16,7 +16,7 @@ tags:
 - bike
 ---
 
-[mark howells-mead](https://permanenttourist.ch/) has been [looking for volunteers](https://permanenttourist.ch/articles/2009/10/photographic-volunteers-urgently-required/) [1] for his latest photo project, the "[one frame movies](http://www.flickr.com/photos/mhowells/sets/72157622156817969)". since i really like his style of photography and thought that'd make a funny evening, i volunteered for helping him, and nina was also up for it. last saturday evening we've spent nearly three hours around the nydeggbrücke and took some [strobist-style](http://swiss-strobist.ch/) photos.
+[mark howells-mead](https://permanenttourist.ch/) has been [looking for volunteers](https://permanenttourist.ch/articles/2009/10/photographic-volunteers-urgently-required/) [1] for his latest photo project, the "[one frame movies](https://www.flickr.com/photos/mhowells/sets/72157622156817969)". since i really like his style of photography and thought that'd make a funny evening, i volunteered for helping him, and nina was also up for it. last saturday evening we've spent nearly three hours around the nydeggbrücke and took some [strobist-style](http://swiss-strobist.ch/) photos.
 
 
 

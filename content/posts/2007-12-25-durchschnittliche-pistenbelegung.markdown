@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm3.static.flickr.com/2164/2135431936_11935c7b22_m.jpg)](http://www.flickr.com/photos/habi/2135431936/)
+ [![](https://static.flickr.com/2164/2135431936_11935c7b22_m.jpg)](https://www.flickr.com/photos/habi/2135431936/)
    
 
  
-  [Durchschnittliche Pistenbelegung](http://www.flickr.com/photos/habi/2135431936/)
+  [Durchschnittliche Pistenbelegung](https://www.flickr.com/photos/habi/2135431936/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

@@ -24,7 +24,7 @@ Die Liste:
 * Ein ganzer Tag [telemarkieren](http://runkeeper.com/user/davidhaberthuer/activity/146598723) macht fei müde
 * Der Winter kommt auch im Flachland nochmal zurück
 * Ein [paar Zombies](https://www.zombiesrungame.com) davonrennen
-* [Dan spielt im Prima Luna](http://www.flickr.com/photos/habi/sets/72157632728422800/)
+* [Dan spielt im Prima Luna](https://www.flickr.com/photos/habi/sets/72157632728422800/)
 * Sonntagsspaziergang
 * Training
 * Zum ersten Mal ein klein bisschen hell auf dem Heimweg
@@ -36,7 +36,7 @@ Die Liste:
 * Richtig krank, Wände anstarrend und Bücher lesend für zwei Tage
 * Wegen viel erkältet mal mit dem Bus ga schaffe. Ist eher mühsam
 * Nach dem Kino
-* Mit Jo und [Mark](https://permanenttourist.ch/blog/) [in den Schnee](http://www.flickr.com/photos/habi/sets/72157632847594794/)
+* Mit Jo und [Mark](https://permanenttourist.ch/blog/) [in den Schnee](https://www.flickr.com/photos/habi/sets/72157632847594794/)
 * Sonntagsspaziergang
 * Der Frühling ist da, es ist Abends richtig hell
 * Training

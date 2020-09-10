@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm3.static.flickr.com/2289/2263735740_3b45c24418_m.jpg)](http://www.flickr.com/photos/habi/2263735740/)
+ [![](https://static.flickr.com/2289/2263735740_3b45c24418_m.jpg)](https://www.flickr.com/photos/habi/2263735740/)
    
 
  
-  [macbook pro vs. acer "notebook"](http://www.flickr.com/photos/habi/2263735740/)
+  [macbook pro vs. acer "notebook"](https://www.flickr.com/photos/habi/2263735740/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

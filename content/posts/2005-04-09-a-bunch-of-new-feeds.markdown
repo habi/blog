@@ -19,5 +19,5 @@ guys and gals, it was really interesting to meet all of you, and i'm surely gonn
 
 
 
-btw: if you want to see the appropriate images, then go to my [blog.ch-meet-tag](http://www.flickr.com/photos/habi/tags/blogchmeet/) on flickr. (so please tag your images accordingly, so they show up as a whole bunch under [the general tag blog.ch-meet](http://www.flickr.com/photos/tags/blogchmeet/).
+btw: if you want to see the appropriate images, then go to my [blog.ch-meet-tag](https://www.flickr.com/photos/habi/tags/blogchmeet/) on flickr. (so please tag your images accordingly, so they show up as a whole bunch under [the general tag blog.ch-meet](https://www.flickr.com/photos/tags/blogchmeet/).
 

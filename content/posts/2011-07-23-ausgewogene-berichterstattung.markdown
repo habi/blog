@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm7.static.flickr.com/6011/5965922827_5bbb1aa991_m.jpg)](http://www.flickr.com/photos/habi/5965922827/)
+ [![](https://static.flickr.com/6011/5965922827_5bbb1aa991_m.jpg)](https://www.flickr.com/photos/habi/5965922827/)
    
 
  
-  [Ausgewogene Berichterstattung?](http://www.flickr.com/photos/habi/5965922827/)
+  [Ausgewogene Berichterstattung?](https://www.flickr.com/photos/habi/5965922827/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/photos/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
  
 
 

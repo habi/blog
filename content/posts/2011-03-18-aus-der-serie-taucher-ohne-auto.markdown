@@ -11,6 +11,6 @@ categories:
 ---
 
   
-[Aus der Serie: Taucher ohne Auto](http://www.flickr.com/photos/habi/5536877199/) a video by [habi](http://www.flickr.com/people/habi/) on Flickr.
+[Aus der Serie: Taucher ohne Auto](https://www.flickr.com/photos/habi/5536877199/) a video by [habi](https://www.flickr.com/people/habi/) on Flickr.
 
 Untertitel: Als Taucher - wenn mensch die geprüfte Flasche abholen muss und kein Auto besitzt - nimmt mensch einfach das Velo.

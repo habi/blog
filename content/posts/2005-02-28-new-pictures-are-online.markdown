@@ -11,5 +11,5 @@ categories:
 ---
 
 
-since i just cannot stop skiing i went to [grindelwald](http://www.grindelwald.com/winter-de.php?frameset=8) on saturday with pesche and sabine. no single picture stands out, so i just uploaded all of 'em to [a new set over at flicker](http://www.flickr.com/photos/habi/sets/140552/). if you'd like to see them, go there.
+since i just cannot stop skiing i went to [grindelwald](http://www.grindelwald.com/winter-de.php?frameset=8) on saturday with pesche and sabine. no single picture stands out, so i just uploaded all of 'em to [a new set over at flicker](https://www.flickr.com/photos/habi/sets/140552/). if you'd like to see them, go there.
 

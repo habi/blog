@@ -74,7 +74,7 @@ bis zum [nächsten mal](http://upcoming.yahoo.com/event/350574/)!
 
 
 
-fotos evtl. [hier](http://blgmndybrn.ch/?page_id=13), [hier](http://www.flickr.com/photos/tags/upcoming:event=350573/) oder [hier](http://flickr.com/photos/honigbaerli).
+fotos evtl. [hier](http://blgmndybrn.ch/?page_id=13), [hier](https://www.flickr.com/photos/tags/upcoming:event=350573/) oder [hier](http://flickr.com/photos/honigbaerli).
 
 
 

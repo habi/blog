@@ -19,7 +19,7 @@ yesterday i went down the aare from [uttigen](http://map.search.ch/uttigen?x=146
   
 it was really fun, mostly because everybody else couldn't believe what we did.
   
-the water was rather cloudy and [not very warm](http://gutfeldt.ch/matthias/blog/singleblog.php?entry=1151896062) (although it was bearable with my 7mm rubber skin). in the image below you can see urs relaxing and almost falling asleep. if you want to see the other pictures of the series, then you can see them in [this set on flickr](http://www.flickr.com/photos/habi/sets/72157594186107656/).
+the water was rather cloudy and [not very warm](http://gutfeldt.ch/matthias/blog/singleblog.php?entry=1151896062) (although it was bearable with my 7mm rubber skin). in the image below you can see urs relaxing and almost falling asleep. if you want to see the other pictures of the series, then you can see them in [this set on flickr](https://www.flickr.com/photos/habi/sets/72157594186107656/).
 
 
 

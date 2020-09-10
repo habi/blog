@@ -12,7 +12,7 @@ categories:
 - switzerland
 ---
 
-eine etwas längere geschichte, aber heute bin ich bei [78s](http://www.78s.ch/2009/02/21/so-wird-der-festivalsommer-2009/) auf einen beitrag gestossen, bei dem mir das foto extrem bekannt vorkam. es ist [mein panorama](http://www.flickr.com/photos/habi/888370993/) vom joss stone konzert am gurtenfestival 2007, zugegebenermassen kein extrem gutes bild, aber immerhin.
+eine etwas längere geschichte, aber heute bin ich bei [78s](http://www.78s.ch/2009/02/21/so-wird-der-festivalsommer-2009/) auf einen beitrag gestossen, bei dem mir das foto extrem bekannt vorkam. es ist [mein panorama](https://www.flickr.com/photos/habi/888370993/) vom joss stone konzert am gurtenfestival 2007, zugegebenermassen kein extrem gutes bild, aber immerhin.
 
 
 
@@ -54,8 +54,8 @@ herr bauer hat auf dieses mail von mir:
   [1]: [](https://www.google.com/reader/view/user/10623017948859471534/state/com.google/broadcast)[https://www.google.com/reader/view/user/10623017948859471534/state/com.google/broadcast](https://www.google.com/reader/view/user/10623017948859471534/state/com.google/broadcast)  
 
   [2]: [](http://www.78s.ch/2009/02/21/so-wird-der-festivalsommer-2009/)[http://www.78s.ch/2009/02/21/so-wird-der-festivalsommer-2009/  
-](http://www.78s.ch/2009/02/21/so-wird-der-festivalsommer-2009/)[3]: [](http://www.flickr.com/photos/habi/888370993/)[http://www.flickr.com/photos/habi/888370993/  
-](http://www.flickr.com/photos/habi/888370993/)[4]: [](http://creativecommons.org/licenses/by/2.0/deed.en_GB)[http://creativecommons.org/licenses/by/2.0/deed.en_GB](http://creativecommons.org/licenses/by/2.0/deed.en_GB)
+](http://www.78s.ch/2009/02/21/so-wird-der-festivalsommer-2009/)[3]: [](https://www.flickr.com/photos/habi/888370993/)[https://www.flickr.com/photos/habi/888370993/  
+](https://www.flickr.com/photos/habi/888370993/)[4]: [](http://creativecommons.org/licenses/by/2.0/deed.en_GB)[http://creativecommons.org/licenses/by/2.0/deed.en_GB](http://creativecommons.org/licenses/by/2.0/deed.en_GB)
 </blockquote>
 
 folgendermassen reagiert: Er hat sich entschuldigt, und gemeint, dass er jeweils die lizenzbedingungen respektiert, in diesem fall dies aber vergessen hat. er will dies am wochenende in ordnung bringen und entschuldigt sich.Was meint ihr? Trotzdem Rechnung stellen? Ich glaub' ich mach's, werde aber den betrag dann bei kiva.org weiterspenden.  

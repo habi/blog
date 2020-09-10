@@ -22,7 +22,7 @@ i'm just wondering what adidas is writing in my gloves.
 
 
 
-additional images (and an [extreme closeup](http://www.flickr.com/photos/habi/66206907/)) can be found on [my flickr-page](http://flickr.com/photos/habi/tags/qrcode/) tagged accordingly.
+additional images (and an [extreme closeup](https://www.flickr.com/photos/habi/66206907/)) can be found on [my flickr-page](http://flickr.com/photos/habi/tags/qrcode/) tagged accordingly.
 
 
 

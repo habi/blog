@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://photos18.flickr.com/23530408_7173427045_m.jpg)](http://www.flickr.com/photos/habi/23530408/)
+ [![](http://photos18.flickr.com/23530408_7173427045_m.jpg)](https://www.flickr.com/photos/habi/23530408/)
    
 
  
-  [take my palm away](http://www.flickr.com/photos/habi/23530408/)
+  [take my palm away](https://www.flickr.com/photos/habi/23530408/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

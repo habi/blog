@@ -30,7 +30,7 @@ wunderschönes licht empfing uns dort oben, so dass wir eine unglaubliche aussic
 
 
 
-eine etwas umfassendere aussicht ist in diesem [360Â°-panorma hier](https://habi.gna.ch/panoramas/bromo.html) zu sehen. zwei andere panoramas vom aussichtspunkt finden sich [hier](http://www.flickr.com/photos/habi/3981077457/) und [hier](http://www.flickr.com/photos/habi/3981848086/) in meinem flickr set, in dem ich eine auswahl der fotos unserer [indonesien-reise](http://www.flickr.com/photos/habi/sets/72157622391643909/) abgelegt habe.  
+eine etwas umfassendere aussicht ist in diesem [360Â°-panorma hier](https://habi.gna.ch/panoramas/bromo.html) zu sehen. zwei andere panoramas vom aussichtspunkt finden sich [hier](https://www.flickr.com/photos/habi/3981077457/) und [hier](https://www.flickr.com/photos/habi/3981848086/) in meinem flickr set, in dem ich eine auswahl der fotos unserer [indonesien-reise](https://www.flickr.com/photos/habi/sets/72157622391643909/) abgelegt habe.  
 
 
 

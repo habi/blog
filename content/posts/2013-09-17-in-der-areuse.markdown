@@ -17,6 +17,6 @@ Nach etwas über zwei Jahren war ich mal wieder (mit der Kamera) in der Areusesc
 Spontan am Freitag Abend spät organisiert, tauchte ich mit Stiwi hinter Boudry in die erstaunlich kühle Areuse.
 
 Dabei entstand kein [pädagogisch wertvolles Video](https://twitter.com/viergrad/status/376606578079965184), aber immerhin eines mit ein paar Einsichten in die Untewasserwelt.
-Die dazugehörigen Fotos finden sich in diesem [flickr-set hier](http://www.flickr.com/photos/habi/sets/72157635536366775/).
+Die dazugehörigen Fotos finden sich in diesem [flickr-set hier](https://www.flickr.com/photos/habi/sets/72157635536366775/).
 
 {{< vimeo 74744307 >}}

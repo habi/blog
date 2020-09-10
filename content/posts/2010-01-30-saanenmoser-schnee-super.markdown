@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm3.static.flickr.com/2692/4316012850_bdb12d2df6_m.jpg)](http://www.flickr.com/photos/habi/4316012850/)
+ [![](https://static.flickr.com/2692/4316012850_bdb12d2df6_m.jpg)](https://www.flickr.com/photos/habi/4316012850/)
    
 
  
-  [Saanenmöser: Schnee super!](http://www.flickr.com/photos/habi/4316012850/)
+  [Saanenmöser: Schnee super!](https://www.flickr.com/photos/habi/4316012850/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

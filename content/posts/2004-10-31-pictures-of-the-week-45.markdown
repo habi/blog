@@ -24,5 +24,5 @@ while abseiling
 from below
 
 ps: i know the picture lacks in the sharpness-departement, but i like it anyway...
-ps2: more pics are on [flickr](http://www.flickr.com/photos/habi/sets/30096/)
+ps2: more pics are on [flickr](https://www.flickr.com/photos/habi/sets/30096/)
 ps3: can you believe it's only 7 weeks to go until '05?

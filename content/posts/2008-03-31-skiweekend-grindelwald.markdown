@@ -19,7 +19,7 @@ this weekend i've been in the snow - maybe the last time for this year. i've bee
 
 
 
-the map of the two days can be seen below, the pictures can be found in [this set](http://www.flickr.com/photos/habi/sets/72157604318755719) on flickr.
+the map of the two days can be seen below, the pictures can be found in [this set](https://www.flickr.com/photos/habi/sets/72157604318755719) on flickr.
 
 
 

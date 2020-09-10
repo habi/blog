@@ -20,7 +20,7 @@ tags:
 
 
 
-Offensichtlich hat Nikon vorgesehen, dass im 2013 360°-Panoramen im Trend liegen werden. Dank einem ausgeliehenen Objektiv von [Herr Widmer](https://blog.dasrecht.net) war ich schon vor fast vier Jahren trendy, als ich das erste Mal erfolgreich einen kleinen Planeten fotografiert habe, [vor dem Hauptgebäuder der Uni Bern](http://www.flickr.com/photos/habi/3708669593/). Mittlerweilen haben sich in meinem [Planeten-Set](http://www.flickr.com/photos/habi/sets/72157627396346402/) 67 mehr oder weniger gelungene Planeten angesammelt, dies mit eigenem Fisheye-Objektiv.
+Offensichtlich hat Nikon vorgesehen, dass im 2013 360°-Panoramen im Trend liegen werden. Dank einem ausgeliehenen Objektiv von [Herr Widmer](https://blog.dasrecht.net) war ich schon vor fast vier Jahren trendy, als ich das erste Mal erfolgreich einen kleinen Planeten fotografiert habe, [vor dem Hauptgebäuder der Uni Bern](https://www.flickr.com/photos/habi/3708669593/). Mittlerweilen haben sich in meinem [Planeten-Set](https://www.flickr.com/photos/habi/sets/72157627396346402/) 67 mehr oder weniger gelungene Planeten angesammelt, dies mit eigenem Fisheye-Objektiv.
 
 
 

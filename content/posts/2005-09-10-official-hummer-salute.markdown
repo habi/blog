@@ -12,14 +12,14 @@ categories:
 ---
 
 
- [![](http://static.flickr.com/24/42072998_b598bc187e_m.jpg)](http://www.flickr.com/photos/habi/42072998/)
+ [![](https://static.flickr.com/24/42072998_b598bc187e_m.jpg)](https://www.flickr.com/photos/habi/42072998/)
    
 
  
-  [official hummer salute](http://www.flickr.com/photos/habi/42072998/)
+  [official hummer salute](https://www.flickr.com/photos/habi/42072998/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

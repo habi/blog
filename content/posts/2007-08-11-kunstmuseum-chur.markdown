@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm2.static.flickr.com/1108/1081092381_551f4d46ee_m.jpg)](http://www.flickr.com/photos/habi/1081092381/)
+ [![](https://static.flickr.com/1108/1081092381_551f4d46ee_m.jpg)](https://www.flickr.com/photos/habi/1081092381/)
    
 
  
-  [Kunstmuseum Chur](http://www.flickr.com/photos/habi/1081092381/)
+  [Kunstmuseum Chur](https://www.flickr.com/photos/habi/1081092381/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

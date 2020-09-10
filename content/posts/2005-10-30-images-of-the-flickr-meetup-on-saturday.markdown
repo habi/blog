@@ -12,7 +12,7 @@ categories:
 ---
 
 
-yesterday [a bunch of flikreebies/flickrites](http://climbtothestars.org/archives/2005/10/30/flickr-meetup-in-bern/) met here in bern. if you want to take a look at the heap of images we've taken, then you should take a look at the tag "[chflickrmeetupoct05](http://www.flickr.com/photos/tags/chflickrmeetupoct05/)".
+yesterday [a bunch of flikreebies/flickrites](http://climbtothestars.org/archives/2005/10/30/flickr-meetup-in-bern/) met here in bern. if you want to take a look at the heap of images we've taken, then you should take a look at the tag "[chflickrmeetupoct05](https://www.flickr.com/photos/tags/chflickrmeetupoct05/)".
   
 i really like the one stephanie shot while we were having a drink in the tramdepot:
 
@@ -22,7 +22,7 @@ i really like the one stephanie shot while we were having a drink in the tramdep
 
 
 
-see it in big splendor [here](http://www.flickr.com/photos/bunny/57543830/).
+see it in big splendor [here](https://www.flickr.com/photos/bunny/57543830/).
 
 
 

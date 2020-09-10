@@ -19,7 +19,7 @@ categories:
   
 - sleeping on a [boat](http://www.rygerfjord.se/) is fun
   
-- sweden has the [biggest](http://www.flickr.com/photos/habi/34774857/) indoor swimming pools i've ever seen
+- sweden has the [biggest](https://www.flickr.com/photos/habi/34774857/) indoor swimming pools i've ever seen
   
 - going to [another european championship](http://emc2005.se/) with 3700 contestants is massive fun
   

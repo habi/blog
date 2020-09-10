@@ -16,7 +16,7 @@ tags:
 - zen
 ---
 
-Eine Erkenntnis der letzten Wochen: Ich verbringe zuviel Zeit vor dem Computer. Gleichzeitig geniesse ich es, [Sachen](https://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) zu [basteln](https://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/), [Fotos zu machen](http://www.flickr.com/photos/habi/) und [Videos](https://vimeo.com/habi) zusammenzuschneiden. Vielfach verbringe ich aber ganze Abende und lese mich durch die News in meinen gut 150 Feeds durch. Gleichzeitig stapeln sich auf meinem Nachttisch Bucher und Comics, die ich teilweise seit mehreren Monaten lesen will [1]. Ich schaffe es mit Muhe, knapp den Stapel meiner Magazine [2] abzubauen, bevor immer wieder neue Ausgaben davon im Briefkasten landen.
+Eine Erkenntnis der letzten Wochen: Ich verbringe zuviel Zeit vor dem Computer. Gleichzeitig geniesse ich es, [Sachen](https://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/) zu [basteln](https://habi.gna.ch/2011/01/14/meine-neue-uhr-monochron-inkl-timelapse/), [Fotos zu machen](https://www.flickr.com/photos/habi/) und [Videos](https://vimeo.com/habi) zusammenzuschneiden. Vielfach verbringe ich aber ganze Abende und lese mich durch die News in meinen gut 150 Feeds durch. Gleichzeitig stapeln sich auf meinem Nachttisch Bucher und Comics, die ich teilweise seit mehreren Monaten lesen will [1]. Ich schaffe es mit Muhe, knapp den Stapel meiner Magazine [2] abzubauen, bevor immer wieder neue Ausgaben davon im Briefkasten landen.
 
 
 
@@ -26,7 +26,7 @@ Praktisch jeden Abend warten am Computer Feeds und Podcasts darauf, gelesen und 
 
 
 
-Deshalb habe ich beschlossen, vor den Ferien (ab morgen bin ich ca. 3 Wochen weg) ALLE meine Feeds im [Google Reader](https://www.google.com/reader/) und in [Miro](http://getmiro.com/) zu loschen und mich von ALLEN Kontakten auf [identi.ca](https://identi.ca/habi/) [3], [google buzz](https://profiles.google.com/david.haberthuer/buzz), [soup.io](http://habi.soup.io) [4] und [twitter](http://twitter.com/habi) [5] zu trennen. Auf flickr.com habe ich meine 120-Personen-grosse [Kontaktliste](http://www.flickr.com/people/habi/contacts/by-uploaded/) auch stark durchgestrahlt, da war ich aber weniger rigoros, ich hab' "nur" ca. 70 Kontakte entfernt. Zusatzlich habe ich einen Teil der Applikationen auf meinem iPhone und Ipad geloscht.
+Deshalb habe ich beschlossen, vor den Ferien (ab morgen bin ich ca. 3 Wochen weg) ALLE meine Feeds im [Google Reader](https://www.google.com/reader/) und in [Miro](http://getmiro.com/) zu loschen und mich von ALLEN Kontakten auf [identi.ca](https://identi.ca/habi/) [3], [google buzz](https://profiles.google.com/david.haberthuer/buzz), [soup.io](http://habi.soup.io) [4] und [twitter](http://twitter.com/habi) [5] zu trennen. Auf flickr.com habe ich meine 120-Personen-grosse [Kontaktliste](https://www.flickr.com/people/habi/contacts/by-uploaded/) auch stark durchgestrahlt, da war ich aber weniger rigoros, ich hab' "nur" ca. 70 Kontakte entfernt. Zusatzlich habe ich einen Teil der Applikationen auf meinem iPhone und Ipad geloscht.
 
 
 

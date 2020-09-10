@@ -11,7 +11,7 @@ categories:
 ---
 
 gadget envy.
-at [miklos' and cecilia's wedding](http://www.flickr.com/photos/habi/sets/15757/) b. and me talked about the upcoming [motorola razr](http://www.motorola.com/mdirect/hellomoto/experience/v3/flash/default.shtml), the phone that looks like THE gadget-ency-inducing phone of the year. up to now i've only seen one or to pics of it floating around on the net. but today i stumbled over [this thread at howard forums](http://www.howardforums.com/showthread.php?s=&threadid=428896)1 which induced a cringe in my bowels, (a soft wispering voice: buybuybuybuy). under one of a gazillion pictures of the razr was the one in the post below, the guy holding the phone in his hands.
+at [miklos' and cecilia's wedding](https://www.flickr.com/photos/habi/sets/15757/) b. and me talked about the upcoming [motorola razr](http://www.motorola.com/mdirect/hellomoto/experience/v3/flash/default.shtml), the phone that looks like THE gadget-ency-inducing phone of the year. up to now i've only seen one or to pics of it floating around on the net. but today i stumbled over [this thread at howard forums](http://www.howardforums.com/showthread.php?s=&threadid=428896)1 which induced a cringe in my bowels, (a soft wispering voice: buybuybuybuy). under one of a gazillion pictures of the razr was the one in the post below, the guy holding the phone in his hands.
 can you believe motorola crammed:
 
 

@@ -11,7 +11,7 @@ categories:
 - linkdump
 ---
 
-![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)  
+![](https://static.flickr.com/23/25822676_789bf55448_t.jpg)  
         My [blog](https://habi.gna.ch/blog) is worth **$11,855.34**.  
 [How much is your blog worth?](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/)
 

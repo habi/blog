@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm3.static.flickr.com/2149/2452004376_faf0e92b88_m.jpg)](http://www.flickr.com/photos/habi/2452004376/)
+ [![](https://static.flickr.com/2149/2452004376_faf0e92b88_m.jpg)](https://www.flickr.com/photos/habi/2452004376/)
    
 
  
-  [Besprechung](http://www.flickr.com/photos/habi/2452004376/)
+  [Besprechung](https://www.flickr.com/photos/habi/2452004376/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

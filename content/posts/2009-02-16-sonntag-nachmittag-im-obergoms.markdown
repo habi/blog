@@ -14,7 +14,7 @@ tags:
 - fun
 ---
 
-nachdem wir am samstag bem [schneeschuhwandern](http://www.flickr.com/photos/habi/sets/72157613951894990/) fast erfroren sind, hat uns das wetter am sonntag entschädigt und wir konnten bei besten bedingungen die loipen im goms geniessen. oberwald - niederwald - reckingen, 30 km bei sonnenschein und - bei bewegung - frühlingshaften temperaturen.
+nachdem wir am samstag bem [schneeschuhwandern](https://www.flickr.com/photos/habi/sets/72157613951894990/) fast erfroren sind, hat uns das wetter am sonntag entschädigt und wir konnten bei besten bedingungen die loipen im goms geniessen. oberwald - niederwald - reckingen, 30 km bei sonnenschein und - bei bewegung - frühlingshaften temperaturen.
 
 
 

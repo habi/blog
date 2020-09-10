@@ -18,7 +18,7 @@ tags:
 
 Dank katholischem Feiertag in meinem neuen Arbeitskanton hatte ich letzten Dienstag frei, so hab' ich's innert vier Tagen zu vier Tauchgängen gebracht. Zwei davon waren zwar "nur" im Hallenbad in Frutigen, dafür habe ich (und andere) im Rahmen der Dive-Con-Ausbildung dort mal wieder einiges an Theorie und Praxis repetiert und geübt.
 
-Am Samstag davor war ich mit Renzo bei Worblaufen in der Aare. Nachdem wir [offensichtlich etwas zu weit der Aare entlang](http://www.flickr.com/photos/habi/6296230932/#comment72157627897539685) hochgegangen sind, war die Wassertiefe zwischendurch suboptimal, nichtsdestotrotz war's ein sehr lustiger und fischreicher Tauchgang. Das kurze Video ist unten zu finden.
+Am Samstag davor war ich mit Renzo bei Worblaufen in der Aare. Nachdem wir [offensichtlich etwas zu weit der Aare entlang](https://www.flickr.com/photos/habi/6296230932/#comment72157627897539685) hochgegangen sind, war die Wassertiefe zwischendurch suboptimal, nichtsdestotrotz war's ein sehr lustiger und fischreicher Tauchgang. Das kurze Video ist unten zu finden.
 
 https://vimeo.com/31685204
 

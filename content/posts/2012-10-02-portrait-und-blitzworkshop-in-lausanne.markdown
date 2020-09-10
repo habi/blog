@@ -70,7 +70,7 @@ Der ganze Tag war extrem lehrreich für mich und gleichzeitig war ich erstaunt, 
 
 
 
-In diesem Post sind "nur" fünf Fotos, einen Teil meiner restlichen Fotos sind im [Photo-Workshop @ EPFL-Set auf Flickr](http://www.flickr.com/photos/habi/sets/72157631145740440/) zu finden. Fotos aller Teilnehmenden sind im [Pool der Swiss-Strobist-Gruppe](http://www.flickr.com/groups/swiss-strobist/pool/tags/rolex2012/) zu finden, ein Besuch lohnt sich unbedingt.  
+In diesem Post sind "nur" fünf Fotos, einen Teil meiner restlichen Fotos sind im [Photo-Workshop @ EPFL-Set auf Flickr](https://www.flickr.com/photos/habi/sets/72157631145740440/) zu finden. Fotos aller Teilnehmenden sind im [Pool der Swiss-Strobist-Gruppe](https://www.flickr.com/groups/swiss-strobist/pool/tags/rolex2012/) zu finden, ein Besuch lohnt sich unbedingt.  
 
 
 
@@ -92,4 +92,4 @@ PS: Wer übrigens auch noch wissen will, wie es aussieht, wenn 8 Fotografierende
 
 
 
-[1]: Ich arbeite daran: Nach dem Workshop habe ich mir einen [SB-900](http://www.kenrockwell.com/nikon/sb900.htm) gekauft und diesen auch schon [mehrmals](http://www.flickr.com/photos/79112147@N00/7939354584) [mit](http://www.flickr.com/photos/79112147@N00/7924707540) [Freude](http://www.flickr.com/photos/79112147@N00/7924696436) (oder Freunden) und [Erfolg](http://www.flickr.com/photos/79112147@N00/7924705974) (und teilweise auch an [Bundesräten](http://www.flickr.com/photos/chfoundation/8030049540/in/set-72157631636396499)) eingesetzt.
+[1]: Ich arbeite daran: Nach dem Workshop habe ich mir einen [SB-900](http://www.kenrockwell.com/nikon/sb900.htm) gekauft und diesen auch schon [mehrmals](https://www.flickr.com/photos/79112147@N00/7939354584) [mit](https://www.flickr.com/photos/79112147@N00/7924707540) [Freude](https://www.flickr.com/photos/79112147@N00/7924696436) (oder Freunden) und [Erfolg](https://www.flickr.com/photos/79112147@N00/7924705974) (und teilweise auch an [Bundesräten](https://www.flickr.com/photos/chfoundation/8030049540/in/set-72157631636396499)) eingesetzt.

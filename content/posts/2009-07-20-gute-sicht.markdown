@@ -10,11 +10,11 @@ categories:
 - personal
 ---
 
-[![](http://farm3.static.flickr.com/2616/3739336421_c5337e6fb5_m.jpg)](http://www.flickr.com/photos/habi/3739336421/)
+[![](https://static.flickr.com/2616/3739336421_c5337e6fb5_m.jpg)](https://www.flickr.com/photos/habi/3739336421/)
 
-[Gute Sicht](http://www.flickr.com/photos/habi/3739336421/)
+[Gute Sicht](https://www.flickr.com/photos/habi/3739336421/)
 
-Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Jedenfalls ober Wasser, unter Wasser so schlecht wie schon lange nicht mehr.
 Deshalb geniessen wir jetzt noch den Sonnenuntergang.

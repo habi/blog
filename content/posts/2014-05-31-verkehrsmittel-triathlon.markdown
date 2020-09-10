@@ -10,8 +10,8 @@ categories:
 - personal
 ---
 
-[![Verkehrsmittel-Triathlon by habi](http://farm4.staticflickr.com/3714/14289500736_dd51d44be9.jpg)](http://www.flickr.com/photos/habi/14289500736/)  
-[Verkehrsmittel-Triathlon](http://www.flickr.com/photos/habi/14289500736/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![Verkehrsmittel-Triathlon by habi](http://farm4.staticflickr.com/3714/14289500736_dd51d44be9.jpg)](https://www.flickr.com/photos/habi/14289500736/)  
+[Verkehrsmittel-Triathlon](https://www.flickr.com/photos/habi/14289500736/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 
 

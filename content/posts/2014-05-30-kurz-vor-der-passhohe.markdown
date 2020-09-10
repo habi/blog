@@ -10,8 +10,8 @@ categories:
 - personal
 ---
 
-[![Kurz vor der Passhöhe by habi](http://farm6.staticflickr.com/5550/14119251350_bc0f046a0c.jpg)](http://www.flickr.com/photos/habi/14119251350/)  
-[Kurz vor der Passhöhe](http://www.flickr.com/photos/habi/14119251350/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![Kurz vor der Passhöhe by habi](http://farm6.staticflickr.com/5550/14119251350_bc0f046a0c.jpg)](https://www.flickr.com/photos/habi/14119251350/)  
+[Kurz vor der Passhöhe](https://www.flickr.com/photos/habi/14119251350/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 
 

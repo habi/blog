@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![Nowpublic](https://habi.gna.ch/blog/images/nowpublic-tm.jpg)](https://habi.gna.ch/blog/images/nowpublic.jpg)[my pictures from saturday evening](http://www.flickr.com/photos/habi/sets/72057594097067744/) are now part of a story at nowpublic.com.
+[![Nowpublic](https://habi.gna.ch/blog/images/nowpublic-tm.jpg)](https://habi.gna.ch/blog/images/nowpublic.jpg)[my pictures from saturday evening](https://www.flickr.com/photos/habi/sets/72057594097067744/) are now part of a story at nowpublic.com.
 
 
 

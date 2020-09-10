@@ -66,11 +66,11 @@ Die Soziologin [Margrit Hugentobler](http://tedxzurich.com/2010/10/06/margrit-hu
 [Gian Klainguti](http://tedxzurich.com/2010/10/13/gian-klainguti/) stellte [Birom](http://www.birom.net/) vor, ein Spiel vor Urzeiten von seinem Onkel konzipiert.
 Aus dem Vortrag war nachvollziehbar, dass das ein spannendes Spiel sein muss.
 Beim anschliessenden Apero gab es dann die Gelegenheit, das Spiel selber anzuspielen, was lachende Gesichter und spannende Spielminuten auslöste.
-So wie unten am Foto aus dem flickr-stream von [TEDxZurich](http://www.flickr.com/photos/tedxzurich) zu sehen ist (und dies war nicht nur bei mir der Fall).
+So wie unten am Foto aus dem flickr-stream von [TEDxZurich](https://www.flickr.com/photos/tedxzurich) zu sehen ist (und dies war nicht nur bei mir der Fall).
 Ich hoffe, das Spiel wird bald offiziell auf den Markt kommen.
 Kaufen werde ich es auf jeden Fall.
 
-[![AN5E6558](http://farm2.static.flickr.com/1231/5102131088_ff41c3ddd3.jpg)](http://www.flickr.com/photos/tedxzurich/5102131088/)
+[![AN5E6558](https://static.flickr.com/1231/5102131088_ff41c3ddd3.jpg)](https://www.flickr.com/photos/tedxzurich/5102131088/)
 
 [Rachel Armstrong](http://tedxzurich.com/2010/09/01/rachel-armstrong-creates-living-environments/) hat ihren [TED-Vortrag](http://www.ted.com/talks/rachel_armstrong_architecture_that_repairs_itself.html) über selbstreparierende Architektur wiederholt, bei dem ich mir nicht ganz sicher war, ob der Vortrag auf Forschungs-Details beruht, oder eher Rückhalt in einer Ihrer ScienceFiction-Geschichten findet.
 Schöne Bilder waren's auf jeden Fall.

@@ -11,5 +11,5 @@ categories:
 ---
 
 my pictures from the suicmc04 are online.
-grab them either on the [/pics-section](http://www.habi.gna.ch/pics/) or on [flickr](http://www.flickr.com/photos/habi/).
+grab them either on the [/pics-section](http://www.habi.gna.ch/pics/) or on [flickr](https://www.flickr.com/photos/habi/).
 my batch of pictures is mostly from the preparation. if you want to see some other great pictures, then [tinu pixels](http://martinbichsel.ch/) pictures are available on the [suicmc-homepage](http://suicmc04.ch/e/info.html). go and take a look, they're great!

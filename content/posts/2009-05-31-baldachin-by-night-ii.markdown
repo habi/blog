@@ -19,7 +19,7 @@ during the past few weeks i've been thinking about the panorama i've shot of the
 
 
 
-the first results from my mini-photo-safari can be seen in this set [here on flickr](http://www.flickr.com/photos/habi/sets/72157618981051701/). most of the images are shot with the zenitar, but the important one is shown here below:
+the first results from my mini-photo-safari can be seen in this set [here on flickr](https://www.flickr.com/photos/habi/sets/72157618981051701/). most of the images are shot with the zenitar, but the important one is shown here below:
 
 
 
@@ -44,7 +44,7 @@ the panorama is - again, as the one shot about three months ago in the afternoon
 
 
 
-i really need to get a nice very wide angle lens, since shooting panoramas with the zenitar is really a breeze, apart from the manual setup. [this panorama](http://www.flickr.com/photos/habi/3579181827/) has been composed from only three images and looks already quite impressive. really impressive - in my opinion anyways - is that shooting a full 360Â° panorama of the bubenbergplatz only requires 10 images and about one and a half minute and can be seen below (444 kB):
+i really need to get a nice very wide angle lens, since shooting panoramas with the zenitar is really a breeze, apart from the manual setup. [this panorama](https://www.flickr.com/photos/habi/3579181827/) has been composed from only three images and looks already quite impressive. really impressive - in my opinion anyways - is that shooting a full 360Â° panorama of the bubenbergplatz only requires 10 images and about one and a half minute and can be seen below (444 kB):
 
 
 

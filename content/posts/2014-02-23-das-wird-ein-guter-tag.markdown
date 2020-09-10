@@ -10,7 +10,7 @@ categories:
 - personal
 ---
 
-[![Das wird ein guter Tag! by habi](http://farm6.staticflickr.com/5523/12714379034_c98e71b7c8.jpg)](http://www.flickr.com/photos/habi/12714379034/)  
-[Das wird ein guter Tag!](http://www.flickr.com/photos/habi/12714379034/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![Das wird ein guter Tag! by habi](http://farm6.staticflickr.com/5523/12714379034_c98e71b7c8.jpg)](https://www.flickr.com/photos/habi/12714379034/)  
+[Das wird ein guter Tag!](https://www.flickr.com/photos/habi/12714379034/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 09:09, auf der Piste

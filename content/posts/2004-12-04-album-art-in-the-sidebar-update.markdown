@@ -13,7 +13,7 @@ categories:
 
 since the upgrade of my MT-installation the integration of [kungtunes](http://www.kung-foo.tv/itti.php) an my blog was a bit flaky, i got an email whenever my itunes changed a song. this was just too much.
   
-i've been looking for another solution to post my playlist on the web, but couldn't find a good one, until i stumbled over [this picture](http://www.flickr.com/photos/schubart/1633225/) on the (excellent) [command-shift-3-group](http://www.flickr.com/groups/cs3/) on flickr. in the extensive list of programs mentioned was the [itunes watcher](http://old.thoughtanomalies.com/offerings/ituneswatcher/). after a bit of googling i found the site and installed it (it' s bit quirky, since it's a script which needs to be configured and compiled).
+i've been looking for another solution to post my playlist on the web, but couldn't find a good one, until i stumbled over [this picture](https://www.flickr.com/photos/schubart/1633225/) on the (excellent) [command-shift-3-group](https://www.flickr.com/groups/cs3/) on flickr. in the extensive list of programs mentioned was the [itunes watcher](http://old.thoughtanomalies.com/offerings/ituneswatcher/). after a bit of googling i found the site and installed it (it' s bit quirky, since it's a script which needs to be configured and compiled).
   
 so you can again spy on my musical taste, this time database-driven and quite nice. because the script works fully independent of any blog installation i made a new directory on my part of the server: [/music](../music)
   

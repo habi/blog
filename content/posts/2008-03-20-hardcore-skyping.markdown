@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm4.static.flickr.com/3063/2348581282_e8ee9c6b28_m.jpg)](http://www.flickr.com/photos/habi/2348581282/)
+ [![](https://static.flickr.com/3063/2348581282_e8ee9c6b28_m.jpg)](https://www.flickr.com/photos/habi/2348581282/)
    
 
  
-  [Hardcore skyping](http://www.flickr.com/photos/habi/2348581282/)
+  [Hardcore skyping](https://www.flickr.com/photos/habi/2348581282/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

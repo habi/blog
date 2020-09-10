@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm4.static.flickr.com/3257/2852907843_a134cbb578_m.jpg)](http://www.flickr.com/photos/habi/2852907843/)
+ [![](https://static.flickr.com/3257/2852907843_a134cbb578_m.jpg)](https://www.flickr.com/photos/habi/2852907843/)
    
 
  
-  [novemberstimmung](http://www.flickr.com/photos/habi/2852907843/)
+  [novemberstimmung](https://www.flickr.com/photos/habi/2852907843/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

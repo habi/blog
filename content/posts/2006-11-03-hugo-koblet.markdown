@@ -11,12 +11,12 @@ categories:
 - none
 ---
 
-[![](http://static.flickr.com/118/287647248_2f8a29310c_m.jpg)](http://www.flickr.com/photos/habi/287647248/)
+[![](https://static.flickr.com/118/287647248_2f8a29310c_m.jpg)](https://www.flickr.com/photos/habi/287647248/)
 
 
-[Hugo Koblet](http://www.flickr.com/photos/habi/287647248/)
+[Hugo Koblet](https://www.flickr.com/photos/habi/287647248/)
 
-Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 
 

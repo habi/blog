@@ -25,6 +25,6 @@ am samstag habe ich mich dank dem unisport bern im [freeski](http://www.zssw.uni
 
 am samstag abend dann im kino slumdog millionaire angeschaut, ein zu recht oscar-nominierter film. in der schweizer bloggeria wurde schon viel darüber [geschrieben](http://www.slug.ch/suche.html?q=slumdog+millionaire), ich sag nur: selber anschauen, es lohnt sich!
 
-der sonntag morgen sah' wettermässig nicht viel besser aus als am samstag. nichtsdestotrotz haben [wir](http://skooba.com/) uns richtung see gewagt, um ein weiteres mal meinen trochentauchanzug auszutesten. das wetter hat dann schnell gebessert, so dass auch unter wasser [einige fotos](http://www.flickr.com/photos/habi/sets/72157613613828510/) und ein nicht schlecht gelungenes video entstanden ist.
+der sonntag morgen sah' wettermässig nicht viel besser aus als am samstag. nichtsdestotrotz haben [wir](http://skooba.com/) uns richtung see gewagt, um ein weiteres mal meinen trochentauchanzug auszutesten. das wetter hat dann schnell gebessert, so dass auch unter wasser [einige fotos](https://www.flickr.com/photos/habi/sets/72157613613828510/) und ein nicht schlecht gelungenes video entstanden ist.
 
 noch ein bisschen weiterüben und ich bin ready für den [öschinensee](http://www.facebook.com/event.php?eid=55555317544).

@@ -12,14 +12,14 @@ categories:
 ---
 
 
- [![](http://farm2.static.flickr.com/1097/810813330_003ebab81f_m.jpg)](http://www.flickr.com/photos/habi/810813330/)
+ [![](https://static.flickr.com/1097/810813330_003ebab81f_m.jpg)](https://www.flickr.com/photos/habi/810813330/)
    
 
  
-  [dan practising](http://www.flickr.com/photos/habi/810813330/)
+  [dan practising](https://www.flickr.com/photos/habi/810813330/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

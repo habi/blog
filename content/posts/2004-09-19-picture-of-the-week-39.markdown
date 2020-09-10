@@ -17,4 +17,4 @@ on the descent to kandersteg we witnessed the sun going down over the hills on t
 [![DSC03564](https://habi.gna.ch/blog/images/DSC03564-tm.jpg)](https://habi.gna.ch/blog/images/DSC03564.JPG)
 
 ps: i've made a nice panorama on 2778m above sea level, i'll post that soon, but it needs some more tweaking and i need a bed now.
-ps2: here are some other pictures on [flickr](http://www.flickr.com/photos/habi/sets/12071/). (i start to like that!)
+ps2: here are some other pictures on [flickr](https://www.flickr.com/photos/habi/sets/12071/). (i start to like that!)

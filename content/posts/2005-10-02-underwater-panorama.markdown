@@ -28,7 +28,7 @@ this particular panorama was the first for me to notice something special:
 
 
 
-so i uploaded the uncrooked version to [flickr](http://www.flickr.com/photos/habi/48386093/), for all of you to see. then i converted the images with makecubic, 'cause i wanted to see how the panoramas look when converted to a quicktime vr. that's when the difference comes in. the first, uncrooked version looks a bit weird when viewing as a qtvr as you can see in the movie on the left below (760 kb .mov-file).[
+so i uploaded the uncrooked version to [flickr](https://www.flickr.com/photos/habi/48386093/), for all of you to see. then i converted the images with makecubic, 'cause i wanted to see how the panoramas look when converted to a quicktime vr. that's when the difference comes in. the first, uncrooked version looks a bit weird when viewing as a qtvr as you can see in the movie on the left below (760 kb .mov-file).[
   
 ](https://habi.gna.ch/blog/images/almajane1.jpg)
 

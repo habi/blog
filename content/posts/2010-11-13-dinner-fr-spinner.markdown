@@ -15,7 +15,7 @@ Vergangenge Woche hat Tinu mal wieder sein jährliches Dinner für Spinner organ
 * verschiedene Fondue getestet
 * dumm umgegschnuret
 * bubelet
-* die Abfahrtseigenschaften von MircoScootern und Skateboards getestet und herausgefunden, dass die Hinterrader von Microscootern [nicht geeignet sind](http://www.flickr.com/photos/habi/5155809218/) um vom Bantiger runterzufahren und ab und an zu bremsen.
+* die Abfahrtseigenschaften von MircoScootern und Skateboards getestet und herausgefunden, dass die Hinterrader von Microscootern [nicht geeignet sind](https://www.flickr.com/photos/habi/5155809218/) um vom Bantiger runterzufahren und ab und an zu bremsen.
 * eine tollen Abend gehabt.
 
 Dabei habe ich auch einige Fotos gemacht.

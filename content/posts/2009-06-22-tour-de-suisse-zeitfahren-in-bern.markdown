@@ -15,12 +15,12 @@ tags:
 - tour de suisse
 ---
 
-ich weiss, alle haben's schon überall gelesen, gestern hat der [fäbu](https://de.wikipedia.org/wiki/Fabian_Cancellara) die tour de suisse im zeitfahren für sich entschieden. da er und alle anderen schnellen wädli quasi bei mir vor dem haus durchfuhren, habe ich gestern nachmittag ein paar fotos geschossen. das gros der fotos ist in meinem flickr-set: [tour de suisse](http://www.flickr.com/photos/habi/sets/72157620230353964/) zu finden, ein paar spezielle fotos sind unten detailliert zu sehen.
+ich weiss, alle haben's schon überall gelesen, gestern hat der [fäbu](https://de.wikipedia.org/wiki/Fabian_Cancellara) die tour de suisse im zeitfahren für sich entschieden. da er und alle anderen schnellen wädli quasi bei mir vor dem haus durchfuhren, habe ich gestern nachmittag ein paar fotos geschossen. das gros der fotos ist in meinem flickr-set: [tour de suisse](https://www.flickr.com/photos/habi/sets/72157620230353964/) zu finden, ein paar spezielle fotos sind unten detailliert zu sehen.
 
 
 
 
-analog zu den action-photos, die ich an der suicmc08 in luzern gemacht habe ([pia](http://www.flickr.com/photos/habi/2863549938/in/set-72157607328809701/), [reto](http://www.flickr.com/photos/habi/2863544010/in/set-72157607328809701/) und [luk](http://www.flickr.com/photos/habi/2862715821/in/set-72157607328809701/)), habe ich versucht, einige fahrer an der ecke schwarztor- und zieglerstrasse beim kurven festzuhalten. welche fahrer dass es sind, weiss ich nicht, jedenfalls finde ich die bilder - vor allem das erste - recht gut gelungen.
+analog zu den action-photos, die ich an der suicmc08 in luzern gemacht habe ([pia](https://www.flickr.com/photos/habi/2863549938/in/set-72157607328809701/), [reto](https://www.flickr.com/photos/habi/2863544010/in/set-72157607328809701/) und [luk](https://www.flickr.com/photos/habi/2862715821/in/set-72157607328809701/)), habe ich versucht, einige fahrer an der ecke schwarztor- und zieglerstrasse beim kurven festzuhalten. welche fahrer dass es sind, weiss ich nicht, jedenfalls finde ich die bilder - vor allem das erste - recht gut gelungen.
 
 
 

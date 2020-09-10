@@ -21,7 +21,7 @@ the image below shows pesche going for 1:15.39 in 100m butterfly.
 
 
 
-if you'd like to see the rest of the images, the you should proceed to [this flickr-set](http://www.flickr.com/photos/habi/sets/72057594063120181/) of mine. and if you want to see what i did the weekend before, take a look at [this set](http://www.flickr.com/photos/habi/sets/72057594062836419/).
+if you'd like to see the rest of the images, the you should proceed to [this flickr-set](https://www.flickr.com/photos/habi/sets/72057594063120181/) of mine. and if you want to see what i did the weekend before, take a look at [this set](https://www.flickr.com/photos/habi/sets/72057594062836419/).
 
 
 

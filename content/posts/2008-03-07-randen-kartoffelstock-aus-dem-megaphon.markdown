@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm4.static.flickr.com/3090/2317171256_72e3389a5a_m.jpg)](http://www.flickr.com/photos/habi/2317171256/)
+ [![](https://static.flickr.com/3090/2317171256_72e3389a5a_m.jpg)](https://www.flickr.com/photos/habi/2317171256/)
    
 
  
-  [Randen-Kartoffelstock aus dem Megaphon](http://www.flickr.com/photos/habi/2317171256/)
+  [Randen-Kartoffelstock aus dem Megaphon](https://www.flickr.com/photos/habi/2317171256/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

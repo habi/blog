@@ -37,7 +37,7 @@ all those beat me!
 
 
 
-[arni](http://www.arnoldseefeld.com/blog/), he posted [his picture on flickr](http://www.flickr.com/photos/18705380@N00/2624660/).
+[arni](http://www.arnoldseefeld.com/blog/), he posted [his picture on flickr](https://www.flickr.com/photos/18705380@N00/2624660/).
 
 
 
@@ -45,5 +45,5 @@ my sister would have been the fastest [to respond](https://habi.gna.ch/blog/mt-c
 
 
 
-**2nd update**: [markus](http://markus.schoepke.at/) and [leo](http://www.fscklog.com/) have a wee fight over their result [over at flickr](http://www.flickr.com/photos/habi/2596805/%23comment507166)...
+**2nd update**: [markus](http://markus.schoepke.at/) and [leo](http://www.fscklog.com/) have a wee fight over their result [over at flickr](https://www.flickr.com/photos/habi/2596805/%23comment507166)...
 

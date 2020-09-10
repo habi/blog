@@ -11,7 +11,7 @@ categories:
 ---
 
 
-i went to [a brunch at julias place](http://www.flickr.com/photos/habi/sets/365528/) yesterday. she has a really nice backyard with a big bunch of flowers. those in the image below were well past their expiry date, but nice nonetheless. do you know their name? leave a comment.
+i went to [a brunch at julias place](https://www.flickr.com/photos/habi/sets/365528/) yesterday. she has a really nice backyard with a big bunch of flowers. those in the image below were well past their expiry date, but nice nonetheless. do you know their name? leave a comment.
 
 
 

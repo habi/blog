@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm4.static.flickr.com/3030/2870441754_84c47da03d_m.jpg)](http://www.flickr.com/photos/habi/2870441754/)
+ [![](https://static.flickr.com/3030/2870441754_84c47da03d_m.jpg)](https://www.flickr.com/photos/habi/2870441754/)
    
 
  
-  [Der zweite Brautstrauss](http://www.flickr.com/photos/habi/2870441754/)
+  [Der zweite Brautstrauss](https://www.flickr.com/photos/habi/2870441754/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

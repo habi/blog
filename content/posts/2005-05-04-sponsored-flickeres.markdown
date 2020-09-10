@@ -12,7 +12,7 @@ categories:
 ---
 
 
-i gave [matthias](http://www.flickr.com/photos/matthiasg/) ([gutfeldt.ch](http://www.gutfeldt.ch/matthias/blog/) or  [blog.ch](http://blog.ch/)) and [stephan](http://www.flickr.com/photos/bucher/) ([stefanbucher.net](http://www.stefanbucher.net/)) both [my pro-accounts i got from flickr](https://habi.gna.ch/blog/archives/000578.html). so you might want to add those two streams to your watchlist.
+i gave [matthias](https://www.flickr.com/photos/matthiasg/) ([gutfeldt.ch](http://www.gutfeldt.ch/matthias/blog/) or  [blog.ch](http://blog.ch/)) and [stephan](https://www.flickr.com/photos/bucher/) ([stefanbucher.net](http://www.stefanbucher.net/)) both [my pro-accounts i got from flickr](https://habi.gna.ch/blog/archives/000578.html). so you might want to add those two streams to your watchlist.
   
 now i have to resume packing, a task i really do not like. i only like the stuff that comes afterwards; holidays. 
 

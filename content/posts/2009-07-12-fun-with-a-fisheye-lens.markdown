@@ -15,7 +15,7 @@ tags:
 - panorama
 ---
 
-[bastian](http://www.dasrecht.net/) hat mir sein [Nikon 10.5mm f/2.8 DX Fisheye-objektiv](http://www.dasrecht.net/v3/photography) ausgeliehen, damit ich mal ein fisheye ausprobieren kann, dass ich nicht komplett manuell einstellen muss. mit meinem [zenitar](http://www.kenrockwell.com/zenit/zenitar-16mm.htm) bin ich zwar sehr zufrieden, es macht auch [gelungene fotos](http://www.flickr.com/photos/habi/tags/zenitar), verlangt aber nach einer vollständig manuellen einstellung und das ist zuweilen schon ein bisschen mühsam.
+[bastian](http://www.dasrecht.net/) hat mir sein [Nikon 10.5mm f/2.8 DX Fisheye-objektiv](http://www.dasrecht.net/v3/photography) ausgeliehen, damit ich mal ein fisheye ausprobieren kann, dass ich nicht komplett manuell einstellen muss. mit meinem [zenitar](http://www.kenrockwell.com/zenit/zenitar-16mm.htm) bin ich zwar sehr zufrieden, es macht auch [gelungene fotos](https://www.flickr.com/photos/habi/tags/zenitar), verlangt aber nach einer vollständig manuellen einstellung und das ist zuweilen schon ein bisschen mühsam.
 
 
 

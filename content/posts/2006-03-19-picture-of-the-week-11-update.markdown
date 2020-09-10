@@ -12,7 +12,7 @@ categories:
 ---
 
 
-this friday tinu and urs made a medieval diner in the castle of laupen. i'm in the process of uploading the images to flickr. but i liked the one below, also because it's a good and funny snapshot of nina. it shows the second picture i shot with the shieldcam  (the first is [here](http://www.flickr.com/photos/habi/114875181/)).
+this friday tinu and urs made a medieval diner in the castle of laupen. i'm in the process of uploading the images to flickr. but i liked the one below, also because it's a good and funny snapshot of nina. it shows the second picture i shot with the shieldcam  (the first is [here](https://www.flickr.com/photos/habi/114875181/)).
 
 
 
