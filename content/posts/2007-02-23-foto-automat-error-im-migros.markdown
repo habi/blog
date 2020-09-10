@@ -13,14 +13,14 @@ categories:
 ---
 
 
- [![](http://farm1.static.flickr.com/188/400017499_49e506c2a7_m.jpg)](http://www.flickr.com/photos/habi/400017499/)
+ [![](https://static.flickr.com/188/400017499_49e506c2a7_m.jpg)](https://www.flickr.com/photos/habi/400017499/)
    
 
  
-  [foto-automat-error im migros](http://www.flickr.com/photos/habi/400017499/)
+  [foto-automat-error im migros](https://www.flickr.com/photos/habi/400017499/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

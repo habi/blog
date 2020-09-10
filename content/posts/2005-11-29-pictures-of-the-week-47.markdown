@@ -14,7 +14,7 @@ categories:
 
 as in the last two years nina and me went to the [polyball](http://www.polyball.ethz.ch/polyball2005/index.html) in zurich. it was a blast, although we couldn't dance that much this year 'cause ninas back ached a bit after an hour of salsa :-)
   
-the image below is one of [my polyball-set on flickr](http://www.flickr.com/photos/habi/sets/1460207/). if you'd like to see some more images of us, then you should proceed over to the site of the [fotostudio unartig](http://www.unartig.ch/). they made [professional shots of all the attendants of the ball](http://orion.unartig.ch/overview/101/2005/show.do) and supplied a photo-studio where you could make some selfportraits. the set of our self-portraits starts [here](http://orion.unartig.ch/display/870/polyball/display.do) and the professional shots start [here](http://orion.unartig.ch/display/5891/polyball/display.do).
+the image below is one of [my polyball-set on flickr](https://www.flickr.com/photos/habi/sets/1460207/). if you'd like to see some more images of us, then you should proceed over to the site of the [fotostudio unartig](http://www.unartig.ch/). they made [professional shots of all the attendants of the ball](http://orion.unartig.ch/overview/101/2005/show.do) and supplied a photo-studio where you could make some selfportraits. the set of our self-portraits starts [here](http://orion.unartig.ch/display/870/polyball/display.do) and the professional shots start [here](http://orion.unartig.ch/display/5891/polyball/display.do).
   
 don't we look spiffy?
 

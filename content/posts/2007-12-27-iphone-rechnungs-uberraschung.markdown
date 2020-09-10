@@ -17,7 +17,7 @@ seit knapp zwei monaten besitze ich ein iphone und bereue den kauf überhaupt ni
 
 
 
-erstens: das ding ist mir zu schade, ums zum [skifahren](http://www.flickr.com/photos/habi/2135431936/) mitzunehmen, aus angst, bei einem meiner - nicht zu vermeidenden - stürze darauf zu fallen und das ding in tausen stücke zu zerbrechen...
+erstens: das ding ist mir zu schade, ums zum [skifahren](https://www.flickr.com/photos/habi/2135431936/) mitzunehmen, aus angst, bei einem meiner - nicht zu vermeidenden - stürze darauf zu fallen und das ding in tausen stücke zu zerbrechen...
 
 
 

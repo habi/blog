@@ -20,7 +20,7 @@ Am Montag Abend habe ich ein kleines [Velofährtli](http://runkeeper.com/user/da
 
 [![Laupen Viadukt Fused.jpg](https://habi.gna.ch/wp-content/uploads/2011/07/Laupen-Viadukt-Fused-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/07/Laupen-Viadukt-Fused.jpg)
 
-Nach kürzerer Nachbearbeitung entstand aus diesen Rundum-Ansichten des Viaduktes eine stereographische Ansicht, ein sogenannter kleiner Planet. Einer der vier Planeten, die am Montag Abend entstanden sind, ist untendran zu sehen, den Rest (und die anderen Rundumansichten) gibt's drüben bei flickr im [Set zum Eisenbahnviadukt](http://www.flickr.com/photos/habi/sets/72157627187758538/) zu sehen.
+Nach kürzerer Nachbearbeitung entstand aus diesen Rundum-Ansichten des Viaduktes eine stereographische Ansicht, ein sogenannter kleiner Planet. Einer der vier Planeten, die am Montag Abend entstanden sind, ist untendran zu sehen, den Rest (und die anderen Rundumansichten) gibt's drüben bei flickr im [Set zum Eisenbahnviadukt](https://www.flickr.com/photos/habi/sets/72157627187758538/) zu sehen.
 
 [![Laupen Viadukt stereographic.jpg](https://habi.gna.ch/wp-content/uploads/2011/07/Laupen-Viadukt-stereographic-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/07/Laupen-Viadukt-stereographic.jpg)
 

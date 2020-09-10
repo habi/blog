@@ -20,7 +20,7 @@ tags:
 - stockhorn
 ---
 
-![](https://farm2.staticflickr.com/1953/43502529790_2d5bb6e582_b.jpg)  
+![](https://static.flickr.com/1953/43502529790_2d5bb6e582_b.jpg)  
 
   
 

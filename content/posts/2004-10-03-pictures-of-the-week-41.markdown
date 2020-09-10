@@ -18,7 +18,7 @@ pascal from [biel](http://velokurierbiel.ch/) and roman1 from [basel](http://vel
 [![DSC03616](https://habi.gna.ch/blog/images/DSC03616-tm.jpg)](https://habi.gna.ch/blog/images/DSC03616.jpg)
 some [krick](http://www.krick.ch/)er during the mainrace:
 [![DSC03626](https://habi.gna.ch/blog/images/DSC03626-tm.jpg)](https://habi.gna.ch/blog/images/DSC03626.jpg)
-all my other pictures will be available [here](https://habi.gna.ch/pics/) soon. pictures from more people will be [available on flickr](http://www.flickr.com/groups/suicmc04/) (hopefully...)
+all my other pictures will be available [here](https://habi.gna.ch/pics/) soon. pictures from more people will be [available on flickr](https://www.flickr.com/groups/suicmc04/) (hopefully...)
 
 
 1ages ago we've been in the army together, which is quite strange, because we both couldn't be farther away from supporting the army than we're now...

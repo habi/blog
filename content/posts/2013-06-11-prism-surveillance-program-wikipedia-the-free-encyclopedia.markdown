@@ -10,8 +10,8 @@ categories:
 - personal
 ---
 
-[![PRISM (surveillance program) - Wikipedia, the free encyclopedia by habi](http://farm8.staticflickr.com/7428/9018667836_60a9bebd72.jpg)](http://www.flickr.com/photos/habi/9018667836/)  
-[PRISM](http://www.flickr.com/photos/habi/9018667836/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![PRISM (surveillance program) - Wikipedia, the free encyclopedia by habi](https://static.flickr.com/7428/9018667836_60a9bebd72.jpg)](https://www.flickr.com/photos/habi/9018667836/)  
+[PRISM](https://www.flickr.com/photos/habi/9018667836/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
   
 

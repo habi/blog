@@ -31,7 +31,7 @@ So schrecklich ich die Thematik "Kinder im Krieg" finde, so schrecklich unperson
 
 
 
-Fur jede Person, die ein am Samschtig ein Foto von mir beim schwimmen in der Aare, kurz vorher oder kurz nachher macht und dieses so aufs Internetz hochladt, dass es eine öffentliche URL bekommt (heisst, bei [flickr](http://www.flickr.com/), [picasa](http://picasaweb.google.com/) oder bei [einem anderen Dienst](http://www.google.ch/search?client=safari&rls=en&q=free+image+hosting&ie=UTF-8&oe=UTF-8&redir_esc=&ei=4JcGTeHSBcnd4gbhnticBw)), spende ich 25.- an ein Projekt bei [kiva.org](http://www.kiva.org/). Projekte, die [ich](http://www.kiva.org/lender/habi) dort unterstutzen kann, gibt es [genug](http://www.kiva.org/lend), zusatzlich habe ich das Gefuhl, so direkter etwas zu erreichen als an das genauso schreckliche wie schwammige Thema "Kinder im Krieg".
+Fur jede Person, die ein am Samschtig ein Foto von mir beim schwimmen in der Aare, kurz vorher oder kurz nachher macht und dieses so aufs Internetz hochladt, dass es eine öffentliche URL bekommt (heisst, bei [flickr](https://www.flickr.com/), [picasa](http://picasaweb.google.com/) oder bei [einem anderen Dienst](http://www.google.ch/search?client=safari&rls=en&q=free+image+hosting&ie=UTF-8&oe=UTF-8&redir_esc=&ei=4JcGTeHSBcnd4gbhnticBw)), spende ich 25.- an ein Projekt bei [kiva.org](http://www.kiva.org/). Projekte, die [ich](http://www.kiva.org/lender/habi) dort unterstutzen kann, gibt es [genug](http://www.kiva.org/lend), zusatzlich habe ich das Gefuhl, so direkter etwas zu erreichen als an das genauso schreckliche wie schwammige Thema "Kinder im Krieg".
 
 
 

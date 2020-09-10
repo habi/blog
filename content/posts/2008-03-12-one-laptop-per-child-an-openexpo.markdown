@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm3.static.flickr.com/2273/2329096830_d7063d4139_m.jpg)](http://www.flickr.com/photos/habi/2329096830/)
+ [![](https://static.flickr.com/2273/2329096830_d7063d4139_m.jpg)](https://www.flickr.com/photos/habi/2329096830/)
    
 
  
-  [One Laptop per child an OpenExpo](http://www.flickr.com/photos/habi/2329096830/)
+  [One Laptop per child an OpenExpo](https://www.flickr.com/photos/habi/2329096830/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

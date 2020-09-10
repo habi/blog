@@ -22,7 +22,7 @@ tags:
 - thunersee
 ---
 
-![](https://farm5.staticflickr.com/4880/31961970498_b8bc1e3261_b.jpg)
+![](https://static.flickr.com/4880/31961970498_b8bc1e3261_b.jpg)
 Beim Warten auf den Bus.
 
 from [Flickr](https://flic.kr/p/QGnshS) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

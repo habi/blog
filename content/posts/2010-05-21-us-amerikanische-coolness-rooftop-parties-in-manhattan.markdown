@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm5.static.flickr.com/4029/4626856856_9a3b15a86b_m.jpg)](http://www.flickr.com/photos/habi/4626856856/)
+ [![](https://static.flickr.com/4029/4626856856_9a3b15a86b_m.jpg)](https://www.flickr.com/photos/habi/4626856856/)
    
 
  
-  [US-amerikanische Coolness: Rooftop-Parties in Manhattan](http://www.flickr.com/photos/habi/4626856856/)
+  [US-amerikanische Coolness: Rooftop-Parties in Manhattan](https://www.flickr.com/photos/habi/4626856856/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

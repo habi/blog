@@ -10,10 +10,10 @@ categories:
 - personal
 ---
 
-[![](http://farm7.static.flickr.com/6077/6053397038_d279e2df96_m.jpg)](http://www.flickr.com/photos/habi/6053397038/)
+[![](https://static.flickr.com/6077/6053397038_d279e2df96_m.jpg)](https://www.flickr.com/photos/habi/6053397038/)
 
-[Mittwoch Abend](http://www.flickr.com/photos/habi/6053397038/)
+[Mittwoch Abend](https://www.flickr.com/photos/habi/6053397038/)
 
-Originally uploaded by [habi](http://www.flickr.com/photos/habi/).
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
 
 Auf der Allmenalp; im Klettersteig ein paar Überstunden abgebaut.

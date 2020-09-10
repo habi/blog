@@ -10,7 +10,7 @@ categories:
 - personal
 ---
 
-http://www.flickr.com/photos/habi/4736805060/
+https://www.flickr.com/photos/habi/4736805060/
 
 Das Velo aus der Velobörse des Ski & Velocenters hat wohl weniger Kilometer gefahren als es in Franken gekostet hat.
 Und es war nicht speziell teuer...

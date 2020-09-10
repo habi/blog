@@ -20,4 +20,4 @@ the image below is ändu having a nice flight into the lac léman.
 
 [![Lakejump-Aendu-Composite](https://habi.gna.ch/wp-content/uploads/2007/09/lakejump-aendu-composite-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/09/lakejump-aendu-composite.jpg)
 
-the rest of my images can be found on [flickr](http://www.flickr.com/photos/habi/sets/72157602147496819/), some more images from all around the swiss courier scene can be found via the tag [suicmc07](http://www.flickr.com/photos/tags/suicmc07) or in the [suicmc-set of florian cella](http://www.flickr.com/photos/floriancella/sets/72157602123357170/).
+the rest of my images can be found on [flickr](https://www.flickr.com/photos/habi/sets/72157602147496819/), some more images from all around the swiss courier scene can be found via the tag [suicmc07](https://www.flickr.com/photos/tags/suicmc07) or in the [suicmc-set of florian cella](https://www.flickr.com/photos/floriancella/sets/72157602123357170/).

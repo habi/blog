@@ -19,7 +19,7 @@ tags:
 - wanderung
 ---
 
-![](https://farm2.staticflickr.com/1849/43624314264_5a9af98603_b.jpg)  
+![](https://static.flickr.com/1849/43624314264_5a9af98603_b.jpg)  
 
   
 

@@ -13,14 +13,14 @@ categories:
 ---
 
 
- [![](http://farm1.static.flickr.com/219/482463568_1228e789e4_m.jpg)](http://www.flickr.com/photos/habi/482463568/)
+ [![](https://static.flickr.com/219/482463568_1228e789e4_m.jpg)](https://www.flickr.com/photos/habi/482463568/)
    
 
  
-  [bottle on the head](http://www.flickr.com/photos/habi/482463568/)
+  [bottle on the head](https://www.flickr.com/photos/habi/482463568/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 
@@ -29,6 +29,6 @@ it's harder than i thought!
 
   
 
-for [jan](http://www.flickr.com/groups/324675@N25/).
+for [jan](https://www.flickr.com/groups/324675@N25/).
   
 

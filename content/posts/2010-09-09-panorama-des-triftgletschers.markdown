@@ -14,7 +14,7 @@ tags:
 - panorama
 ---
 
-Vergangenes Wochenende war ich mit dem Unisport auf eine [Hochtour](https://habi.gna.ch/2010/08/26/picknick-fur-3-tage/) über den Triftgletscher. Leider war das Wetter nicht gut genug, um wirklich tolle Fotos zu machen, ein paar schone sind trotzdem zusammengekommen, sie sind in [diesem Set auf flickr.com](http://www.flickr.com/photos/habi/sets/72157624713872163/) zu finden.
+Vergangenes Wochenende war ich mit dem Unisport auf eine [Hochtour](https://habi.gna.ch/2010/08/26/picknick-fur-3-tage/) über den Triftgletscher. Leider war das Wetter nicht gut genug, um wirklich tolle Fotos zu machen, ein paar schone sind trotzdem zusammengekommen, sie sind in [diesem Set auf flickr.com](https://www.flickr.com/photos/habi/sets/72157624713872163/) zu finden.
 
 
 
@@ -36,6 +36,6 @@ Nachdem ich mit Quicktime Pro die Bilder extrahiert habe, konnte ich das Rohmate
 
 Nach langerer Rechnerei entsteht dann untenstehendes 360°-Panorama auf dem Triftgletscher. Das Panorama ist auch immersiv (leider nur mit Flash) in [meinem Panorama-Ordner hier auf dem Server](https://habi.gna.ch/panoramas/triftgletscher.html) zu finden.
 
-[![Panorama on the Trift Glacier](http://farm5.static.flickr.com/4105/4968336234_0e95e2464e_z.jpg)](http://www.flickr.com/photos/habi/4968336234/)
+[![Panorama on the Trift Glacier](https://static.flickr.com/4105/4968336234_0e95e2464e_z.jpg)](https://www.flickr.com/photos/habi/4968336234/)
 
 

@@ -16,7 +16,7 @@ tags:
 - oeschinensee
 ---
 
-vergangenen samstag hatte ich die gelegenheit, meinen trockenanzug auf herz, nieren und kalte füsse zu testen. gemeinsam mit ein paar anderen un-verfrorenen gesellen haben wir uns auf den weg an den [oeschinensee](http://www.oeschinensee.ch/) gemacht, um dort unter dem eis zwei tauchgänge zu machen. das wetter hat sich von seiner besten seite gezeigt, so dass die insgesamt gute halbe stunde unter wasser von unglaublich schönen licht-reflexen begleitet war, ein ganz spezielles erlebnis, dass ich hoffentlich wiederholen kann. auf und neben dem see sind einige fotos entstanden, diese sind in diesem set auf flickr zu finden: [Eistauchen Oeschinensee](http://www.flickr.com/photos/habi/sets/72157614544829279/).
+vergangenen samstag hatte ich die gelegenheit, meinen trockenanzug auf herz, nieren und kalte füsse zu testen. gemeinsam mit ein paar anderen un-verfrorenen gesellen haben wir uns auf den weg an den [oeschinensee](http://www.oeschinensee.ch/) gemacht, um dort unter dem eis zwei tauchgänge zu machen. das wetter hat sich von seiner besten seite gezeigt, so dass die insgesamt gute halbe stunde unter wasser von unglaublich schönen licht-reflexen begleitet war, ein ganz spezielles erlebnis, dass ich hoffentlich wiederholen kann. auf und neben dem see sind einige fotos entstanden, diese sind in diesem set auf flickr zu finden: [Eistauchen Oeschinensee](https://www.flickr.com/photos/habi/sets/72157614544829279/).
 
 
 

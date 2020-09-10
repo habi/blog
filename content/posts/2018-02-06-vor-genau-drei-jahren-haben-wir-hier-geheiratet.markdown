@@ -18,7 +18,7 @@ tags:
 - rellerli
 ---
 
-![](https://c1.staticflickr.com/5/4695/28334005389_8df21c96db_b.jpg)  
+![](https://static.flickr.com/5/4695/28334005389_8df21c96db_b.jpg)  
 
 Da ist doch dringend Zeit, um mal wieder hier hoch zu kommen...  
 

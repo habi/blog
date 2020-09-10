@@ -10,10 +10,10 @@ categories:
 - personal
 ---
 
-[![](http://farm4.static.flickr.com/3531/3776889335_defdbbfc7a_m.jpg)](http://www.flickr.com/photos/habi/3776889335/)
+[![](https://static.flickr.com/3531/3776889335_defdbbfc7a_m.jpg)](https://www.flickr.com/photos/habi/3776889335/)
 
-[Liveblogging from 4027m](http://www.flickr.com/photos/habi/3776889335/)
+[Liveblogging from 4027m](https://www.flickr.com/photos/habi/3776889335/)
 
-Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Wer findet raus, auf welchen Berg wir hochgelaufen sind?

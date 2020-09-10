@@ -13,16 +13,16 @@ categories:
 
 i've officially killed my [two](http://habi.bild.li/) [moblogs](http://moblog.co.uk/blogs.php?show=835) [1]. from now on, all my (seldom) moblogging is going to happen here: [http://flickr.com/photos/habi/tags/moblog/](http://flickr.com/photos/habi/tags/moblog/). regarding that, i've also uncluttered my sidebar a bit. the latest images-section now shows the five latest images i posted to flickr. on top there's the latest moblog, then the four latest "normal" images.
 
-i achieved this with a mashup of the code of two [flickr-badges](http://www.flickr.com/badge_new.gne). the first one is pulling just the "moblog" tag, the second one is pulling the last 4 images.
+i achieved this with a mashup of the code of two [flickr-badges](https://www.flickr.com/badge_new.gne). the first one is pulling just the "moblog" tag, the second one is pulling the last 4 images.
 
 the full code looks like this, nothing too fancy really:
 
 ````html
 <!-- Start of Flickr Badge -->
 <table cellspacing="10" cellpadding="0" border="0">
-<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=1&amp;display=latest&amp;size=t&amp;layout=v&amp;source=user_tag&amp;user=79112147%40N00&amp;tag=moblog"></p>
+<script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=1&amp;display=latest&amp;size=t&amp;layout=v&amp;source=user_tag&amp;user=79112147%40N00&amp;tag=moblog"></p>
 <p></script>
-<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=4&amp;display=latest&amp;size=t&amp;layout=v&amp;source=user&amp;user=79112147%40N00"></p>
+<script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=4&amp;display=latest&amp;size=t&amp;layout=v&amp;source=user&amp;user=79112147%40N00"></p>
 <p></script></table>
 <!-- End of Flickr Badge -->
 ````

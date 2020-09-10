@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm3.static.flickr.com/2442/3772685854_e5856f7be7_m.jpg)](http://www.flickr.com/photos/habi/3772685854/)
+ [![](https://static.flickr.com/2442/3772685854_e5856f7be7_m.jpg)](https://www.flickr.com/photos/habi/3772685854/)
    
 
  
-  [Pimped Home-Office](http://www.flickr.com/photos/habi/3772685854/)
+  [Pimped Home-Office](https://www.flickr.com/photos/habi/3772685854/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

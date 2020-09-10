@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[![windows powered sewing-machine](http://photos10.flickr.com/11622233_556db06e8d_m.jpg)](http://www.flickr.com/photos/habi/11622233/)
+[![windows powered sewing-machine](http://photos10.flickr.com/11622233_556db06e8d_m.jpg)](https://www.flickr.com/photos/habi/11622233/)
 
 i've been at the bea and seen that windows powered sewing machine. i  
 

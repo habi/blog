@@ -11,9 +11,9 @@ categories:
 ---
 
 
-  [![SwissFEL-Baustelle by habi](http://farm6.staticflickr.com/5499/9564352230_c5660b8ca8.jpg)](http://www.flickr.com/photos/habi/9564352230/)  
+  [![SwissFEL-Baustelle by habi](https://static.flickr.com/5499/9564352230_c5660b8ca8.jpg)](https://www.flickr.com/photos/habi/9564352230/)  
 
-  [SwissFEL-Baustelle](http://www.flickr.com/photos/habi/9564352230/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+  [SwissFEL-Baustelle](https://www.flickr.com/photos/habi/9564352230/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 
 

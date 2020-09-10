@@ -25,11 +25,11 @@ Hier die Liste:
 * Experimente am Samichlousetag
 * [Moop Mama](http://www.moopmama.com) im Dachstock, eine coole Neu-Entdeckung
 * [Sunntigsfährtli](http://runkeeper.com/user/davidhaberthuer/activity/278789783)
-* Zeitraffer-Aufnahmen von [Sonnenuntergängen](http://www.flickr.com/photos/habi/11074424665/) sind schwer schön zu machen
+* Zeitraffer-Aufnahmen von [Sonnenuntergängen](https://www.flickr.com/photos/habi/11074424665/) sind schwer schön zu machen
 * Training
 * PSI Volley Generalversammlung
 * Jetzt kommt der Herbst doch noch, Nebel am Morgen
-* [Dan & Co. im Prima Luna](http://www.flickr.com/photos/habi/sets/72157638660969976/)
+* [Dan & Co. im Prima Luna](https://www.flickr.com/photos/habi/sets/72157638660969976/)
 * Zum ersten Mal am traditionellen Hornusser-Lotto
 * Theoretisch Langlaufen, praktisch Winterwandern, da die Loipe noch nicht offen
 * Vollmond

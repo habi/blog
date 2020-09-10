@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm4.static.flickr.com/3157/3053992904_919025f59d_m.jpg)](http://www.flickr.com/photos/habi/3053992904/)
+ [![](https://static.flickr.com/3157/3053992904_919025f59d_m.jpg)](https://www.flickr.com/photos/habi/3053992904/)
    
 
  
-  [Telefonkabinenhandytelefonierer](http://www.flickr.com/photos/habi/3053992904/)
+  [Telefonkabinenhandytelefonierer](https://www.flickr.com/photos/habi/3053992904/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

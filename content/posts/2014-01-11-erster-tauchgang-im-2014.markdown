@@ -10,7 +10,7 @@ categories:
 - personal
 ---
 
-[![Erster Tauchgang im 2014 by habi](http://farm4.staticflickr.com/3814/11890047066_170b15beb3.jpg)](http://www.flickr.com/photos/habi/11890047066/)
-[Erster Tauchgang im 2014](http://www.flickr.com/photos/habi/11890047066/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![Erster Tauchgang im 2014 by habi](https://static.flickr.com/3814/11890047066_170b15beb3.jpg)](https://www.flickr.com/photos/habi/11890047066/)
+[Erster Tauchgang im 2014](https://www.flickr.com/photos/habi/11890047066/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 Besser kann's fast nicht mehr werden!

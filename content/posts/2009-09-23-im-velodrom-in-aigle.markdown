@@ -22,6 +22,6 @@ das ganze war - mann kann es fast nicht ander sagen - ziemlich geil.
 die fotos, die ich gemacht habe, sind unten zu sehen.
 der [ige wirth](http://www.swisstricks.com/index.php?option=com_content&view=article&id=59&Itemid=68) hat noch ein-zwei coole videos gemacht, falls die online verfügbar werden, gibt's dann auch noch ein link.
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/gp/habi/xwc366" title="Velodrome Aigle"><img src="https://live.staticflickr.com/2560/3944939284_69aa9e0438_b.jpg" width="1024" height="768" alt="Velodrome Aigle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/gp/habi/xwc366" title="Velodrome Aigle"><img src="https://static.flickr.com/2560/3944939284_69aa9e0438_b.jpg" width="1024" height="768" alt="Velodrome Aigle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-die fotos (und die rangliste des 200m-sprint) sind in meinem [velodrome-set](http://www.flickr.com/photos/habi/sets/72157622428254100/) auf flickr zu finden.
+die fotos (und die rangliste des 200m-sprint) sind in meinem [velodrome-set](https://www.flickr.com/photos/habi/sets/72157622428254100/) auf flickr zu finden.

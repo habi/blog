@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm5.static.flickr.com/4042/4460890212_186ba28bf0_m.jpg)](http://www.flickr.com/photos/habi/4460890212/)
+ [![](https://static.flickr.com/4042/4460890212_186ba28bf0_m.jpg)](https://www.flickr.com/photos/habi/4460890212/)
    
 
  
-  [Betrachtungen eines Panoramas](http://www.flickr.com/photos/habi/4460890212/)
+  [Betrachtungen eines Panoramas](https://www.flickr.com/photos/habi/4460890212/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

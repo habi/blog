@@ -52,9 +52,9 @@ Bis jetzt habe ich diese Fotos gesehen:
 
 
 
-[Raphael](http://www.flickr.com/photos/raphael_moser/5270407439/) findet, mensch sehe mein Sixpack, ich finde, ich muss etwas Winterspeck verlieren, zahle aber für das gute Foto trotzdem 50.- bei kiva.org:
+[Raphael](https://www.flickr.com/photos/raphael_moser/5270407439/) findet, mensch sehe mein Sixpack, ich finde, ich muss etwas Winterspeck verlieren, zahle aber für das gute Foto trotzdem 50.- bei kiva.org:
 
-[![Aareschwümme 2010](http://farm6.static.flickr.com/5207/5270407439_08e708368c.jpg)](http://www.flickr.com/photos/raphael_moser/5270407439/)  
+[![Aareschwümme 2010](https://static.flickr.com/5207/5270407439_08e708368c.jpg)](https://www.flickr.com/photos/raphael_moser/5270407439/)  
 
   
 
@@ -82,22 +82,22 @@ Die restlichen Fotos, die auftauchen, werde ich hier vermerken und dann (evtl. e
 
 
 
-- Herr Leu hat seine Fotos [auch auf flickr](http://www.flickr.com/photos/leumund/people/habi/) hochgeladen. Hosae [findet](http://www.flickr.com/photos/leumund/5271097890/comment72157625623317342/), mensch sehe ein Sixpack, ich halte dagegen. Weitere Meinungen?
+- Herr Leu hat seine Fotos [auch auf flickr](https://www.flickr.com/photos/leumund/people/habi/) hochgeladen. Hosae [findet](https://www.flickr.com/photos/leumund/5271097890/comment72157625623317342/), mensch sehe ein Sixpack, ich halte dagegen. Weitere Meinungen?
 
 
 
 
-- Mein [Vater](http://www.flickr.com/photos/habiold/tags/jrz/) sowie auch [Nina](http://www.flickr.com/photos/ninahostettler/tags/jrz/) haben ihre Fotos hochgeladen, gibt also nochmals 50.- dazu.
+- Mein [Vater](https://www.flickr.com/photos/habiold/tags/jrz/) sowie auch [Nina](https://www.flickr.com/photos/ninahostettler/tags/jrz/) haben ihre Fotos hochgeladen, gibt also nochmals 50.- dazu.
 
 
 
 
-Da auf [Ninas Foto](http://www.flickr.com/photos/ninahostettler/5271385089/) (unten) ein Sixpack zu sehen ist, gibt's 25.- extra.
+Da auf [Ninas Foto](https://www.flickr.com/photos/ninahostettler/5271385089/) (unten) ein Sixpack zu sehen ist, gibt's 25.- extra.
 
 
 
 
-[![P1000091](http://farm6.static.flickr.com/5163/5271385089_a8ec95c1e5.jpg)](http://www.flickr.com/photos/ninahostettler/5271385089/)
+[![P1000091](https://static.flickr.com/5163/5271385089_a8ec95c1e5.jpg)](https://www.flickr.com/photos/ninahostettler/5271385089/)
 
 
   
@@ -116,7 +116,7 @@ Die Fotos meines Vaters sind (momentan) nur für Familienangehörige zu sehen, i
 
 
 
-Stand 18. Dezember 2010 20:33: **125.-** (falls Karins Bild noch auftaucht) von mir personlich und 50.- von Tinu selbst. Je nach Ausgang der Diskussion [hier](http://www.flickr.com/photos/leumund/5271097890/) gibt's nochmals 25.- Topping.
+Stand 18. Dezember 2010 20:33: **125.-** (falls Karins Bild noch auftaucht) von mir personlich und 50.- von Tinu selbst. Je nach Ausgang der Diskussion [hier](https://www.flickr.com/photos/leumund/5271097890/) gibt's nochmals 25.- Topping.
 
 
 

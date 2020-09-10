@@ -20,7 +20,7 @@ tags:
 - winter
 ---
 
-[![Bettmersee](https://farm2.staticflickr.com/1578/25153450214_f37f3f4f5d_z.jpg)](https://www.flickr.com/photos/habi/25153450214/)  
+[![Bettmersee](https://static.flickr.com/1578/25153450214_f37f3f4f5d_z.jpg)](https://www.flickr.com/photos/habi/25153450214/)  
 
   
 

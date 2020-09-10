@@ -12,7 +12,7 @@ categories:
 ---
 
 
-yesterday evening [pesche](http://www.flickr.com/photos/habi/tags/peschi/) invited [us](http://www.flickr.com/photos/habi/70621887/) for a diner in his new flat in basel. the image below was also shot on the train back home: bruni is trying to remember that certain line from [abba](http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=abba). [1] oh, and the [panorama](http://www.flickr.com/photos/habi/tags/peschi/) turned out quite nice, too, you can see it as [an 1.3mb-.mov-file here](https://habi.gna.ch/blog/images/bhf_basel.mov).
+yesterday evening [pesche](https://www.flickr.com/photos/habi/tags/peschi/) invited [us](https://www.flickr.com/photos/habi/70621887/) for a diner in his new flat in basel. the image below was also shot on the train back home: bruni is trying to remember that certain line from [abba](http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=abba). [1] oh, and the [panorama](https://www.flickr.com/photos/habi/tags/peschi/) turned out quite nice, too, you can see it as [an 1.3mb-.mov-file here](https://habi.gna.ch/blog/images/bhf_basel.mov).
 
 
 

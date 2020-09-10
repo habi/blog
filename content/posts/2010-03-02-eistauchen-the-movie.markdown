@@ -14,7 +14,7 @@ tags:
 - eistauchen
 ---
 
-Am vergangenen Sonntag war ich auf 1578 muM im Oeschinensee unter ca. 50cm Eis im Wasser. Der Film dazu ist unten zu finden, die wenigen Fotos der beiden Tauchgänge sind im [Eistauch-Set auf flickr](http://www.flickr.com/photos/habi/sets/72157623528582378/) zu finden.
+Am vergangenen Sonntag war ich auf 1578 muM im Oeschinensee unter ca. 50cm Eis im Wasser. Der Film dazu ist unten zu finden, die wenigen Fotos der beiden Tauchgänge sind im [Eistauch-Set auf flickr](https://www.flickr.com/photos/habi/sets/72157623528582378/) zu finden.
 
 <embed src="http://blip.tv/play/gZhYgcqHSQI" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390">
 

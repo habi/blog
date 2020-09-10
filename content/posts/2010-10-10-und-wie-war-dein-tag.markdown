@@ -18,7 +18,7 @@ tags:
 
 
 
-Die hochaufgeloste Version davon gibt's bei [Flickr](http://www.flickr.com/photos/habi/5068497939/lightbox/). Die Wanderung [hier](https://habi.gna.ch/u/60).
+Die hochaufgeloste Version davon gibt's bei [Flickr](https://www.flickr.com/photos/habi/5068497939/lightbox/). Die Wanderung [hier](https://habi.gna.ch/u/60).
 
 
 

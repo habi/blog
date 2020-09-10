@@ -10,8 +10,8 @@ categories:
 - personal
 ---
 
-[![Comic Sans? by habi](http://farm4.staticflickr.com/3798/10071821166_62ec4f5912.jpg)](http://www.flickr.com/photos/habi/10071821166/)  
-[Comic Sans?](http://www.flickr.com/photos/habi/10071821166/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![Comic Sans? by habi](https://static.flickr.com/3798/10071821166_62ec4f5912.jpg)](https://www.flickr.com/photos/habi/10071821166/)  
+[Comic Sans?](https://www.flickr.com/photos/habi/10071821166/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 Liebes Migros  
 

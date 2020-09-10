@@ -10,5 +10,5 @@ categories:
 - personal
 ---
 
-[![Subtiler Schilder-Hack im Westside by habi](http://farm9.staticflickr.com/8592/15994703154_ab3a55a829.jpg)](http://www.flickr.com/photos/habi/15994703154/)  
-[Subtiler Schilder-Hack im Westside](http://www.flickr.com/photos/habi/15994703154/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![Subtiler Schilder-Hack im Westside by habi](https://static.flickr.com/8592/15994703154_ab3a55a829.jpg)](https://www.flickr.com/photos/habi/15994703154/)  
+[Subtiler Schilder-Hack im Westside](https://www.flickr.com/photos/habi/15994703154/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.

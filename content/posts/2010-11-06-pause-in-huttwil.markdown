@@ -11,11 +11,11 @@ categories:
 ---
 
 
-[![](http://farm2.static.flickr.com/1128/5151236800_c7e93f9fb8_m.jpg)](http://www.flickr.com/photos/habi/5151236800/)
+[![](https://static.flickr.com/1128/5151236800_c7e93f9fb8_m.jpg)](https://www.flickr.com/photos/habi/5151236800/)
 
-[Pause in Huttwil](http://www.flickr.com/photos/habi/5151236800/)
+[Pause in Huttwil](https://www.flickr.com/photos/habi/5151236800/)
 
-Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Auf der wohl letzten Velotour vor dem Winter...
 

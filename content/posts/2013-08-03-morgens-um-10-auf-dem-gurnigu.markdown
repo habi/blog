@@ -10,5 +10,5 @@ categories:
 - personal
 ---
 
-[![Morgens um 10 auf dem Gurnigu by habi](http://farm6.staticflickr.com/5511/9428203208_939296d266.jpg)](http://www.flickr.com/photos/habi/9428203208/)  
-[Morgens um 10 auf dem Gurnigu](http://www.flickr.com/photos/habi/9428203208/), a photo by [habi](http://www.flickr.com/photos/habi/) on Flickr.
+[![Morgens um 10 auf dem Gurnigu by habi](https://static.flickr.com/5511/9428203208_939296d266.jpg)](https://www.flickr.com/photos/habi/9428203208/)  
+[Morgens um 10 auf dem Gurnigu](https://www.flickr.com/photos/habi/9428203208/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.

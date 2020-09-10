@@ -12,14 +12,14 @@ categories:
 ---
 
 
- [![](http://farm1.static.flickr.com/167/437648376_313bc5096d_m.jpg)](http://www.flickr.com/photos/habi/437648376/)
+ [![](https://static.flickr.com/167/437648376_313bc5096d_m.jpg)](https://www.flickr.com/photos/habi/437648376/)
    
 
  
-  [Regines Laptop](http://www.flickr.com/photos/habi/437648376/)
+  [Regines Laptop](https://www.flickr.com/photos/habi/437648376/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

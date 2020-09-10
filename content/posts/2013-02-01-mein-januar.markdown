@@ -42,13 +42,13 @@ Die Liste
 * Fiirabe
 * a trained monkey could do it
 * Wunderschöner Sonnenaufgang auf dem Weg an einen Sitzungstag in Lausanne
-* [Deutschland](http://www.flickr.com/photos/habi/sets/72157632588693658/), 2x
+* [Deutschland](https://www.flickr.com/photos/habi/sets/72157632588693658/), 2x
 * Mal wieder die Traumnovelle lesen
 * Fiirabe
 * Läck isch das früeh
 * Freitag ist dafür Freitag
-* [St. Moritz](http://www.flickr.com/photos/habi/sets/72157632623130875/), 2x
+* [St. Moritz](https://www.flickr.com/photos/habi/sets/72157632623130875/), 2x
 * Frühlingsboten?
-* Das [Hallenbad City](http://www.flickr.com/photos/habi/8427985250/) ist u schön
+* Das [Hallenbad City](https://www.flickr.com/photos/habi/8427985250/) ist u schön
 * Hunger nach dem Training
 * #Geheimprojekt, Teile 2 & 3

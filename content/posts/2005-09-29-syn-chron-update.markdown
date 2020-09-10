@@ -11,15 +11,15 @@ categories:
 ---
 
 
-[![](http://static.flickr.com/32/47788242_6b6620e1d1_m.jpg)](http://www.flickr.com/photos/habi/47788242/)
+[![](https://static.flickr.com/32/47788242_6b6620e1d1_m.jpg)](https://www.flickr.com/photos/habi/47788242/)
 
 
 
-[Syn chron](http://www.flickr.com/photos/habi/47788242/)
+[Syn chron](https://www.flickr.com/photos/habi/47788242/)
 
 
 
-Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 
 

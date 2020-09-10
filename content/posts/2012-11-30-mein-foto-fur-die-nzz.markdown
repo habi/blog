@@ -15,7 +15,7 @@ tags:
 - wettbewerb
 ---
 
-Bevor ich letzte Woche in die Kurz-Ferien nach Istanbul fuhr [1], bekam ich ein Mail der Kommunikationsdesign-Abteilung der NZZ, in dem mir mitgeteilt wurde, dass ein Foto von mir ([vom Eiffelturm](http://www.flickr.com/photos/habi/7945870724/), als Grundlage für [dieses Foto](http://www.flickr.com/photos/habi/7945830394/)) für eine Wettbewerbskarte verwendet wurde.
+Bevor ich letzte Woche in die Kurz-Ferien nach Istanbul fuhr [1], bekam ich ein Mail der Kommunikationsdesign-Abteilung der NZZ, in dem mir mitgeteilt wurde, dass ein Foto von mir ([vom Eiffelturm](https://www.flickr.com/photos/habi/7945870724/), als Grundlage für [dieses Foto](https://www.flickr.com/photos/habi/7945830394/)) für eine Wettbewerbskarte verwendet wurde.
 
 Das Bild habe ich unter einer [Creative-Commons-Lizenz](http://creativecommons.org/licenses/by-sa/2.0/) bei flickr hochgeladen, offensichtlich verwenden die Kommunikationsdesigner der «[Alten Tante](https://www.google.ch/search?client=safari&rls=en&q=alte+tante+nzz&ie=UTF-8&oe=UTF-8&redir_esc=&ei=tTW5ULCgBKv74QTiu4D4Cg)» neumodische Methoden, um an Bilder für Wettbewerbskarten zu kommen. Mich ehrt natürlich, dass ich auf der Rückseite der Karte namentlich vermerkt bin und viele Wettbewerbsteilnehmerinnen (hoffentlich) an meinem Foto Freude haben.
 

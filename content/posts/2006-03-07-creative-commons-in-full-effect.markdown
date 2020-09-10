@@ -13,7 +13,7 @@ categories:
 
 through my [ego-surfing-feed](http://services.newsgator.com/ngws/svc/KeywordRSS.aspx?fid=18703&fid2=414518&fid2=414518) [1] i found [this story](http://www.austinist.com/archives/2006/03/01/breaking_news_downtown_fire.php) in the austinist, a website from austin (i presume :-).
   
-to illustrate the breaking news of a downtown fire, the used [a picture of the fire](http://www.flickr.com/photos/habi/104884444/) at [wolfs birthday party](http://www.flickr.com/photos/habi/sets/72057594070906030/). my pictures at flickr are released under an [attribution license](http://creativecommons.org/licenses/by/2.5/), so anybody is free to use them as you please, as long as there is proper attribution added.
+to illustrate the breaking news of a downtown fire, the used [a picture of the fire](https://www.flickr.com/photos/habi/104884444/) at [wolfs birthday party](https://www.flickr.com/photos/habi/sets/72057594070906030/). my pictures at flickr are released under an [attribution license](http://creativecommons.org/licenses/by/2.5/), so anybody is free to use them as you please, as long as there is proper attribution added.
   
 not too bad, maybe i should consider starting a career as photographer :-)
 

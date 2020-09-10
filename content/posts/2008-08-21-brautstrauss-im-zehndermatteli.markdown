@@ -11,14 +11,14 @@ categories:
 ---
 
 
- [![](http://farm4.static.flickr.com/3203/2784847478_83f5ef83bc_m.jpg)](http://www.flickr.com/photos/habi/2784847478/)
+ [![](https://static.flickr.com/3203/2784847478_83f5ef83bc_m.jpg)](https://www.flickr.com/photos/habi/2784847478/)
    
 
  
-  [brautstrauss im zehndermätteli](http://www.flickr.com/photos/habi/2784847478/)
+  [brautstrauss im zehndermätteli](https://www.flickr.com/photos/habi/2784847478/)
     
 
-  Originally uploaded by [habi](http://www.flickr.com/people/habi/).
+  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

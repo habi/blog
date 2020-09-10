@@ -24,4 +24,4 @@ Bei [diesem Tauchgang](https://habi.gna.ch/divelog/2011.05.14.boudry.plage.pdf) 
 
 {{< vimeo 23980103 >}}
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/habi/albums/72157626592151989" title="Boudry, Plage"><img src="https://live.staticflickr.com/2516/5718002991_9fffcd9a85_c.jpg" width="1024" height="768" alt="Boudry, Plage"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/habi/albums/72157626592151989" title="Boudry, Plage"><img src="https://static.flickr.com/2516/5718002991_9fffcd9a85_c.jpg" width="1024" height="768" alt="Boudry, Plage"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

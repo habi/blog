@@ -25,7 +25,7 @@ diesen samstag wollte ich mal ein bisschen ein grösseres panorama-projekt anpac
 
 
 
-für alle, die das nicht kennen, erhöhte dynamik-umfang bedeutet (analog wie [HDR](https://de.wikipedia.org/wiki/High_Dynamic_Range_Image)), dass im untenstehenden bild mehr helligkeitsinformationen abgebildet sind, als mit einer einzigen belichtung erreicht werden könnte. die 3 roh-aufnahmen (normal, unter- und überbelichtet) werden so zusammengerechnet, dass die schatten und die hellsten stellen jeweils gut belichtet werden. schön ist das zu sehen, wenn die panoramas vom bubenbergplatz als [enfused](http://www.flickr.com/photos/habi/3301070200/) und als [normale](http://www.flickr.com/photos/habi/3300242463/) variante verglichen werden.
+für alle, die das nicht kennen, erhöhte dynamik-umfang bedeutet (analog wie [HDR](https://de.wikipedia.org/wiki/High_Dynamic_Range_Image)), dass im untenstehenden bild mehr helligkeitsinformationen abgebildet sind, als mit einer einzigen belichtung erreicht werden könnte. die 3 roh-aufnahmen (normal, unter- und überbelichtet) werden so zusammengerechnet, dass die schatten und die hellsten stellen jeweils gut belichtet werden. schön ist das zu sehen, wenn die panoramas vom bubenbergplatz als [enfused](https://www.flickr.com/photos/habi/3301070200/) und als [normale](https://www.flickr.com/photos/habi/3300242463/) variante verglichen werden.
 
 
 
