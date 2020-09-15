@@ -11,7 +11,7 @@ categories:
 ---
 
 simu wants to ride [the alpenbrevet](http://www.alpenbrevet.ch/inhalt/deutsch/strecken_d.htm), so he talked some of us into that little tour.
-so, yesterday morning, ismu, michel, urs, simu and me started sometimes after nine o'clock in kehrsatz. somewhere down in the simmental we met pascu from the [velokurier biel](http://velokurierbiel.ch/) who drove up to the [jaunpass](http://www.jaunpass.ch/) with us. from there we went over the mittelberg.
+so, yesterday morning, ismu, michel, urs, simu and me started sometimes after nine o'clock in kehrsatz. somewhere down in the simmental we met pascu from the [velokurier biel](https://velokurierbiel.ch/) who drove up to the [jaunpass](http://www.jaunpass.ch/) with us. from there we went over the mittelberg.
 (if you dare, here are [two](https://habi.gna.ch/blog/images/MOV01010.MPG) [movies](https://habi.gna.ch/blog/images/MOV01012.MPG) from the mittelberg-descent)
 where soon after ismu and pascu went back home and michel, simu, urs and me attacked the [col des mosses](http://www.schweizerseiten.ch/info/info_col_des_mosses.htm) (i could hardly attack anymore :-). the last descent from the col des mosses to aigle was the most rewarding of the whole trip. 17 km downhill. then we arrived in aigle, where we went to visit the [cmc](http://www.cmc-aigle.ch/En/) and then waited that the patron came to open [the hotel](http://www.aigle.ch/hotel.php) (guess which one) just for us.
 after a really big diner (and i mean BIG) we all went to bed and slept like babies :-)

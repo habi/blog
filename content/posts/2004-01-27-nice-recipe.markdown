@@ -11,7 +11,7 @@ categories:
 ---
 
 my wintercurry ([![](https://habi.gna.ch/blog/images/wintercurry-tm.jpg)](https://habi.gna.ch/blog/images/wintercurry.jpg)) doesn't look like the one in [the recipe](http://wastun.ch/kochen/archiv.php?vDate=040112) (german only), but was really really really tasty none the less. 
-and the guys and gals [at work](http://www.velokurierbern.ch/) liked it a lot, so if you do not know what to cook tomorrow, this is a good one to try.
+and the guys and gals [at work](https://velokurierbern.ch/) liked it a lot, so if you do not know what to cook tomorrow, this is a good one to try.
 
 **btw**: [wastun.ch](http://wastun.ch/) [sends](http://wastun.ch/newsletter/) you a nice recipe to try out each and every week.
 they call the recipes "open source", because all the recipes are special recipes from users who send them in. 

@@ -22,4 +22,4 @@ Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
 
 Keine Angst, [diesmal bin ich abgestiegen zum fotigrafieren](https://habi.gna.ch/2011/11/28/on-the-road/)...  
   
-Und; geil find ich's wohl auch nur, weil's 2 x 8 km pro Tag sind und nicht der ganze Tag, wie bei den Jungs und Mädels vom [Velokurier Bern](http://velokurierbern.ch). 
+Und; geil find ich's wohl auch nur, weil's 2 x 8 km pro Tag sind und nicht der ganze Tag, wie bei den Jungs und Mädels vom [Velokurier Bern](https://velokurierbern.ch). 

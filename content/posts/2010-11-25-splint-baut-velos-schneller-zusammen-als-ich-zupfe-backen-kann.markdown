@@ -20,5 +20,5 @@ tags:
 
 
 Kommentiert doch [das Video drüben bei vimeo](https://vimeo.com/17061067), da hat er sicher Freude dran!
-Und falls der Splint euch auch so ein Velo zusammenbauen soll - er kann nämlich nicht nur gut [fötelen ](http://www.splint.ch/)und velölen ([flach](http://velokurierbern.ch/) oder [bergig](http://www.piratesplint.ch/)) - wendet euch vertrauensvoll an den [Velokurierladen](http://www.velokurierladen.ch/)!
+Und falls der Splint euch auch so ein Velo zusammenbauen soll - er kann nämlich nicht nur gut [fötelen ](http://www.splint.ch/)und velölen ([flach](https://velokurierbern.ch/) oder [bergig](http://www.piratesplint.ch/)) - wendet euch vertrauensvoll an den [Velokurierladen](http://www.velokurierladen.ch/)!
 
