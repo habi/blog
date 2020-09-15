@@ -16,4 +16,4 @@ i remember once trying to finish tetris on the hardest possible setting on the g
 i bet [KeiicHi](http://mo-mus.com/mario.wmv) must have had nightmares, too (3.7 mb .wmv movie).
 he manages to play the soundtrack of super mario land on his guitar, complete with the power-up and coin-grab sound effects! marvelous!
 
-[via [boingboing](http://www.boingboing.net/2004/04/03/guitar_virtuoso_perf.html)]
+[via [boingboing](https://boingboing.net/2004/04/03/guitar_virtuoso_perf.html)]

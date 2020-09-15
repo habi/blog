@@ -21,5 +21,5 @@ oh, and just to make this post more complete (or actually post a real mash-up), 
 
 beatallica: [via [powerbook blog](http://powerbook.blogger.de/stories/202721/)]
   
-beastles: [via [boingboing](http://www.boingboing.net/2004/12/21/meet_the_beastles.html)]
+beastles: [via [boingboing](https://boingboing.net/2004/12/21/meet_the_beastles.html)]
 

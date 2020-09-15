@@ -21,7 +21,7 @@ ps: after reading most of them, i thought [this secret](http://photos1.blogger.c
 
 
 
-**update:** probably [via [boingboing](http://www.boingboing.net/2005/04/29/postcard_confessiona.html)]
+**update:** probably [via [boingboing](https://boingboing.net/2005/04/29/postcard_confessiona.html)]
 
 
 technorati tags: [secret](http://technorati.com/tag/secret)

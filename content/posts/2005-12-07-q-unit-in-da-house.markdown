@@ -21,5 +21,5 @@ you can grab it - while it lasts - on [q-unit.net](http://www.q-unit.net/) or vi
 
 
 
-[via [boingboing](http://www.boingboing.net/2005/12/04/qunit_queen_and_50ce.html)]
+[via [boingboing](https://boingboing.net/2005/12/04/qunit_queen_and_50ce.html)]
 

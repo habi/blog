@@ -11,7 +11,7 @@ categories:
 ---
 
 
-cory doctorow (of [boingboing-fame](http://boingboing.net/)) released a short story called [i, robot](http://www.boingboing.net/2005/02/16/corys_latest_short_s.html). since i like reading stuff on my clie while on the train or so i made a palm-doc file of the story.
+cory doctorow (of [boingboing-fame](https://boingboing.net/)) released a short story called [i, robot](https://boingboing.net/2005/02/16/corys_latest_short_s.html). since i like reading stuff on my clie while on the train or so i made a palm-doc file of the story.
   
 if you'd like to read the story on your palm, then you can get it here: [cory doctorow - i, robot.pdb](https://habi.gna.ch/blog/images/cory%20doctorow%20-%20i,%20robot.pdb) (49 kb)
   
@@ -29,5 +29,5 @@ after talking to cory i found out that his publisher holds the exclusive rights 
 
 
 
-**2nd update:** i've been [boingboinged](http://www.boingboing.net/2005/04/16/corys_i_robot_for_th.html)...
+**2nd update:** i've been [boingboinged](https://boingboing.net/2005/04/16/corys_i_robot_for_th.html)...
 

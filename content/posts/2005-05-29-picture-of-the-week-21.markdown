@@ -11,7 +11,7 @@ categories:
 ---
 
 
-summer is here: we were having a little boat trip down the aare, passing [heavy waves](http://map.search.ch/thun?x=-1947&y=-3190&z=512), hanging around from [bridges](http://map.search.ch/thun?x=-2443&y=-4689&z=512) and then [chillaxing](http://www.boingboing.net/2005/05/29/w00t_is_a_favored_no.html) in the [eichholz](http://map.search.ch/thun?x=-15848&y=-25354&z=1024&e=1).
+summer is here: we were having a little boat trip down the aare, passing [heavy waves](http://map.search.ch/thun?x=-1947&y=-3190&z=512), hanging around from [bridges](http://map.search.ch/thun?x=-2443&y=-4689&z=512) and then [chillaxing](https://boingboing.net/2005/05/29/w00t_is_a_favored_no.html) in the [eichholz](http://map.search.ch/thun?x=-15848&y=-25354&z=1024&e=1).
   
 the picture below shows manu and his sister just before [jumping from the bridge](https://habi.gna.ch/blog/images/MOV00568.MPG) (2.3 mb .mpg-movie) and lukas just hanging around below.
 

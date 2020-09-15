@@ -17,4 +17,4 @@ good night
 
 [![](https://habi.gna.ch/blog/images/balldroppings-tm.jpg)](https://habi.gna.ch/blog/images/balldroppings.jpg)
 
-[via [boingboing](http://boingboing.net/2004_01_01_archive.html#107393998643575566)]
+[via [boingboing](https://boingboing.net/2004_01_01_archive.html#107393998643575566)]

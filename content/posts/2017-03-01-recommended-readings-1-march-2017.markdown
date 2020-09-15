@@ -59,7 +59,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut: Video
   * [AI vs. AI. Two chatbots talking to each other](https://www.youtube.com/watch?v=WnzlbyTZsQY): I for one welcome our robot overlords :)
 
 
-  * [What a new house in Tokyo looks like](http://boingboing.net/2017/02/10/what-a-new-house-in-tokyo-look.html): Wenn mensch denn in Tokyo ein Haus kaufen würde.
+  * [What a new house in Tokyo looks like](https://boingboing.net/2017/02/10/what-a-new-house-in-tokyo-look.html): Wenn mensch denn in Tokyo ein Haus kaufen würde.
 
 
   * [12 Bar Blues - Piano Duet with Peter the Elephant](https://www.youtube.com/watch?v=hjsu3SGAdLs): Zweihändig und ein-rüssliges Klavierspiel

@@ -12,4 +12,4 @@ categories:
 
 if [these guys](http://perso.wanadoo.fr/parkour/parkourenglish/page16.html) are not [amazing](http://www.le-parkour.com/speedairman.ram), then you have an extremely high level of [unimpressiveability](http://dict.leo.org/?p=5qvU.&search=unimpressive)!
 
-[via [boingboing](http://boingboing.net/2003_11_01_archive.html#106814498918251939)]
+[via [boingboing](https://boingboing.net/2003_11_01_archive.html#106814498918251939)]

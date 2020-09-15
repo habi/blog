@@ -48,7 +48,7 @@ Im letzten Monat las ich folgende Texte/sah folgende Videos und fand diese gut:
   * [Scientific Peer Review Is Broken. We're Fighting to Fix It With Anonymity | WIRED](http://www.wired.com/2014/12/pubpeer-fights-for-anonymity/)
 
     
-  * [Launch | Boing Boing](http://boingboing.net/2014/12/06/launch-short-story.html)
+  * [Launch | Boing Boing](https://boingboing.net/2014/12/06/launch-short-story.html)
 
     
   * [Sturt Spurt](https://vimeo.com/112962674)

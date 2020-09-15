@@ -59,7 +59,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [This ingenious duvet cover trick will change your life](https://www.youtube.com/watch?v=DRPfudNNd8Y): Ich wechsle mein Duvet-Anzug nur noch so.
 
 
-  * [These are the Chinese bros who make bras and underwear](http://boingboing.net/2017/01/12/these-are-the-chinese-bros-who.html): Näh-Buddies
+  * [These are the Chinese bros who make bras and underwear](https://boingboing.net/2017/01/12/these-are-the-chinese-bros-who.html): Näh-Buddies
 
 
   * [Kruzah chook video](https://www.youtube.com/watch?v=F-fluUQApO8): Ein Pferd hat Spass mit dem [Gummihuhn Eulalia](http://fluegzueg.ch/index.php?a=fotoalbum&kat=vor+hundert+Jahren&bildnummer=20)

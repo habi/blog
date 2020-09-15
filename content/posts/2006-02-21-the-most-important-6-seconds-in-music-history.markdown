@@ -32,7 +32,7 @@ if you only have a slight interest in musical history you must watch it!
 
 
 
-[via [boingboing](http://www.boingboing.net/2006/02/21/video_explains_the_w.html)]
+[via [boingboing](https://boingboing.net/2006/02/21/video_explains_the_w.html)]
 
 
 

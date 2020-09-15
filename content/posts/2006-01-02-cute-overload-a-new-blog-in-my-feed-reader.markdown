@@ -11,11 +11,11 @@ categories:
 ---
 
 
-[![Cuteness](https://habi.gna.ch/blog/images/cuteness-tm.jpg)](https://habi.gna.ch/blog/images/cuteness.jpg)[Cute Overload](http://www.boingboing.net/2005/12/15/cute_overload.html), the name says it all. nothing but pictures of cute stuff, mostly animals and such. like [mark frauenfelder](http://boingboing.net/markf.html) said on boingboing, "Visiting it is like taking a happy pill". you absolutely must look at the [archives](http://mfrost.typepad.com/cute_overload/archives.html), there's a lot of cuddly stuff there. really!
+[![Cuteness](https://habi.gna.ch/blog/images/cuteness-tm.jpg)](https://habi.gna.ch/blog/images/cuteness.jpg)[Cute Overload](https://boingboing.net/2005/12/15/cute_overload.html), the name says it all. nothing but pictures of cute stuff, mostly animals and such. like [mark frauenfelder](https://boingboing.net/markf.html) said on boingboing, "Visiting it is like taking a happy pill". you absolutely must look at the [archives](http://mfrost.typepad.com/cute_overload/archives.html), there's a lot of cuddly stuff there. really!
 
 
 
-[via [boingboing](http://www.boingboing.net/2005/12/15/cute_overload.html)]
+[via [boingboing](https://boingboing.net/2005/12/15/cute_overload.html)]
 
 
 

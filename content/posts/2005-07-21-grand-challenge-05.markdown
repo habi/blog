@@ -17,7 +17,7 @@ at least there's hope, because a [contestant](http://team.gobanzai.com/home.html
 
 
 
-if you forgot how the last year's edition ended, then [this boingboing-post](http://www.boingboing.net/2004/03/30/darpa_grand_challeng.html) links to a [video excerpt](http://stc-www2.tamu.edu/grandchallenge/grandchallenge-high.wmv) (31mb .wmv) of the satellite-feed from the 04-edition, so you can see for yourself how [craptacularly](http://www.urbandictionary.com/define.php?term=craptacular) bad most of the autonomous vehicles drove.
+if you forgot how the last year's edition ended, then [this boingboing-post](https://boingboing.net/2004/03/30/darpa_grand_challeng.html) links to a [video excerpt](http://stc-www2.tamu.edu/grandchallenge/grandchallenge-high.wmv) (31mb .wmv) of the satellite-feed from the 04-edition, so you can see for yourself how [craptacularly](http://www.urbandictionary.com/define.php?term=craptacular) bad most of the autonomous vehicles drove.
 
 
 

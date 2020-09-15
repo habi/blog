@@ -13,4 +13,4 @@ categories:
 cannot afford an ipod?
 then [click here](http://www.mijnkopthee.nl/images/cheap_ipod.jpg), print out, cut at the according lines, bend, glue and be happy :-)
 
-(link from various sites over the net, including [gizmodo](http://www.gizmodo.com/), [ipodlounge](http://www.ipodlounge.com/) and [boingboing](http://boingboing.net/))
+(link from various sites over the net, including [gizmodo](http://www.gizmodo.com/), [ipodlounge](http://www.ipodlounge.com/) and [boingboing](https://boingboing.net/))

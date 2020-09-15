@@ -26,7 +26,7 @@ Dropped into the middle of a mission and faced with the prospect of climbing int
 </blockquote>
 
 
-[via [boingboing](http://www.boingboing.net/2006/05/12/mahcinima_about_a_ga.html)]
+[via [boingboing](https://boingboing.net/2006/05/12/mahcinima_about_a_ga.html)]
 
 
 

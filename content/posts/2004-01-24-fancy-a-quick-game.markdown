@@ -12,4 +12,4 @@ categories:
 
 [dolphin dash](http://www.mausland.de/dolphin.swf) could not have been named better. a fast-paced game in which you have to guide a dolphin to collect coins, featuring a past-paced surf guitar soundtrack and a freakingly colorful background. (375 kb flash game)
 
-[via [boingboing](http://boingboing.net/2004_01_01_archive.html#107493082102407281)]
+[via [boingboing](https://boingboing.net/2004_01_01_archive.html#107493082102407281)]

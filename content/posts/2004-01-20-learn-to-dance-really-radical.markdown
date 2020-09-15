@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-[boinboing's link-fu-competition](http://boingboing.net/2004_01_01_archive.html#107461898444256062) is always a plethora of really weird stuff, but this one blows it all!  
+[boinboing's link-fu-competition](https://boingboing.net/2004_01_01_archive.html#107461898444256062) is always a plethora of really weird stuff, but this one blows it all!  
 
 [![](https://habi.gna.ch/blog/images/diskofinska-tm.jpg)](https://habi.gna.ch/blog/images/diskofinska.jpg)  [![](https://habi.gna.ch/blog/images/diskofinska2-tm.jpg)](https://habi.gna.ch/blog/images/diskofinska2.jpg)  
 
@@ -18,7 +18,7 @@ a [movie](http://jimmac.musichall.cz/stuff/Discofinska.mpeg) (probably czech acc
 
 
 
-[boingboing](http://boingboing.net)'s link-Fu is an online competition where during a predetermined period of time boingboing readers send a url that links to a very weird something, somewhere.  
+[boingboing](https://boingboing.net)'s link-Fu is an online competition where during a predetermined period of time boingboing readers send a url that links to a very weird something, somewhere.  
 
 
 other winners are:

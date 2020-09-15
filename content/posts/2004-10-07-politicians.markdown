@@ -14,4 +14,4 @@ is it funny? or is it really, really scary?
 i don't know what to think of [that movie](http://home.earthlink.net/~houval/gopconstrm.mov) (5.7mb .mov) in which someone edited all fear-inducing flowery phrases spoken at the [rnc](http://www.rncnotwelcome.org/) into one hypnotizing stream of words that start to loose the connection to reality.
 think for yourself might be one consequence. don't trust the words of those governing you...
 
-[via [boingboing](http://www.boingboing.net/2004/10/07/gop_fearphrase_video.html)]
+[via [boingboing](https://boingboing.net/2004/10/07/gop_fearphrase_video.html)]

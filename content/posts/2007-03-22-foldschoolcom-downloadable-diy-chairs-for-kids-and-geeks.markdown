@@ -25,7 +25,7 @@ you just need some scrap cardboard and the printed patterns from nicola, some ti
 
 i you can't quite figure it out how it looks, he even provides you with a 3D-model of the [stool](http://www.foldschool.com/_objects/quicktime/stool.html), [chair](http://www.foldschool.com/_objects/quicktime/chair.html) and [rocker](http://www.foldschool.com/_objects/quicktime/rocker.html).
 
-and yes, he's [all over the web](http://technorati.com/search/foldschool) already and even got [BBed](http://www.boingboing.net/2007/03/21/fold_your_own_kids_f.html)!
+and yes, he's [all over the web](http://technorati.com/search/foldschool) already and even got [BBed](https://boingboing.net/2007/03/21/fold_your_own_kids_f.html)!
 congratulations nicola!
 
 [1]: [matthias](http://www.gutfeldt.ch/matthias/blog/index.php), ein wochenendprojekt mit deinen kids? die fotos würd ich gerne dann auch sehen!

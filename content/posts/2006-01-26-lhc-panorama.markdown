@@ -21,7 +21,7 @@ sigi, barni and herman, do you remember how we stood in those halls some years a
 
 
 
-[via [boingboing](http://www.boingboing.net/2005/11/25/qtvr_of_large_hadron.html)]
+[via [boingboing](https://boingboing.net/2005/11/25/qtvr_of_large_hadron.html)]
 
 
 
