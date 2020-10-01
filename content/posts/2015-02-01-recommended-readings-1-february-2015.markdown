@@ -31,7 +31,7 @@ Auf [Vorschlag von Philipp](http://fime.ch/leisure-suite/2015/01/11/weekend-read
   * [WhatsApp doesn't understand the web](http://andregarzia.com/posts/en/whatsappdoesntunderstandtheweb/): WhatsApp hat einen WebClient veröffentlicht. Wieso das nur halb so gut ist, wie's zuerst tönt, erklärt Andre Garzia. [Ich](https://telegram.me/davidhaberthuer) verwende weiter [Telegram](https://telegram.org), das funktioniert mindestens so gut, auch wenn Telegram gegenüber WhatsApp auf der [Metcalfe-Skala](https://de.wikipedia.org/wiki/Metcalfesches_Gesetz) weniger gut abschneidet.
 
     
-  * [What David Cameron just proposed would endanger every Briton and destroy the IT industry](http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html): Kurzsichtige Politiker sind kurzsichtig.
+  * [What David Cameron just proposed would endanger every Briton and destroy the IT industry](https://boingboing.net/2015/01/13/what-david-cameron-just-propos.html): Kurzsichtige Politiker sind kurzsichtig.
 
     
   * [Playing with Power](https://vimeo.com/116585007): Etwas grübeln in der Mottenkiste, etwas Elektronik zusammen mit Gehirnschmalz und schon entsteht daraus ein hilfreiches Werkzeug, das auch noch Freude macht.

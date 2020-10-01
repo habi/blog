@@ -12,7 +12,7 @@ categories:
 
 [![newsfire](https://habi.gna.ch/blog/images/newsfire-tm.jpg)](https://habi.gna.ch/blog/images/newsfire.jpg)i can hardly remember the last time i blogged about new software i installed on my trusty ibook. now [newsfire 0.2](http://www.newsfirerss.com/) (!) gets the honor to be featured here.
 since i discovered the beauty and simpleness of reading most of the web via rss i've been using [netnewswire lite](http://ranchero.com/netnewswire/) for all my rss-needs.
-(btw: [xeni jardin](http://xeni.net/) (of [boingboing](http://boingboing.net/)-fame)  explains the whole rss-thing it nicely in her [article](http://www.wired.com/wired/archive/12.04/start.html?pg=7) for WIRED 12.04).
+(btw: [xeni jardin](http://xeni.net/) (of [boingboing](https://boingboing.net/)-fame)  explains the whole rss-thing it nicely in her [article](http://www.wired.com/wired/archive/12.04/start.html?pg=7) for WIRED 12.04).
   
 
 since two of my fafourite mac-blogs ([fscklog](http://www.fscklog.com/2004/09/macorama_f252r__3.html) and [powerbook-blogger](http://powerbook.blogger.de/stories/145358/)) seem to like it, i thought i'd give it a go and installed that impressive piece of software. i can hardly believe that the version number is 0.2!

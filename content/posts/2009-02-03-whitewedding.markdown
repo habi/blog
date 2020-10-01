@@ -13,4 +13,4 @@ categories:
   
 obwohl songsmith [wirklich grauenhaft](http://www.fscklog.com/2009/01/songsmith-grauen-ala-microsoft-research-video.html) ist; diese version des billy idol klassikers geht ab!
 
-[via [boingboing](http://www.boingboing.net/2009/02/02/songsmithed-version.html)]
+[via [boingboing](https://boingboing.net/2009/02/02/songsmithed-version.html)]

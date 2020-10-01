@@ -15,5 +15,5 @@ this day seems to be musical: the kleptones have released another mashup album: 
 
 
 
-[via [boingboing](http://www.boingboing.net/2005/02/04/new_kleptones_mashup.html)]
+[via [boingboing](https://boingboing.net/2005/02/04/new_kleptones_mashup.html)]
 

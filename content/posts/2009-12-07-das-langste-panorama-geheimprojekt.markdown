@@ -34,7 +34,7 @@ ein panorama mit herzblut, aber für die freude der beschenkten hat sich jede mi
 
 übrigens: da herr hämmann als einziger [mitrater die richtige lösung gewusst hat,](https://habi.gna.ch/2009/10/14/durchschnittliche-hochzeitsbesucher/#comment-12688) kommt er morgen zum znacht, also kann ich das #geheimprojekt abschliessen und wende mich dem nächsten zu.
 
-[1] der übrigens auch hinter dem [famosen titelbild](http://www.arua.ch/insp/206.html) des [velokurierbuches](http://www.velokurierbern.ch/ueber-uns/velokurierbuch.html) steckt.
+[1] der übrigens auch hinter dem [famosen titelbild](http://www.arua.ch/insp/206.html) des [velokurierbuches](https://velokurierbern.ch/ueber-uns/velokurierbuch.html) steckt.
 
 [2] dank dem unglaublichen [liquid-rescale plugin](http://liquidrescale.wikidot.com/) für den gimp
 

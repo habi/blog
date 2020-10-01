@@ -14,11 +14,11 @@ tags:
 - zürich
 ---
 
-[![](http://farm9.staticflickr.com/8364/8427985250_d59ab2cea1_m.jpg)](https://www.flickr.com/photos/habi/8427985250/)   
+
+[![](https://static.flickr.com/8364/8427985250_d59ab2cea1_m.jpg)](https://www.flickr.com/photos/habi/8427985250/)   
+
 [Hallenbad City](https://www.flickr.com/photos/habi/8427985250/)   
 Originally uploaded by [habi](https://www.flickr.com/photos/habi/). 
 
-
-
-
-Heute mal zu Besuch im Training der Limmat Sharks Zürich. Ein wunderschönes Bad. 
+Heute mal zu Besuch im Training der Limmat Sharks Zürich.
+Ein wunderschönes Bad.

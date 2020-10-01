@@ -11,4 +11,4 @@ categories:
 ---
 
 the [french ministry of culture](http://www.culture.gouv.fr/) has some really nice [404-error-pages](http://www.culture.gouv.fr/culture/actualites/politique/pagsi/)!
-(through [Boing Boing](http://boingboing.net/))
+(through [Boing Boing](https://boingboing.net/))

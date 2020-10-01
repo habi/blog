@@ -14,4 +14,4 @@ as diggory says, the [photo diary of a motorcycle tour](http://www.angelfire.com
 
 [via [monkeyfood](http://www.monkeyfood.com/blog/archives/000103.html)]
 
-**update:** [boingboing](http://www.boingboing.net/2004/05/26/girl_photoblogs_cher.html) notes that this story probably is some kind of hoax. nonetheless the whole story behind the story is unbelievably sad and should never ever happen again. nowhere!
+**update:** [boingboing](https://boingboing.net/2004/05/26/girl_photoblogs_cher.html) notes that this story probably is some kind of hoax. nonetheless the whole story behind the story is unbelievably sad and should never ever happen again. nowhere!

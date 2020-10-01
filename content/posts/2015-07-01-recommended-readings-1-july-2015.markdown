@@ -33,7 +33,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut: Text
   * [Der amerikanische Albtraum](http://www.spiegel.de/spiegel/print/d-133262179.html): 22 Jahre Einzelhaft und dann freigesprochen werden. Das Drama eines zerstörten Lebens.
 
 
-  * [The Man Who Sold The Moon](http://boingboing.net/2015/05/22/the-man-who-sold-the-moon.html): Eine poetische Kurznovelle von [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow). Ich hab' weniger als die angegebenen zwei Stunden gebraucht, gelohnt hätten sich auch diese.
+  * [The Man Who Sold The Moon](https://boingboing.net/2015/05/22/the-man-who-sold-the-moon.html): Eine poetische Kurznovelle von [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow). Ich hab' weniger als die angegebenen zwei Stunden gebraucht, gelohnt hätten sich auch diese.
 
 
   * [Obdachlos trotz Pension: Der Beamte, der im Wald lebt](http://www.tagesspiegel.de/themen/reportage/obdachlos-trotz-pension-der-beamte-der-im-wald-lebt/v_print/11798250.html?p=): Eine Geschichte über einen der 300000 Obdachlosen in Deutschland.

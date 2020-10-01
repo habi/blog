@@ -10,19 +10,7 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/8194/8147958131_244547d99f_m.jpg)](https://www.flickr.com/photos/habi/8147958131/)
 
- [![](http://farm9.staticflickr.com/8194/8147958131_244547d99f_m.jpg)](https://www.flickr.com/photos/habi/8147958131/)
-   
-
- 
-  [So'n Scheiss!](https://www.flickr.com/photos/habi/8147958131/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
-
-
-  
-
+[So'n Scheiss!](https://www.flickr.com/photos/habi/8147958131/)
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).

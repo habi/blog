@@ -10,7 +10,9 @@ categories:
 - personal
 ---
 
-[![Zmorge am See by habi](http://farm4.staticflickr.com/3716/10686102943_5d210a943c.jpg)](https://www.flickr.com/photos/habi/10686102943/)  
+[![Zmorge am See by habi](https://static.flickr.com/3716/10686102943_5d210a943c.jpg)](https://www.flickr.com/photos/habi/10686102943/)  
+
 [Zmorge am See](https://www.flickr.com/photos/habi/10686102943/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
-Sitzungen in Lausanne sind immer fast wie kleine Ferien am Meer. Mensch muss einfach eine halbe Stunde früher als nötig gehen und  am See zmörgele...
+Sitzungen in Lausanne sind immer fast wie kleine Ferien am Meer.
+Mensch muss einfach eine halbe Stunde früher als nötig gehen und  am See zmörgele...

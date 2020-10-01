@@ -20,7 +20,7 @@ tags:
 - vully
 ---
 
-![](https://farm2.staticflickr.com/1875/42763069300_9cb30f5111_b.jpg)  
+![](https://static.flickr.com/1875/42763069300_9cb30f5111_b.jpg)  
 
   
 

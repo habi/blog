@@ -10,7 +10,8 @@ categories:
 - personal
 ---
 
-[![Ulmizer by habi](http://farm9.staticflickr.com/8528/8680536559_8039940cfc.jpg)](https://www.flickr.com/photos/habi/8680536559/)  
+[![Ulmizer by habi](https://static.flickr.com/8528/8680536559_8039940cfc.jpg)](https://www.flickr.com/photos/habi/8680536559/)  
+
 [Ulmizer](https://www.flickr.com/photos/habi/8680536559/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 Obwohl noch nicht alles definitiv angeschraubt ist, hatten ich und mein erstes Mountainbike eine gelungene Jungfernfahrt.

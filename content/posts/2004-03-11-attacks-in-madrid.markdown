@@ -12,4 +12,4 @@ categories:
 
 [![](https://habi.gna.ch/blog/images/20040311elpepuopi_1_G_LCO.gif)](http://news.google.ch/news?hl=de&edition=de&q=madrid&btnG=News-Suche)
 
-[image via [boingboing](http://boingboing.net/2004_03_01_archive.html#107901481879871866)]
+[image via [boingboing](https://boingboing.net/2004_03_01_archive.html#107901481879871866)]

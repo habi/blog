@@ -10,19 +10,10 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/7168/6694935307_58365205ac_m.jpg)](https://www.flickr.com/photos/habi/6694935307/)
 
- [![](http://farm8.staticflickr.com/7168/6694935307_58365205ac_m.jpg)](https://www.flickr.com/photos/habi/6694935307/)
-   
+[Matterhorn](https://www.flickr.com/photos/habi/6694935307/)
 
- 
-  [Matterhorn](https://www.flickr.com/photos/habi/6694935307/)
-    
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
 
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
-
-Einfach immer wieder ein imposanter Bitz Fels
-  
-
+Einfach immer wieder ein imposanter Bitz Fels.

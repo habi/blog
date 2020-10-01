@@ -11,9 +11,9 @@ categories:
 ---
 
 
-want to listen to some cool tunes, including funk, cool hip-hop and other more than delicious tunes? then [wefunkradio.com](http://www.wefunkradio.com/) is perfect for you. like [xeni noted](http://www.boingboing.net/2004/11/01/wefunkradiocom.html), it's a brillinat mixture of tunes and very hard to turn off, once you tuned in into [it's live-stream](http://www.wefunkradio.com/play/shoutcast.pls).
+want to listen to some cool tunes, including funk, cool hip-hop and other more than delicious tunes? then [wefunkradio.com](http://www.wefunkradio.com/) is perfect for you. like [xeni noted](https://boingboing.net/2004/11/01/wefunkradiocom.html), it's a brillinat mixture of tunes and very hard to turn off, once you tuned in into [it's live-stream](http://www.wefunkradio.com/play/shoutcast.pls).
 
 
 
-[via [boingboing](http://www.boingboing.net/2004/11/01/wefunkradiocom.html)] 
+[via [boingboing](https://boingboing.net/2004/11/01/wefunkradiocom.html)] 
 

@@ -25,7 +25,7 @@ use google to find "vunerable" security cams. if you take a look at [this google
 
 
 
-[via [boingboing](http://www.boingboing.net/2005/01/04/googling_unsecured_w.html) and [metafilter](http://www.metafilter.com/mefi/38357%2523814827)]
+[via [boingboing](https://boingboing.net/2005/01/04/googling_unsecured_w.html) and [metafilter](http://www.metafilter.com/mefi/38357%2523814827)]
 
 
 
@@ -33,5 +33,5 @@ use google to find "vunerable" security cams. if you take a look at [this google
 
 
 
-**update2**: here's some more on this on [boinboing](http://www.boingboing.net/2005/01/05/more_googleable_unse.html).
+**update2**: here's some more on this on [boinboing](https://boingboing.net/2005/01/05/more_googleable_unse.html).
 

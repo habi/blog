@@ -11,13 +11,13 @@ categories:
 ---
 
 
-[![Penguinjump](https://habi.gna.ch/blog/images/penguinjump-tm.jpg)](https://habi.gna.ch/blog/images/penguinjump.jpg)today was a reeeealy slow day at work, so i was catching up with the posts on [boingboing.net](http://www.boingboing.net/). while checking out the entries on t[he latest web-zen pos](http://www.boingboing.net/2004/12/26/web_zen_holiday_left.html)t i found [this marvelous penguin game](http://www.macromedia.com/macromedia/holiday2004/), a holiday greeting from macromedia.com. it seams that i've been really lucky, because managed to impress the "judges", i made 29.4 points.
+[![Penguinjump](https://habi.gna.ch/blog/images/penguinjump-tm.jpg)](https://habi.gna.ch/blog/images/penguinjump.jpg)today was a reeeealy slow day at work, so i was catching up with the posts on [boingboing.net](https://boingboing.net/). while checking out the entries on t[he latest web-zen pos](https://boingboing.net/2004/12/26/web_zen_holiday_left.html)t i found [this marvelous penguin game](http://www.macromedia.com/macromedia/holiday2004/), a holiday greeting from macromedia.com. it seams that i've been really lucky, because managed to impress the "judges", i made 29.4 points.
   
 can you beat me? leave a comment!
 
 
 
-[via [boingboing](http://www.boingboing.net/2004/12/26/web_zen_holiday_left.html)]
+[via [boingboing](https://boingboing.net/2004/12/26/web_zen_holiday_left.html)]
 
 
 

@@ -42,7 +42,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [The spy who couldn’t spell: how the biggest heist in the history of US espionage was foiled](https://www.theguardian.com/world/2016/oct/26/spy-couldnt-spell-how-biggest-heists-us-espionage-history-foiled): Nach dem Lesen dieses Auszugs aus [diesem Buch](www.penguinrandomhouse.com/books/316456/) habe ich mir gerade die eBook-Version davon gekauft. Eine packend geschriebene Agenten-Story.
 
 
-  * [A madman has been given the keys to the surveillance state](http://boingboing.net/2016/11/09/a-madman-has-been-given-the-ke.html): Habt ihr euch eigentlich die Konsequenzen eurer Ja-Stimmen am [27. September](https://www.admin.ch/ch/d/pore/va/20160925/det607.html) überlegt?
+  * [A madman has been given the keys to the surveillance state](https://boingboing.net/2016/11/09/a-madman-has-been-given-the-ke.html): Habt ihr euch eigentlich die Konsequenzen eurer Ja-Stimmen am [27. September](https://www.admin.ch/ch/d/pore/va/20160925/det607.html) überlegt?
 
 
   * [Dissolve My Nobel Prize! Fast!](http://www.npr.org/sections/krulwich/2011/10/03/140815154/dissolve-my-nobel-prize-fast-a-true-story): Nochmals Nazi-Content, aber ganz anders: [Niels Bohr](https://de.wikipedia.org/wiki/Niels_Bohr) musste 1940 flink zwei Nobelpreis-Medallien vor den einwandernden Nazis verstecken. Was macht ein Physiker in so einer Lage? Er fragt einen befreundeten Chemiker, wie das am besten zu bewerkstelligen sei und löst das Gold in einer krassen Säure, stellt die Medallien in den Schaft und wartet, bis die Nazis wieder weg sind.

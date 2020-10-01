@@ -14,6 +14,6 @@ categories:
 [teddy](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/teddy/teddy.htm) (and its successor [smoothTeddy](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/java/smoothteddy/index.html)) is a an amanzinly nifty looking 3d-modeling java applet  which looks freakingly easy to use.
 download the [32mb-avi-demo video](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/video/teddy.avi), take a look at it and be amazed!
 
-[via [boingboing](http://boingboing.net/2003_12_01_archive.html#107124334911484813)]
+[via [boingboing](https://boingboing.net/2003_12_01_archive.html#107124334911484813)]
 
 **update**: sad it doesn't work that well on a mac...

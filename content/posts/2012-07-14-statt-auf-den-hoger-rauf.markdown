@@ -10,19 +10,11 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/8166/7567466714_04e5ff5254_m.jpg)](https://www.flickr.com/photos/habi/7567466714/)
 
- [![](http://farm9.staticflickr.com/8166/7567466714_04e5ff5254_m.jpg)](https://www.flickr.com/photos/habi/7567466714/)
-   
+[Statt auf den Hoger rauf...](https://www.flickr.com/photos/habi/7567466714/)
 
- 
-  [Statt auf den Hoger rauf...](https://www.flickr.com/photos/habi/7567466714/)
-    
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
 
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
-
-... in den See rein. Ist auch schön!
-  
-
+...in den See rein.
+Ist auch schön!:

@@ -19,4 +19,4 @@ fun - [perfect day from lou reed](http://phobos.apple.com/WebObjects/MZStore.woa
 
 hmm, that could become a contest, post your song to recognize in the comments! (you can send the song to your email to get the direct link to it.) or do you recognize more samples than i do in my song?
 
-[original link via [boingboing](http://boingboing.net/2003_11_01_archive.html#106907762618928207), but the text is mine :-)]
+[original link via [boingboing](https://boingboing.net/2003_11_01_archive.html#106907762618928207), but the text is mine :-)]

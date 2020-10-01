@@ -16,4 +16,6 @@ compare the [winner](http://www.schweizerfleisch.ch/images/events/Olma03/Sieger-
 oh, and btw: [a huge amount of people](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html) might wonder how i always find obscure links like these.
 
 this time it's a simple chain reaction.
-[we from bern](https://velokurierbern.ch/) won the right to host the [suicmc04](http://suicmc.ch/). while looking for sponsors i talked with lusche from [klink](http://klink.ch/) (webpartner of the [velokurier](http://velokurierbern.ch/)), he's got a contact with [bluewin](http://bluewin.ch/) for potential sponsoring. to be able to talk with him i needed to get his [phonenumber](http://klink.ch/html/de/klink/index.html), so i surfed to [klink.ch](http://klink.ch/) and saw that they programmed a image-database for [swiss meat](http://www.schweizerfleisch.ch/). not too hard, 'aight?
+[we from bern](https://velokurierbern.ch/) won the right to host the [suicmc04](http://suicmc.ch/). while looking for sponsors i talked with lüsche from [klink](http://klink.ch/) (webpartner of the [velokurier](https://velokurierbern.ch/)), he's got a contact with [bluewin](http://bluewin.ch/) for potential sponsoring.
+to be able to talk with him i needed to get his [phonenumber](http://klink.ch/html/de/klink/index.html), so i surfed to [klink.ch](http://klink.ch/) and saw that they programmed a image-database for [swiss meat](http://www.schweizerfleisch.ch/).
+not too hard, 'aight?

@@ -18,7 +18,7 @@ tags:
 - thun
 ---
 
-![](https://farm1.staticflickr.com/920/29308655768_ab42c79fa3_b.jpg)  
+![](https://static.flickr.com/920/29308655768_ab42c79fa3_b.jpg)  
 
   
 

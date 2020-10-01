@@ -30,7 +30,7 @@ the second video shows [kayne west](http://www.kanyewest.com/) yelling a rather 
 
 
 
-[via [boingboing](http://www.boingboing.net/2005/09/03/kanye_west_george_bu.html), [glider](http://iam.bmezine.com/iams.exe?cmd=find&username=glider&datematch=200509040754) (or go [here](http://www.zentastic.com/entries/200509040754.html)) and [technorati](http://technorati.com/search/katrina)]
+[via [boingboing](https://boingboing.net/2005/09/03/kanye_west_george_bu.html), [glider](http://iam.bmezine.com/iams.exe?cmd=find&username=glider&datematch=200509040754) (or go [here](http://www.zentastic.com/entries/200509040754.html)) and [technorati](http://technorati.com/search/katrina)]
 
 
 

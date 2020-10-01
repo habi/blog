@@ -10,5 +10,7 @@ categories:
 - personal
 ---
 
-[![Kurz vor dem Tagesziel by habi](http://farm8.staticflickr.com/7401/8729008282_7420423d62.jpg)](https://www.flickr.com/photos/habi/8729008282/)  
+
+[![Kurz vor dem Tagesziel by habi](https://static.flickr.com/7401/8729008282_7420423d62.jpg)](https://www.flickr.com/photos/habi/8729008282/)  
+
 [Kurz vor dem Tagesziel](https://www.flickr.com/photos/habi/8729008282/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.

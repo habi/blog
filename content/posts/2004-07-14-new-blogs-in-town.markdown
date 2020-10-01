@@ -20,4 +20,4 @@ here are the three new blogs i added to my rss-reader:
 
 (guess which one i added for for real :-)
 
-[via [elbewerk](http://elbewerk.com/2004/06/bill-gates-blog.shtml) and [boingboing](http://www.boingboing.net/2004/07/14/hulkblog_smash.html)]
+[via [elbewerk](http://elbewerk.com/2004/06/bill-gates-blog.shtml) and [boingboing](https://boingboing.net/2004/07/14/hulkblog_smash.html)]

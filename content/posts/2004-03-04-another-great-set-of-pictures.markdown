@@ -12,4 +12,4 @@ categories:
 
 [loretta lux](http://www.yossimilogallery.com/lorettaLux/) photographs kids, scans their subjects and places them on a separate background which results in quite eerie pictures. most of the kids seem to be generated through cgi, but it's all the real thing.
 
-[via [boingboing](http://boingboing.net/2004_03_01_archive.html#107833535780709911) and the [NY Times](http://www.nytimes.com/2004/02/29/arts/design/29WOOD.html?ex=1079335326&ei=1&en=fa0f958056f2bd37)]
+[via [boingboing](https://boingboing.net/2004_03_01_archive.html#107833535780709911) and the [NY Times](http://www.nytimes.com/2004/02/29/arts/design/29WOOD.html?ex=1079335326&ei=1&en=fa0f958056f2bd37)]

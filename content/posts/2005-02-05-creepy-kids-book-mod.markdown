@@ -16,7 +16,7 @@ categories:
 
   
 
-[via [boingboing](http://www.boingboing.net/2005/02/04/religious_picture_bo.html)]
+[via [boingboing](https://boingboing.net/2005/02/04/religious_picture_bo.html)]
 
 
 

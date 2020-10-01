@@ -10,23 +10,11 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/8195/8077503897_ba1d2548db_m.jpg)](https://www.flickr.com/photos/habi/8077503897/)
 
- [![](http://farm9.staticflickr.com/8195/8077503897_ba1d2548db_m.jpg)](https://www.flickr.com/photos/habi/8077503897/)
-   
+[Neuenburgersee](https://www.flickr.com/photos/habi/8077503897/)
 
- 
-  [Neuenburgersee](https://www.flickr.com/photos/habi/8077503897/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
 
 Im letzten Abendlicht abtauchen, wunderschön!  
-
-  
-
 Und übrigens; das ist das neue Panorama-Feature in iOS 6.
-  
-

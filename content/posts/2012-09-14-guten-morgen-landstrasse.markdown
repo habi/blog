@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/8443/7984771263_fdb194e1dd_m.jpg)](https://www.flickr.com/photos/habi/7984771263/)
 
- [![](http://farm9.staticflickr.com/8443/7984771263_fdb194e1dd_m.jpg)](https://www.flickr.com/photos/habi/7984771263/)
-   
+[Guten Morgen, Landstrasse](https://www.flickr.com/photos/habi/7984771263/)
 
- 
-  [Guten Morgen, Landstrasse](https://www.flickr.com/photos/habi/7984771263/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
-
-
-  
-
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).

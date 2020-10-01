@@ -15,6 +15,6 @@ tags:
 - moblog
 ---
 
-![](https://farm8.staticflickr.com/7583/15960041338_eb02289fc4_b.jpg)  
+![](https://static.flickr.com/7583/15960041338_eb02289fc4_b.jpg)  
 
 from [Flickr](http://flic.kr/p/qjkofw) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

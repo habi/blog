@@ -12,4 +12,4 @@ categories:
 
 do you like seventhies-furniture? think about it after you've seen [this collection](http://www.omodern.com/Eurobad/euro.html)!
 
-[via [boingboing](http://www.boingboing.net/2004/06/28/70s_eurofurnishings_.html)]
+[via [boingboing](https://boingboing.net/2004/06/28/70s_eurofurnishings_.html)]

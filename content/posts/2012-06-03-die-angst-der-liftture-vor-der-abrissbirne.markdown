@@ -10,19 +10,10 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/7216/7328259002_b293f1d286_m.jpg)](https://www.flickr.com/photos/habi/7328259002/)
 
- [![](http://farm8.staticflickr.com/7216/7328259002_b293f1d286_m.jpg)](https://www.flickr.com/photos/habi/7328259002/)
-   
+[Die Angst der Lifttüre vor der Abrissbirne](https://www.flickr.com/photos/habi/7328259002/)
 
- 
-  [Die Angst der Lifttüre vor der Abrissbirne](https://www.flickr.com/photos/habi/7328259002/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
 
 Neuerdings freie Sicht auf der Postauto-Platte...
-  
-

@@ -23,4 +23,4 @@ _Nomen_: Das Gefühl, etwas Wunderbares zu fotografieren, wenn schon tausende vo
 
 http://www.youtube.com/watch?v=8ftDjebw8aA
 
-[via [BoingBoing](http://boingboing.net/2014/12/03/video-that-photo-has-probably.html)]
+[via [BoingBoing](https://boingboing.net/2014/12/03/video-that-photo-has-probably.html)]

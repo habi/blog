@@ -104,7 +104,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
 Sone Chäs!
 
 
-  * [Meet this nauseating family of social media "influencers"](http://boingboing.net/2017/07/03/meet-this-nauseatiing-social-m.html) (boingboing.net)
+  * [Meet this nauseating family of social media "influencers"](https://boingboing.net/2017/07/03/meet-this-nauseatiing-social-m.html) (boingboing.net)
 Satire, aber wahrscheinlich nur knapp...
 
 

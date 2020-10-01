@@ -10,19 +10,10 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/8447/8010170061_dc1b995d04_m.jpg)](https://www.flickr.com/photos/habi/8010170061/)
 
- [![](http://farm9.staticflickr.com/8447/8010170061_dc1b995d04_m.jpg)](https://www.flickr.com/photos/habi/8010170061/)
-   
+[Blick am Abend](https://www.flickr.com/photos/habi/8010170061/)
 
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
  
-  [Blick am Abend](https://www.flickr.com/photos/habi/8010170061/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
-
 Jaja die Journis: Immer mal wieder über die Gratiskultur motzen, aber für den reisserischen Bericht über das Puff in der Lorraine gschwing einen Screenshot aus Google Streetview ohne Quellenangabe (und mit Markierungspin) ins Blatt hauen...
-  
-

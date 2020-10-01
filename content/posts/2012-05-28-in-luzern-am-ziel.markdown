@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/8166/7287112276_06be6747c2_m.jpg)](https://www.flickr.com/photos/habi/7287112276/)
 
- [![](http://farm9.staticflickr.com/8166/7287112276_06be6747c2_m.jpg)](https://www.flickr.com/photos/habi/7287112276/)
-   
+[In Luzern am Ziel](https://www.flickr.com/photos/habi/7287112276/)
 
- 
-  [In Luzern am Ziel](https://www.flickr.com/photos/habi/7287112276/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
-
-
-  
-
+Originally uploaded by [habi](https://www.flickr.com/photos/habi/).

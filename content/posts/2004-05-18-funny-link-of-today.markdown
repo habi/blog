@@ -14,4 +14,4 @@ categories:
 you know why :-)
 anyone other than my sister might not think it's funny. sorry.
 
-[via [boingboing](http://www.boingboing.net/2004/05/17/design_evolution_of_.html)]
+[via [boingboing](https://boingboing.net/2004/05/17/design_evolution_of_.html)]

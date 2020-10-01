@@ -18,5 +18,5 @@ i wonder if the paper i just finished is going to help me with my already long-r
 
 
 
-[via [boingboing](http://www.boingboing.net/2005/04/13/gpled_code_generates.html)]
+[via [boingboing](https://boingboing.net/2005/04/13/gpled_code_generates.html)]
 

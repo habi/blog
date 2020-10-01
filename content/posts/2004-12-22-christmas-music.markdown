@@ -15,5 +15,5 @@ categories:
 
 
 
-[via [boingboing](http://www.boingboing.net/2004/12/21/tijuana_christmas_mp.html)]
+[via [boingboing](https://boingboing.net/2004/12/21/tijuana_christmas_mp.html)]
 

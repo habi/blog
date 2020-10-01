@@ -10,13 +10,8 @@ categories:
 - personal
 ---
 
+[![SwissFEL-Baustelle by habi](https://static.flickr.com/5499/9564352230_c5660b8ca8.jpg)](https://www.flickr.com/photos/habi/9564352230/)  
 
-  [![SwissFEL-Baustelle by habi](http://farm6.staticflickr.com/5499/9564352230_c5660b8ca8.jpg)](https://www.flickr.com/photos/habi/9564352230/)  
-
-  [SwissFEL-Baustelle](https://www.flickr.com/photos/habi/9564352230/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
-
-
-
-
+[SwissFEL-Baustelle](https://www.flickr.com/photos/habi/9564352230/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
 [Das](http://www.psi.ch/swissfel/) wird fei ein Ding!

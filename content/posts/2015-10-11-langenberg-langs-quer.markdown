@@ -15,5 +15,5 @@ tags:
 - moblog
 ---
 
-[![Längenberg, längs & quer](https://farm1.staticflickr.com/639/21466997274_9da665cee3_z.jpg)](https://www.flickr.com/photos/habi/21466997274/in/dateposted/)
+[![Längenberg, längs & quer](https://static.flickr.com/639/21466997274_9da665cee3_z.jpg)](https://www.flickr.com/photos/habi/21466997274/in/dateposted/)
 from [Flickr](http://flic.kr/p/yGXYoE) via [IFTTT](http://ift.tt/1c4nCfM).
