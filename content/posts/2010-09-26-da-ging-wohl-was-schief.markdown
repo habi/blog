@@ -10,21 +10,11 @@ categories:
 - personal
 ---
 
-
- [![](https://static.flickr.com/4086/5027080923_40490971b3_m.jpg)](https://www.flickr.com/photos/habi/5027080923/)
+[![](https://static.flickr.com/4086/5027080923_40490971b3_m.jpg)](https://www.flickr.com/photos/habi/5027080923/)
    
-
- 
-  [Da ging wohl 'was schief](https://www.flickr.com/photos/habi/5027080923/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
+[Da ging wohl 'was schief](https://www.flickr.com/photos/habi/5027080923/)
 
 Liebe Sonntagszeitung.  
 
-Deine iPad-App ist ja schon nicht schlecht, aber die Titelei, da musst du dir noch mehr Mühe geben... Und das mit den Bindestrichen klappt auch noch nicht so gut.
-  
-
+Deine iPad-App ist ja schon nicht schlecht, aber die Titelei, da musst du dir noch mehr Mühe geben...
+Und das mit den Bindestrichen klappt auch noch nicht so gut.

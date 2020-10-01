@@ -10,19 +10,9 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/4143/4879817649_6127edbf09_m.jpg)](https://www.flickr.com/photos/habi/4879817649/)
 
- [![](https://static.flickr.com/4143/4879817649_6127edbf09_m.jpg)](https://www.flickr.com/photos/habi/4879817649/)
-   
+[Wie ein Traum](https://www.flickr.com/photos/habi/4879817649/)
 
- 
-  [Wie ein Traum](https://www.flickr.com/photos/habi/4879817649/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
-
-Eben noch in den Höhen von Island die Schuhe dreckig-gewandert, jetzt schon wieder in der Schweiz. Ferien sind immer viel zu schnell vorbei.
-  
-
+Eben noch in den Höhen von Island die Schuhe dreckig-gewandert, jetzt schon wieder in der Schweiz.
+Ferien sind immer viel zu schnell vorbei.

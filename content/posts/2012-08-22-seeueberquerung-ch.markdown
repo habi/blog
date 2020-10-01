@@ -14,6 +14,4 @@ categories:
 
 [seeueberquerung.ch](https://www.flickr.com/photos/habi/7838948628/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Perfekter Tag, perfekte Startnummer

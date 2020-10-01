@@ -14,6 +14,4 @@ categories:
 
 [Die Angst der Lifttüre vor der Abrissbirne](https://www.flickr.com/photos/habi/7328259002/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Neuerdings freie Sicht auf der Postauto-Platte...

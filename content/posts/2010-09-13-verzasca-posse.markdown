@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/4154/4986616873_78d7c8c9f0_m.jpg)](https://www.flickr.com/photos/habi/4986616873/)
 
- [![](https://static.flickr.com/4154/4986616873_78d7c8c9f0_m.jpg)](https://www.flickr.com/photos/habi/4986616873/)
-   
-
- 
-  [Verzasca, Posse](https://www.flickr.com/photos/habi/4986616873/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
+[Verzasca, Posse](https://www.flickr.com/photos/habi/4986616873/)
 
 Unter (ca. 2m drunter) diesem Wasserfall sind wir heute rumgetaucht.
-  
-

@@ -15,6 +15,4 @@ categories:
 
 [Das Los des behaarten Velofahrers](https://www.flickr.com/photos/habi/7789133584/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Protein an den Armen.

@@ -14,6 +14,4 @@ categories:
 
 [Blick am Abend](https://www.flickr.com/photos/habi/8010170061/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
 Jaja die Journis: Immer mal wieder über die Gratiskultur motzen, aber für den reisserischen Bericht über das Puff in der Lorraine gschwing einen Screenshot aus Google Streetview ohne Quellenangabe (und mit Markierungspin) ins Blatt hauen...

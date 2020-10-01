@@ -14,6 +14,4 @@ categories:
 
 [Braaaaaains!](https://www.flickr.com/photos/habi/7832723784/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Ich setz mich trotz Zombies in die erste Reihe: [www.das-schaubuero.ch/zombie](http://www.das-schaubuero.ch/zombie)

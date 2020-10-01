@@ -14,7 +14,5 @@ categories:
 
 [Statt auf den Hoger rauf...](https://www.flickr.com/photos/habi/7567466714/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 ...in den See rein.
 Ist auch schön!:

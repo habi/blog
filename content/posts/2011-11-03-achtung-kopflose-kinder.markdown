@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
-
- [![](https://static.flickr.com/6103/6309662076_56ee66f3d2_m.jpg)](https://www.flickr.com/photos/habi/6309662076/)
+[![](https://static.flickr.com/6103/6309662076_56ee66f3d2_m.jpg)](https://www.flickr.com/photos/habi/6309662076/)
    
-
- 
-  [Achtung: Kopflose Kinder](https://www.flickr.com/photos/habi/6309662076/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
+[Achtung: Kopflose Kinder](https://www.flickr.com/photos/habi/6309662076/)
 
 Am Ortseingang von Villigen: Mensch beachte die Details!
-  
-

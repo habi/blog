@@ -10,19 +10,6 @@ categories:
 - personal
 ---
 
-
- [![](https://static.flickr.com/5047/5327081614_ea0e02430e_m.jpg)](https://www.flickr.com/photos/habi/5327081614/)
+[![](https://static.flickr.com/5047/5327081614_ea0e02430e_m.jpg)](https://www.flickr.com/photos/habi/5327081614/)
    
-
- 
-  [Grüess üs Glogghüüs](https://www.flickr.com/photos/habi/5327081614/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
-
-
-  
-
+[Grüess üs Glogghüüs](https://www.flickr.com/photos/habi/5327081614/)

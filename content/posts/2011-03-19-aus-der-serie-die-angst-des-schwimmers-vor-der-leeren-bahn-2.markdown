@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/5016/5540039939_5f6241a148_m.jpg)](https://www.flickr.com/photos/habi/5540039939/)
 
- [![](https://static.flickr.com/5016/5540039939_5f6241a148_m.jpg)](https://www.flickr.com/photos/habi/5540039939/)
-   
-
- 
-  [Aus der Serie: Die Angst des Schwimmers vor der leeren Bahn](https://www.flickr.com/photos/habi/5540039939/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
+[Aus der Serie: Die Angst des Schwimmers vor der leeren Bahn](https://www.flickr.com/photos/habi/5540039939/)
 
 Das Becken in Plan-Les-Ouates, wo heute ein paar Master-SchwimmerInnen ein paar Längen geschwommen sind.
-  
-

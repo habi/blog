@@ -13,5 +13,3 @@ categories:
 [![](https://static.flickr.com/7075/6979059546_aa6b7e00cf_m.jpg)](https://www.flickr.com/photos/habi/6979059546/)
 
 [Also, als wir noch Kids waren...](https://www.flickr.com/photos/habi/6979059546/)
-
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).

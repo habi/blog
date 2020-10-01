@@ -15,8 +15,6 @@ categories:
 
 [Pause in Huttwil](https://www.flickr.com/photos/habi/5151236800/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
-
 Auf der wohl letzten Velotour vor dem Winter...
 
 **update:** [hier ist die Route](http://www.gpsies.com/map.do?fileId=iuhqlqjlodqludfy), die wir gefahren sind.

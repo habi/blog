@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/6019/6314811582_8f57738481_m.jpg)](https://www.flickr.com/photos/habi/6314811582/)
 
- [![](https://static.flickr.com/6019/6314811582_8f57738481_m.jpg)](https://www.flickr.com/photos/habi/6314811582/)
-   
-
- 
-  [Liestal Downtown](https://www.flickr.com/photos/habi/6314811582/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
+[Liestal Downtown](https://www.flickr.com/photos/habi/6314811582/)
 
 Sind denn Kühlschränke nicht dasselbe wie Tierkadaver?
-  
-

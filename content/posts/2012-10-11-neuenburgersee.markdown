@@ -14,7 +14,5 @@ categories:
 
 [Neuenburgersee](https://www.flickr.com/photos/habi/8077503897/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Im letzten Abendlicht abtauchen, wunderschön!  
 Und übrigens; das ist das neue Panorama-Feature in iOS 6.

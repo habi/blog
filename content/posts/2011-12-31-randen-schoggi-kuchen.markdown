@@ -14,8 +14,5 @@ categories:
 
 [Randen-Schoggi-Kuchen](https://www.flickr.com/photos/habi/6608846455/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
 Doch, ein gelungenes Dessert :)
 Nur schade, haben wir beim Hauptgang so viel gegessen, dass fast nüt mehr in den Magen passt...

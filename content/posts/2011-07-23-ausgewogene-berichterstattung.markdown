@@ -10,23 +10,13 @@ categories:
 - personal
 ---
 
-
- [![](https://static.flickr.com/6011/5965922827_5bbb1aa991_m.jpg)](https://www.flickr.com/photos/habi/5965922827/)
+[![](https://static.flickr.com/6011/5965922827_5bbb1aa991_m.jpg)](https://www.flickr.com/photos/habi/5965922827/)
    
-
- 
-  [Ausgewogene Berichterstattung?](https://www.flickr.com/photos/habi/5965922827/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
+[Ausgewogene Berichterstattung?](https://www.flickr.com/photos/habi/5965922827/)
 
 17 Tote in Norwegen: 2/3 der Seite  
 
 Zehntausende Tote in Somalia: unten rechts an den Rand geklemmt
-  
 
-
-**update:** In der Zeitung drin sieht's dann ein bisschen besser aus. Auf Seite 4 eine halbe Seite über die Anschläge in Norwegen, 2/3-Seite über die humanitäre Katastrophe in Somalia. 
+**update:** In der Zeitung drin sieht's dann ein bisschen besser aus.
+Auf Seite 4 eine halbe Seite über die Anschläge in Norwegen, 2/3-Seite über die humanitäre Katastrophe in Somalia.

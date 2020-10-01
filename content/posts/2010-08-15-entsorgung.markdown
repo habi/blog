@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
-
- [![](https://static.flickr.com/4135/4894129320_c574545e3f_m.jpg)](https://www.flickr.com/photos/habi/4894129320/)
+[![](https://static.flickr.com/4135/4894129320_c574545e3f_m.jpg)](https://www.flickr.com/photos/habi/4894129320/)
    
-
- 
-  [Entsorgung](https://www.flickr.com/photos/habi/4894129320/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
+[Entsorgung](https://www.flickr.com/photos/habi/4894129320/)
 
 Eltern zügeln, ich hab' meinen Doktortitel, das alte Unizeugs vom Estrich des Elternhauses kann ins Altpapier...
-  
-

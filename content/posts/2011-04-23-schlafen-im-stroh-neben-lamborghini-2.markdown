@@ -15,8 +15,6 @@ categories:
 
 [Schlafen im Stroh neben Lamborghini](https://www.flickr.com/photos/habi/5646586535/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Auf unserer Ostertour: Ich wusste gar nicht, dass es Lamborghinis auch in weiss gibt.
 
 **update:** [Hier hat's noch ein paar Fotos mehr](https://www.flickr.com/photos/habi/sets/72157626452670073/detail/). Unten eingebunden ist die Route, die wir gefahren sind.

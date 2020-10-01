@@ -16,7 +16,4 @@ tags:
 
 [Liebes Bund-Lektorat](https://www.flickr.com/photos/habi/8574336134/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
-
 Ich weiss, das ihr könnt das besser als in dieser einen Spalte heute auf Seite 5...

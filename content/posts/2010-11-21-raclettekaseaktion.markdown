@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/5122/5194855893_4a1e2b8247_m.jpg)](https://www.flickr.com/photos/habi/5194855893/)
 
- [![](https://static.flickr.com/5122/5194855893_4a1e2b8247_m.jpg)](https://www.flickr.com/photos/habi/5194855893/)
-   
-
- 
-  [RaclettekäseAktion](https://www.flickr.com/photos/habi/5194855893/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
+[RaclettekäseAktion](https://www.flickr.com/photos/habi/5194855893/)
 
 Gut hab' ich hinech Raclette für 5 Jungs geplant!
-  
-

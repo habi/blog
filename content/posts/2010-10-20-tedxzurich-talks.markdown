@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
-
- [![](https://static.flickr.com/1131/5098847211_a76b811b72_m.jpg)](https://www.flickr.com/photos/habi/5098847211/)
+[![](https://static.flickr.com/1131/5098847211_a76b811b72_m.jpg)](https://www.flickr.com/photos/habi/5098847211/)
    
-
- 
-  [TEDxZurich-Talks](https://www.flickr.com/photos/habi/5098847211/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
+[TEDxZurich-Talks](https://www.flickr.com/photos/habi/5098847211/)
 
 TED-Talks können auch hinter einer Glaswand entstehen.
-  
-

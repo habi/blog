@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/5172/5406738863_81e273b515_m.jpg)](https://www.flickr.com/photos/habi/5406738863/)
 
- [![](https://static.flickr.com/5172/5406738863_81e273b515_m.jpg)](https://www.flickr.com/photos/habi/5406738863/)
-   
+[Die Vorteile von Teilzeitarbeit](https://www.flickr.com/photos/habi/5406738863/)
 
- 
-  [Die Vorteile von Teilzeitarbeit](https://www.flickr.com/photos/habi/5406738863/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
-
-Den freien Wochentag flexibel auf den sonnigen Tag schieben
-  
-
+Den freien Wochentag flexibel auf den sonnigen Tag schieben.

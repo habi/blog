@@ -10,19 +10,10 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/4111/5004172841_7a92caec19_m.jpg)](https://www.flickr.com/photos/habi/5004172841/)
 
- [![](https://static.flickr.com/4111/5004172841_7a92caec19_m.jpg)](https://www.flickr.com/photos/habi/5004172841/)
-   
+[Der coolste Typ ever](https://www.flickr.com/photos/habi/5004172841/)
 
- 
-  [Der coolste Typ ever](https://www.flickr.com/photos/habi/5004172841/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
-
-Im Bahnhof Neuenburg. Ca. 70 Jahre alt, im durchgestylten Anzug, Strohhut und Turnschuhen. Und mit einem 'I love Hello Kitty'-Rollkoffer!
-  
-
+Im Bahnhof Neuenburg.
+Ca. 70 Jahre alt, im durchgestylten Anzug, Strohhut und Turnschuhen.
+Und mit einem 'I love Hello Kitty'-Rollkoffer!

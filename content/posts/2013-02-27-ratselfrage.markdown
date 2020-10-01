@@ -17,6 +17,5 @@ tags:
 [![](https://static.flickr.com/8229/8514349466_6c2c44d405_m.jpg)](https://www.flickr.com/photos/habi/8514349466/)   
 
 [Rätselfrage](https://www.flickr.com/photos/habi/8514349466/)   
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/). 
 
 Wer rausfindet, wo ich heute Abend war, gewinnt zwei Punkte. 

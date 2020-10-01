@@ -17,8 +17,6 @@ tags:
 [![](https://static.flickr.com/8069/8252013713_531811beb5_m.jpg)](https://www.flickr.com/photos/habi/8252013713/)   
 
 [Fuck Yeah Wintervelofahren!](https://www.flickr.com/photos/habi/8252013713/)   
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/). 
-
 
 Keine Angst, [diesmal bin ich abgestiegen zum fotigrafieren](https://habi.gna.ch/2011/11/28/on-the-road/)...  
   

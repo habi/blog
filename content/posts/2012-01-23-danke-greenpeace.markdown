@@ -14,7 +14,5 @@ categories:
 
 [Danke Greenpeace](https://www.flickr.com/photos/habi/6750677769/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Ich weiss...
 Hintergrund: [david-werden.ch/](http://david-werden.ch/)

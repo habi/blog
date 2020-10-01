@@ -14,6 +14,4 @@ categories:
 
 [Teamfoto teamrun.ch](https://www.flickr.com/photos/habi/8626547441/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Mersi [@helmchenx](https://twitter.com/helmchenx) für die ganze Organisation, es het gfägt!

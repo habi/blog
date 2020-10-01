@@ -12,21 +12,13 @@ tags:
 - velocontent
 ---
 
-
- [![](https://static.flickr.com/5168/5354423634_fa87b92cb7_m.jpg)](https://www.flickr.com/photos/habi/5354423634/)
+[![](https://static.flickr.com/5168/5354423634_fa87b92cb7_m.jpg)](https://www.flickr.com/photos/habi/5354423634/)
    
 
- 
-  [Neues Hinterrad](https://www.flickr.com/photos/habi/5354423634/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
+[Neues Hinterrad](https://www.flickr.com/photos/habi/5354423634/)
 
 
-
-Es ist schade, leben wir in einer Zeit, in der es billiger ist, ein neues Hinterrad zu kaufen, als in die alte Felge eine neue Nabe einzuspeichen. Nichtsdestotrotz gefällt mir die neue Farbkombination, danke [velostatt.ch/](http://velostatt.ch/)  
+Es ist schade, leben wir in einer Zeit, in der es billiger ist, ein neues Hinterrad zu kaufen, als in die alte Felge eine neue Nabe einzuspeichen.
+Nichtsdestotrotz gefällt mir die neue Farbkombination, danke [velostatt.ch/](http://velostatt.ch/)  
 
 (Und wenn ich dann doch finde, es gefällt mir nicht so gut, gibt's halt noch ein neues Vorderrad in derselben Farbe :)
-  
-

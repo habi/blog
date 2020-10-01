@@ -14,6 +14,4 @@ categories:
 
 [Mittwoch Abend](https://www.flickr.com/photos/habi/6053397038/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Auf der Allmenalp; im Klettersteig ein paar Überstunden abgebaut.

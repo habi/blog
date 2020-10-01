@@ -14,6 +14,4 @@ categories:
 
 [Matterhorn](https://www.flickr.com/photos/habi/6694935307/)
 
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
-
 Einfach immer wieder ein imposanter Bitz Fels.

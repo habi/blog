@@ -13,5 +13,3 @@ categories:
 [![](https://static.flickr.com/8532/8541412959_0e8c626aec_m.jpg)](https://www.flickr.com/photos/habi/8541412959/)
 
 [Da wo's Schnee het](https://www.flickr.com/photos/habi/8541412959/)
-
-Originally uploaded by [habi](https://www.flickr.com/photos/habi/).

@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/5104/5838694851_e2ee69714e_m.jpg)](https://www.flickr.com/photos/habi/5838694851/)
 
- [![](https://static.flickr.com/5104/5838694851_e2ee69714e_m.jpg)](https://www.flickr.com/photos/habi/5838694851/)
-   
-
- 
-  [Aso wie genau?](https://www.flickr.com/photos/habi/5838694851/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/photos/habi/).
- 
-
-
+[Aso wie genau?](https://www.flickr.com/photos/habi/5838694851/)
 
 Pouletburg?
-  
-
