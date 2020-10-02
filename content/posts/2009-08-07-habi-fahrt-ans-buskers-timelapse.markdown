@@ -15,7 +15,7 @@ tags:
 - fun
 ---
 
-nachdem [mark gezeigt](https://permanenttourist.ch/articles/2009/07/stop-motion-tram-ride/) hat, dass mann sogar im tram timelapse-filme machen kann, habe ich heute abend beim velofahren den auslöser meiner kamera gedrückt gehalten, während ich in die stadt gefahren bin. das endresultat ist ein wackeliges timelapse-filmli von mir zuhause bis knapp vors [buskers](http://www.buskersbern.ch).
+nachdem [mark gezeigt](https://permanenttourist.ch/2009/07/timelapse-tram-ride/) hat, dass mann sogar im tram timelapse-filme machen kann, habe ich heute abend beim velofahren den auslöser meiner kamera gedrückt gehalten, während ich in die stadt gefahren bin. das endresultat ist ein wackeliges timelapse-filmli von mir zuhause bis knapp vors [buskers](http://www.buskersbern.ch).
 
 {{< vimeo 6001222 >}}
 
