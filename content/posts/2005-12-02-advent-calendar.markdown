@@ -18,7 +18,6 @@ categories:
   [advent calendar](https://www.flickr.com/photos/habi/69284464/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

@@ -18,7 +18,6 @@ categories:
   [santas on bikes](https://www.flickr.com/photos/habi/76366457/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

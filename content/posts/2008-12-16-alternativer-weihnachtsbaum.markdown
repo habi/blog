@@ -15,6 +15,5 @@ categories:
 
 [alternativer weihnachtsbaum](https://www.flickr.com/photos/habi/3114313288/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 ein ast aus dem wald, eine vase, ein paar steine, 4kg blei aus der tauchkiste, eine lichterkette und eine gewiefte freundin, fertig ist der weihnachtsschmuck!

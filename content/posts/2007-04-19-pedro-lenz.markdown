@@ -18,7 +18,6 @@ categories:
   [pedro lenz](https://www.flickr.com/photos/habi/465329806/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

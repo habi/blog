@@ -18,7 +18,6 @@ categories:
   [take my palm away](https://www.flickr.com/photos/habi/23530408/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

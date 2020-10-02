@@ -18,7 +18,6 @@ categories:
   [Gratispfosten](https://www.flickr.com/photos/habi/4505218160/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

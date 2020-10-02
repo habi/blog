@@ -18,7 +18,6 @@ categories:
   [auf dem heimweg](https://www.flickr.com/photos/habi/1216263660/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

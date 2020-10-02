@@ -18,7 +18,6 @@ categories:
   [Kunst am Bau](https://www.flickr.com/photos/habi/4285654688/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

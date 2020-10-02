@@ -14,6 +14,5 @@ categories:
 
 [Der Chor vs. die Passanten](https://www.flickr.com/photos/habi/3079812367/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Live am Treffpunkt, mit Herrn Studer links der Mitte.

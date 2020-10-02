@@ -18,7 +18,6 @@ categories:
   [virtualbox rocks!](https://www.flickr.com/photos/habi/2971881028/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

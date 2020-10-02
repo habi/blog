@@ -18,7 +18,6 @@ categories:
   [achtung spannung!](https://www.flickr.com/photos/habi/3082355365/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

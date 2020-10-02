@@ -14,6 +14,5 @@ categories:
 
 [Ein Wundertag](https://www.flickr.com/photos/habi/3316565368/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Über sowie auch unter der Wasseroberfläche...

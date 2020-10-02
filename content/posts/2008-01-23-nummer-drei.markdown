@@ -18,7 +18,6 @@ categories:
   [Nummer Drei...](https://www.flickr.com/photos/habi/2214858048/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

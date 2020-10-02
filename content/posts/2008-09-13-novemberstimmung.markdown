@@ -18,7 +18,6 @@ categories:
   [novemberstimmung](https://www.flickr.com/photos/habi/2852907843/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

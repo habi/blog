@@ -15,7 +15,6 @@ categories:
 
 [Dr grüene Aare na](https://www.flickr.com/photos/habi/2706567280/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 
 Und falls das mit den 'Location Services' der Firmware 2.0 auch ohne GPS funktioniert, sieht mensch auch wo wir baden...

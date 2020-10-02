@@ -18,7 +18,6 @@ categories:
   [sandele für erwachsene](https://www.flickr.com/photos/habi/176402252/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

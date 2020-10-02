@@ -18,7 +18,6 @@ categories:
   [Unisport-Infoscreen](https://www.flickr.com/photos/habi/2257778979/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

@@ -18,7 +18,6 @@ categories:
   [Versammelte Bloggeria im Musigbistrot](https://www.flickr.com/photos/habi/2241972087/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

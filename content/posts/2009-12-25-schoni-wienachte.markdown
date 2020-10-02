@@ -15,6 +15,5 @@ categories:
 
 [Schöni Wienachte](https://www.flickr.com/photos/habi/4213684427/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Mit de Kummerbuebe

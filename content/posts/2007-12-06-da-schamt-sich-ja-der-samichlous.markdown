@@ -18,7 +18,6 @@ categories:
   [Da schämt sich ja der Samichlous!](https://www.flickr.com/photos/habi/2090370927/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

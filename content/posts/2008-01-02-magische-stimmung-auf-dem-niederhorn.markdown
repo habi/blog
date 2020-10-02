@@ -18,7 +18,6 @@ categories:
   [magische stimmung auf dem niederhorn](https://www.flickr.com/photos/habi/2158352291/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

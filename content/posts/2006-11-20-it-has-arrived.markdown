@@ -18,7 +18,6 @@ categories:
   [It has arrived!](https://www.flickr.com/photos/habi/301946595/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

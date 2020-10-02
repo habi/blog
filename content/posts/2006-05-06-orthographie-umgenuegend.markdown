@@ -18,7 +18,6 @@ categories:
   [Orthographie umgenuegend](https://www.flickr.com/photos/habi/141486815/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

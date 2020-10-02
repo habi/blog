@@ -14,6 +14,5 @@ categories:
 
 [Gurtenfestival](https://www.flickr.com/photos/habi/3728838011/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Ich glaub' ich bleib noch ein bisschen im Büro bei dem Regen, Peter Fox spielt ja erst später am Abend...

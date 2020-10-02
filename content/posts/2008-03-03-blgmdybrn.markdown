@@ -18,7 +18,6 @@ categories:
   [Blgmdybrn](https://www.flickr.com/photos/habi/2307610715/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

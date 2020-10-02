@@ -18,7 +18,6 @@ categories:
   [Lufthansa-Spam](https://www.flickr.com/photos/habi/2495450612/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

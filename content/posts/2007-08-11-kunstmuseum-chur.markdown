@@ -18,7 +18,6 @@ categories:
   [Kunstmuseum Chur](https://www.flickr.com/photos/habi/1081092381/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

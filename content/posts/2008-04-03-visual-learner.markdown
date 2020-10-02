@@ -18,7 +18,6 @@ categories:
   [Visual Learner](https://www.flickr.com/photos/habi/2384973876/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

@@ -18,7 +18,6 @@ categories:
   [panorama-erstellung auf dem iphone](https://www.flickr.com/photos/habi/2885810902/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

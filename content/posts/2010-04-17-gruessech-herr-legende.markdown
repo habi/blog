@@ -14,6 +14,5 @@ categories:
 
 [Grüessech Herr Legende](https://www.flickr.com/photos/habi/4528085634/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Seite 5 im heutigen Bund, gelesen an der Sonne im Café Stauffacher.

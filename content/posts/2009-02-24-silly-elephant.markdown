@@ -17,7 +17,6 @@ categories:
 [silly elephant](https://www.flickr.com/photos/habi/3306291219/)
 
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 
 

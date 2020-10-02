@@ -18,7 +18,6 @@ categories:
   [il busso e caputo!](https://www.flickr.com/photos/habi/1801256538/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

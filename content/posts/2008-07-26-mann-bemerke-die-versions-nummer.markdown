@@ -18,7 +18,6 @@ categories:
   [mann bemerke die versions-nummer](https://www.flickr.com/photos/habi/2703629577/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

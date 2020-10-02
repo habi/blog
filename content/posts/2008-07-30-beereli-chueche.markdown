@@ -15,7 +15,6 @@ categories:
 
   [beereli-chueche](https://www.flickr.com/photos/habi/2716805913/)  
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 
 auch mit bald 32 jahren ist das ausschlecken von teigschüsseln immernoch ein wunderbares ding!

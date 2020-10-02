@@ -18,7 +18,6 @@ categories:
   [Zuegeltermin](https://www.flickr.com/photos/habi/2057655671/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

@@ -13,6 +13,5 @@ categories:
 [![](https://static.flickr.com/3140/3366037912_6f8fda22dd_m.jpg)](https://www.flickr.com/photos/habi/3366037912/)
 [Schlangengift?](https://www.flickr.com/photos/habi/3366037912/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Wie muss mensch sich dieses Praktikum vorstellen?

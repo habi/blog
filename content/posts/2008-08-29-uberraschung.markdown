@@ -14,7 +14,6 @@ categories:
 
 [Überraschung!](https://www.flickr.com/photos/habi/2808172565/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 da nina hier äusserst selten mitliest, wage ich es, mein 'einfach-so'- geschenk hier vorzustellen; ein fuchsiafarbiges viner in der richtigen rahmengrösse.
 gekauft auf ricardo zu einem unglaublichen preis, soeben abgeholt in wil.

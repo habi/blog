@@ -18,7 +18,6 @@ categories:
   [eth wc.anlage](https://www.flickr.com/photos/habi/1633218095/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

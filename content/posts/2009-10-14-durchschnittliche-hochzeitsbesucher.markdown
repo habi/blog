@@ -18,7 +18,6 @@ categories:
   [Durchschnittliche Hochzeitsbesucher](https://www.flickr.com/photos/habi/4010213441/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

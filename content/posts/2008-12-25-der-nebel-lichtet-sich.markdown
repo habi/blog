@@ -18,7 +18,6 @@ categories:
   [Der nebel lichtet sich](https://www.flickr.com/photos/habi/3135472252/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

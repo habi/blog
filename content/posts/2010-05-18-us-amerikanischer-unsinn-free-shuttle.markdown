@@ -15,7 +15,6 @@ categories:
 
 [US-amerikanischer Unsinn: Free Shuttle](https://www.flickr.com/photos/habi/4618471437/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Parking mit kostenlosem Shuttledienst auf der einen Strassenseite, Konferenzzentrum in dem meine Lungenkonferenz stattfindet auf der anderen Strassenseite.
 Die Helen Brett Schmuckmesse zu der geshuttelt wird, findet im gleichen Konferenzzentrum ca. 400m weiter unten an derselben Strasse statt...

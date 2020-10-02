@@ -18,7 +18,6 @@ categories:
   [scheiss(haus)werbung](https://www.flickr.com/photos/habi/141073331/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

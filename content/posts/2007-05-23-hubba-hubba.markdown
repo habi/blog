@@ -16,7 +16,6 @@ categories:
 
 [Hubba hubba!](https://www.flickr.com/photos/habi/510539438/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 My new hub is here.
 Yippee!

@@ -19,7 +19,6 @@ categories:
   [frisch lackiert!](https://www.flickr.com/photos/habi/533528848/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

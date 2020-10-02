@@ -14,6 +14,5 @@ categories:
 
 [Liveblogging from 4027m](https://www.flickr.com/photos/habi/3776889335/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Wer findet raus, auf welchen Berg wir hochgelaufen sind?

@@ -18,7 +18,6 @@ categories:
   [montag abend in brig](https://www.flickr.com/photos/habi/3285510498/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 
