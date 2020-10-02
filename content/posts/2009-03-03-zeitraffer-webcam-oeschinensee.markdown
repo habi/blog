@@ -12,6 +12,5 @@ categories:
 
 [Zeitraffer-Webcam Oeschinensee](https://www.flickr.com/photos/habi/3326195737/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/)
 
 Der Teaser zum kommenden Filmli... (mersi Sigi für's vollständige aufnehmen)

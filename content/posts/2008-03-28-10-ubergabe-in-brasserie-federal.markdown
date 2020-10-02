@@ -14,4 +14,3 @@ categories:
 
 [10.- Übergabe in Brasserie Federal](https://www.flickr.com/photos/habi/2368556263/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).

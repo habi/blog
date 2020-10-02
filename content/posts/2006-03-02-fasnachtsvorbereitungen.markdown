@@ -15,7 +15,6 @@ categories:
 
 [getting ready for the fasnacht](https://www.flickr.com/photos/habi/106851594/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 im moment mach ich einen zivildienst.
 

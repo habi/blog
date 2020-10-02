@@ -18,7 +18,6 @@ categories:
   [Nicht nur gefülte 30 Grad](https://www.flickr.com/photos/habi/2288360350/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

@@ -14,6 +14,5 @@ categories:
 
 [Klettersteig Gantrisch](https://www.flickr.com/photos/habi/3768760687/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Für diese Aussicht lohnt es sich unbedingt, früher Feierabend zu machen!

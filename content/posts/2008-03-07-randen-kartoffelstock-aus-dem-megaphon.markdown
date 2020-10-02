@@ -18,7 +18,6 @@ categories:
   [Randen-Kartoffelstock aus dem Megaphon](https://www.flickr.com/photos/habi/2317171256/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

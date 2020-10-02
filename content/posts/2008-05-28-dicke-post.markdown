@@ -18,7 +18,6 @@ categories:
   [Dicke Post](https://www.flickr.com/photos/habi/2531139493/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

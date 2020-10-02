@@ -14,7 +14,6 @@ categories:
  [![](https://www.flickr.com/photos/451740_m.jpg)](https://www.flickr.com/photo.gne?id=451740)
    
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

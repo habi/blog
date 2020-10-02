@@ -18,7 +18,6 @@ categories:
   [deppenapostroph in chur](https://www.flickr.com/photos/habi/301020396/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

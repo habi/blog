@@ -18,7 +18,6 @@ categories:
   [Wunderwetter](https://www.flickr.com/photos/habi/2371151808/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

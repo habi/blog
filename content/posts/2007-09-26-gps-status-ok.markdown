@@ -18,7 +18,6 @@ categories:
   [gps status: ok!](https://www.flickr.com/photos/habi/1443140827/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

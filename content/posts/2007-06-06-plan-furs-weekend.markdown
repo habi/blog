@@ -18,7 +18,6 @@ categories:
   [plan für's weekend](https://www.flickr.com/photos/habi/533644003/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

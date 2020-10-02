@@ -18,7 +18,6 @@ categories:
   [bier-risotto mit sprossensalat](https://www.flickr.com/photos/habi/2131534038/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

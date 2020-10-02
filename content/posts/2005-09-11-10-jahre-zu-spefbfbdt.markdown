@@ -18,7 +18,6 @@ categories:
   [10 jahre zu spät](https://www.flickr.com/photos/habi/42260472/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

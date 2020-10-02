@@ -19,7 +19,6 @@ categories:
   [leider nicht für mich...](https://www.flickr.com/photos/habi/490042449/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

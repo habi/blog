@@ -20,7 +20,6 @@ categories:
   [foto-automat-error im migros](https://www.flickr.com/photos/habi/400017499/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

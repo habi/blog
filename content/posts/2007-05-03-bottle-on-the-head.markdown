@@ -20,7 +20,6 @@ categories:
   [bottle on the head](https://www.flickr.com/photos/habi/482463568/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

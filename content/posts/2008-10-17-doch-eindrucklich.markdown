@@ -18,7 +18,6 @@ categories:
   [doch, eindrücklich](https://www.flickr.com/photos/habi/2949810988/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

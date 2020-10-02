@@ -18,7 +18,6 @@ categories:
   [Aussicht beim Zmorge](https://www.flickr.com/photos/habi/2320683242/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

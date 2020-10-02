@@ -18,7 +18,6 @@ categories:
   [In 'Onkel' Martins Prius](https://www.flickr.com/photos/habi/2132884083/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

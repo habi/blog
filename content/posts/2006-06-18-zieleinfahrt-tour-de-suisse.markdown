@@ -18,7 +18,6 @@ categories:
   [zieleinfahrt tour de suisse](https://www.flickr.com/photos/habi/169834158/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

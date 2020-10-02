@@ -18,7 +18,6 @@ categories:
   [Der zweite Brautstrauss](https://www.flickr.com/photos/habi/2870441754/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

@@ -18,7 +18,6 @@ categories:
   [Stop Ja - Neinsager-Partei SVP](https://www.flickr.com/photos/habi/2448942091/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

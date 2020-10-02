@@ -18,7 +18,6 @@ categories:
   [ortsbildverschandelung](https://www.flickr.com/photos/habi/1403325280/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

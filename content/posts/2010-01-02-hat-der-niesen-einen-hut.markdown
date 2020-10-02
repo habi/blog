@@ -14,6 +14,5 @@ categories:
 
 [Hat der Niesen einen Hut...](https://www.flickr.com/photos/habi/4236689453/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 ...wird der Tauchgang gut! 32.2m, 39min, 5° am Äntenegge

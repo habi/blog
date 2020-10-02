@@ -18,7 +18,6 @@ categories:
   [neuer veloparkplatz vor der haustüre](https://www.flickr.com/photos/habi/2679737519/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

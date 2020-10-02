@@ -19,7 +19,6 @@ categories:
 
 
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 
 

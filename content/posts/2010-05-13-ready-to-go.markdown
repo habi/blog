@@ -18,7 +18,6 @@ categories:
   [Ready to go!](https://www.flickr.com/photos/habi/4603727724/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

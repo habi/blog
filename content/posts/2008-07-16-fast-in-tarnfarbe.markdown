@@ -18,7 +18,6 @@ categories:
   [Fast in Tarnfarbe](https://www.flickr.com/photos/habi/2674059651/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

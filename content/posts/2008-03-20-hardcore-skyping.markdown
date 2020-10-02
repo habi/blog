@@ -18,7 +18,6 @@ categories:
   [Hardcore skyping](https://www.flickr.com/photos/habi/2348581282/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

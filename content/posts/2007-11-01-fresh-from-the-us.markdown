@@ -18,7 +18,6 @@ categories:
   [fresh from the US](https://www.flickr.com/photos/habi/1815311734/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

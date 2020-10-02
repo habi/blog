@@ -18,7 +18,6 @@ categories:
   [passend zum thema...](https://www.flickr.com/photos/habi/140350360/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

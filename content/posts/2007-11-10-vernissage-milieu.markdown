@@ -18,7 +18,6 @@ categories:
   [Vernissage @ Milieu](https://www.flickr.com/photos/habi/1954686588/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

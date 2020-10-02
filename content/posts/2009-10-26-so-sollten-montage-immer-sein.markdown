@@ -14,6 +14,5 @@ categories:
 
 [So sollten Montage immer sein](https://www.flickr.com/photos/habi/4045554961/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Gruss aus dem Nationalpark, speziell an Montagsliebhaber Rouge...

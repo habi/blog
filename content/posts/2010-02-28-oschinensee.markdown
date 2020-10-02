@@ -14,7 +14,6 @@ categories:
 
 [Oeschinensee](https://www.flickr.com/photos/habi/4394822088/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Loch in Rekordzeit gemacht.
 Ready to go under!

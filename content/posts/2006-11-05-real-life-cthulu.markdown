@@ -18,7 +18,6 @@ categories:
   [real life cthulu](https://www.flickr.com/photos/habi/289497011/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

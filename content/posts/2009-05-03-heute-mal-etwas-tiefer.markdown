@@ -14,6 +14,5 @@ categories:
 
 [Heute mal etwas tiefer](https://www.flickr.com/photos/habi/3497030664/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 In der Bucht neben der Beatenbucht: 32.2 m, 37 min, 7 Grad

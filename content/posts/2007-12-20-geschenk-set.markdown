@@ -18,7 +18,6 @@ categories:
   [geschenk-set](https://www.flickr.com/photos/habi/2125650386/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

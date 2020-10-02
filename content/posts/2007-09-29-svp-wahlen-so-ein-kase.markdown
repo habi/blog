@@ -18,7 +18,6 @@ categories:
   [SVP wählen - so ein käse!](https://www.flickr.com/photos/habi/1458356298/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

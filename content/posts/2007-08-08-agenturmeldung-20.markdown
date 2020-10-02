@@ -18,7 +18,6 @@ categories:
   [Agenturmeldung 2.0](https://www.flickr.com/photos/habi/1049685887/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

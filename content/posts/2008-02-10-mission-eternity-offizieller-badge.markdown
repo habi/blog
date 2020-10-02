@@ -18,7 +18,6 @@ categories:
   [Mission Eternity - Offizieller Badge](https://www.flickr.com/photos/habi/2254863871/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

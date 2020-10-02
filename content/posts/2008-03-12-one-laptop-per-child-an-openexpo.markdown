@@ -18,7 +18,6 @@ categories:
   [One Laptop per child an OpenExpo](https://www.flickr.com/photos/habi/2329096830/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

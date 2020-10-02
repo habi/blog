@@ -18,7 +18,6 @@ categories:
   [one 2do-item done](https://www.flickr.com/photos/habi/537133577/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

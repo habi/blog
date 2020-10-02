@@ -18,7 +18,6 @@ categories:
   [bravo habi, dan und christian!](https://www.flickr.com/photos/habi/3453140066/)
     
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
  
 
 

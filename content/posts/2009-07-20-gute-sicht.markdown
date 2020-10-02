@@ -14,7 +14,6 @@ categories:
 
 [Gute Sicht](https://www.flickr.com/photos/habi/3739336421/)
 
-Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
 Jedenfalls ober Wasser, unter Wasser so schlecht wie schon lange nicht mehr.
 Deshalb geniessen wir jetzt noch den Sonnenuntergang.
