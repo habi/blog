@@ -10,19 +10,8 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/4141/4930242768_c5b8cf7c88_m.jpg)](https://www.flickr.com/photos/habi/4930242768/)
 
- [![](https://static.flickr.com/4141/4930242768_c5b8cf7c88_m.jpg)](https://www.flickr.com/photos/habi/4930242768/)
-   
-
- 
-  [Picknick für 3 Tage](https://www.flickr.com/photos/habi/4930242768/)
-    
-
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
- 
-
-
+[Picknick für 3 Tage](https://www.flickr.com/photos/habi/4930242768/)
 
 3 Tage wandern und ein bisschen hochtouren; zum Glück mit Halbpension, sonst müsste noch mehr Food mit...
-  
-

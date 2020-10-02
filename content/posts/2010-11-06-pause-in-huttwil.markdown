@@ -10,7 +10,6 @@ categories:
 - personal
 ---
 
-
 [![](https://static.flickr.com/1128/5151236800_c7e93f9fb8_m.jpg)](https://www.flickr.com/photos/habi/5151236800/)
 
 [Pause in Huttwil](https://www.flickr.com/photos/habi/5151236800/)
