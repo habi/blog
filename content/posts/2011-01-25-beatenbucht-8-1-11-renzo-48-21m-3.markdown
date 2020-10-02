@@ -13,7 +13,6 @@ tags:
 - thunersee
 ---
 
-Am 8. Janner lud das Wetter am Thunersee zum Bade, [dabei](https://habi.gna.ch/divelog/2011.01.08.beatenbucht.pdf) ist folgendes, unten eingebundenes Video entstanden:
+Am 8. Jänner lud das Wetter am Thunersee zum Bade, [dabei](https://habi.gna.ch/divelog/2011.01.08.beatenbucht.pdf) ist folgendes, unten eingebundenes Video entstanden:
 
-
-
+{{< vimeo 19147205 >}}
