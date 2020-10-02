@@ -20,8 +20,6 @@ tags:
 - vully
 ---
 
-![](https://static.flickr.com/1875/42763069300_9cb30f5111_b.jpg)  
-
-  
+![](https://static.flickr.com/1875/42763069300_9cb30f5111_b.jpg)
 
 from [Flickr](https://flic.kr/p/289PUEh) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

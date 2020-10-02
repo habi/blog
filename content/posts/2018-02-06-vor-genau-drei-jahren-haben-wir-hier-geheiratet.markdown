@@ -18,8 +18,8 @@ tags:
 - rellerli
 ---
 
-![](https://static.flickr.com/5/4695/28334005389_8df21c96db_b.jpg)  
+![](https://static.flickr.com/5/4695/28334005389_8df21c96db_b.jpg)
 
-Da ist doch dringend Zeit, um mal wieder hier hoch zu kommen...  
+Da ist doch dringend Zeit, um mal wieder hier hoch zu kommen...
 
 from [Flickr](https://flic.kr/p/KaMbEi) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

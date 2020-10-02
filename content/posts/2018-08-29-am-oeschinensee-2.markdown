@@ -19,8 +19,6 @@ tags:
 - wanderung
 ---
 
-![](https://static.flickr.com/1849/43624314264_5a9af98603_b.jpg)  
-
-  
+![](https://static.flickr.com/1849/43624314264_5a9af98603_b.jpg)
 
 from [Flickr](https://flic.kr/p/29sW1Mo) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

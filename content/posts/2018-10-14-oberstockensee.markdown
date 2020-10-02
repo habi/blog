@@ -20,8 +20,6 @@ tags:
 - stockhorn
 ---
 
-![](https://static.flickr.com/1953/43502529790_2d5bb6e582_b.jpg)  
-
-  
+![](https://static.flickr.com/1953/43502529790_2d5bb6e582_b.jpg)
 
 from [Flickr](https://flic.kr/p/29haQv5) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

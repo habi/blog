@@ -18,8 +18,6 @@ tags:
 - thun
 ---
 
-![](https://static.flickr.com/920/29308655768_ab42c79fa3_b.jpg)  
-
-  
+![](https://static.flickr.com/920/29308655768_ab42c79fa3_b.jpg)
 
 from [Flickr](https://flic.kr/p/LDUwgb) via [IFTTT](https://ifttt.com/?ref=da&site=wordpress).

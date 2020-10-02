@@ -18,5 +18,4 @@ Als wir noch zusammen Velo fuhren, schlug ich [Urs](https://de.wikipedia.org/wik
 
 Die neueste Ausgabe meines persönlichen Newsletters weist auf die Buchvernissage von Ürsens neuestem Roman [Bergsteigen im Flachland](http://www.secession-verlag.com/content/bergsteigen-im-flachland) hin, die am 21. Mai im [Wartsaal](http://www.wartsaal-kaffee.ch) stattfinden wird. Ich werde dort sein.
 
-[![velo7_wartsaal.jpg](https://habi.gna.ch/wp-content/uploads/2014/05/velo7_wartsaal-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2014/05/velo7_wartsaal.jpg)  
-
+[![velo7_wartsaal.jpg](https://habi.gna.ch/wp-content/uploads/2014/05/velo7_wartsaal-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2014/05/velo7_wartsaal.jpg)
