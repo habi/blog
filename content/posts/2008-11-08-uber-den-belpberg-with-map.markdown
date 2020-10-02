@@ -12,15 +12,8 @@ tags:
 - bike
 ---
 
-nachdem ich letzthin probleme im zusammenhang mit grösseren .gpx-dateien, dem [xml google map plugin](http://www.matusz.ch/blog/projekte/xml-google-maps-wordpress-plugin/) und meinem [feed](http://identi.ca/notice/918499) hatte, versuch ich mal, meine kleine velotour von heute nachmittag mit der hilfe von [gpsies.com](http://gpsies.com/) einzubinden:
+nachdem ich letzthin probleme im zusammenhang mit grösseren .gpx-dateien, dem [xml google map plugin](http://www.matusz.ch/blog/projekte/xml-google-maps-wordpress-plugin/) und meinem [feed](http://identi.ca/notice/918499) hatte, versuch ich mal, meine kleine velotour von heute nachmittag mit der hilfe von [alltrails.com](https://alltrails.com/) einzubinden:
 
-
-
-
-
-
+<iframe src="https://www.alltrails.com/widget/map?file_id=qiqsdiohmsglrktt" scrolling="no" marginheight="0" marginwidth="0" width="600" height="400" frameborder="0"></iframe>
 
 und ja, der belpberg ist schuderhaft steil, das sieht nicht nur im höhenprofil so aus.
-
-
-

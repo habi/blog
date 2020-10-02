@@ -18,4 +18,4 @@ Auf unserer Ostertour: Ich wusste gar nicht, dass es Lamborghinis auch in weiss 
 
 **update:** [Hier hat's noch ein paar Fotos mehr](https://www.flickr.com/photos/habi/sets/72157626452670073/detail/). Unten eingebunden ist die Route, die wir gefahren sind.
 
-<iframe src="https://www.gpsies.com/mapOnly.do?fileId=kvdecowyhyghzeja" scrolling="no" marginheight="0" marginwidth="0" width="600" height="400" frameborder="0"></iframe>
+<iframe src="https://www.alltrails.com/widget/map?file_id=kvdecowyhyghzeja" scrolling="no" marginheight="0" marginwidth="0" width="600" height="400" frameborder="0"></iframe>

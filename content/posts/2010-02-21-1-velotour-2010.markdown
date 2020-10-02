@@ -10,16 +10,15 @@ categories:
 - personal
 ---
 
+[![](https://static.flickr.com/4029/4375756190_74cc1d9ef4_m.jpg)](https://www.flickr.com/photos/habi/4375756190/)
 
-  [![](https://static.flickr.com/4029/4375756190_74cc1d9ef4_m.jpg)](https://www.flickr.com/photos/habi/4375756190/)  
+[1. Velotour 2010](https://www.flickr.com/photos/habi/4375756190/)
 
-  [1. Velotour 2010](https://www.flickr.com/photos/habi/4375756190/)  
+Originally uploaded by [habi](https://www.flickr.com/people/habi/).
 
-  Originally uploaded by [habi](https://www.flickr.com/people/habi/).
+auch 1 gang reicht, um von bern nach thun zu fahren.
+die velosaison ist gestartet!
 
+**update:** hier ist noch der gps-track, direkt von alltrails.com
 
-auch 1 gang reicht, um von bern nach thun zu fahren. die velosaison ist gestartet!  
-
-
-**update:** hier ist noch der gps-track, direkt von gpsies.com
-
+<iframe src="https://www.alltrails.com/widget/map?file_id=rfcbadmaaqyzyuat" scrolling="no" marginheight="0" marginwidth="0" width="600" height="400" frameborder="0"></iframe>
