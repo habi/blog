@@ -12,5 +12,4 @@ categories:
 
 für Bruni und die Buben, um die Diskussion von Sonntag Abend fortzuführen: 
 
-				  
-[CERN Rap](http://www.vimeo.com/1431471?pg=embed&sec=1431471) from [Will Barras](http://www.vimeo.com/user640443?pg=embed&sec=1431471) on [Vimeo](https://vimeo.com?pg=embed&sec=1431471).
+{{< vimeo 1431471 >}}

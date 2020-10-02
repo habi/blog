@@ -10,16 +10,6 @@ categories:
 - movies
 ---
 
+{{< vimeo 1185346 >}}
 
-  
-  
-  
-  
-  
-
-  
-
-what a cute little man!
-
-[via iforgot]
-
+what a cute little guy!
