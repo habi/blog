@@ -31,7 +31,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< youtube kHpXle4NqWI <}}
+{{< youtube kHpXle4NqWI >}}
 Flashback zu Samstagmorgen-Trickfilmschauen
 
 {{< youtube BkvEpoqFx6c >}}
