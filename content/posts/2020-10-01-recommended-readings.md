@@ -37,10 +37,10 @@ Flashback zu Samstagmorgen-Trickfilmschauen
 {{< youtube BkvEpoqFx6c >}}
 [Henry Rollins](https://en.wikipedia.org/wiki/Henry_Rollins) über die wichtigste Entscheidung in seinem Leben.
 
-{{< youtube IHW9ByMtfpI <}}
+{{< youtube IHW9ByMtfpI >}}
 Der Trailer zu [The Climb](https://www.imdb.com/title/tt8637440/).
 Der Film ist sehr sehenswert und war ein Grund mal wieder physisch in ein Kino zu gehen.
 
-Im letzten Monat hörte ich folgenden Podcast und fand diesen gut:
 
+Im letzten Monat hörte ich folgenden Podcast und fand diesen gut:
 - [Hunting Warhead](https://www.cbc.ca/radio/podcasts/hunting-warhead/index.html) <span style="color: #999999;">(cbc.ca)</span>: [Hunting Warhead](https://newsinteractives.cbc.ca/longform/hunting-warhead-child-porn-investigation) ist ein unglaublich packender Podcast, der über 6 ca. stündige Episoden erzählt, wie ein Team aus Journalisten, Polizisten und '[White Hat](https://en.wikipedia.org/wiki/White_hat_(computer_security))' Hacker einen Pädophilenring überführt haben und den Hauptakteur zur Verurteilung gebracht haben. 
