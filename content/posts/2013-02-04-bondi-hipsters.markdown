@@ -14,7 +14,7 @@ tags:
 - youtube
 ---
 
-Am einem langsamen Abend letzte Woche entdeckt und gleich abonniert: die Webshow der [Bondi Hipsters](https://www.youtube.com/channel/SW9t79yWkonAo), die beiden Jungs sind totes amazeballs!
+Am einem langsamen Abend letzte Woche entdeckt und gleich abonniert: die Webshow der [Bondi Hipsters](https://www.youtube.com/channel/UCVv980N5qL_i19M0f5xswRg), die beiden Jungs sind totes amazeballs!
 Im groovigen Video unten stellen sie euch ihren Lifestyle vor.
 
 {{<  youtube HR4n6OVoyYQ >}}
