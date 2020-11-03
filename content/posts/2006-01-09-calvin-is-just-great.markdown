@@ -11,9 +11,7 @@ categories:
 ---
 
 
-![](http://images.ucomics.com/comics/ch/1995/ch950109.gif)
+![](https://assets.amuniversal.com/7fd2e520e0670131732c005056a9545d)
 
 
-
-[via [c&h-feed;](http://www.ieatpaint.com/feeds/)]
-
+[via [c&h-feed](https://www.comicsrss.com/rss/calvinandhobbes.rss)]

@@ -15,11 +15,6 @@ i hope i don't get me into trouble if i seldom link to strips from calvin and ho
   
 bill watterson sometimes lays the perfect words into his mouth.
 
+![](https://assets.amuniversal.com/c3ff13c0deb901317193005056a9545d)
 
-
-[![](http://images.ucomics.com/comics/ch/1995/ch950312.gif)](http://images.ucomics.com/comics/ch/1995/ch950312.gif)
-
-
-
-[via [c&h-feed](http://www.ieatpaint.com/feeds/calvinhobbes.php)]
-
+[via [c&h-feed](https://www.comicsrss.com/rss/calvinandhobbes.rss)]
