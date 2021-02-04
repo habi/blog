@@ -13,11 +13,7 @@ tags:
 - recommended readings
 ---
 
-<blockquote>
-  Aaaaand, we're back!
-</blockquote>
-
-
+> Aaaaand, we're back!
 
 Dank [Bastian](https://github.com/dasrecht/pinboard-angelesen) und einer kleinen Migration aller meiner Bookmarks von [del.icio.us](https://del.icio.us/habi) zu [Pinboard](https://pinboard.in/u:habi) gibt's wieder ab und an ein paar Texte und Videos, die ich in letzter Zeit für gut befunden habe.
 
