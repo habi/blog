@@ -15,7 +15,6 @@ tags:
 Irgendwo auf dem Weg zwischen Instapaper, IFTTT, [Pinboard](https://pinboard.in/u:habi/t:instapaper/) und [`./generate`](https://github.com/habi/pinboard-angelesen) ist ein API-Schlüssel verloren gegangen.
 Deshalb gibt es diesen Monat die von-hand-generierte Variante, die dank Markdown und der simplen Vorlage aber auch relativ schnell erstellt werden konnte.
 
-
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
 - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7) <span style="color: #999999;">(nature.com)</span>:Eine gute Publikation über Farbenwahl bei (wissenschaftlichen) Erzeugnissen. Erinnert mich an meine Lieblingsfehlermeldung bei meiner Lieblingslibrary für Grafiken in Python ([`seaborn`](http://seaborn.pydata.org)). Wenn mensch dort `jet` (die schlechte Regenbogenskala) als Farbskala auswählt, dann reklamiert `seaborn` einfach mit ["No."](https://github.com/mwaskom/seaborn/blob/4fe84d4ff25276f0ef4ea2a18d0a31741547cb0f/seaborn/palettes.py#L172). :)
@@ -27,9 +26,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [See a salamander grow from a single cell](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/) <span style="color: #999999;">(nationalgeographic.com)</span>: Eine andere Art von Zeitrafferfilm; von *einer* befruchteten Zelle bis zum fertigen Salamander.
 - [A Giant Map drawn with a Pen](http://volzo.de/posts/plottermap/) <span style="color: #999999;">(volzo.com)</span>: Geonerdism der Superklasse, eine selbstgeplotterete Weltkarte an der Wand.
 - [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech) <span style="color: #999999;">(knightcolumbia.org)</span>: Letzthin war viel von 'free speech', Zensur und Datensparsamkeit die Rede, was Messenger und so anging. Hier mal ein etwas längerer Hintergrund. Und  denkt daran: "[Use Signal/Threema. Use Tor 😉](https://blog.dasrecht.net/2021/01/24/angelesen-71/)". Und/oder [matrix.org](https://matrix.org).
-- [I tried to report scientific misconduct. How did it go?](http://crystalprisonzone.blogspot.com/2021/01/i-tried-to-report-scientific-misconduct.html) <span style="color: #999999;">()</span>:
-- []() <span style="color: #999999;">(crystalprisonzone.blogspot.com)</span>: Wissenschaft geht aus meiner Sicht nur *radikal* offen. Ich persönlich versuch's indem alle Analysen, die ich mache, in Jupyter Notebooks auf GitHub landen. Sobald die Publikation steht werden die Repositories von privat auf öffentlich geschaltet. Dann ist das was *ich* mache genau nachvollziehbar.
-
+- [I tried to report scientific misconduct. How did it go?](http://crystalprisonzone.blogspot.com/2021/01/i-tried-to-report-scientific-misconduct.html) <span style="color: #999999;">()</span>: <span style="color: #999999;">(crystalprisonzone.blogspot.com)</span>: Wissenschaft geht aus meiner Sicht nur *radikal* offen. Ich persönlich versuch's indem alle Analysen, die ich mache, in Jupyter Notebooks auf GitHub landen. Sobald die Publikation steht werden die Repositories von privat auf öffentlich geschaltet. Dann ist das was *ich* mache genau nachvollziehbar.
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
