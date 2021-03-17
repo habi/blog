@@ -1,7 +1,7 @@
 ---
-title: Recommended Readings vom Februar 2020
-date: 2020-03-01T19:00:00.000+00:00
-slug: recommended-readings-februar-2020
+title: Recommended Readings vom Februar 2021
+date: 2021-03-01T19:00:00.000+00:00
+slug: recommended-readings-februar-2021
 categories:
 - recommended readings
 tags:
