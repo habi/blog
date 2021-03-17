@@ -14,6 +14,7 @@ tags:
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Diese paar Texte im Zusammenhang mit der Löschung meines WhatsApp-Accounts:
+
 - [WhatsApp and the domestication of users](https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html) <span style="color: #999999;">(seirdy.one)</span>: Wieso es molassenhaft zäh ist, auf einen anderen Dienst zu wechseln. Aber hey, sogar mein Mami hat's ohne Hilfe zu Signal geschafft.
 - [WhatsApp and most alternatives share the same problem – Jürg Stuker](https://stuker.com/2021/whatsapp-and-most-alternatives-share-the-same-problem/) <span style="color: #999999;">(stuker.com)</span>: Jürg Stuker über das grundlegende Problem von Messengeren.
 - [Kill the Messenger](https://www.republik.ch/2021/02/24/kill-the-messenger) <span style="color: #999999;">(republik.ch)</span>: Viele löschen Whatsapp und zügeln zu Telegram, Threema und Co., wo ihre Daten besser geschützt sind. Schön! Doch eigentlich wäre es Zeit, die Messenger-Welt komplett umzukrempeln. Ich bin erreichbar unter @habi:matrix.org :)
@@ -21,12 +22,14 @@ Diese paar Texte im Zusammenhang mit der Löschung meines WhatsApp-Accounts:
 - [The Hidden Drawbacks of P2P (And a Defense of Signal)](https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal) <span style="color: #999999;">(changelog.complete.org)</span>: Auch wenn Matrix.org super ist, für viele ist Signal die bessere Wahl.
 
 Diese paar Texte zu Corona:
+
 - [Philosophie der Pandemie: Warum wir die Coronakrise noch immer nicht begreifen](https://www.spiegel.de/psychologie/corona-leugnen-warum-wir-die-krise-noch-immer-nicht-begreifen-a-fcab1895-247a-463d-9210-b7827badf598) <span style="color: #999999;">(spiegel.de)</span>: Die Politik erlaubt Lockerungen vom Lockdown. Große Teile der Bevölkerung werden sie nutzen, obwohl ihnen klar ist, dass damit die Infiziertenzahlen steigen dürften. Warum das so ist, sagt Philosophieprofessor Albert Newen.
 - [Diese Ärzte stehen hinter den Corona-Skeptikern › higgs](https://www.higgs.ch/diese-aerzte-stehen-hinter-den-corona-skeptikern/39425/) <span style="color: #999999;">(higgs.ch)</span>: Sie wollen die Wahrheit aufdecken und propagieren Wissenschaftlichkeit – wissenschaftliche Quellen sind bei den coronaskeptischen Ärzten von Aletheia aber rar.
 - [«Wir befehlen Ihnen, die Bundesräte einzusperren»](https://www.republik.ch/2021/01/21/wir-befehlen-ihnen-die-sieben-bundesraete-in-gefaengnisse-einzusperren) <span style="color: #999999;">(republik.ch)</span>: Ein Gastro-Unternehmer fordert die Nummer zwei der Armee in einem Einschreiben dazu auf, die Schweizer Regierung zu verhaften und vor ein Kriegsgericht zu stellen. Und hält in einem Keller seiner Restaurant-Kette ein Treffen ab, an dem der Systemumsturz besprochen wird. Was geht da genau vor?
 - [Lagebesprechung](https://tante.cc/2021/01/25/lagebesprechung/) <span style="color: #999999;">(tante.cc)</span>: Ein Text über Solidarität. Wenn ihr nur einen der vier hier zu diesem Thema lest, dann diesen.
 
 Und nun zum Rest
+
 - [Age of distractions](https://www.lostbookofsales.com/age-of-distractions/) <span style="color: #999999;">(lostbookofsales.com)</span>: Bücher lesen geht nur ohne Telefon im Bett, selbst wenn ich aufm Telefon ausser für Todos, Kalender und Messenger keine Benachrichtigungen bekomme...
 - [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html) <span style="color: #999999;">(atthis.link)</span>: RSS ist immer noch das Zentrum der Befriedigung meiner Lesesucht. Schon nur 26 Webcomics zu lesen wäre ja sonst viel zu mühsam...
 - [Rechts wischen: White Date ist die Singlebörse für rechtsextreme Romantiker*innen](https://www.belltower.news/rechts-wischen-white-date-ist-die-singleboerse-fuer-rechtsextreme-romantikerinnen-111779/) <span style="color: #999999;">(belltower.news)</span>: Das Datingportal „White Date“ ist eine Plattform für rassistische Romantiker*innen. Die sollen sich vereinen, denn die westliche Gesellschaft führe Kriege gegen „Weiße“. Die einzige Antwort: möglichst viele „weiße“ Kinder. Das Problem: es gibt kaum Frauen auf der Seite.
