@@ -1,17 +1,21 @@
 ---
 author: habi
-title: "EqualStreetNames Bern"
+title: "EqualStreetNames Bern. Oder die Geschlechterverteilung der Strassennamen in meiner Heimatstadt."
 slug: equalstreetnames-bern
 date: 2021-05-03T22:37:14+02:00
 draft: true
 categories:
-- nerdism
+- technospeak
 - openstreetmap
 - personal
 tags:
+- nerdism
 - opendata
 - openstreeetmap
 - collaboration
+- bern
+- gender
+- visualization
 ---
 
 
@@ -22,16 +26,16 @@ Letzthin bin ich via [WeeklyOSM](https://weeklyosm.eu/archives/14443#wn560_24766
 Das Team von EqualStreetNames visualisiert, wie die Geschlechterverteilung der Strassennamen in einer Stadt aussieht, z.B. für [Brüssel](https://equalstreetnames.brussels/).
 Das Team von EqualStreetNames hat [eine Vorlage](https://github.com/EqualStreetNames/equalstreetnames-template) erstellt, damit eine solche Strassenbenamsungsgeschlechterverteilungsvisualisierung für jede beliebige Stadt erstellt werden kann.
 Da ich Verknüpfungen von verschiedenen Datenquellen liebe und ’a sucker for nice visualizations’ bin, hab ich mir gedacht, das sollte doch auch für Bern gemacht werden.
-Etwas später war die Vorlage [angepasst](https://github.com/EqualStreetNames/equalstreetnames-bern) und noch einen Moment später war https://bern.equalstreetnames.eu/ mit der Ersten nach dem Geschlecht der Namensgeber*in visualisierten Strasse online, der [Hardeggerstrasse](https://overpass-api.de/achavi/?changeset=103203212).
+Etwas später war die Vorlage [angepasst](https://github.com/EqualStreetNames/equalstreetnames-bern) und noch einen Moment später war [https://bern.equalstreetnames.eu/](https://bern.equalstreetnames.eu/) mit der Ersten nach dem Geschlecht der Namensgebebeerin visualisierten Strasse online, der [Hardeggerstrasse](https://overpass-api.de/achavi/?changeset=103203212).
 
 Vor einer Woche hab’ ich dann ein paar OpenStreetMap-Aktive in Bern angeschrieben, ob sie mithelfen, die Strassen mit den notwendigen (und richtigen) [`name:etymology:wikidata`](https://wiki.openstreetmap.org/wiki/Key:name:etymology:wikidata)-Tags zu versehen, damit diese Strassen dann in der Visualisierung auftauchen.
-Dieser Tag beschreibt die Namensgeber*in in maschinenlesbarer Form, so dass automatisch das Geschlecht ausgelesen und visualisiert werden kann.
+Dieser Tag beschreibt die Namensgeber\*in in maschinenlesbarer Form, so dass automatisch das Geschlecht ausgelesen und visualisiert werden kann.
 
 Eine Woche später haben mindestens [thisss](http://osm.org/user/thisss), [ydrgbjo](http://osm.org/user/ydrgbjo), [freaktechnik](http://osm.org/user/freaktechnik), [chatelao](http://osm.org/user/chatelao) und [orycteropus1](http://osm.org/user/orycteropus1) (sortiert in Reaktionszeitreihenfolge) mitgeholfen, dass von 908 Strassennamen in Bern schon 177 mit dem `name:etymology:wikidata`-Tag versehen sind [1].
 
 Das Resultat der Arbeit ist hier zu sehen: [EqualStreetNames.Bern](https://bern.equalstreetnames.eu/).
 
-Von den 177 Strassen, die bis jetzt eine*r Namensgeber*in zugeordnet sind, sind 151 nach einem Mann und 24 nach einer Frau benannt.
+Von den 177 Strassen, die bis jetzt eine\*r Namensgeber\*in zugeordnet sind, sind 151 nach einem Mann und 24 nach einer Frau benannt.
 Die restlichen 731 Strassen sind entweder nach irgendwas sonst benannt, oder wurden noch nicht richtig zugeordnet.
 
 Wer mithelfen möchte, am Repository für Bern rumzubasteln, oder dasselbe für ’seine’ Stadt nachzubauen möchte, kann sich gerne direkt bei mir melden.
@@ -41,7 +45,7 @@ Wer mithelfen möchte, am Repository für Bern rumzubasteln, oder dasselbe für 
 PS1: chatelao hat von einer Bekannten aus der Politik eine Liste mit allen Strassenbeschilderungungen aufgetrieben, die wir mit Quellenangabe "Geodaten Stadt Bern” verwenden dürfen und in [eine Tabelle](https://docs.google.com/spreadsheets/d/15dDGMJSa0HdUemPqakue229IPZydJl1pMS2FPgCgoCA/edit#gid=0
 ) abgefüllt.
 
-PS2: ydrgbjo hat eine [Wikimedia Commons-Kategorie](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Bern) erstellt; er und ich befüllen diese mit Strassenschilder-Fotos, damit unser Tagging nachvollziehbar ist.
+PS2: ydrgbjo hat eine [Wikimedia Commons-Kategorie](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Bern) erstellt; er n ich befüllen diese mit Strassenschilder-Fotos, damit unser Tagging nachvollziehbar ist.
 
 PS3: Das [Interdisziplinäre Zentrum für Geschlechterforschung der Uni Bern](https://www.izfg.unibe.ch) hat es in den zwei vergangenen Wochen noch nicht mal geschafft auf meine Mail-Anfrage nach Strassennamengeschlechteraufteilung zu reagieren, auch wenn der [Barbara-Lischetti-Platz](https://www.openstreetmap.org/way/665047918/) direkt vor deren Tür liegt :
 
