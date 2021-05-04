@@ -17,7 +17,7 @@ tags:
 - visualization
 ---
 
-![Bärn, i ha di gärn!](/static/2021/Bern.png)
+![Bärn, i ha di gärn!](/static/images/2021/Bern.png)
 
 Wer mich ein bisschen kennt, weiss, dass ich einen OpenStreetMap-Fetisch habe.
 Letzthin bin ich via [WeeklyOSM](https://weeklyosm.eu/archives/14443#wn560_24766) auf [EqualStreetNames](http://equalstreetnames.be) gestossen.
