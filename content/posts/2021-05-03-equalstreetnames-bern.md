@@ -3,7 +3,6 @@ author: habi
 title: "EqualStreetNames Bern. Oder die Geschlechterverteilung der Strassennamen in meiner Heimatstadt."
 slug: equalstreetnames-bern
 date: 2021-05-03T22:37:14+02:00
-draft: true
 categories:
 - technospeak
 - openstreetmap
@@ -17,7 +16,6 @@ tags:
 - gender
 - visualization
 ---
-
 
 ![Bärn, i ha di gärn!](/static/2021/Bern.png)
 
@@ -42,11 +40,10 @@ Wer mithelfen möchte, am Repository für Bern rumzubasteln, oder dasselbe für 
 
 [1]: Teilweise sogar mit zwei solchen Tags, wie die [Tschäppätstrasse](https://www.openstreetmap.org/way/249724883), die nach beiden Tschäppäts benannt ist.
 
-PS1: chatelao hat von einer Bekannten aus der Politik eine Liste mit allen Strassenbeschilderungungen aufgetrieben, die wir mit Quellenangabe "Geodaten Stadt Bern” verwenden dürfen und in [eine Tabelle](https://docs.google.com/spreadsheets/d/15dDGMJSa0HdUemPqakue229IPZydJl1pMS2FPgCgoCA/edit#gid=0
-) abgefüllt.
+PS1: chatelao hat von einer Bekannten aus der Politik eine Liste mit allen Strassenbeschilderungungen aufgetrieben, die wir mit Quellenangabe "Geodaten Stadt Bern” verwenden dürfen und in [eine Tabelle](https://docs.google.com/spreadsheets/d/15dDGMJSa0HdUemPqakue229IPZydJl1pMS2FPgCgoCA/edit#gid=0) abgefüllt.
 
 PS2: ydrgbjo hat eine [Wikimedia Commons-Kategorie](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Bern) erstellt; er und ich befüllen diese mit Strassenschilder-Fotos, damit unser Tagging nachvollziehbar ist.
 
 PS3: Das [Interdisziplinäre Zentrum für Geschlechterforschung der Uni Bern](https://www.izfg.unibe.ch) hat es in den zwei vergangenen Wochen noch nicht mal geschafft auf meine Mail-Anfrage nach Strassennamengeschlechteraufteilung zu reagieren, auch wenn der [Barbara-Lischetti-Platz](https://www.openstreetmap.org/way/665047918/) direkt vor deren Tür liegt :
 
-PS4: Das Bild mit den Strassen von Bern im Header habe ich schnell mit der Hilfe von [`osmnx`](https://geoffboeing.com/2016/11/osmnx-python-street-networks/) und dessen [Beispiel-Notebook 7](https://mybinder.org/v2/gh/gboeing/osmnx-examples/main) gemacht...
+PS4: Das Bild mit den Strassen von Bern im Header habe ich schnell mit der Hilfe von [`osmnx`](https://geoffboeing.com/2016/11/osmnx-python-street-networks/) und dessen [Beispiel-Notebook 7](https://mybinder.org/v2/gh/gboeing/osmnx-examples/main) gemacht.
