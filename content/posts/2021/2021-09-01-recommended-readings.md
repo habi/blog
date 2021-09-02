@@ -9,18 +9,20 @@ tags:
 - reading
 - recommended readings
 - linkdump
-draft: yes
 ---
 
-Im letzten Monat las ich folgende Texte und fand diese gut:
+Im letzten (halben) Monat las ich folgende Texte und fand diese gut:
 
-- [Lungenarzt über Covid:  „Wer nicht geimpft ist, bereut es“](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/arzt-interviews/lungenarzt-ueber-covid-wer-nicht-geimpft-ist-bereut-es-17494037.html) <span style="color: #999999;">(faz.net)</span>: ich habe bisher noch keine vollständig geimpften Personen mit schweren Verläufen im Krankenhaus gesehen
-- [One Bad Apple - The Hacker Factor Blog](https://www.hackerfactor.com/blog/index.php?%2Farchives%2F929-One-Bad-Apple.html=) <span style="color: #999999;">(hackerfactor.com)</span>: 
-- [As demand for bikes surged, Amazon got in the way](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops) <span style="color: #999999;">(theverge.com)</span>: 
-- [The Coronavirus Is Here Forever. This Is How We Live With It.](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/) <span style="color: #999999;">(theatlantic.com)</span>: 
-- [Built My Own X-Ray After a Hospital Charged Me $69,210.32](https://www.youtube.com/watch?v=IiJAq53knwc) <span style="color: #999999;">(youtube.com)</span>: 
-- [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/) <span style="color: #999999;">(theatlantic.com)</span>: 
-- [[Letter from Alaska] Eating the Whale, By Wyatt Williams | Harper's Magazine](https://harpers.org/archive/2021/09/eating-the-whale-a-personal-history-of-meat-wyatt-williams/) <span style="color: #999999;">(harpers.org)</span>: 
-- [Patrick Seabase: Die Schönheit des Leidens](https://www.redbull.com/ch-de/unbrakeable-patrick-seabase-portraet) <span style="color: #999999;">(redbull.com)</span>: 
+- [Lungenarzt über Covid:  „Wer nicht geimpft ist, bereut es“](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/arzt-interviews/lungenarzt-ueber-covid-wer-nicht-geimpft-ist-bereut-es-17494037.html) <span style="color: #999999;">(faz.net)</span>: Schon nur der Satz "Ich habe bisher noch keine vollständig geimpften Personen mit schweren Verläufen im Krankenhaus gesehen" sollte Impfgegner überzeugen.
+- [As demand for bikes surged, Amazon got in the way](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops) <span style="color: #999999;">(theverge.com)</span>: Besser lokal als bei Amazon kaufen, gell!
+- [The Coronavirus Is Here Forever. This Is How We Live With It.](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/) <span style="color: #999999;">(theatlantic.com)</span>: SARS-CoV-2 wird noch eine Weile bei uns bleiben. Tun wir alles, damit es endemisch wird.
+- [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/) <span style="color: #999999;">(theatlantic.com)</span>: In einem Text über ein Weltraumteleskop von Piraten zu lesen hat mich ehrlich gesagt etwas überrascht :)
+- [Eating the Whale. A personal history of meat](https://harpers.org/archive/2021/09/eating-the-whale-a-personal-history-of-meat-wyatt-williams/) <span style="color: #999999;">(harpers.org)</span>: Quasi übers Fleisch essen. Aber eigentlich über ganz was anderes.
+
+  
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
+
+- [UnBRAKEable](https://www.redbull.com/int-en/films/unbrakeable-film) Ich muss dieses Jahr auch noch mal über einen Alpenpass fahren. Aber *mit* Gängen...
+- {{< youtube IiJAq53knwc >}} William Osman baut sich mal eben schnell ein Röntgengerät. Sehr lustig, und ein bisschen gefährlich.
+
