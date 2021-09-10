@@ -13,7 +13,7 @@ tags:
 
 Im letzten (halben) Monat las ich folgende Texte und fand diese gut:
 
-- [Lungenarzt über Covid:  „Wer nicht geimpft ist, bereut es“](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/arzt-interviews/lungenarzt-ueber-covid-wer-nicht-geimpft-ist-bereut-es-17494037.html) <span style="color: #999999;">(faz.net)</span>: Schon nur der Satz "Ich habe bisher noch keine vollständig geimpften Personen mit schweren Verläufen im Krankenhaus gesehen" sollte Impfgegner überzeugen.
+- [Lungenarzt über Covid:  "Wer nicht geimpft ist, bereut es"](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/arzt-interviews/lungenarzt-ueber-covid-wer-nicht-geimpft-ist-bereut-es-17494037.html) <span style="color: #999999;">(faz.net)</span>: Schon nur der Satz "Ich habe bisher noch keine vollständig geimpften Personen mit schweren Verläufen im Krankenhaus gesehen" sollte Impfgegner überzeugen.
 - [As demand for bikes surged, Amazon got in the way](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops) <span style="color: #999999;">(theverge.com)</span>: Besser lokal als bei Amazon kaufen, gell!
 - [The Coronavirus Is Here Forever. This Is How We Live With It.](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/) <span style="color: #999999;">(theatlantic.com)</span>: SARS-CoV-2 wird noch eine Weile bei uns bleiben. Tun wir alles, damit es endemisch wird.
 - [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/) <span style="color: #999999;">(theatlantic.com)</span>: In einem Text über ein Weltraumteleskop von Piraten zu lesen hat mich ehrlich gesagt etwas überrascht :)
