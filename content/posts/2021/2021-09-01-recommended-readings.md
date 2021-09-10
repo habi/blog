@@ -19,10 +19,7 @@ Im letzten (halben) Monat las ich folgende Texte und fand diese gut:
 - [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/) <span style="color: #999999;">(theatlantic.com)</span>: In einem Text über ein Weltraumteleskop von Piraten zu lesen hat mich ehrlich gesagt etwas überrascht :)
 - [Eating the Whale. A personal history of meat](https://harpers.org/archive/2021/09/eating-the-whale-a-personal-history-of-meat-wyatt-williams/) <span style="color: #999999;">(harpers.org)</span>: Quasi übers Fleisch essen. Aber eigentlich über ganz was anderes.
 
-  
-
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 - [UnBRAKEable](https://www.redbull.com/int-en/films/unbrakeable-film) Ich muss dieses Jahr auch noch mal über einen Alpenpass fahren. Aber *mit* Gängen...
 - {{< youtube IiJAq53knwc >}} William Osman baut sich mal eben schnell ein Röntgengerät. Sehr lustig, und ein bisschen gefährlich.
-
