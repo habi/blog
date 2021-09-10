@@ -11,7 +11,7 @@ tags:
 - linkdump
 ---
 
-Im letzten Monat waren wir in [den Ferien in Frankreich](https://www.flickr.com/photos/habi/albums/72157719722744511) und habe im Mietcamper viele Texte gelesen. 
+Im letzten Monat waren wir in [den Ferien in Frankreich](https://www.flickr.com/photos/habi/albums/72157719722744511) und ich habe im Mietcamper viele Texte gelesen. 
 Diese hier fand ich gut:
 
 - [Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope) <span style="color: #999999;">(daringfireball.net)</span>: Es geht noch ein paar Jahre, bis K1 oder K2 unbeaufsichtigt Nachrichten verschicken werden, aber die 'slipery slope', die Apple hier aufbaut muss noch zeigen, in welche Richtung sie abrutscht.
