@@ -12,7 +12,7 @@ tags:
 ---
 
 <!-- wp:paragraph -->
-<p>Hier einer der Posts zu meinem 2020. Dieser und andere Posts sind unter dem Tag <a href="http://habi.gna.ch/tag/jahresruckblick20"><code>jahresrückblick20</code></a> zu finden.</p>
+<p>Hier einer der Posts zu meinem 2020. Dieser und andere Posts sind unter dem Tag <a href="https://habi.gna.ch/tag/jahresruckblick20"><code>jahresrückblick20</code></a> zu finden.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6073,"sizeSlug":"large"} -->

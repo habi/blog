@@ -20,8 +20,8 @@ tags:
 ---
 ![Bärn, i ha di gärn!](/static/images/2021/Bern.png "Berns Strassen")
 
-Wer mich ein bisschen kennt, weiss, dass ich einen OpenStreetMap-Fetisch habe.  
-Letzthin bin ich via [WeeklyOSM](https://weeklyosm.eu/archives/14443#wn560_24766) auf [EqualStreetNames](http://equalstreetnames.be) gestossen.
+Wer mich ein bisschen kennt, weiss, dass ich einen OpenStreetMap-Fetisch habe.
+Letzthin bin ich via [WeeklyOSM](https://weeklyosm.eu/archives/14443#wn560_24766) auf [EqualStreetNames](https://equalstreetnames.eu) gestossen.
 Das Team von EqualStreetNames visualisiert, wie die Geschlechterverteilung der Strassennamen in einer Stadt aussieht, z.B. für [Brüssel](https://equalstreetnames.brussels/).
 Das Team von EqualStreetNames hat [eine Vorlage](https://github.com/EqualStreetNames/equalstreetnames-template) erstellt, damit eine solche Strassenbenamsungsgeschlechterverteilungsvisualisierung für jede beliebige Stadt erstellt werden kann.
 Da ich Verknüpfungen von verschiedenen Datenquellen liebe und ’a sucker for nice visualizations’ bin, hab ich mir gedacht, das sollte doch auch für Bern gemacht werden.
@@ -30,7 +30,7 @@ Etwas später war die Vorlage [angepasst](https://github.com/EqualStreetNames/eq
 Vor einer Woche hab’ ich dann ein paar OpenStreetMap-Aktive in Bern angeschrieben, ob sie mithelfen, die Strassen mit den notwendigen (und richtigen) [`name:etymology:wikidata`](https://wiki.openstreetmap.org/wiki/Key:name:etymology:wikidata)-Tags zu versehen, damit diese Strassen dann in der Visualisierung auftauchen.
 Dieser Tag beschreibt die Namensgeber*in in maschinenlesbarer Form, so dass automatisch das Geschlecht ausgelesen und visualisiert werden kann.
 
-Eine Woche später haben mindestens [thisss](http://osm.org/user/thisss), [ydrgbjo](http://osm.org/user/ydrgbjo), [freaktechnik](http://osm.org/user/freaktechnik), [chatelao](http://osm.org/user/chatelao) und [orycteropus1](http://osm.org/user/orycteropus1) (sortiert in Reaktionszeitreihenfolge) mitgeholfen, dass von 908 Strassennamen in Bern schon 177 mit dem `name:etymology:wikidata`-Tag versehen sind \[1\].
+Eine Woche später haben mindestens [thisss](https://osm.org/user/thisss), [ydrgbjo](https://osm.org/user/ydrgbjo), [freaktechnik](https://osm.org/user/freaktechnik), [chatelao](https://osm.org/user/chatelao) und [orycteropus1](https://osm.org/user/orycteropus1) (sortiert in Reaktionszeitreihenfolge) mitgeholfen, dass von 908 Strassennamen in Bern schon 177 mit dem `name:etymology:wikidata`-Tag versehen sind \[1\].
 
 Das Resultat der Arbeit ist hier zu sehen: [EqualStreetNames.Bern](https://bern.equalstreetnames.eu/).
 
