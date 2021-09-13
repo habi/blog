@@ -22,7 +22,7 @@ Ich möchte festhalten, dass die Webseite alleine Marks Werk ist, ich hab’ nur
 
 Genau wie er habe ich meine ersten Panorama-Aufnahmen noch mit normalen Fotos, viel Klebeband und einer grossen Unterlage gestaltet, seit Jahren klebe ich die Aufnahmen nur noch am Rechner zusammen1.
 
-Eine Auswahl von Marks und meinen Panorama-Fotos im 3:1-Format sind jetzt schon auf der Webseite zu sehen, wir planen beide weiter im Archiv zu graben und auch neue Fotos dort hochzuladen. Eine Übersicht aller bisherigen Bilder gibts in der [Kartenansicht](http://www.bigwideworld.ch/map) oder in der [Liste](http://www.bigwideworld.ch/photos). Die neuesten Bilder tauchen im RSS-Feed der Seite unter [bigwideworld.ch/feed](http://bigwideworld.ch/feed) auf, oder auch auf dem Twitter-Kanal [@bww_ch](http://twitter.com/bww_ch) (wer das lieber hat).
+Eine Auswahl von Marks und meinen Panorama-Fotos im 3:1-Format sind jetzt schon auf der Webseite zu sehen, wir planen beide weiter im Archiv zu graben und auch neue Fotos dort hochzuladen. Eine Übersicht aller bisherigen Bilder gibts in der [Kartenansicht](http://www.bigwideworld.ch/map) oder in der [Liste](http://www.bigwideworld.ch/photos). Die neuesten Bilder tauchen im RSS-Feed der Seite unter [bigwideworld.ch/feed](http://bigwideworld.ch/feed) auf, oder auch auf dem Twitter-Kanal [@bww_ch](https://twitter.com/bww_ch) (wer das lieber hat).
 
 Wir freuen uns über zahlreiche Mit-Betrachterinnen und Kommentare!
 
