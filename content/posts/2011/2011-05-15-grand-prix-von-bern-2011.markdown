@@ -25,7 +25,7 @@ Dabei herausgekommen ist das unten eingebundene Zeitraffer-Video:
 Nachdem das ganze Feld das erste Mal durch die Kramgasse gerannt war, blieb mir noch genug Zeit, um auf dem Bundesplatz noch ein weiteres Foto zu schiessen.
 Genauer waren's dann insgesamt 72 Fotos, die nach etwas Bearbeitung dann so aussehen.
 
-[![Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused-Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused stereographic.jpg](http://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic.jpg)
+[![Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused-Bundesplatz GP 2011 DSC_9890 1-DSC_9889 1_fused stereographic.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-Bundesplatz-GP-2011-DSC_9890-1-DSC_9889-1_fused-stereographic.jpg)
 
 Leider habe ich im strömenden Regen eine Einkerbung auf meinem Panoramakopf übersprungen, so dass neben dem Eingang des Bundeshauses ein weisser Fleck entstand, der von keinem Foto abgedeckt wurde.
 Nichtsdestotrotz finde ich die [Rundum-Aufnahme](http://www.flickr.com/photos/habi/5722374858/) vom Bundesplatz speziell in der "[Little Planet](http://www.flickr.com/groups/littleplanets/)"-Version gelungen.

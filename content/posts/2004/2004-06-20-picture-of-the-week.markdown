@@ -10,7 +10,7 @@ categories:
 - picture of the week
 ---
 
-finally i can link to [this post](http://habi.bild.li/1744/view.html) on bild.li, because the picture of that photo-shooting is now available:
+finally i can link to [this post](https://habi.bild.li/1744/view.html) on bild.li, because the picture of that photo-shooting is now available:
 about a month ago i spent a day in biel with about 40 other people. [franziska frutiger](http://www.foto-ff.com/) took pictures of us, and now the result looks like this:
 
 [![swisscom](https://habi.gna.ch/blog/images/swisscom-tm.jpg)](https://habi.gna.ch/blog/images/swisscom.jpg)
