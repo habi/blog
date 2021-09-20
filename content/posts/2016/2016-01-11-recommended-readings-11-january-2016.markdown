@@ -23,7 +23,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Unicef und Blutgold](http://reportagen.com/content/unicef-und-blutgold): Die Reportage über den [Heraeus](https://www.heraeus.com/)-Scheff und das Gold aus dem Kongo, das in Uganda 'gewaschen' wurde habe ich auf totem Holz im Reportagen-Heft gelesen. Und bin froh, dass das Gold unserer Eheringe von [Rüethy](http://www.ruethy.ch) zertifiziertes, sog. [Ökogold](http://www.gyr.ch/de/recycling/) ist.
 
 
-  * [The problem with self-driving cars: who controls the code?](http://www.theguardian.com/technology/2015/dec/23/the-problem-with-self-driving-cars-who-controls-the-code): Der Guardian schreibt über selbstfahrende Autos. Und die Implikationen, die sich daraus für die Software ergeben.
+  * [The problem with self-driving cars: who controls the code?](https://www.theguardian.com/technology/2015/dec/23/the-problem-with-self-driving-cars-who-controls-the-code): Der Guardian schreibt über selbstfahrende Autos. Und die Implikationen, die sich daraus für die Software ergeben.
 
 
   * [Überwachung für mehr Sicherheit? Ein fataler Trend](http://www.spiegel.de/netzwelt/web/sascha-lobo-ueber-die-irrationale-ausweitung-der-ueberwachung-a-1064508.html): Sascha Lobo schreibt über die Reaktionen auf den Terror in Paris. Via [Bastian](https://blog.dasrecht.net/2015/12/29/angelesen-24/).
