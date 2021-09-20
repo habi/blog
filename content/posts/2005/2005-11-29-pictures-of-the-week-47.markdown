@@ -24,7 +24,7 @@ don't we look spiffy?
 
 
 
-oh, and thanks for the clothes, [sabine](http://www.dastheater-effingerstr.ch/portrait.html)!
+oh, and thanks for the clothes, [sabine](http://theatereffinger.ch/portrait.html)!
 
 
 
