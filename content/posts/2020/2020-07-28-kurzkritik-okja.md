@@ -10,7 +10,7 @@ tags:
 - tilda
 ---
 
-[Okja](https://www.imdb.com/title/tt3967856/) wurde uns von Freunden empfohlen.
+[Okja](https://imdb.com/title/tt3967856/) wurde uns von Freunden empfohlen.
 Ich wollte den Film zuerst nicht schauen, weil's viel zu süss getönt hat.
 Und wurde dann überrascht, nicht nur wegen Tilda Swinton, die in der ersten Einstellung auftaucht.
 Startet als Kinderfilm, geht über in einen ausgelassenen Actionfilm und landet bei einer intelligenten Unternehmenssatire.

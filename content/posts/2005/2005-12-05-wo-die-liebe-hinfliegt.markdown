@@ -23,7 +23,7 @@ ich spiele wieder einmal im theater an der effingerstrasse in einem stuck mit. d
 
 
 
-das stuck "[wo die liebe hinfliegt](http://www.dastheater-effingerstr.ch/spielzeit.shtml)" ist eine komodie in anlehung an den film "[jetlag - oder wo die liebe hinfliegt](http://www.imdb.com/title/tt0293116/)".
+das stuck "[wo die liebe hinfliegt](http://www.dastheater-effingerstr.ch/spielzeit.shtml)" ist eine komodie in anlehung an den film "[jetlag - oder wo die liebe hinfliegt](https://imdb.com/title/tt0293116/)".
 
 
 

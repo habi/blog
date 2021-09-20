@@ -10,4 +10,4 @@ categories:
 - none
 ---
 
-where the hell have we come, when [cyborgs](http://imdb.com/name/nm0000216/) start to [rule](http://www.cnn.com/2003/ALLPOLITICS/10/08/recall.main/index.html) the world?
+where the hell have we come, when [cyborgs](https://imdb.com/name/nm0000216/) start to [rule](http://www.cnn.com/2003/ALLPOLITICS/10/08/recall.main/index.html) the world?

@@ -20,12 +20,12 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
 - Bademeister
 
 <del>**4**</del>**6 Filme die ich immer wieder sehen kann:**
-- [Tokyo Eyes](http://www.imdb.com/title/tt0157117/)
-- [Akira](http://www.imdb.com/title/tt0094625/)
-- [The Fifth Element](http://www.imdb.com/title/tt0119116/)
-- [Big Fish](http://www.imdb.com/title/tt0319061/)
-- [Contact](http://www.imdb.com/title/tt0118884/)
-- [Lock, Stock and Two Smoking Barrels](http://www.imdb.com/title/tt0120735/)
+- [Tokyo Eyes](https://imdb.com/title/tt0157117/)
+- [Akira](https://imdb.com/title/tt0094625/)
+- [The Fifth Element](https://imdb.com/title/tt0119116/)
+- [Big Fish](https://imdb.com/title/tt0319061/)
+- [Contact](https://imdb.com/title/tt0118884/)
+- [Lock, Stock and Two Smoking Barrels](https://imdb.com/title/tt0120735/)
 
 **4 Orte an denen ich gelebt habe:**
 - Mailand

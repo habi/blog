@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-tonight i'll go and see [lost in translation](http://www.imdb.com/title/tt0335266/) (or was it some [other title](https://pieceoplastic.com/index.php?p=857)?) with [mike](http://www.stud.uni-karlsruhe.de/~upmw/).
+tonight i'll go and see [lost in translation](https://imdb.com/title/tt0335266/) (or was it some [other title](https://pieceoplastic.com/index.php?p=857)?) with [mike](http://www.stud.uni-karlsruhe.de/~upmw/).
 i wonder if it's worth [the four stars the local newspaper gave it](http://asp.ebund.ch/bernerkino/artikel.asp?id=5245).
 as a asia-ophile i really look forward to it. one of my dreams is to go to tokyo or some other big and rumorous asian city (be it honk-kong or peking or whatever). hopefully the movie will fuel this desire even more.
 we'll see if that dream comes true...

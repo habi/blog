@@ -12,7 +12,7 @@ categories:
 
 take a look at [this website](http://www.irobotnow.com/index.php) for a too-good-to-be-true robot, the NS-5.
 those of you that read or used to read [Isaac Asimov](http://www.asimovonline.com/) novels will get it at the first look that this page must be in some kind related to him, because of that little saying in the bottom left corner: "3 laws safe": ![](https://habi.gna.ch/blog/images/3lawssafe.jpg)
-and when you perform a [WHOIS-check](http://www.register.com/whois-results.cgi?be5dfbe7d0268a14b7519d86cab1c8d185b19eb43af1a3791cd32882dd7a6f9a1f76ed8c3c055feea42e5da4a5c8bac4) on who registered the domain [irobotnow.com](http://www.irobotnow.com/index.php) then you see that the whole thing is probably a marketing campaign to make you want to see the upcoming film by [20th century fox](http://www.fox.com/home.htm), [i robot](http://www.imdb.com/title/tt0343818/).
+and when you perform a [WHOIS-check](http://www.register.com/whois-results.cgi?be5dfbe7d0268a14b7519d86cab1c8d185b19eb43af1a3791cd32882dd7a6f9a1f76ed8c3c055feea42e5da4a5c8bac4) on who registered the domain [irobotnow.com](http://www.irobotnow.com/index.php) then you see that the whole thing is probably a marketing campaign to make you want to see the upcoming film by [20th century fox](http://www.fox.com/home.htm), [i robot](https://imdb.com/title/tt0343818/).
 
 i want to see it! 
 

@@ -38,7 +38,7 @@ Flashback zu Samstagmorgen-Trickfilmschauen
 [Henry Rollins](https://en.wikipedia.org/wiki/Henry_Rollins) über die wichtigste Entscheidung in seinem Leben.
 
 {{< youtube IHW9ByMtfpI >}}
-Der Trailer zu [The Climb](https://www.imdb.com/title/tt8637440/).
+Der Trailer zu [The Climb](https://imdb.com/title/tt8637440/).
 Der Film ist sehr sehenswert und war ein Grund mal wieder physisch in ein Kino zu gehen.
 
 
