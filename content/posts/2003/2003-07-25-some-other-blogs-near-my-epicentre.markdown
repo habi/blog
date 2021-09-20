@@ -23,7 +23,7 @@ Barni is the CTO of [[search.ch]](http://www.search.ch/) and has an unbelievable
 	
   * [Miklos](http://www.kozary.com/mt), also an old classmate of mine, and a good friend through all those long DVD-Nights :-)  
 
-He is the chief of [the steadicenter](http://www.steadicenter.com/) and one of the web-masters of [golfplayer.ch](http://www.golfplayer.ch/). The [other one](http://armand.bild.li/17/view.html) has no blog (yet).
+He is the chief of [the steadicenter](http://www.steadicenter.com/) and one of the web-masters of [golfplayer.ch](http://www.golfplayer.ch/). The [other one](https://armand.bild.li/17/view.html) has no blog (yet).
 
 
   * Barnis Brother [Arni](http://www.arnoldseefeld.com/blog/) just started a blog too.  
