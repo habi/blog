@@ -20,7 +20,7 @@ tags:
 Die Jungs und Mädels von [Bot & Dolly](http://www.botndolly.com) montierten auf mehrere Industrieroboter zwei Leinwände, Projektoren und eine Kamera (was auch Ihr Business ist).
 Mit ausgeklügelter Software und sogenannten Projektions-Mapping (genauso wie beim [Rendezvous auf dem Bundesplatz](http://www.rendezvousbundesplatz.ch/)) werden dann auf diese Leinwände Bilder projiziert, während sich diese (Leinwände und Bilder) bewegen. Alles direkt gefilmt, ohne digitale Nachbearbeitung am Computer (aber langer digitaler Vorbereitung).
 
-Was rauskommt, ist unglaublich beeindruckend anzusehen, und ich glaube es ist fast nicht übertrieben, eines der [drei Gesetze](https://de.wikipedia.org/wiki/Clarkesche_Gesetze) von [Herr Clarke](http://de.wikipedia.org/wiki/Arthur_C._Clarke) zu zitieren: "Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden".
+Was rauskommt, ist unglaublich beeindruckend anzusehen, und ich glaube es ist fast nicht übertrieben, eines der [drei Gesetze](https://de.wikipedia.org/wiki/Clarkesche_Gesetze) von [Herr Clarke](https://de.wikipedia.org/wiki/Arthur_C._Clarke) zu zitieren: "Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden".
 
 {{< vimeo 75260457 >}}
 

@@ -13,7 +13,7 @@ tags:
 - diving
 ---
 
-Der [Jellyfish Lake](https://de.wikipedia.org/wiki/Jellyfish_Lake) auf der Pazifikinsel [Palau](http://de.wikipedia.org/wiki/Palau) liegt zwar nahe am Meer, hat aber seit tausenden von Jahren keine direkte Verbindung und ist abgetrennt vom Meer.
+Der [Jellyfish Lake](https://de.wikipedia.org/wiki/Jellyfish_Lake) auf der Pazifikinsel [Palau](https://de.wikipedia.org/wiki/Palau) liegt zwar nahe am Meer, hat aber seit tausenden von Jahren keine direkte Verbindung und ist abgetrennt vom Meer.
 Durch diese Trennung entwickelten sich die im See lebenden Arten deutlich unterschiedlich zu anderen Arten.
 Im speziellen hat die im See lebende Quallenart keine Fressfeinde mehr und hat sich so in eine Quallenart entwickelt, die in Symbiose mit Algen leben und tagtägliche Wanderungen von der Tiefe an die Oberfläche des Sees machen.
 Zusätzlich haben diese Quallen noch die klassische Qualleneigenschaft, nämlich das Stechen verloren, weil sie eben keine Fressfeinde mehr hatten.

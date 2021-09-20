@@ -25,7 +25,7 @@ Vergangene Samstag Nami war ich nun kurz in der Stadt und habe einige Fotos aufg
 Das erste Bild zeigt die eindrucksvolle Grösse der Skulptur, die doch ein bisschen gefährlich aussieht so. [Arachnophobiker](https://de.wikipedia.org/wiki/Arachnophobie) müssen halt wegschauen jetzt (oder wenigstens nicht aufs Bild klicken, ums gross anzuschauen).
 
 [![Maman DSC_1206-DSC_1205 stereographic under_exposure_layers_0000.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000.jpg)
-Das zweite Bild zeigt, wie sich <a href="http://de.wikipedia.org/wiki/Louise_Bourgeois">Louise Bourgeois</a> die Skulptur vielleicht vorgestellt hat. Nämlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschützt und ernährt hat.
+Das zweite Bild zeigt, wie sich <a href="https://de.wikipedia.org/wiki/Louise_Bourgeois">Louise Bourgeois</a> die Skulptur vielleicht vorgestellt hat. Nämlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschützt und ernährt hat.
 
 [![Maman DSC_1206-DSC_1205 stereographic_exposure_layers_0000.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000.jpg)
 
