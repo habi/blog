@@ -26,7 +26,7 @@ viel musik ist noch auf den silberscheiben aufm gestell und nicht in einsen und 
 
 2. die letzte cd, die du gekauft hast, ist?
 
-</strong>vorgestern, beide zusammen: <a href="http://www.amazon.co.uk/exec/obidos/tg/detail/-/B0007DAYK6/habignach-20">tank</a> von den <a href="http://asiandubfoundation.com/">asian dub foundation</a> gielen und <a href="http://www.cede.ch/de/music-cd/partner.cfm?pid=999&amp;aobj=454328">25.07.03</a> vom <a href="http://stressmusic.com/">stress</a>.
+</strong>vorgestern, beide zusammen: <a href="https://amazon.co.uk/exec/obidos/tg/detail/-/B0007DAYK6/habignach-20">tank</a> von den <a href="http://asiandubfoundation.com/">asian dub foundation</a> gielen und <a href="http://www.cede.ch/de/music-cd/partner.cfm?pid=999&amp;aobj=454328">25.07.03</a> vom <a href="http://stressmusic.com/">stress</a>.
 
 beide im <a href="http://www.chop.ch/">chop</a>.
 
@@ -38,7 +38,7 @@ beide erst kurz angehört.
 
 bis dann hatt ich rage noch gar nicht im newsreader drin.
 
-momentan läuft grad hey! von <a href="http://www.amazon.de/exec/obidos/tg/detail/-/B0002XV2TI/habignach-20">viel </a>von <a href="http://www.diefantastischenvier.de/">den fantastischen vier</a>.
+momentan läuft grad hey! von <a href="https://amazon.de/exec/obidos/tg/detail/-/B0002XV2TI/habignach-20">viel </a>von <a href="http://www.diefantastischenvier.de/">den fantastischen vier</a>.
 
 <strong>4. fünf lieder, die dir viel bedeuten oder die du oft hörst:
 

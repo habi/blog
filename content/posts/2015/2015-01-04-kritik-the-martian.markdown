@@ -22,4 +22,4 @@ Die Erklärung, wieso er doch nicht auf dem Mars stirbt, ist in einem spannenden
 
 [via [Smarter Everyday](https://youtu.be/D0B7F5UbTOQ?t=8m6s)]
 
-[1]: Mitunter ist [das Buch](http://www.amazon.com/gp/product/0553418025/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=habignach-20&linkId=OGPSCGQEWXZIJVYM)![](http://ir-na.amazon-adsystem.com/e/ir?t=habignach-20&l=as2&o=1&a=0553418025) der Grund, wieso ich nach zwei Stunden nach dem ins-Bett-gehen in der ersten Nacht im neuen Jahr nochmals aufgestanden bin um die [Kamera aus der Kälte hereinzuholen](https://flic.kr/p/qp2t2k).
+[1]: Mitunter ist [das Buch](https://amazon.com/gp/product/0553418025/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=habignach-20&linkId=OGPSCGQEWXZIJVYM)![](http://ir-na.amazon-adsystem.com/e/ir?t=habignach-20&l=as2&o=1&a=0553418025) der Grund, wieso ich nach zwei Stunden nach dem ins-Bett-gehen in der ersten Nacht im neuen Jahr nochmals aufgestanden bin um die [Kamera aus der Kälte hereinzuholen](https://flic.kr/p/qp2t2k).

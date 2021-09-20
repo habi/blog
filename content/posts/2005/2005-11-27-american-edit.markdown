@@ -11,7 +11,7 @@ categories:
 ---
 
 
-[![ Deangraycover](https://habi.gna.ch/blog/images/_deangraycover-tm.jpg)](https://habi.gna.ch/blog/images/_deangraycover.jpg)a so-called dean gray mashed up [green days american idiot](http://www.amazon.de/exec/obidos/redirect?tag=habignach-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.de/gp/redirect.html%253fASIN=B0002OERI0%2526tag=habignach-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/B0002OERI0%25253FSubscriptionId=02ZH6J1W0649DTNS6002) into american edit.
+[![ Deangraycover](https://habi.gna.ch/blog/images/_deangraycover-tm.jpg)](https://habi.gna.ch/blog/images/_deangraycover.jpg)a so-called dean gray mashed up [green days american idiot](https://amazon.de/exec/obidos/redirect?tag=habignach-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.de/gp/redirect.html%253fASIN=B0002OERI0%2526tag=habignach-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/B0002OERI0%25253FSubscriptionId=02ZH6J1W0649DTNS6002) into american edit.
 
 
 

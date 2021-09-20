@@ -22,7 +22,7 @@ the solution is actually not any different than with the applescript, but kung-t
 
 but  there was even some more debugging needed and quite a long discussion over [fire](http://fire.sourceforge.net/) with [berni](http://www.bernhardseefeld.ch/), which led to the final result (with again some l33t coding snippets flying through the ether) to the new category on the sidebar.   
 
-you can now see what five songs my itunes played in the last few minutes. including links to the [ITMS](http://www.apple.com/itunes/store/) (where you can only buy the song if you are in the us of a-land, but a preview is availiable from everywhere) and cover-art from [amazon](http://www.amazon.com/) (if available).   
+you can now see what five songs my itunes played in the last few minutes. including links to the [ITMS](http://www.apple.com/itunes/store/) (where you can only buy the song if you are in the us of a-land, but a preview is availiable from everywhere) and cover-art from [amazon](https://amazon.com/) (if available).   
 
 an interesting point of view if you want to know what rocks my socks.
   

@@ -20,4 +20,4 @@ Die Beschreibung der Geräusche der Linotypisten zwingt ein Lächeln aufs Gesich
 
 {{< vimeo 15032988 >}}
 
-Wer auch nur halbwegs so ein verkappter Typographie-Nerd ist, wie ich, wird Freude an diesem Film haben, erhältlich als [DVD](http://shop.linotypefilm.com), über [iTunes](https://itunes.apple.com/us/movie/linotype-the-film/id566509420) oder [Amazon](http://www.amazon.com/Linotype-The-Film/dp/B009RI2T82/).
+Wer auch nur halbwegs so ein verkappter Typographie-Nerd ist, wie ich, wird Freude an diesem Film haben, erhältlich als [DVD](http://shop.linotypefilm.com), über [iTunes](https://itunes.apple.com/us/movie/linotype-the-film/id566509420) oder [Amazon](https://amazon.com/Linotype-The-Film/dp/B009RI2T82/).
