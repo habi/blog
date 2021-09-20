@@ -11,7 +11,7 @@ categories:
 - linkdump
 ---
 
-[![Whatislove-2](https://habi.gna.ch/wp-content/uploads/2007/01/whatislove-2-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/01/whatislove-2.png)you know [haddaways what is love](http://www.google.com/musicl?lid=fzNqLtwJrTG&aid=gKkKk5ug-ML)? then you have to see how love is in [different versions](http://www.kontraband.com/show/show.asp?ID=5274). but make sure you do so at home, because it's much much funnier if you crank up your volume. and be sure to start on the left and work to the right!
+[![Whatislove-2](https://habi.gna.ch/wp-content/uploads/2007/01/whatislove-2-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/01/whatislove-2.png)you know [haddaways what is love](https://google.com/musicl?lid=fzNqLtwJrTG&aid=gKkKk5ug-ML)? then you have to see how love is in [different versions](http://www.kontraband.com/show/show.asp?ID=5274). but make sure you do so at home, because it's much much funnier if you crank up your volume. and be sure to start on the left and work to the right!
 have a nice start into the week
 
 [via [piece0plastic](http://www.kontraband.com/show/show.asp?ID=5274)]

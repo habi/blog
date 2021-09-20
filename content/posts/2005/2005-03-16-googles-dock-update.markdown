@@ -15,7 +15,7 @@ if you cannot be without the dock magnification effect, then you abolutely must 
 
 
 
-[via [google blog](http://www.google.com/googleblog/2005/03/google-goes-x.html)]
+[via [google blog](https://google.com/googleblog/2005/03/google-goes-x.html)]
 
 
 

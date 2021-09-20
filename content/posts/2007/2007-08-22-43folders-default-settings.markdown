@@ -10,7 +10,7 @@ categories:
 - fun
 ---
 
-i relly got a chuckle out of this search on google: "[Untitled Document](http://www.google.com/search?hl=en&client=safari&rls=en&q=%22untitled+document%22&btnG=Search)" after reading [this comment](http://www.43folders.com/2007/08/21/default-settings/#comment-14773) on the "[What default settings would you change](http://www.43folders.com/2007/08/21/default-settings/)"-post on [43-folders](http://www.43folders.com/).
+i relly got a chuckle out of this search on google: "[Untitled Document](https://google.com/search?hl=en&client=safari&rls=en&q=%22untitled+document%22&btnG=Search)" after reading [this comment](http://www.43folders.com/2007/08/21/default-settings/#comment-14773) on the "[What default settings would you change](http://www.43folders.com/2007/08/21/default-settings/)"-post on [43-folders](http://www.43folders.com/).
 
 very nerdy, but highly hilarious!
 

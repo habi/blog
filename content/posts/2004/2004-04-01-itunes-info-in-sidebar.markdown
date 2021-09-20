@@ -84,7 +84,7 @@ was played <? echo datediff('<$MTPingDate format="%Y-%m-%d %H:%M:%S"$>'); ?>.
 you can also see the <a href="https://habi.gna.ch/blog/itunes/lastfive.html" target="_blank">last five</a> or the <a href="https://habi.gna.ch/blog/itunes/last30.html" target="_blank">last 30 songs</a></blockquote>
 
 - rebuild all involved blogs.
-- [wash, rinse, repeat](http://www.google.com/search?q=wash,+rinse,+repeat&ie=UTF-8&oe=UTF-8)
+- [wash, rinse, repeat](https://google.com/search?q=wash,+rinse,+repeat&ie=UTF-8&oe=UTF-8)
 
 
 **btw**: you did not notice that since [i installed panther](https://habi.gna.ch/blog/archives/000233.html) kung-tunes was posting the album title as the song title, did you?

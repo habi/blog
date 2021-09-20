@@ -25,29 +25,29 @@ Damit du die dich betreffenden Berner Abfuhrdaten in dein Kalenderprogramm (z.B.
 
 Anschliessend musst du nur den richtigen Google Calendar abonnieren. Die untenstehenden Links verweisen auf das jeweilige .ical-File, welches in allen standardkonformen KalenderApplikationen abonniert werden kann. Ich habe alle Daten aus dem Abfallkalender eingetragen, und die Ausnahmen (für Kreis B) entsprechend im Notizfeld markiert.
 
-[Papier & Karton Bern Kreis A](http://www.google.com/calendar/ical/k3bbladsc7r59t205mldtop6vc%40group.calendar.google.com/public/basic.ics)
+[Papier & Karton Bern Kreis A](https://google.com/calendar/ical/k3bbladsc7r59t205mldtop6vc%40group.calendar.google.com/public/basic.ics)
 
-[Papier & Karton Bern Kreis B](http://www.google.com/calendar/ical/dmfv843hg1058ro36uu007aqmc%40group.calendar.google.com/public/basic.ics)
+[Papier & Karton Bern Kreis B](https://google.com/calendar/ical/dmfv843hg1058ro36uu007aqmc%40group.calendar.google.com/public/basic.ics)
 
-[Papier & Karton Bern Kreis C](http://www.google.com/calendar/ical/qeqa5fns9245iaq4kti3safhcc%40group.calendar.google.com/public/basic.ics)
+[Papier & Karton Bern Kreis C](https://google.com/calendar/ical/qeqa5fns9245iaq4kti3safhcc%40group.calendar.google.com/public/basic.ics)
 
 Da ja nebst Papier & Karton in Bern auch die Gartenabfälle abgeholt werden, habe ich auch diese in einen Google Calendar eingetragen. Wer also seinen Kompost rausstellen will, muss etwas genauer wissen, in welchem Kreis er oder sie wohnt, aber kann dann genau gleich verfahren und den entsprechenden Kalender öffnen und abonnieren.
 
-[Gartenabfälle Bern Kreis A1](http://www.google.com/calendar/ical/oslblrtuhfba8be1borunq3opo%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis A1](https://google.com/calendar/ical/oslblrtuhfba8be1borunq3opo%40group.calendar.google.com/public/basic.ics)
 
-[Gartenabfälle Bern Kreis A2](http://www.google.com/calendar/ical/nln3veo8cb2gdlir0g6mut0ggk%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis A2](https://google.com/calendar/ical/nln3veo8cb2gdlir0g6mut0ggk%40group.calendar.google.com/public/basic.ics)
 
-[Gartenabfälle Bern Kreis A3](http://www.google.com/calendar/ical/panqauqr8irvr3mjckp9pgo3jk%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis A3](https://google.com/calendar/ical/panqauqr8irvr3mjckp9pgo3jk%40group.calendar.google.com/public/basic.ics)
 
-[Gartenabfälle Bern Kreis A4](http://www.google.com/calendar/ical/68g5m12ro81gaksjd95r459uoc%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis A4](https://google.com/calendar/ical/68g5m12ro81gaksjd95r459uoc%40group.calendar.google.com/public/basic.ics)
 
-[Gartenabfälle Bern Kreis B1](http://www.google.com/calendar/ical/n6bteoe0aed2umkr57gncnvvds%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis B1](https://google.com/calendar/ical/n6bteoe0aed2umkr57gncnvvds%40group.calendar.google.com/public/basic.ics)
 
-[Gartenabfälle Bern Kreis B2](http://www.google.com/calendar/ical/i7ai1hl91gqbpge1cd70k03t6c%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis B2](https://google.com/calendar/ical/i7ai1hl91gqbpge1cd70k03t6c%40group.calendar.google.com/public/basic.ics)
 
-[Gartenabfälle Bern Kreis B3](http://www.google.com/calendar/ical/7ncb3vuofosrl15cko3p588pv4%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis B3](https://google.com/calendar/ical/7ncb3vuofosrl15cko3p588pv4%40group.calendar.google.com/public/basic.ics)
 
-[Gartenabfälle Bern Kreis B4](http://www.google.com/calendar/ical/i88g40duccnsbiohd8hea8c2b8%40group.calendar.google.com/public/basic.ics)
+[Gartenabfälle Bern Kreis B4](https://google.com/calendar/ical/i88g40duccnsbiohd8hea8c2b8%40group.calendar.google.com/public/basic.ics)
 
 Wer will, kann die Kalender auch in seinen eigenen Google Calendar einbinden, damit (kostenlose) SMS-Notifikationen möglich sind. Dazu muss mensch aber eingeladen werden. Bei Bedarf einfach ein kurzes Mail an mich oder in den Kommentaren unten dementsprechend kundtun. Wenn Interesse am RSS-Feed oder der HTML-Darstellung eines Kalenders besteht, ebenso: einfach melden.
 

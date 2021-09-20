@@ -15,7 +15,7 @@ categories:
 the weekend was absolutely wonderful (not only because i won, but also because the weather was brilliant, the hosts/organisation were superb, the course was great,...).
 i'm still putting everything together, but i'd just like to thank everyone at [velocite](http://velocite.ch/), that was only minorly involved with the organisation of the suicmc07, it was great!
 
-yesterday we had an afterparty in pully, including a jaccuzzi by [jaccuzzi.ch](http://jaccuzzi.ch/) and some [lake jumping](http://www.google.com/search?client=safari&rls=en&q=lakejump&ie=UTF-8&oe=UTF-8).
+yesterday we had an afterparty in pully, including a jaccuzzi by [jaccuzzi.ch](http://jaccuzzi.ch/) and some [lake jumping](https://google.com/search?client=safari&rls=en&q=lakejump&ie=UTF-8&oe=UTF-8).
 the image below is ändu having a nice flight into the lac léman.
 
 [![Lakejump-Aendu-Composite](https://habi.gna.ch/wp-content/uploads/2007/09/lakejump-aendu-composite-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/09/lakejump-aendu-composite.jpg)

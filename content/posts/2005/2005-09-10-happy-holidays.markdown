@@ -12,7 +12,7 @@ categories:
 ---
 
 
-i'm going on a vacation (again). i'm leaving sunday afternoon to the [philippines](http://www.tourism.gov.ph/). nina and me will be diving with [the cocktail divers](http://www.wetexpedition.de/) in [puerto galera/sabang](http://www.google.com/search?&q=puerto+galera/sabang). hopefully we'll see some fish and be able to take loads of pictures, so i got to share something with all of you when we return.
+i'm going on a vacation (again). i'm leaving sunday afternoon to the [philippines](http://www.tourism.gov.ph/). nina and me will be diving with [the cocktail divers](http://www.wetexpedition.de/) in [puerto galera/sabang](https://google.com/search?&q=puerto+galera/sabang). hopefully we'll see some fish and be able to take loads of pictures, so i got to share something with all of you when we return.
 
 
 

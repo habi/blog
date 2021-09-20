@@ -16,7 +16,7 @@ tags:
 - zteblade
 ---
 
-Letzthin konnte ich für [This](http://www.borniert.com/) wieder mal ein kleines Textli in der BZ schreiben: Ich habe über ca. 2 Wochen das Andriod-Telefon [ZTE Blade](http://www.google.com/search?&q=zte+blade), auch bekannt als 'Orange San Francisco' getestet.
+Letzthin konnte ich für [This](http://www.borniert.com/) wieder mal ein kleines Textli in der BZ schreiben: Ich habe über ca. 2 Wochen das Andriod-Telefon [ZTE Blade](https://google.com/search?&q=zte+blade), auch bekannt als 'Orange San Francisco' getestet.
 
 Vor einiger Zeit habe ich dank meinen [Online-Kollegen](http://identi.ca/habi/subscriptions) mitbekommen, dass Valora in der Schweiz ein Android-Telefon prepaid für sagenhaft günstige 100.- verkauft.
 Da ich erst nächsten Herbst bei meinem Anbieter den Vertrag verlängern kann und solange noch offiziell mit dem iPhone 3GS telefoniere, habe ich mir gedacht, dass das ein gutes Mittel sei, um mal ein anderes Gerät zu testen [1].

@@ -16,7 +16,7 @@ Anschliessend gibt's noch einiges zu tun bis Ende Juni, wenn ich meinen Diss-Vor
 Aber im Moment hab' ich etwas mehr Zeit zum rumspielen.
 
 Genau das habe ich gestern gemacht.
-Als [Typo-Nerd](http://www.google.com/images?hl=en&client=safari&rls=en&q=i%20shot%20the%20serif&um=1&ie=UTF-8&source=og&sa=N&tab=wi) habe ich meine Diss in [LaTeX](http://www.latex-project.org/) geschrieben und den Fortschritt zusätzlich in einem [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion)-Repository festgehalten.
+Als [Typo-Nerd](https://google.com/images?hl=en&client=safari&rls=en&q=i%20shot%20the%20serif&um=1&ie=UTF-8&source=og&sa=N&tab=wi) habe ich meine Diss in [LaTeX](http://www.latex-project.org/) geschrieben und den Fortschritt zusätzlich in einem [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion)-Repository festgehalten.
 Dies auch damit ich jederzeit zu einer älteren Version zurückwechseln könnte, wäre es denn nötig gewesen.
 Kürzlich bin ich über die faszinierenden Code-Visualisierungen gestossen, die mit [Gource](http://code.google.com/p/gource/) gemacht werden können.
 Wenn mann versucht, meine Arbeit an meiner Diss zu visualisieren, sieht das dann so aus:

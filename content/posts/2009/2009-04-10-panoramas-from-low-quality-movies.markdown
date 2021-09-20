@@ -62,7 +62,7 @@ now you should have some movies on your hard-disk. cycoder has the nice feature 
 **step 3:**
 import the movies into imageJ.
 
-if you're on a mac, this is just simple drag-and-drop, on windows you might be quicker altogether if you convert your movies to .avi-files, since installing quicktime for java can be a bit of a [hassle](http://www.google.com/search?client=safari&rls=en-us&q=imageJ+quicktime+windows&ie=UTF-8&oe=UTF-8), but can be done.
+if you're on a mac, this is just simple drag-and-drop, on windows you might be quicker altogether if you convert your movies to .avi-files, since installing quicktime for java can be a bit of a [hassle](https://google.com/search?client=safari&rls=en-us&q=imageJ+quicktime+windows&ie=UTF-8&oe=UTF-8), but can be done.
 
 this opens your quicktime movie as a stack of images you can then scroll through. this image-stack can then easily be exported as an image-sequence using "File > Save as > Image Sequence...". rotate the images if you've been dumb enough to hold the iphone wrong :)
 

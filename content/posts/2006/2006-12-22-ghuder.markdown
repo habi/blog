@@ -16,7 +16,7 @@ da ich auch ein bisschen knausrig bin, und mich nicht per SMS an die abfuhr erin
 feedback erwünscht!
 
 
-**update:** da jetzt [spanning syncs ical-und-google-calendar-verbinder](http://spanningsync.com/) funktioniert, gibts den müll-kalender auch bei calendar.google.com, einfach auf den böttön hier klicken: [![](http://www.google.com/calendar/images/ext/gc_button1_de.gif)](http://www.google.com/calendar/render?cid=udiqdhh922vhqr9b74enueor18%40group.calendar.google.com)
+**update:** da jetzt [spanning syncs ical-und-google-calendar-verbinder](http://spanningsync.com/) funktioniert, gibts den müll-kalender auch bei calendar.google.com, einfach auf den böttön hier klicken: [![](https://google.com/calendar/images/ext/gc_button1_de.gif)](http://www.google.com/calendar/render?cid=udiqdhh922vhqr9b74enueor18%40group.calendar.google.com)
 
 
 
