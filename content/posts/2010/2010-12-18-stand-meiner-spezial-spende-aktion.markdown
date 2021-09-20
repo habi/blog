@@ -16,7 +16,7 @@ Heute Nachmittag um 14:30 werden auf dem Bundesplatz die 10000.- von Globetrotte
 * meine Liebste
 * den Herr [Leu](https://leumund.ch/)
 * die Frau [Friedli](http://www.karinfriedli.ch/)
-* [Herr Moser](https://twitter.com/raphaelmoser) (glaub's, denn wir kennen uns noch nicht personlich)
+* [Herr Moser](https://twitter.com/raphaelmoser) (glaub's, denn wir kennen uns noch nicht persönlich)
 * [Tinu](http://tinus-welt.blogspot.com/)
 
 Ich werde in der nächsten Zeit diesen Eintrag mit den eintrudelnden Fotos aktualisieren.
@@ -47,7 +47,7 @@ Die restlichen Fotos, die auftauchen, werde ich hier vermerken und dann (evtl. e
 - [Karin machte ein abstraktes Foto](https://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14268), wenn das auftaucht, gibt das auch noch 25.-
 - [Tinus Fotos sind (scheinbar) nix geworden](https://habi.gna.ch/2010/12/18/stand-meiner-spezial-spende-aktion/#comment-14279), er spendet aber von sich aus 50.- an kiva.org. Mersi, cool!
 
-Stand 18. Dezember 2010 20:33: **125.-** (falls Karins Bild noch auftaucht) von mir personlich und 50.- von Tinu selbst. Je nach Ausgang der Diskussion [hier](https://www.flickr.com/photos/leumund/5271097890/) gibt's nochmals 25.- Topping.
+Stand 18. Dezember 2010 20:33: **125.-** (falls Karins Bild noch auftaucht) von mir persönlich und 50.- von Tinu selbst. Je nach Ausgang der Diskussion [hier](https://www.flickr.com/photos/leumund/5271097890/) gibt's nochmals 25.- Topping.
 
 **update 2**
 

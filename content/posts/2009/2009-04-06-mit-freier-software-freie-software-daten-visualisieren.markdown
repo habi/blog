@@ -49,7 +49,7 @@ im ganzen plot sind nur 55 datenpunkte verwurstet, aber nichtsdestotrotz kann ma
 
 dieser post soll auch dazu dienen, dass ich - nach dem [blgmndybrn special im musigbistrot](http://blgmndybrn.ch/?p=39) - grad noch [bastian](https://blog.dasrecht.net/) einen richtigen hinweis auf identi.ca und LaTex geben kann: bastian, identi.ca ist oben abgehandelt, meine code-schnipsel zu LaTeX landen [hier](http://www.ana.unibe.ch/~haberthuer/latex), diejenigen zur bildverarbeitung mit imagemagick [hier](http://www.ana.unibe.ch/~haberthuer/imageprocessing/imagemagick). weiter wollte [this](http://www.borniert.com/) noch auf das schöne paket hingewiesen werden, mit dem mann - mit 23 zeilen code - solche plots wie oben stehend generieren kann. eben, [pgfplots](http://pgfplots.sourceforge.net/) und mein beispiel an [LaTeX-code](http://habi.pastebin.com/f4edf34d).  
 
-also, wenn ich für die ausrechnung der tage seit dem start nicht doch gestern abend numbers verwendet hätte, würde auch der titel dieses eintrages stimmen, mit python habe ich die frei verfügbaren daten von identi.ca geladen, in ein text-file geschrieben und mit dem übermächtigen LaTeX daraus ein kleines, aber feines pdf erstellt.  
+also, wenn ich für die ausrechnung der tage seit dem start nicht doch gestern abend numbers verwendet hätte, würde auch der titel dieses einträges stimmen, mit python habe ich die frei verfügbaren daten von identi.ca geladen, in ein text-file geschrieben und mit dem übermächtigen LaTeX daraus ein kleines, aber feines pdf erstellt.  
 
 und ja, ich geb's zu, ich bin ein nerd!  
 

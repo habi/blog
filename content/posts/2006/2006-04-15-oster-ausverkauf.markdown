@@ -11,7 +11,7 @@ categories:
 ---
 
 
-ich hab mal in meiner dvd/games/etc-kiste gewuhlt (weil ich endlich mal alle meine dvds im [dvdmanager](http://dvdmanager.free.fr/) eintragen wollte) und dabei einige "karteileichen" gefunden.
+ich hab mal in meiner dvd/games/etc-kiste gewuhlt (weil ich endlich mal alle meine dvds im [dvdmanager](http://dvdmanager.free.fr/) einträgen wollte) und dabei einige "karteileichen" gefunden.
   
 und weils im moment zu stark regnet, um zum 2nd-hand-gameverkaufer auf dem marit zu gehen, landen die sachen halt auf dem netz.
   

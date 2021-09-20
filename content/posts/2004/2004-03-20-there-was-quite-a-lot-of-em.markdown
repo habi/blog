@@ -24,7 +24,7 @@ that's what they say and what it was like:
 
 
 
-<blockquote>Nach Auflosung des Abendspaziergangs kam es im Bollwerk zu unnotigen Scharmutzeln. Vereinzelte Demonstrierende liessen sich auf das von der Polizei provozierte Spiel ein. Das ist nicht in unserem Sinn: Wir wollen Inhalte vermitteln - und werden dies auch in Zukunft tun.</blockquote>
+<blockquote>Nach Auflosung des Abendspaziergangs kam es im Bollwerk zu unnötigen Scharmutzeln. Vereinzelte Demonstrierende liessen sich auf das von der Polizei provozierte Spiel ein. Das ist nicht in unserem Sinn: Wir wollen Inhalte vermitteln - und werden dies auch in Zukunft tun.</blockquote>
 
 
 

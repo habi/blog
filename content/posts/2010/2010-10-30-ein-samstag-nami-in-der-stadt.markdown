@@ -11,7 +11,7 @@ categories:
 - pictures
 ---
 
-Bei einigen meiner Zeitraffer-Tests ist mir aufgefallen, dass Bewegungen von Passanten häufig abgehackt und aorganisch wirken. Die ist eine Folge der relativ kurzen Belichtungszeiten, die selbst bei bedecktem Himmel notig sind, um kein uberbelichtetes Bild zu bekommen. Mit meinem kurzlich gekauftem [ND-Filter](https://de.wikipedia.org/wiki/Neutraldichtefilter) kann ich dieses Problem umgehen, denn selbst bei leicht bewolktem Himmel sind so bei Blende 22 Belichtungszeiten um eine halbe Sekunde möglich. Wenn mensch nun so eine Zeitraffersequenz aufnimmt, sind die Bewegungen der Passanten verwischt und wirken im entstehenden Film viel naturlicher.
+Bei einigen meiner Zeitraffer-Tests ist mir aufgefallen, dass Bewegungen von Passanten häufig abgehackt und aorganisch wirken. Die ist eine Folge der relativ kurzen Belichtungszeiten, die selbst bei bedecktem Himmel nötig sind, um kein uberbelichtetes Bild zu bekommen. Mit meinem kürzlich gekauftem [ND-Filter](https://de.wikipedia.org/wiki/Neutraldichtefilter) kann ich dieses Problem umgehen, denn selbst bei leicht bewolktem Himmel sind so bei Blende 22 Belichtungszeiten um eine halbe Sekunde möglich. Wenn mensch nun so eine Zeitraffersequenz aufnimmt, sind die Bewegungen der Passanten verwischt und wirken im entstehenden Film viel naturlicher.
 
 
 

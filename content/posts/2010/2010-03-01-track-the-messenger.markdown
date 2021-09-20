@@ -12,7 +12,7 @@ tags:
 - visualization
 ---
 
-[Martin Lerjen](http://www.arua.ch/) hat das wunderschon geekige Titelbild des [Velokurierbuches](https://velokurierbern.ch/ueber-uns/velokurierbuch.html) gestaltet. Kurzlich hat er [seine Seite](http://www.arua.ch/insp/206.html) dazu mit einem saucoolen Video aktualisiert.
+[Martin Lerjen](http://www.arua.ch/) hat das wunderschon geekige Titelbild des [Velokurierbuches](https://velokurierbern.ch/ueber-uns/velokurierbuch.html) gestaltet. Kürzlich hat er [seine Seite](http://www.arua.ch/insp/206.html) dazu mit einem saucoolen Video aktualisiert.
 
 
 

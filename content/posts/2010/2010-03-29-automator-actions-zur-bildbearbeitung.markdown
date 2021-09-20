@@ -12,7 +12,7 @@ tags:
 - automator
 ---
 
-[herr chm](http://bloxxs.ch/) hat kurzlich ein schönes [panorama-bild](https://www.flickr.com/photos/macronix/4466763332/) von seinem balkon aus veroffentlicht, welches von [mir aus gesehen](https://www.flickr.com/photos/macronix/4466763332/comment72157623588015725/) ohne schwarzen rand viel besser aussehen wurde. da herr chm offenbar den [automator](http://www.macosxautomation.com/automator/) nicht kennt, habe ich hier einen kurzen screencast gemacht, wie ich dieses raffinierte feature verwende, welches von haus aus in OS X integriert ist. der screencast unten zeigt, wie einfach es ist, sich einen sogenannten service zu machen, um bilder schnell umzuwandeln:
+[herr chm](http://bloxxs.ch/) hat kürzlich ein schönes [panorama-bild](https://www.flickr.com/photos/macronix/4466763332/) von seinem balkon aus veroffentlicht, welches von [mir aus gesehen](https://www.flickr.com/photos/macronix/4466763332/comment72157623588015725/) ohne schwarzen rand viel besser aussehen wurde. da herr chm offenbar den [automator](http://www.macosxautomation.com/automator/) nicht kennt, habe ich hier einen kurzen screencast gemacht, wie ich dieses raffinierte feature verwende, welches von haus aus in OS X integriert ist. der screencast unten zeigt, wie einfach es ist, sich einen sogenannten service zu machen, um bilder schnell umzuwandeln:
 
 
   

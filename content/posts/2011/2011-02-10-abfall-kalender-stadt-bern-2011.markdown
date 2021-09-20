@@ -12,7 +12,7 @@ categories:
 
 In den [letzten Jahren](https://habi.gna.ch/?s=abfallkalender) habe ich den Abfallkalender der Stadt Bern als Google-Kalender zur Verfügung gestellt. Jetzt hat's [Entsorgung + Recycling Stadt Bern (ERB)](http://www.bern.ch/leben_in_bern/wohnen/abfaelle) geschafft [1], den Abfallkalender in einem praktischen Format auf der Seite der Stadt Bern zu veröffentlichen.
 
-Wer künftig die Abfuhrdaten in seinen elektronischen Kalender eintragen will, kann dies so tun:
+Wer künftig die Abfuhrdaten in seinen elektronischen Kalender einträgen will, kann dies so tun:
 
 
 

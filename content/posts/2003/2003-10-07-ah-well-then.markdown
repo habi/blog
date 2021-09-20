@@ -19,7 +19,7 @@ Sehr geehrter Herr Haberthür,
 
 besten Dank für Ihren Leserbrief. Selbstverständlich hat uns die Geschichte im Wired inspiriert, dem Thema nachzugehen. Wir haben damit den freien Autoren Hubertus Breuer, der in New York lebt und regelmässig für die SonntagsZeitung schreibt, beauftragt, der Sache nachzugehen. Dass  dabei eine ähnliche Geschichte rauskommen wird, wie sie schon in Wired stand, war uns von vornherein klar. Denn: Gute Ideen übernehmen ist schliesslich nicht verboten (im Gegensatz zum Abschreiben).  
 
-Ich kann Ihnen aber versichern, dass Hubertus Breuer alles selber so erlebt hat, wie er es beschrieben hat. H.B. ist einer von nur fünf Journalisten, die es bisher zu Apollo Diamond geschafft haben. Ich personlich musste einen Eilbrief nach Boston schicken und der Firma Apollo Diamond versichern, das H.B. ein Autor der SZ und kein Spion von De Beers ist.  
+Ich kann Ihnen aber versichern, dass Hubertus Breuer alles selber so erlebt hat, wie er es beschrieben hat. H.B. ist einer von nur fünf Journalisten, die es bisher zu Apollo Diamond geschafft haben. Ich persönlich musste einen Eilbrief nach Boston schicken und der Firma Apollo Diamond versichern, das H.B. ein Autor der SZ und kein Spion von De Beers ist.  
 
 Zur Grafik: Hier haben wir mit der Quellenangabe klar deklariert, woher wir die Idee haben.   
 

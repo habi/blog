@@ -26,7 +26,7 @@ Praktisch jeden Abend warten am Computer Feeds und Podcasts darauf, gelesen und 
 
 
 
-Deshalb habe ich beschlossen, vor den Ferien (ab morgen bin ich ca. 3 Wochen weg) ALLE meine Feeds im [Google Reader](https://www.google.com/reader/) und in [Miro](http://getmiro.com/) zu loschen und mich von ALLEN Kontakten auf [identi.ca](https://identi.ca/habi/) [3], [google buzz](https://profiles.google.com/david.haberthuer/buzz), [soup.io](http://habi.soup.io) [4] und [twitter](https://twitter.com/habi) [5] zu trennen. Auf flickr.com habe ich meine 120-Personen-grosse [Kontaktliste](https://www.flickr.com/people/habi/contacts/by-uploaded/) auch stark durchgestrahlt, da war ich aber weniger rigoros, ich hab' "nur" ca. 70 Kontakte entfernt. Zusatzlich habe ich einen Teil der Applikationen auf meinem iPhone und Ipad geloscht.
+Deshalb habe ich beschlossen, vor den Ferien (ab morgen bin ich ca. 3 Wochen weg) ALLE meine Feeds im [Google Reader](https://www.google.com/reader/) und in [Miro](http://getmiro.com/) zu löschen und mich von ALLEN Kontakten auf [identi.ca](https://identi.ca/habi/) [3], [google buzz](https://profiles.google.com/david.haberthuer/buzz), [soup.io](http://habi.soup.io) [4] und [twitter](https://twitter.com/habi) [5] zu trennen. Auf flickr.com habe ich meine 120-Personen-grosse [Kontaktliste](https://www.flickr.com/people/habi/contacts/by-uploaded/) auch stark durchgestrahlt, da war ich aber weniger rigoros, ich hab' "nur" ca. 70 Kontakte entfernt. Zusätzlich habe ich einen Teil der Applikationen auf meinem iPhone und Ipad gelöscht.
 
 
 
@@ -39,7 +39,7 @@ Deshalb habe ich beschlossen, vor den Ferien (ab morgen bin ich ca. 3 Wochen weg
 
 
 
-Nach den Ferien werde ich sicher einige Feeds vermissen, vor allem wohl [Web](http://www.yehudamoon.com/)-[Comics](http://questionablecontent.net/) und Blogs von personlichen (und weniger personlichen) Freunden. Diese sind aber schnell wieder im Feed-Reader aufgenommen. Genauso wird es mir mit einigen Apps ergehen. Diese sind auch schnell wieder installiert.
+Nach den Ferien werde ich sicher einige Feeds vermissen, vor allem wohl [Web](http://www.yehudamoon.com/)-[Comics](http://questionablecontent.net/) und Blogs von persönlichen (und weniger persönlichen) Freunden. Diese sind aber schnell wieder im Feed-Reader aufgenommen. Genauso wird es mir mit einigen Apps ergehen. Diese sind auch schnell wieder installiert.
 
 
 

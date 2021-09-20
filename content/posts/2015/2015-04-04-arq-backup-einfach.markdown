@@ -18,7 +18,7 @@ tags:
 ---
 
 Unter anderem, weil [Philip](http://fime.ch/article/weekendreader2015-14.html) grad von Backups schrieb.
-Und weil’s am Ende des Blog-Eintrages etwas etwas günstiger gibt.
+Und weil’s am Ende des Blog-Einträges etwas etwas günstiger gibt.
 
 Seit längerer Zeit mache ich zusätzlich zu meinem [TimeMachine](https://www.apple.com/osx/apps/#timemachine)-Backup auf einer Festplatte in der Schreibtisch-Schublate ein sogenanntes Offsite-Backup meiner wichtisten Daten (Fotos und Dokumente).
 
