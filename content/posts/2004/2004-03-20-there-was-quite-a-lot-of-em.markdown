@@ -22,11 +22,14 @@ exactly what [the organizing people](http://buendnis-gegen-rechts.ch/) want to h
 
 that's what they say and what it was like:
 
+<blockquote>
+Nach Auflösung des Abendspaziergangs kam es im Bollwerk zu unnötigen Scharmützeln.
+Vereinzelte Demonstrierende liessen sich auf das von der Polizei provozierte Spiel ein.
+Das ist nicht in unserem Sinn: Wir wollen Inhalte vermitteln - und werden dies auch in Zukunft tun.
+</blockquote>
 
-
-<blockquote>Nach Auflosung des Abendspaziergangs kam es im Bollwerk zu unnötigen Scharmutzeln. Vereinzelte Demonstrierende liessen sich auf das von der Polizei provozierte Spiel ein. Das ist nicht in unserem Sinn: Wir wollen Inhalte vermitteln - und werden dies auch in Zukunft tun.</blockquote>
-
-
-
-[![DSC00670](https://habi.gna.ch/blog/images/DSC00670-tm.jpg)](https://habi.gna.ch/blog/images/DSC00670.JPG)[![DSC00684](https://habi.gna.ch/blog/images/DSC00684-tm.jpg)](https://habi.gna.ch/blog/images/DSC00684.JPG)[![DSC00685](https://habi.gna.ch/blog/images/DSC00685-tm.jpg)](https://habi.gna.ch/blog/images/DSC00685.JPG)
-[![DSC00686](https://habi.gna.ch/blog/images/DSC00686-tm.jpg)](https://habi.gna.ch/blog/images/DSC00686.JPG)[![DSC00687](https://habi.gna.ch/blog/images/DSC00687-tm.jpg)](https://habi.gna.ch/blog/images/DSC00687.JPG)
+[![DSC00670](https://habi.gna.ch/blog/images/DSC00670-tm.jpg)](https://habi.gna.ch/blog/images/DSC00670.JPG)
+[![DSC00684](https://habi.gna.ch/blog/images/DSC00684-tm.jpg)](https://habi.gna.ch/blog/images/DSC00684.JPG)
+[![DSC00685](https://habi.gna.ch/blog/images/DSC00685-tm.jpg)](https://habi.gna.ch/blog/images/DSC00685.JPG)
+[![DSC00686](https://habi.gna.ch/blog/images/DSC00686-tm.jpg)](https://habi.gna.ch/blog/images/DSC00686.JPG)
+[![DSC00687](https://habi.gna.ch/blog/images/DSC00687-tm.jpg)](https://habi.gna.ch/blog/images/DSC00687.JPG)
