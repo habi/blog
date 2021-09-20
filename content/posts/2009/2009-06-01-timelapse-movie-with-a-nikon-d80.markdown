@@ -23,7 +23,7 @@ so, to generate a time-lapse movie you need:
 
 * a subject, which either moves quickly or very slow (my little "garden" being a very good example)
 * a nikon DSLR, sofortbild.app and a mac or some other way of getting a lot of shots out of your camera
-* some way of generating a movie, either with [quicktime pro](http://www.apple.com/quicktime/pro/), [imovie](http://www.apple.com/ilife/imovie/) or the free and platform-independent [imageJ](http://rsbweb.nih.gov/ij/)
+* some way of generating a movie, either with [quicktime pro](https://apple.com/quicktime/pro/), [imovie](http://www.apple.com/ilife/imovie/) or the free and platform-independent [imageJ](http://rsbweb.nih.gov/ij/)
 * a bit of time (starting it in the morning and then going for a dive in the thunersee is perfect for this :) )
 
 i've set up sofortbild.app to take a picture of my garden with an interval of 1 minute and let it run from 10:49 until 16:21, giving me 333 images (i'm a sucker for nice numbers...), imported the images in quicktime pro with a rate of 10 pictures per second resulting in the short movie below

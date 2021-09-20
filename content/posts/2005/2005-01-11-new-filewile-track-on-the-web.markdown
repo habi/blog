@@ -15,5 +15,5 @@ dustbowl and deejot have released a new track. this time they did not release it
 
 
 
-oh, and sigi. now you've got one of those [shiny gadgets](http://www.apple.com/ipod/), you can just point your podcast application (i suggest [ipodder](http://ipodder.sourceforge.net/)) to the [podcast-link](http://filewile.com/podcast.php) of filewile, and you magically get all their songs...
+oh, and sigi. now you've got one of those [shiny gadgets](https://apple.com/ipod/), you can just point your podcast application (i suggest [ipodder](http://ipodder.sourceforge.net/)) to the [podcast-link](http://filewile.com/podcast.php) of filewile, and you magically get all their songs...
 

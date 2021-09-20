@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-When i get an SMS on [my mobile phone](http://www.sonyericsson.com/t610/index.htm?overview/index.htm) while it's paired over bluetooth to my trusty little [ibook](http://www.apple.com/ibook/) i get a window like this:  
+When i get an SMS on [my mobile phone](http://www.sonyericsson.com/t610/index.htm?overview/index.htm) while it's paired over bluetooth to my trusty little [ibook](https://apple.com/ibook/) i get a window like this:  
 
 [![](https://habi.gna.ch/blog/images/Bild 1-tm.jpg)](https://habi.gna.ch/blog/images/Bild 1.jpg)  
 

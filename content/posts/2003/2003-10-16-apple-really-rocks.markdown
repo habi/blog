@@ -10,6 +10,6 @@ categories:
 - apple
 ---
 
-- [hello windows!](http://www.apple.com/itunes/) (itunes for windows too)
+- [hello windows!](https://apple.com/itunes/) (itunes for windows too)
 - [say hello!](http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?productLearnMore=T7419LL/A) (record stuff with you ipod)
 - [cheese!](http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?productLearnMore=T7418LL/A) (transfer a lololot of pictures to your ipod)

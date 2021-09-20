@@ -37,7 +37,7 @@ Viel Geld geerbt und verquere politische Ansichten, eine gefährliche Kombinatio
 
 
   * [How I built it: Visualizing Foursquare check-ins with Mapbox + ARKit](https://blog.mapbox.com/how-i-built-this-visualizing-foursquare-check-ins-with-mapbox-arkit-ed88463992f3) (blog.mapbox.com)
-Mit [ARKit](https://developer.apple.com/arkit/) und [iOS 11](https://www.apple.com/lae/ios/ios-11-preview/) werden ein paar coole neue Apps auf uns zu kommen. Mehr davon zeigt [Made With ARKit](http://www.madewitharkit.com/).
+Mit [ARKit](https://developer.apple.com/arkit/) und [iOS 11](https://apple.com/lae/ios/ios-11-preview/) werden ein paar coole neue Apps auf uns zu kommen. Mehr davon zeigt [Made With ARKit](http://www.madewitharkit.com/).
 iOS 11 läuft übrigens [bei mir auf dem iPhone 5S](https://beta.apple.com/sp/betaprogram/) recht prima. Leider wurde [OpenPaths](https://habi.gna.ch/?s=openpaths) schon lange nicht mehr angepasst, aber [die Website davon funktioniert seit Monaten eh nicht mehr](https://twitter.com/habi/status/890876736535240704)...
 
 

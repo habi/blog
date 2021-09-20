@@ -70,7 +70,7 @@ und ja, ich geb's zu, ich bin ein nerd!
 
 
 
-[4]: oder [numbers](http://www.apple.com/iwork/numbers/)
+[4]: oder [numbers](https://apple.com/iwork/numbers/)
 
 
 

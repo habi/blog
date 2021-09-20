@@ -12,6 +12,6 @@ categories:
 
 well, i just can't help posting some more:
 the back seat driver made some pictures and even some movies.
-i'll try to reencode them into a more web-friendly format (the longest one is about 60mb, exactly 3 minutes, which is just too big) using [imovie](http://www.apple.com/imovie/) and then post them here. 
+i'll try to reencode them into a more web-friendly format (the longest one is about 60mb, exactly 3 minutes, which is just too big) using [imovie](https://apple.com/imovie/) and then post them here. 
 they're all quite funky to watch, because you feel like being on the bike actually.
 [![](https://habi.gna.ch/blog/images/tandemmovies-tm.jpg)](https://habi.gna.ch/blog/images/tandemmovies.jpg)

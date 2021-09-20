@@ -12,7 +12,7 @@ categories:
 
 i was reading some more about [trackback](http://www.movabletype.org/trackback/) some days ago (which still is a bit too much for my puny little head to fully get the point).  
 
-well, the thing is that some guys proposed to the trackback abilty of [movable type](http://www.movabletype.org/) to post songs from [winamp](http://www.winamp.com/), then another guy followed up with pretty much exactly the same for [itunes](http://www.apple.com/itunes/) (btw, also quite good for window...).  
+well, the thing is that some guys proposed to the trackback abilty of [movable type](http://www.movabletype.org/) to post songs from [winamp](http://www.winamp.com/), then another guy followed up with pretty much exactly the same for [itunes](https://apple.com/itunes/) (btw, also quite good for window...).  
 
 the approaches used a special applescript which i could not get to work (even with the help of [l33t](http://www.geocities.com/mnstr_2000/translate.html) [b.](http://www.bernhardseefeld.ch/) :-)  
 
@@ -22,7 +22,7 @@ the solution is actually not any different than with the applescript, but kung-t
 
 but  there was even some more debugging needed and quite a long discussion over [fire](http://fire.sourceforge.net/) with [berni](http://www.bernhardseefeld.ch/), which led to the final result (with again some l33t coding snippets flying through the ether) to the new category on the sidebar.   
 
-you can now see what five songs my itunes played in the last few minutes. including links to the [ITMS](http://www.apple.com/itunes/store/) (where you can only buy the song if you are in the us of a-land, but a preview is availiable from everywhere) and cover-art from [amazon](https://amazon.com/) (if available).   
+you can now see what five songs my itunes played in the last few minutes. including links to the [ITMS](https://apple.com/itunes/store/) (where you can only buy the song if you are in the us of a-land, but a preview is availiable from everywhere) and cover-art from [amazon](https://amazon.com/) (if available).   
 
 an interesting point of view if you want to know what rocks my socks.
   

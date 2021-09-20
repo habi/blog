@@ -12,4 +12,4 @@ categories:
 
 the [project looking glass](http://wwws.sun.com/software/looking_glass/news.html) from [sun](http://www.sun.com/index.xml); take a look at a [real-video-stream](http://wwws.sun.com/software/looking_glass/demo.html) or [download a demo-movie](http://www.sun.com/bigadmin/xtreme/).
 
-reminds me a tiny bit of the [fast user-switching](http://www.apple.com/macosx/features/fastuserswitching/) in [panther](http://www.apple.com/macosx/), doesn't it?
+reminds me a tiny bit of the [fast user-switching](https://apple.com/macosx/features/fastuserswitching/) in [panther](http://www.apple.com/macosx/), doesn't it?

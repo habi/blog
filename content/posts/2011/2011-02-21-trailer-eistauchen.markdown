@@ -20,7 +20,7 @@ tags:
 
 Am vergangenen Samschtig war ich wieder mal mit dem [divecenter.ch](http://divecenter.ch/) im Wasser. Wie immer Anfang Jahr führen die Jungs ein Eistauchen im Oeschinensee durch. Schon wie die letzen beiden Male hatten wir grandioses Wetterglück und konnten zwei Supertauchgänge und einen wunderbaren Tag im und am Oeschinensee geniessen.
 
-Natürlich habe ich meine Kamera mitgenommen und einiges an Material aufgenommen. Da ich mal die [Trailer-Funktion von iMovie](http://www.apple.com/ilife/imovie/#movie-trailers) ausprobieren wollte, gibt's unten eingebunden einen Vorgeschmack auf den Film, den's geben könnte:
+Natürlich habe ich meine Kamera mitgenommen und einiges an Material aufgenommen. Da ich mal die [Trailer-Funktion von iMovie](https://apple.com/ilife/imovie/#movie-trailers) ausprobieren wollte, gibt's unten eingebunden einen Vorgeschmack auf den Film, den's geben könnte:
 
 {{< vimeo 20148383 >}}
 

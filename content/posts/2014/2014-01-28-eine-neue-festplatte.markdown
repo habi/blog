@@ -12,7 +12,7 @@ categories:
 
 Zu Weihnachten leistete ich mir eine [neue Festplatte](https://www.digitec.ch/?param=toppreise&wert=280460).
 Nachdem das Fotobuch aus [den Ferien](https://habi.gna.ch/2013/12/21/sri-lanka-2/) noch mit der alten Festplatte fertiggemacht werden musste, fand' ich endlich Zeit, die Platte einzubauen, was sich als erstaunlich einfach herausstellte.
-Ich liess' es mir nicht nehmen, den ganzen Prozess vom aufschrauben bis zur Ende des [Mavericks](http://www.apple.com/osx/)-Installation festzuhalten.
+Ich liess' es mir nicht nehmen, den ganzen Prozess vom aufschrauben bis zur Ende des [Mavericks](https://apple.com/osx/)-Installation festzuhalten.
 Dabei entstand unten eingebundenes Zeitraffer-Filmli.
 
 {{< vimeo 85202168 >}}

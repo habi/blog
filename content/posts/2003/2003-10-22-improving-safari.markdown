@@ -10,10 +10,10 @@ categories:
 - none
 ---
 
-ever wanted to surf full-screen with all the screen-estate you can afford using [safari](http://www.apple.com/safari/) (like [opera](http://www.opera.com/) can do)?
+ever wanted to surf full-screen with all the screen-estate you can afford using [safari](https://apple.com/safari/) (like [opera](http://www.opera.com/) can do)?
 tired of all these [ads](http://www.doubleclick.com/us/) that show up on [cnn.com](http://www.cnn.com/) (or any other site with lots of ads)?
 
-well, then welcome [saft](http://haoli.dnsalias.com/Saft/index.html) and [pithhelmet](http://culater.net/osd/PithHelmet/PithHelmet.html) on [your system](http://www.apple.com/macosx/) :-)
+well, then welcome [saft](http://haoli.dnsalias.com/Saft/index.html) and [pithhelmet](http://culater.net/osd/PithHelmet/PithHelmet.html) on [your system](https://apple.com/macosx/) :-)
 
 without pithhelmet: [![](https://habi.gna.ch/blog/images/without_pith-tm.jpg)](https://habi.gna.ch/blog/images/without_pith.jpg)
 

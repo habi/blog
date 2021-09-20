@@ -13,7 +13,7 @@ categories:
 ---
 
 
-[![Ax](https://habi.gna.ch/blog/images/ax-tm.jpg)](https://habi.gna.ch/blog/images/ax.jpg)ok, i admit, i could also have bought a really long (but marginally less expensive) cable, but i has got me an [airport express](http://www.apple.com/airportexpress/) from [ricardo](http://www.ricardo.ch/) [1].
+[![Ax](https://habi.gna.ch/blog/images/ax-tm.jpg)](https://habi.gna.ch/blog/images/ax.jpg)ok, i admit, i could also have bought a really long (but marginally less expensive) cable, but i has got me an [airport express](https://apple.com/airportexpress/) from [ricardo](http://www.ricardo.ch/) [1].
 
 
 
