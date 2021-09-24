@@ -12,7 +12,7 @@ categories:
 - pictures
 ---
 
-today we went for a little walk onto the [niederhorn](http://map.search.ch/beatenbucht?x=170&y=-234&z=64). the weather was absolutely lovely, so i was able to [shoot some nice images](http://flickr.com/photos/habi/tags/niederhorn/) including the one below. it was shot looking the other way than [here](http://flickr.com/photos/habi/256633123/), looking towards thun.
+today we went for a little walk onto the [niederhorn](http://map.search.ch/beatenbucht?x=170&y=-234&z=64). the weather was absolutely lovely, so i was able to [shoot some nice images](https://flickr.com/photos/habi/tags/niederhorn/) including the one below. it was shot looking the other way than [here](http://flickr.com/photos/habi/256633123/), looking towards thun.
 
 
 

@@ -48,7 +48,7 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
 **4 meiner Lieblingsgerichte:**
 - Risotti
 - Curries
-- Hörnli mit Brösmeli von [Gosi](http://flickr.com/photos/habi/71188032/)
+- Hörnli mit Brösmeli von [Gosi](https://flickr.com/photos/habi/71188032/)
 - alles ohne Blumenkohl und Fenchel von Regine
 
 **139 Webseiten die ich täglich besuche:**
@@ -61,7 +61,7 @@ pia hat mir den stock [zugeworfen](http://3.14a.ch/archives/2006/03/09/4er-stock
  - bei Ihr
  - unter Wasser
  - im Bett
- - aufm [Popocatepetl](http://images.google.com/images?hl=en&client=safari&rls=en&q=Popocatepetl&spell=1&sa=N&tab=wi) oder in der [Atacama](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=Atacama&btnG=Search)-Wüste, oder am [Titicacasee](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=titicaca&btnG=Search) (der war für [Wolf](http://flickr.com/photos/habi/tags/wolf/))
+ - aufm [Popocatepetl](http://images.google.com/images?hl=en&client=safari&rls=en&q=Popocatepetl&spell=1&sa=N&tab=wi) oder in der [Atacama](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=Atacama&btnG=Search)-Wüste, oder am [Titicacasee](http://images.google.com/images?svnum=10&hl=en&lr=&client=safari&rls=en&q=titicaca&btnG=Search) (der war für [Wolf](https://flickr.com/photos/habi/tags/wolf/))
  
  **4 Blogger die das mitmachen sollen / dürfen:**
  - [Sigi](http://www.slf.ch/staff/pers-home/sigrist/sigrist-en.html), damit er endlich sein [blog](http://sigi.freeflux.net/) richtig eröffnet

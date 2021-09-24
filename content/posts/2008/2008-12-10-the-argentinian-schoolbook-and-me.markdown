@@ -19,7 +19,7 @@ tags:
 
 i don't have a story like [iron man and me](http://adactio.com/journal/1530/), but a nice one to tell anyways:
 
-about four months ago a miss gômez castro contacted me through flickr about the photo of [our guide steffen](http://flickr.com/photos/habi/2549946/) i shot about four years ago with an ultracheap disposable underwater camera in sharm el sheikh.
+about four months ago a miss gômez castro contacted me through flickr about the photo of [our guide steffen](https://flickr.com/photos/habi/2549946/) i shot about four years ago with an ultracheap disposable underwater camera in sharm el sheikh.
 
 she wrote me that she came across my photo and she:
 

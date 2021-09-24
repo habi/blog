@@ -15,7 +15,7 @@ categories:
 
 yesterday i went down the aare from [uttigen](http://map.search.ch/uttigen?x=146&y=-781&z=1024) to [bern](http://map.search.ch/bern?x=-194&y=600&z=1024). but not like everyone else, equipped with a rubber boat, but with a rubber skin :-)
   
-[urs](http://flickr.com/photos/habi/tags/urs/) and me snorkeled down the river in about 3 hours.
+[urs](https://flickr.com/photos/habi/tags/urs/) and me snorkeled down the river in about 3 hours.
   
 it was really fun, mostly because everybody else couldn't believe what we did.
   

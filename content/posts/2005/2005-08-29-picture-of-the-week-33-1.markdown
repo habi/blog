@@ -11,9 +11,9 @@ categories:
 ---
 
 
-this weekend i found some time to panoramify all my shots from european masters championships in stockholm (you might have seen it on [flickr](http://flickr.com/photos/habi/tags/panorama/)).
+this weekend i found some time to panoramify all my shots from european masters championships in stockholm (you might have seen it on [flickr](https://flickr.com/photos/habi/tags/panorama/)).
   
-through the help of the excellent [ptx-mailing-list](https://www.email-lists.org/pipermail/ptx/) i found a tool called [make cubic](http://developer.apple.com/quicktime/quicktimeintro/tools/) (direct download of the 259kb .sit-file [here](ftp://ftp.apple.com/developer/Quicktime/Tools/QTVR/MakeCubic_v1.1.6.sit)) which is just a wee bit more than a terminal app to convert your equirectangular .jpgs into cubic QTVR-movies, so you can download the image of [fatbursparken](http://flickr.com/photos/habi/38001060/) (that weird semi-round house) as a 2mb .mov-panorama if you click on the thumbnail below (be patient, it takes some time to load).
+through the help of the excellent [ptx-mailing-list](https://www.email-lists.org/pipermail/ptx/) i found a tool called [make cubic](http://developer.apple.com/quicktime/quicktimeintro/tools/) (direct download of the 259kb .sit-file [here](ftp://ftp.apple.com/developer/Quicktime/Tools/QTVR/MakeCubic_v1.1.6.sit)) which is just a wee bit more than a terminal app to convert your equirectangular .jpgs into cubic QTVR-movies, so you can download the image of [fatbursparken](https://flickr.com/photos/habi/38001060/) (that weird semi-round house) as a 2mb .mov-panorama if you click on the thumbnail below (be patient, it takes some time to load).
 
 
 

@@ -19,7 +19,7 @@ am tisch sassen heute abend [roger](http://kulturtv.ch/), [chm](http://bloxxs.or
 
 vollständige berichterstattung wohl bald bei [roman](http://blog.yoda.ch/), so wie der notizen gemacht hat, ein nettes filmli/podcast wohl bald mal auf kulturTV.ch, ein foto gibts als appetizer schon mal [hier](http://bloxxs.org/?p=751) bei chigu.
 
-besprochen wurde vieles, unter anderem auch, dass crocs immer auf der sohle landen, dass ich mal wieder rasierem muss (dazu später evtl. mehr), die langsamen bauarbeiten in und um bern, gps-daten beim fliegen, nike+ als motivator, gestohlene velos, [liips aufruf](http://www.liip.ch/company/jobs/) [2], sexy frauenbloggerinnen, blog/podcastfriedhöfe, websites mit umlauten, moleskines, [internet-memes](http://flickr.com/photos/habi/508063541/), bluetoothtastaturen und sicher sonst noch was, das ich hier vergessen habe. lustig und gemütlich war's auf alle fälle. nächstes mal ist am 2. juli, wo, das schauen wir dann noch.
+besprochen wurde vieles, unter anderem auch, dass crocs immer auf der sohle landen, dass ich mal wieder rasierem muss (dazu später evtl. mehr), die langsamen bauarbeiten in und um bern, gps-daten beim fliegen, nike+ als motivator, gestohlene velos, [liips aufruf](http://www.liip.ch/company/jobs/) [2], sexy frauenbloggerinnen, blog/podcastfriedhöfe, websites mit umlauten, moleskines, [internet-memes](https://flickr.com/photos/habi/508063541/), bluetoothtastaturen und sicher sonst noch was, das ich hier vergessen habe. lustig und gemütlich war's auf alle fälle. nächstes mal ist am 2. juli, wo, das schauen wir dann noch.
 
 [1] laut meiner liebsten.
 [2] hannes, ist das [meaningful](http://blog.liip.ch/archive/2007/05/30/write-about-our-job-offerings-win-a-liipod.html) genug :-) ?

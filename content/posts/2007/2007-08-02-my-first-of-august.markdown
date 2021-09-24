@@ -15,7 +15,7 @@ it becomes more and more of a tradition, the yearly boatride at the [first of au
 
 
 quite a funny face i make, what do you think?
-if you want to judge the height a bit better, there's another movie of dan jumping off the bridge [here](http://www.youtube.com/watch?v=n-d1tseX0nk). i've also made some images: they can be seen [here](http://flickr.com/photos/habi/sets/72157601180023273/show/), i just wanted to mention this image for the special jump i made: let's call it the floating buddha:
+if you want to judge the height a bit better, there's another movie of dan jumping off the bridge [here](http://www.youtube.com/watch?v=n-d1tseX0nk). i've also made some images: they can be seen [here](https://flickr.com/photos/habi/sets/72157601180023273/show/), i just wanted to mention this image for the special jump i made: let's call it the floating buddha:
 
 
 [![Dsc07136](https://habi.gna.ch/wp-content/uploads/2007/08/dsc07136-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/08/dsc07136.jpg)

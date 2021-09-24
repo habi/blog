@@ -12,7 +12,7 @@ categories:
 - pictures
 ---
 
-after [a busy evening](http://flickr.com/photos/habi/sets/72157594267138111/) on friday i went to the [verzasca](http://www.verzasca.com/) valley with the [divecenter](http://www.dck.ch/). i'm still overwhelmed with the beauty of the river from the inside. it felt like diving in a bottle of [grappa](http://images.google.com/images?q=grappa&ie=UTF-8&oe=UTF-8). i'm gonna upload some of the images some other evening, now i need to catch up with some sleep...
+after [a busy evening](https://flickr.com/photos/habi/sets/72157594267138111/) on friday i went to the [verzasca](http://www.verzasca.com/) valley with the [divecenter](http://www.dck.ch/). i'm still overwhelmed with the beauty of the river from the inside. it felt like diving in a bottle of [grappa](http://images.google.com/images?q=grappa&ie=UTF-8&oe=UTF-8). i'm gonna upload some of the images some other evening, now i need to catch up with some sleep...
 
 [
 

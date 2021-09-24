@@ -23,7 +23,7 @@ i've started to add some venues and events in bern and hope this starts to catch
 
 
 
-and i also thought this might be a nice way of "collecting" the people that want to come to [certain](http://upcoming.org/event/34222/) [meetings](http://flickr.com/photos/tags/bloggertreffen/). let's see if it starts to take off a bit more. if you add yourself to upcoming.org, send me a note and we can start to share our events...
+and i also thought this might be a nice way of "collecting" the people that want to come to [certain](http://upcoming.org/event/34222/) [meetings](https://flickr.com/photos/tags/bloggertreffen/). let's see if it starts to take off a bit more. if you add yourself to upcoming.org, send me a note and we can start to share our events...
 
 
 

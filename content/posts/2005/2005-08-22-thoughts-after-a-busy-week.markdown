@@ -11,7 +11,7 @@ categories:
 ---
 
 
-- driving a [fixie](http://flickr.com/photos/tags/fixie/clusters/) with a huge backpack (clothes for week and some more stuff) through downtown basel and zürich is not so fun
+- driving a [fixie](https://flickr.com/photos/tags/fixie/clusters/) with a huge backpack (clothes for week and some more stuff) through downtown basel and zürich is not so fun
   
 - going to the ecmc and not competing is only half the fun
   
@@ -27,7 +27,7 @@ categories:
   
 - [hugin](http://hugin.sourceforge.net/) will be runnig continuously for the next few days, cause i took a lot of panoramas
   
-- i will tell you as soon as i uploaded the pictures, from time to time, you'll find a bunch on [flickr](http://flickr.com/photos/habi/)
+- i will tell you as soon as i uploaded the pictures, from time to time, you'll find a bunch on [flickr](https://flickr.com/photos/habi/)
 
 
 

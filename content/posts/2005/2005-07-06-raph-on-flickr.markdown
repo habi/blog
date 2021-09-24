@@ -23,6 +23,6 @@ categories:
 
 
 
-well, the [cmwc-tag](http://flickr.com/photos/tags/cmwc) seems to fill up...
+well, the [cmwc-tag](https://flickr.com/photos/tags/cmwc) seems to fill up...
   
 

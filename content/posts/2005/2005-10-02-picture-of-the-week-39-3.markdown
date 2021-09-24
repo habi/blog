@@ -13,7 +13,7 @@ categories:
 ---
 
 
-i didn't shoot any pictures this week, so i'm picking another one from our holidays on the philippines. although the [nudibranch](https://en.wikipedia.org/wiki/Nudibranchia) is not in focus i quite like the image below, mostly because of its vibrant colors. you can see some more images from our holidays in the [pictures section](https://habi.gna.ch/pics/philippinen05/) or on [flickr](http://flickr.com/photos/habi/tags/philippines/) (which is better for the panoramas, 'cause you can see them in a bigger size...).
+i didn't shoot any pictures this week, so i'm picking another one from our holidays on the philippines. although the [nudibranch](https://en.wikipedia.org/wiki/Nudibranchia) is not in focus i quite like the image below, mostly because of its vibrant colors. you can see some more images from our holidays in the [pictures section](https://habi.gna.ch/pics/philippinen05/) or on [flickr](https://flickr.com/photos/habi/tags/philippines/) (which is better for the panoramas, 'cause you can see them in a bigger size...).
 
 
 

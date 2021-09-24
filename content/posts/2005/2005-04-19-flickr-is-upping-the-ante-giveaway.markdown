@@ -12,7 +12,7 @@ categories:
 ---
 
 
-today i got an email from the [flickr-team](http://flickr.com/): in the aftermath of yahoo buying flickr the guys and gals are able to provide [more stuff for all the users](http://blog.flickr.com/flickrblog/2005/04/new_prices_free.html):
+today i got an email from the [flickr-team](https://flickr.com/): in the aftermath of yahoo buying flickr the guys and gals are able to provide [more stuff for all the users](http://blog.flickr.com/flickrblog/2005/04/new_prices_free.html):
 
 
 

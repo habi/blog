@@ -25,4 +25,4 @@ ach und übrigens: der kuchen für heute liegt noch eingepackt in der küche und
 **update:** bei der coop-bäckerei ist der könig also auch nur in den äusseren kugeln zu finden (stichprobengrösse N=1)
 
 [1]: ich erinnere an die diskussion gestern abend: skype ist zwar potentiell böse/gefährlich/closed source, aber halt weeeeit verbreitet.
-dazu übrigens dem [herr widmer](https://blog.dasrecht.net/) seine links zur diskussion: eine [präsentation](http://www.secdev.org/conf/skype_BHEU06.handout.pdf) zum thema (2.6 MB, wunderschön mit [beamer](http://latex-beamer.sourceforge.net/) und [TikZ](http://flickr.com/photos/habi/tags/tikz/) gemacht) und eine [heise](http://www.heise.de/newsticker/Skype-unter-die-Lupe-genommen--/meldung/71094)-meldung zum thema.
+dazu übrigens dem [herr widmer](https://blog.dasrecht.net/) seine links zur diskussion: eine [präsentation](http://www.secdev.org/conf/skype_BHEU06.handout.pdf) zum thema (2.6 MB, wunderschön mit [beamer](http://latex-beamer.sourceforge.net/) und [TikZ](https://flickr.com/photos/habi/tags/tikz/) gemacht) und eine [heise](http://www.heise.de/newsticker/Skype-unter-die-Lupe-genommen--/meldung/71094)-meldung zum thema.

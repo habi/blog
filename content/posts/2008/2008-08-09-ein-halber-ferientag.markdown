@@ -19,7 +19,7 @@ tags:
 - messenger
 ---
 
-trotz langen ferien in kanada und relativ viel zu tun im zusammenhang mit arbeiten abgeben, findet sich noch die eine oder andere möglichkeit, mal einen nachmittag frei zu nehmen, um auch ein bisschen den kopf zu lüften. diese woche ergab sich am donnerstag eine solche gelegenheit, ich bin wieder mal eine kurier-schicht gefahren und ich konnte dann auch relativ gut lüften. [pia](http://flickr.com/photos/habi/tags/pia) hat mich grad zweimal nach niederwangen geschickt, das tracklog des (knapp) 70km-nachmittages sieht so aus:
+trotz langen ferien in kanada und relativ viel zu tun im zusammenhang mit arbeiten abgeben, findet sich noch die eine oder andere möglichkeit, mal einen nachmittag frei zu nehmen, um auch ein bisschen den kopf zu lüften. diese woche ergab sich am donnerstag eine solche gelegenheit, ich bin wieder mal eine kurier-schicht gefahren und ich konnte dann auch relativ gut lüften. [pia](https://flickr.com/photos/habi/tags/pia) hat mich grad zweimal nach niederwangen geschickt, das tracklog des (knapp) 70km-nachmittages sieht so aus:
 
 
 

@@ -10,4 +10,4 @@ categories:
 - none
 ---
 
-my images, pulled from [flickr](http://flickr.com) will arrive here
+my images, pulled from [flickr](https://flickr.com) will arrive here

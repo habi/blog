@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![Spam](https://habi.gna.ch/blog/images/spam-tm.jpg)](https://habi.gna.ch/blog/images/spam.jpg)also bei diesem spammail links, da war ich jetzt fast [reingefallen](http://flickr.com/photos/habi/tags/nina/)...
+[![Spam](https://habi.gna.ch/blog/images/spam-tm.jpg)](https://habi.gna.ch/blog/images/spam.jpg)also bei diesem spammail links, da war ich jetzt fast [reingefallen](https://flickr.com/photos/habi/tags/nina/)...
 
 
 

@@ -16,7 +16,7 @@ the pictures from the [alleycat yesterday](http://upcoming.org/event/34230/) are
 
 
 
-**update:** [yves](http://flickr.com/photos/habi/tags/yves/) also uploaded some pictures of the alleycat. see [his set here.](http://flickr.com/photos/nie_der/sets/1196360/)
+**update:** [yves](https://flickr.com/photos/habi/tags/yves/) also uploaded some pictures of the alleycat. see [his set here.](http://flickr.com/photos/nie_der/sets/1196360/)
 
 
 

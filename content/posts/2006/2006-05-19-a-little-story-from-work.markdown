@@ -15,7 +15,7 @@ as you might know, most of the swiss messenger companies work together when ther
 
 
 
-[![Swissconnect.Grusig](https://habi.gna.ch/blog/images/swissconnect.grusig-tm.jpg)](https://habi.gna.ch/blog/images/swissconnect.grusig.jpg)the whole process organized - mostly - through a special website, which can only be accessed with the correct passwords and stuff. each and every parcel is trackable and can be viewed in detail. this morning [nicola](http://flickr.com/photos/habi/tags/nicola) told me to go to grab something from the 8.58-train from zurich, to deliver it to somewhere in bern. you can guess that i've been a little bit surprised when i grabbed the plastic-bag from the train and saw what was in the transparent (!) bag. thirty of them!!!
+[![Swissconnect.Grusig](https://habi.gna.ch/blog/images/swissconnect.grusig-tm.jpg)](https://habi.gna.ch/blog/images/swissconnect.grusig.jpg)the whole process organized - mostly - through a special website, which can only be accessed with the correct passwords and stuff. each and every parcel is trackable and can be viewed in detail. this morning [nicola](https://flickr.com/photos/habi/tags/nicola) told me to go to grab something from the 8.58-train from zurich, to deliver it to somewhere in bern. you can guess that i've been a little bit surprised when i grabbed the plastic-bag from the train and saw what was in the transparent (!) bag. thirty of them!!!
 
 
 

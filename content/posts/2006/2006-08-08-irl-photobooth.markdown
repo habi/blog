@@ -22,6 +22,6 @@ categories:
 
 
 
-see here for more: http://flickr.com/photos/tags/photobooth/
+see here for more: https://flickr.com/photos/tags/photobooth/
   
 

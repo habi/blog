@@ -14,7 +14,7 @@ tags:
 - skiing
 ---
 
-this weekend i've been in the snow - maybe the last time for this year. i've been to grindelwald, in a lovely hut organized by [bill.](http://flickr.com/photos/habi/tags/bill/)
+this weekend i've been in the snow - maybe the last time for this year. i've been to grindelwald, in a lovely hut organized by [bill.](https://flickr.com/photos/habi/tags/bill/)
 
 
 

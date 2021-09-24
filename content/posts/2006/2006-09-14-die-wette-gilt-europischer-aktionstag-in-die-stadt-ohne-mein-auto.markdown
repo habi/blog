@@ -20,6 +20,6 @@ leider haben sich bis jetzt nur 210 rader gemeldet, das ist nicht mal 10% von de
 
 es geht nicht so sehr um die elektrovelos, sondern mehr darum, ein zeichen gegen den zunehmenden vier-rad-ismus in unseren stadten zu setzen.
 
-ich bin dabei, du auch? (war doch 'ne gelegenheit, mal an einer [velodemo](http://flickr.com/photos/habi/tags/velodemo/) teilzunehmen...)
+ich bin dabei, du auch? (war doch 'ne gelegenheit, mal an einer [velodemo](https://flickr.com/photos/habi/tags/velodemo/) teilzunehmen...)
 
 technorati tags: [lang:de](http://www.technorati.com/tag/lang:de), [velocontent](http://www.technorati.com/tag/velocontent), [velodemo](http://www.technorati.com/tag/velodemo)

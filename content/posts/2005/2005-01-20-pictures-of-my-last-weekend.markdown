@@ -11,5 +11,5 @@ categories:
 ---
 
 
-'cause flickr was experiencing some severe flakiness over the last days i've not managed to upload my pictures from gensingen up until now. so if you want to see me nekkid (or at least topless...) you can head over and take a look at [my gensingen-photoset](http://flickr.com/photos/habi/sets/88024/).
+'cause flickr was experiencing some severe flakiness over the last days i've not managed to upload my pictures from gensingen up until now. so if you want to see me nekkid (or at least topless...) you can head over and take a look at [my gensingen-photoset](https://flickr.com/photos/habi/sets/88024/).
 

@@ -11,7 +11,7 @@ categories:
 ---
 
 
-samstag in einer woche, am 29.10 treffen sich schweizer flickr-user um 14.00 auf dem [bundesplatz](http://flickr.com/photos/tags/bundesplatz/) in bern. wer auch kommen will, soll sich [hier anmelden](https://www.flickr.com/groups/swiss/discuss/103961/), wer sich den werdegang des meetings zu gemüte führen will, kann [diesen diskussions-thread durchlesen](https://www.flickr.com/groups/swiss/discuss/84050/).
+samstag in einer woche, am 29.10 treffen sich schweizer flickr-user um 14.00 auf dem [bundesplatz](https://flickr.com/photos/tags/bundesplatz/) in bern. wer auch kommen will, soll sich [hier anmelden](https://www.flickr.com/groups/swiss/discuss/103961/), wer sich den werdegang des meetings zu gemüte führen will, kann [diesen diskussions-thread durchlesen](https://www.flickr.com/groups/swiss/discuss/84050/).
   
 bis denn.
 
