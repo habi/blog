@@ -10,5 +10,5 @@ categories:
 - none
 ---
 
-[the three dead trolls](http://www.deadtroll.com/index2.html) have a (not so) [little video](http://www.deadtroll.com/index2.html?/video/ossuckscable.html) with an in-deep sight on the pros and cons of every major os ([windows](http://www.microsoft.com/windows/default.mspx), [os x](http://www.apple.com/macosx/) and [linux](http://www.linux.org/)).
+[the three dead trolls](http://www.deadtroll.com/index2.html) have a (not so) [little video](http://www.deadtroll.com/index2.html?/video/ossuckscable.html) with an in-deep sight on the pros and cons of every major os ([windows](http://www.microsoft.com/windows/default.mspx), [os x](https://apple.com/macosx/) and [linux](http://www.linux.org/)).
 if you're still deciding what to install on the mighty little box under your desk, then you should watch that video :-)

@@ -11,7 +11,7 @@ categories:
 ---
 
 i couldn't live without music!
-my itunes is always set on random working through 1304 songs (at the moment), and now it played "club soda" by [thomas bangalter](http://www.google.com/search?q=%22Thomas Bangalter%22)  which is about the grooviest electro-track ever made.
+my itunes is always set on random working through 1304 songs (at the moment), and now it played "club soda" by [thomas bangalter](https://google.com/search?q=%22Thomas Bangalter%22)  which is about the grooviest electro-track ever made.
 i remember the first time i heard that song: it was when i watched a dvd i won in a competition, [vanity9](http://www.labels.tm.fr/fr/artiste.asp?artiste=VA081). i had the videobeamer of a friend and watched it around two o'clock in the morning nearly on full volume. that track just blew me away.
 if you click on the link above you get to the site where you can watch some samples of that dvd, if you just want to listen to a sample then [click here](http://datraxer.free.fr/daftcrew/extraits/roule306a1.mp3) (from the [d@ft crew](d@ft crew ) [samples page](http://datraxer.free.fr/daftcrew/samples/))
 

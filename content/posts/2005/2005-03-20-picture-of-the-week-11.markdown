@@ -13,7 +13,7 @@ categories:
 
 i again spent a weekend on the slopes. this time i spent it with some folk from work.
   
-the image below is a crop from an image from the bunch i shot this weekend, hence it's quite grainy (keep in mind, it's shot with a puny [dsc-u20](http://www.google.com/search?q=dsc-u20)), but still i like it, mostly because the cable cuts nicely through the image. and it makes a nice desktop background.
+the image below is a crop from an image from the bunch i shot this weekend, hence it's quite grainy (keep in mind, it's shot with a puny [dsc-u20](https://google.com/search?q=dsc-u20)), but still i like it, mostly because the cable cuts nicely through the image. and it makes a nice desktop background.
 
 
 

@@ -19,7 +19,7 @@ tags:
 
 whenever i'm spending a day outdoor, i love to take pictures, many of them turn out to be [panoramas](https://www.flickr.com/photos/habi/tags/panorama).
 
-sometimes i leave my camera at home and only have my [mobile phone](http://www.apple.com/iphone/) with me. shoothing panoramas with the iphone is possible with [panolab](http://linktoapp.com/panolab) [link opens itunes], but very cumbersome. and i try to keep the annoyance of nina as low as possible while stopping on the slopes, so fiddling with my phone for longer than a minute or two is not an option.
+sometimes i leave my camera at home and only have my [mobile phone](https://apple.com/iphone/) with me. shoothing panoramas with the iphone is possible with [panolab](http://linktoapp.com/panolab) [link opens itunes], but very cumbersome. and i try to keep the annoyance of nina as low as possible while stopping on the slopes, so fiddling with my phone for longer than a minute or two is not an option.
 
 recently i was thinking about a quick-and-dirty way of creating panorams with the iphone: wouldn't it be possible to extract the images of a movie shot while panning the scenery and stitch those together to generate a panorama? today was the perfect way to test this out, on the slopes of the wonderful [stockhorn](https://habi.gna.ch/2009/04/10/der-wohl-letzte-skitag-der-with-map/).
 
@@ -62,7 +62,7 @@ now you should have some movies on your hard-disk. cycoder has the nice feature 
 **step 3:**
 import the movies into imageJ.
 
-if you're on a mac, this is just simple drag-and-drop, on windows you might be quicker altogether if you convert your movies to .avi-files, since installing quicktime for java can be a bit of a [hassle](http://www.google.com/search?client=safari&rls=en-us&q=imageJ+quicktime+windows&ie=UTF-8&oe=UTF-8), but can be done.
+if you're on a mac, this is just simple drag-and-drop, on windows you might be quicker altogether if you convert your movies to .avi-files, since installing quicktime for java can be a bit of a [hassle](https://google.com/search?client=safari&rls=en-us&q=imageJ+quicktime+windows&ie=UTF-8&oe=UTF-8), but can be done.
 
 this opens your quicktime movie as a stack of images you can then scroll through. this image-stack can then easily be exported as an image-sequence using "File > Save as > Image Sequence...". rotate the images if you've been dumb enough to hold the iphone wrong :)
 

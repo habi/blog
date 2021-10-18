@@ -29,7 +29,7 @@ Die Liste:
 * Schöne Abendstimmung auf der Welle in Bern
 * Schöne Morgenstimmung auf der Welle in Brugg
 * Experimente mit Röntgenstrahlen
-* [Ok, Glass!](http://www.google.com/glass/start/)
+* [Ok, Glass!](https://google.com/glass/start/)
 * [Balkan Beat Box I'm Dachstock](http://www.dachstock.ch/program/e/a/wild-wild-east-balkan-beat-box-isrusa.html)
 * Zweimal ein Fährtli an einen See, einmal [Thun](http://runkeeper.com/user/davidhaberthuer/activity/166975663), einmal [Murten](http://runkeeper.com/user/davidhaberthuer/activity/167362927)
 * Drinks in Brugg

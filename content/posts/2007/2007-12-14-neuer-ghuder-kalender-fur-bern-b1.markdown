@@ -13,7 +13,7 @@ categories:
 ---
 
 ich bin umgezogen und wohne neuerdings nicht mehr im breitenrain, sondern im berner abfallkreis B1. vor [einiger zeit](https://habi.gna.ch/2006/12/22/ghuder/) habe ich mal die speziellen müllabfuhr-daten veröffentlicht, diese nützen mir aber nun nix mehr.
-da ich einen sachen-in-die-agenda-schreiben-und-vergessen-fetisch habe; habe ich mir aus dem aktuellen abfallkalender der stadt bern wieder die daten rausgeschrieben, an denen ich papier und metall vor's haus stellen darf. dass ich den müll jeden dienstag und freitag rausstellen kann, muss ich mir nicht eintragen, so schlimm ist's mit meinem [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done) noch nicht...
+da ich einen sachen-in-die-agenda-schreiben-und-vergessen-fetisch habe; habe ich mir aus dem aktuellen abfallkalender der stadt bern wieder die daten rausgeschrieben, an denen ich papier und metall vor's haus stellen darf. dass ich den müll jeden dienstag und freitag rausstellen kann, muss ich mir nicht einträgen, so schlimm ist's mit meinem [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done) noch nicht...
 wer sich den abfallkalender nicht an den schrank hängen will, oder sich die mühe des abtippen sparen will, findet in [diesem .ics-file](https://habi.gna.ch/wp-content/uploads/2007/12/abfallkalender_bern_b1_2008.ics) (das für jedes standard-konforme kalenderprogramm funktionieren sollte [1]) die daten für den abfuhrkreis B1.
 
 

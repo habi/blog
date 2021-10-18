@@ -12,7 +12,7 @@ categories:
 ---
 
 
-the past saturday we wanted to go skiing. when we arrived in [adelboden](http://www.adelboden-lenk.ch/) at 20 past 9 in the morning we were informed that the whole ski-region is closed because of the [guggifohn](http://www.google.com/search?client=safari&rls=en&q=guggif%C3%B6hn&ie=UTF-8&oe=UTF-8&sa=N&tab=iw) (a wind with velocities up to [246 km/h](http://www.st.gallen.ch/news/detail.asp?ID=168655)). we then waited for more informations, but around 10:30 it was evident that the chairlifts and cablecars won't open for the day.
+the past saturday we wanted to go skiing. when we arrived in [adelboden](http://www.adelboden-lenk.ch/) at 20 past 9 in the morning we were informed that the whole ski-region is closed because of the [guggifohn](https://google.com/search?client=safari&rls=en&q=guggif%C3%B6hn&ie=UTF-8&oe=UTF-8&sa=N&tab=iw) (a wind with velocities up to [246 km/h](http://www.st.gallen.ch/news/detail.asp?ID=168655)). we then waited for more informations, but around 10:30 it was evident that the chairlifts and cablecars won't open for the day.
   
 we then decided to switch to the [engstligenalp](http://engstligenalp.ch/), but it turned out that the fohn was blowing there, too.
   

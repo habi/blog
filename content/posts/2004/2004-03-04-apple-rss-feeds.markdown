@@ -11,6 +11,6 @@ categories:
 - technospeak
 ---
 
-for those appleheads which heavily rely on rss-feeds [apples new rss-feeds-page](http://www.apple.com/rss/) is something long awaited come true.
+for those appleheads which heavily rely on rss-feeds [apples new rss-feeds-page](https://apple.com/rss/) is something long awaited come true.
 
-[via [apples newsletter](http://www.apple.com/enews/2004/03/04enews1.html)]
+[via [apples newsletter](https://apple.com/enews/2004/03/04enews1.html)]

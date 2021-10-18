@@ -14,7 +14,7 @@ categories:
 
 today i just got my sunrise mobile phone-bill, and i was quite puzzled by one item on it. i've used gprs three times this month (not a hardcore user, am i...).
   
-twice [[1](http://moblog.co.uk/view.php?id=68770), [2](http://flickr.com/photos/habi/19741352/)] to send a moblog-post from switzerland resulting in a total data rate of 248 kB, and once [[3](http://moblog.co.uk/view.php?id=63506)] to send a moblog-post from spain which was 113 kB heavy.
+twice [[1](http://moblog.co.uk/view.php?id=68770), [2](https://flickr.com/photos/habi/19741352/)] to send a moblog-post from switzerland resulting in a total data rate of 248 kB, and once [[3](http://moblog.co.uk/view.php?id=63506)] to send a moblog-post from spain which was 113 kB heavy.
   
 the thing that now puzzles me, is that i actually paid less for my data in spain, although i was roaming with [Telefonica](http://telefonica.es/) there. 
   

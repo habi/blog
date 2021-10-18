@@ -9,7 +9,7 @@ tags:
 - gravel
 ---
 
-Ich hab's ja schon öfter erwähnt, [ich mag Handwerker-Porno](http://habi.gna.ch/?s=handwerker-porno).
+Ich hab's ja schon öfter erwähnt, [ich mag Handwerker-Porno](https://habi.gna.ch/?s=handwerker-porno).
 Diesen hier besonders; Velozusammenbau in schön und 15 Minuten.
 
 {{< youtube IRipnVvnaIg >}}

@@ -44,7 +44,7 @@ nach einem tollen fest, einer kurzen nacht und einem viel zu opulenten frühstü
 
 
 
-PS: wenn wir's schon von bildern haben: die bilder der [suicmc08](https://habi.gna.ch/?s=suicmc08) sind in [diesem fotoset](https://habi.gna.ch/pictures/set.php?id=72157607328809701&title=SUICMC08) zu finden. besonders hinweisen möchte ich auf die aus meiner sicht doch ziemlich gelungenen bilder von [pia](http://flickr.com/photos/habi/2863549938), [reto](http://flickr.com/photos/habi/2863544010) und [luk](http://flickr.com/photos/habi/2862715821).
+PS: wenn wir's schon von bildern haben: die bilder der [suicmc08](https://habi.gna.ch/?s=suicmc08) sind in [diesem fotoset](https://habi.gna.ch/pictures/set.php?id=72157607328809701&title=SUICMC08) zu finden. besonders hinweisen möchte ich auf die aus meiner sicht doch ziemlich gelungenen bilder von [pia](https://flickr.com/photos/habi/2863549938), [reto](http://flickr.com/photos/habi/2863544010) und [luk](http://flickr.com/photos/habi/2862715821).
 
 
 

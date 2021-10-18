@@ -11,9 +11,9 @@ categories:
 ---
 
 
-this weekend we had the berner schwimmtage, a two-day swimming event, including the [sprintnight](http://sprintnacht.ch), which was absolutely fabulous (see some more pictures [here](http://sprintnacht.ch/index2.php?x=1264&y=868&value=./galerie/iframe.php&link=31) or [here](http://flickr.com/photos/tags/berner+schwimmtage/)). chantal cavin [1] swam a new world record for disabled swimmers, a lot of swimmers swam new meeting records and even more swam new personal records [2].
+this weekend we had the berner schwimmtage, a two-day swimming event, including the [sprintnight](http://sprintnacht.ch), which was absolutely fabulous (see some more pictures [here](http://sprintnacht.ch/index2.php?x=1264&y=868&value=./galerie/iframe.php&link=31) or [here](https://flickr.com/photos/tags/berner+schwimmtage/)). chantal cavin [1] swam a new world record for disabled swimmers, a lot of swimmers swam new meeting records and even more swam new personal records [2].
   
-besides coaching my team i also found time to shoot a quick and dirty panorama of the indoor pool [hirschengraben](http://www.sportamt-bern.ch/baederkunsteisbahnen/?v=hallenbader). it's a shot i stitched from 12 images i took freehand on the gallery of the pool, stitched with [hugin](http://hugin.sourceforge.net/) and converted to a qtvr using [makecubic](http://developer.apple.com/quicktime/quicktimeintro/tools/). so, if you click on the thumbnail below you should get a 1.8mb big .mov-file in which you can zoom and pan around [3]. if you prefer a flat image, then you should step over to [flickr](http://flickr.com/photos/habi/60532666/) and look at the panorama as a .jpg.
+besides coaching my team i also found time to shoot a quick and dirty panorama of the indoor pool [hirschengraben](http://www.sportamt-bern.ch/baederkunsteisbahnen/?v=hallenbader). it's a shot i stitched from 12 images i took freehand on the gallery of the pool, stitched with [hugin](http://hugin.sourceforge.net/) and converted to a qtvr using [makecubic](http://developer.apple.com/quicktime/quicktimeintro/tools/). so, if you click on the thumbnail below you should get a 1.8mb big .mov-file in which you can zoom and pan around [3]. if you prefer a flat image, then you should step over to [flickr](https://flickr.com/photos/habi/60532666/) and look at the panorama as a .jpg.
 
 
 

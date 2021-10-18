@@ -18,9 +18,9 @@ tags:
 ---
 
 Unter anderem, weil [Philip](http://fime.ch/article/weekendreader2015-14.html) grad von Backups schrieb.
-Und weil’s am Ende des Blog-Eintrages etwas etwas günstiger gibt.
+Und weil’s am Ende des Blog-Einträges etwas etwas günstiger gibt.
 
-Seit längerer Zeit mache ich zusätzlich zu meinem [TimeMachine](https://www.apple.com/osx/apps/#timemachine)-Backup auf einer Festplatte in der Schreibtisch-Schublate ein sogenanntes Offsite-Backup meiner wichtisten Daten (Fotos und Dokumente).
+Seit längerer Zeit mache ich zusätzlich zu meinem [TimeMachine](https://apple.com/osx/apps/#timemachine)-Backup auf einer Festplatte in der Schreibtisch-Schublate ein sogenanntes Offsite-Backup meiner wichtisten Daten (Fotos und Dokumente).
 
 Das Offsite-Backup wird mit Hilfe von [Arq](https://www.haystacksoftware.com/arq/) bei [Amazon](https://aws.amazon.com/s3/) gespeichert, so dass ich für ein Backup von gut 300 GB Daten im Monat knapp 8$ zahle und mir sicher sein kann, dass diese wichtisten Daten selbst dann sicher sind, wenn mir mein Schreibtisch mit dem Laptop drauf und der TimeMachine-Festplatte drin explodiert.
 

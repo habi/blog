@@ -30,7 +30,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [How Elizabeth Holmes’s House of Cards Came Tumbling Down](http://www.vanityfair.com/news/2016/09/elizabeth-holmes-theranos-exclusive): Die Idee von [Theranos](https://theranos.com) tönt prima: Mit einem Tropfen Blut eine ganze Batterie von Tests durchführen und damit Menschen helfen.
 
     
-  * [The Case of the Headphone Hijack](http://www.wooji-juice.com/blog/headphone-hijack.html): Ich fahr' noch eine Weile weiter mit meinem iPhone 5S, das hier ist für all diejenigen, die einen Überbiss bekommen haben, weil das [iPhone 7](http://www.apple.com/iphone-7/) keinen [klassischen Kophörer-Stecker](https://en.wikipedia.org/wiki/Phone_connector_(audio)) mehr hat.
+  * [The Case of the Headphone Hijack](http://www.wooji-juice.com/blog/headphone-hijack.html): Ich fahr' noch eine Weile weiter mit meinem iPhone 5S, das hier ist für all diejenigen, die einen Überbiss bekommen haben, weil das [iPhone 7](https://apple.com/iphone-7/) keinen [klassischen Kophörer-Stecker](https://en.wikipedia.org/wiki/Phone_connector_(audio)) mehr hat.
 
     
   * [Hipku - encode any IP address as a haiku](http://gabrielmartin.net/projects/hipku/): Nerd-Content im Quadrat, sortiert unter 'Because it's fun': Irgendeine IP-Adresse als [Haiku](http://enwp.org/haiku) codieren. Bei IPv4 nur halb, bei IPv6 schon eher. Meine momentane IP ist

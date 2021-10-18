@@ -27,7 +27,7 @@ i know, i have a kinda crooked humor, or maybe i just need to go to bed.
 
 
 
-**2nd update**: the joke propagated quite a bit now: see [here](http://atrustheotaku.livejournal.com/318589.html) for a rather thorough investigation with a [node graph](http://flickr.com/photos/nikolasco/85689163/) (or full 136kb .png-file [here](http://dent.student.umd.edu/~atrus/LJ/Posts/20060112/graph.png)) of the link sphere. i'm node 91, btw. [via [haslo.ch](http://www.haslo.ch/permalink_711~en)]
+**2nd update**: the joke propagated quite a bit now: see [here](http://atrustheotaku.livejournal.com/318589.html) for a rather thorough investigation with a [node graph](https://flickr.com/photos/nikolasco/85689163/) (or full 136kb .png-file [here](http://dent.student.umd.edu/~atrus/LJ/Posts/20060112/graph.png)) of the link sphere. i'm node 91, btw. [via [haslo.ch](http://www.haslo.ch/permalink_711~en)]
 
 
 

@@ -17,19 +17,19 @@ here are some impressions:
   
 [![Fondue0](https://habi.gna.ch/blog/images/fondue0-tm.jpg)](https://habi.gna.ch/blog/images/fondue0.jpg) [![Fondue1](https://habi.gna.ch/blog/images/fondue1-tm.jpg)](https://habi.gna.ch/blog/images/fondue1.jpg)
   
-the table getting ready - [simu](http://flickr.com/photos/habi/tags/simu/) cooking
+the table getting ready - [simu](https://flickr.com/photos/habi/tags/simu/) cooking
 
 
 
 [![Fondue2](https://habi.gna.ch/blog/images/fondue2-tm.jpg)](https://habi.gna.ch/blog/images/fondue2.jpg) [![Fondue4](https://habi.gna.ch/blog/images/fondue4-tm.jpg)](https://habi.gna.ch/blog/images/fondue4.jpg)
   
-[andi](http://flickr.com/photos/habi/tags/dustbowl/) readying the fondue, [dewi](http://flickr.com/photos/habi/tags/dewi/) having some wine - [reto](http://flickr.com/photos/habi/tags/reto/) and simu digesting
+[andi](https://flickr.com/photos/habi/tags/dustbowl/) readying the fondue, [dewi](http://flickr.com/photos/habi/tags/dewi/) having some wine - [reto](http://flickr.com/photos/habi/tags/reto/) and simu digesting
 
 
 
 [![Fondue5](https://habi.gna.ch/blog/images/fondue5-tm.jpg)](https://habi.gna.ch/blog/images/fondue5.jpg) [![Fondue3](https://habi.gna.ch/blog/images/fondue3-tm.jpg)](https://habi.gna.ch/blog/images/fondue3.jpg)
   
-[hamme](http://flickr.com/photos/habi/tags/h%C3%A4mme/), [nicola](http://flickr.com/photos/habi/tags/nicola/), andi - nicola finishing off, andi and hamme watching.
+[hamme](https://flickr.com/photos/habi/tags/h%C3%A4mme/), [nicola](http://flickr.com/photos/habi/tags/nicola/), andi - nicola finishing off, andi and hamme watching.
 
 
 

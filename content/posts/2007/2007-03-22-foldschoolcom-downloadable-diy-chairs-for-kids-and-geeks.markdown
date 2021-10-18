@@ -15,7 +15,7 @@ categories:
 [![Signatur Def](https://habi.gna.ch/wp-content/uploads/2007/03/signatur-def-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/signatur-def.jpg)
 
 
-[![ Wp-Content Uploads Foldschoolnicola](https://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola.jpg)[nicola](http://flickr.com/photos/habi/tags/nicola) finally made it!
+[![ Wp-Content Uploads Foldschoolnicola](https://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2007/03/wp-content-uploads-foldschoolnicola.jpg)[nicola](https://flickr.com/photos/habi/tags/nicola) finally made it!
 his newest project as a [designing architect](http://www.nicolafrombern.com/) is online: the [foldschool](http://www.foldschool.com/) - cardboard furniture.
 
 since ages he's made plans and models (filling the shopwindow in his studio), now everything is online, functional and looking good.

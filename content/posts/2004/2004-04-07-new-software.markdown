@@ -19,7 +19,7 @@ my preferred way of looking up a translation of an english word was to use the e
 
 
 ![dilo](https://habi.gna.ch/blog/images/dilo-tm.jpg)but since i've read [that post on fscklog](http://fscklog.typepad.com/fsck/2003/12/freeware_dilo.html) i don't even need to switch my browser, i just hit command+shift+F in any application, then [dilo](http://www.imdat.de/dilo/) fires up and looks up the word, be it either english or german. wonderful! 
-and the best thing is, that the software is a mere 156kb big. i thought i'd never seen anything like that off my [trusty palm](http://www.amazon.com/exec/obidos/tg/detail/-/B000031KIM/104-0319171-5515146?v=glance).
+and the best thing is, that the software is a mere 156kb big. i thought i'd never seen anything like that off my [trusty palm](https://amazon.com/exec/obidos/tg/detail/-/B000031KIM/104-0319171-5515146?v=glance).
 
 the second software i installed in the last few days is [quicksilver](http://blacktree.com/apps/quicksilver/) ([the new gunslinger](http://whatdoiknow.org/archives/001601.shtml), i just love that quote!).
 i've never got the hang of [launchbar](http://www.obdev.at/products/launchbar/) et.al. although a lot of people praise that kind of software to high heavens. but some days ago i stumbled over [this post on mactechnews.de](http://www.mactechnews.de/index.php?id=6168) praising quicksilver as the ultimate power-tool for os x. and i have to say, since i installed it i hardly can work at any mac without it, it's so amazingly cool.

@@ -20,7 +20,7 @@ Die einfache Antwort war, dass der Film so nicht so schon aussieht, viel zu nerv
 
 Die kompliziertere Antwort war auch, dass das Ganze so nicht einfach zu erstellen war, denn für jede Stunde ein Foto über 2.75 Jahre ergibt sage und schreibe gut 23000 Fotos (kein Tippfehler :)
 Zuerst musste ich so mal eine Film herstellen.
-Quicktime Pro auf meinem Burorechner mit 8 GB RAM hat nach einer Stunde aufgegeben, schlussendlich hab ich's dann mit [ImageJ](http://rsbweb.nih.gov/ij/) und dem [Quicktime Writer Plugin](http://rsbweb.nih.gov/ij/plugins/movie-writer.html) geschafft, einen zusammenhangenden Film zu schreiben.
+Quicktime Pro auf meinem Bürorechner mit 8 GB RAM hat nach einer Stunde aufgegeben, schlussendlich hab ich's dann mit [ImageJ](http://rsbweb.nih.gov/ij/) und dem [Quicktime Writer Plugin](http://rsbweb.nih.gov/ij/plugins/movie-writer.html) geschafft, einen zusammenhangenden Film zu schreiben.
 
 Problematisch war jetzt nur, dass der Film bei 24 Bildern pro Sekunde einiges über 15 Minuten war.
 Mit 1.8 GB Grosse auch nicht grad ein Filmli, das mann einfach irgendwo hochladen kann.

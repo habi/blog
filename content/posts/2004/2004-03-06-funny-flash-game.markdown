@@ -10,7 +10,7 @@ categories:
 - none
 ---
 
-in the tradition of [pinguin.swf](http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=penguin.swf&spell=1) here's another extremely silly but annoyingly addictive flash-game: [blow up the warthog](http://www.collegemix.com/content.php?q=2&id=522&action=previous) to kill all the bad aliens.
+in the tradition of [pinguin.swf](https://google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=penguin.swf&spell=1) here's another extremely silly but annoyingly addictive flash-game: [blow up the warthog](http://www.collegemix.com/content.php?q=2&id=522&action=previous) to kill all the bad aliens.
 
 [via weebl and bobs [newsletter](http://groups.yahoo.com/group/wblandbob/)]
 

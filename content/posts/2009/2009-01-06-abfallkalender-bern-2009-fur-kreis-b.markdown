@@ -19,7 +19,7 @@ Da es die Stadverwaltung Bern auch dieses Jahr nicht schafft, den Abfallkalender
 
 
 
-Wie schon beim letzten Mal gilt; es ist nett, wenn mensch mir Fehler mitteilt, die beiden Datein sind ohne Anspruch auf Richtigkeit der Allgemeinheit zur Verfügung gestellt. Jetzt müssen nur noch zwei andere die Daten für Kreise A und C eintragen, für A könnten sich [Herr Studer](https://hymnos.existenz.ch/) oder [Herr Michel](http://bloxxs.ch/), für C könnte sich [Herr Rouge](http://www.rouge.ch/blog/) hinter die elektronische Agenda klemmen...
+Wie schon beim letzten Mal gilt; es ist nett, wenn mensch mir Fehler mitteilt, die beiden Datein sind ohne Anspruch auf Richtigkeit der Allgemeinheit zur Verfügung gestellt. Jetzt müssen nur noch zwei andere die Daten für Kreise A und C einträgen, für A könnten sich [Herr Studer](https://hymnos.existenz.ch/) oder [Herr Michel](http://bloxxs.ch/), für C könnte sich [Herr Rouge](http://www.rouge.ch/blog/) hinter die elektronische Agenda klemmen...
 
 
 

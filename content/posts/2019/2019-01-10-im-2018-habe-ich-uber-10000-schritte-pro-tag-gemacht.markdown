@@ -24,7 +24,7 @@ Dieser und andere Posts sind unter dem Tag [`jahresrückblick18`](https://habi.g
 Seit September 2014 weiss ich ungefähr, wieviele Schritte ich jeden Tag mache.
 Die Schritte werden mit einem Garmin [vívofit](https://buy.garmin.com/en-US/US/p/143405) (bis ca. Mai 2016) und einer Garmin [Forerunner 235](https://buy.garmin.com/en-US/US/p/529988) (seit ca. dann) aufgezeichnet.
 Die Export-Funktion von Garmin liefert leider keine nach Tag aufgeschlüsselten Daten.
-Da die Schrittzahlen aber via [Garmin Connect](https://connect.garmin.com/) auf meinem Telefon in [Apple Health](https://www.apple.com/ios/health/) landen, konnte ich mit [QS Access](http://quantifiedself.com/qs-access-app/) einfach eine [CSV](ttps://en.wikipedia.org/wiki/Comma-separated_values)-Datei erstellen, die mit etwas Python-Code analysiert wird.
+Da die Schrittzahlen aber via [Garmin Connect](https://connect.garmin.com/) auf meinem Telefon in [Apple Health](https://apple.com/ios/health/) landen, konnte ich mit [QS Access](http://quantifiedself.com/qs-access-app/) einfach eine [CSV](ttps://en.wikipedia.org/wiki/Comma-separated_values)-Datei erstellen, die mit etwas Python-Code analysiert wird.
 
 Mit etwas Python-Code (siehe ganz unten) habe ich die CSV-Datei eingelesen und kurz "analysiert": In der Summe habe ich im 2018 3.85 Millionen Schritte gemacht, das sind 10558 Schritte pro Tag.
 Am meisten Schritte gab's am Instituts-Ausflug ([siehe August hier](https://habi.gna.ch/2019/01/08/2018-in-bildern/)), nämlich 21465 Schritte.

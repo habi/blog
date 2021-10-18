@@ -16,5 +16,5 @@ a really annoying and pointless ad-campaign, which is plastered all over here in
 [![](https://habi.gna.ch/blog/images/gerebelt1-tm.jpg)](https://habi.gna.ch/blog/images/gerebelt1.jpg) [![](https://habi.gna.ch/blog/images/gerebelt2-tm.jpg)](https://habi.gna.ch/blog/images/gerebelt2.jpg)
 does anyone know what "gerebelt" means? (cooking at work today...)
 
-does anyone know other good moblogging sites besides [bild.li](http://www.bild.li/) (where my moblog is now), [phlog](http://www.phlog.net/) or [moblg](http://www.moblg.net/)? i'm looking for one where you can upload cheap (e.g email) and style your page as you want.
+does anyone know other good moblogging sites besides [bild.li](https://bild.li/) (where my moblog is now), [phlog](http://www.phlog.net/) or [moblg](http://www.moblg.net/)? i'm looking for one where you can upload cheap (e.g email) and style your page as you want.
 phlog is my main candidate right now. leave a comment if you know a better one!

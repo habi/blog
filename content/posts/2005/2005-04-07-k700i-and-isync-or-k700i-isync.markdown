@@ -12,7 +12,7 @@ categories:
 ---
 
 
-yesterday i went to prolong my contract with my mobile phone provider, so i was able to cheaply get a new mobile phone. after looking at the different mobiles [compatible with isync](http://www.apple.com/isync/devices.html) i decided (mostly for monetary reasons) to get the [Sony Ericsson K700i](http://www.sonyericsson.com/k700/).
+yesterday i went to prolong my contract with my mobile phone provider, so i was able to cheaply get a new mobile phone. after looking at the different mobiles [compatible with isync](https://apple.com/isync/devices.html) i decided (mostly for monetary reasons) to get the [Sony Ericsson K700i](http://www.sonyericsson.com/k700/).
   
 after trying to sync it with my computer i nearly gave up, because isync always crashed on me in the middle of the syncing process. after countless tries, deleting preference files, rewriting some preinstalled bundles and stuff like that isync notified me of a "duplication warning" with one contact i have in my address-book: the godfather of my sister is in my address book as: Renner Prename & Prename Wife.
   

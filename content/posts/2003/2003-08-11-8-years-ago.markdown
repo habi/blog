@@ -31,4 +31,4 @@ but there are still some fighters left (at least on windows-platforms)
 
 
 
-on [os x ](http://www.apple.com/macosx/)microsoft stopped the development of IE, because they had to admit, that [apple](http://www.apple.com/) has a more advanced product: [safari](http://www.apple.com/safari/) (mostly because they knew how to tie it into the OS :-)
+on [os x ](https://apple.com/macosx/)microsoft stopped the development of IE, because they had to admit, that [apple](http://www.apple.com/) has a more advanced product: [safari](http://www.apple.com/safari/) (mostly because they knew how to tie it into the OS :-)

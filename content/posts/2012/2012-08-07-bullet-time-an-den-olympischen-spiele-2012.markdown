@@ -28,4 +28,4 @@ Mit minimalen Nachforschungen [2] bin ich auf das [i3DLive-Projekt](http://www.b
 
 [1]: Eigentlich war's Nina, die mir davon erzählte, aber der Spannungsbogen passt so besser :)
 [2]: [reddit.com](http://www.reddit.com) sei Dank
-[3]: via [@viergrad](http://twitter.com/viergrad)
+[3]: via [@viergrad](https://twitter.com/viergrad)

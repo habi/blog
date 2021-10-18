@@ -12,7 +12,7 @@ categories:
 ---
 
 
-i've been dog-sitting two big dogs [1] of a friend this weekend. while going for a nice long walk we felt a bit like [being in an episode of lost](http://flickr.com/photos/habi/89941729/), but also had a rather good time. the image below was taken on [this bridge](http://map.search.ch/g%C3%BCmmenen?x=492&y=-2436&z=512).
+i've been dog-sitting two big dogs [1] of a friend this weekend. while going for a nice long walk we felt a bit like [being in an episode of lost](https://flickr.com/photos/habi/89941729/), but also had a rather good time. the image below was taken on [this bridge](http://map.search.ch/g%C3%BCmmenen?x=492&y=-2436&z=512).
 
 
 

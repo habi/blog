@@ -11,7 +11,7 @@ categories:
 ---
 
 
-i've been to zurich this wednesday (ninas birthday...) and was greeted with a wonderful morning when i went home. while walking over the [dammsteg](http://flickr.com/photos/habi/56969569/) i couln't resist to take some pictures. the link before is one of them. the one below shows a detail of the mill on the left of the panorama.
+i've been to zurich this wednesday (ninas birthday...) and was greeted with a wonderful morning when i went home. while walking over the [dammsteg](https://flickr.com/photos/habi/56969569/) i couln't resist to take some pictures. the link before is one of them. the one below shows a detail of the mill on the left of the panorama.
 
 
 

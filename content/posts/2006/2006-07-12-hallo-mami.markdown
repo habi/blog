@@ -13,7 +13,7 @@ categories:
 
 also mami, wenn du meine seite nochmals durch google findest, dann ist dieser eintrag nur für dich :-)
   
-und wenn du grad ein bisschen weitersurfen willst, hats [hier ein paar bilder von dir](http://flickr.com/photos/habi/tags/heidi/) auf dem internet.
+und wenn du grad ein bisschen weitersurfen willst, hats [hier ein paar bilder von dir](https://flickr.com/photos/habi/tags/heidi/) auf dem internet.
   
 e dicke muntsch
   

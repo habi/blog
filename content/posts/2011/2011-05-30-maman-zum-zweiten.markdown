@@ -24,13 +24,13 @@ Vergangene Samstag Nami war ich nun kurz in der Stadt und habe einige Fotos aufg
 
 Das erste Bild zeigt die eindrucksvolle Grösse der Skulptur, die doch ein bisschen gefährlich aussieht so. [Arachnophobiker](https://de.wikipedia.org/wiki/Arachnophobie) müssen halt wegschauen jetzt (oder wenigstens nicht aufs Bild klicken, ums gross anzuschauen).
 
-[![Maman DSC_1206-DSC_1205 stereographic under_exposure_layers_0000.jpg](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000.jpg)
-Das zweite Bild zeigt, wie sich <a href="http://de.wikipedia.org/wiki/Louise_Bourgeois">Louise Bourgeois</a> die Skulptur vielleicht vorgestellt hat. Nämlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschützt und ernährt hat.
+[![Maman DSC_1206-DSC_1205 stereographic under_exposure_layers_0000.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic-under_exposure_layers_0000.jpg)
+Das zweite Bild zeigt, wie sich <a href="https://de.wikipedia.org/wiki/Louise_Bourgeois">Louise Bourgeois</a> die Skulptur vielleicht vorgestellt hat. Nämlich als Remineszenz an ihre Mutter, die durch ihre Arbeit als Teppichweberin die Familie beschützt und ernährt hat.
 
-[![Maman DSC_1206-DSC_1205 stereographic_exposure_layers_0000.jpg](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000-tm.jpg)](http://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000.jpg)
+[![Maman DSC_1206-DSC_1205 stereographic_exposure_layers_0000.jpg](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000-tm.jpg)](https://habi.gna.ch/wp-content/uploads/2011/05/Maman-DSC_1206-DSC_1205-stereographic_exposure_layers_0000.jpg)
 
 Wer schlussendlich ganz unter die Spinne eintauchen möchte, kann sich auf dem Bild umsehen, dass ich bei [360cities.net](http://www.360cities.net/image/maman) hochgeladen habe, oder im unten eingebetteten Viewer mit dem Mauszeiger rumfahren.
 
 <iframe src="https://www.360cities.net/contributor_embed_iframe/6dae29e980/maman" width="425" height="315" frameborder="0" bgcolor="#000000" target="_blank" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe>
 
-<insider>PS: Und nur damit das klar ist: [Herr Lauer](http://habi.gna.ch/2011/04/16/indien/#comment-14584), es ging nicht darum, Sie mit dem Foto zu schlagen, ich wäre sehr gespannt, ihre frühmorgendliche Ansicht zu sehen!</insider>
+<insider>PS: Und nur damit das klar ist: [Herr Lauer](https://habi.gna.ch/2011/04/16/indien/#comment-14584), es ging nicht darum, Sie mit dem Foto zu schlagen, ich wäre sehr gespannt, ihre frühmorgendliche Ansicht zu sehen!</insider>

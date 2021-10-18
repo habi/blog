@@ -23,4 +23,4 @@ oh, and [filewile.com](http://filewile.com/filewile.php) has just uploaded a new
 
 
 
-I'm listening to Bodhisattva Vow from the album The Sounds Of Science (Disc 1) by [Beastie Boys](http://www.google.com/search?q=%22Beastie Boys%22) while typing this entry.
+I'm listening to Bodhisattva Vow from the album The Sounds Of Science (Disc 1) by [Beastie Boys](https://google.com/search?q=%22Beastie Boys%22) while typing this entry.

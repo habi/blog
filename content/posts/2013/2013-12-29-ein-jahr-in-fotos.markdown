@@ -14,7 +14,7 @@ categories:
 
 Das Jahresende verleitet zu Rückblicken [1].
 
-Im Rahmen einer grossangelegten Aufräum-Aktion ging ich mit der Hilfe von ein paar ‘[Smart Alben](http://cl.ly/T92j)’ in [Aperture](http://www.apple.com/aperture/) durch meine Fotobibliothek.
+Im Rahmen einer grossangelegten Aufräum-Aktion ging ich mit der Hilfe von ein paar ‘[Smart Alben](http://cl.ly/T92j)’ in [Aperture](https://apple.com/aperture/) durch meine Fotobibliothek.
 
 Die Fotos unten sind die Highlights aus jedem Monat, als mein persönlicher Rückblick aufs 2013.
 

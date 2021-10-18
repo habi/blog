@@ -26,7 +26,7 @@ Zubereitung:
 - Mit [Fiji](http://fiji.sc) aus den ca. 6000 Bildern drei gute Fotos auswählen, an denen die Positionen der einzelnen Akteure und Akteurinnen stimmen.
 - Die drei richtigen Fotos als sogenannte 'Layer' in [Krita](http://krita.org/) importieren. Etwas am [Alpha-Kanal](https://de.wikipedia.org/wiki/Alphakanal) der einzelnen Fotos rumfrickeln, so dass es aussieht als wären wir nicht zu viert, sondern ein ganzer Haufen Klone.
 - In [Aperture](https://en.wikipedia.org/wiki/Aperture_(software)) etwas an den Farben schrauben und auf die passende Grösse zuschneiden.
-- Mit [Pages](https://www.apple.com/pages/) schnell eine Hinterseite basteln. Das Foto kommt auf die Vorderseite.
+- Mit [Pages](https://apple.com/pages/) schnell eine Hinterseite basteln. Das Foto kommt auf die Vorderseite.
 - Mit dem aus Pages exportierten PDF ins [CopyQuick](https://www.sbb.ch/en/meta/shop-detail.html/geo-copyquick-9046) im Bahnhof.
 - Adiömersi, ab die Post!
 

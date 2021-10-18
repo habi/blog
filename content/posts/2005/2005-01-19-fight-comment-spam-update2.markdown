@@ -11,7 +11,7 @@ categories:
 ---
 
 
-google takes a new measure in fighting comment spam. [they implemented](http://www.google.com/googleblog/2005/01/preventing-comment-spam.html) a new attribute for hyperlinks - rel="nofollow" - which prevents links from being spidered. so when google (or any [other](http://blogs.msdn.com/msnsearch/archive/2005/01/18/nofollow_tags.aspx) [search](http://www.ysearchblog.com/archives/000069.html) engines that support the attribute) parses a link with that attribute the links don't get credits in the rankings of the catalog. this is one of the first measure to make blog-spamming really uninteresting.
+google takes a new measure in fighting comment spam. [they implemented](https://google.com/googleblog/2005/01/preventing-comment-spam.html) a new attribute for hyperlinks - rel="nofollow" - which prevents links from being spidered. so when google (or any [other](http://blogs.msdn.com/msnsearch/archive/2005/01/18/nofollow_tags.aspx) [search](http://www.ysearchblog.com/archives/000069.html) engines that support the attribute) parses a link with that attribute the links don't get credits in the rankings of the catalog. this is one of the first measure to make blog-spamming really uninteresting.
   
 many (blog)systems are already able to cope with the new attribute, i installed the [nofollow plugin for MT](http://www.movabletype.org/news/2005/01/movable_type_nofollow_p.shtml), so spammers can sod off!
   
@@ -23,7 +23,7 @@ good night.
 
 
 
-[via [google's blog](http://www.google.com/googleblog/2005/01/preventing-comment-spam.html)]
+[via [google's blog](https://google.com/googleblog/2005/01/preventing-comment-spam.html)]
 
 
 

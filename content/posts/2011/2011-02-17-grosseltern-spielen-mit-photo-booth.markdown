@@ -10,7 +10,7 @@ categories:
 - personal
 ---
 
-Das kommt raus, wenn mensch seine Grosseltern mit [Photo Booth](http://www.apple.com/macosx/what-is-macosx/photo-booth.html) spielen lässt. Hilarious!
+Das kommt raus, wenn mensch seine Grosseltern mit [Photo Booth](https://apple.com/macosx/what-is-macosx/photo-booth.html) spielen lässt. Hilarious!
   
 
 

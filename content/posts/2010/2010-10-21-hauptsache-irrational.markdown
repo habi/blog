@@ -18,7 +18,7 @@ Ach ja, und was ich [auch noch](https://habi.gna.ch/2010/10/21/vor-die-tr/) woll
 
 
 
-Da sich das Magazin neuerdings hinter einer [Paywall](https://en.wikipedia.org/wiki/Paywall) versteckt, die zusatzlich nur noch mit einem [iPad](http://dasmagazin.ch/index.php/das-magazin-auf-ipad/) (mensch scrolle runter und lese alle Kommentare zu dieser Überlegung!) zu uberwinden ist, geht das aber nicht.
+Da sich das Magazin neuerdings hinter einer [Paywall](https://en.wikipedia.org/wiki/Paywall) versteckt, die zusätzlich nur noch mit einem [iPad](http://dasmagazin.ch/index.php/das-magazin-auf-ipad/) (mensch scrolle runter und lese alle Kommentare zu dieser Überlegung!) zu uberwinden ist, geht das aber nicht.
 
 
 

@@ -20,7 +20,7 @@ how does that happen you ask?
 
 
 
-this afternoon i got an email from [clorenz41](http://flickr.com/people/clorenz/) [1] through flickr. he asked if he could use my photos "for a few stories that have been sent in". the mail included some fancy link which made the whole process work automagically.
+this afternoon i got an email from [clorenz41](https://flickr.com/people/clorenz/) [1] through flickr. he asked if he could use my photos "for a few stories that have been sent in". the mail included some fancy link which made the whole process work automagically.
   
 so after some clicks my pictures are now part of a story from [conneticutkati](http://www.nowpublic.com/user/5253) [2], where she quotes another article on indymedia.ch.
   

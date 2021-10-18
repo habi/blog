@@ -42,7 +42,7 @@ also:
 * [dr](http://kusito.ch/?p=351) [geri gagarin](http://kusito.ch/?p=351) [dä](http://kusito.ch/?p=351) [souhung](http://kusito.ch/?p=351)
 * [het Am Tag wo är isch gange dänkt...](https://habi.gna.ch/2008/01/28/zuri-west-domino/)
 
-also, wenn die [frau schenk](http://flickr.com/photos/habi/165093147/) auf dem internett präsent wäre, würd ich's ihr weiterschicken, sie hat mal mit der halben band in einer gross-wg gewohnt. der [sigi](http://sigi.freeflux.net/) ist auch ein fundierter züri-west-kenner, der bloggt aber seit seinem heute-bericht (29. jänner 2007, leider nicht online) nicht mehr. wenn ich in der bloggeria bleibe, ist [christian](https://hymnos.existenz.ch) der empfänger meines stöckchens, der ist ja auch ein [fundierter kenner der materie](http://hymnos.existenz.ch/2007/12/01/zuri-west-live-geblogge/).
+also, wenn die [frau schenk](https://flickr.com/photos/habi/165093147/) auf dem internett präsent wäre, würd ich's ihr weiterschicken, sie hat mal mit der halben band in einer gross-wg gewohnt. der [sigi](http://sigi.freeflux.net/) ist auch ein fundierter züri-west-kenner, der bloggt aber seit seinem heute-bericht (29. jänner 2007, leider nicht online) nicht mehr. wenn ich in der bloggeria bleibe, ist [christian](https://hymnos.existenz.ch) der empfänger meines stöckchens, der ist ja auch ein [fundierter kenner der materie](http://hymnos.existenz.ch/2007/12/01/zuri-west-live-geblogge/).
 
 und damit er meine stündige copy-paste-aktion mit formatierungskorrektur nicht nachmachen muss, ist hier der komplette html-code für obige liste:
 

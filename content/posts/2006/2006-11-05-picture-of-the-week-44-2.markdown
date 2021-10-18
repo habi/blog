@@ -12,7 +12,7 @@ categories:
 ---
 
 yesterday i went for a walk with nina, onto the [tower of moron](http://www.tourdemoron.ch/). only today i realized that it's quite a funny name in english :-)
-the tower was designed by mario botta, a famous swiss architect and built by swiss [brickie](http://www.dict.cc/?s=brickie)-apprentices. the weather was absolutely stunning, so i managed to take some nice pictures. there's one below or some more [here](http://flickr.com/photos/habi/tags/moron).
+the tower was designed by mario botta, a famous swiss architect and built by swiss [brickie](http://www.dict.cc/?s=brickie)-apprentices. the weather was absolutely stunning, so i managed to take some nice pictures. there's one below or some more [here](https://flickr.com/photos/habi/tags/moron).
 
 
 

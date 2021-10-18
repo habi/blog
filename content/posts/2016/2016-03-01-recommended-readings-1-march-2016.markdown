@@ -50,6 +50,6 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
   * [The Boy with a Camera for a Face](https://vimeo.com/151493973): Ein wunderschön erzähltes Filmi über einen Mann, der mit einer Kamera als Kopf geboren wurde.
 
 
-  * [THE CHICKENING](https://www.youtube.com/watch?v=i17pORf_iE4): Also wie? Was!? Hä? Spinnts dene? [The Shining](http://www.imdb.com/title/tt0081505/), neu interpretiert. Und sau-geil.
+  * [THE CHICKENING](https://www.youtube.com/watch?v=i17pORf_iE4): Also wie? Was!? Hä? Spinnts dene? [The Shining](https://imdb.com/title/tt0081505/), neu interpretiert. Und sau-geil.
 
 

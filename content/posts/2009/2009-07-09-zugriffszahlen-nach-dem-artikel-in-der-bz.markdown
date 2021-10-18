@@ -23,7 +23,7 @@ wie mensch die zugriffszahlen anschaut, die das [offizielle wordpress stats-plug
   * durch den artikel ca. 50-60 zusätzliche zugriffe geschahen
 
 	
-  * diese zugriffe aber meist direkt und nicht von der BZ-seite her selbst geschahen, denn [google analytics](http://www.google.com/analytics/) meldet nur 3 referrers vom artikel direkt (bild 2)
+  * diese zugriffe aber meist direkt und nicht von der BZ-seite her selbst geschahen, denn [google analytics](https://google.com/analytics/) meldet nur 3 referrers vom artikel direkt (bild 2)
 
 	
   * ich im normalfall 50-70 besucher und besucherinnen pro tag auf der seite habe

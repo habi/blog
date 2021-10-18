@@ -11,7 +11,7 @@ categories:
 ---
 
 in the current [weltwoche](http://www.weltwoche.ch/)* there's an [article](http://www.weltwoche.ch/artikel/?AssetID=7248&CategoryID=60) about hackers and coders which was not too bad (although a bit pop-science).
-i really had to laugh about the worm that [Philet0ast3r](http://www.google.com/search?q=Philet0ast3r&ie=UTF-8&oe=UTF-8) programmed:
+i really had to laugh about the worm that [Philet0ast3r](https://google.com/search?q=Philet0ast3r&ie=UTF-8&oe=UTF-8) programmed:
 
 
 

@@ -21,7 +21,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
   * [Welcome to the Block Party](http://www.theawl.com/2015/09/welcome-to-the-block-party): The Awl beschreibt die Kontroverse um Werbeblocker. Unter iOS9 verwende ich den [Purify Blocker](https://itunes.apple.com/ch/app/purify-blocker-no-ads.-no/id1030156203?l=en&mt=8) vom selben Herrn, der [uBlock](https://www.ublock.org) programmiert hat und bin sehr zufrieden damit.
 
 
-  * [Can cities kick ads? Inside the global movement to ban urban billboards](http://www.theguardian.com/cities/2015/aug/11/can-cities-kick-ads-ban-urban-billboards): Was wäre, wenn Werbeblocker im Alltag installiert würden. Städte ohne Aussenwerbung, ein Traum?
+  * [Can cities kick ads? Inside the global movement to ban urban billboards](https://www.theguardian.com/cities/2015/aug/11/can-cities-kick-ads-ban-urban-billboards): Was wäre, wenn Werbeblocker im Alltag installiert würden. Städte ohne Aussenwerbung, ein Traum?
 
 
   * [How scientists fool themselves - and how they can stop](http://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517): Letzthin hatten wir auf der Arbeit eine Diskussion über _reproducible Science_, dieser Text passt ganz gut dazu.

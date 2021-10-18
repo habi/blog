@@ -19,7 +19,7 @@ tags:
 - wedding
 ---
 
-heute war mal wieder ein idealer tag für eine kleine velotour. [bruni](http://flickr.com/photos/habi/tags/bruni) hat vorgeschlagen, dass wir das [schloss münchenwiler](http://www.schlossmuenchenwiler.ch/) anschauen, denn im herbst plant er dort 'was grosses [1]. das fährtli war lustig, vor allem, weil wir die rückfahrt von münchenwiler in unter einer stunde reinpressen musste, damit bruni noch rechtzeitig zu seiner znachteinladung kam...
+heute war mal wieder ein idealer tag für eine kleine velotour. [bruni](https://flickr.com/photos/habi/tags/bruni) hat vorgeschlagen, dass wir das [schloss münchenwiler](http://www.schlossmuenchenwiler.ch/) anschauen, denn im herbst plant er dort 'was grosses [1]. das fährtli war lustig, vor allem, weil wir die rückfahrt von münchenwiler in unter einer stunde reinpressen musste, damit bruni noch rechtzeitig zu seiner znachteinladung kam...
 
 [2008-05-25-Schloss-Muenchenwiler.gpx](https://habi.gna.ch/wp-content/uploads/2008/05/2008-05-25-schloss-muenchenwiler.gpx)
 

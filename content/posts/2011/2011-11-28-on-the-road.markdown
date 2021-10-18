@@ -16,5 +16,5 @@ categories:
 
 Dieses Foto ist für etwa einen Monat das letzte der Serie [On the Road](https://www.flickr.com/photos/habi/sets/72157627960195033/).
 Am Ende der Brücke hat's einen Pfosten, der im Dunkeln eher unübersichtlich war.
-Das Resultat dieser Unübersichtlichkeit ist unter der Google-Suche [Tossy 2](http://www.google.com/search?q=tossy+2) ersichtlich, heisst also, dass ich etwa einen Monat nicht Velofahren darf.
+Das Resultat dieser Unübersichtlichkeit ist unter der Google-Suche [Tossy 2](https://google.com/search?q=tossy+2) ersichtlich, heisst also, dass ich etwa einen Monat nicht Velofahren darf.
 Leider.

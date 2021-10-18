@@ -11,7 +11,7 @@ categories:
 - pictures
 ---
 
-i've officially killed my [two](http://habi.bild.li/) [moblogs](http://moblog.co.uk/blogs.php?show=835) [1]. from now on, all my (seldom) moblogging is going to happen here: [http://flickr.com/photos/habi/tags/moblog/](http://flickr.com/photos/habi/tags/moblog/). regarding that, i've also uncluttered my sidebar a bit. the latest images-section now shows the five latest images i posted to flickr. on top there's the latest moblog, then the four latest "normal" images.
+i've officially killed my [two](https://habi.bild.li/) [moblogs](http://moblog.co.uk/blogs.php?show=835) [1]. from now on, all my (seldom) moblogging is going to happen here: [https://flickr.com/photos/habi/tags/moblog/](http://flickr.com/photos/habi/tags/moblog/). regarding that, i've also uncluttered my sidebar a bit. the latest images-section now shows the five latest images i posted to flickr. on top there's the latest moblog, then the four latest "normal" images.
 
 i achieved this with a mashup of the code of two [flickr-badges](https://www.flickr.com/badge_new.gne). the first one is pulling just the "moblog" tag, the second one is pulling the last 4 images.
 

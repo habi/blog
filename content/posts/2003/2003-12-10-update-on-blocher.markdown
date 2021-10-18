@@ -10,6 +10,6 @@ categories:
 - none
 ---
 
-following up the [spontaneous demonstration this noon](http://habi.bild.li/1394/view.html), there's another one to protest against the election of [christoph blocher](http://www.blocher.ch/de/) [tonight here in bern](http://www.indymedia.ch/de/2003/12/16348.shtml).
+following up the [spontaneous demonstration this noon](https://habi.bild.li/1394/view.html), there's another one to protest against the election of [christoph blocher](http://www.blocher.ch/de/) [tonight here in bern](http://www.indymedia.ch/de/2003/12/16348.shtml).
 got nothing to do?
 be there!

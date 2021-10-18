@@ -12,7 +12,7 @@ categories:
 
 during the first weekend of next october the [Suisse Cycle Messenger Championships](http://suicmc.ch/) 04 will take place here in bern.
 if you want to take a sneak-peak at the website of the SUICMC04, then you might want to [click here](http://www.suicmc04.ch/start.html). everything is up and running, just "hidden" from the general public until all quirks are sorted out.
-yesterday, [michel](http://www.google.com/search?q=%22dj+el+mensajero%22&btnG=Search&hl=en&lr=&safe=off&c2coff=1) and [abu](http://homepage.sunrise.ch/mysunrise/m_liniger/index.html) spent the whole day designing and putting the page online, and i spent a part of the morning with abu to design and implement the registration-database. everything is live now, so if you want to register yourself on a messenger-event, then you can do it now, i'll flush the [MYSQL-db](http://www.mysql.com/) before the site goes online for real.
+yesterday, [michel](https://google.com/search?q=%22dj+el+mensajero%22&btnG=Search&hl=en&lr=&safe=off&c2coff=1) and [abu](http://homepage.sunrise.ch/mysunrise/m_liniger/index.html) spent the whole day designing and putting the page online, and i spent a part of the morning with abu to design and implement the registration-database. everything is live now, so if you want to register yourself on a messenger-event, then you can do it now, i'll flush the [MYSQL-db](http://www.mysql.com/) before the site goes online for real.
 
 if you find a bug or something we need to correct, send me a note, please! (you don't need to write that the press-release talks about a different schedule, than the page itself, we're onto that :-)
 

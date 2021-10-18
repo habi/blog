@@ -11,6 +11,6 @@ categories:
 ---
 
 if you're able to speak chinese, check out [this page](http://blog.schee.info/archives/001563.html), 'cause i would like to know  what [that guy](http://blog.schee.info/) is talking about.
-i'd love to know the reason he links to my [moblog](http://habi.bild.li/) (the last link in the second paragraph).
+i'd love to know the reason he links to my [moblog](https://habi.bild.li/) (the last link in the second paragraph).
 
 :-)

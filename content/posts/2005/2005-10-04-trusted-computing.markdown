@@ -26,5 +26,5 @@ definitely worth those three and a half minutes!
   
 [2] check out lutz vogels other other short films and projects, they're all rather brilliant!
   
-[3] i've wanted to write that, since [we first met](http://flickr.com/photos/habi/8918958/) :-)
+[3] i've wanted to write that, since [we first met](https://flickr.com/photos/habi/8918958/) :-)
 

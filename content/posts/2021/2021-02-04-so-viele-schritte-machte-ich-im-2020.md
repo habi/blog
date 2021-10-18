@@ -15,8 +15,8 @@ tags:
 - quantifiedself
 ---
 
-Apropos [`seaborn`](http://habi.gna.ch/2021/02/04/recommended-readings-vom-januar-2021/); Hier einer der Posts zu meinem 2020.
-Dieser und andere Posts sind unter dem Tag [`jahresrückblick20`](http://habi.gna.ch/tag/jahresruckblick20) zu finden.
+Apropos [`seaborn`](https://habi.gna.ch/2021/02/04/recommended-readings-vom-januar-2021/); Hier einer der Posts zu meinem 2020.
+Dieser und andere Posts sind unter dem Tag [`jahresrückblick20`](https://habi.gna.ch/tag/jahresruckblick20) zu finden.
 
 Wie Anfangs 2019 habe ich mal wieder auf meine Schritte geschaut.
 Im 2020 habe ich 3.03 Millionen Schritte gemacht.
@@ -25,10 +25,10 @@ Das CSV-File lässt sich mit [etwas Python-Code](https://github.com/habi/steps) 
 
 Wie damals ist schön zu sehen, dass ich am <del>Mittwoch</del>Papatag eher mehr Schritte mache. 
 
-<img src="http://habi.gna.ch/wp-content/uploads/2021/02/output_19_0.png" alt="output_19_0" width="955" height="544" class="alignnone size-full wp-image-6124"/>
+<img src="https://habi.gna.ch/wp-content/uploads/2021/02/output_19_0.png" alt="output_19_0" width="955" height="544" class="alignnone size-full wp-image-6124"/>
 
 Die Ferien- und 'ausschliesslich HomeOffice'-Monate tauchen auch verstärkt in der "Statistik" auf (die eben dank `seaborn` so aussieht).
 
-<img src="http://habi.gna.ch/wp-content/uploads/2021/02/output_20_0.png" alt="output_20_0" width="955" height="544" class="alignnone size-full wp-image-6125"/>
+<img src="https://habi.gna.ch/wp-content/uploads/2021/02/output_20_0.png" alt="output_20_0" width="955" height="544" class="alignnone size-full wp-image-6125"/>
 
 Wer sich für den kompletten Code interessiert, findet das Jupyter Notebook [hier auf GitHub](https://github.com/habi/steps), oder [klickt hier für eine lauffähige Version des Notebooks auf Binder](https://mybinder.org/v2/gh/habi/steps/master).

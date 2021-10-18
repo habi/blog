@@ -24,7 +24,7 @@ this friday tinu and urs made a medieval diner in the castle of laupen. i'm in t
 
 
 
-**update:** the rest of the images can be found [here](http://flickr.com/photos/habi/sets/72057594085755073/).
+**update:** the rest of the images can be found [here](https://flickr.com/photos/habi/sets/72057594085755073/).
 
 
 

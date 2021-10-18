@@ -15,7 +15,7 @@ categories:
 since nina finally returned from her internship at the cancer institute in london, we were able to go for a nice hike this weekend. we walked from [meiringen to the axalp](http://tinyurl.com/2zxpop). the weather was absolutely stunning, so we had a great day (most days together with nina are great, so this was not really a surprise :-)
 i've managed to shoot a bunch of  very nice pictures and one stunning panorama which merits an own post (i'm still working on it...).
 the image below is panorama that also came out quite god, it's a stitched panorama shot at the waypoint [sattel](http://map.search.ch/meiringen?x=-2657&y=546&poi=verkehr,gastro,geo,anzeigen) just before the knee-weakening descent down to the socalled urserli. in total it's made from 9 images stitched together with the excellent [hugin](http://hugin.sourceforge.net/).
-see it here small or in full glory in the [meiringen-axalp](http://flickr.com/photos/habi/sets/72157602063046768/)-set on flickr.
+see it here small or in full glory in the [meiringen-axalp](https://flickr.com/photos/habi/sets/72157602063046768/)-set on flickr.
 
 
 

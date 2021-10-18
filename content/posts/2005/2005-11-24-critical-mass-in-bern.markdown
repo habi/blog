@@ -12,7 +12,7 @@ categories:
 
 [![Critical Mass-1](https://habi.gna.ch/blog/images/critical_mass-1-tm.jpg)](https://habi.gna.ch/blog/images/critical_mass-1.jpg)
 
-someone [1] is organizing a [critical mass](https://en.wikipedia.org/wiki/Critical_Mass) in bern at the 6th of december. if you'd like to take part, come and show up on the [bundesplatz](http://flickr.com/photos/tags/bundesplatz/) at 18:00. [i'll be there](http://upcoming.org/event/43180), and hopefully a lot of others too (do you remember the critical mass after the suicmc04? it was so great!)
+someone [1] is organizing a [critical mass](https://en.wikipedia.org/wiki/Critical_Mass) in bern at the 6th of december. if you'd like to take part, come and show up on the [bundesplatz](https://flickr.com/photos/tags/bundesplatz/) at 18:00. [i'll be there](http://upcoming.org/event/43180), and hopefully a lot of others too (do you remember the critical mass after the suicmc04? it was so great!)
 
 **We aren't blocking traffic; we ****_are_**** traffic.**
 

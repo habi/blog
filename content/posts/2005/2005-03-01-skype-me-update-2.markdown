@@ -11,7 +11,7 @@ categories:
 ---
 
 
-since [nina](http://flickr.com/photos/habi/tags/nina/) also started to use skype i thought i'd might give it another go.
+since [nina](https://flickr.com/photos/habi/tags/nina/) also started to use skype i thought i'd might give it another go.
   
 so if you feel the desperate urge to call me, you can do it and call me via this button [1]: [![](https://habi.gna.ch/blog/buttons/skype.png)](//david.haberthuer) 
   

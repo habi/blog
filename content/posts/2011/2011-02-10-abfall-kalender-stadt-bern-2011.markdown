@@ -12,7 +12,7 @@ categories:
 
 In den [letzten Jahren](https://habi.gna.ch/?s=abfallkalender) habe ich den Abfallkalender der Stadt Bern als Google-Kalender zur Verfügung gestellt. Jetzt hat's [Entsorgung + Recycling Stadt Bern (ERB)](http://www.bern.ch/leben_in_bern/wohnen/abfaelle) geschafft [1], den Abfallkalender in einem praktischen Format auf der Seite der Stadt Bern zu veröffentlichen.
 
-Wer künftig die Abfuhrdaten in seinen elektronischen Kalender eintragen will, kann dies so tun:
+Wer künftig die Abfuhrdaten in seinen elektronischen Kalender einträgen will, kann dies so tun:
 
 
 
@@ -30,6 +30,6 @@ Wer künftig die Abfuhrdaten in seinen elektronischen Kalender eintragen will, k
 
 
 
-Wer weiterhin Interesse hat, nur erinnert zu werden, wenn Papierabfuhr ist (und sich merken kann, dass Ghüder immer Dienstag/Freitag ist), kann [meinen Kalender für die Papierabfuhr im Kreis B](http://www.google.com/calendar/ical/dmfv843hg1058ro36uu007aqmc%40group.calendar.google.com/public/basic.ics) abonnieren, die anderen Kalender, die ich die letzten Jahre gemacht habe, gelten ohne Gewähr immernoch. Falls jemand miteditieren/korrigieren möchte, einfach in den Kommentaren melden.
+Wer weiterhin Interesse hat, nur erinnert zu werden, wenn Papierabfuhr ist (und sich merken kann, dass Ghüder immer Dienstag/Freitag ist), kann [meinen Kalender für die Papierabfuhr im Kreis B](https://google.com/calendar/ical/dmfv843hg1058ro36uu007aqmc%40group.calendar.google.com/public/basic.ics) abonnieren, die anderen Kalender, die ich die letzten Jahre gemacht habe, gelten ohne Gewähr immernoch. Falls jemand miteditieren/korrigieren möchte, einfach in den Kommentaren melden.
 
 [1]: Wieviel das wohl gekostet hat...

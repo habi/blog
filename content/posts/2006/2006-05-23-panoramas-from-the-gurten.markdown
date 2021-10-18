@@ -37,7 +37,7 @@ this image was assembled fully automatic using [autopano-sift](http://user.cs.tu
 
 
 
-if you'd like to see the pictures as jpg, then you can see them on [flickr](http://flickr.com/search/?w=all&q=gurten+tower+panorama&m=text). both images are available in full glory, be it either [7153 x 681](https://static.flickr.com/46/151183243_e6ef0a69eb_o.jpg) (from the center) or [7040 x 694](https://www.flickr.com/photo_zoom.gne?id=151184356&size=o) (from the handrail) pixels big.
+if you'd like to see the pictures as jpg, then you can see them on [flickr](https://flickr.com/search/?w=all&q=gurten+tower+panorama&m=text). both images are available in full glory, be it either [7153 x 681](https://static.flickr.com/46/151183243_e6ef0a69eb_o.jpg) (from the center) or [7040 x 694](https://www.flickr.com/photo_zoom.gne?id=151184356&size=o) (from the handrail) pixels big.
 
 
 

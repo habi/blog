@@ -11,5 +11,5 @@ categories:
 - music
 ---
 
-those that are interested: go to [filewile.com](http://habi.bild.li/816/view.html) and download [dejots and dustbowls](https://habi.gna.ch/pics/Filewile/) newest song, chinese dragon, a remix for [electric blanket](http://www.electricblanket.ch/) (under [tracks & charts](http://filewile.com/html/index.php)).
-it's kind of a sneak preview, because [dustbowl](http://habi.bild.li/816/view.html) is gonna announce that soon in a newsmail, but he told me this noon at lunch :-)
+those that are interested: go to [filewile.com](https://habi.bild.li/816/view.html) and download [dejots and dustbowls](https://habi.gna.ch/pics/Filewile/) newest song, chinese dragon, a remix for [electric blanket](http://www.electricblanket.ch/) (under [tracks & charts](http://filewile.com/html/index.php)).
+it's kind of a sneak preview, because [dustbowl](https://habi.bild.li/816/view.html) is gonna announce that soon in a newsmail, but he told me this noon at lunch :-)

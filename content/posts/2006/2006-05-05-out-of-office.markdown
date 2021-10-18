@@ -23,7 +23,7 @@ namensschild? check
   
 kamera dabei? check
   
-notizbuch? check: namics hipster pda, nicht als [einziger](http://flickr.com/photos/digifreax/139829362/)
+notizbuch? check: namics hipster pda, nicht als [einziger](https://flickr.com/photos/digifreax/139829362/)
   
 gepackt für [morgen](http://schwimmen.dsv.de/Modules/Schedule/Meet.aspx?MeetID=1582006&Lang=de-DE)? leider nein
   

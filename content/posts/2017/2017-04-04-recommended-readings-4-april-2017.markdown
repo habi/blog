@@ -18,7 +18,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 
 
-  * ['London Bridge is down': the secret plan for the days after the Queen’s death](http://www.theguardian.com/uk-news/2017/mar/16/what-happens-when-queen-elizabeth-dies-london-bridge): Ich hab's ja nicht so mit den Royals, aber wenn die Dame, die [12 US-Präsidenten getroffen hat](http://www.ibtimes.co.uk/all-queens-us-presidents-eisenhower-obama-pictures-1556278) mal stirbt, dann ist in England einiges los...
+  * ['London Bridge is down': the secret plan for the days after the Queen’s death](https://www.theguardian.com/uk-news/2017/mar/16/what-happens-when-queen-elizabeth-dies-london-bridge): Ich hab's ja nicht so mit den Royals, aber wenn die Dame, die [12 US-Präsidenten getroffen hat](http://www.ibtimes.co.uk/all-queens-us-presidents-eisenhower-obama-pictures-1556278) mal stirbt, dann ist in England einiges los...
 
 
   * [The Other 10,000 Year Project: Long-Term Thinking and Nuclear Waste](http://blog.longnow.org/02017/03/16/the-other-10000-year-project-long-term-thinking-and-nuclear-waste/): Überlegungen zur Endlagerung von radioaktiven Abfällen. Aber auch hier: keine Lösung in Sicht.
