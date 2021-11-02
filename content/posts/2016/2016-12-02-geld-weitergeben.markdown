@@ -19,24 +19,10 @@ Also habe ich den Rest gespendet (per PayPal, wo der Original-Betrag auch hinkam
 
 Und zwar
 
-
-
-
-
-  * 100$ an die [Syrischen Weisshelme](https://www.whitehelmets.org/en), damit die weiter helfen können, wo es nötig ist.
-
-
-  * 50 CHF an die [Caritas Bern](http://www.caritas-bern.ch/), um das Lädeli im Quartier neben uns etwas zu unterstützen.
-
-
-  * 25 CHF an [Public Eye/EVB](https://www.publiceye.ch/), damit das mit der Globalisierung evtl. doch noch gut kommt.
-
-
-  * 15 CHF an die [Wikimedia-Stiftung](https://wikimediafoundation.org/wiki/Home), damit ich weiterhin von der unglaublichen Enzyklopädie Gebrauch machen kann.
-
-
-  * 10$ an das [Internet Archiv](https://archive.org/), weil mir das am Herzen liegt.
-
-
+* 100$ an die [Syrischen Weisshelme](https://www.whitehelmets.org/en), damit die weiter helfen können, wo es nötig ist.
+* 50 CHF an die [Caritas Bern](http://www.caritas-bern.ch/), um das Lädeli im Quartier neben uns etwas zu unterstützen.
+* 25 CHF an [Public Eye/EVB](https://www.publiceye.ch/), damit das mit der Globalisierung evtl. doch noch gut kommt.
+* 15 CHF an die [Wikimedia-Stiftung](https://wikimediafoundation.org/wiki/Home), damit ich weiterhin von der unglaublichen Enzyklopädie Gebrauch machen kann.
+* 10$ an das [Internet Archiv](https://archive.org/), weil mir das am Herzen liegt.
 
 ![Spenden](https://habi.gna.ch/wp-content/uploads/2016/12/donations.png)

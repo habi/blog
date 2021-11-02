@@ -17,7 +17,8 @@ tags:
 - panorama
 ---
 
-Mit Freunden unterwegs in Museen von Bern. Das war ich am Freitag Abend.
+Mit Freunden unterwegs in Museen von Bern.
+Das war ich am Freitag Abend.
 
 Mit dabei war die Kamera, das Stativ und der neu erstandene [Panoramakopf](http://www.panorama-hardware.de/), sowie das alte, komplett manuelle russische [Fisheye-Objektiv](http://www.kenrockwell.com/zenit/zenitar-16mm.htm). Das heisst, es entstanden einige Panorama-Fotos:
 
@@ -34,4 +35,4 @@ Beide Ansichten sind auch komplett immersiv zu haben: [Vor dem Bundeshaus](https
 **update:**
 Hier noch die immersive Ansicht bereitgestellt von [360cities.net](http://www.360cities.net/image/museumsnacht-bern-2011-bundesplatz#11.10,-15.20,70.0).
 
-<iframe src="https://www.360cities.net/embed_iframe/museumsnacht-bern-2011-bundesplatz" width="425" height="315" frameborder="0" bgcolor="#000000" target="_blank" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe><br/><a title="Panorama photos of Museumsnacht Bern 2011 - Bundesplatz on 360cities.net" href="https://www.360cities.net/image/museumsnacht-bern-2011-bundesplatz">Museumsnacht Bern 2011 - Bundesplatz</a>
+<iframe src="https://www.360cities.net/contributor_embed_iframe/e75f4a3d4d/museumsnacht-bern-2011-bundesplatz" width="800" height="600" frameborder="0" bgcolor="#000000" target="_blank" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe>
