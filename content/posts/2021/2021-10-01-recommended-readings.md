@@ -15,7 +15,7 @@ Im letzten Monat las ich (mal wieder in den Ferien) eine Menge Texte, die folgen
 
 Hier mal drei Texte zu COVID-19.
 Zuerst zwei zur Impfung dagegen, in variierendem Ton und ähnlicher Ernsthaftigkeit.
-Dann eine Recherche von der Twitter-Abteilung vom [Megafon](https://www.megafon.ch/), die ziemlich 'was kann..
+Dann eine Recherche von der Twitter-Abteilung vom [Megafon](https://www.megafon.ch/), die ziemlich 'was kann...
 
 - [Coronazertifikat: Grosse Worte um den kleinen Piks](https://www.woz.ch/-bc90) <span style="color: #999999;">(woz.ch)</span>: Der Impfentscheid ist kein Akt des Widerstands – und auch keiner der grossen Solidarität. Er sollte eine rationale Aushandlung sein. Ich selbst habe mich impfen lassen, um mich und meine Familie zu schützen. Und um mich möglichst uneingeschränkt bewegen zu können. Das ist letztlich genauso egoistisch wie der Entscheid, auf eine Impfung zu verzichten. Weshalb es albern ist, wenn Leute die Impfung vor sich hertragen wie ein Ehrenabzeichen.
 - [Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks](https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks) <span style="color: #999999;">(mcsweeneys.net)</span>: Lass dich impfen, wenn du magst. Es kann Sinn machen.
