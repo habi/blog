@@ -57,16 +57,16 @@ Hier der Rest:
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 <iframe width="1024" height="576" src="https://media.ccc.de/v/wk04-7552-schweizer-technologie-fr-den-krieg-ein-verschwiegenes-business/oembed" frameborder="0" allowfullscreen></iframe>
-Ein 'Erklärvideo' zum https://www.rüstungsreport.ch/
+Ein 'Erklärvideo' zum [Rüstungsreport](https://www.rüstungsreport.ch/).
 
 {{< youtube 0z6aY_AsoRM >}}
-[Gib mir einen <del>Hebel</del>Gang, der <del>lang</del>klein genug ist, und ich <del>bewege die Erde mit einer Hand</del>bezwinge jeden Hügel](https://de.wikiquote.org/wiki/Archimedes)
+["Gib mir einen <del>Hebel</del>Gang, der <del>lang</del>klein genug ist, und ich <del>bewege die Erde mit einer Hand</del>bezwinge jeden Hügel"](https://de.wikiquote.org/wiki/Archimedes).
 
 {{< youtube AYEWsLdLmcc >}}
 Ich bin ja gar kein Gamer, fand dieses Video über Videogametüren trotzdem interessant.
 
 {{< youtube J5iJSXaVvao >}}
-Nutzloses Geographie-Wissen über [Bir Tawil](https://en.wikipedia.org/wiki/Bir_Tawil)
+Nutzloses Geographie-Wissen über [Bir Tawil](https://en.wikipedia.org/wiki/Bir_Tawil).
 
 {{< youtube XsqI-BD2GMs >}}
 Chris Nikic läuft mit Trisomie 21 einen Ironman in 17h. Und hat die richtigen [Prioritäten im Leben](https://www.youtube.com/watch?v=XsqI-BD2GMs&t=311s) :)
