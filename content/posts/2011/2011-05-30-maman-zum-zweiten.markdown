@@ -31,6 +31,6 @@ Das zweite Bild zeigt, wie sich <a href="https://de.wikipedia.org/wiki/Louise_Bo
 
 Wer schlussendlich ganz unter die Spinne eintauchen möchte, kann sich auf dem Bild umsehen, dass ich bei [360cities.net](http://www.360cities.net/image/maman) hochgeladen habe, oder im unten eingebetteten Viewer mit dem Mauszeiger rumfahren.
 
-<iframe src="https://www.360cities.net/contributor_embed_iframe/6dae29e980/maman" width="425" height="315" frameborder="0" bgcolor="#000000" target="_blank" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe>
+<iframe src="https://www.360cities.net/contributor_embed_iframe/6dae29e980/maman" width="800" height="600" frameborder="0" bgcolor="#000000" target="_blank" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe>
 
 <insider>PS: Und nur damit das klar ist: [Herr Lauer](https://habi.gna.ch/2011/04/16/indien/#comment-14584), es ging nicht darum, Sie mit dem Foto zu schlagen, ich wäre sehr gespannt, ihre frühmorgendliche Ansicht zu sehen!</insider>
