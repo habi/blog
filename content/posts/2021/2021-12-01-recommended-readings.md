@@ -9,40 +9,46 @@ tags:
 - reading
 - recommended readings
 - linkdump
-draft: yes
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [I Built An X-ray Machine and People Are Mad](https://www.youtube.com/watch?v=WDhr5E50Nds) <span style="color: #999999;">(youtube.com)</span>: 
-- [The tunnel where people pay to inhale radioactive gas](https://www.youtube.com/watch?v=zZkusjDFlS0) <span style="color: #999999;">(youtube.com)</span>: 
-- [ByMtjtuCC8](https://twitter.com/d1gi/status/1055566258480074752/photo/1) <span style="color: #999999;">(twitter.com)</span>: 
-- [11 rules for buying an ebike, and the 11 ebikes to buy now](https://ryanj.substack.com/p/ebikes) <span style="color: #999999;">(ryanj.substack.com)</span>: 
-- [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) <span style="color: #999999;">(nytimes.com)</span>: 
-- [The metaverse is bullshit](https://www.pcgamer.com/uk/the-metaverse-is-bullshit/) <span style="color: #999999;">(pcgamer.com)</span>: 
-- [Attila Hildmann - was verrät sein Datenleak? (+ Interview Hildmann) | STRG_F](https://www.youtube.com/watch?v=j3r-I3NdECY) <span style="color: #999999;">(youtube.com)</span>: 
-- [The World’s Deadliest Thing — Anthony Warner](https://www.the-angry-chef.com/blog/the-worlds-deadliest-thing) <span style="color: #999999;">(the-angry-chef.com)</span>: 
-- [Zürich HB Flap (MuDA)](https://vimeo.com/224913612) <span style="color: #999999;">(vimeo.com)</span>: 
-- [Flexible Monocopter Drone Can Be Completely Rolled Up](https://spectrum.ieee.org/foldable-monocopter-drone) <span style="color: #999999;">(spectrum.ieee.org)</span>: 
-- [Ivermectin: Much More Than You Wanted To Know](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) <span style="color: #999999;">(astralcodexten.substack.com)</span>: 
-- [Zeitung «Megafon» - Die «Reitschulzeitung» stellt andere Medien in den Schatten](https://www.srf.ch/news/schweiz/zeitung-megafon-die-reitschulzeitung-stellt-andere-medien-in-den-schatten) <span style="color: #999999;">(srf.ch)</span>: 
-- [Mediaeval Mythbusting Blog #3: The Man Who Invented the Spiral Staircase Myth](https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/) <span style="color: #999999;">(triskeleheritage.triskelepublishing.com)</span>: 
-- [Opinion | Without Parental Leave I Might Be Dead](https://www.nytimes.com/2021/11/14/opinion/paid-family-leave-biden.html) <span style="color: #999999;">(nytimes.com)</span>: 
-- [7 things I wish I had done during my PhD - Dr Veronika CH](https://veronikach.com/phd-advice/7-things-i-wish-i-had-done-during-my-phd/) <span style="color: #999999;">(veronikach.com)</span>: 
-- [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) <span style="color: #999999;">(milan.cvitkovic.net)</span>: 
-- [Osint: Die Meute lauert in den sozialen Netzwerken um die Ecke](https://www.nzz.ch/feuilleton/osint-die-meute-lauert-in-den-sozialen-netzwerken-um-die-ecke-ld.1647875) <span style="color: #999999;">(nzz.ch)</span>: 
-- [Eine Woche Hass](https://www.republik.ch/2021/05/12/eine-woche-hass) <span style="color: #999999;">(republik.ch)</span>: 
-- [How an Olympic Hopeful Robbed 26 Banks on His Bike](https://www.chicagomag.com/Chicago-Magazine/February-2019/Bicycle-Bank-Robber-Tom-Justice/) <span style="color: #999999;">(chicagomag.com)</span>: 
-- [A Very Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission?src=longreads) <span style="color: #999999;">(afar.com)</span>: 
-- [Corruption and OpenStreetMap | Imagico.de](http://blog.imagico.de/corruption-and-openstreetmap/) <span style="color: #999999;">(blog.imagico.de)</span>: 
-- [The axolotl: critically threatened in Mexico, but a popular pet in China](https://dialogochino.net/en/trade-investment/axolotl-threatened-in-mexico-pet-in-china/) <span style="color: #999999;">(dialogochino.net)</span>: 
-- [How Can You Talk Effectively to Anti-Vaxxers, Flat Earthers, and Climate Deniers? ❧ Current Affairs](https://www.currentaffairs.org/2021/10/how-can-you-talk-effectively-to-anti-vaxxers-flat-earthers-and-climate-deniers) <span style="color: #999999;">(currentaffairs.org)</span>: 
-- [Bademeister Schaluppke über renitente Rentner](https://www.youtube.com/watch?v=cThik10WjKQ) <span style="color: #999999;">(youtube.com)</span>: 
-- [Birds with arms | curlykidlife](https://www.youtube.com/watch?v=dK2rxOVcH38) <span style="color: #999999;">(youtube.com)</span>: 
-- [Die kartografische Darstellung der Welt | Mit offenen Karten | ARTE](https://www.youtube.com/watch?v=5UJ33QElhHQ) <span style="color: #999999;">(youtube.com)</span>: 
-- [Stop Telling Kids They’ll Die From Climate Change](https://www.wired.co.uk/) <span style="color: #999999;">(wired.co.uk)</span>: 
-- [Die Massnahmengegner-Querfront](https://fadegrad.co/2021/11/01/die-massnahmengegner-querfront/) <span style="color: #999999;">(fadegrad.co)</span>: 
-- [Die Massnahmengegner-Querfront](https://fadegrad.co/2021/11/01/die-massnahmengegner-querfront/#%23So+kommt+es%2C+dass+wir+eine+Querfront+aus+Holocaust-Relativierern%2C+Nazis%2C+libert%C3%A4ren+Asozialen%2C+wissenschaftsleugnenden+Esoterikern%2C+pseudorevolution%C3%A4ren+Linken+und+thematisch+und+kognitiv+eingeschr%C3%A4nkten%2C+paranoiden+Netzaktivisten+haben.) <span style="color: #999999;">(fadegrad.co)</span>: "So kommt es, dass wir eine Querfront aus Holocaust-Relativierern, Nazis, libertären Asozialen, wissenschaftsleugnenden Esoterikern, pseudorevolutionären Linken und thematisch und kognitiv eingeschränkten, paranoiden Netzaktivisten haben."
-- 
+- [11 rules for buying an ebike, and the 11 ebikes to buy now](https://ryanj.substack.com/p/ebikes) <span style="color: #999999;">(ryanj.substack.com)</span>: Wenn du ein E-Bike kaufen willst, dann weiss Ryan mehr darüber. Ich werde ja über die Jahre altersmilde und finde: henusode. Aber ist immer besser wenn ein Auto weniger auf der Strasse steht.
+- [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) <span style="color: #999999;">(nytimes.com)</span>: Vor Jahren war ich mal an einer Konferenz in Heidelberg, ja haben die Menschen von [Janelia](https://www.janelia.org/) ihr Projekt vorgestellt. Die Kulmination der Analyse zeight die Verdrahtung der Neuronen im Gehirn einer Fruchtfliege. Ein Meilenstein in der sog. Konnektomik!
+- [The metaverse is bullshit](https://www.pcgamer.com/uk/the-metaverse-is-bullshit/) <span style="color: #999999;">(pcgamer.com)</span>: Eine mögliche Meinung über das sog. Metaverse. Auch meine :)
+- [The World’s Deadliest Thing](https://www.the-angry-chef.com/blog/the-worlds-deadliest-thing) <span style="color: #999999;">(the-angry-chef.com)</span>: Botox ist unglaublich tödlich und wird trotzdem viel verwendet. Dieser Text gibt einen gut geschriebenen Abriss wieso da so ist.
+- [Flexible Monocopter Drone Can Be Completely Rolled Up](https://spectrum.ieee.org/foldable-monocopter-drone) <span style="color: #999999;">(spectrum.ieee.org)</span>: Ein Monocopter, der aufgerügelt in den Hosensack passt. *Sehr* geile Idee.
+- [Ivermectin: Much More Than You Wanted To Know](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) <span style="color: #999999;">(astralcodexten.substack.com)</span>: Ivermectin wirkt (evtl.) gegen Corona. Aber *nicht* so wie's die Impfgegner gerne hätten, sondern weil's eben die Parasiten in betroffenen Menschen abtötet und deren Immunsystem entlastet. *Sehr*, sehr, sehr schönes Mythbusting von Scott Alexander.
+- [The Man Who Invented the Spiral Staircase Myth](https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/) <span style="color: #999999;">(triskeleheritage.triskelepublishing.com)</span>: Eine "Legende" besagt, dass alle Wendeltreppen drehen im Uhrzeigersinn, damit die von oben Kämpfenden besser dran ist. Ein witziger kleiner Text über den Ursprung dieser Legende.
+- [Eine Woche Hass](https://www.republik.ch/2021/05/12/eine-woche-hass) <span style="color: #999999;">(republik.ch)</span>: Wer dem Social-Media-Oligopol von Facebook, Twitter, Youtube und Co. den Rücken kehren will, muss auf alternative Plattformen ausweichen – und rutscht damit unweigerlich in eine Parallelwelt.
+- [How an Olympic Hopeful Robbed 26 Banks on His Bike](https://www.chicagomag.com/Chicago-Magazine/February-2019/Bicycle-Bank-Robber-Tom-Justice/) <span style="color: #999999;">(chicagomag.com)</span>: Tom Justice war als Velöler auf der Jagd nach olympischem Gold. Dann begann er, sein Velo für etwas Anderes zu nutzen: Banküberfälle. Mit schnellen Wädli Geld verdienen :)
+- [A Very Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission?src=longreads) <span style="color: #999999;">(afar.com)</span>: Über eine Idee die nicht wahnsinnig weit von der Reichsbürgerbewegung weg ist, aber eine viel bessere Wendung nimmt; Travis McHenry gründete im 2001 [Westarctica](https://en.wikipedia.org/wiki/Westarctica).
+- [The axolotl: critically threatened in Mexico, but a popular pet in China](https://dialogochino.net/en/trade-investment/axolotl-threatened-in-mexico-pet-in-china/) <span style="color: #999999;">(dialogochino.net)</span>: Axolotls sind coole Tiere, gehören aber in die Natur und nicht in Aquarien (auch wenn wir im Büro zwei Axolots in einem Aquarium haben).
+- [How Can You Talk Effectively to Anti-Vaxxers, Flat Earthers, and Climate Deniers?](https://www.currentaffairs.org/2021/10/how-can-you-talk-effectively-to-anti-vaxxers-flat-earthers-and-climate-deniers) <span style="color: #999999;">(currentaffairs.org)</span>: Oder einfach aus dem Adressbuch löschen, das geht auch.
+- [Stop Telling Kids They’ll Die From Climate Change](https://www.wired.co.uk/) <span style="color: #999999;">(wired.co.uk)</span>: Wieso es *nicht* zu spät ist, etwas zu machen. Sonst macht's ja keiner.
+
+
+Im letzten Monat habe ich folgenden Tweet besonders gut gefunden:
+
+{{< twitter 1055566258480074752 >}}
+
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
+
+{{< youtube WDhr5E50Nds >}}
+Das Nachfolge-Video zum [Röntgengerätbastelvideo hier]{{< relref "2021-09-01-recommended-readings.md" >}}.
+Nochmals ein Zacken lustiger als das andere Video.
+Und auch mit einer ernsten Unternote.
+Sit lieb mitenang!
+
+{{< youtube zZkusjDFlS0 >}}
+Tom Scott, quasi über Placebo.
+
+{{< vimeo 224913612 >}}
+Ich bin immer noch traurig, dass ich es nie live ins [MUDA](https://en.wikipedia.org/wiki/MuDA) geschafft habe.
+
+{{< youtube cThik10WjKQ >}}
+Bademeister Schaluppke ist Old-School!
+
+{{< youtube dK2rxOVcH38 >}}
+Vögel mit gephotoshoppten Armen. Wieso nicht?
