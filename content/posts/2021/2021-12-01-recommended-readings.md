@@ -13,7 +13,7 @@ tags:
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [11 rules for buying an ebike, and the 11 ebikes to buy now](https://ryanj.substack.com/p/ebikes) <span style="color: #999999;">(ryanj.substack.com)</span>: Wenn du ein E-Bike kaufen willst, dann weiss Ryan mehr darüber. Ich werde ja über die Jahre altersmilde und finde: henusode. Aber ist immer besser wenn ein Auto weniger auf der Strasse steht.
+- [11 rules for buying an ebike, and the 11 ebikes to buy now](https://ryanj.substack.com/p/ebikes) <span style="color: #999999;">(ryanj.substack.com)</span>: Wenn du ein E-Bike kaufen willst, dann weiss Ryan mehr darüber, er hat ja ca. 60 Stück davon. Ich werde ja über die Jahre altersmilde und finde: hauptsache mehr Velos auf der Strasse!
 - [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) <span style="color: #999999;">(nytimes.com)</span>: Vor Jahren war ich mal an einer Konferenz in Heidelberg, ja haben die Menschen von [Janelia](https://www.janelia.org/) ihr Projekt vorgestellt. Die Kulmination der Analyse zeight die Verdrahtung der Neuronen im Gehirn einer Fruchtfliege. Ein Meilenstein in der sog. Konnektomik!
 - [The metaverse is bullshit](https://www.pcgamer.com/uk/the-metaverse-is-bullshit/) <span style="color: #999999;">(pcgamer.com)</span>: Eine mögliche Meinung über das sog. Metaverse. Auch meine :)
 - [The World’s Deadliest Thing](https://www.the-angry-chef.com/blog/the-worlds-deadliest-thing) <span style="color: #999999;">(the-angry-chef.com)</span>: Botox ist unglaublich tödlich und wird trotzdem viel verwendet. Dieser Text gibt einen gut geschriebenen Abriss wieso da so ist.
@@ -36,7 +36,7 @@ Im letzten Monat habe ich folgenden Tweet besonders gut gefunden:
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 {{< youtube WDhr5E50Nds >}}
-Das Nachfolge-Video zum [Röntgengerätbastelvideo hier]{{< relref "2021-09-01-recommended-readings.md" >}}.
+Das Nachfolge-Video zum [Röntgengerätbastelvideo hier]({{< relref "2021-09-01-recommended-readings.md" >}}).
 Nochmals ein Zacken lustiger als das andere Video.
 Und auch mit einer ernsten Unternote.
 Sit lieb mitenang!
@@ -48,7 +48,7 @@ Tom Scott, quasi über Placebo.
 Ich bin immer noch traurig, dass ich es nie live ins [MUDA](https://en.wikipedia.org/wiki/MuDA) geschafft habe.
 
 {{< youtube cThik10WjKQ >}}
-Bademeister Schaluppke ist Old-School!
+Bademeister Schaluppke ist Old-School, aber halt ein typischer Bademeister!
 
 {{< youtube dK2rxOVcH38 >}}
 Vögel mit gephotoshoppten Armen. Wieso nicht?
