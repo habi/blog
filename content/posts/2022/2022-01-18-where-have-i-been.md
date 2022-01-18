@@ -3,16 +3,18 @@ author: habi
 title: "Wo war ich im 2021?"
 date: 2022-01-18T20:56:47+01:00
 categories:
+- jahresrückblick21
+- jahresrückblick
 - nerdism
 tags:
 - jahresrückblick
-- jahresrückblick20
+- jahresrückblick21
 - whib
 - location
 ---
 
 Hier einer der Posts zu meinem 2021.
-Dieser und andere Posts sind unter dem Tag [https://habi.gna.ch/tag/jahresruckblick22](<code>jahresrückblick21</code>) zu finden.
+Dieser und andere Posts sind unter dem Tag [`jahresrückblick21`](https://habi.gna.ch/tag/jahresruckblick22) zu finden.
 
 Anfangs 2021 habe ich mal wieder [Arc](http://bigpaua.com/arcapp) installiert.
 Die App ist zwar *ziemlich* cool, weil sie jeden Tag automatisch eine GPX-Datei macht, aus der sich dann [solche Dinge](https://www.strava.com/activities/5546455353) extrahieren lassen, aber schlussendlich doch zu viel Overkill.
