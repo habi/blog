@@ -17,7 +17,7 @@ tags:
 ---
 
 Hier einer der Posts zu meinem 2021.
-Dieser und andere Posts sind unter dem Tag [`jahresrückblick21`](https://habi.gna.ch/tag/jahresruckblick22) zu finden.
+Dieser und andere Posts sind unter dem Tag [`jahresrückblick21`](https://habi.gna.ch/tag/jahresruckblick21) zu finden.
 
 Im 2021 habe ich tatsächlich eine Million *mehr* Schritte als im 2020 gemacht, nämlich 4.4 Millionen Schritte.
 Wie letzes Jahr habe ich die Schritte, die meine Uhr zählt, über Garmin Connect in Apple Health ablegt und via einer App in ein Textfile exportiert.
