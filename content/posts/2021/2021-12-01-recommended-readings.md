@@ -9,8 +9,8 @@ tags:
 - reading
 - recommended readings
 - linkdump
----
 
+---
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
 - [11 rules for buying an ebike, and the 11 ebikes to buy now](https://ryanj.substack.com/p/ebikes) <span style="color: #999999;">(ryanj.substack.com)</span>: Wenn du ein E-Bike kaufen willst, dann weiss Ryan mehr darüber, er hat ja ca. 60 Stück davon. Ich werde ja über die Jahre altersmilde und finde: hauptsache mehr Velos auf der Strasse!
@@ -27,11 +27,9 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [How Can You Talk Effectively to Anti-Vaxxers, Flat Earthers, and Climate Deniers?](https://www.currentaffairs.org/2021/10/how-can-you-talk-effectively-to-anti-vaxxers-flat-earthers-and-climate-deniers) <span style="color: #999999;">(currentaffairs.org)</span>: Oder einfach aus dem Adressbuch löschen, das geht auch.
 - [Stop Telling Kids They’ll Die From Climate Change](https://www.wired.co.uk/) <span style="color: #999999;">(wired.co.uk)</span>: Wieso es *nicht* zu spät ist, etwas zu machen. Sonst macht's ja keiner.
 
-
 Im letzten Monat habe ich folgenden Tweet besonders gut gefunden:
 
 {{< twitter 1055566258480074752 >}}
-
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
