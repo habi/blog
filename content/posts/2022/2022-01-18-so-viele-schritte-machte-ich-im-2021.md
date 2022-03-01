@@ -28,7 +28,7 @@ Am meisten Schritte gab's auf mehreren Wanderungen, nämlich [in der Nähe von L
 Am Papatag und am Wochenende gibt's mehr Schritte, Montag und Donnerstag sind eher faule Tage...
 ![Steps per weekday](https://habi.gna.ch/wp-content/uploads/2022/01/output_21_0.png)
 
-Die Ferienwochen tauchen sind in der monatlichen "Statistik" auch zu erahnen.
+Die Ferienwochen sind in der monatlichen "Statistik" auch zu erahnen.
 ![Steps per month](https://habi.gna.ch/wp-content/uploads/2022/01/output_22_0.png)
 
 Wer sich für den kompletten Code interessiert, findet das Jupyter Notebook [hier auf GitHub](https://github.com/habi/steps), oder [klickt hier für eine lauffähige Version des Notebooks auf Binder](https://mybinder.org/v2/gh/habi/steps/master).
