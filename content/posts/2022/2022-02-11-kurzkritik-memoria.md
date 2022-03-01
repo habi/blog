@@ -7,6 +7,7 @@ categories:
 - movies
 tags:
 - kurzkritik
+---
 
 Ein Film mit Tilda Swinton ist immer sehenswert.
 Dieser ist manchmal fast unterträglich langsam und mäandriert wie ein Fluss durch Kolumbien, wo der Film auch spielt.
