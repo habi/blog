@@ -25,7 +25,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
 {{< youtube aICaAEXDJQQ >}}
 Das JWT ist ein unglaubliches Stück Ingenieurskunst
 
-{{< youtube gdXOS-B0Bus}}
+{{< youtube gdXOS-B0Bus >}}
 Etwas weniger Manpower drin als beim JWT, aber fast genauso cool; das Schallmauerdurchbrechende Katapult
 
 {{< youtube 5za5I3kUuOI >}}
