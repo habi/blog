@@ -28,10 +28,10 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< youtube IBcB_dYtGUg >}} <span style="color: #999999;">(youtube.com)</span>: 
+{{< youtube IBcB_dYtGUg >}}
 Die grosse Welle von Hokusai sieht mensch immer wieder.
 [Great Art Explained](https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw) erklärt in 15 Minuten die Hintergründe des tollen Bildes.
-Und hat noch *ganz viele* andere tolle Videos auf Lager, bisher wurden mir ['Nighthawks' von Edward Hopper](https://youtube.com/watch?v=lKIbT-4UFaE), [die Sternennacht von Vincent Van Gogh](https://www.youtube.com/watch?v=wk9L1N9bRRE) und [die vielen Marilyn Monroes von Andy Warhol](https://www.youtube.com/watch?v=bu9Bm8aw_lI) erklärt, in meinere Playliste sammeln sich noch. mehr.
+Und hat noch *ganz viele* andere tolle Videos auf Lager, bisher wurden mir ['Nighthawks' von Edward Hopper](https://youtube.com/watch?v=lKIbT-4UFaE), [die Sternennacht von Vincent Van Gogh](https://www.youtube.com/watch?v=wk9L1N9bRRE) und [die vielen Marilyn Monroes von Andy Warhol](https://www.youtube.com/watch?v=bu9Bm8aw_lI) erklärt, in meinere Playliste sammeln sich noch einige mehr.
 
 {{< youtube ceZ83LA_mdE >}}
 Moritz Neumeier kannte ich bisher noch nicht.
