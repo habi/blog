@@ -3,6 +3,7 @@ languageCode = "en-us"
 publishDir = "public"
 theme = "ananke"
 title = "This used to be habi.gna.ch"
+rssLimit = 15
 [params]
 	background_color_class = "bg-green"
 	description = "General geekery"
@@ -12,7 +13,7 @@ title = "This used to be habi.gna.ch"
 	gitlab = ""
 	instagram = ""
 	linkedin = "https://www.linkedin.com/in/haberthuer/"
-	recent_posts_number = 10
+	recent_posts_number = 15
 	twitter = "https://twitter.com/habi"
 	youtube = "http://youtube.com/habi"
 	GithubEdit = "https://github.com/yihui/hugo-xmin/edit/feature/github-edit/exampleSite/content/"
