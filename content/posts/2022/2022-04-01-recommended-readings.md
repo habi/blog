@@ -29,12 +29,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [Does My Son Know You?](https://www.theringer.com/2022/3/3/22956353/fatherhood-cancer-jonathan-tjarks) *(theringer.com)*
 - [How to Feel Better When You Don’t Know What’s Wrong](https://www.raptitude.com/2020/06/how-to-feel-better-when-you-dont-know-whats-wrong/) *(raptitude.com)*
 - [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) *(galactanet.com)*
-- [The secret MVP of sports? The port-a-potty](https://www.espn.com/nfl/story/_/id/32992761/the-secret-mvp-sports-porta-potty) *(espn.com)*
 - [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) *(moxie.org)*
-- [People don't work as much as you think](https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think) *(drmaciver.substack.com)*
-- [Five Things You Notice When You Quit the News](http://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/) *(raptitude.com)*
-- [Colors: Where did they go? An investigation.](https://www.vox.com/culture/22840526/colors-movies-tv-gray-digital-color-sludge) *(vox.com)*
-- [Rigides Abtreibungsverbot in El Salvador: Wo Fehlgeburt ein Verbrechen ist](https://taz.de/!5830474/) *(taz.de)*
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
