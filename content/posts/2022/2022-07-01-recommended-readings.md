@@ -9,27 +9,32 @@ tags:
 - reading
 - recommended readings
 - linkdump
-draft: yes
 ---
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [Potato Diet Community Trial: Sign up Now, lol](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/) *(slimemoldtimemold.com)* :
-- [Stimmt die Meeresplastik-Story von Got Bag? - Flip](https://letsflip.de/stimmt-die-meeresplastik-story-von-got-bag/) *(letsflip.de)* :
-- [Why can't these frogs jump?](https://youtube.com/watch?v=w-ngnnhcT-s&amp;feature=share) *(youtube.com)* :
-- [Meet the Peecyclers. Their Idea to Help Farmers Is No. 1.](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html) *(nytimes.com)* :
-- [Cool desktops don’t change 😎 - Tyler Cipriani](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/) *(tylercipriani.com)* :
-- [KEYNOTE / Robert Erdmann](https://www.youtube.com/watch?v=z_hm5oX7ZlE) *(youtube.com)* :
-- [Platte Pneus: Nicht nur die Aktivist*innen brechen das Gesetz](https://daslamm.ch/platte-pneus-nicht-nur-die-aktivistinnen-brechen-das-gesetz/) *(daslamm.ch)* :
-- [Another Day in Paradise](https://www.youtube.com/watch?v=C4wuQXPB6K0) *(youtube.com)* :
-- [Interland: The Country In The Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection) *(maximumprogress.substack.com)* :
-- [Die Hindelbank-Gespräche](https://www.republik.ch/2022/05/21/die-hindelbank-gespraeche) *(republik.ch)* :
-- [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/) *(bert.org)* :
-- [Birds Aren’t Real, or Are They? Inside a Gen Z Conspiracy Theory. - The New York Times](https://correctiv.us12.list-manage.com/track/click?u=74b23e1b0af8c36eb217e01c1&amp;id=ffcb13be66&amp;e=a915c96dc1) *(correctiv.us12.list-manage.com)* :
-- [X-ray timelapse of fluid movement in plants, stop-motion animation, sensor teardown/repair](https://www.youtube.com/watch?v=j-FHbHoiwNk) *(youtube.com)* :
-- [The wonder material graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app) *(economist.com)* :
-- [How Neon Lights Are Made | Où se trouve: Atelier Neon Family](https://www.youtube.com/watch?v=TE728XmTa8Q) *(youtube.com)* :
-- [Please, don't build another Large Hadron Collider.](https://bigthink.com/hard-science/large-hadron-collider-economics/) *(bigthink.com)* :
-- [New Look, Same Great Look | Kim Beil](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look) *(laphamsquarterly.org)* :
+
+- [Meet the Peecyclers. Their Idea to Help Farmers Is No. 1.](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html) *(nytimes.com)* : Der Mangel an chemischen Düngemitteln, der durch den Krieg in der Ukraine noch verschärft wurde, lässt die Landwirte verzweifeln. Zufälligerweise enthält menschlicher Urin genau die Nährstoffe, die die Pflanzen brauchen.
+- [Cool desktops don’t change 😎 ](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/) *(tylercipriani.com)* : Neuerdings schreibe ich ja viel mit [VS Code](https//code.visualstudio.com/), aber `vi` brauche ich für fast jedes Mail.
+- [Platte Pneus: Nicht nur die Aktivist*innen brechen das Gesetz](https://daslamm.ch/platte-pneus-nicht-nur-die-aktivistinnen-brechen-das-gesetz/) *(daslamm.ch)* :  Immer öfters wird bei SUVs im Namen des Klimaschutzes die Luft aus den Pneus gelassen. Die Polizei rät den Betroffenen zu einer Anzeige. Doch wenn es um grosse Autos geht, sind die Lüftler*innen nicht die Einzigen, die sich nicht an das Gesetz halten. Auch die Autohändler*innen müssen millionenstarke Sanktionen bezahlen.  
+- [Interland: The Country In The Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection) *(maximumprogress.substack.com)* : Eine Möglichkeit, ein Land und dessen Regeln entstehen zu lassen.
+- [Die Hindelbank-Gespräche](https://www.republik.ch/2022/05/21/die-hindelbank-gespraeche) *(republik.ch)* : Einst thronte der Schultheiss von Bern auf dem Hügel über Hindelbank. Heute steht dort eine Haftanstalt. Die Geschichte des grössten Frauen­gefängnisses der Schweiz – und Einblicke, präsentiert von den Insassinnen selbst.
+- [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/) *(bert.org)* : Ein Publiphone zuhause an der Wand. Wieso nicht?
+- [Birds Aren’t Real, or Are They? Inside a Gen Z Conspiracy Theory.](https://correctiv.us12.list-manage.com/track/click?u=74b23e1b0af8c36eb217e01c1&amp;id=ffcb13be66&amp;e=a915c96dc1) *(correctiv.us12.list-manage.com)* : Eine Verschwörungstheorie generieren um Verschwörungstheorien zu entlarven. Sehr cool.
+- [New Look, Same Great Look | Kim Beil](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look) *(laphamsquarterly.org)* : Die Geschichte der Menschheit anhand der Farbfotografie. Oder so.
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
+
+{{< youtube TE728XmTa8Q >}}
+So werden Neonlichter gemacht.
+
+{{< youtube j-FHbHoiwNk >}}
+Garagen-Wissenschaft FTW! Wunderschöne Röntgen-Zeitrafferaufnahmen einer Pflanze.
+
+{{< youtube w-ngnnhcT-s >}}
+Die sog. 'pumpkin toadlets' sind so klein, dass ihr Gleichgewichtsorgan nicht mehr richtig funktioniert.
+Deshalb können sie zwar froschig gumpen, aber nicht so gut landen.
+Sehr lustig.
+
+{{< youtube C4wuQXPB6K0 >}}
+Quasi [Groundhog Day](https//www.imdb.com/title/tt0107048/), aber chli anders.
