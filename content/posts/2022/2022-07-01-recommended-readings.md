@@ -25,9 +25,6 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< youtube TE728XmTa8Q >}}
-So werden Neonlichter gemacht.
-
 {{< youtube j-FHbHoiwNk >}}
 Garagen-Wissenschaft FTW! Wunderschöne Röntgen-Zeitrafferaufnahmen einer Pflanze.
 
