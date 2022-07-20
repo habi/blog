@@ -21,7 +21,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [Die Hindelbank-Gespräche](https://www.republik.ch/2022/05/21/die-hindelbank-gespraeche) *(republik.ch)* : Einst thronte der Schultheiss von Bern auf dem Hügel über Hindelbank. Heute steht dort eine Haftanstalt. Die Geschichte des grössten Frauen­gefängnisses der Schweiz – und Einblicke, präsentiert von den Insassinnen selbst.
 - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/) *(bert.org)* : Ein Publiphone zuhause an der Wand. Wieso nicht?
 - [Birds Aren’t Real, or Are They? Inside a Gen Z Conspiracy Theory.](https://correctiv.us12.list-manage.com/track/click?u=74b23e1b0af8c36eb217e01c1&amp;id=ffcb13be66&amp;e=a915c96dc1) *(correctiv.us12.list-manage.com)* : Eine Verschwörungstheorie generieren um Verschwörungstheorien zu entlarven. Sehr cool.
-- [New Look, Same Great Look | Kim Beil](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look) *(laphamsquarterly.org)* : Die Geschichte der Menschheit anhand der Farbfotografie. Oder so.
+- [New Look, Same Great Look](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look) *(laphamsquarterly.org)* : Die Geschichte der Menschheit anhand der Farbfotografie. Oder so.
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
