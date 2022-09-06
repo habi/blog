@@ -40,17 +40,18 @@ Deshalb hier die guten Texte aus Juli und August, viele im Aufstelldach des Camp
 - [CatalanGate: Extensive Mercenary Spyware Operation against Catalans Using Pegasus and Candiru - The Citizen Lab](https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/) *(citizenlab.ca)* :
 - [We’re Not Going Back to the Time Before Roe. We’re Going Somewhere Worse](https://www.newyorker.com/magazine/2022/07/04/we-are-not-going-back-to-the-time-before-roe-we-are-going-somewhere-worse) *(newyorker.com)* :
 - [So richtig fair? Jein](https://www.republik.ch/2021/12/02/so-richtig-fair-jein) *(republik.ch)* :
-- [Local and server-side 3D animation of microscopy data with 3Dscript](https://www.youtube.com/watch?index=3&amp;list=PLdA9Vgd1gxTaygDspC8l1t2sOj6DFMgGQ&amp;v=TkIzO10ZxnQ) *(youtube.com)* :
-- [How are Images Compressed? [46MB ↘↘ 4.07MB]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I) *(youtube.com)* :
 - [The man who built his own cathedral](https://www.theguardian.com/world/2022/may/31/the-man-who-built-his-own-cathedral-justo-gallego-mejorada-del-campo-spain) *(theguardian.com)* :
-- [Process of making strongest shovels. The last shovels factory in South Korea](https://youtube.com/watch?v=9LFz4A2bAW8&amp;feature=share) *(youtube.com)* :
 - [My awakening moment about how smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/) *(idratherbewriting.com)* :
 - [The Woman Who Killed Roe](https://www.thecut.com/article/marjorie-dannenfelser-abortion-roe-v-wade.html) *(thecut.com)* :
 - [All the Best Things About Europe with None of the Genocide](https://lauriepenny.substack.com/p/peace-is-still-weirder-than-war) *(lauriepenny.substack.com)* :
-- [A Frog So Small, It Could Not Frog](https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/) *(theatlantic.com)* :
 - [„Wir dachten, man könne sich mit Qualität durchsetzen“](https://www.wissenschaftskommunikation.de/wir-dachten-man-koenne-sich-mit-qualitaet-durchsetzen-59251/) *(wissenschaftskommunikation.de)* :
 - [Fairphone: Der Preis des Wachstums](https://daslamm.ch/fairphone-der-preis-des-wachstums/) *(daslamm.ch)* :
 - [Potato Diet Community Trial: Sign up Now, lol](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/) *(slimemoldtimemold.com)* :
 - [Stimmt die Meeresplastik-Story von Got Bag? - Flip](https://letsflip.de/stimmt-die-meeresplastik-story-von-got-bag/) *(letsflip.de)* :
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
+
+- [Local and server-side 3D animation of microscopy data with 3Dscript](https://www.youtube.com/watch?index=3&amp;list=PLdA9Vgd1gxTaygDspC8l1t2sOj6DFMgGQ&amp;v=TkIzO10ZxnQ) *(youtube.com)* :
+- [How are Images Compressed? [46MB ↘↘ 4.07MB]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I) *(youtube.com)* :
+- [Process of making strongest shovels. The last shovels factory in South Korea](https://youtube.com/watch?v=9LFz4A2bAW8&amp;feature=share) *(youtube.com)* :
+
