@@ -13,7 +13,6 @@ tags:
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-
 - [Meet the Peecyclers. Their Idea to Help Farmers Is No. 1.](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html) *(nytimes.com)* : Der Mangel an chemischen Düngemitteln, der durch den Krieg in der Ukraine noch verschärft wurde, lässt die Landwirte verzweifeln. Zufälligerweise enthält menschlicher Urin genau die Nährstoffe, die die Pflanzen brauchen.
 - [Cool desktops don’t change 😎 ](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/) *(tylercipriani.com)* : Neuerdings schreibe ich ja viel mit [VS Code](https//code.visualstudio.com/), aber `vi` brauche ich für fast jedes Mail.
 - [Platte Pneus: Nicht nur die Aktivist*innen brechen das Gesetz](https://daslamm.ch/platte-pneus-nicht-nur-die-aktivistinnen-brechen-das-gesetz/) *(daslamm.ch)* :  Immer öfters wird bei SUVs im Namen des Klimaschutzes die Luft aus den Pneus gelassen. Die Polizei rät den Betroffenen zu einer Anzeige. Doch wenn es um grosse Autos geht, sind die Lüftler*innen nicht die Einzigen, die sich nicht an das Gesetz halten. Auch die Autohändler*innen müssen millionenstarke Sanktionen bezahlen.  
