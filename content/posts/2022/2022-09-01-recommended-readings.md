@@ -12,7 +12,7 @@ tags:
 ---
 
 Anfangs August waren wir irgendwo in der [Region des Nationalparks](https://flickr.com/photos/habi/52258021161/), irgendwie komplett offline und ich hab' die 'recommended readings' nicht generiert.
-Deshalb hier die guten Texte aus Juli und August, viele im [Aufstelldach des Campers](https://www.flickr.com/gp/habi/4X474y66C8) auf dem Kindle gelesen::
+Deshalb hier die guten Texte aus Juli und August, viele im [Aufstelldach des Campers](https://www.flickr.com/gp/habi/4X474y66C8) auf dem Kindle gelesen:
 
 - [How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web - Alex Cabal](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech) *(alexcabal.com)* : Eine Ode an einfach Webseiten. [Standard Ebooks](https://standardebooks.org/) läuft mit sehr einfachen Mitteln tipop. Und macht schöne eBücher, die legal runtergeladen und gelesen werden können.
 - [I Loved Bike Touring—Until I Got Paid to Do It](https://www.outsideonline.com/culture/essays-culture/bike-touring-dream-job-nightmare/) *(outsideonline.com)* : Caitlin Giddings hat ihr Hobby zum Beruf gemacht und hat sehr lange Velotouren durch die USA geleitet. Dabei hat sie viel über Menschen und über Leidenschaft gelernt. Auch dass es manchmal besser ist, etwas *pro bono* zu machen anstatt dafür Geld zu verdienen.
