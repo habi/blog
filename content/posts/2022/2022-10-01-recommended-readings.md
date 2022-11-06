@@ -13,22 +13,20 @@ draft: yes
 ---
 
 Anfangs letzter Monat war ich schon wieder nicht am Kompi, sondern in Sardinien und hab's vorher vergessen die 'recommended readings' zu generieren.
-Deshalb hier die Texte und Videos, die mir in den letzten *zwei* Monaten gefallen haben
+Deshalb hier die Texte und Videos, die mir in den letzten *zwei* Monaten gefallen haben.
 
-- [Analysis | Wait, why are there so few dead bugs on my windshield these days?](https://www.washingtonpost.com/business/2022/10/21/dead-bugs-on-windshields/) *(washingtonpost.com)* :
-- [Some People Really Are Mosquito Magnets, and They&amp;rsquo;re Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/) *(scientificamerican.com)* :
-- [Mike Conner v. The Pain](https://www.esquire.com/lifestyle/a41502433/mike-conner-pain-survival-essay/) *(esquire.com)* :
+- [Some People Really Are Mosquito Magnets, and They’re Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/) *(scientificamerican.com)* : Mein Mückenschutz geht so: Immer Nina dabei haben. Sie wird gestochen, mich lassen die Mücken in Ruhe. Dieser Text erklärt ein bisschen wieso.
+- [Mike Conner v. The Pain](https://www.esquire.com/lifestyle/a41502433/mike-conner-pain-survival-essay/) *(esquire.com)* : Mike Conner fiel fast 5 Stockwerke tief und brach sich dabei ungefähr 100 Knochen. Der Weg zurück in ein halbwegs normales Leben war mit Schmerzen gepflastert.
 - [The Five Tools of Hedonic Design](https://experimentalhistory.substack.com/p/the-five-tools-of-hedonic-design) *(experimentalhistory.substack.com)* :
 - [Blue Zones: Lessons From the World’s Longest Lived](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/) *(ncbi.nlm.nih.gov)* :
 - [Of Course We’re Living in a Simulation](https://www.wired.com/story/living-in-a-simulation/) *(wired.com)* :
-- [Odysee &amp; Bitchute - Antisemitismus im Dark Social](http://anti.localhost/odysee-bitchute/) *(anti.localhost)* :
-- [Dead Man Living](https://www.theatlantic.com/ideas/archive/2022/10/alabama-inmate-execution-alan-miller/671620/) *(theatlantic.com)* :
-- [Story of Goose Maps: the first standalone offline maps for Apple Watch](https://medium.com/@goosemaps/story-of-goose-maps-the-first-standalone-offline-maps-for-apple-watch-6c5984b810aa) *(medium.com)* :
-- [Everything](https://daringfireball.net/2022/10/everything) *(daringfireball.net)* :
-- [Das digitale Fiasko an den Berner Schulen](https://www.republik.ch/2022/10/10/das-digitale-fiasko-an-den-berner-schulen) *(republik.ch)* :
+- [Dead Man Living](https://www.theatlantic.com/ideas/archive/2022/10/alabama-inmate-execution-alan-miller/671620/) *(theatlantic.com)* : Die Todesstrafe an sich ist ja schon eine ziemlich doofe Idee. Wie der US-Bundesstaat Alabama eine solche aber dann schlussendlich *nicht* durchgeführt hat führt diese doofe Idee ad absurdum.
+- [Story of Goose Maps: the first standalone offline maps for Apple Watch](https://medium.com/@goosemaps/story-of-goose-maps-the-first-standalone-offline-maps-for-apple-watch-6c5984b810aa) *(medium.com)* : Wenn ich eine Apple Watch hätte, dann hätte ich [Goose Maps](https://goosemaps.com) installiert, die zeigen auf der Uhr nämlich OpenStreetMap-Daten, auch offline.
+- [Everything](https://daringfireball.net/2022/10/everything) *(daringfireball.net)* :- [Das digitale Fiasko an den Berner Schulen](https://www.republik.ch/2022/10/10/das-digitale-fiasko-an-den-berner-schulen) *(republik.ch)* :
 - [The AI Art Apocalypse – Alexander Wales](https://alexanderwales.com/the-ai-art-apocalypse/) *(alexanderwales.com)* :
 - [Collecting Vernacular Photography](https://thomashawk.com/2022/09/collecting-vernacular-photography.html) *(thomashawk.com)* :
 - [Einer von uns](https://www.republik.ch/2022/10/06/einer-von-uns) *(republik.ch)* :
+
 - [Inside one of the world’s first human composting facilities](https://www.theverge.com/c/23307867/human-composting-process-return-home) *(theverge.com)* :
 - [Trump’s Second Term Would Look Like This](https://www.theatlantic.com/ideas/archive/2022/08/trump-2024-reelection-viktor-orban-hungary/671264/) *(theatlantic.com)* :
 - [Auch dezentral lassen sich gut Patient*innen-Daten verlieren](https://zerforschung.org/posts/doczirkus/) *(zerforschung.org)* :
