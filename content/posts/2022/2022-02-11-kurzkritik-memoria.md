@@ -11,5 +11,5 @@ tags:
 
 Ein Film mit Tilda Swinton ist immer sehenswert.
 Dieser ist manchmal fast unterträglich langsam und mäandriert wie ein Fluss durch Kolumbien, wo der Film auch spielt.
-Die Hauptdarstellerin hört ein seltsames Geräusch, die Erklärung gegen Ende des Films ist nicht das speziellste am Film.
+Die Hauptdarstellerin hört ein seltsames Geräusch, die Erklärung gegen Ende des Films ist nicht das Speziellste am Film.
 Eben; sehenswert.
