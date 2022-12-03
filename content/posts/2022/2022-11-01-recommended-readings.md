@@ -1,6 +1,6 @@
 ---
 title: Recommended Readings vom September und Oktober 2022
-date: 2022-10-01T19:00:00.000+00:00
+date: 2022-11-01T19:00:00.000+00:00
 slug: recommended-readings-oktober-2022
 categories:
 - recommended readings
