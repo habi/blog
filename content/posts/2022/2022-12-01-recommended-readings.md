@@ -20,7 +20,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [Ian Mackay’s going 8.5 mph in a wheelchair, on a road with no limits](https://www.si.com/sports-illustrated/2022/09/14/ian-mackay-wheelchair-daily-cover) *(si.com)* : Ian Mackay wurde vor 14 Jahren bei einem Velounfall zu einem Tetraplegiker. Trotzdem findet er das Glück in kleinen Dingen. Auch wenn diese Dinge gar nicht so klein und einfach sind, nämlich wenn es darum geht, den 24-Stunden-Distanzrekord im elektrischen Rollstuhl zu schlagen.
 - [The Mysterious Patient in Room 23: The Hermit Baroness](https://www.nytimes.com/2022/10/20/nyregion/baroness-birgit-thyssen-bornemisza.html) *(nytimes.com)* : Birgit Thyssen-Bornemisza führte ein Leben in exzentrischer Anonymität und etwas schäbiger Eleganz. Dann wurde ihr der Geldhahn zugedreht. Dann hatte sie einen Schlaganfall.
 - [What Happened When My Wife Died](https://www.newyorker.com/culture/personal-history/what-happened-when-my-wife-died) *(newyorker.com)* : Wie es ist, als Vater einer dreijährigen Tochter deren Mutter zu verlieren. Unglaublich traurig.
-- [From GNU social to Mastodon](https://thomask.sdf.org/blog/2018/08/19/from-gnu-social-to-mastodon.html) *(thomask.sdf.org)* : Eine kleine Geschichte der föderierten sozialen Netze. ["Ist ja auch nur ca. 15 Jahre her"](https//mastodon.social/@habi/109279351176332270).
+- [From GNU social to Mastodon](https://thomask.sdf.org/blog/2018/08/19/from-gnu-social-to-mastodon.html) *(thomask.sdf.org)* : Eine kleine Geschichte der föderierten sozialen Netze. ["Ist ja auch nur ca. 15 Jahre her"](https://mastodon.social/@habi/109279351176332270).
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
