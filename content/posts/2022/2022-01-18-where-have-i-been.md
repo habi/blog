@@ -16,7 +16,7 @@ tags:
 Hier einer der Posts zu meinem 2021.
 Dieser und andere Posts sind unter dem Tag [`jahresrückblick21`](https://habi.gna.ch/tag/jahresruckblick21) zu finden.
 
-Anfangs 2021 habe ich mal wieder [Arc](http://bigpaua.com/arcapp) installiert.
+Anfangs 2021 habe ich mal wieder [Arc](https://bigpaua.com/arcapp) installiert.
 Die App ist zwar *ziemlich* cool, weil sie jeden Tag automatisch eine GPX-Datei macht, aus der sich dann [solche Dinge](https://www.strava.com/activities/5546455353) extrahieren lassen, aber schlussendlich doch zu viel Overkill.
 Das Alleinstellungsmerkmal der App ist die Analyse der einzelen Aktivitäten, Positionen und Wege dazwischen, was für einen Jahresrückblick dann doch eine Stufe zu viel ist :)
 
