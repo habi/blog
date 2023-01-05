@@ -8,10 +8,8 @@ tags:
 - instapaper
 - reading
 - recommended readings
-- linkdump// Record transformation
-
+- linkdump
 ---
-
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
 - [Voll ins Auge](https://www.republik.ch/2022/12/01/voll-ins-auge) *(republik.ch)* : Mindestens einmal pro Jahr wird in der Schweiz ein Mensch von einem Gummigeschoss schwer verletzt. Trotzdem setzt die Polizei oft und erstaunlich breit auf das umstrittene Einsatzmittel. Kritik daran gibt es kaum. Anders als früher.
