@@ -1,5 +1,5 @@
 ---
-title: 'Kurzkritik: Okja'
+title: "Kurzkritik: Okja"
 date: 2020-07-28T23:58:00.000+00:00
 slug: kurzkritik-okja
 categories:

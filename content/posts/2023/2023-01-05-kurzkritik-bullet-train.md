@@ -1,9 +1,9 @@
 ---
-title: Kurzkritik Bullet Train
+title: "Kurzkritik: Bullet Train"
 date: 2023-01-05T23:32:00.000+00:00
 slug: kurzkritik-bullet-train
 categories:
-- kurzkritik
+- movies
 tags:
 - kurzkritik
 - movies
