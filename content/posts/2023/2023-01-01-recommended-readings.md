@@ -16,7 +16,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [Némésis Suisse ](https://www.antifa.ch/nemesis-suisse/) *(antifa.ch)* : Seit über einem Jahr ist in der Westschweiz eine Gruppe der rechts-feministischen Bewegung Némésis aktiv und hetzt gegen Migrant:innen. Die Antifa Bern schaut da mal genau hin.
 - [Rechtsextremismus: Die Schwiegersohn-Neonazis](https://www.woz.ch/!JJPNM2QWZACD) *(woz.ch)* : Die Junge Tat versucht ihre Themen in die Mitte der Gesellschaft zu tragen. Woher die Gruppe kommt, wie sie sich verorten lässt, wer die Köpfe dahinter sind.
 - [Beware of the Perfect Gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman) *(vice.com)* : Die Männer, deren Fotos für gefälschte Onlineprofile verwendet werden, haben kaum eine andere Möglichkeit, als ständig gefälschte Profile auf Social-Media-Plattformen zu melden.
-- [Digital detritus](https://lcamtuf.substack.com/p/digital-detritus) *(lcamtuf.substack.com)* : Ich muss glaub' [1SecondEveryday](https//1se.co/) wieder
+- [Digital detritus](https://lcamtuf.substack.com/p/digital-detritus) *(lcamtuf.substack.com)* : Ich muss glaub' [1SecondEveryday](https://1se.co/) wieder
 - [Things I've noticed while visiting the ICU](https://trevorklee.substack.com/p/things-ive-noticed-while-visiting) *(trevorklee.substack.com)* : (nur noch auf [archive.org](https://web.archive.org/web/20221118210814/https://trevorklee.substack.com/p/things-ive-noticed-while-visiting) zu finden) Was in einer Intensivstation vor sich gehen kann.
 - [The Origins of Python](https://inference-review.com/article/the-origins-of-python) *(inference-review.com)* : Ein bisschen Computer-Historie.
 
