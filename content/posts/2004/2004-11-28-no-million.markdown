@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-11-28 21:46:07+00:00
 link: https://habi.gna.ch/2004/11/28/no-million/

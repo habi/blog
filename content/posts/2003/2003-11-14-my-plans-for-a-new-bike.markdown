@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-11-14 16:54:55+00:00
 link: https://habi.gna.ch/2003/11/14/my-plans-for-a-new-bike/

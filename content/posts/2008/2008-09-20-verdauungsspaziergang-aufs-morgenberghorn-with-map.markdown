@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-09-20 19:37:12+00:00
 link: https://habi.gna.ch/2008/09/20/verdauungsspaziergang-aufs-morgenberghorn-with-map/

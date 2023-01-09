@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-10-23 20:03:49+00:00
 link: https://habi.gna.ch/2007/10/23/information-revolution/

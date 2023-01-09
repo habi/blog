@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-12-15 22:46:53+00:00
 link: https://habi.gna.ch/2016/12/15/the-art-of-making-a-nixie-tube/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-08-08 19:49:10+00:00
 link: https://habi.gna.ch/2006/08/08/ventimiglia-photos-update/

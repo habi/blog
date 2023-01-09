@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-05-14 19:48:23+00:00
 link: https://habi.gna.ch/2011/05/14/eine-kurze-geschichte-von-allem/

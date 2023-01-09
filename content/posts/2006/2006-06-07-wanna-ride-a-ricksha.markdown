@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-06-07 21:12:20+00:00
 link: https://habi.gna.ch/2006/06/07/wanna-ride-a-ricksha/

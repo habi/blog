@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-07-17 18:35:04+00:00
 link: https://habi.gna.ch/2013/07/17/file-under-coole-videos/

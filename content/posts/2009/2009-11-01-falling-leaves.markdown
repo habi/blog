@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-11-01 19:19:48+00:00
 link: https://habi.gna.ch/2009/11/01/falling-leaves/

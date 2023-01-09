@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-03-04 10:04:56+00:00
 link: https://habi.gna.ch/2004/03/04/expos-is-just-soo-cool/

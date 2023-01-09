@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-08-19 18:17:05+00:00
 link: https://habi.gna.ch/2014/08/19/forest-man/

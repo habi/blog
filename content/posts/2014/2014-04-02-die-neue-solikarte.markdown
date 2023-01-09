@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-04-02 21:20:32+00:00
 link: https://habi.gna.ch/2014/04/02/die-neue-solikarte/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-12-01 18:59:09+00:00
 link: https://habi.gna.ch/2010/12/01/unisport-frisbee-im-schnee-juhee/

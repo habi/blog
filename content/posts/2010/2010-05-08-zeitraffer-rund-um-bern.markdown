@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-05-08 18:43:24+00:00
 link: https://habi.gna.ch/2010/05/08/zeitraffer-rund-um-bern/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-11-01 18:44:48+00:00
 link: https://habi.gna.ch/2007/11/01/fresh-from-the-us/

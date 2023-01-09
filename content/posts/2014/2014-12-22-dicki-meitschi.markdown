@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-12-22 18:32:39+00:00
 link: https://habi.gna.ch/2014/12/22/dicki-meitschi/

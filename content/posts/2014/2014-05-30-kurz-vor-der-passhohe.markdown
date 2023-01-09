@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-05-30 15:19:16+00:00
 link: https://habi.gna.ch/2014/05/30/kurz-vor-der-passhohe/

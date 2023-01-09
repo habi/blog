@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-07-30 12:28:39+00:00
 link: https://habi.gna.ch/2004/07/30/hoverbike/

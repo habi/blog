@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-03-30 20:51:58+00:00
 link: https://habi.gna.ch/2016/03/30/die-aussicht-vom-balkon/

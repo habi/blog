@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-11-29 08:49:51+00:00
 link: https://habi.gna.ch/2005/11/29/pictures-of-the-week-47/

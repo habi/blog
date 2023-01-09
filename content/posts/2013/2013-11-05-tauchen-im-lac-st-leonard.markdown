@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-11-05 22:09:40+00:00
 link: https://habi.gna.ch/2013/11/05/tauchen-im-lac-st-leonard/

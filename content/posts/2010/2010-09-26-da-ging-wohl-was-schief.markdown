@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-09-26 22:18:45+00:00
 link: https://habi.gna.ch/2010/09/27/da-ging-wohl-was-schief/

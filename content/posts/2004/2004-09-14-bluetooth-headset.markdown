@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-09-14 21:08:50+00:00
 link: https://habi.gna.ch/2004/09/14/bluetooth-headset/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-04-02 07:13:13+00:00
 link: https://habi.gna.ch/2008/04/02/eselsbrucke/

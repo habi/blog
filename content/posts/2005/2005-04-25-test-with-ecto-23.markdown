@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-04-25 08:53:14+00:00
 link: https://habi.gna.ch/2005/04/25/test-with-ecto-23/

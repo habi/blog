@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-10-29 19:57:12+00:00
 link: https://habi.gna.ch/2004/10/29/address-book-apple-script/

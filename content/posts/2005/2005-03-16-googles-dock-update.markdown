@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-03-16 16:34:47+00:00
 link: https://habi.gna.ch/2005/03/16/googles-dock-update/

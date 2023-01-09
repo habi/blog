@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-09-01 19:00:14+00:00
 link: https://habi.gna.ch/2014/09/01/recommended-readings-01-september-2014/

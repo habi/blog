@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-03-29 10:57:02+00:00
 link: https://habi.gna.ch/2009/03/29/habi-rennt-gp-training-2-im-regen/

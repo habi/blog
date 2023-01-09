@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-01-09 12:37:28+00:00
 link: https://habi.gna.ch/2006/01/09/calvin-is-just-great/

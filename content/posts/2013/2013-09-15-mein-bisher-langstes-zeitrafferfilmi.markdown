@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-09-15 14:12:08+00:00
 link: https://habi.gna.ch/2013/09/15/mein-bisher-langstes-zeitrafferfilmi/

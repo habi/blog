@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-07-19 20:36:03+00:00
 link: https://habi.gna.ch/2014/07/19/seasick-steve/

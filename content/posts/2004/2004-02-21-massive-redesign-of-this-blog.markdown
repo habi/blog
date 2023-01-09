@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-02-21 21:57:21+00:00
 link: https://habi.gna.ch/2004/02/21/massive-redesign-of-this-blog/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-07-28 19:09:00+00:00
 link: https://habi.gna.ch/2011/07/28/neuenburgersee-divesite-robinson/

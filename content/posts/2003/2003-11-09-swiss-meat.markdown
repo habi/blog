@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-11-09 15:57:11+00:00
 link: https://habi.gna.ch/2003/11/09/swiss-meat/

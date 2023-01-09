@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-04-06 09:13:04+00:00
 link: https://habi.gna.ch/2012/04/06/brugg-on-cinemagr-am/

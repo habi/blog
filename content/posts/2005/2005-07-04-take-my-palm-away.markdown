@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-07-04 16:46:32+00:00
 link: https://habi.gna.ch/2005/07/04/take-my-palm-away/

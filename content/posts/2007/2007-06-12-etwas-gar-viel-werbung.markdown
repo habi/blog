@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-06-12 14:56:05+00:00
 link: https://habi.gna.ch/2007/06/12/etwas-gar-viel-werbung/

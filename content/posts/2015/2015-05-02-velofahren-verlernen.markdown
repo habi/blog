@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-05-02 14:39:17+00:00
 link: https://habi.gna.ch/2015/05/02/velofahren-verlernen/

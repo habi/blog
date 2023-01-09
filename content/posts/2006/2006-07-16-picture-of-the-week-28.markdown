@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-07-16 21:15:09+00:00
 link: https://habi.gna.ch/2006/07/16/picture-of-the-week-28/

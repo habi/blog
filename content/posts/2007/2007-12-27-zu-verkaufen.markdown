@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-12-27 17:33:59+00:00
 link: https://habi.gna.ch/2007/12/27/zu-verkaufen/

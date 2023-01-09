@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-06-27 20:24:39+00:00
 link: https://habi.gna.ch/2004/06/27/mixed-tape/

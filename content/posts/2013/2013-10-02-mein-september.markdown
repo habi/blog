@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-10-02 16:45:37+00:00
 link: https://habi.gna.ch/2013/10/02/mein-september/

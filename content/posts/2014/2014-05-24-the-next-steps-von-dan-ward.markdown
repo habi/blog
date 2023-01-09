@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-05-24 10:37:30+00:00
 link: https://habi.gna.ch/2014/05/24/the-next-steps-von-dan-ward/

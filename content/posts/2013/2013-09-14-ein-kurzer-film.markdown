@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-09-14 18:12:31+00:00
 link: https://habi.gna.ch/2013/09/14/ein-kurzer-film/

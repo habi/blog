@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-06-01 19:00:24+00:00
 link: https://habi.gna.ch/2015/06/01/recommended-readings-1-june-2015/

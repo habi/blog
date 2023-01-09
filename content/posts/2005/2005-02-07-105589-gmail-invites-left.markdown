@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: false
 date: 2005-02-07 13:26:34+00:00
 link: https://habi.gna.ch/2005/02/07/105589-gmail-invites-left/

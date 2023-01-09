@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-31 16:57:37+00:00
 link: https://habi.gna.ch/2004/01/31/ah-well-then/

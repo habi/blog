@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-01-25 08:10:30+00:00
 link: https://habi.gna.ch/2011/01/25/ein-kind-und-sein-auto-ii/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-06-06 13:01:11+00:00
 link: https://habi.gna.ch/2007/06/06/frisch-lackiert/

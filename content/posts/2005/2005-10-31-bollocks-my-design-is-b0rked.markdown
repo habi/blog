@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-31 13:27:37+00:00
 link: https://habi.gna.ch/2005/10/31/bollocks-my-design-is-b0rked/

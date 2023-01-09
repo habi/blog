@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-10-02 17:07:24+00:00
 link: https://habi.gna.ch/2003/10/02/todays-fun-link-actually-three-of-em/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-10-22 19:28:50+00:00
 link: https://habi.gna.ch/2003/10/22/improving-safari/

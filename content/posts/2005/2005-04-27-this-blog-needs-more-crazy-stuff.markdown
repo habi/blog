@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-04-27 21:59:49+00:00
 link: https://habi.gna.ch/2005/04/27/this-blog-needs-more-crazy-stuff/

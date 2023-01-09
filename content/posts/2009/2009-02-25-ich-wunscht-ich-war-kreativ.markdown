@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-02-25 17:48:34+00:00
 link: https://habi.gna.ch/2009/02/25/ich-wunscht-ich-war-kreativ/

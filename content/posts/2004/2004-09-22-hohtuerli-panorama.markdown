@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-09-22 20:59:45+00:00
 link: https://habi.gna.ch/2004/09/22/hohtuerli-panorama/

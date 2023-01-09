@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-05-11 20:24:42+00:00
 link: https://habi.gna.ch/2004/05/11/vektorika/

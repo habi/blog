@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-12-06 11:20:21+00:00
 link: https://habi.gna.ch/2007/12/06/da-schamt-sich-ja-der-samichlous/

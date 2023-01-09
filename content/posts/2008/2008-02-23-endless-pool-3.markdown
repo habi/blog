@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-02-23 18:04:36+00:00
 link: https://habi.gna.ch/2008/02/23/endless-pool-3/

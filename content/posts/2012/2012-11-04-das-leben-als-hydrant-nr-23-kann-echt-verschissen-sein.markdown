@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-11-04 13:29:27+00:00
 link: https://habi.gna.ch/2012/11/04/das-leben-als-hydrant-nr-23-kann-echt-verschissen-sein/

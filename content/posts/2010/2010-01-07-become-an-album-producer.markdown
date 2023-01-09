@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-01-07 21:52:40+00:00
 link: https://habi.gna.ch/2010/01/07/become-an-album-producer/

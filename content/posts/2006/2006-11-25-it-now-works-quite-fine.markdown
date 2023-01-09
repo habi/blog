@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-11-25 00:47:04+00:00
 link: https://habi.gna.ch/2006/11/25/it-now-works-quite-fine/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-09-30 20:39:54+00:00
 link: https://habi.gna.ch/2006/09/30/picture-of-the-week-39-2/

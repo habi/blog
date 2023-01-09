@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-06-08 12:53:01+00:00
 link: https://habi.gna.ch/2007/06/08/microsoft-photosynth-video/

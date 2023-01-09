@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-06-13 19:52:28+00:00
 link: https://habi.gna.ch/2012/06/13/pannellum-test/

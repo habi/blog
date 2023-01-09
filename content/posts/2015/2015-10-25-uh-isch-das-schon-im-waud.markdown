@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-10-25 14:04:03+00:00
 link: https://habi.gna.ch/2015/10/25/uh-isch-das-schon-im-waud/

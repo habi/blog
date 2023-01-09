@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-09-18 21:34:53+00:00
 link: https://habi.gna.ch/2011/09/18/fernsteinsee/

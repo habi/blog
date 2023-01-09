@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-02-15 22:04:29+00:00
 link: https://habi.gna.ch/2010/02/16/stephen-fry-on-the-catholic-church/

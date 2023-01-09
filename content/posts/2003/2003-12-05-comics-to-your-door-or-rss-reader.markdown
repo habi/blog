@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-12-05 13:47:23+00:00
 link: https://habi.gna.ch/2003/12/05/comics-to-your-door-or-rss-reader/

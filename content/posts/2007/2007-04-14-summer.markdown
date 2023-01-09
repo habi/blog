@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-04-14 19:40:24+00:00
 link: https://habi.gna.ch/2007/04/14/summer/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-05-11 09:02:15+00:00
 link: https://habi.gna.ch/2006/05/11/evolution-of-dance/

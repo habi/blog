@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-10-24 16:34:12+00:00
 link: https://habi.gna.ch/2003/10/24/tandem-movies/

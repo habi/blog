@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: false
 date: 2006-04-26 08:30:40+00:00
 link: https://habi.gna.ch/2006/04/26/renamed-mt-commentscgi-and-mt-tbcgi-scripts/

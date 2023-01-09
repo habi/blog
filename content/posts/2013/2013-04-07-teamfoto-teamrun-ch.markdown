@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-04-07 10:48:31+00:00
 link: https://habi.gna.ch/2013/04/07/teamfoto-teamrun-ch/

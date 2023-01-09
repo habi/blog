@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-01-02 13:27:58+00:00
 link: https://habi.gna.ch/2012/01/02/letzter-tauchgang-im-2011/

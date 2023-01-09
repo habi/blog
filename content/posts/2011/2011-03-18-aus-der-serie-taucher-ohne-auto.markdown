@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-03-18 14:12:18+00:00
 link: https://habi.gna.ch/2011/03/18/aus-der-serie-taucher-ohne-auto/

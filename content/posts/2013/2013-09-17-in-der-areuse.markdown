@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-09-17 20:13:45+00:00
 link: https://habi.gna.ch/2013/09/17/in-der-areuse/

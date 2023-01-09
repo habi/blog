@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-02-09 16:31:13+00:00
 link: https://habi.gna.ch/2006/02/09/multi-finger-gui/

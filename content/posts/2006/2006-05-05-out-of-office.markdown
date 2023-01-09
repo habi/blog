@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-05-05 13:08:49+00:00
 link: https://habi.gna.ch/2006/05/05/out-of-office/

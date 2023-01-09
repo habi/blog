@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-05-17 14:44:09+00:00
 link: https://habi.gna.ch/2008/05/17/tauchen-in-cadaques/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-22 10:42:27+00:00
 link: https://habi.gna.ch/2005/10/22/alleycat-pictures-are-online-update/

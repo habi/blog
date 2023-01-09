@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-02-01 20:00:31+00:00
 link: https://habi.gna.ch/2015/02/01/recommended-readings-1-february-2015/

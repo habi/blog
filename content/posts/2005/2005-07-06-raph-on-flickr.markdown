@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-07-06 22:45:47+00:00
 link: https://habi.gna.ch/2005/07/07/raph-on-flickr/

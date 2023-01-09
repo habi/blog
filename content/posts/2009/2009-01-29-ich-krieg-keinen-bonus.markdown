@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-01-29 22:18:18+00:00
 link: https://habi.gna.ch/2009/01/29/ich-krieg-keinen-bonus/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-11-10 20:02:41+00:00
 link: https://habi.gna.ch/2004/11/10/cleaning-mood/

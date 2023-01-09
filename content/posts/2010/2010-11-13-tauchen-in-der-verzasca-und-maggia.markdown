@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-11-13 07:14:47+00:00
 link: https://habi.gna.ch/2010/11/13/tauchen-in-der-verzasca-und-maggia/

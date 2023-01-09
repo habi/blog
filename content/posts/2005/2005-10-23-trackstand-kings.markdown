@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-23 22:04:48+00:00
 link: https://habi.gna.ch/2005/10/24/trackstand-kings/

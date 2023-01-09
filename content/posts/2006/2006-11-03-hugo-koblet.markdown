@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-11-03 12:45:52+00:00
 link: https://habi.gna.ch/2006/11/03/hugo-koblet/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-12-03 23:34:26+00:00
 link: https://habi.gna.ch/2013/12/04/gutscheine-gutscheine-gutscheine-2/

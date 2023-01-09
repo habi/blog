@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-05-03 22:38:06+00:00
 link: https://habi.gna.ch/2010/05/04/schwefelquelle-31-min-11-m-8/

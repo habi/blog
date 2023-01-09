@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-06-14 20:31:21+00:00
 link: https://habi.gna.ch/2005/06/14/dontt-panic/

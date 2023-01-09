@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-04-20 21:34:57+00:00
 link: https://habi.gna.ch/2004/04/20/georbe-dubya-is-boring/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-02-22 22:04:05+00:00
 link: https://habi.gna.ch/2015/02/22/subtiler-schilder-hack-im-westside/

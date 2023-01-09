@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-02-03 09:03:30+00:00
 link: https://habi.gna.ch/2009/02/03/whitewedding/

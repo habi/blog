@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-05-20 14:29:10+00:00
 link: https://habi.gna.ch/2008/05/20/nummer-7-hat-den-helm-vergessen/

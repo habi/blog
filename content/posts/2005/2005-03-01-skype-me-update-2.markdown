@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-03-01 20:40:16+00:00
 link: https://habi.gna.ch/2005/03/01/skype-me-update-2/

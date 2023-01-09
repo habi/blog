@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-07-07 07:16:46+00:00
 link: https://habi.gna.ch/2009/07/07/evernote-auf-dem-iphone/

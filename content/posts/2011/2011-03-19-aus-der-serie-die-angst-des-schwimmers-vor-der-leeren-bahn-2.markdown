@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-03-19 18:16:52+00:00
 link: https://habi.gna.ch/2011/03/19/aus-der-serie-die-angst-des-schwimmers-vor-der-leeren-bahn-2/

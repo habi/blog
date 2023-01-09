@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-01-02 14:03:09+00:00
 link: https://habi.gna.ch/2005/01/02/gmail-invitations-update/

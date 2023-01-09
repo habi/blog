@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-08-20 23:56:29+00:00
 link: https://habi.gna.ch/2004/08/21/grand-raid/

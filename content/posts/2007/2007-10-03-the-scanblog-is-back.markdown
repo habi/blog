@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-10-03 20:28:23+00:00
 link: https://habi.gna.ch/2007/10/03/the-scanblog-is-back/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-01-17 23:22:32+00:00
 link: https://habi.gna.ch/2007/01/18/do-you-feel-fat-get-a-wiii-2/

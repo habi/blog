@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-12-31 10:52:41+00:00
 link: https://habi.gna.ch/2005/12/31/what-we-do-at-noon/

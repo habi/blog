@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-07-31 11:49:18+00:00
 link: https://habi.gna.ch/2003/07/31/my-weekend/

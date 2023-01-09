@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-04-07 21:33:38+00:00
 link: https://habi.gna.ch/2004/04/07/new-software/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-07-16 21:09:21+00:00
 link: https://habi.gna.ch/2012/07/16/kurzkritik-moonrise-kingdom/

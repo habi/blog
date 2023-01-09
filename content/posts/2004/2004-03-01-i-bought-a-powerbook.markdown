@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-03-01 22:13:54+00:00
 link: https://habi.gna.ch/2004/03/02/i-bought-a-powerbook/

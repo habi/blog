@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-04-30 17:54:32+00:00
 link: https://habi.gna.ch/2005/04/30/freefluxnet-opened/

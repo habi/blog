@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-12-24 11:46:23+00:00
 link: https://habi.gna.ch/2006/12/24/meine-guten-vorsatze-furs-2007/

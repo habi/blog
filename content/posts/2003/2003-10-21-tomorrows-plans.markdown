@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-10-21 22:31:43+00:00
 link: https://habi.gna.ch/2003/10/22/tomorrows-plans/

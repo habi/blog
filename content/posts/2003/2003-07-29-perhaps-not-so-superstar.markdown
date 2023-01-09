@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-07-29 21:43:31+00:00
 link: https://habi.gna.ch/2003/07/29/perhaps-not-so-superstar/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-04-17 14:11:30+00:00
 link: https://habi.gna.ch/2005/04/17/k700i-panorama/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-07-12 22:08:15+00:00
 link: https://habi.gna.ch/2006/07/13/blocking-spam/

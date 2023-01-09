@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-03-20 06:32:35+00:00
 link: https://habi.gna.ch/2013/03/20/liebes-bund-lektorat/

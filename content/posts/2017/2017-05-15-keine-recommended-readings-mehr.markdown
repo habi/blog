@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2017-05-15 19:52:27+00:00
 link: https://habi.gna.ch/2017/05/15/keine-recommended-readings-mehr/

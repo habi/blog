@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-03-08 19:38:46+00:00
 link: https://habi.gna.ch/2013/03/08/eistauchen-2013-das-video/

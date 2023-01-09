@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-01-11 10:34:00+00:00
 link: https://habi.gna.ch/2006/01/11/videogooglecom-for-psp/

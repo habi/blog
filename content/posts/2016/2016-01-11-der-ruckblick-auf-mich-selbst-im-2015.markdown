@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-01-11 21:57:35+00:00
 link: https://habi.gna.ch/2016/01/11/der-ruckblick-auf-mich-selbst-im-2015/

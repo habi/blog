@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-06-26 21:19:53+00:00
 link: https://habi.gna.ch/2010/06/26/ein-schnappchen-fur-die-dame/

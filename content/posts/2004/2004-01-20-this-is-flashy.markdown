@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-20 21:59:47+00:00
 link: https://habi.gna.ch/2004/01/20/this-is-flashy/

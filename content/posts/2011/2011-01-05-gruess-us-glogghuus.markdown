@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-01-05 12:36:57+00:00
 link: https://habi.gna.ch/2011/01/05/gruess-us-glogghuus/

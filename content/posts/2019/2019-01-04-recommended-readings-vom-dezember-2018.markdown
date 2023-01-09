@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2019-01-04 20:51:56+00:00
 link: https://habi.gna.ch/2019/01/04/recommended-readings-vom-dezember-2018/

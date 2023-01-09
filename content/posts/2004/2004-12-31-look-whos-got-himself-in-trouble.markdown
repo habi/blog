@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-12-31 15:51:53+00:00
 link: https://habi.gna.ch/2004/12/31/look-whos-got-himself-in-trouble/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-07-26 19:39:58+00:00
 link: https://habi.gna.ch/2003/07/26/canyoning/

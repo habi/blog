@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-08-03 17:32:36+00:00
 link: https://habi.gna.ch/2005/08/03/apple-rebate-coupon-code-update/

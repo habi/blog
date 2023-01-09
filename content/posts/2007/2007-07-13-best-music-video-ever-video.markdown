@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-07-13 22:28:15+00:00
 link: https://habi.gna.ch/2007/07/13/best-music-video-ever-video/

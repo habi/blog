@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-08-01 10:06:05+00:00
 link: https://habi.gna.ch/2009/08/01/liveblogging-from-4027m/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-12-13 21:51:50+00:00
 link: https://habi.gna.ch/2004/12/13/pictures-from-brazil/

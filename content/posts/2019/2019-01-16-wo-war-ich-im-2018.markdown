@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2019-01-16 22:18:56+00:00
 link: https://habi.gna.ch/2019/01/16/wo-war-ich-im-2018/

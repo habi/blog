@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-10 12:45:40+00:00
 link: https://habi.gna.ch/2004/01/10/alternative-clocks/

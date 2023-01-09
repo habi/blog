@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-12-19 07:52:30+00:00
 link: https://habi.gna.ch/2014/12/19/immer-wieder-schon-diese-kurve-vor-lausanne/

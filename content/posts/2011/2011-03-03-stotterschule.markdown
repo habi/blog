@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-03-03 21:10:18+00:00
 link: https://habi.gna.ch/2011/03/03/stotterschule/

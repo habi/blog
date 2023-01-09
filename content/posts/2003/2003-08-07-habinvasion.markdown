@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-08-07 18:54:26+00:00
 link: https://habi.gna.ch/2003/08/07/habinvasion/

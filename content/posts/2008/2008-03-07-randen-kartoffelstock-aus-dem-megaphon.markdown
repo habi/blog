@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-03-07 18:30:27+00:00
 link: https://habi.gna.ch/2008/03/07/randen-kartoffelstock-aus-dem-megaphon/

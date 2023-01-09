@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-08-03 07:35:26+00:00
 link: https://habi.gna.ch/2015/08/03/war-nid-spinnt-da-spinnt/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-03-08 21:55:22+00:00
 link: https://habi.gna.ch/2012/03/08/planeten-bauen-und-filme-fotografieren/

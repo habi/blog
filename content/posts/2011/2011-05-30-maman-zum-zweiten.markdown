@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-05-30 22:04:33+00:00
 link: https://habi.gna.ch/2011/05/31/maman-zum-zweiten/

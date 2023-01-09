@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-06-19 18:41:19+00:00
 link: https://habi.gna.ch/2005/06/19/water-temperatures-on-mapsearchch/

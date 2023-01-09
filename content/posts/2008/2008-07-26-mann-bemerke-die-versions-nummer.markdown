@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-07-26 17:51:03+00:00
 link: https://habi.gna.ch/2008/07/26/mann-bemerke-die-versions-nummer/

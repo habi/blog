@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-08-10 17:37:00+00:00
 link: https://habi.gna.ch/2006/08/10/mash-sf/

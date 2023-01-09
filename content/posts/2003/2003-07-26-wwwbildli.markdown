@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-07-26 20:22:28+00:00
 link: https://habi.gna.ch/2003/07/26/wwwbildli/

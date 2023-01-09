@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-11-11 16:52:20+00:00
 link: https://habi.gna.ch/2004/11/11/nice-cv/

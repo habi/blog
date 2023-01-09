@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-05-18 13:54:43+00:00
 link: https://habi.gna.ch/2005/05/18/katamari-damacy/

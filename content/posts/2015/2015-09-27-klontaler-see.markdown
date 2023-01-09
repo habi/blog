@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-09-27 11:04:58+00:00
 link: https://habi.gna.ch/2015/09/27/klontaler-see/

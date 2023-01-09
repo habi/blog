@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-01-15 20:21:25+00:00
 link: https://habi.gna.ch/2007/01/15/blogcampswitzerland-european-blog-conference/

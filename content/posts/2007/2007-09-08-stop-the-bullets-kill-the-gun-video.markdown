@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-09-08 09:49:51+00:00
 link: https://habi.gna.ch/2007/09/08/stop-the-bullets-kill-the-gun-video/

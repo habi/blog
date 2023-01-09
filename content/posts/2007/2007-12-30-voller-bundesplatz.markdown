@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-12-30 15:44:02+00:00
 link: https://habi.gna.ch/2007/12/30/voller-bundesplatz/

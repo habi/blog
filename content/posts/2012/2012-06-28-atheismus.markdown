@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-06-28 19:58:21+00:00
 link: https://habi.gna.ch/2012/06/28/atheismus/

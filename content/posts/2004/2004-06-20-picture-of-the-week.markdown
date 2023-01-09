@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-06-20 20:14:42+00:00
 link: https://habi.gna.ch/2004/06/20/picture-of-the-week/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-10 12:28:43+00:00
 link: https://habi.gna.ch/2005/10/10/picture-of-the-week-40/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-03-31 18:21:13+00:00
 link: https://habi.gna.ch/2008/03/31/wordpress-25-update/

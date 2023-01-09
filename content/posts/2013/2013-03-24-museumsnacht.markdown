@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-03-24 14:54:38+00:00
 link: https://habi.gna.ch/2013/03/24/museumsnacht/

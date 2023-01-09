@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-09-05 13:45:00+00:00
 link: https://habi.gna.ch/2005/09/05/the-us-of-a-is-in-deep-trouble/

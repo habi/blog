@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-03-14 07:28:47+00:00
 link: https://habi.gna.ch/2007/03/14/picture-of-the-week-10-2/

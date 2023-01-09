@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-08-23 17:12:46+00:00
 link: https://habi.gna.ch/2005/08/23/how-not-to-win-a-race/

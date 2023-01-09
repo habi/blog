@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-02-03 23:06:32+00:00
 link: https://habi.gna.ch/2015/02/04/mit-kunst-die-gesellschaft-hacken/

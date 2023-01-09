@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-01-06 17:49:19+00:00
 link: https://habi.gna.ch/2012/01/06/press-pause-play/

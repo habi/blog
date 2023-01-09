@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-07-03 08:32:15+00:00
 link: https://habi.gna.ch/2010/07/03/oberhofen-morgens-um-9/

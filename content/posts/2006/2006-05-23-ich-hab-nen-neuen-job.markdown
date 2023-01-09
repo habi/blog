@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-05-23 19:33:04+00:00
 link: https://habi.gna.ch/2006/05/23/ich-hab-nen-neuen-job/

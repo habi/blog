@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-07-17 12:35:05+00:00
 link: https://habi.gna.ch/2010/07/17/oberhofen-churchill-video/

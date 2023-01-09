@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-18 11:39:16+00:00
 link: https://habi.gna.ch/2004/01/18/war-is-fucking-stupid/

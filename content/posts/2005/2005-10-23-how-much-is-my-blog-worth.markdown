@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-23 20:26:38+00:00
 link: https://habi.gna.ch/2005/10/23/how-much-is-my-blog-worth/

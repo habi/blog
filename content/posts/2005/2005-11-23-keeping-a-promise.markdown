@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-11-23 18:00:16+00:00
 link: https://habi.gna.ch/2005/11/23/keeping-a-promise/

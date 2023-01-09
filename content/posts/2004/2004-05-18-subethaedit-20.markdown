@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-05-18 17:17:31+00:00
 link: https://habi.gna.ch/2004/05/18/subethaedit-20/

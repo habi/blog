@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-09-03 23:04:38+00:00
 link: https://habi.gna.ch/2003/09/04/pictures-of-the-emc/

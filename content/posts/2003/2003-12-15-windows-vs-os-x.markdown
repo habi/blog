@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-12-15 21:46:31+00:00
 link: https://habi.gna.ch/2003/12/15/windows-vs-os-x/

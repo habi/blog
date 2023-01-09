@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-01-08 12:42:28+00:00
 link: https://habi.gna.ch/2012/01/08/bligg-feat-youngblood-brass-band/

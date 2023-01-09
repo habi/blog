@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-07-28 21:03:38+00:00
 link: https://habi.gna.ch/2004/07/28/it-all-comes-together/

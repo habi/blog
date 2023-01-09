@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-01-11 16:22:56+00:00
 link: https://habi.gna.ch/2014/01/11/erster-tauchgang-im-2014/

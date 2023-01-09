@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-04-07 09:48:20+00:00
 link: https://habi.gna.ch/2006/04/07/a-funny-magic-trick/

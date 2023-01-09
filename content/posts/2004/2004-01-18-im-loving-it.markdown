@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-18 22:11:39+00:00
 link: https://habi.gna.ch/2004/01/19/im-loving-it/

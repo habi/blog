@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-03-23 05:57:55+00:00
 link: https://habi.gna.ch/2005/03/23/b-in-the-news/

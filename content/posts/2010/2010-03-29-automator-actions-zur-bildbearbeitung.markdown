@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-03-29 20:22:29+00:00
 link: https://habi.gna.ch/2010/03/29/automator-actions-zur-bildbearbeitung/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-05-31 22:40:37+00:00
 link: https://habi.gna.ch/2009/06/01/baldachin-by-night-ii/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-05-08 19:21:17+00:00
 link: https://habi.gna.ch/2018/05/08/kurzkritik-the-fall/

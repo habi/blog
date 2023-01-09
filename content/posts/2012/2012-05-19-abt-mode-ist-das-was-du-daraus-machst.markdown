@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-05-19 19:54:10+00:00
 link: https://habi.gna.ch/2012/05/19/abt-mode-ist-das-was-du-daraus-machst/

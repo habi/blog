@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-08-08 20:45:41+00:00
 link: https://habi.gna.ch/2018/08/08/recommended-reading-vom-juli-2018/

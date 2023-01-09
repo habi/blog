@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-08-08 21:04:13+00:00
 link: https://habi.gna.ch/2006/08/08/getting-rid-of-comment-spam/

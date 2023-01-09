@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-09-26 20:35:49+00:00
 link: https://habi.gna.ch/2006/09/26/this-blog-is-dying/

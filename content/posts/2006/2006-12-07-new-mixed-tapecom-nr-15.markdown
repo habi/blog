@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-12-07 19:04:29+00:00
 link: https://habi.gna.ch/2006/12/07/new-mixed-tapecom-nr-15/

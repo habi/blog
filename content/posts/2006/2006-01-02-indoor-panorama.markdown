@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-01-02 14:27:17+00:00
 link: https://habi.gna.ch/2006/01/02/indoor-panorama/

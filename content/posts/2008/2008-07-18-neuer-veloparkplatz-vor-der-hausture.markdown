@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-07-18 18:13:21+00:00
 link: https://habi.gna.ch/2008/07/18/neuer-veloparkplatz-vor-der-hausture/

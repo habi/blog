@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-01-11 21:20:26+00:00
 link: https://habi.gna.ch/2005/01/11/new-filewile-track-on-the-web/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-06-18 20:08:24+00:00
 link: https://habi.gna.ch/2006/06/18/zieleinfahrt-tour-de-suisse/

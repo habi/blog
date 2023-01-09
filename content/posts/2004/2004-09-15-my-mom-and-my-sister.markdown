@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-09-15 22:29:35+00:00
 link: https://habi.gna.ch/2004/09/16/my-mom-and-my-sister/

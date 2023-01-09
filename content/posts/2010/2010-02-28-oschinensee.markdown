@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-02-28 11:48:50+00:00
 link: https://habi.gna.ch/2010/02/28/oschinensee/

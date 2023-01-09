@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-11-10 22:09:44+00:00
 link: https://habi.gna.ch/2007/11/10/vernissage-milieu/

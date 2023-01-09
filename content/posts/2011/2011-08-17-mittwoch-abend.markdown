@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-08-17 16:21:50+00:00
 link: https://habi.gna.ch/2011/08/17/mittwoch-abend/

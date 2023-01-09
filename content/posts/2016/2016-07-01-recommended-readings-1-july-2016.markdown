@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-07-01 20:05:07+00:00
 link: https://habi.gna.ch/2016/07/01/recommended-readings-1-july-2016/

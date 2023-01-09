@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-04-28 20:24:24+00:00
 link: https://habi.gna.ch/2008/04/28/homework-bioglass-as-space-filling-bone-substitute/

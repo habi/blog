@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-11 22:47:03+00:00
 link: https://habi.gna.ch/2004/01/12/bush-in-30-seconds/

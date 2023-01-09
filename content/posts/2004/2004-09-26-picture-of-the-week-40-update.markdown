@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-09-26 21:27:44+00:00
 link: https://habi.gna.ch/2004/09/26/picture-of-the-week-40-update/

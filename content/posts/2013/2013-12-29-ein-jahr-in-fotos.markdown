@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-12-29 13:20:18+00:00
 link: https://habi.gna.ch/2013/12/29/ein-jahr-in-fotos/

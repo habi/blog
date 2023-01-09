@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-09-08 22:31:40+00:00
 link: https://habi.gna.ch/2004/09/09/grand-raid-pictures/

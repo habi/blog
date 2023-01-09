@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-02-20 21:16:54+00:00
 link: https://habi.gna.ch/2006/02/20/picture-of-the-week-07/

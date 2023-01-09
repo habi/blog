@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-04-06 22:24:48+00:00
 link: https://habi.gna.ch/2009/04/06/mit-freier-software-freie-software-daten-visualisieren/

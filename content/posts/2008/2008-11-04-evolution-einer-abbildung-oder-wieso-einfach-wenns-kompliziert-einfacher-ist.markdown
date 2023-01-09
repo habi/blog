@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-11-04 23:35:29+00:00
 link: https://habi.gna.ch/2008/11/05/evolution-einer-abbildung-oder-wieso-einfach-wenns-kompliziert-einfacher-ist/

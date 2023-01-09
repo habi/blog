@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-07-27 21:13:46+00:00
 link: https://habi.gna.ch/2003/07/27/react-on-spam/

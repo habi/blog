@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-06-13 10:36:50+00:00
 link: https://habi.gna.ch/2005/06/13/picture-of-the-week-23-or-so/

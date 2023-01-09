@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-06-06 21:46:40+00:00
 link: https://habi.gna.ch/2004/06/06/coffee-and-cigarettes/

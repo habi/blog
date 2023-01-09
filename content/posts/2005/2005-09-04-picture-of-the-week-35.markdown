@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-09-04 20:31:54+00:00
 link: https://habi.gna.ch/2005/09/04/picture-of-the-week-35/

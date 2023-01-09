@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-09-29 19:28:58+00:00
 link: https://habi.gna.ch/2004/09/29/motorola-razr-v3/

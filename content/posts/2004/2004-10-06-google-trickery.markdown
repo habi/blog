@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-10-06 21:31:29+00:00
 link: https://habi.gna.ch/2004/10/06/google-trickery/

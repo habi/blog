@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-06-08 15:55:32+00:00
 link: https://habi.gna.ch/2015/06/08/mamour-mon-amour/

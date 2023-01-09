@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-05-08 12:51:14+00:00
 link: https://habi.gna.ch/2009/05/08/getting-ready-for-ats2009/

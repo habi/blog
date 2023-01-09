@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-08-17 09:11:12+00:00
 link: https://habi.gna.ch/2008/08/17/youtube-newcleus-jam-on-it/

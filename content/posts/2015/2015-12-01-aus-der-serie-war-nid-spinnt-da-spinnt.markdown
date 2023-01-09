@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-12-01 20:23:17+00:00
 link: https://habi.gna.ch/2015/12/01/aus-der-serie-war-nid-spinnt-da-spinnt/

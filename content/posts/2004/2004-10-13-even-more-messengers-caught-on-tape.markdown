@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-10-13 17:01:56+00:00
 link: https://habi.gna.ch/2004/10/13/even-more-messengers-caught-on-tape/

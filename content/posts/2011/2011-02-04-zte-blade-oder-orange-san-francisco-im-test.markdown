@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-02-04 22:57:44+00:00
 link: https://habi.gna.ch/2011/02/05/zte-blade-oder-orange-san-francisco-im-test/

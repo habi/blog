@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2017-12-25 12:56:15+00:00
 link: https://habi.gna.ch/2017/12/25/es-langt-fur-ubere-nabu/

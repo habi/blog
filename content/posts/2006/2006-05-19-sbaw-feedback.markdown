@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-05-19 23:25:22+00:00
 link: https://habi.gna.ch/2006/05/20/sbaw-feedback/

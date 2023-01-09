@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-09-20 11:56:53+00:00
 link: https://habi.gna.ch/2008/09/20/morgenberghorn/

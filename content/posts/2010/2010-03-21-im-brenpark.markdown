@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-03-21 20:16:38+00:00
 link: https://habi.gna.ch/2010/03/21/im-brenpark/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-12-19 21:01:31+00:00
 link: https://habi.gna.ch/2004/12/19/picture-of-the-week-52/

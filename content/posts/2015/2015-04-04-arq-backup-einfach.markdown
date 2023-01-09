@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-04-04 18:04:26+00:00
 link: https://habi.gna.ch/2015/04/04/arq-backup-einfach/

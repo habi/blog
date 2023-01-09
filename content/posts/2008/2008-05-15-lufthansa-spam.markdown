@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-05-15 18:31:55+00:00
 link: https://habi.gna.ch/2008/05/15/lufthansa-spam/

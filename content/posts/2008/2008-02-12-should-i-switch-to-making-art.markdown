@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-02-12 18:40:51+00:00
 link: https://habi.gna.ch/2008/02/12/should-i-switch-to-making-art/

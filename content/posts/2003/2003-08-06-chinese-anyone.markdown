@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-08-06 13:12:35+00:00
 link: https://habi.gna.ch/2003/08/06/chinese-anyone/

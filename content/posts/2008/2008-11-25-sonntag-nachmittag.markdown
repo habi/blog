@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-11-25 20:31:14+00:00
 link: https://habi.gna.ch/2008/11/25/sonntag-nachmittag/

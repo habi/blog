@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: false
 date: 2004-02-03 11:22:12+00:00
 link: https://habi.gna.ch/2004/02/03/new-feature-on-this-blog/

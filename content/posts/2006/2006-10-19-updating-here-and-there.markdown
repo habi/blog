@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-10-19 22:03:21+00:00
 link: https://habi.gna.ch/2006/10/20/updating-here-and-there/

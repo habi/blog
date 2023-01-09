@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-07-02 20:25:07+00:00
 link: https://habi.gna.ch/2009/07/02/uber-den-belpberg-nach-muri-in-die-aare/

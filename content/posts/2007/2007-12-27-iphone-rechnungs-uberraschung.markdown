@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-12-27 14:31:53+00:00
 link: https://habi.gna.ch/2007/12/27/iphone-rechnungs-uberraschung/

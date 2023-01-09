@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-12-30 10:49:18+00:00
 link: https://habi.gna.ch/2015/12/30/unterbach-piste-gut/

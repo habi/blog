@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-12-09 14:32:02+00:00
 link: https://habi.gna.ch/2009/12/09/uberwachungsstaat/

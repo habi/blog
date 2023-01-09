@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-09-24 09:13:49+00:00
 link: https://habi.gna.ch/2013/09/24/guten-morgen-herbst/

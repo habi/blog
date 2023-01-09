@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-02-03 13:41:42+00:00
 link: https://habi.gna.ch/2014/02/03/recommended-readings-3-february-2014/

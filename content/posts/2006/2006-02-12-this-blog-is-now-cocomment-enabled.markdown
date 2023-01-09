@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-02-12 22:07:03+00:00
 link: https://habi.gna.ch/2006/02/13/this-blog-is-now-cocomment-enabled/

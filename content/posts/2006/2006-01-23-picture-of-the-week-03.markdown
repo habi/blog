@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-01-23 13:11:57+00:00
 link: https://habi.gna.ch/2006/01/23/picture-of-the-week-03/

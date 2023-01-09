@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-05-11 09:19:13+00:00
 link: https://habi.gna.ch/2006/05/11/the-revolution-will-not-be-blogged/

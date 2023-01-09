@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-11-09 17:10:30+00:00
 link: https://habi.gna.ch/2014/11/09/am-oeschinensee/

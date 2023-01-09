@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2017-02-25 21:36:14+00:00
 link: https://habi.gna.ch/2017/02/25/wintersport-ort/

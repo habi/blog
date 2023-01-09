@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-12-06 09:00:08+00:00
 link: https://habi.gna.ch/2007/12/06/student-zu-sein-lohnt-sich/

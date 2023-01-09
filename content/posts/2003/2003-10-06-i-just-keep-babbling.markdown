@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-10-06 18:34:01+00:00
 link: https://habi.gna.ch/2003/10/06/i-just-keep-babbling/

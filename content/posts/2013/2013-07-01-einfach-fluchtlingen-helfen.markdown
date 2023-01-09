@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-07-01 21:52:55+00:00
 link: https://habi.gna.ch/2013/07/01/einfach-fluchtlingen-helfen/

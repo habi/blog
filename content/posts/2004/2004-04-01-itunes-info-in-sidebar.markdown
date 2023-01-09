@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-04-01 22:05:28+00:00
 link: https://habi.gna.ch/2004/04/02/itunes-info-in-sidebar/

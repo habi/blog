@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2017-08-22 20:31:14+00:00
 link: https://habi.gna.ch/2017/08/22/1000e-bilder-fur-osm-bereitstellen-mapillary-mit-gopro-hero-4-session/

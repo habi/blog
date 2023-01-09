@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-11-27 18:45:56+00:00
 link: https://habi.gna.ch/2005/11/27/american-edit/

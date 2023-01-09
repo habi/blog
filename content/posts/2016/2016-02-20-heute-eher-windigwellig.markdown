@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-02-20 12:58:42+00:00
 link: https://habi.gna.ch/2016/02/20/heute-eher-windigwellig/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-05-31 17:33:57+00:00
 link: https://habi.gna.ch/2004/05/31/yeehaw-picture-of-the-week/

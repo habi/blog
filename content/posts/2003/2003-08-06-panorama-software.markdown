@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-08-06 11:12:28+00:00
 link: https://habi.gna.ch/2003/08/06/panorama-software/

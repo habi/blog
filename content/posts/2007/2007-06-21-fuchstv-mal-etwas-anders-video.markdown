@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-06-21 17:02:38+00:00
 link: https://habi.gna.ch/2007/06/21/fuchstv-mal-etwas-anders-video/

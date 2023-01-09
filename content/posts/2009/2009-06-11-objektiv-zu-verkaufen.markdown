@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-06-11 16:26:19+00:00
 link: https://habi.gna.ch/2009/06/11/objektiv-zu-verkaufen/

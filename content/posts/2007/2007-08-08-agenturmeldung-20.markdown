@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-08-08 12:10:45+00:00
 link: https://habi.gna.ch/2007/08/08/agenturmeldung-20/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-10-26 22:32:33+00:00
 link: https://habi.gna.ch/2003/10/27/ego-googling/

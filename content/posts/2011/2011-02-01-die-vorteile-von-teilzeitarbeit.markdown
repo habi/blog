@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-02-01 09:44:27+00:00
 link: https://habi.gna.ch/2011/02/01/die-vorteile-von-teilzeitarbeit/

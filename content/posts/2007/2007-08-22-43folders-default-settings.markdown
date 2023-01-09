@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-08-22 20:46:40+00:00
 link: https://habi.gna.ch/2007/08/22/43folders-default-settings/

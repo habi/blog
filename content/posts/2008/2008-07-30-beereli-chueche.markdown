@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-07-30 18:17:10+00:00
 link: https://habi.gna.ch/2008/07/30/beereli-chueche/

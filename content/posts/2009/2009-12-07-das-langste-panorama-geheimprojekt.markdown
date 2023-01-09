@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-12-07 22:01:55+00:00
 link: https://habi.gna.ch/2009/12/08/das-langste-panorama-geheimprojekt/

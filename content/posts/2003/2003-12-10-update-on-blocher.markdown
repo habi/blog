@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-12-10 14:25:33+00:00
 link: https://habi.gna.ch/2003/12/10/update-on-blocher/

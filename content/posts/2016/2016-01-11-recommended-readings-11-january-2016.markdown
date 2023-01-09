@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-01-11 21:33:18+00:00
 link: https://habi.gna.ch/2016/01/11/recommended-readings-11-january-2016/

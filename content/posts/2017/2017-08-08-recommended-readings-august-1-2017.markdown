@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2017-08-08 18:08:07+00:00
 link: https://habi.gna.ch/2017/08/08/recommended-readings-august-1-2017/

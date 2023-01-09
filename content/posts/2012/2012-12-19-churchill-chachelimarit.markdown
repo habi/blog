@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-12-19 19:43:08+00:00
 link: https://habi.gna.ch/2012/12/19/churchill-chachelimarit/

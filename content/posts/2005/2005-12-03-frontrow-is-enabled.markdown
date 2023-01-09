@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-12-03 20:04:51+00:00
 link: https://habi.gna.ch/2005/12/03/frontrow-is-enabled/

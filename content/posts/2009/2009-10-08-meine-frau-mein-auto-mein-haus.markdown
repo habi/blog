@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-10-08 18:59:00+00:00
 link: https://habi.gna.ch/2009/10/08/meine-frau-mein-auto-mein-haus/

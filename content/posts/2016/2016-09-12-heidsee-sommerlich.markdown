@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-09-12 14:19:27+00:00
 link: https://habi.gna.ch/2016/09/12/heidsee-sommerlich/

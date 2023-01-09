@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-04-23 18:31:06+00:00
 link: https://habi.gna.ch/2011/04/23/schlafen-im-stroh-neben-lamborghini-2/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-07-25 15:28:14+00:00
 link: https://habi.gna.ch/2003/07/25/some-other-blogs-near-my-epicentre/

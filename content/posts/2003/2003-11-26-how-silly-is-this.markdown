@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-11-26 13:47:06+00:00
 link: https://habi.gna.ch/2003/11/26/how-silly-is-this/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-07-18 13:21:12+00:00
 link: https://habi.gna.ch/2013/07/18/die-sterne-uber-dem-konkordiaplatz/

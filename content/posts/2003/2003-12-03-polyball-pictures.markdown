@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-12-03 16:03:32+00:00
 link: https://habi.gna.ch/2003/12/03/polyball-pictures/

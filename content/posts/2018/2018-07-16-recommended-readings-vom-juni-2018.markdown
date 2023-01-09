@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-07-16 18:51:56+00:00
 link: https://habi.gna.ch/2018/07/16/recommended-readings-vom-juni-2018/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-01-03 18:17:05+00:00
 link: https://habi.gna.ch/2010/01/03/as-guets-nois/

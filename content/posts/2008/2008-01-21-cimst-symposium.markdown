@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-01-21 23:22:43+00:00
 link: https://habi.gna.ch/2008/01/22/cimst-symposium/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-03-03 07:42:33+00:00
 link: https://habi.gna.ch/2007/03/03/update-your-wordpresses/

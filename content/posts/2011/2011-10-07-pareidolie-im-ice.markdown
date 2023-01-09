@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-10-07 05:37:52+00:00
 link: https://habi.gna.ch/2011/10/07/pareidolie-im-ice/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-30 16:20:09+00:00
 link: https://habi.gna.ch/2005/10/30/picture-of-the-week-43/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-02-28 22:49:51+00:00
 link: https://habi.gna.ch/2007/02/28/mixed-tape-16-is-online/

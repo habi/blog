@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-11-05 07:33:28+00:00
 link: https://habi.gna.ch/2013/11/05/zmorge-am-see/

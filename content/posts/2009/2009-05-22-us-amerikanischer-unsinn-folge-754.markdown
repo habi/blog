@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-05-22 17:18:09+00:00
 link: https://habi.gna.ch/2009/05/22/us-amerikanischer-unsinn-folge-754/

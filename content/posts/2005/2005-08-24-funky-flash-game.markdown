@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-08-24 20:23:31+00:00
 link: https://habi.gna.ch/2005/08/24/funky-flash-game/

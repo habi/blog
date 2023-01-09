@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-05-01 17:22:03+00:00
 link: https://habi.gna.ch/2006/05/01/picture-of-the-week-17/

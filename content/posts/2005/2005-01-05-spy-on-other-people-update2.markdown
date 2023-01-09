@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-01-05 17:51:06+00:00
 link: https://habi.gna.ch/2005/01/05/spy-on-other-people-update2/

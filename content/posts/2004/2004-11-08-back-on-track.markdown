@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-11-08 19:51:57+00:00
 link: https://habi.gna.ch/2004/11/08/back-on-track/

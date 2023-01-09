@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-12-04 13:55:58+00:00
 link: https://habi.gna.ch/2004/12/04/offlineholidays/

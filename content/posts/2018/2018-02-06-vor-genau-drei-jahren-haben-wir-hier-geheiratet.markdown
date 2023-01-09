@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-02-06 14:48:14+00:00
 link: https://habi.gna.ch/2018/02/06/vor-genau-drei-jahren-haben-wir-hier-geheiratet/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-07-12 22:19:17+00:00
 link: https://habi.gna.ch/2006/07/13/hallo-mami/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-12-07 20:49:47+00:00
 link: https://habi.gna.ch/2006/12/07/something-for-the-next-blgmdybrn/

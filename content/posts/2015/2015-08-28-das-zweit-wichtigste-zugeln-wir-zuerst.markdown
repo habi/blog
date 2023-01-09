@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-08-28 18:20:09+00:00
 link: https://habi.gna.ch/2015/08/28/das-zweit-wichtigste-zugeln-wir-zuerst/

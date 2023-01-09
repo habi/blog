@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-07-04 20:49:51+00:00
 link: https://habi.gna.ch/2005/07/04/apple-doesnt-want-to-sell-me-stuff/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-06-29 10:32:23+00:00
 link: https://habi.gna.ch/2005/06/29/my-phonebill-puzzles-me-update/

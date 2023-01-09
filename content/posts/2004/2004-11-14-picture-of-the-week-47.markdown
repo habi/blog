@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-11-14 20:56:26+00:00
 link: https://habi.gna.ch/2004/11/14/picture-of-the-week-47/

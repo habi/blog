@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-05-27 16:24:58+00:00
 link: https://habi.gna.ch/2011/05/27/skitag-auf-der-bettmeralp/

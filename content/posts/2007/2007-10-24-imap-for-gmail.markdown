@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-10-24 07:34:58+00:00
 link: https://habi.gna.ch/2007/10/24/imap-for-gmail/

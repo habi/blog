@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-12-07 15:07:44+00:00
 link: https://habi.gna.ch/2005/12/07/q-unit-in-da-house/

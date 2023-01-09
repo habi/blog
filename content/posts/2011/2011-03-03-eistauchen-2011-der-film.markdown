@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-03-03 18:53:45+00:00
 link: https://habi.gna.ch/2011/03/03/eistauchen-2011-der-film/

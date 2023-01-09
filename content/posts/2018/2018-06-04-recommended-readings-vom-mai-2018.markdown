@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-06-04 19:22:02+00:00
 link: https://habi.gna.ch/2018/06/04/recommended-readings-vom-mai-2018/

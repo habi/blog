@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-10-14 22:34:13+00:00
 link: https://habi.gna.ch/2010/10/15/bcher-zu-verschenken-bookcrossing/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-12-22 13:33:45+00:00
 link: https://habi.gna.ch/2005/12/22/the-war-of-the-worlds-as-comic/

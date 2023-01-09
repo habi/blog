@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-31 13:32:23+00:00
 link: https://habi.gna.ch/2004/01/31/boah-this-is-what-i-call-spamming/

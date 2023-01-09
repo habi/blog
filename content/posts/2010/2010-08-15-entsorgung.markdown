@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-08-15 14:32:10+00:00
 link: https://habi.gna.ch/2010/08/15/entsorgung/

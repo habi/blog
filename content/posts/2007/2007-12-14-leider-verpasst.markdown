@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-12-14 15:11:08+00:00
 link: https://habi.gna.ch/2007/12/14/leider-verpasst/

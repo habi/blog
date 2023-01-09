@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-03-19 21:00:36+00:00
 link: https://habi.gna.ch/2006/03/19/picture-of-the-week-11-update/

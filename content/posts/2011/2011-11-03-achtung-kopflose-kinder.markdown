@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-11-03 16:23:32+00:00
 link: https://habi.gna.ch/2011/11/03/achtung-kopflose-kinder/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-03-27 13:22:54+00:00
 link: https://habi.gna.ch/2006/03/27/nominations-of-sbaw-06-are-open-update/

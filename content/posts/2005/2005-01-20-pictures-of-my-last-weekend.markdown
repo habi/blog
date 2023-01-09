@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-01-20 20:18:26+00:00
 link: https://habi.gna.ch/2005/01/20/pictures-of-my-last-weekend/

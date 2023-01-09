@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-11-16 17:16:04+00:00
 link: https://habi.gna.ch/2007/11/16/tastentest-ii/

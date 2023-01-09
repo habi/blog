@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-26 10:23:29+00:00
 link: https://habi.gna.ch/2005/10/26/back-street-boys-rule-or-so/

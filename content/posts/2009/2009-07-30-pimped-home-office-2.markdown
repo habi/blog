@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-07-30 16:51:50+00:00
 link: https://habi.gna.ch/2009/07/30/pimped-home-office-2/

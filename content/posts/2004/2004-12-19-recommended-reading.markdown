@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-12-19 20:15:39+00:00
 link: https://habi.gna.ch/2004/12/19/recommended-reading/

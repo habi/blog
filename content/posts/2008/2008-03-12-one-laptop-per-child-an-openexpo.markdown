@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-03-12 13:33:45+00:00
 link: https://habi.gna.ch/2008/03/12/one-laptop-per-child-an-openexpo/

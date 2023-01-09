@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2017-01-02 21:08:18+00:00
 link: https://habi.gna.ch/2017/01/02/recommended-readings-1-january-2017/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-07-01 19:08:03+00:00
 link: https://habi.gna.ch/2004/07/01/update2-two-links-for-you/

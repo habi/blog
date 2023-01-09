@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-09-16 16:50:49+00:00
 link: https://habi.gna.ch/2004/09/16/nice-to-meet-you/

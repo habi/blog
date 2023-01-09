@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-10-10 22:26:54+00:00
 link: https://habi.gna.ch/2007/10/10/what-kind-of-blogger-are-you/

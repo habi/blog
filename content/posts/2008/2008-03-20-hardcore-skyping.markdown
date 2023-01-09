@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-03-20 21:29:40+00:00
 link: https://habi.gna.ch/2008/03/20/hardcore-skyping/

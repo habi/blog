@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-12-19 16:12:52+00:00
 link: https://habi.gna.ch/2006/12/19/cocomment-b0rked/

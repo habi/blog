@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-10-30 21:22:06+00:00
 link: https://habi.gna.ch/2015/10/30/konsumations-empfehlung-mr-robot/

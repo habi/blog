@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-12-25 13:22:04+00:00
 link: https://habi.gna.ch/2008/12/25/der-nebel-lichtet-sich/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-10-20 12:04:36+00:00
 link: https://habi.gna.ch/2010/10/20/tedxzurich-talks/

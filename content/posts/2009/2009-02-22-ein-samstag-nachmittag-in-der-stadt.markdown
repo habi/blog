@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-02-22 19:06:54+00:00
 link: https://habi.gna.ch/2009/02/22/ein-samstag-nachmittag-in-der-stadt/

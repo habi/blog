@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-10-10 20:14:20+00:00
 link: https://habi.gna.ch/2010/10/10/und-wie-war-dein-tag/

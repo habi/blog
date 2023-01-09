@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-08-09 16:58:52+00:00
 link: https://habi.gna.ch/2005/08/09/new-ipod-is-here/

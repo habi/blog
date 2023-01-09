@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-08-03 15:43:18+00:00
 link: https://habi.gna.ch/2005/08/03/productivity-tips-for-avid-blog-readers/

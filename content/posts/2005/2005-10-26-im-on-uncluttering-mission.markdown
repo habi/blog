@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-10-26 12:25:04+00:00
 link: https://habi.gna.ch/2005/10/26/im-on-uncluttering-mission/

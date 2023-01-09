@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-04-03 08:09:25+00:00
 link: https://habi.gna.ch/2008/04/03/visual-learner/

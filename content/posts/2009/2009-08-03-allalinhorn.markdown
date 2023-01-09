@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-08-03 15:54:38+00:00
 link: https://habi.gna.ch/2009/08/03/allalinhorn/

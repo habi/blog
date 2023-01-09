@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-29 21:58:22+00:00
 link: https://habi.gna.ch/2004/01/29/music-can-be-such-a-turn-on/

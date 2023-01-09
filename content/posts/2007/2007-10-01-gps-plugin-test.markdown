@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-10-01 15:00:52+00:00
 link: https://habi.gna.ch/2007/10/01/gps-plugin-test/

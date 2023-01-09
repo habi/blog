@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-06-21 08:20:52+00:00
 link: https://habi.gna.ch/2014/06/21/planeten-panoramas/

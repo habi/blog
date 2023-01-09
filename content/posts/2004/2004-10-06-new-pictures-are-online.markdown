@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-10-06 21:50:13+00:00
 link: https://habi.gna.ch/2004/10/06/new-pictures-are-online/

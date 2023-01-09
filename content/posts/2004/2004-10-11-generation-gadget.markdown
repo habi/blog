@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-10-11 22:15:17+00:00
 link: https://habi.gna.ch/2004/10/12/generation-gadget/

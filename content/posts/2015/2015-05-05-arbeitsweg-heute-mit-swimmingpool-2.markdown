@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-05-05 17:14:35+00:00
 link: https://habi.gna.ch/2015/05/05/arbeitsweg-heute-mit-swimmingpool-2/

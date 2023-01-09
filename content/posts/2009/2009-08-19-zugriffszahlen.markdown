@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-08-19 09:58:27+00:00
 link: https://habi.gna.ch/2009/08/19/zugriffszahlen/

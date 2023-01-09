@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-12-01 17:34:00+00:00
 link: https://habi.gna.ch/2003/12/01/golden-shoes/

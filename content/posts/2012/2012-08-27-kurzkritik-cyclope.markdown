@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-08-27 18:26:17+00:00
 link: https://habi.gna.ch/2012/08/27/kurzkritik-cyclope/

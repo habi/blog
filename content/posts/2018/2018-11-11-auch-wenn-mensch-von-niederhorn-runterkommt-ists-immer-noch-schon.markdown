@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-11-11 22:15:36+00:00
 link: https://habi.gna.ch/2018/11/11/auch-wenn-mensch-von-niederhorn-runterkommt-ists-immer-noch-schon/

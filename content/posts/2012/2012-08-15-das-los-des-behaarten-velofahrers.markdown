@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-08-15 16:15:36+00:00
 link: https://habi.gna.ch/2012/08/15/das-los-des-behaarten-velofahrers/

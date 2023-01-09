@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2017-03-10 09:17:20+00:00
 link: https://habi.gna.ch/2017/03/10/alpensicht-aus-der-ferienwohnung/

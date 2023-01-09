@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-12-14 20:54:17+00:00
 link: https://habi.gna.ch/2007/12/14/neuer-ghuder-kalender-fur-bern-b1/

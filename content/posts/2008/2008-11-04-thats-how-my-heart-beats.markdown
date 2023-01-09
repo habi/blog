@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-11-04 21:55:56+00:00
 link: https://habi.gna.ch/2008/11/04/thats-how-my-heart-beats/

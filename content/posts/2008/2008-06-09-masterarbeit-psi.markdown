@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-06-09 21:38:40+00:00
 link: https://habi.gna.ch/2008/06/09/masterarbeit-psi/

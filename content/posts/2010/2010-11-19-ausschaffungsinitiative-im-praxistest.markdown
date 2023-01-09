@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-11-19 08:21:28+00:00
 link: https://habi.gna.ch/2010/11/19/ausschaffungsinitiative-im-praxistest/

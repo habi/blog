@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-04-19 18:48:50+00:00
 link: https://habi.gna.ch/2007/04/19/pedro-lenz/

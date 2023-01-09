@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-11-30 13:22:22+00:00
 link: https://habi.gna.ch/2013/11/30/schon-ischs-ds-horu/

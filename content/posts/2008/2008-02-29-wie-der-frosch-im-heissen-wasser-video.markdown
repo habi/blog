@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-02-29 16:17:11+00:00
 link: https://habi.gna.ch/2008/02/29/wie-der-frosch-im-heissen-wasser-video/

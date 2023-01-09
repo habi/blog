@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-01-21 18:04:05+00:00
 link: https://habi.gna.ch/2008/01/21/leu-als-dienstaltester-blogger-der-schweiz/

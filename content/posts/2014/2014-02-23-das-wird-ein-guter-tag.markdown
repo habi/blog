@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-02-23 08:17:16+00:00
 link: https://habi.gna.ch/2014/02/23/das-wird-ein-guter-tag/

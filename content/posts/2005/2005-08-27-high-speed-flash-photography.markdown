@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-08-27 14:57:01+00:00
 link: https://habi.gna.ch/2005/08/27/high-speed-flash-photography/

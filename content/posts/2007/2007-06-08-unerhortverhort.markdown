@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-06-08 21:21:37+00:00
 link: https://habi.gna.ch/2007/06/08/unerhortverhort/

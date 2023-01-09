@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-08-29 15:51:29+00:00
 link: https://habi.gna.ch/2008/08/29/uberraschung/

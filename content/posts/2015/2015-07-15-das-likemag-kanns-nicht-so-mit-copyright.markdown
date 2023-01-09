@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-07-15 15:08:16+00:00
 link: https://habi.gna.ch/2015/07/15/das-likemag-kanns-nicht-so-mit-copyright/

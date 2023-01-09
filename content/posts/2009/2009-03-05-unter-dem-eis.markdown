@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-03-05 22:55:58+00:00
 link: https://habi.gna.ch/2009/03/05/unter-dem-eis/

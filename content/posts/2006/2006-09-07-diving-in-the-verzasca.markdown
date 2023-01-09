@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-09-07 19:26:28+00:00
 link: https://habi.gna.ch/2006/09/07/diving-in-the-verzasca/

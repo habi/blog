@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-12-22 20:50:11+00:00
 link: https://habi.gna.ch/2005/12/22/santas-on-bikes-2/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-01-20 19:54:11+00:00
 link: https://habi.gna.ch/2012/01/20/zebras-rocken/

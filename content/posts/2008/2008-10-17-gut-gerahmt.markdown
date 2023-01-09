@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-10-17 06:00:28+00:00
 link: https://habi.gna.ch/2008/10/17/gut-gerahmt/

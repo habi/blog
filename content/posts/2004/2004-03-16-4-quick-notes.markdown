@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-03-16 20:12:50+00:00
 link: https://habi.gna.ch/2004/03/16/4-quick-notes/

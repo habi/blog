@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-08-20 13:35:16+00:00
 link: https://habi.gna.ch/2009/08/20/tschou-zame/

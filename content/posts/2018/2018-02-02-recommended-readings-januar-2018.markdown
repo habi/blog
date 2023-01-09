@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-02-02 11:29:23+00:00
 link: https://habi.gna.ch/2018/02/02/recommended-readings-januar-2018/

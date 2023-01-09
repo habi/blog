@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2013-04-13 10:50:09+00:00
 link: https://habi.gna.ch/2013/04/13/ich-mags-wenn-animatoren-drogen-nehmen/

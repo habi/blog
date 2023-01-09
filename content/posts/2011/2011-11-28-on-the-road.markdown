@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-11-28 20:22:19+00:00
 link: https://habi.gna.ch/2011/11/28/on-the-road/

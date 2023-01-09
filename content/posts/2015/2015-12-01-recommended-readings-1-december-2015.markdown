@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2015-12-01 20:21:38+00:00
 link: https://habi.gna.ch/2015/12/01/recommended-readings-1-december-2015/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-04-16 19:05:56+00:00
 link: https://habi.gna.ch/2014/04/16/zu-nachtschlafender-zyt/

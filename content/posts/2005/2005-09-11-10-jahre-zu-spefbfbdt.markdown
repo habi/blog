@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-09-11 10:45:16+00:00
 link: https://habi.gna.ch/2005/09/11/10-jahre-zu-sp%ef%bf%bdt/

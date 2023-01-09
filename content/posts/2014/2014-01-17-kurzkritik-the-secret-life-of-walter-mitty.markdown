@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-01-17 22:38:42+00:00
 link: https://habi.gna.ch/2014/01/17/kurzkritik-the-secret-life-of-walter-mitty/

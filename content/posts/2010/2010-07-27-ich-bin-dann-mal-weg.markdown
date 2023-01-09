@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-07-27 15:00:08+00:00
 link: https://habi.gna.ch/2010/07/27/ich-bin-dann-mal-weg/

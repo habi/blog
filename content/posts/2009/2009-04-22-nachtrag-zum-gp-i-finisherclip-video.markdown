@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-04-22 09:37:10+00:00
 link: https://habi.gna.ch/2009/04/22/nachtrag-zum-gp-i-finisherclip-video/

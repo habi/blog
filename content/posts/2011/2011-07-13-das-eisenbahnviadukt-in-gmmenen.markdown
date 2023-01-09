@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-07-13 21:40:37+00:00
 link: https://habi.gna.ch/2011/07/13/das-eisenbahnviadukt-in-gmmenen/

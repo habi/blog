@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-05-29 22:19:55+00:00
 link: https://habi.gna.ch/2005/05/30/picture-of-the-week-21/

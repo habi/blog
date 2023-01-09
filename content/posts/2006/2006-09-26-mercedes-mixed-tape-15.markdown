@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-09-26 20:13:31+00:00
 link: https://habi.gna.ch/2006/09/26/mercedes-mixed-tape-15/

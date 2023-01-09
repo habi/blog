@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-08-21 14:15:48+00:00
 link: https://habi.gna.ch/2003/08/21/are-flash-mobs-still-cool/

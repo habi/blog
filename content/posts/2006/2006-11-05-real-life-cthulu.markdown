@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2006-11-05 16:00:12+00:00
 link: https://habi.gna.ch/2006/11/05/real-life-cthulu/

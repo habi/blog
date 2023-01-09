@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-10-21 20:49:01+00:00
 link: https://habi.gna.ch/2010/10/21/tedxzurich-rckblick-quasi-liveblogging/

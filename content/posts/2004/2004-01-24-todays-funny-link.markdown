@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-01-24 16:04:29+00:00
 link: https://habi.gna.ch/2004/01/24/todays-funny-link/

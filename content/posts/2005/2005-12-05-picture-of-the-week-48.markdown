@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-12-05 21:02:37+00:00
 link: https://habi.gna.ch/2005/12/05/picture-of-the-week-48/

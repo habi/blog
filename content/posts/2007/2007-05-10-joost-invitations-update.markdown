@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: false
 date: 2007-05-10 16:03:04+00:00
 link: https://habi.gna.ch/2007/05/10/joost-invitations-update/

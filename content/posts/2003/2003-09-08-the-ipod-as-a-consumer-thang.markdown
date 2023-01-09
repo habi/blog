@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2003-09-08 14:32:56+00:00
 link: https://habi.gna.ch/2003/09/08/the-ipod-as-a-consumer-thang/

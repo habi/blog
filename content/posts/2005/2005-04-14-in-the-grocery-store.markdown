@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-04-14 18:12:55+00:00
 link: https://habi.gna.ch/2005/04/14/in-the-grocery-store/

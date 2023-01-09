@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-02-24 12:01:02+00:00
 link: https://habi.gna.ch/2008/02/24/nicht-nur-gefulte-30-grad/

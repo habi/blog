@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2008-02-01 16:01:07+00:00
 link: https://habi.gna.ch/2008/02/01/eigenlob-stinkt/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-02-20 17:59:39+00:00
 link: https://habi.gna.ch/2004/02/20/commenter-and-comment-time-in-the-sidebar/

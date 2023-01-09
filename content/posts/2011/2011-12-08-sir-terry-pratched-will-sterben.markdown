@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2011-12-08 19:04:45+00:00
 link: https://habi.gna.ch/2011/12/08/sir-terry-pratched-will-sterben/

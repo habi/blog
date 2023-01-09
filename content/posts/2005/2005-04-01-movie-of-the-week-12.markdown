@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-04-01 18:08:15+00:00
 link: https://habi.gna.ch/2005/04/01/movie-of-the-week-12/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2016-11-25 22:47:14+00:00
 link: https://habi.gna.ch/2016/11/25/einfache-probleme-vollig-over-engineered/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-10-08 19:28:20+00:00
 link: https://habi.gna.ch/2009/10/08/blogparade-dieses-bild-variante-a/

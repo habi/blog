@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2004-12-27 20:55:40+00:00
 link: https://habi.gna.ch/2004/12/27/a-little-challenge-for-you-2nd-update/

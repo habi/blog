@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-05-08 16:33:01+00:00
 link: https://habi.gna.ch/2007/05/08/leider-nicht-fur-mich/

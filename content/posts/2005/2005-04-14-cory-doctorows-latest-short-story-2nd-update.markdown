@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-04-14 22:00:01+00:00
 link: https://habi.gna.ch/2005/04/15/cory-doctorows-latest-short-story-2nd-update/

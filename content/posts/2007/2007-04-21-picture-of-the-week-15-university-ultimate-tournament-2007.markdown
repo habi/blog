@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-04-21 15:49:11+00:00
 link: https://habi.gna.ch/2007/04/21/picture-of-the-week-15-university-ultimate-tournament-2007/

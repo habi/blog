@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-03-29 12:00:59+00:00
 link: https://habi.gna.ch/2009/03/29/unveiling-the-sixth-sense/

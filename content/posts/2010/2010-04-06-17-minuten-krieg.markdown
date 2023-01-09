@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2010-04-06 22:07:30+00:00
 link: https://habi.gna.ch/2010/04/07/17-minuten-krieg/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2014-12-07 10:26:07+00:00
 link: https://habi.gna.ch/2014/12/07/mal-schauen-wies-unter-wasser-ist/

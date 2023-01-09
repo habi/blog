@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2018-02-02 11:48:45+00:00
 link: https://habi.gna.ch/2018/02/02/2017-auf-der-strasse-oder-im-wald/

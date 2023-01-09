@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2012-08-06 21:52:10+00:00
 link: https://habi.gna.ch/2012/08/06/kurzkritik-the-dark-knight-rises/

@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2009-04-10 18:03:55+00:00
 link: https://habi.gna.ch/2009/04/10/der-wohl-letzte-skitag-der-with-map/

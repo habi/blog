@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2007-09-24 22:37:31+00:00
 link: https://habi.gna.ch/2007/09/24/picture-of-the-week-38-lakejump-suicmc07/

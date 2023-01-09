@@ -1,5 +1,4 @@
 ---
-author: admin
 comments: true
 date: 2005-07-18 22:17:31+00:00
 link: https://habi.gna.ch/2005/07/19/famous-detective/
