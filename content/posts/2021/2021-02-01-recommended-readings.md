@@ -1,5 +1,4 @@
 ---
-author: habi
 title: "Recommended Readings vom Januar 2021"
 slug: 
 date: 2021-02-04T21:12:59+01:00

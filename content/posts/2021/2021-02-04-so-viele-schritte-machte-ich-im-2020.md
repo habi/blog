@@ -1,5 +1,4 @@
 ---
-author: habi
 title: "Im 2020 habe ich 3 Millionen Schritte gemacht"
 slug: 
 date: 2021-02-04T21:54:03+01:00

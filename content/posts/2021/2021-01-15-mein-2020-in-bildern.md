@@ -1,5 +1,4 @@
 ---
-author: habi
 title: "Mein 2020 in Bildern"
 slug: 
 date: 2021-01-18T21:36:36+01:00

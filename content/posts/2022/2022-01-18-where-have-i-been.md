@@ -1,5 +1,4 @@
 ---
-author: habi
 title: "Wo war ich im 2021?"
 date: 2022-01-18T20:56:47+01:00
 categories:

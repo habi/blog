@@ -1,5 +1,4 @@
 ---
-author: habi
 title: "Kurzkritik: Memoria"
 slug: kurzkritik-memoria
 date: 2022-02-11T23:43:03+01:00

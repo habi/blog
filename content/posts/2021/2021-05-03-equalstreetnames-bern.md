@@ -1,5 +1,4 @@
 ---
-author: habi
 title: EqualStreetNames Bern. Oder die Geschlechterverteilung der Strassennamen in
   meiner Heimatstadt.
 slug: equalstreetnames-bern

@@ -1,5 +1,4 @@
 ---
-author: habi
 title: "Recommended Readings vom Januar 2019"
 slug: recommended-readings-januar-2019
 date: 2019-02-01T21:19:05+01:00

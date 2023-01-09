@@ -1,5 +1,4 @@
 ---
-author: habi
 title: "Im 2021 habe ich 4 Millionen Schritte gemacht"
 slug: 2021-4-millionen-schritte
 date: 2022-01-18T21:53:03+01:00
