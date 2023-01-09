@@ -9,7 +9,7 @@ categories:
 - personal
 ---
 
-[![SwissFEL-Baustelle by habi](https://static.flickr.com/5499/9564352230_c5660b8ca8.jpg)](https://www.flickr.com/photos/habi/9564352230/)  
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/habi/9564352230/" title="SwissFEL-Baustelle"><img src="https://live.staticflickr.com/5499/9564352230_8cfea1e9c4_k.jpg" width="2024" height="392" alt="SwissFEL-Baustelle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 [SwissFEL-Baustelle](https://www.flickr.com/photos/habi/9564352230/), a photo by [habi](https://www.flickr.com/photos/habi/) on Flickr.
 
