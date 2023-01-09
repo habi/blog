@@ -1,12 +1,11 @@
 ---
-comments: false
 date: 2003-08-11 13:59:22+00:00
 link: https://habi.gna.ch/2003/08/11/this-entry-can-be-omitted/
 slug: this-entry-can-be-omitted
 title: this entry can be omitted...
 wordpress_id: 258
 categories:
-- none
+- work
 ---
 
 ...if you haven't been at the lerbermatt-gymer :-) (probably all my blog-readers exept [B.](http://www.bernhardseefeld.ch/), [Miklos](http://www.kozary.com/mt/) and [Arni](http://www.arnoldseefeld.com/blog/))
@@ -22,6 +21,7 @@ nikkelti
 sirup ...
 willi a
 hc-senn
+
 aaaaah, those were the days...
 
-for those of you which have no idea what i'm talking abuut: i'm a substitute teacher at the high-school where i went to school 7 years ago, and most of the teachers that i had lessos with are still there, which amounts to a serious funkyness...
+for those of you which have no idea what i'm talking abuut: i'm a substitute teacher at the high-school where i went to school 7 years ago, and most of the teachers that i had lessons with are still there, which amounts to a serious funkyness...

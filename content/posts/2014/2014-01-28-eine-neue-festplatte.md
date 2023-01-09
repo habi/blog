@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2014-01-28 19:00:39+00:00
 link: https://habi.gna.ch/2014/01/28/eine-neue-festplatte/
 slug: eine-neue-festplatte
