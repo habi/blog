@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2016-04-09 13:58:35+00:00
 link: https://habi.gna.ch/2016/04/09/saisonabschluss-par-excellence/
 slug: saisonabschluss-par-excellence

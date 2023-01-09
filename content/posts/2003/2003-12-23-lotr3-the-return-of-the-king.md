@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-12-23 13:47:42+00:00
 link: https://habi.gna.ch/2003/12/23/lotr3-the-return-of-the-king/
 slug: lotr3-the-return-of-the-king

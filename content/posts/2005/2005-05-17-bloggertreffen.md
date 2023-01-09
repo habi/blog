@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-05-17 21:25:17+00:00
 link: https://habi.gna.ch/2005/05/17/bloggertreffen/
 slug: bloggertreffen

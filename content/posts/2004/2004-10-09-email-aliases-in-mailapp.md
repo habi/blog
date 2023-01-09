@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-09 14:40:33+00:00
 link: https://habi.gna.ch/2004/10/09/email-aliases-in-mailapp/
 slug: email-aliases-in-mailapp

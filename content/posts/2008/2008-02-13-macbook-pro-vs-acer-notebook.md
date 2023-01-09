@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-02-13 21:15:39+00:00
 link: https://habi.gna.ch/2008/02/13/macbook-pro-vs-acer-notebook/
 slug: macbook-pro-vs-acer-notebook

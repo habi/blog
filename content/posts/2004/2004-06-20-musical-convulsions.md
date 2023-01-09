@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-06-20 22:24:37+00:00
 link: https://habi.gna.ch/2004/06/21/musical-convulsions/
 slug: musical-convulsions

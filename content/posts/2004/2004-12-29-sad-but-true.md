@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-12-29 16:52:16+00:00
 link: https://habi.gna.ch/2004/12/29/sad-but-true/
 slug: sad-but-true

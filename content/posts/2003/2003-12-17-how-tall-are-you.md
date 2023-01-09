@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-12-17 21:24:15+00:00
 link: https://habi.gna.ch/2003/12/17/how-tall-are-you/
 slug: how-tall-are-you

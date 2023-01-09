@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-03-05 19:51:50+00:00
 link: https://habi.gna.ch/2004/03/05/the-ghostrider/
 slug: the-ghostrider

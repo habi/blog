@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-24 18:55:07+00:00
 link: https://habi.gna.ch/2004/10/24/panorama-gurnigel/
 slug: panorama-gurnigel

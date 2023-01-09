@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-06-11 15:17:07+00:00
 link: https://habi.gna.ch/2006/06/11/neuer-lenker-immer-noch-ohne-freilauf/
 slug: neuer-lenker-immer-noch-ohne-freilauf

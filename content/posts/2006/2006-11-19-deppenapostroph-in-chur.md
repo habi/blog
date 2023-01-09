@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-11-19 17:08:34+00:00
 link: https://habi.gna.ch/2006/11/19/deppenapostroph-in-chur/
 slug: deppenapostroph-in-chur

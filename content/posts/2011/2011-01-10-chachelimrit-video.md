@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-01-10 19:21:11+00:00
 link: https://habi.gna.ch/2011/01/10/chachelimrit-video/
 slug: chachelimrit-video

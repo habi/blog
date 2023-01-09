@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-01-21 16:45:07+00:00
 link: https://habi.gna.ch/2008/01/21/dienstaltester-blogger-echt/
 slug: dienstaltester-blogger-echt

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-10-13 09:36:31+00:00
 link: https://habi.gna.ch/2003/10/13/good-and-bad-news/
 slug: good-and-bad-news

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-03-09 16:22:14+00:00
 link: https://habi.gna.ch/2013/03/09/da-wos-schnee-het/
 slug: da-wos-schnee-het

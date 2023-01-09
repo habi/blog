@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-04-25 18:37:55+00:00
 link: https://habi.gna.ch/2004/04/25/new-pictures-are-online/
 slug: new-pictures-are-online

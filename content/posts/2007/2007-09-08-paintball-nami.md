@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-09-08 16:27:52+00:00
 link: https://habi.gna.ch/2007/09/08/paintball-nami/
 slug: paintball-nami

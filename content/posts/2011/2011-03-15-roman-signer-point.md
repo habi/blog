@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-03-15 13:54:39+00:00
 link: https://habi.gna.ch/2011/03/15/roman-signer-point/
 slug: roman-signer-point

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-02-28 15:11:26+00:00
 link: https://habi.gna.ch/2009/02/28/ein-wundertag/
 slug: ein-wundertag

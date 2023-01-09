@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-11-22 16:33:23+00:00
 link: https://habi.gna.ch/2003/11/22/small-update/
 slug: small-update

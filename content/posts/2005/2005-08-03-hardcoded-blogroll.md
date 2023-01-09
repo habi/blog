@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-08-03 17:26:24+00:00
 link: https://habi.gna.ch/2005/08/03/hardcoded-blogroll/
 slug: hardcoded-blogroll

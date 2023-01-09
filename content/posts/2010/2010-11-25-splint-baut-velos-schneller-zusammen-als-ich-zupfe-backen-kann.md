@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-11-25 15:30:23+00:00
 link: https://habi.gna.ch/2010/11/25/splint-baut-velos-schneller-zusammen-als-ich-zupfe-backen-kann/
 slug: splint-baut-velos-schneller-zusammen-als-ich-zupfe-backen-kann

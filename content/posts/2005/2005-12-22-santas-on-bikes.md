@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-12-22 20:49:57+00:00
 link: https://habi.gna.ch/2005/12/22/santas-on-bikes/
 slug: santas-on-bikes

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-09-13 22:58:30+00:00
 link: https://habi.gna.ch/2008/09/13/gadgets-rein-gadgets-raus/
 slug: gadgets-rein-gadgets-raus

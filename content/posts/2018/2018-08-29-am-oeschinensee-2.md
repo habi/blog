@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2018-08-29 11:33:26+00:00
 link: https://habi.gna.ch/2018/08/29/am-oeschinensee-2/
 slug: am-oeschinensee-2

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-05-15 17:02:40+00:00
 link: https://habi.gna.ch/2007/05/15/galerieartspace-milieu/
 slug: galerieartspace-milieu

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-08-17 10:05:01+00:00
 link: https://habi.gna.ch/2005/08/17/the-competition-pool/
 slug: the-competition-pool

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-04-26 19:33:00+00:00
 link: https://habi.gna.ch/2005/04/26/the-tiger-is-coming/
 slug: the-tiger-is-coming

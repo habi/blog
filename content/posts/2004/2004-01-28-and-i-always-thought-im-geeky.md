@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-28 09:45:40+00:00
 link: https://habi.gna.ch/2004/01/28/and-i-always-thought-im-geeky/
 slug: and-i-always-thought-im-geeky

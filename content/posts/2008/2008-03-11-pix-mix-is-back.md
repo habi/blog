@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-03-11 18:32:02+00:00
 link: https://habi.gna.ch/2008/03/11/pix-mix-is-back/
 slug: pix-mix-is-back

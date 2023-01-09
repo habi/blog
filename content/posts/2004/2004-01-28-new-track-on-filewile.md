@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-28 22:00:06+00:00
 link: https://habi.gna.ch/2004/01/29/new-track-on-filewile/
 slug: new-track-on-filewile

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-11-03 14:58:53+00:00
 link: https://habi.gna.ch/2013/11/03/mein-oktober/
 slug: mein-oktober

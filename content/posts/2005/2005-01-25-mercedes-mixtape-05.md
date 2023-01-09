@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-01-25 15:14:32+00:00
 link: https://habi.gna.ch/2005/01/25/mercedes-mixtape-05/
 slug: mercedes-mixtape-05

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-10-08 20:04:31+00:00
 link: https://habi.gna.ch/2003/10/08/cyborgs-take-over-please/
 slug: cyborgs-take-over-please

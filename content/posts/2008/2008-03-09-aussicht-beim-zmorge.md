@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-03-09 07:27:10+00:00
 link: https://habi.gna.ch/2008/03/09/aussicht-beim-zmorge/
 slug: aussicht-beim-zmorge

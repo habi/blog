@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-07-08 20:21:43+00:00
 link: https://habi.gna.ch/2011/07/08/the-big-apple/
 slug: the-big-apple

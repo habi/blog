@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-08-17 19:10:50+00:00
 link: https://habi.gna.ch/2003/08/17/pictures-rankings-and-manifest-from-the-alleycat/
 slug: pictures-rankings-and-manifest-from-the-alleycat

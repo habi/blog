@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-09-24 15:15:17+00:00
 link: https://habi.gna.ch/2010/09/24/reitschule-bietet-mehr/
 slug: reitschule-bietet-mehr

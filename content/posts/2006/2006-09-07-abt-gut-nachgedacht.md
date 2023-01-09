@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-09-07 16:42:41+00:00
 link: https://habi.gna.ch/2006/09/07/abt-gut-nachgedacht/
 slug: abt-gut-nachgedacht

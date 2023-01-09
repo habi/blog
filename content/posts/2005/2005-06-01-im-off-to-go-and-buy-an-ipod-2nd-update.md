@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-06-01 07:24:58+00:00
 link: https://habi.gna.ch/2005/06/01/im-off-to-go-and-buy-an-ipod-2nd-update/
 slug: im-off-to-go-and-buy-an-ipod-2nd-update

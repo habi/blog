@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-10-03 14:27:09+00:00
 link: https://habi.gna.ch/2009/10/03/blausee-juhee/
 slug: blausee-juhee

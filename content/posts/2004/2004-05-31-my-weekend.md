@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-05-31 21:10:59+00:00
 link: https://habi.gna.ch/2004/05/31/my-weekend/
 slug: my-weekend

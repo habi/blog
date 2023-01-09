@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-04-19 17:56:16+00:00
 link: https://habi.gna.ch/2005/04/19/flickr-is-upping-the-ante-giveaway/
 slug: flickr-is-upping-the-ante-giveaway

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-09-26 17:51:35+00:00
 link: https://habi.gna.ch/2007/09/26/gps-status-ok/
 slug: gps-status-ok

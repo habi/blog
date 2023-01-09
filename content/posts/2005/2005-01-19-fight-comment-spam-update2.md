@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-01-19 20:11:31+00:00
 link: https://habi.gna.ch/2005/01/19/fight-comment-spam-update2/
 slug: fight-comment-spam-update2

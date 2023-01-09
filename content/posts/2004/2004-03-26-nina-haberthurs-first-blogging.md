@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-03-26 11:28:52+00:00
 link: https://habi.gna.ch/2004/03/26/nina-haberthurs-first-blogging/
 slug: nina-haberthurs-first-blogging

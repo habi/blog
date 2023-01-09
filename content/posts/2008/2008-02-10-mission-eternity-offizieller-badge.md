@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-02-10 18:30:25+00:00
 link: https://habi.gna.ch/2008/02/10/mission-eternity-offizieller-badge/
 slug: mission-eternity-offizieller-badge

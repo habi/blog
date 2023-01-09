@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-04-17 14:08:50+00:00
 link: https://habi.gna.ch/2005/04/17/this-blog-is-now-gravatar-enabled/
 slug: this-blog-is-now-gravatar-enabled

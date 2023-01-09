@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-03-10 14:36:12+00:00
 link: https://habi.gna.ch/2014/03/10/viel-zu-warm-zum-skifahren/
 slug: viel-zu-warm-zum-skifahren

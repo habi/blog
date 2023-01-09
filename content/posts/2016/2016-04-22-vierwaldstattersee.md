@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2016-04-22 08:47:54+00:00
 link: https://habi.gna.ch/2016/04/22/vierwaldstattersee/
 slug: vierwaldstattersee

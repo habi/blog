@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-06-13 11:57:10+00:00
 link: https://habi.gna.ch/2005/06/13/my-movie-collection/
 slug: my-movie-collection

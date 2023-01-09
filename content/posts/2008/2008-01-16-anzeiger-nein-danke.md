@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-01-16 22:23:40+00:00
 link: https://habi.gna.ch/2008/01/16/anzeiger-nein-danke/
 slug: anzeiger-nein-danke

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-12-23 14:39:14+00:00
 link: https://habi.gna.ch/2003/12/23/see-you-next-year/
 slug: see-you-next-year

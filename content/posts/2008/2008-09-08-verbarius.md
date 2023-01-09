@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-09-08 11:44:51+00:00
 link: https://habi.gna.ch/2008/09/08/verbarius/
 slug: verbarius

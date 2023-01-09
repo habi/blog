@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-12-08 21:52:18+00:00
 link: https://habi.gna.ch/2003/12/08/new-section-on-habignach/
 slug: new-section-on-habignach

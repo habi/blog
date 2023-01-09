@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-10 20:41:02+00:00
 link: https://habi.gna.ch/2004/10/10/picture-of-the-week-42/
 slug: picture-of-the-week-42

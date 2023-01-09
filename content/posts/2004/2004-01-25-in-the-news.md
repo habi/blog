@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-25 21:58:33+00:00
 link: https://habi.gna.ch/2004/01/25/in-the-news/
 slug: in-the-news

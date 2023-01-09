@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-06-09 20:21:29+00:00
 link: https://habi.gna.ch/2004/06/09/turn-your-pc-into-an-os-x-machine/
 slug: turn-your-pc-into-an-os-x-machine

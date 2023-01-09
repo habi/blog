@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-07-07 08:26:26+00:00
 link: https://habi.gna.ch/2010/07/07/meilenstein-erreicht/
 slug: meilenstein-erreicht

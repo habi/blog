@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-07 20:36:29+00:00
 link: https://habi.gna.ch/2013/01/07/abt-nie-richtig-alt-werden/
 slug: abt-nie-richtig-alt-werden

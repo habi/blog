@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-12-31 11:10:46+00:00
 link: https://habi.gna.ch/2005/12/31/the-same-procedure-as-every-year/
 slug: the-same-procedure-as-every-year

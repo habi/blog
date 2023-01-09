@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-03-19 21:50:08+00:00
 link: https://habi.gna.ch/2013/03/19/die-swiss-light-source-im-2012/
 slug: die-swiss-light-source-im-2012

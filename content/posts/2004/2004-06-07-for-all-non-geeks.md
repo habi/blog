@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-06-07 21:13:25+00:00
 link: https://habi.gna.ch/2004/06/07/for-all-non-geeks/
 slug: for-all-non-geeks

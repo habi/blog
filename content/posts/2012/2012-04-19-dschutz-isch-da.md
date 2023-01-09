@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-04-19 21:30:19+00:00
 link: https://habi.gna.ch/2012/04/19/dschutz-isch-da/
 slug: dschutz-isch-da

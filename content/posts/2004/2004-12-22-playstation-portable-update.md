@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-12-22 18:29:53+00:00
 link: https://habi.gna.ch/2004/12/22/playstation-portable-update/
 slug: playstation-portable-update

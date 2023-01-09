@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-04-12 18:01:52+00:00
 link: https://habi.gna.ch/2006/04/12/starwars-uber-oldschool-version/
 slug: starwars-uber-oldschool-version

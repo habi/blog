@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-05-16 21:54:35+00:00
 link: https://habi.gna.ch/2004/05/16/picture-of-the-week/
 slug: picture-of-the-week

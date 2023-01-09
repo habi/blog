@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-06-09 22:42:17+00:00
 link: https://habi.gna.ch/2007/06/09/morgens-um-2-irgendwo-zwischen-gempenach-und-frauenkappelen-update/
 slug: morgens-um-2-irgendwo-zwischen-gempenach-und-frauenkappelen-update

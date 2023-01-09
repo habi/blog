@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-11-04 15:57:33+00:00
 link: https://habi.gna.ch/2009/11/04/google-wave-invites-zu-vergeben/
 slug: google-wave-invites-zu-vergeben

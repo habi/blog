@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-09-01 21:42:13+00:00
 link: https://habi.gna.ch/2017/09/01/recommended-readings-august-2017/
 slug: recommended-readings-august-2017

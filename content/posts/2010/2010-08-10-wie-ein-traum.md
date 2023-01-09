@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-08-10 20:57:17+00:00
 link: https://habi.gna.ch/2010/08/10/wie-ein-traum/
 slug: wie-ein-traum

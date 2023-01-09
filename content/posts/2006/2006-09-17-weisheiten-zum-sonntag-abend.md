@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-09-17 21:33:12+00:00
 link: https://habi.gna.ch/2006/09/17/weisheiten-zum-sonntag-abend/
 slug: weisheiten-zum-sonntag-abend

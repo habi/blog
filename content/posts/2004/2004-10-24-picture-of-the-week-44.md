@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-24 18:57:10+00:00
 link: https://habi.gna.ch/2004/10/24/picture-of-the-week-44/
 slug: picture-of-the-week-44

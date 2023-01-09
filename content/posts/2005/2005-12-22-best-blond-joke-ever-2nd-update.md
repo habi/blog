@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-12-22 22:08:34+00:00
 link: https://habi.gna.ch/2005/12/23/best-blond-joke-ever-2nd-update/
 slug: best-blond-joke-ever-2nd-update

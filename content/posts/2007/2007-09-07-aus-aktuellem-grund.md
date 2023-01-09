@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-09-07 22:29:21+00:00
 link: https://habi.gna.ch/2007/09/07/aus-aktuellem-grund/
 slug: aus-aktuellem-grund

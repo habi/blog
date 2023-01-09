@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-08-22 19:45:45+00:00
 link: https://habi.gna.ch/2017/08/22/mit-dem-sup-die-aare-runter/
 slug: mit-dem-sup-die-aare-runter

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-08 22:33:02+00:00
 link: https://habi.gna.ch/2004/01/09/the-new-ipod-mini/
 slug: the-new-ipod-mini

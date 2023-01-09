@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-10-13 21:43:01+00:00
 link: https://habi.gna.ch/2012/10/13/der-niesen/
 slug: der-niesen

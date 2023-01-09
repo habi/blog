@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-11-29 17:17:34+00:00
 link: https://habi.gna.ch/2008/11/29/diplomubergabe/
 slug: diplomubergabe

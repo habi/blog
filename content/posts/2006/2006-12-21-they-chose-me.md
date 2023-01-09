@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-12-21 16:49:01+00:00
 link: https://habi.gna.ch/2006/12/21/they-chose-me/
 slug: they-chose-me

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-04-21 15:57:13+00:00
 link: https://habi.gna.ch/2004/04/21/amazing-gizmo/
 slug: amazing-gizmo

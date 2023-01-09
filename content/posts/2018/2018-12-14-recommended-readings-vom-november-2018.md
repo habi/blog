@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2018-12-14 21:24:12+00:00
 link: https://habi.gna.ch/2018/12/14/recommended-readings-vom-november-2018/
 slug: recommended-readings-vom-november-2018

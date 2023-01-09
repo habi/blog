@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-07-14 18:30:24+00:00
 link: https://habi.gna.ch/2007/07/14/dan-practising-2/
 slug: dan-practising-2

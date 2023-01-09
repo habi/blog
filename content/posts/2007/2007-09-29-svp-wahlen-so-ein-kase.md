@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-09-29 12:51:31+00:00
 link: https://habi.gna.ch/2007/09/29/svp-wahlen-so-ein-kase/
 slug: svp-wahlen-so-ein-kase

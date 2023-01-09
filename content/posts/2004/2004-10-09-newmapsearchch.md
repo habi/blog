@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-09 15:57:23+00:00
 link: https://habi.gna.ch/2004/10/09/newmapsearchch/
 slug: newmapsearchch

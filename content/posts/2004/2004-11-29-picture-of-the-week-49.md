@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-11-29 20:40:37+00:00
 link: https://habi.gna.ch/2004/11/29/picture-of-the-week-49/
 slug: picture-of-the-week-49

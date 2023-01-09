@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-08-22 21:14:13+00:00
 link: https://habi.gna.ch/2005/08/22/picture-of-the-week-32/
 slug: picture-of-the-week-32

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-09-02 22:02:02+00:00
 link: https://habi.gna.ch/2011/09/03/waiting-for-you-geheimprojekt/
 slug: waiting-for-you-geheimprojekt

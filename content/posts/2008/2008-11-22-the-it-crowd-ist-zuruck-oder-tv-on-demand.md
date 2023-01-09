@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-11-22 00:57:16+00:00
 link: https://habi.gna.ch/2008/11/22/the-it-crowd-ist-zurück-oder-tv-on-demand/
 slug: the-it-crowd-ist-zurück-oder-tv-on-demand

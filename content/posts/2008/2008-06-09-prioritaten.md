@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-06-09 19:42:13+00:00
 link: https://habi.gna.ch/2008/06/09/prioritaten/
 slug: prioritaten

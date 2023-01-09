@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-04-07 21:25:53+00:00
 link: https://habi.gna.ch/2014/04/07/kurzkritik-her/
 slug: kurzkritik-her

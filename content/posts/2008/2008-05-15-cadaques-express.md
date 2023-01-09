@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-05-15 07:10:57+00:00
 link: https://habi.gna.ch/2008/05/15/cadaques-express/
 slug: cadaques-express

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-08 19:06:25+00:00
 link: https://habi.gna.ch/2013/01/08/the-national-fanfare-of-kadebostany-walking-with-a-goast/
 slug: the-national-fanfare-of-kadebostany-walking-with-a-goast

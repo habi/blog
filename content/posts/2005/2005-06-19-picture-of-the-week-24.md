@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-06-19 19:57:30+00:00
 link: https://habi.gna.ch/2005/06/19/picture-of-the-week-24/
 slug: picture-of-the-week-24

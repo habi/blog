@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-03-03 22:42:47+00:00
 link: https://habi.gna.ch/2009/03/03/zeitraffer-webcam-oeschinensee/
 slug: zeitraffer-webcam-oeschinensee

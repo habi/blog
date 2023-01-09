@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-12-30 22:16:35+00:00
 link: https://habi.gna.ch/2007/12/30/filewile-collective/
 slug: filewile-collective

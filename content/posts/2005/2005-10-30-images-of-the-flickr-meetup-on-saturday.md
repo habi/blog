@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-10-30 16:23:40+00:00
 link: https://habi.gna.ch/2005/10/30/images-of-the-flickr-meetup-on-saturday/
 slug: images-of-the-flickr-meetup-on-saturday

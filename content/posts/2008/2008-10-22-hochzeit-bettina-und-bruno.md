@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-10-22 18:36:54+00:00
 link: https://habi.gna.ch/2008/10/22/hochzeit-bettina-und-bruno/
 slug: hochzeit-bettina-und-bruno

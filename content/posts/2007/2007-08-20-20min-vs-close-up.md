@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-08-20 12:16:38+00:00
 link: https://habi.gna.ch/2007/08/20/20min-vs-close-up/
 slug: 20min-vs-close-up

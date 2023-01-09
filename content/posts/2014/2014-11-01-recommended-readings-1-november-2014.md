@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-11-01 22:15:44+00:00
 link: https://habi.gna.ch/2014/11/01/recommended-readings-1-november-2014/
 slug: recommended-readings-1-november-2014

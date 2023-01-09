@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-01-11 16:46:45+00:00
 link: https://habi.gna.ch/2008/01/11/died-in-a-knitting-accident/
 slug: died-in-a-knitting-accident

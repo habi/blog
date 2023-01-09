@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-10-26 10:05:48+00:00
 link: https://habi.gna.ch/2009/10/26/so-sollten-montage-immer-sein/
 slug: so-sollten-montage-immer-sein

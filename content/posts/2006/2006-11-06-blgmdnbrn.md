@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-11-06 20:48:24+00:00
 link: https://habi.gna.ch/2006/11/06/blgmdnbrn/
 slug: blgmdnbrn

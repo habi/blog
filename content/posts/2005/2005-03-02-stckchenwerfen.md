@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-03-02 20:16:06+00:00
 link: https://habi.gna.ch/2005/03/02/stckchenwerfen/
 slug: stckchenwerfen

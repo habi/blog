@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-08-20 20:45:54+00:00
 link: https://habi.gna.ch/2008/08/20/der-bart-ist-ab/
 slug: der-bart-ist-ab

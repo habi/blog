@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-05-21 13:20:42+00:00
 link: https://habi.gna.ch/2010/05/21/us-amerikanische-coolness-rooftop-parties-in-manhattan/
 slug: us-amerikanische-coolness-rooftop-parties-in-manhattan

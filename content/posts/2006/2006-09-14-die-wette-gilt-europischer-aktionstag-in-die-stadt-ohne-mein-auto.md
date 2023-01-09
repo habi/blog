@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-09-14 18:01:12+00:00
 link: https://habi.gna.ch/2006/09/14/die-wette-gilt-europischer-aktionstag-in-die-stadt-ohne-mein-auto/
 slug: die-wette-gilt-europischer-aktionstag-in-die-stadt-ohne-mein-auto

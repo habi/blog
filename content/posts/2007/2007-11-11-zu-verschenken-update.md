@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-11-11 21:54:55+00:00
 link: https://habi.gna.ch/2007/11/11/zu-verschenken-update/
 slug: zu-verschenken-update

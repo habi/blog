@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-02-02 18:48:27+00:00
 link: https://habi.gna.ch/2010/02/02/elektronischer-abfallkalender-bern-2010-fur-alle-kreise/
 slug: elektronischer-abfallkalender-bern-2010-fur-alle-kreise

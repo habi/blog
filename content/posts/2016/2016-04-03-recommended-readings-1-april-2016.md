@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2016-04-03 20:33:08+00:00
 link: https://habi.gna.ch/2016/04/03/recommended-readings-1-april-2016/
 slug: recommended-readings-1-april-2016

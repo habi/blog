@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-12-28 21:56:53+00:00
 link: https://habi.gna.ch/2014/12/28/kurzkritik-clouds-of-sils-maria/
 slug: kurzkritik-clouds-of-sils-maria

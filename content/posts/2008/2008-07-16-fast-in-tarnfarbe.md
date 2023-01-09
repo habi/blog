@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-07-16 17:15:50+00:00
 link: https://habi.gna.ch/2008/07/16/fast-in-tarnfarbe/
 slug: fast-in-tarnfarbe

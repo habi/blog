@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-04-17 11:31:42+00:00
 link: https://habi.gna.ch/2010/04/17/gruessech-herr-legende/
 slug: gruessech-herr-legende

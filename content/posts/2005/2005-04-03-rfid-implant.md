@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-04-03 21:59:03+00:00
 link: https://habi.gna.ch/2005/04/03/rfid-implant/
 slug: rfid-implant

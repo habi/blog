@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-08-08 20:50:29+00:00
 link: https://habi.gna.ch/2006/08/08/irl-photobooth/
 slug: irl-photobooth

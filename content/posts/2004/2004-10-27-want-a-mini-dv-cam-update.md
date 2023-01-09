@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-27 22:20:37+00:00
 link: https://habi.gna.ch/2004/10/28/want-a-mini-dv-cam-update/
 slug: want-a-mini-dv-cam-update

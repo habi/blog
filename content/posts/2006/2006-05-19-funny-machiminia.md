@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-05-19 22:27:03+00:00
 link: https://habi.gna.ch/2006/05/20/funny-machiminia/
 slug: funny-machiminia

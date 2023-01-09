@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-02-19 21:56:26+00:00
 link: https://habi.gna.ch/2004/02/19/two-quick-panoramas/
 slug: two-quick-panoramas

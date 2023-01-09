@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-03-05 22:25:18+00:00
 link: https://habi.gna.ch/2005/03/06/i-want-one-of-those-new-powerbooks-update/
 slug: i-want-one-of-those-new-powerbooks-update

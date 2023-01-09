@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-03-26 06:18:22+00:00
 link: https://habi.gna.ch/2004/03/26/journey-to-eth-in-zurich/
 slug: journey-to-eth-in-zurich

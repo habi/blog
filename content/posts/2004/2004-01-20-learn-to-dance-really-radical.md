@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-20 19:59:21+00:00
 link: https://habi.gna.ch/2004/01/20/learn-to-dance-really-radical/
 slug: learn-to-dance-really-radical

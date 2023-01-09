@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-25 21:56:19+00:00
 link: https://habi.gna.ch/2004/01/25/servus-vienna/
 slug: servus-vienna

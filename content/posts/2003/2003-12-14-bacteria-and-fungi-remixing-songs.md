@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-12-14 23:19:57+00:00
 link: https://habi.gna.ch/2003/12/15/bacteria-and-fungi-remixing-songs/
 slug: bacteria-and-fungi-remixing-songs

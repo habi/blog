@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-10-19 08:09:47+00:00
 link: https://habi.gna.ch/2005/10/19/flickrgroupsswiss-meeting-291005/
 slug: flickrgroupsswiss-meeting-291005

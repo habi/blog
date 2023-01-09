@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-09-25 16:05:38+00:00
 link: https://habi.gna.ch/2010/09/25/tauchgang-eichholz-marzili/
 slug: tauchgang-eichholz-marzili

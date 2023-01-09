@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-06-08 15:29:24+00:00
 link: https://habi.gna.ch/2005/06/08/ropetech-pictures/
 slug: ropetech-pictures

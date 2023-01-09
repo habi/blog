@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-11-20 14:57:01+00:00
 link: https://habi.gna.ch/2004/11/20/my-05-chance-to-win-a-million/
 slug: my-05-chance-to-win-a-million

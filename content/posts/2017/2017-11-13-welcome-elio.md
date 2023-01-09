@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-11-13 15:32:28+00:00
 link: https://habi.gna.ch/2017/11/13/welcome-elio/
 slug: welcome-elio

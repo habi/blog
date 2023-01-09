@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-05-01 22:34:01+00:00
 link: https://habi.gna.ch/2015/05/02/so-entstehen-meine-recommended-readings/
 slug: so-entstehen-meine-recommended-readings

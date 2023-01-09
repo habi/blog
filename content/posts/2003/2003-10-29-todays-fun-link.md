@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-10-29 20:00:20+00:00
 link: https://habi.gna.ch/2003/10/29/todays-fun-link/
 slug: todays-fun-link

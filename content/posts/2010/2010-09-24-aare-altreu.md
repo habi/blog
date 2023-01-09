@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-09-24 13:07:58+00:00
 link: https://habi.gna.ch/2010/09/24/aare-altreu/
 slug: aare-altreu

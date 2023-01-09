@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-08-26 14:29:33+00:00
 link: https://habi.gna.ch/2006/08/26/transform-your-face/
 slug: transform-your-face

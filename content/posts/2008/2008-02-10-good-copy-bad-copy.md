@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-02-10 18:09:11+00:00
 link: https://habi.gna.ch/2008/02/10/good-copy-bad-copy/
 slug: good-copy-bad-copy

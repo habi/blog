@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-12-11 21:44:33+00:00
 link: https://habi.gna.ch/2003/12/11/this-sounds-quite-promising-and-looks-cool/
 slug: this-sounds-quite-promising-and-looks-cool

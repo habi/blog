@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-01-27 07:38:25+00:00
 link: https://habi.gna.ch/2007/01/27/wordpress-song/
 slug: wordpress-song

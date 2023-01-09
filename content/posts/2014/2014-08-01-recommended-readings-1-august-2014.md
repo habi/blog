@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-08-01 19:00:47+00:00
 link: https://habi.gna.ch/2014/08/01/recommended-readings-1-august-2014/
 slug: recommended-readings-1-august-2014

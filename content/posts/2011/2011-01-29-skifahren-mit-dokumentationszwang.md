@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-01-29 17:37:02+00:00
 link: https://habi.gna.ch/2011/01/29/skifahren-mit-dokumentationszwang/
 slug: skifahren-mit-dokumentationszwang

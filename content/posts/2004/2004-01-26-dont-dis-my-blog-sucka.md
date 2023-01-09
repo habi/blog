@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-26 20:16:33+00:00
 link: https://habi.gna.ch/2004/01/26/dont-dis-my-blog-sucka/
 slug: dont-dis-my-blog-sucka

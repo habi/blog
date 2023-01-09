@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-10-15 14:49:45+00:00
 link: https://habi.gna.ch/2010/10/15/der-mond-ber-bern/
 slug: der-mond-ber-bern

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-05-04 15:55:00+00:00
 link: https://habi.gna.ch/2006/05/04/passend-zum-thema/
 slug: passend-zum-thema

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-06 19:36:33+00:00
 link: https://habi.gna.ch/2004/01/06/cliff-yablonski-hates-all-these-people/
 slug: cliff-yablonski-hates-all-these-people

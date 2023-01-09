@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-12-25 12:11:04+00:00
 link: https://habi.gna.ch/2007/12/25/durchschnittliche-pistenbelegung/
 slug: durchschnittliche-pistenbelegung

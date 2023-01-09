@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-09-06 19:07:29+00:00
 link: https://habi.gna.ch/2007/09/06/quicksilver-explained-by-the-developer/
 slug: quicksilver-explained-by-the-developer

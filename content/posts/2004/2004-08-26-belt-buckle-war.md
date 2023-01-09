@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-08-26 18:30:30+00:00
 link: https://habi.gna.ch/2004/08/26/belt-buckle-war/
 slug: belt-buckle-war

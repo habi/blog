@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-09-17 11:42:58+00:00
 link: https://habi.gna.ch/2009/09/17/timelapse-sunrise-mount-bromo/
 slug: timelapse-sunrise-mount-bromo

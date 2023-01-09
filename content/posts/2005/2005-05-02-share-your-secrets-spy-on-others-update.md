@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-05-02 21:03:28+00:00
 link: https://habi.gna.ch/2005/05/02/share-your-secrets-spy-on-others-update/
 slug: share-your-secrets-spy-on-others-update

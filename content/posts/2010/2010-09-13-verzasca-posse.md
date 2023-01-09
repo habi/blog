@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-09-13 16:38:40+00:00
 link: https://habi.gna.ch/2010/09/13/verzasca-posse/
 slug: verzasca-posse

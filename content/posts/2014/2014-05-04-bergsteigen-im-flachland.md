@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-05-04 11:54:37+00:00
 link: https://habi.gna.ch/2014/05/04/bergsteigen-im-flachland/
 slug: bergsteigen-im-flachland

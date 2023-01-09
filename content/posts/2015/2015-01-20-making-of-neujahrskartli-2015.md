@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-01-20 21:14:39+00:00
 link: https://habi.gna.ch/2015/01/20/making-of-neujahrskartli-2015/
 slug: making-of-neujahrskartli-2015

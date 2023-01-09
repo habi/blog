@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-09-06 19:08:14+00:00
 link: https://habi.gna.ch/2010/09/06/ted-comes-to-zrich/
 slug: ted-comes-to-zrich

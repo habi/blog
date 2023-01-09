@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-03-27 08:05:14+00:00
 link: https://habi.gna.ch/2007/03/27/skype-is-gaining-acceptance/
 slug: skype-is-gaining-acceptance

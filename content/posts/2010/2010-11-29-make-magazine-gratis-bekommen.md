@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-11-29 22:40:52+00:00
 link: https://habi.gna.ch/2010/11/30/make-magazine-gratis-bekommen/
 slug: make-magazine-gratis-bekommen

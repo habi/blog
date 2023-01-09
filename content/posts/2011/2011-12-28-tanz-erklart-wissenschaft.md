@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-12-28 22:42:55+00:00
 link: https://habi.gna.ch/2011/12/29/tanz-erklart-wissenschaft/
 slug: tanz-erklart-wissenschaft

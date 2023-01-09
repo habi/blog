@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-11-24 22:05:17+00:00
 link: https://habi.gna.ch/2003/11/25/put-on-your-dancing-shoes/
 slug: put-on-your-dancing-shoes

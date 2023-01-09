@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-04-02 21:39:05+00:00
 link: https://habi.gna.ch/2012/04/02/kurzkritik-the-tributes-of-panem/
 slug: kurzkritik-the-tributes-of-panem

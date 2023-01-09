@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-03-20 21:38:55+00:00
 link: https://habi.gna.ch/2005/03/20/picture-of-the-week-11/
 slug: picture-of-the-week-11

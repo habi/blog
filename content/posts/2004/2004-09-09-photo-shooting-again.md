@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-09-09 21:04:17+00:00
 link: https://habi.gna.ch/2004/09/09/photo-shooting-again/
 slug: photo-shooting-again

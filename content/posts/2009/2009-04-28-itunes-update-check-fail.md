@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-04-28 17:53:07+00:00
 link: https://habi.gna.ch/2009/04/28/itunes-update-check-fail/
 slug: itunes-update-check-fail

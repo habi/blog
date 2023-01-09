@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-10-11 12:45:50+00:00
 link: https://habi.gna.ch/2003/10/11/smart-quizshow-attendants/
 slug: smart-quizshow-attendants

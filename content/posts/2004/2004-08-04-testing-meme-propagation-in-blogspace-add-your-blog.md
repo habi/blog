@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-08-04 08:32:30+00:00
 link: https://habi.gna.ch/2004/08/04/testing-meme-propagation-in-blogspace-add-your-blog/
 slug: testing-meme-propagation-in-blogspace-add-your-blog

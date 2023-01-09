@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2018-12-23 22:20:29+00:00
 link: https://habi.gna.ch/2018/12/23/guaffor-namen/
 slug: guaffor-namen

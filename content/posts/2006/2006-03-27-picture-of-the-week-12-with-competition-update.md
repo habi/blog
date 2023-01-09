@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-03-27 18:57:03+00:00
 link: https://habi.gna.ch/2006/03/27/picture-of-the-week-12-with-competition-update/
 slug: picture-of-the-week-12-with-competition-update

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-03-27 13:42:52+00:00
 link: https://habi.gna.ch/2006/03/27/teh-rockediest-commercial-evah/
 slug: teh-rockediest-commercial-evah

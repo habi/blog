@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-07-14 20:42:28+00:00
 link: https://habi.gna.ch/2004/07/14/new-blogs-in-town/
 slug: new-blogs-in-town

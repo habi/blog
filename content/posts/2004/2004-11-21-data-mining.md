@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-11-21 19:44:36+00:00
 link: https://habi.gna.ch/2004/11/21/data-mining/
 slug: data-mining

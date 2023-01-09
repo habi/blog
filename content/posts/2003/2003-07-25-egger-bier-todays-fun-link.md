@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-07-25 15:44:48+00:00
 link: https://habi.gna.ch/2003/07/25/egger-bier-todays-fun-link/
 slug: egger-bier-todays-fun-link

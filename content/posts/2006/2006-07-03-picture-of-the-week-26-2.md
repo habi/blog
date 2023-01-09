@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-07-03 19:51:02+00:00
 link: https://habi.gna.ch/2006/07/03/picture-of-the-week-26-2/
 slug: picture-of-the-week-26-2

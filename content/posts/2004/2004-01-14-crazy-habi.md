@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-14 17:59:02+00:00
 link: https://habi.gna.ch/2004/01/14/crazy-habi/
 slug: crazy-habi

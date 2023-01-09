@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-06-27 17:28:09+00:00
 link: https://habi.gna.ch/2006/06/27/sandele-fur-erwachsene/
 slug: sandele-fur-erwachsene

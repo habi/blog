@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-10-01 19:00:54+00:00
 link: https://habi.gna.ch/2014/10/01/recommended-readings-1-october-2014/
 slug: recommended-readings-1-october-2014

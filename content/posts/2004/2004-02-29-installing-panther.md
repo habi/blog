@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-02-29 13:26:05+00:00
 link: https://habi.gna.ch/2004/02/29/installing-panther/
 slug: installing-panther

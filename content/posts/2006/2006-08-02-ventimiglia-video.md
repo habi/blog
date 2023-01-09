@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-08-02 22:10:41+00:00
 link: https://habi.gna.ch/2006/08/03/ventimiglia-video/
 slug: ventimiglia-video

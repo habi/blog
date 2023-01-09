@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-03-23 19:50:27+00:00
 link: https://habi.gna.ch/2004/03/23/never-ever-a-flat-tire-again-not-really/
 slug: never-ever-a-flat-tire-again-not-really

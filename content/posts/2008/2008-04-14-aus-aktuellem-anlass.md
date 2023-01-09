@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-04-14 21:20:37+00:00
 link: https://habi.gna.ch/2008/04/14/aus-aktuellem-anlass/
 slug: aus-aktuellem-anlass

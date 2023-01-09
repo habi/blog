@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-08-26 19:24:39+00:00
 link: https://habi.gna.ch/2010/08/26/picknick-fur-3-tage/
 slug: picknick-fur-3-tage

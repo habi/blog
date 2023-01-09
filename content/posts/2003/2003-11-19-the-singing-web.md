@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-11-19 16:37:27+00:00
 link: https://habi.gna.ch/2003/11/19/the-singing-web/
 slug: the-singing-web

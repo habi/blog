@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-01-03 21:02:52+00:00
 link: https://habi.gna.ch/2017/01/03/der-ruckblick-auf-mich-selbst-im-2016/
 slug: der-ruckblick-auf-mich-selbst-im-2016

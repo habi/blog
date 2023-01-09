@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-12-10 14:53:00+00:00
 link: https://habi.gna.ch/2005/12/10/google-earth-for-os-x/
 slug: google-earth-for-os-x

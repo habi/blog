@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-02-11 15:47:42+00:00
 link: https://habi.gna.ch/2005/02/11/hm-that-was-easy/
 slug: hm-that-was-easy

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-05-20 10:47:11+00:00
 link: https://habi.gna.ch/2004/05/20/handy-dandy/
 slug: handy-dandy

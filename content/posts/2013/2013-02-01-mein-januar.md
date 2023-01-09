@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-02-01 07:32:21+00:00
 link: https://habi.gna.ch/2013/02/01/mein-januar/
 slug: mein-januar

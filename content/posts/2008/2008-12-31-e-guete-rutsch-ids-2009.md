@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-12-31 20:09:43+00:00
 link: https://habi.gna.ch/2008/12/31/e-guete-rutsch-ids-2009/
 slug: e-guete-rutsch-ids-2009

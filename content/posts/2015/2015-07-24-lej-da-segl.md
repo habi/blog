@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-07-24 13:13:56+00:00
 link: https://habi.gna.ch/2015/07/24/lej-da-segl/
 slug: lej-da-segl

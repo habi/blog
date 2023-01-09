@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-12-12 11:12:07+00:00
 link: https://habi.gna.ch/2012/12/12/happy-soundcheck-day/
 slug: happy-soundcheck-day

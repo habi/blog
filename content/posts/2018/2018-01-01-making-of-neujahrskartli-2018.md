@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2018-01-01 00:01:54+00:00
 link: https://habi.gna.ch/2018/01/01/making-of-neujahrskartli-2018/
 slug: making-of-neujahrskartli-2018

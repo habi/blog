@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-09-09 14:08:23+00:00
 link: https://habi.gna.ch/2017/09/09/gemeinderatswahlen-koniz/
 slug: gemeinderatswahlen-koniz

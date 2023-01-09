@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-01-15 21:56:07+00:00
 link: https://habi.gna.ch/2007/01/15/nerd-score/
 slug: nerd-score

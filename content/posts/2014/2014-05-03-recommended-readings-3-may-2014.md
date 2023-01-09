@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-05-03 19:00:30+00:00
 link: https://habi.gna.ch/2014/05/03/recommended-readings-3-may-2014/
 slug: recommended-readings-3-may-2014

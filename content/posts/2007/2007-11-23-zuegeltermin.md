@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-11-23 23:18:10+00:00
 link: https://habi.gna.ch/2007/11/24/zuegeltermin/
 slug: zuegeltermin

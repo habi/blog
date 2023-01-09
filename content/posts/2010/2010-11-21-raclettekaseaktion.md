@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-11-21 16:25:03+00:00
 link: https://habi.gna.ch/2010/11/21/raclettekaseaktion/
 slug: raclettekaseaktion

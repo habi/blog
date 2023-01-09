@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-12-10 19:48:33+00:00
 link: https://habi.gna.ch/2008/12/10/the-argentinian-schoolbook-and-me/
 slug: the-argentinian-schoolbook-and-me

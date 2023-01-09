@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-04-21 20:25:12+00:00
 link: https://habi.gna.ch/2011/04/21/indien-im-zeitraffer/
 slug: indien-im-zeitraffer

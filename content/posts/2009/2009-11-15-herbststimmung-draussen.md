@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-11-15 16:36:50+00:00
 link: https://habi.gna.ch/2009/11/15/herbststimmung-draussen/
 slug: herbststimmung-draussen

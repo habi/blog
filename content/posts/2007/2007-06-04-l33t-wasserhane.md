@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-06-04 19:02:31+00:00
 link: https://habi.gna.ch/2007/06/04/l33t-wasserhane/
 slug: l33t-wasserhane

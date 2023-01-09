@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-06-22 19:21:00+00:00
 link: https://habi.gna.ch/2015/06/22/dvd-sammlung/
 slug: dvd-sammlung

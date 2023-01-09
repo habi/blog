@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-02-05 23:14:32+00:00
 link: https://habi.gna.ch/2014/02/06/das-mitmach-web-ist-tot/
 slug: das-mitmach-web-ist-tot

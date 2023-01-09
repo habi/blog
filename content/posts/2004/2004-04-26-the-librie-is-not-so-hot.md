@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-04-26 13:14:05+00:00
 link: https://habi.gna.ch/2004/04/26/the-librie-is-not-so-hot/
 slug: the-librie-is-not-so-hot

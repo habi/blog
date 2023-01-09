@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-05-23 09:45:49+00:00
 link: https://habi.gna.ch/2006/05/23/panoramas-from-the-gurten/
 slug: panoramas-from-the-gurten

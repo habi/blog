@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-02-28 22:38:08+00:00
 link: https://habi.gna.ch/2007/02/28/joost-anyone/
 slug: joost-anyone

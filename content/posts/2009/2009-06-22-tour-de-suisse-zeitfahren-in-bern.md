@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-06-22 16:50:23+00:00
 link: https://habi.gna.ch/2009/06/22/tour-de-suisse-zeitfahren-in-bern/
 slug: tour-de-suisse-zeitfahren-in-bern

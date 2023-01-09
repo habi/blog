@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-09-09 17:15:56+00:00
 link: https://habi.gna.ch/2010/09/09/panorama-des-triftgletschers/
 slug: panorama-des-triftgletschers

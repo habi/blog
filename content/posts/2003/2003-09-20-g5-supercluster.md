@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-09-20 17:51:13+00:00
 link: https://habi.gna.ch/2003/09/20/g5-supercluster/
 slug: g5-supercluster

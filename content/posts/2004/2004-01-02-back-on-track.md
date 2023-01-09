@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-02 11:06:12+00:00
 link: https://habi.gna.ch/2004/01/02/back-on-track/
 slug: back-on-track

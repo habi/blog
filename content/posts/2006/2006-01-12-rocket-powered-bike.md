@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-01-12 19:02:44+00:00
 link: https://habi.gna.ch/2006/01/12/rocket-powered-bike/
 slug: rocket-powered-bike

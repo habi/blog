@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-03-22 13:23:30+00:00
 link: https://habi.gna.ch/2007/03/22/etwas-gar-viel-fell/
 slug: etwas-gar-viel-fell

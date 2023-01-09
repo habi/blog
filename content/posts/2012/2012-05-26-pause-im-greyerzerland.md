@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-05-26 12:30:15+00:00
 link: https://habi.gna.ch/2012/05/26/pause-im-greyerzerland/
 slug: pause-im-greyerzerland

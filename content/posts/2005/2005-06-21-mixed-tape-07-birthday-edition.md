@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-06-21 17:25:01+00:00
 link: https://habi.gna.ch/2005/06/21/mixed-tape-07-birthday-edition/
 slug: mixed-tape-07-birthday-edition

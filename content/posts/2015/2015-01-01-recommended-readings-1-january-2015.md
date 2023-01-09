@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-01-01 20:00:56+00:00
 link: https://habi.gna.ch/2015/01/01/recommended-readings-1-january-2015/
 slug: recommended-readings-1-january-2015

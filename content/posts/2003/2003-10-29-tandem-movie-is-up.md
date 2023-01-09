@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-10-29 19:35:15+00:00
 link: https://habi.gna.ch/2003/10/29/tandem-movie-is-up/
 slug: tandem-movie-is-up

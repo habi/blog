@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-08-31 21:06:52+00:00
 link: https://habi.gna.ch/2004/08/31/skype-for-osx/
 slug: skype-for-osx

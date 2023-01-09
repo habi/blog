@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-04-18 18:10:17+00:00
 link: https://habi.gna.ch/2004/04/18/blogrolls/
 slug: blogrolls

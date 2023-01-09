@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-06-14 21:04:52+00:00
 link: https://habi.gna.ch/2004/06/14/sightseeing/
 slug: sightseeing

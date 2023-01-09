@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-11-06 13:34:16+00:00
 link: https://habi.gna.ch/2010/11/06/pause-in-huttwil/
 slug: pause-in-huttwil

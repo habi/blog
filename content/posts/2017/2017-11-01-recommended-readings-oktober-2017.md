@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-11-01 21:50:35+00:00
 link: https://habi.gna.ch/2017/11/01/recommended-readings-oktober-2017/
 slug: recommended-readings-oktober-2017

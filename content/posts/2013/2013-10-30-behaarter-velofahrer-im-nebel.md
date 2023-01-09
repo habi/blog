@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-10-30 07:59:43+00:00
 link: https://habi.gna.ch/2013/10/30/behaarter-velofahrer-im-nebel/
 slug: behaarter-velofahrer-im-nebel

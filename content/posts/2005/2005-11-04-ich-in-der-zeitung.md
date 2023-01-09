@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-11-04 07:09:18+00:00
 link: https://habi.gna.ch/2005/11/04/ich-in-der-zeitung/
 slug: ich-in-der-zeitung

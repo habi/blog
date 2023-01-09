@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-05-22 13:08:09+00:00
 link: https://habi.gna.ch/2017/05/22/vor-rigi-abe/
 slug: vor-rigi-abe

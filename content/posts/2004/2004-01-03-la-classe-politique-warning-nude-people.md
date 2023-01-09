@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-03 20:57:37+00:00
 link: https://habi.gna.ch/2004/01/03/la-classe-politique-warning-nude-people/
 slug: la-classe-politique-warning-nude-people

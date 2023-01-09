@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-07 20:01:37+00:00
 link: https://habi.gna.ch/2004/10/07/politicians/
 slug: politicians

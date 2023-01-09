@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-09-23 21:07:02+00:00
 link: https://habi.gna.ch/2009/09/23/im-velodrom-in-aigle/
 slug: im-velodrom-in-aigle

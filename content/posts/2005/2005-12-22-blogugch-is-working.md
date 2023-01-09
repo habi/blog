@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-12-22 21:47:21+00:00
 link: https://habi.gna.ch/2005/12/22/blogugch-is-working/
 slug: blogugch-is-working

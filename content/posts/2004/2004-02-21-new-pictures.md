@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-02-21 10:29:49+00:00
 link: https://habi.gna.ch/2004/02/21/new-pictures/
 slug: new-pictures

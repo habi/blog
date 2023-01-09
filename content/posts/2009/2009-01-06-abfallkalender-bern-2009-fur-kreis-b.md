@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-01-06 19:59:57+00:00
 link: https://habi.gna.ch/2009/01/06/abfallkalender-bern-2009-fur-kreis-b/
 slug: abfallkalender-bern-2009-fur-kreis-b

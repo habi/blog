@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-07-29 18:08:50+00:00
 link: https://habi.gna.ch/2003/07/29/filewilecom-on-telly/
 slug: filewilecom-on-telly

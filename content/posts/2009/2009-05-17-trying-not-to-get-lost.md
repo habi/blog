@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-05-17 20:42:16+00:00
 link: https://habi.gna.ch/2009/05/17/trying-not-to-get-lost/
 slug: trying-not-to-get-lost

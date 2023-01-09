@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2016-11-05 22:56:49+00:00
 link: https://habi.gna.ch/2016/11/05/a-wee-day-out/
 slug: a-wee-day-out

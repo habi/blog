@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-07-27 11:59:06+00:00
 link: https://habi.gna.ch/2008/07/27/dr-gruene-aare-na/
 slug: dr-gruene-aare-na

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-06 14:33:13+00:00
 link: https://habi.gna.ch/2004/01/06/friend-of-a-friend/
 slug: friend-of-a-friend

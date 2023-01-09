@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-02-09 21:33:56+00:00
 link: https://habi.gna.ch/2008/02/09/blogger-vernetzen/
 slug: blogger-vernetzen

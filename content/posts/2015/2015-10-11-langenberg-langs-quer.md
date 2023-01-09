@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-10-11 12:48:44+00:00
 link: https://habi.gna.ch/2015/10/11/langenberg-langs-quer/
 slug: langenberg-langs-quer

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-03-29 20:08:19+00:00
 link: https://habi.gna.ch/2017/03/29/osm-mapillary/
 slug: osm-mapillary

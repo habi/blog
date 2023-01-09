@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-06 12:32:18+00:00
 link: https://habi.gna.ch/2013/01/06/bettmeralp-piste-gut/
 slug: bettmeralp-piste-gut

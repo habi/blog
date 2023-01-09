@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-10-24 16:15:09+00:00
 link: https://habi.gna.ch/2003/10/24/today-was-fun/
 slug: today-was-fun

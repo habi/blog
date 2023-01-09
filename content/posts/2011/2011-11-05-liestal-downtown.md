@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-11-05 11:31:21+00:00
 link: https://habi.gna.ch/2011/11/05/liestal-downtown/
 slug: liestal-downtown

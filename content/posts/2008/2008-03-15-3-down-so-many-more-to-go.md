@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-03-15 12:04:17+00:00
 link: https://habi.gna.ch/2008/03/15/3-down-so-many-more-to-go/
 slug: 3-down-so-many-more-to-go

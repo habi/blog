@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-08-27 00:39:32+00:00
 link: https://habi.gna.ch/2006/08/27/leu-ertappt/
 slug: leu-ertappt

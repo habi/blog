@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-12-23 15:22:48+00:00
 link: https://habi.gna.ch/2012/12/23/aso-wie-genau-2/
 slug: aso-wie-genau-2

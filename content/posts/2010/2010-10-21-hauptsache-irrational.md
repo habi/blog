@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-10-21 19:02:21+00:00
 link: https://habi.gna.ch/2010/10/21/hauptsache-irrational/
 slug: hauptsache-irrational

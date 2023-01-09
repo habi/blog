@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-09-15 10:59:18+00:00
 link: https://habi.gna.ch/2004/09/15/cocoamysql/
 slug: cocoamysql

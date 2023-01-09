@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-06-01 15:00:09+00:00
 link: https://habi.gna.ch/2009/06/01/timelapse-movie-with-a-nikon-d80/
 slug: timelapse-movie-with-a-nikon-d80

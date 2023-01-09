@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-01-27 08:30:22+00:00
 link: https://habi.gna.ch/2004/01/27/a-look-at-my-referrers/
 slug: a-look-at-my-referrers

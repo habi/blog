@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2016-05-01 20:22:25+00:00
 link: https://habi.gna.ch/2016/05/01/recommended-readings-1-may-2016/
 slug: recommended-readings-1-may-2016

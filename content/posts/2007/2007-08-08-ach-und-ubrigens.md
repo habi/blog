@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-08-08 22:34:23+00:00
 link: https://habi.gna.ch/2007/08/08/ach-und-ubrigens/
 slug: ach-und-ubrigens

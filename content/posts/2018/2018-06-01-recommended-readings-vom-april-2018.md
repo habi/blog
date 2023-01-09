@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2018-06-01 19:13:19+00:00
 link: https://habi.gna.ch/2018/06/01/recommended-readings-vom-april-2018/
 slug: recommended-readings-vom-april-2018

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-07-12 11:57:44+00:00
 link: https://habi.gna.ch/2005/07/12/picture-of-the-week-27-update/
 slug: picture-of-the-week-27-update

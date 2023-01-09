@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-12-13 21:51:50+00:00
 link: https://habi.gna.ch/2010/12/13/jeder-rappen-zhlt-habi-spendet-auch-with-a-twist/
 slug: jeder-rappen-zhlt-habi-spendet-auch-with-a-twist

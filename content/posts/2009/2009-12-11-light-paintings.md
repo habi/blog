@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-12-11 22:30:12+00:00
 link: https://habi.gna.ch/2009/12/12/light-paintings/
 slug: light-paintings

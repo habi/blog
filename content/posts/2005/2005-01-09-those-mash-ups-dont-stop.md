@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-01-09 13:04:57+00:00
 link: https://habi.gna.ch/2005/01/09/those-mash-ups-dont-stop/
 slug: those-mash-ups-dont-stop

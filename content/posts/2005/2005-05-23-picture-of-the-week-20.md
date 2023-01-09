@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-05-23 13:01:01+00:00
 link: https://habi.gna.ch/2005/05/23/picture-of-the-week-20/
 slug: picture-of-the-week-20

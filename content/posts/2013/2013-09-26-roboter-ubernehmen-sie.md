@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-09-26 17:34:32+00:00
 excerpt: <p>Die Jungs und Mädels von Bot &amp; Dolly</p>
 link: https://habi.gna.ch/2013/09/26/roboter-übernehmen-sie/

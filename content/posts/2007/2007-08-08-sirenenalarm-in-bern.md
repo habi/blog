@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-08-08 22:20:51+00:00
 link: https://habi.gna.ch/2007/08/08/sirenenalarm-in-bern/
 slug: sirenenalarm-in-bern

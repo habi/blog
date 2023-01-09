@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-06-27 17:29:03+00:00
 link: https://habi.gna.ch/2006/06/27/sommer-ist/
 slug: sommer-ist

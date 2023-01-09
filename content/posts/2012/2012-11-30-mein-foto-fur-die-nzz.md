@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-11-30 22:44:00+00:00
 link: https://habi.gna.ch/2012/12/01/mein-foto-fur-die-nzz/
 slug: mein-foto-fur-die-nzz

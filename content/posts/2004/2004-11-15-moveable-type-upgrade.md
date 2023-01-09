@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-11-15 11:59:16+00:00
 link: https://habi.gna.ch/2004/11/15/moveable-type-upgrade/
 slug: moveable-type-upgrade

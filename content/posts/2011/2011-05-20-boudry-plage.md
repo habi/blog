@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-05-20 09:50:00+00:00
 link: https://habi.gna.ch/2011/05/20/boudry-plage/
 slug: boudry-plage

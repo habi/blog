@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-08-06 07:54:47+00:00
 link: https://habi.gna.ch/2003/08/06/its-so-hot-in-here/
 slug: its-so-hot-in-here

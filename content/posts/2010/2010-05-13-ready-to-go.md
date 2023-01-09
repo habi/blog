@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-05-13 10:37:12+00:00
 link: https://habi.gna.ch/2010/05/13/ready-to-go/
 slug: ready-to-go

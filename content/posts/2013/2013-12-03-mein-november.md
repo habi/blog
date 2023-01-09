@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-12-03 22:24:49+00:00
 link: https://habi.gna.ch/2013/12/03/mein-november/
 slug: mein-november

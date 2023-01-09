@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-02-20 21:44:37+00:00
 link: https://habi.gna.ch/2006/02/20/the-it-crowd/
 slug: the-it-crowd

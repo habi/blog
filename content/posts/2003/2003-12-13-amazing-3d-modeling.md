@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-12-13 11:25:32+00:00
 link: https://habi.gna.ch/2003/12/13/amazing-3d-modeling/
 slug: amazing-3d-modeling

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-10-03 17:57:26+00:00
 link: https://habi.gna.ch/2004/10/03/pictures-of-the-week-41/
 slug: pictures-of-the-week-41

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-12-03 18:45:44+00:00
 link: https://habi.gna.ch/2008/12/03/der-chor-vs-die-passanten/
 slug: der-chor-vs-die-passanten

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2016-06-01 19:00:35+00:00
 link: https://habi.gna.ch/2016/06/01/recommended-readings-1-june-2016/
 slug: recommended-readings-1-june-2016

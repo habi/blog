@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-01-08 18:05:47+00:00
 link: https://habi.gna.ch/2011/01/08/flashback/
 slug: flashback

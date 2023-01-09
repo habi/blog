@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-06-01 20:29:12+00:00
 link: https://habi.gna.ch/2015/06/01/big-wide-world/
 slug: big-wide-world

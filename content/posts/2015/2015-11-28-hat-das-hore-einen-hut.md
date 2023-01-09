@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-11-28 12:33:40+00:00
 link: https://habi.gna.ch/2015/11/28/hat-das-hore-einen-hut/
 slug: hat-das-hore-einen-hut

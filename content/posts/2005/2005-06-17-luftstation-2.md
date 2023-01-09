@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-06-17 22:09:42+00:00
 link: https://habi.gna.ch/2005/06/18/luftstation-2/
 slug: luftstation-2

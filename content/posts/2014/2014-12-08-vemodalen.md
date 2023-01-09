@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-12-08 21:45:04+00:00
 link: https://habi.gna.ch/2014/12/08/vemodalen/
 slug: vemodalen

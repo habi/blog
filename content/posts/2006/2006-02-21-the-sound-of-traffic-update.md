@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-02-21 20:41:13+00:00
 link: https://habi.gna.ch/2006/02/21/the-sound-of-traffic-update/
 slug: the-sound-of-traffic-update

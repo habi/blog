@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-09-18 20:56:49+00:00
 link: https://habi.gna.ch/2003/09/18/weird-news/
 slug: weird-news

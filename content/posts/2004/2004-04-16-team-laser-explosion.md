@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-04-16 18:28:44+00:00
 link: https://habi.gna.ch/2004/04/16/team-laser-explosion/
 slug: team-laser-explosion

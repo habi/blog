@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-01-20 21:47:40+00:00
 link: https://habi.gna.ch/2015/01/20/kommentare-sind-wohl-wirklich-tot/
 slug: kommentare-sind-wohl-wirklich-tot

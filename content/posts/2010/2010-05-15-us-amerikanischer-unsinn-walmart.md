@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-05-15 15:31:47+00:00
 link: https://habi.gna.ch/2010/05/15/us-amerikanischer-unsinn-walmart/
 slug: us-amerikanischer-unsinn-walmart

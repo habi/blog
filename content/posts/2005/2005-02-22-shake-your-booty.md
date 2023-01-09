@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-02-22 19:59:26+00:00
 link: https://habi.gna.ch/2005/02/22/shake-your-booty/
 slug: shake-your-booty

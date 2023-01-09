@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-09-28 09:04:43+00:00
 link: https://habi.gna.ch/2011/09/28/augen-auf-geklautes-velo-unterwegs/
 slug: augen-auf-geklautes-velo-unterwegs

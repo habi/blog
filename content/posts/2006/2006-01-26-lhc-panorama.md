@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-01-26 19:21:31+00:00
 link: https://habi.gna.ch/2006/01/26/lhc-panorama/
 slug: lhc-panorama

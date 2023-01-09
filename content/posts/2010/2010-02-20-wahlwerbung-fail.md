@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-02-20 16:52:41+00:00
 link: https://habi.gna.ch/2010/02/20/wahlwerbung-fail/
 slug: wahlwerbung-fail

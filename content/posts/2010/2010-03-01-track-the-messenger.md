@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-03-01 19:28:54+00:00
 link: https://habi.gna.ch/2010/03/01/track-the-messenger/
 slug: track-the-messenger

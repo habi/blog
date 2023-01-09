@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2011-03-22 21:46:47+00:00
 link: https://habi.gna.ch/2011/03/22/museumsnacht-2011-panoramas/
 slug: museumsnacht-2011-panoramas

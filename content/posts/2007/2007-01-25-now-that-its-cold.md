@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2007-01-25 23:29:59+00:00
 link: https://habi.gna.ch/2007/01/26/now-that-its-cold/
 slug: now-that-its-cold

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-11-23 22:12:50+00:00
 link: https://habi.gna.ch/2004/11/24/i-just-bought-ecto/
 slug: i-just-bought-ecto

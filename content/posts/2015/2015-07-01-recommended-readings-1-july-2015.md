@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-07-01 19:00:18+00:00
 link: https://habi.gna.ch/2015/07/01/recommended-readings-1-july-2015/
 slug: recommended-readings-1-july-2015

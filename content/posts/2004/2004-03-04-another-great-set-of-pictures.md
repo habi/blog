@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-03-04 09:35:58+00:00
 link: https://habi.gna.ch/2004/03/04/another-great-set-of-pictures/
 slug: another-great-set-of-pictures

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-10-01 21:33:26+00:00
 link: https://habi.gna.ch/2003/10/01/last-entry-for-tonight/
 slug: last-entry-for-tonight

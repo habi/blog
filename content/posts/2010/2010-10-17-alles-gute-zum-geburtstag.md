@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-10-17 15:49:35+00:00
 link: https://habi.gna.ch/2010/10/17/alles-gute-zum-geburtstag/
 slug: alles-gute-zum-geburtstag

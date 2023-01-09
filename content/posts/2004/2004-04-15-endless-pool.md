@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-04-15 09:33:14+00:00
 link: https://habi.gna.ch/2004/04/15/endless-pool/
 slug: endless-pool

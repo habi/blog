@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2003-08-07 19:38:26+00:00
 link: https://habi.gna.ch/2003/08/07/tip-of-the-week/
 slug: tip-of-the-week

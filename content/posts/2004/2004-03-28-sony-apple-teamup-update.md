@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-03-28 18:47:29+00:00
 link: https://habi.gna.ch/2004/03/28/sony-apple-teamup-update/
 slug: sony-apple-teamup-update

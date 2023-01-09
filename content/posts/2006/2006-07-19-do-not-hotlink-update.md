@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-07-19 20:11:01+00:00
 link: https://habi.gna.ch/2006/07/19/do-not-hotlink-update/
 slug: do-not-hotlink-update

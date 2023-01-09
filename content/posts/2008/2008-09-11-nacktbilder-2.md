@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-09-11 18:24:39+00:00
 link: https://habi.gna.ch/2008/09/11/nacktbilder-2/
 slug: nacktbilder-2

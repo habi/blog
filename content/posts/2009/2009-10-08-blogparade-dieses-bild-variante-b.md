@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2009-10-08 19:31:23+00:00
 link: https://habi.gna.ch/2009/10/08/blogparade-dieses-bild-variante-b/
 slug: blogparade-dieses-bild-variante-b

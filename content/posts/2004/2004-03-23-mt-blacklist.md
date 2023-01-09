@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-03-23 21:10:43+00:00
 link: https://habi.gna.ch/2004/03/23/mt-blacklist/
 slug: mt-blacklist

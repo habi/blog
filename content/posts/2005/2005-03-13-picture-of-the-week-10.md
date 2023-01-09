@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-03-13 22:18:52+00:00
 link: https://habi.gna.ch/2005/03/14/picture-of-the-week-10/
 slug: picture-of-the-week-10

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-09-10 15:28:37+00:00
 link: https://habi.gna.ch/2005/09/10/official-hummer-salute/
 slug: official-hummer-salute

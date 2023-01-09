@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-01-10 19:33:55+00:00
 link: https://habi.gna.ch/2005/01/10/dreiknigskuchen-geheimnis-gelst-with-short-english-explanation/
 slug: dreiknigskuchen-geheimnis-gelst-with-short-english-explanation

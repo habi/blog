@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2008-03-18 08:25:32+00:00
 link: https://habi.gna.ch/2008/03/18/mpr-test_mit_beispielbild/
 slug: mpr-test_mit_beispielbild

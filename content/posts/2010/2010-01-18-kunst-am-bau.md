@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2010-01-18 18:12:49+00:00
 link: https://habi.gna.ch/2010/01/18/kunst-am-bau/
 slug: kunst-am-bau

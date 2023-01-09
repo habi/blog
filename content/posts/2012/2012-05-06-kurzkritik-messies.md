@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2012-05-06 18:43:31+00:00
 link: https://habi.gna.ch/2012/05/06/kurzkritik-messies/
 slug: kurzkritik-messies

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2015-05-20 12:46:53+00:00
 link: https://habi.gna.ch/2015/05/20/stadtspaziergang/
 slug: stadtspaziergang

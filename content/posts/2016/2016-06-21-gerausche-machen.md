@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2016-06-21 20:32:04+00:00
 link: https://habi.gna.ch/2016/06/21/gerausche-machen/
 slug: gerausche-machen

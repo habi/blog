@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2005-03-21 22:12:17+00:00
 link: https://habi.gna.ch/2005/03/22/new-badge-update/
 slug: new-badge-update

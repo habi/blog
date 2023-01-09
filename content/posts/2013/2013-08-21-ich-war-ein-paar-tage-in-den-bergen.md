@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-08-21 21:22:44+00:00
 link: https://habi.gna.ch/2013/08/21/ich-war-ein-paar-tage-in-den-bergen/
 slug: ich-war-ein-paar-tage-in-den-bergen

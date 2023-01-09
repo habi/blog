@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2004-08-02 13:02:20+00:00
 link: https://habi.gna.ch/2004/08/02/picture-of-the-week/
 slug: picture-of-the-week

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2006-03-13 21:26:23+00:00
 link: https://habi.gna.ch/2006/03/13/4er-stckchen/
 slug: 4er-stckchen
