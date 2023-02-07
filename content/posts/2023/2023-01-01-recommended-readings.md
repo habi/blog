@@ -28,4 +28,4 @@ Nach aussen hin geben sie sich harmlos.
 Doch ihre Ideologie ist gefährlich.
 Nicht nur in Deutschland, sondern 'neu' auch in der Schweiz, siehe drüben bei den [Betonmalerinnen](https://betonmalerinnen.noblogs.org/?s=anastasia).
 
-{{< chat blog.davidhaberthuer.ch >}
+{{< chat blog.davidhaberthuer.ch >}}
