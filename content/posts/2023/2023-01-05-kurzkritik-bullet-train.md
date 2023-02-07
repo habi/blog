@@ -10,4 +10,4 @@ tags:
 ---
 
 Ein (sehr) hübsches Kammerspiel, nicht nur für Ferro-Sexuelle.
-Sehr viele Fäden laufen zu einer actiongeladenen Geschichte zusammen.
+Sehr viele Fäden laufen zu einer actiongeladenen Geschichte zusammen

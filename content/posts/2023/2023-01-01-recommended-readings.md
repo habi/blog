@@ -13,7 +13,7 @@ tags:
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
 - [Voll ins Auge](https://www.republik.ch/2022/12/01/voll-ins-auge) *(republik.ch)* : Mindestens einmal pro Jahr wird in der Schweiz ein Mensch von einem Gummigeschoss schwer verletzt. Trotzdem setzt die Polizei oft und erstaunlich breit auf das umstrittene Einsatzmittel. Kritik daran gibt es kaum. Anders als früher.
-- [Némésis Suisse ](https://www.antifa.ch/nemesis-suisse/) *(antifa.ch)* : Seit über einem Jahr ist in der Westschweiz eine Gruppe der rechts-feministischen Bewegung Némésis aktiv und hetzt gegen Migrant:innen. Die Antifa Bern schaut da mal genau hin.
+- [Némésis Suisse](https://www.antifa.ch/nemesis-suisse/) *(antifa.ch)* : Seit über einem Jahr ist in der Westschweiz eine Gruppe der rechts-feministischen Bewegung Némésis aktiv und hetzt gegen Migrant:innen. Die Antifa Bern schaut da mal genau hin.
 - [Rechtsextremismus: Die Schwiegersohn-Neonazis](https://www.woz.ch/!JJPNM2QWZACD) *(woz.ch)* : Die Junge Tat versucht ihre Themen in die Mitte der Gesellschaft zu tragen. Woher die Gruppe kommt, wie sie sich verorten lässt, wer die Köpfe dahinter sind.
 - [Beware of the Perfect Gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman) *(vice.com)* : Die Männer, deren Fotos für gefälschte Onlineprofile verwendet werden, haben kaum eine andere Möglichkeit, als ständig gefälschte Profile auf Social-Media-Plattformen zu melden.
 - [Digital detritus](https://lcamtuf.substack.com/p/digital-detritus) *(lcamtuf.substack.com)* : Ich muss glaub' [1SecondEveryday](https://1se.co/) wieder installieren.
@@ -28,4 +28,4 @@ Nach aussen hin geben sie sich harmlos.
 Doch ihre Ideologie ist gefährlich.
 Nicht nur in Deutschland, sondern 'neu' auch in der Schweiz, siehe drüben bei den [Betonmalerinnen](https://betonmalerinnen.noblogs.org/?s=anastasia).
 
-{{< chat blog.davidhaberthuer.ch >}}
+{{< chat blog.davidhaberthuer.ch >}

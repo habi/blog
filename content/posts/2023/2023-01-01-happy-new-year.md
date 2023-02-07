@@ -19,5 +19,5 @@ Zusammegefügt mit etwas Text und gedruckt auf physische Postkarten gingen diese
 In diesem Sinne: Häbit es guets Nöis!
 
 [^0]: Midjourney ist aus meiner Sicht die beeindruckendste Inkarnation von geträumten Computer-Ideen.
-      Jedenfalls macht es aus meinen Inputs [beeindruckend coole Bilder](https://mastodon.social/@habi/109545059460885878) 
+      Jedenfalls macht es aus meinen Inputs [beeindruckend coole Bilder](https://mastodon.social/@habi/109545059460885878).
 [^1]: Übersetzt von mir zu den Prompts `a family of four on a grassy plain in spring, with flowers and dinosaurs in the background, on shots of famous documentary photographers --v 4`, `[...] at the beach in summer, with lots of blow up toys, and a flamingo in the background [...]`, `[...] in the woods in autumn, with large planets in the sk [...]` und `[...] in the wintery mountains, in the background a herd of bicycles [...]`.
