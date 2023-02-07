@@ -25,7 +25,7 @@ Ich schalte mein Telefon in der Nacht immer aus, also habe ich im Schnitt (bei 8
 
 'Dank' den Herbstferien in Kreta war ich weiter unterwegs als das letzte Jahr, nämlich jeweils ca. 1500 km in Nord-Süd- und in Ost-West-Richtung.
 Im Median war ich auf [dem sog. Krokodil-Spielplatz](https://www.openstreetmap.org/way/52435561), am nördlichsten in Basel, am östlichsten *und* südlichsten (eben in den Herbstferien) in Heraklion, am westlichsten [an der Ardeche](https://www.openstreetmap.org/node/3695767773) in einem Kanu.
-Der höchste Punkt war an einem heissen Sommerwochenende [in Saas-Fee, auf dem Felskinn oben](https://www.openstreetmap.org/node/354498113). 
+Der höchste Punkt war an einem heissen Sommerwochenende [in Saas-Fee, auf dem Felskinn oben](https://www.openstreetmap.org/node/354498113).
 
 Unten ist die Heatmap meiner Positionen im 2021 eingebunden, so dass Reinzoomen in die Karte und Raussuchen anderer Ausflüge selbst möglich ist.
 
