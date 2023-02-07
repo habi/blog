@@ -52,21 +52,15 @@ Im letzten Monat (und ein paar Tagen im Januar dazu) las ich folgende Texte und 
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< youtube 5z7oLdhLOYU >}}
-Drogen, Waffen, Bordelle: die Geschäfte der Turonen | STRG_F
-
 {{< youtube OFXxtvKW4ok >}
-Nazi-Band "Erschießungskommando": Wer steckt dahinter? | STRG_F]
-
-{{< youtube jXb-zSPjhPI >}}
-Ich habe ganz YouTube Deutschland ausgewertet und analysiert
+Nazi-Band "Erschießungskommando": Wer steckt dahinter?
 
 {{< youtube x4Av3jGKee8 >}}
-The impossible skilift that actually exists
+Der [Hohstock-Skilift](https//www.openstreetmap.org/way/23602226) ist ein spezieller.
 
 {{< vimeo 122575482 >}}
-Stunning psychedelic timelapse of blooming cactus flowers. [via [boingboing](https://boingboing.net/2021/12/10/stunning-psychedelic-timelapse-of-blooming-cactus-flowers.html)]
+Zeitrafferaufnahmen von blühenden Kakteen. Wunderschön. [via [boingboing](https://boingboing.net/2021/12/10/stunning-psychedelic-timelapse-of-blooming-cactus-flowers.html)]
 
-Im letzten Monat hörte ich folgende Podcasts und fand diese gut:
+Im letzten Monat hörte ich folgenden Podcast und fand dieses gut:
 
-- [13 Minutes to the Moon](http://www.bbc.co.uk/programmes/w3csz4dj) *(bbc.co.uk)*: 
+- [13 Minutes to the Moon](http://www.bbc.co.uk/programmes/w3csz4dj) *(bbc.co.uk)*: Dieser Podcast erzählt über mehrere Folgen die Details der letzten 13 Minuten der ersten Mondlandung. Sehr, sehr packend.
