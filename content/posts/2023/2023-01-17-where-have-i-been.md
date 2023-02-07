@@ -27,7 +27,7 @@ Ich schalte mein Telefon in der Nacht immer aus, also habe ich im Schnitt (bei 8
 Aufgrund der Sommerferien an den Dolomiten und den Herbsferien in Sardinien sind wir fast 400 km iun Ost-West-Richtung und knapp 800 km in Nord-Süd-Richtung unterwegs gewesen.
 Im Median war ich im [Beachcenter Bern](https://www.openstreetmap.org/way/25678439), nämlich als ich dort Festbänke und Tische für unser Strassenfest abholte.
 Am nördlichsten wiederum in Basel, am östlichsten in San Giovanni di Fassa neben Bolzano, am westlichsten in der Nähe von Lausanne und am südlichsten in Urzulei in Sardinien.
-Der höchste Punkt war zum Start in die Skisaison vor einem Monat auf dem kleinen Matterhorn in Zermatt. 
+Der höchste Punkt war zum Start in die Skisaison vor einem Monat auf dem kleinen Matterhorn in Zermatt.
 
 Unten ist die Heatmap meiner Positionen im 2022 eingebunden, so dass Reinzoomen in die Karte und Raussuchen anderer Ausflüge selbst möglich ist.
 
