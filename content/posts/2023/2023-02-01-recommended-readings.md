@@ -1,6 +1,6 @@
 ---
 title: Recommended Readings vom Januar 2023
-date: 2022-02-01T19:00:00.000+00:00
+date: 2023-02-01T19:00:00.000+00:00
 slug: recommended-readings-januar-2023
 categories:
 - recommended readings
