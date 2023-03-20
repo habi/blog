@@ -24,7 +24,7 @@ Wie schon ein paar Jahre habe ich dank dem 'Premium'-Abo von [WHIB](http://www.b
 Schlussendlich habe ich 23500 Datenpunkte mit einer Position im 2022.
 Ich schalte mein Telefon in der Nacht immer aus, also habe ich im Schnitt (bei 8h Telefon 'off') ca. alle 15 Minuten einen Datenpunkt.
 
-Aufgrund der Sommerferien an den Dolomiten und den Herbsferien in Sardinien sind wir fast 400 km iun Ost-West-Richtung und knapp 800 km in Nord-Süd-Richtung unterwegs gewesen.
+Aufgrund der Sommerferien an den Dolomiten und den Herbsferien in Sardinien sind wir fast 400 km in Ost-West-Richtung und knapp 800 km in Nord-Süd-Richtung unterwegs gewesen.
 Im Median war ich im [Beachcenter Bern](https://www.openstreetmap.org/way/25678439), nämlich als ich dort Festbänke und Tische für unser Strassenfest abholte.
 Am nördlichsten wiederum in Basel, am östlichsten in San Giovanni di Fassa neben Bolzano, am westlichsten in der Nähe von Lausanne und am südlichsten in Urzulei in Sardinien.
 Der höchste Punkt war zum Start in die Skisaison vor einem Monat auf dem kleinen Matterhorn in Zermatt.
