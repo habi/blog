@@ -13,7 +13,7 @@ tags:
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [PR as open letter](https://tante.cc/2023/03/29/pr-as-open-letter/) *(tante.cc)* : Jürgen Geuterr schreibt über den [offenen Brief des Future Of Life-Instituts](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), welcher eine Pause für AI-Experimente fordert. Eine sehr gute Einordnung.
+- [PR as open letter](https://tante.cc/2023/03/29/pr-as-open-letter/) *(tante.cc)* : Jürgen Geuter schreibt über den [offenen Brief des Future Of Life-Instituts](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), welcher eine Pause für AI-Experimente fordert. Eine sehr gute Einordnung.
 - [Approximating pi using... a cake?](https://ntietz.com/blog/happy-pi-day-2023/) *(ntietz.com)* : In der biomedizinischen Forschung gib't das Fachgebiet der [Stereologie](https://de.wikipedia.org/wiki/Stereologie), wo anhand Schnitte durch ein Material dessen charakteristische Parameter genau abschätzen lassen. Mit Kuchenstreuseln lässt sich π erstaunlich genau bestimmen.
 - [Das Netzwerk der Jungen Rechten](https://www.antifa.ch/das-netzwerk-der-jungen-rechten/) *(antifa.ch)* : Die Antifa beleuchtet ein Netzwerk zwischen Junger SVP, der Identitären Bewegung und der Jungen Tat.
 - [Der Saubermann der Verschwörungsszene](https://www.antifa.ch/der-saubermann-der-verschwoerungsszene/) *(antifa.ch)* : Protest gegen umstrittenen Historiker Daniele Ganser. Daniele Ganser geht auf Vortragstour. In einigen Städten gab es bereits Protest gegen seine Auftritte – teilweise mit Erfolg. Im Gegensatz zu anderen seines Metiers schafft er es weiterhin, als »umstrittener Historiker« ganze Hallen zu füllen.
