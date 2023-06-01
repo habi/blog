@@ -25,4 +25,4 @@ Ist das äxtra so?
 ![Neue Brücke, Blick von Westen mit Markierung](https://habi.gna.ch/wp-content/uploads/2023/05/IMG_3615_gemessen-scaled.jpg)
 
 [1]: OK, so gerade wie geht, nämlich oben -0.331° und unten 0.475°, im Mittel 0.144°
-[2]: Oben -1.121° und unten -0.762°, im Mittel also -0.942°. Macht <em>summa summarum</em> 1.0855°
+[2]: Oben -1.121° und unten -0.762°, im Mittel also -0.942°. Macht *summa summarum* 1.0855°
