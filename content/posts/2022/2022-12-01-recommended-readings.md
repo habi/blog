@@ -29,7 +29,7 @@ Wie Esswaren gehen würden, wenn sie denn gehen könnten.
 Wie bei [Boing Boing](https://boingboing.net/2022/11/10/how-would-food-walk.html) geschrieben; diese Dame würde ich gerne mal persönlich kennenlernen, die scheint eine witzigen zu sein.
 
 {{< youtube rSc9xYPMAQY >}}
-"The Slow Mo Guys" spielen Billard. 
+"The Slow Mo Guys" spielen Billard.
 
 {{< youtube VIQr1UyhwWk >}}
 [Starlink](https://www.starlink.com) ist eine ziemlich faszinierende Idee.
