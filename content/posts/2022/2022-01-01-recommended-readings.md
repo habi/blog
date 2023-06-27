@@ -9,46 +9,29 @@ tags:
 - reading
 - recommended readings
 - linkdump
-draft: yes
 ---
 
 Im letzten Monat (und ein paar Tagen im Januar dazu) las ich folgende Texte und fand diese gut:
 
-- [Marriage Requires Amnesia](https://www.nytimes.com/2021/12/24/style/marriage-heather-havrilesky-foreverland.html) *(nytimes.com)*: 
-- [Nothing like this will be built again](https://www.antipope.org/charlie/blog-static/rants/nothing-like-this-will-be-buil.html) *(antipope.org)*: 
-- [Ten Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life) *(chaidarun.com)*: 
-- [‘Am I even fit to be a mom?’ Diaper need is an invisible part of poverty in America](https://19thnews.org/2021/11/diaper-need-rural-missouri/) *(19thnews.org)*: 
-- [Against 3X Speed](https://perell.com/essay/against-3x-speed/) *(perell.com)*: 
-- [The UX on this Small Child Is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) *(mcsweeneys.net)*: 
-- [The Crow Whisperer](https://harpers.org/archive/2021/04/the-crow-whisperer-animal-communicators/) *(harpers.org)*: 
-- [Why Are the World’s Greatest Mangoes Almost Impossible to Buy in the U.S.?](https://www.eater.com/22618349/pakistani-mangoes-chaunsa-anwar-ratol-buy-usa-whatsapp-shipping-supply-chain) *(eater.com)*: 
-- [The tangled history of mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w) *(nature.com)*: 
-- [Average colors of the world](https://eox.at/2021/08/average-colors-of-the-world/) *(eox.at)*: 
-- [Channel migrants tragedy: Terrifying final hours of their fatal journey](https://www.bbc.co.uk/news/resources/idt-b7bd2274-88b1-4ef9-a459-be22e180b52c) *(bbc.co.uk)*: 
-- [Birds Aren’t Real, or Are They? Inside a Gen Z Conspiracy Theory.](https://www.nytimes.com/2021/12/09/technology/birds-arent-real-gen-z-misinformation.html) *(nytimes.com)*: 
-- [Up all night with a Twitch millionaire: The loneliness and rage of the Internet’s new rock stars](https://www.washingtonpost.com/technology/2021/12/02/twitch-loltyler1-tyler-steinkamp/) *(washingtonpost.com)*: 
-- [How to Survive a Killer Asteroid](https://www.wired.com/story/how-to-survive-a-killer-asteroid/) *(wired.com)*: 
-- [The Third Web](https://tante.cc/2021/12/17/the-third-web/) *(tante.cc)*: 
-- [Ursprünge der Impfskepsis: Eine deutsche Besonderheit](https://taz.de/!5818070/) *(taz.de)*: 
-- [Should you contribute open data to OpenStreetMap for free?](https://www.ctrl.blog/entry/re-maps-public-service.html) *(ctrl.blog)*: 
-- [Should you fix errors and contribute to Google Maps for free?](https://www.ctrl.blog/entry/maps-public-service.html) *(ctrl.blog)*: 
-- [OSMF-Vorstand kodifiziert englischsprachige und anglo-amerikanische kulturelle Dominanz in der OSMF](https://www.openstreetmap.org/user/imagico/diary/392072) *(openstreetmap.org)*: 
-- ['It Saved My Life': Depression Treatment Is Turning Lives Around in Five Days](https://www.kqed.org/news/11898991/it-saved-my-life-depression-treatment-turns-lives-around-in-five-days) *(kqed.org)*: 
-- [Versöhnung mit Querdenkern? Möglich?](https://fadegrad.co/2021/11/12/versohnung-mit-querdenkern-moglich/) *(fadegrad.co)*: 
-- [«Bomben-Holocaust» und Physiognomie – wer ist der «Swiss Mens Club of Freedom»?](https://www.megafon.ch/aktuelles/bomben-holocaust-und-physiognomie-wer-ist-der-swiss-mens-club-of-freedom/) *(megafon.ch)*: 
-- [How I became the internet’s most notorious bike thief](https://cyclingtips.com/2021/11/how-i-became-the-internets-most-notorious-bike-thief/) *(cyclingtips.com)*: 
-- [How to rest well](https://psyche.co/guides/how-to-rest-well-and-enjoy-a-more-creative-sustainable-life) *(psyche.co)*: 
-- [Firefox is the Only Alternative](https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/) *(batsov.com)*: 
-- [I was sent to erase a man from existence and became haunted by him](https://permanenttourist.ch/2021/11/i-was-sent-to-erase-a-man-from-existence-and-became-haunted-by-him/) *(permanenttourist.ch)*: 
-- [Gewalt und Missbrauch: Wenn Behörden Müttern ihre Kinder wegnehmen](https://www.buzzfeed.de/recherchen/gewalt-missbrauch-behoerden-muetter-kinder-wegnehmen-vaeter-zr-91142503.html) *(buzzfeed.de)*: 
-- [Trans Sein ist eine Eigenschaft von Menschen, nicht aber ihr Kern](https://www.higgs.ch/trans-sein-ist-eine-eigenschaft-von-menschen-nicht-aber-ihr-kern/46939/) *(higgs.ch)*: 
-- [Trackt das Covid-Zertifikat vielleicht doch?](https://dnip.ch/2021/11/25/trackt-das-covid-zertifikate-vielleicht-doch/) *(dnip.ch)*: 
-- [Körper in der Krise](https://daslamm.ch/koerper-in-der-krise/) *(daslamm.ch)*: 
-- [How WD-40 Became Rust’s Worst Enemy](https://tedium.co/2021/11/26/wd-40-chemical-history/) *(tedium.co)*: 
-- [10 years of... whatever this has been](https://apenwarr.ca/log/20211117) *(apenwarr.ca)*: 
-- [Marilyn Manson: The Monster Hiding in Plain Sight](https://www.rollingstone.com/music/music-features/marilyn-manson-abuse-allegations-1256888/) *(rollingstone.com)*: 
-- [2G-Regel: Gedenkstätte Buchenwald erhält Hass-Mails](https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/weimar/corona-buchenwald-zwei-g-drohungen-100.html) *(mdr.de)*: 
-
+- [Marriage Requires Amnesia](https://www.nytimes.com/2021/12/24/style/marriage-heather-havrilesky-foreverland.html) *(nytimes.com)*: Eine funktionierende Partnerschaft braucht Vergessen.
+- [Nothing like this will be built again](https://web.archive.org/web/20230529221601/https://www.antipope.org/charlie/blog-static/rants/nothing-like-this-will-be-buil.html) *(antipope.org)*: So dinosaurierartig am Aussterben wie Atomkraftwerke sind, sind diese ingenieursmässig ziemlich spannend.
+- [Ten Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life) *(chaidarun.com)*: #quantifiedself to the max!
+- [‘Am I even fit to be a mom?’ Diaper need is an invisible part of poverty in America](https://19thnews.org/2021/11/diaper-need-rural-missouri/) *(19thnews.org)*: Armut in der ersten Welt; Eltern haben nicht genug Geld für Windeln.
+- [Against 3X Speed](https://perell.com/essay/against-3x-speed/) *(perell.com)*: Eine Ode an die Langsamkeit.
+- [The UX on this Small Child Is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) *(mcsweeneys.net)*: Wenn ein Interface-Designer über sein Kind schreibt.
+- [Why Are the World’s Greatest Mangoes Almost Impossible to Buy in the U.S.?](https://www.eater.com/22618349/pakistani-mangoes-chaunsa-anwar-ratol-buy-usa-whatsapp-shipping-supply-chain) *(eater.com)*: Wenn ein Foodie an die besten Mangos der Welt - aus Pakistan - kommen will. Und in den USA lebt.
+- [The tangled history of mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w) *(nature.com)*: Die lange Geschichte der mRNA-Impfstoffe.
+- [Average colors of the world](https://eox.at/2021/08/average-colors-of-the-world/) *(eox.at)*: Wunderschöne Darstellung der Erdoberfläche; die durchschnittliche Farbe von Regionen.
+- [Channel migrants tragedy: Terrifying final hours of their fatal journey](https://www.bbc.co.uk/news/resources/idt-b7bd2274-88b1-4ef9-a459-be22e180b52c) *(bbc.co.uk)*: Aufarbeitung eines von vielen Flüchtlingsdramen, die sich in den Gewässern um Europa abspielen.
+- [Birds Aren’t Real, or Are They? Inside a Gen Z Conspiracy Theory.](https://www.nytimes.com/2021/12/09/technology/birds-arent-real-gen-z-misinformation.html) *(nytimes.com)*: Verschwörungstheoretiker:innen foppen.
+- [How to Survive a Killer Asteroid](https://www.wired.com/story/how-to-survive-a-killer-asteroid/) *(wired.com)*: Wie mensch einen Asteroideneinschlag welcher die Dinosauert tötete überleben könnte.
+- [Das Dritte Web](https://tante.cc/2022/02/04/das-dritte-web/) *(tante.cc)*: Das dritte Web ist keine Utopie. Es ist eine Kriegserklärung an einen Grossteil des politischen und sozialen Fortschritts der letzten Jahrzehnte.
+- [Ursprünge der Impfskepsis: Eine deutsche Besonderheit](https://taz.de/!5818070/) *(taz.de)*: In deutschsprachigen Ländern herrscht Misstrauen gegenüber der Impfung. Das ist auf die Romantik zurückzuführen – aber auch auf Politikversagen.
+- [«Bomben-Holocaust» und Physiognomie – wer ist der «Swiss Mens Club of Freedom»?](https://www.megafon.ch/aktuelles/bomben-holocaust-und-physiognomie-wer-ist-der-swiss-mens-club-of-freedom/) *(megafon.ch)*: Sie geben sich bedrohlich und stark: Seit gut drei Monaten treibt sich eine Männer-Gruppe namens «Swiss Mens Club of Freedom» an Demonstrationen der Massnahmengegner*innen herum. Viele fragen sich: Wer ist das? Wir sind dem nachgegangen.
+- [How I became the internet’s most notorious bike thief](https://velo.outsideonline.com/2021/11/how-i-became-the-internets-most-notorious-bike-thief/) *(cyclingtips.com)*: Wie aus einem schnellen Schnappschuss für einen Online-Artikel der am weitesten gereiste Velodie wurde.
+- [How to rest well](https://psyche.co/guides/how-to-rest-well-and-enjoy-a-more-creative-sustainable-life) *(psyche.co)*: Pause machen will gelernt sein.
+- [Körper in der Krise](https://daslamm.ch/koerper-in-der-krise/) *(daslamm.ch)*:  In der Pandemie wie an den Grenzen Europas wird mit Körpern Politik gemacht. Manche Körper werden heiliggesprochen, andere abgewertet. Timo Krstin plädiert für eine bewusste Politisierung und den solidarischen Einsatz aller Körper im Kampf um gesellschaftliche Freiheit.
+- [How WD-40 Became Rust’s Worst Enemy](https://tedium.co/2021/11/26/wd-40-chemical-history/) *(tedium.co)*: Über WD-40.
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
