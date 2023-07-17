@@ -1,6 +1,6 @@
 ---
 title: Recommended Readings vom Juni 2023
-date: 2022-07-01T19:00:00.000+00:00
+date: 2023-07-01T19:00:00.000+00:00
 slug: recommended-readings-juni-2023
 categories:
 - recommended readings
