@@ -21,6 +21,7 @@ tags:
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 <iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:video:d85f7a4d-1f18-475d-b3a7-74da2f03a32b&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
 Am 26. April 2003 wurde der 15-jährige Schüler Dominik Bein beim Eisenwerk in Frauenfeld von sieben Rechtsextremen halb totgeprügelt.
 Dominik Bein ist seither schwer behindert.
 FCK NZS!

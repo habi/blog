@@ -25,6 +25,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 <iframe width="1024" height="576" src="https://app.media.ccc.de/v/dgwk2023-56044-elektronisches-patientend/oembed" frameborder="0" allowfullscreen></iframe>
+
 Das elektronische Patientendossier kommt sicher jetzt endlich dieses Jahr aber so richtig.
 Mein persönliches EPD hatte ja einen [ziemlich holprigen Start](https://mastodon.social/@habi/109502446824685568) und liegt seither brach.
 Immerhin sollen bis 'Herbst 2023' die Daten, die meineimpfungen.ch eigentlich hätte löschen sollen [ins EPD integriert werden können](https://www.e-health-suisse.ch/technik-semantik/semantische-interoperabilitaet/eimpfung.html)...
