@@ -13,7 +13,7 @@ tags:
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [Watching Paint Dry](https://edconway.substack.com/p/watching-paint-dry) *(edconway.substack.com)* : Nur auf den ersten Blich über trocknenden Autoloack.
+- [Watching Paint Dry](https://edconway.substack.com/p/watching-paint-dry) *(edconway.substack.com)* : Nur auf den ersten Blick über trocknenden Autoloack.
 - [Obdachlosigkeit und Aufbruch: Mein Leben auf der Straße](https://taz.de/!5931604/) *(taz.de)* : Der Autor dieses Textes ist auf der Straße gross geworden, der Berliner Hermannplatz war sein Wohnzimmer. Eine Geschichte von Gewalt, Drogen und Zusammenhalt.
 - [Dinner with Proust: how Alzheimer’s caregivers are pulled into their patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds) *(theguardian.com)* : Was sagen Sie zu jemandem, dessen Frau Fotos von verstorbenen Schriftstellern lieber mag als ihn?
 - [Why woodpeckers can hammer without getting headaches](https://www.birdwatchingdaily.com/news/science/woodpeckers-hammer-without-headaches/) *(birdwatchingdaily.com)* : Die Zunge von Spechten ist grandios. Die Erklärung, wieso Spechte nicht unter massiven Dauerkopfschmerzen leiden ebenfalls.
