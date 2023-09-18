@@ -35,7 +35,7 @@ Im letzten Monat (und ein paar Tagen im Januar dazu) las ich folgende Texte und 
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< youtube OFXxtvKW4ok >}
+{{< youtube OFXxtvKW4ok >}}
 Nazi-Band "Erschießungskommando": Wer steckt dahinter?
 
 {{< youtube x4Av3jGKee8 >}}
