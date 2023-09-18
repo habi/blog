@@ -1,5 +1,5 @@
 ---
-title: Kurzkritik: Asteroid City
+title: "Kurzkritik: Asteroid City"
 date = 2023-09-17T22:41:27+02:00
 categories:
 - movies
