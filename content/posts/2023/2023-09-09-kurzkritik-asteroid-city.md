@@ -1,10 +1,11 @@
 ---
 title: "Kurzkritik: Asteroid City"
-date = 2023-09-17T22:41:27+02:00
+date: 2023-09-17T22:41:27+02:00
 categories:
 - movies
 tags:
 - kurzkritik
+- movies
 ---
 
 Ein Film mit Tilda Swinton ist immer sehenswert.
