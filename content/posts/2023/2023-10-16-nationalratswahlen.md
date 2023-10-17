@@ -1,6 +1,7 @@
 ---
-title: National- und Ständeratswahlen 2023
-date: 2023-10-16T21:07:00.000+00:00
+title: "National- und Ständeratswahlen 2023"
+date: 2023-10-16T21:07:00+02:00
+slug: national-und-staenderatswahlen-2023
 categories:
 - personal
 tags:
