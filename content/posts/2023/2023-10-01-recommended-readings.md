@@ -1,6 +1,6 @@
 ---
 title: Recommended Readings vom Oktober 2023
-date: 2022-10-01T19:00:00.000+00:00
+date: 2023-10-01T19:00:00.000+00:00
 slug: recommended-readings-oktober-2023
 categories:
 - recommended readings
