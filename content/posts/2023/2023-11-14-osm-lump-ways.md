@@ -55,25 +55,24 @@ die längste 'Bahnhofstrasse', die längste 'Rue de la Gare', die längste 'Via 
 Diese sind als Karte unten eingebunden.
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.osm.ch/en/map/langste-bahnhofstrasse_6326?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.osm.ch/en/map/langste-bahnhofstrasse_6326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a></p>
-Die längste Bahnhofstrasse der Schweiz mit 3.14 km in Unterneuhaus (am Rand der Schweiz).
+Die längste *Bahnhofstrasse* der Schweiz mit 3.14 km in Unterneuhaus (am Rand der Schweiz).
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.osm.ch/en/map/la-plus-longue-rue-de-la-gare_6327?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.osm.ch/en/map/la-plus-longue-rue-de-la-gare_6327?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a></p>
-Die längste Rue de la Gare der Schweiz mit 2.29 km in Sonceboz-Sombeval.
+Die längste *Rue de la Gare* der Schweiz mit 2.29 km in Sonceboz-Sombeval.
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.osm.ch/en/map/la-via-della-stazione-la-piu-lunga-della-svizzera_6328?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.osm.ch/en/map/la-via-della-stazione-la-piu-lunga-della-svizzera_6328?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a></p>
-Die längste Via della Stazione der Schweiz mit 1.69 km in Airolo.
+Die längste *Via della Stazione* der Schweiz mit 1.69 km in Airolo.
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.osm.ch/en/map/la-lung-via-de-la-staziun_6329?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.osm.ch/en/map/la-lung-via-de-la-staziun_6329?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a></p>
-Die längste Via de la Staziun der Schweiz mit 1.05 km in Pontresina.
-
+Die längste *Via de la Staziun* der Schweiz mit 1.05 km in Pontresina.
 
 Das Spiel können wir mit 
 
 ````bash
-./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian --overwrite -f name~"[b|B]ahnhof" -o ch-bahnhof-all.geojson
-./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian --overwrite -f name~"la [g|G]are" -o ch-gare-all.geojson
-./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian --overwrite -f name~"la [s|S]tazion" -o ch-la-stazion-all.geojson
-./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian --overwrite -f name~"la [s|S]taziun" -o ch-la-staziun-all.geojson
+./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian -f name~"[b|B]ahnhof" -o ch-bahnhof-all.geojson
+./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian -f name~"la [g|G]are" -o ch-gare-all.geojson
+./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian -f name~"la [s|S]tazion" -o ch-la-stazion-all.geojson
+./osm-lump-ways -i switzerland-latest.osm.pbf -f highway -f highway≠pedestrian -f name~"la [s|S]taziun" -o ch-la-staziun-all.geojson
 ````
 wiederholen und wir haben dann jeweils *alle* solchen in einer jeweiligen Datei.
 Diese alle geoJSON-Dateien schieben wir in eine sogenannte uMap und stellen für jede Sprachregion eine [hübsche Farbe](https://www.learnui.design/tools/data-color-picker.html#palette) ein.
