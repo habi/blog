@@ -1,6 +1,6 @@
 ---
 title: "Die Bahnhofstrassen in jeder Schweizer Sprachregion"
-date: 2023-11-114T20:50:00+02:00
+date: 2023-11-14T20:50:00+02:00
 slug: die-bahnhofstrassen-in-jeder-schweizer-sprachregion v
 categories:
 - code
