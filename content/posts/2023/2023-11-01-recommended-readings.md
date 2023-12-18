@@ -35,4 +35,4 @@ Simple Ideen funktionieren am besten.
 Modellautos und eine leere Wasserrutschbahn.
 
 {{< youtube OUnp4Ifa2LY >}}
-Also was ist jetzt genau [`level`](https://wiki.openstreetmap.org/wiki/DE:Key:level)`=0`?
+Also was ist jetzt genau [`level=0`](https://wiki.openstreetmap.org/wiki/DE:Key:level)?
