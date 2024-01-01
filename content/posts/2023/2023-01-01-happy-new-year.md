@@ -1,7 +1,7 @@
 ---
 title: Happy 2023
 date: 2023-01-01T01:23:45.000+00:00
-slug: happy-2022
+slug: happy-2023
 categories:
 - personal
 tags:
