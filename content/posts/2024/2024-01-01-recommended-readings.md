@@ -22,7 +22,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w) *(nature.com)* : ChatGPT prozuziert relativ überzeugende gefälschte Daten, um eine Hypothese zu stützen. Nur eine wissenschafts-forensische Untersuchung zeigt, dass die Daten nicht als authentisch durchgehen.
 - [My Toddler Loves Planes, So I Built Her A Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built) *(jacobbartlett.substack.com)* : Ein Kind (oder mehrere) glücklich machen, indem mensch eine 'einfache' und sehr spezifische App programmiert: [Aviator](https://apps.apple.com/gb/app/aviator-radar-on-your-phone/id6469189335).
 - [Thirty-six Thousand Feet Under the Sea](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea) *(newyorker.com)* : 
-- [stranger video: staring contests with strangers](http://eieio.games/nonsense/game-12-stranger-video/) *(eieio.games)* : [https://stranger.video](stranger.video) passt sehr gut zum Ende von [Omegle](https://www.omegle.com/) und ist ziemlich lustig. Blinzelwettbewerb mit jemandem Unbekannten, sonst nix.
+- [stranger video: staring contests with strangers](http://eieio.games/nonsense/game-12-stranger-video/) *(eieio.games)* : [stranger.video](https://stranger.video) passt sehr gut zum Ende von [Omegle](https://www.omegle.com/) und ist ziemlich lustig. Blinzelwettbewerb mit jemandem Unbekannten, sonst nix.
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
