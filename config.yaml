@@ -1,0 +1,33 @@
+title: This used to be habi.gna.ch
+baseURL: 'https://blog.davidhaberthuer.ch'
+languageCode: en-us
+publishDir: public
+theme:
+  - github.com/theNewDynamic/gohugo-theme-ananke
+enableRobotsTXT: true
+recent_posts_number: 15
+rssLimit: 15
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+params:
+  description: General geekery
+  text_color: ''
+  author: ''
+  favicon: ''
+  site_logo: ''
+  background_color_class: bg-green
+  ananke_socials:
+    - name: GitHub
+      url: 'http://github.com/habi'
+    - name: Mastodon
+      url: 'https://mastodon.social/@habi'
+    - name: Flickr
+      url: 'http://flic.kr/habi'
+    - name: Linkedin
+      url: 'https://www.linkedin.com/in/haberthuer/'
+    - name: Youtube
+      url: 'http://youtube.com/habi'
+permalinks:
+  posts: '/:year/:month/:day/:slug/'
