@@ -3,7 +3,7 @@ baseURL: 'https://blog.davidhaberthuer.ch'
 languageCode: en-us
 publishDir: public
 theme:
-  - github.com/theNewDynamic/gohugo-theme-ananke
+  - ananke
 enableRobotsTXT: true
 recent_posts_number: 15
 rssLimit: 15
