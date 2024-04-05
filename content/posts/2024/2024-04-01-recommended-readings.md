@@ -33,7 +33,7 @@ Logan Williams von [Bellingcat](https://www.bellingcat.com) massiert Geodaten un
 Quasi die praktische Anwendung des obigen Videos.
 Auf der Suche nach einer Menschengruppe, die an einem speziellen Ort lebt.
 
-{{< youtube gNRnrn5DE58 <}}
+{{< youtube gNRnrn5DE58 >}}
 Ingenieurhistorie, sehr hübsch.
 
 {{< youtube 0ZhHoyqQEhA >}}
