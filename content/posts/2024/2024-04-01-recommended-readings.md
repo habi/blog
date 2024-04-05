@@ -1,6 +1,6 @@
 ---
 title: Recommended Readings vom März 2023
-date: 2022-04-01T19:00:00.000+00:00
+date: 2024-04-01T19:00:00.000+00:00
 slug: recommended-readings-märz-2023
 categories:
 - recommended readings
