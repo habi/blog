@@ -1,5 +1,5 @@
 ---
-title: Recommended Readings vom April 2023
+title: Recommended Readings vom April 2024
 date: 2024-05-01T19:00:00.000+00:00
 slug: recommended-readings-april-2023
 categories:
