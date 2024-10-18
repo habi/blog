@@ -9,8 +9,8 @@ tags:
 - reading
 - recommended readings
 - linkdump
-
 ---
+
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
 - [11 rules for buying an ebike, and the 11 ebikes to buy now](https://ryanj.substack.com/p/ebikes) *(ryanj.substack.com)*: Wenn du ein E-Bike kaufen willst, dann weiss Ryan mehr darüber, er hat ja ca. 60 Stück davon. Ich werde ja über die Jahre altersmilde und finde: hauptsache mehr Velos auf der Strasse!
@@ -29,7 +29,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 
 Im letzten Monat habe ich folgenden Tweet besonders gut gefunden:
 
-{{< twitter 1055566258480074752 >}}
+{{< twitter user="digi" id="1055566258480074752" >}}
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 

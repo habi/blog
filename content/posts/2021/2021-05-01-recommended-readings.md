@@ -29,7 +29,7 @@ In the 1920s and 1930s, a dozen adventurous young riders went on the ultimate jo
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< tweet 1378791256319520773 >}}
+{{< twitter user="brittlestar" id="1378791256319520773" >}}
 Der Herr Spricht mir aus der Seele
 
 {{< youtube V6CLumsir34 >}}
