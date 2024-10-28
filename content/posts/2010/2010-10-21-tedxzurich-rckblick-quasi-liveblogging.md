@@ -17,7 +17,7 @@ Gestern hat in Zürich die [TED](http://www.ted.com/)-[Satellitenkonferenz](http
 Ich habe (ausser dem Telefon und der Kamera) bewusst jede Konnektivität zuhause gelassen, um nicht in die Versuchung zu kommen, während den Vorträgen live irgendwelchen Brimborium abzusondern, stattdessen wollte ich mich möglichst ganz auf die Vorträge konzentrieren [1].
 Wie Kusito nämlich korrekt bemerkte, gab es schon zuviele, die ihre Multitasking-fähigkeiten etwas gar stark ausreizten:
 
-{{< tweet 27916129192 >}}
+{{< tweet user="kusito" id="27916129192" >}}
 
 Stattdessen habe ich wahrend den Vortragen Gedanken in meinem Moleskine-Notizbuch festgehalten. Die Notizen sind - als Quasi-Liveblogging - unten als Galerie eingebunden, oder können in einem Rutsch als [TEDxZurich-RuckblicksPDF](https://habi.gna.ch/wp-content/uploads/2010/10/20101021093744.pdf) heruntergeladen werden.
 
@@ -46,7 +46,7 @@ Sehr berührend war dann auch das anschliessende Geburtstagsgeschenk an Karen Ts
 Guess what to choose?
 Auch wenn sich nicht dabeigewesene kaum [vorstellen können](http://thomnagy.com/benjamin-zander-on-music-and-passion) (siehe Kommentare), dass das sehr bewegend war, stimme ich Thomas Nagy zu. mind. blown!
 
-{{< tweet 27918398783 >}}
+{{< tweet user="ThomNagy" id="27918398783" >}}
 
 [Corsin Gwerder und Lukas Limacher](http://tedxzurich.com/2010/10/16/rezero/) stellten ihren instabilen stabilen Roboter [Rezero](http://www.rezero.ethz.ch/) vor, der für ein Master-Projekt perfekt funktioniert, [Heike Bruch](http://tedxzurich.com/2010/09/29/heike-bruch-on-how-to-manage-organizational-energy/) hatte eine zu grosse Portion [Management-Theorie](https://de.wikipedia.org/wiki/Bullshit-Generator) in ihrem Organisations-Energie-Vortrag, der mich völlig uninspiriert zurückliess.
 [Abt Martin Werlen](http://tedxzurich.com/2010/10/13/abbot-martin-werlen/) erzählte aus seinem Autostöppler-Leben [2] und inspirierte uns dazu, auch mal denjenigen zuzuhören, von welchen wir eigentlich nichts erwarten.
