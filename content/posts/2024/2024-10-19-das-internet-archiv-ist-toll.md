@@ -1,9 +1,10 @@
 ---
-title: Recommended Readings vom September 2024
+title: Das Internet-Archiv ist toll
 date: 2024-10-29T21:13:00.000+00:00
 slug: das-internet-archiv-ist-toll
 tags:
 - history
+- technospeak
 ---
 
 Seit Jahren läuft das Blog hier (theoretisch) doppelt.
