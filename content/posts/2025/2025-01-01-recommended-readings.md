@@ -13,7 +13,7 @@ tags:
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [Writes and Write-Nots](https://paulgraham.com/writes.html) *(paulgraham.com)* : In eingen Jahrzehnten wird es einige Menschen geben, die nicht mehr schreiben können.
+- [Writes and Write-Nots](https://paulgraham.com/writes.html) *(paulgraham.com)* : In einigen Jahrzehnten wird es einige Menschen geben, die nicht mehr schreiben können.
 - [‘I received a first but it felt tainted and undeserved’: inside the university AI cheating crisis](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis) *(theguardian.com)* : Mehr als die Hälfte der Studenten nutzen inzwischen generative KI, um Texte zu schreiben. Was macht das mit der andeern Hälfte, die noch selber schreibt?
 - [What happens when the internet disappears?](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture) *(theverge.com)* : Das Internet ist immer und ewig. Aber ist es eben auch nicht. Was passiert mit unserer Kultur, wenn Websites einfach so verschwinden? Dazu: Wann hast du letztmals etwas dem Internet-Archiv gespendet? Hier kannst du: [archive.org/donate/](https://archive.org/donate/)
 - [Eat Poop You Cat](https://www.nplusonemag.com/issue-48/essays/eat-poop-you-cat/) *(nplusonemag.com)* : Kunst in Zeiten generativer künstlicher Intelligenz.
