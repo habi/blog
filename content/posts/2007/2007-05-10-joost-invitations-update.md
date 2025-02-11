@@ -10,9 +10,11 @@ categories:
 - technospeak
 ---
 
-is anyone still interested in [joost](http://joost.com/) invitations
- i can provide you with a bunch of them, just leave a comment!
+is anyone still interested in [joost](https://web.archive.org/web/20070510/http://joost.com/) invitations?
+i can provide you with a bunch of them, just leave a comment!
 
 **update:** i'll keep inviting util i've sent out 100 invitations.
 
-**update2:** done! from now on, you only get an invite, if you send me a nekkid picture of you, or go [here](http://joost.com/presents/gigaom-newteevee/)... comments are now closed on this post.
+**update2:** done!
+from now on, you only get an invite, if you send me a nekkid picture of you, or go [here](https://web.archive.org/web/20070510http://joost.com/presents/gigaom-newteevee/)...
+comments are now closed on this post.
