@@ -1,7 +1,7 @@
 baseURL: https://blog.davidhaberthuer.ch/
 languageCode: en-us
 title: "This used to be habi.gna.ch"
-theme: ink-free
+theme: hugo-theme-yue
 params:
   repository:
     branch: main
