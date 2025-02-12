@@ -19,6 +19,4 @@ microsoft provides a [demo](http://labs.live.com/photosynth/), so you can play w
 
 [via [basic thinking](http://www.basicthinking.de/blog/2007/06/05/microsoft-photosynth-seadragon-demo/)]
 
-
-
 Technorati Tags: [microsoft](http://www.technorati.com/tag/microsoft), [photosynth](http://www.technorati.com/tag/photosynth), [ted](http://www.technorati.com/tag/ted), [tedtalks](http://www.technorati.com/tag/tedtalks)
