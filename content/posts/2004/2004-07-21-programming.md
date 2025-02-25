@@ -46,5 +46,5 @@ in each cell.
 - thank b. for being such a nice guy.
 - look at the [endresult](http://suicmc04.ch/de/plan.html).
 - see that you need to look that the windows are in the right size (which they aren't, but i have to go to bed, i'll do that soon).
--go to bed.
--get up in 5 hours and 30 minutes.
+- go to bed.
+- get up in 5 hours and 30 minutes.
