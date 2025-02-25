@@ -1,0 +1,16 @@
+baseURL = "https://blog.davidhaberthuer.ch/"
+languageCode = "en-us"
+title = "This used to be habi.gna.ch"
+theme = "hugo-blog-awesome"
+
+[params.repository]
+branch = "main"
+owner = "habi"
+repo = "blog"
+service = "GitHub"
+urlPatternEdit = "https://github.com/%s/%s/edit/%s/%s"
+urlPatternView = "https://github.com/%s/%s/blob/%s/%s"
+
+[permalinks]
+posts = "/:year/:month/:day/:slug/"
+
