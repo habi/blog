@@ -1,0 +1,37 @@
+baseURL = "https://blog.davidhaberthuer.ch/"
+title = "This used to be habi.gna.ch"
+theme = "hugo-blog-awesome"
+# Enable emojis globally
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
+
+[params.repository]
+branch = "main"
+owner = "habi"
+repo = "blog"
+service = "GitHub"
+urlPatternEdit = "https://github.com/%s/%s/edit/%s/%s"
+urlPatternView = "https://github.com/%s/%s/blob/%s/%s"
+
+[permalinks]
+posts = "/:year/:month/:day/:slug/"
+
+[[params.socialIcons]]
+name = "flickr"
+url = "https://flickr.com/habi"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/habi"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.social/@habi"
+
+[[params.socialIcons]]
+name = "matrix"
+url = "https://matrix.to/#/@habi:matrix.to"
+
+[[params.socialIcons]]
+name = "RSS"
+url = "/index.xml"
