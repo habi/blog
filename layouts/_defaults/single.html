@@ -1,2 +1,34 @@
 {{ partial "repository-link.html" (dict "action" "edit" "page" .) }}
 {{ partial "repository-link.html" (dict "action" "view" "page" .) }}
+
+
+{{ define "main" }}
+  <h1>{{ .Title }} (weight = {{ .Weight }})</h1>
+  {{ .Content }}
+
+{{/* Get the current page, just to avoid context confusion later on. */}}
+{{ $currentPage := . }}
+
+{{/* Get all regular pages in the site. */}}
+{{ $allRegularPages := where site.AllPages "Kind" "page" }}
+
+{{/* Display the previous three pages by weight. */}}
+{{/* There might be less than three, or zero, depending on weights. */}}
+<h2>Previous three pages (by weight)</h2>
+{{ range where $allRegularPages.ByWeight "Weight" "lt" $currentPage.Weight | last 3 }}
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h3>
+{{ end }}
+
+{{/* Display next three pages by weight. */}}
+{{/* There might be less than three, or zero, depending on weights. */}}
+<h2>Next three pages (by weight)</h2>
+{{ range where $allRegularPages.ByWeight "Weight" "gt" $currentPage.Weight | first 3 }}
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h3>
+{{ end }}
+
+{{ end }}
+
+
+{{ range first 3 (where .CurrentSection.Pages "Date" "lt" .Date) }}
+  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+{{ end }}
