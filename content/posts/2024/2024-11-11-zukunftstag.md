@@ -1,6 +1,7 @@
 ---
 date: '2024-11-11T11:11:11+01:00'
 title: 'Eine Spinne'
+slug: zukunftstag
 categories:
 - technospeak
 tags:
