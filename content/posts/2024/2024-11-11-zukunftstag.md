@@ -12,7 +12,7 @@ tags:
 (Achtung Arachnophobiker:innen, hier bitte wegschauen)
 
 Am [Zukunftstag](https://www.nationalerzukunftstag.ch/) hatte ich eine interessierte Besucherin hier im Labor.
-Nachdem sie mir geholfen hat, für die anderen Zukunftstag-Besucherinnen hier am Institut für Anatome (University of Bern) Tomographieaufnahmen von drei Kinder-Überraschungseiern zu machen, konnten wir uns Ihrem Projekt widmen.
+Nachdem sie mir geholfen hat, für die anderen Zukunftstag-Besucherinnen hier am Institut für Anatomie der Uni Bern Tomographieaufnahmen von drei Kinder-Überraschungseiern zu machen, konnten wir uns Ihrem Projekt widmen.
 
 Sie hat eine munzig kleine Spinne aus dem Feuerholzstapel zuhause mitgenommen (der Hinterkörper der Spinne ist 1.7 mm dick).
 
