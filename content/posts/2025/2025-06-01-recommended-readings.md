@@ -1,3 +1,4 @@
+
 ---
 title: Recommended Readings vom Mai 2025
 date: 2025-06-01T19:00:00.000+00:00
@@ -25,4 +26,4 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [Lessons from the Lebanese Space Program](https://kasurian.com/p/lebanese-space-program) *(kasurian.com)* : How the Lebanese Rocket Society's innovative drive and visionary leadership created a space program from scratch.
 - [Inside arχiv—the Most Transformative Platform in All of Science](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/) *(wired.com)* : Die moderne Wissenschaft würde ohne [arχiv](https://arxiv.org) (oder [medRχiv](https://www.medrxiv.org) oder [bioRχiv](https://www.biorxiv.org/)) nicht existieren. Der Erschaffer davon blickt auf 30 Jahre Geschichte zurück. 
 - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/) *(yarchive.net)* : Eine interessante Theorie, mit der die Prostata-Probleme von fast jedem älteren biologischen Mann gelöst werden könnten.
-- [Open Science and Science 2.0](http://offtopicarium.wikidot.com/v1:open-science-2-0) *(offtopicarium.wikidot.com)* : Über offene Wissenschaft, und wie es sein könnte. In den letzten Monaten habe ich im Job viel daran rumgedacht, [6 Publikationen]((https://wiki.davidhaberthuer.ch/publications)) sind an verschiedenen Orten im wissenschaftzlichen Publikationsprozess.
+- [Open Science and Science 2.0](http://offtopicarium.wikidot.com/v1:open-science-2-0) *(offtopicarium.wikidot.com)* : Über offene Wissenschaft, und wie es sein könnte. In den letzten Monaten habe ich im Job viel daran rumgedacht, [6 Publikationen](https://wiki.davidhaberthuer.ch/publications) sind an verschiedenen Orten im wissenschaftzlichen Publikationsprozess.
