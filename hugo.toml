@@ -1,6 +1,6 @@
 baseURL = "https://blog.davidhaberthuer.ch/"
 title = "This used to be habi.gna.ch"
-theme = "hugo-blog-awesome"
+theme = "hugo-theme-dream"
 # Enable emojis globally
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
