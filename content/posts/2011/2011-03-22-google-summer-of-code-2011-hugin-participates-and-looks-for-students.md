@@ -21,28 +21,26 @@ Since I'm no programmer I wanted to give back something to the community and wil
 
 So, if you know a student that would like to participate in a neat, C and C++-based project this summer, let her or him know about our mentoring page for GSoC: [Hugin - Panorama Photo Stitcher](http://www.google-melange.com/gsoc/org/show/google/gsoc2011/hugin)
 
-And just to be complete: The text below just went to the [hugin mailing list](http://groups.google.com/d/forum/hugin-ptx), the call for Students.
+And just to be complete: The text below just went to the [hugin mailing list](http://groups.google.com/d/forum/hugin-ptx), [the call for Students](https://groups.google.com/g/hugin-ptx/c/mQZypJEwxF4/m/af2IZ1r9_QoJ).
 
 [0]: Now of [darktable](http://darktable.sourceforge.net/)-fame, as seen [here](https://web.archive.org/web/20110323/http://prokoudine.info/blog/2011/03/darktable-in-gsoc2011/).
 
 ----
 
-<pre>
-  Dear prospective Students
-
-  Hugin has been accepted as a mentoring organization in the upcoming Google Summer of Code 2011. This email is the official call for students:
-
-  As Yuval already described in a blog post [1], would-be participants need to get to work soon.
-  The earlier, the better.
-  Familiarize yourself with the hugin codebase, think of an itch that bothers you and how you could help to get rid of that itch.
-  You need to work on your application, voice up and introduce yourself to the mailing list.
-  We have a dedicated page on the panotools wiki that describes the way to go [2].
-  Remember, the deadline for your application is April 8 19:00 UTC, this is in two and a half weeks!
-
-  Looking forward to hear from you
-  For the whole hugin-team
-  Habi, GSoC-Admin
-
-  [1]: http://wp.me/paLeH-xE
-  
-</pre>
+> Dear prospective Students
+>
+> Hugin has been accepted as a mentoring organization in the upcoming Google Summer of Code 2011. This email is the official call for students:
+>
+>  As Yuval already described in a blog post [1], would-be participants need to get to work soon.
+>  The earlier, the better.
+>  Familiarize yourself with the hugin codebase, think of an itch that bothers you and how you could help to get rid of that itch.
+>  You need to work on your application, voice up and introduce yourself to the mailing list.
+>  We have a dedicated page on the panotools wiki that describes the way to go [2].
+>  Remember, the deadline for your application is April 8 19:00 UTC, this is in two and a half weeks!
+>
+>  Looking forward to hear from you
+>  For the whole hugin-team
+>  Habi, GSoC-Admin
+>
+>  [1]: http://wp.me/paLeH-xE
+> 
