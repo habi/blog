@@ -23,32 +23,23 @@ Damit du die dich betreffenden Berner Abfuhrdaten in dein Kalenderprogramm (z.B.
 
 Anschliessend musst du nur den richtigen Google Calendar abonnieren. Die untenstehenden Links verweisen auf das jeweilige .ical-File, welches in allen standardkonformen KalenderApplikationen abonniert werden kann. Ich habe alle Daten aus dem Abfallkalender eingetragen, und die Ausnahmen (für Kreis B) entsprechend im Notizfeld markiert.
 
-[Papier & Karton Bern Kreis A](https://google.com/calendar/ical/k3bbladsc7r59t205mldtop6vc%40group.calendar.google.com/public/basic.ics)
-
-[Papier & Karton Bern Kreis B](https://google.com/calendar/ical/dmfv843hg1058ro36uu007aqmc%40group.calendar.google.com/public/basic.ics)
-
-[Papier & Karton Bern Kreis C](https://google.com/calendar/ical/qeqa5fns9245iaq4kti3safhcc%40group.calendar.google.com/public/basic.ics)
+- [Papier & Karton Bern Kreis A](https://google.com/calendar/ical/k3bbladsc7r59t205mldtop6vc%40group.calendar.google.com/public/basic.ics)
+- [Papier & Karton Bern Kreis B](https://google.com/calendar/ical/dmfv843hg1058ro36uu007aqmc%40group.calendar.google.com/public/basic.ics)
+- [Papier & Karton Bern Kreis C](https://google.com/calendar/ical/qeqa5fns9245iaq4kti3safhcc%40group.calendar.google.com/public/basic.ics)
 
 Da ja nebst Papier & Karton in Bern auch die Gartenabfälle abgeholt werden, habe ich auch diese in einen Google Calendar eingetragen. Wer also seinen Kompost rausstellen will, muss etwas genauer wissen, in welchem Kreis er oder sie wohnt, aber kann dann genau gleich verfahren und den entsprechenden Kalender öffnen und abonnieren.
 
-[Gartenabfälle Bern Kreis A1](https://google.com/calendar/ical/oslblrtuhfba8be1borunq3opo%40group.calendar.google.com/public/basic.ics)
-
-[Gartenabfälle Bern Kreis A2](https://google.com/calendar/ical/nln3veo8cb2gdlir0g6mut0ggk%40group.calendar.google.com/public/basic.ics)
-
-[Gartenabfälle Bern Kreis A3](https://google.com/calendar/ical/panqauqr8irvr3mjckp9pgo3jk%40group.calendar.google.com/public/basic.ics)
-
-[Gartenabfälle Bern Kreis A4](https://google.com/calendar/ical/68g5m12ro81gaksjd95r459uoc%40group.calendar.google.com/public/basic.ics)
-
-[Gartenabfälle Bern Kreis B1](https://google.com/calendar/ical/n6bteoe0aed2umkr57gncnvvds%40group.calendar.google.com/public/basic.ics)
-
-[Gartenabfälle Bern Kreis B2](https://google.com/calendar/ical/i7ai1hl91gqbpge1cd70k03t6c%40group.calendar.google.com/public/basic.ics)
-
-[Gartenabfälle Bern Kreis B3](https://google.com/calendar/ical/7ncb3vuofosrl15cko3p588pv4%40group.calendar.google.com/public/basic.ics)
-
-[Gartenabfälle Bern Kreis B4](https://google.com/calendar/ical/i88g40duccnsbiohd8hea8c2b8%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis A1](https://google.com/calendar/ical/oslblrtuhfba8be1borunq3opo%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis A2](https://google.com/calendar/ical/nln3veo8cb2gdlir0g6mut0ggk%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis A3](https://google.com/calendar/ical/panqauqr8irvr3mjckp9pgo3jk%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis A4](https://google.com/calendar/ical/68g5m12ro81gaksjd95r459uoc%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis B1](https://google.com/calendar/ical/n6bteoe0aed2umkr57gncnvvds%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis B2](https://google.com/calendar/ical/i7ai1hl91gqbpge1cd70k03t6c%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis B3](https://google.com/calendar/ical/7ncb3vuofosrl15cko3p588pv4%40group.calendar.google.com/public/basic.ics)
+- [Gartenabfälle Bern Kreis B4](https://google.com/calendar/ical/i88g40duccnsbiohd8hea8c2b8%40group.calendar.google.com/public/basic.ics)
 
 Wer will, kann die Kalender auch in seinen eigenen Google Calendar einbinden, damit (kostenlose) SMS-Notifikationen möglich sind. Dazu muss mensch aber eingeladen werden. Bei Bedarf einfach ein kurzes Mail an mich oder in den Kommentaren unten dementsprechend kundtun. Wenn Interesse am RSS-Feed oder der HTML-Darstellung eines Kalenders besteht, ebenso: einfach melden.
 
 Ich habe mir Mühe gegeben, alle Daten und Ausnahmen korrekt in die Kalender einzutragen. Für aufgrund meiner hier zur Verfügung zu falschen Zeiten auf die Strasse gestelltes Papier übernehme ich keine Verantwortung, bin aber trotzdem dankbar, wenn mensch mich auf evtl. Fehler aufmerksam macht.
 
-Falls jemand aufgrund meiner Arbeit schampar generös wird, habe ich hier eine [Wunschliste bei Amazon](20http://amzn.com/w/1K77C3MRF4YQU), von der mensch mir einfach Sachen bestellen kann...
+Falls jemand aufgrund meiner Arbeit schampar generös wird, habe ich hier eine [Wunschliste bei Amazon](https://web.archive.org/web/20100202/http://amzn.com/w/1K77C3MRF4YQU), von der mensch mir einfach Sachen bestellen kann...
