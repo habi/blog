@@ -10,7 +10,7 @@ tags:
 - mercedes
 ---
 
-i have to say, that the new video-format of the mercedes mixed tape is a bit over the top, but they still release some groovy sounds. you can download the 10 "modern folk" themed songs from [www.mercedes-benz.tv/mixedtape](http://%20www.mercedes-benz.tv/mixedtape)
+i have to say, that the new video-format of the mercedes mixed tape is a bit over the top, but they still release some groovy sounds. you can download the 10 "modern folk" themed songs from [www.mercedes-benz.tv/mixedtape](https://web.archive.org/web/20080424/http://www.mercedes-benz.tv/mixedtape)
 
 
 
