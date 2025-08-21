@@ -1,7 +1,7 @@
 ---
-title: Recommended Readings vom Juli 2025
+title: Recommended Readings vom Juni 2025
 date: 2025-07-01T19:00:00.000+00:00
-slug: recommended-readings-juli-2025
+slug: recommended-readings-juni-2025
 categories:
 - recommended readings
 tags:
