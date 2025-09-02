@@ -14,7 +14,6 @@ draft: yes
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [Creating the longest possible Ski Jump in The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup2.html) *(mrwint.github.io)* : 
 - [What screen time really does to children's brains](https://www.bbc.com/news/articles/c9d0l40v551o) *(bbc.com)* : 
 - [The Sunlight Budget of Earth](https://www.asimov.press/p/sunlight-budget) *(asimov.press)* : 
 - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/) *(wired.com)* : 
