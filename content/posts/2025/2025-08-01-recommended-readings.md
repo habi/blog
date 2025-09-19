@@ -31,5 +31,5 @@ Zwei Wochen in den Ferien im Juli haben dazu geführt, dass die untenstehenden T
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
-{{< x9M7ghTPaaU <}}
+{{< youtube x9M7ghTPaaU <}}
 Die Fenster sind wohl nicht SUVA-konform, aber als Ganzes ist das Haus wahnsinnig toll.
