@@ -23,7 +23,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 {{< youtube TWc48iVC8u8 >}}
-Destin Sandlin schaut sich Zikaden gaaanz genau an.
+[Destin Sandlin](https://www.smartereveryday.com) schaut sich Zikaden gaaanz genau an.
 
 {{< youtube xwuRUcAGIEU >}}
 Wieso es für Motorradfans nix besseres als Leder als Schutzkleidung gibt.
