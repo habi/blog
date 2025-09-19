@@ -18,7 +18,7 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [Klaus Theweleit: "Diese Männer sind nicht zu Ende geboren"](https://archive.ph/hrrDn) *(archive.ph)* : Wir leben in einer undenkbaren Zeit, sagt der Kulturwissenschaftler Klaus Theweleit. Soldatische Körper, leere Sprache, dreiste Lügen: Da entsteht eine neue Wirklichkeit.
 - [Passive microwave repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html) *(computer.rip)* : Old-School-Infrastruktur-Nerdism.
 - [What Makes a Mature Science](https://www.asimov.press/p/mature-science) *(asimov.press)* : Mechanismen allein können eine Wissenschaft nicht glaubwürdig machen. Die Wissenschaft muss ihren Untersuchungsgegenstand anhand von Eigenschaften und Regeln beschreiben. Musste ich zwei Mal lesen, hat sich aber gelohnt.
-- [Creating the longest possible Ski Jump in The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup2.html) *(mrwint.github.io)* : Hardcore-Nerdism: Ein OldSchool-Spiel digital auseinandernehmen, damit der längstmögliche Ski-Sprung in [Winter Games](https://www.retrogames.cz/play_419-DOS.php) (online spielbar!) möglich ist. [Hier](https://mrwint.github.io/winter/writeup/writeup.html) noch etwas mehr Hintergrund.
+- [Creating the longest possible Ski Jump in The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup2.html) *(mrwint.github.io)* : Hardcore-Nerdism: Ein OldSchool-Spiel digital auseinandernehmen, damit der längstmögliche Ski-Sprung in [Winter Games](https://archive.org/details/the_games_winter_challenge_1991) (online spielbar!) möglich ist. [Hier](https://mrwint.github.io/winter/writeup/writeup.html) noch etwas mehr Hintergrund.
 
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
