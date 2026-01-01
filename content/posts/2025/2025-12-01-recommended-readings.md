@@ -1,7 +1,7 @@
 ---
-title: Recommended Readings vom Dezember 2025
+title: Recommended Readings vom November 2025
 date: 2025-12-01T19:00:00.000+00:00
-slug: recommended-readings-dezember-2025
+slug: recommended-readings-november-2025
 categories:
 - recommended readings
 tags:
