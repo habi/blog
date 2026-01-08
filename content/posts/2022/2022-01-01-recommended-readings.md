@@ -39,7 +39,7 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
 Nazi-Band "Erschießungskommando": Wer steckt dahinter?
 
 {{< youtube x4Av3jGKee8 >}}
-Der [Hohstock-Skilift](https//www.openstreetmap.org/way/23602226) ist ein spezieller.
+Der [Hohstock-Skilift](https://www.openstreetmap.org/way/23602226) ist ein spezieller.
 
 {{< vimeo 122575482 >}}
 Zeitrafferaufnahmen von blühenden Kakteen. Wunderschön. [via [boingboing](https://boingboing.net/2021/12/10/stunning-psychedelic-timelapse-of-blooming-cactus-flowers.html)]
