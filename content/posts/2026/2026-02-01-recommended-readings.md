@@ -1,6 +1,6 @@
 ---
 title: Recommended Readings vom Januar 2025
-date: 2025-02-01T19:00:00.000+00:00
+date: 2026-02-01T19:00:00.000+00:00
 slug: recommended-readings-MONAT-2025
 categories:
 - recommended readings
