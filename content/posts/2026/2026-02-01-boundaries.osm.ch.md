@@ -43,15 +43,4 @@ Ich hätte die Abfrage der Gemeindegrenzen gerne mit [Overpass turbo](https://wi
 Schon [die erste Antwort](https://github.com/habi/swissboundaries/commit/b44bc00c88c278f4f7a17ebe1cd128721b5478f4) von Claude lieferte Resultate, die ich dann in [VS Code mit CoPilot](https://code.visualstudio.com/docs/copilot/overview) mit vielen Prompts immer weiter verfeinert habe.
 Ich habe nur *extrem* wenig Code selbst geschrieben, praktisch Alles wurde gesteuert durch meine Eingaben maschinell erstellt, minimalste Zwischenschritte wurden [von Anderen](https://github.com/habi/swissboundaries/pulls?q=is%3Apr+is%3Aclosed) beigesteuert.
 
-
-
-
-
-Review durch Community-Members, Issue von Simon auch durch LLM korrigiert.
-
-
-
-- Vibe coding: *keine* Zeile alleine geschrieben
-- TIGER: Verweis auf Simons diary post
-- Diskussion mit Seen, Tessin
-- Was kommt noch (Löcher/Enklaven)?
+Nachem [Simon Poole](https://www.openstreetmap.org/user/SimonPoole/) bemerkt hat, dass [Gemeindegrenzen mit Enklaven/Löchern](https://github.com/habi/swissboundaries/issues/5) nicht korrekt ausgewertet werden und einigen weitern Korrekturen der Berechnungslogik hat die Schweizer OSM-Community nun ein Tool, das den Vergleich der Gemeindegrenzen von swisstopo mit den Gemeindegrenzen in OpenStreetMap bietet: http://boundaries.osm.ch
