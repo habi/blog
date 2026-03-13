@@ -1,13 +1,12 @@
 ---
 title: Die (Gmeinde)Grenzen der Schweiz
-date: 2026-03-07T12:11:10.000+00:00
+date: 2026-03-13T14:15:16.000+00:00
 slug: recommended-readings-MONAT-2025
 categories:
 - openstreetmap
 tags:
 - openstreetmap
 - vibe coding
-draft: yes
 ---
 
 Ihr wisst ja, ich hab' einen OpenStreetMap-Fetisch :)
