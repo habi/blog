@@ -22,7 +22,7 @@ In einem Projekt bei der Arbeit habe ich mich etwas eingehender mit den sog. [Gi
 Eine solche Action baut beispielsweise aus etwas LaTeX-Code, der online liegt automatisch meinen [Lebenslauf](https://habi.github.io/cv/cv.pdf) (ich hab' keine Bewerbung offen, brauchte aber letzthin aus anderen Gründen einen Lebenslauf).
 Oder aus [etwas Textschnipseln](https://github.com/habi/sticklebacks-manuscript/tree/main/content) eine [Webseite](https://habi.github.io/sticklebacks-manuscript/) und ein [PDF](https://habi.github.io/sticklebacks-manuscript/manuscript.pdf), das eine Pubikation ergeben wird. 
 
-Item, Programmcode im Internet etwas machen zu lassen, ist mit solchen Actions einfach, schnell iterierbar und etwas weniger komplex, als per [`ssh`](/https://en.wikipedia.org/wiki/Secure_Shell) auf einem Server Python-Code laufen zu lassen.
+Item, Programmcode im Internet etwas machen zu lassen, ist mit solchen Actions einfach, schnell iterierbar und etwas weniger komplex, als per [`ssh`](https://en.wikipedia.org/wiki/Secure_Shell) auf einem Server Python-Code laufen zu lassen.
 
 Um die Gmeindegrenzen in OpenStreetMap zu überwachen habe ich jetzt nicht Programmiercode im Netz zum laufen gebracht, sondern diesen Programmiercode *nicht* selber geschrieben.
 Das geht mit sog. [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) gemacht.
