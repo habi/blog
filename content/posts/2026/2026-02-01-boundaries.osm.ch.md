@@ -1,7 +1,7 @@
 ---
-title: Die (Gmeinde)Grenzen der Schweiz
+title: Die (Gemeinde)Grenzen der Schweiz
 date: 2026-03-13T14:15:16.000+00:00
-slug: recommended-readings-MONAT-2025
+slug: gemeindegrenzenderschweiz
 categories:
 - openstreetmap
 tags:
