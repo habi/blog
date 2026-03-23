@@ -7,6 +7,7 @@ categories:
 tags:
 - openstreetmap
 - vibe coding
+- no borders no nations
 ---
 
 Ihr wisst ja, ich hab' einen OpenStreetMap-Fetisch :)
