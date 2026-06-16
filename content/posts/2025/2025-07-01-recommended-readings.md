@@ -20,7 +20,6 @@ Im letzten Monat las ich folgende Texte und fand diese gut:
 - [What happens if you drink acetone?](https://dynomight.net/2020/09/14/what-happens-if-you-drink-acetone/) *(dynomight.net)* : "Question: Should you drink acetone? Answer: No." Aber trotzdem ist es spannend mal genau nachzufragen. Viel schlimmer als Alkohol ist Aceton nämlich gar nicht.
 - [Die Schweiz ist drauf und dran, autoritäre Überwachungs­staaten zu kopieren](https://www.republik.ch/2025/05/07/die-schweiz-ist-drauf-und-dran-autoritaere-ueberwachungsstaaten-zu-kopieren) *(republik.ch)* : Die Vorlage klingt, als wäre sie vom Kreml verfasst worden: Geht es nach dem Bund, müssen sich Schweizer Internet­nutzer künftig mit Ausweis oder Telefon­nummer identifizieren. Der Zeitpunkt dafür ist denkbar schlecht.
 
-
 Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 {{< youtube m6KnVTYtSc0 >}}

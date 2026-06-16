@@ -28,4 +28,3 @@ Im letzten Monat sah ich folgende Videos und fand diese gut:
 
 {{< youtube eDr6_cMtfdA >}}
 Ich schwöre, ich fühle mich mängisch so, wenn ich für OpenStreetMap [micromappe](https://wiki.openstreetmap.org/wiki/Micromapping). Ich glaub [via [Ilya](https://en.osm.town/@zverik)]
-
