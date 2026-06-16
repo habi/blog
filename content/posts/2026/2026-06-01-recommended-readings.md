@@ -14,7 +14,6 @@ draft: yes
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-
 - [They're Made out of Meat | East of the Web](https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml) *(eastoftheweb.com)* : 
 - [If you’re still on Elon Musk’s X, ask yourself this: why? | Jonathan Liew](https://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation) *(theguardian.com)* : 
 - [Yandex: Aufstieg und Fall des russischen Google-Konkurrenten](https://www.spiegel.de/netzwelt/web/yandex-aufstieg-und-fall-des-russischen-google-konkurrenten-a-1bb8e5b3-822a-4219-9adf-773b8184f845) *(spiegel.de)* : 

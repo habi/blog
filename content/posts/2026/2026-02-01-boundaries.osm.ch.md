@@ -21,7 +21,7 @@ Auf dieser VM lief das serbische Tool mit Anpassungen für die Schweiz, war aber
 
 In einem Projekt bei der Arbeit habe ich mich etwas eingehender mit den sog. [GitHub Actions](https://docs.github.com/en/actions) beschäftigt, mit denen es möglich ist, ja nach Zustand eines GitHub-Projektes Aktionen durchzuführen, die ebenso auf einer virtuellen Infrastruktur (aber halt von Microsoft laufen).
 Eine solche Action baut beispielsweise aus etwas LaTeX-Code, der online liegt automatisch meinen [Lebenslauf](https://habi.github.io/cv/cv.pdf) (ich hab' keine Bewerbung offen, brauchte aber letzthin aus anderen Gründen einen Lebenslauf).
-Oder aus [etwas Textschnipseln](https://github.com/habi/sticklebacks-manuscript/tree/main/content) eine [Webseite](https://habi.github.io/sticklebacks-manuscript/) und ein [PDF](https://habi.github.io/sticklebacks-manuscript/manuscript.pdf), das eine Pubikation ergeben wird. 
+Oder aus [etwas Textschnipseln](https://github.com/habi/sticklebacks-manuscript/tree/main/content) eine [Webseite](https://habi.github.io/sticklebacks-manuscript/) und ein [PDF](https://habi.github.io/sticklebacks-manuscript/manuscript.pdf), das eine Pubikation ergeben wird.
 
 Item, Programmcode im Internet etwas machen zu lassen, ist mit solchen Actions einfach, schnell iterierbar und etwas weniger komplex, als per [`ssh`](https://en.wikipedia.org/wiki/Secure_Shell) auf einem Server Python-Code laufen zu lassen.
 
@@ -32,9 +32,9 @@ Zu Beginn habe ich das [Large Language Model](https://de.wikipedia.org/wiki/Larg
 > I have the boundaries of the swiss municipalities in https://data.geo.admin.ch/ch.swisstopo.swissboundaries3d/swissboundaries3d_2025-04/swissboundaries3d_2025-04_2056_5728.gpkg.zip.
 > Help me produce a report on how well these match geographically with the boundaries mapped in OpenStreetMap, preferrably via Overpass Turbo.
 > The boundaries in the geopackage have `bfs_nummer=355`, the boundaries in OSM have `swisstopo:BFS_NUMMER=355` as a matching ID.
-
+>
 > Can you query Overpass in Python, too?
-
+>
 > Can you make this all work in a GitHub action?
 
 Das heisst, ich habe Claude informiert, dass die Gemeindegrenzen der Schweiz in OpenStreetMap in sogenannten Relationen mit z.B. `swisstopo:BFS_NUMMER"=355` für [Köniz](https://www.openstreetmap.org/relation/1682518) erfasst sind.

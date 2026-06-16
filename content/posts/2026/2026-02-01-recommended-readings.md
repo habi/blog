@@ -13,7 +13,7 @@ tags:
 
 Im letzten Monat las ich folgende Texte und fand diese gut:
 
-- [My mom and Dr. DeepSeek](https://restofworld.org/2025/ai-chatbot-china-sick/) *(restofworld.org)* : Dr. [LLM](https://de.wikipedia.org/wiki/Large_Language_Model) hört immer und jederzeit zu. Und gibt meistens richtige Antworten. Eine grosse Umwälzung für Mediziner:innen. 
+- [My mom and Dr. DeepSeek](https://restofworld.org/2025/ai-chatbot-china-sick/) *(restofworld.org)* : Dr. [LLM](https://de.wikipedia.org/wiki/Large_Language_Model) hört immer und jederzeit zu. Und gibt meistens richtige Antworten. Eine grosse Umwälzung für Mediziner:innen.
 - [The Olivetti Company](https://www.abortretry.fail/p/the-olivetti-company) *(abortretry.fail)* : Schon vor [einem Jahr](https://habi.gna.ch/?s=ivrea&submit=Search) hab' ich über Ivrea und Olivetti gelesen. Eine wirklich faszinierende Firma. In diesem Text geht es weniger um die sozial progressiven Hintergründe, sondern um Computergeschichte.
 - [Something from nothing](https://tante.cc/2025/12/12/something-from-nothing/) *(tante.cc)* : Ich muss mehr machen, und weniger versuchen zu kreieren.
 - [Überwachungstechnologie: Wie hartnäckig Palantir die Schweiz umwarb](https://www.republik.ch/2025/12/08/wie-hartnaeckig-palantir-die-schweiz-umwarb) *(republik.ch)* : Das umstrittene Tech-Unternehmen Palantir liefert Überwachungs­technologie an Militär und Geheim­dienste. Bei hiesigen Behörden und der Armee aber blitzte es ab. Interne Dokumente zeigen nun weshalb. Teil 2 der Recherche ist [hier](https://www.republik.ch/2025/12/09/warum-palantir-zum-risiko-fuer-die-schweiz-wird).

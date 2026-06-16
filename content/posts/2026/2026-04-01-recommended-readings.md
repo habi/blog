@@ -1,4 +1,3 @@
-
 ---
 title: Recommended Readings vom Februar und März 2025
 date: 2026-04-01T19:00:00.000+00:00
@@ -14,7 +13,6 @@ tags:
 
 Anfangs März habe ich vergessen, [das Skript](https://github.com/habi/pinboard-angelesen) laufen zu lassen, deshalb hier die spannenden Texte der letzten *beiden* Monate:
 
-
 - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) *(nearzero.software)* : Eine hübsche Parabel über das, was KI mit Arbeit machen kann.
 - [How I fought my smartphone addiction](https://ploum.net/2026-03-13-phone_addiction.html) *(ploum.net)* : Alle möglichen Benachrichtigugen ausschalten ist ein erster Schritt.
   Und auch mal ohne Handy auf eine Velofahrt.
@@ -24,7 +22,7 @@ Anfangs März habe ich vergessen, [das Skript](https://github.com/habi/pinboard-
 - [The Origins of Agar](https://open.substack.com/pub/cell/p/agar) *(open.substack.com)* : Agar als Kulturmedium in der biomedizinischen Forschung gibt's seit mindestens 1881.
   Woher genau das kommt erklärt dieser Text.
 - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html) *(3quarksdaily.com)* : Freundschaft, zu Anderen wie auch zu sich selbst ost ein komplexes Zusammenspiel aus Selbstliebe und externen Einflüssen.
-  Die Qualität unserer Freundschaften spiegelt unsere innere Harmonie wider und wird durch unsere frühen Beziehungen und gesellschaftliche Dynamiken geprägt. 
+  Die Qualität unserer Freundschaften spiegelt unsere innere Harmonie wider und wird durch unsere frühen Beziehungen und gesellschaftliche Dynamiken geprägt.
 - [You’ve Heard About Who ICE Is Recruiting. The Truth Is Far Worse. I’m the Proof.](https://slate.com/news-and-politics/2026/01/ice-recruitment-minneapolis-shooting.html) *(slate.com)* : Was passiert, wenn man vor der Einstellung von [ICE](https://www.ice.gov)-Menschen nur minimale Überprüfungen durchführt, diese bewaffnet und dann auf die Strassee schickt, um Migrant:innen zu überprüfen?
   Gruslig.
 - [Something Big Is Happening](https://shumer.dev/something-big-is-happening) *(shumer.dev)* : Der rasante Fortschritt von KI, insbesondere im Bereich der Programmierung (siehe auch [hier](https://habi.gna.ch/2026/03/15/die-gmeindegrenzen-der-schweiz/)), führt zu einem tiefgreifenden Wandel auf dem Arbeitsmarkt.
