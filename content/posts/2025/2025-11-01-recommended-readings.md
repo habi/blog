@@ -13,7 +13,7 @@ tags:
 
 Im letzten Monat waren wir auch in den Ferien, da las ich folgende Texte und fand diese gut:
 
-- [The story of how RSS beat Microsoft](https://buttondown.com/blog/rss-vs-ice) *(buttondown.com)* : Hat irgendjemand mal 'was von ICE gehört? Oder verwendet ihr stattdessen (in irgend einer Form) RSS? 
+- [The story of how RSS beat Microsoft](https://buttondown.com/blog/rss-vs-ice) *(buttondown.com)* : Hat irgendjemand mal 'was von ICE (also von Microsofts Version, nicht von der [amerikanischen Behörde](https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement) gehört? Oder verwendet ihr stattdessen (in irgend einer Form) RSS?
 - [The World’s Most Common Surgery](https://www.asimov.press/p/cataracts) *(asimov.press)* : In von 4000 Jahren hat sich die Kataraktoperation von einem groben Eingriff mit Stacheln zu einer 20-minütigen Operation mit einer Erfolgsquote von 95 Prozent entwickelt.
 - [„Viele Clubs werden nie barrierefrei sein“](https://correctiv.org/aktuelles/2025/09/26/viele-clubs-werden-nie-barrierefrei-sein/) *(correctiv.org)* : Menschen mit Behinderung sind vom Schweizer Nachtleben weitgehend ausgeschlossen. Nicht, weil sie das wollen – sondern weil Clubbetreiber ihnen keine Chance dazu geben.
 - [Smartphones and being present](https://herman.bearblog.dev/being-present/) *(herman.bearblog.dev)* : Der Trick mit dem Ausschalten der History hat meinen Youtube-Konsum *massivst* eingeschränkt.
