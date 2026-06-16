@@ -1,0 +1,19 @@
+name: Lint Markdown files in content/posts
+
+on:
+  pull_request:
+  push:
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DavidAnson/markdownlint-cli2-action@v23.2.0
+        with:
+          globs: 'content/posts/**/*.md'
+          config: |
+            {
+            "MD013": false
+            "MD034": false
+            }
