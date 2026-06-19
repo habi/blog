@@ -14,9 +14,12 @@ tags:
 - science fiction
 ---
 
-Andy Weir ist einer der ersten Menschen, die auf dem Mars landen. Durch unglückliche Umstände bleibt er auf dem Mars, während der Rest seiner Truppe wieder auf die Erde zurückfliegt. Das heisst, er wird auf dem Mars sterben.
+Andy Weir ist einer der ersten Menschen, die auf dem Mars landen.
+Durch unglückliche Umstände bleibt er auf dem Mars, während der Rest seiner Truppe wieder auf die Erde zurückfliegt.
+Das heisst, er wird auf dem Mars sterben.
 
-Die Erklärung, wieso er doch nicht auf dem Mars stirbt, ist in einem spannenden [Buch von Andy Weir](http://andyweirauthor.com/books/the-martian-hc/the-martian-el) verpackt, dass mich unglaublich in den Bann zog [1] und viele coole [MacGyver](https://youtu.be/2ArMS3MSQwc)-mässige Tricks drin hat. Ebenso sind ein paar Stellen drin, bei denen ich beim Lesen laut rauslachen musste, obwohl's eine Science-Fiction-Geschichte par excellence ist.
+Die Erklärung, wieso er doch nicht auf dem Mars stirbt, ist in einem spannenden [Buch von Andy Weir](http://andyweirauthor.com/books/the-martian-hc/the-martian-el) verpackt, dass mich unglaublich in den Bann zog [1] und viele coole [MacGyver](https://youtu.be/2ArMS3MSQwc)-mässige Tricks drin hat.
+Ebenso sind ein paar Stellen drin, bei denen ich beim Lesen laut rauslachen musste, obwohl's eine Science-Fiction-Geschichte par excellence ist.
 
 [via [Smarter Everyday](https://youtu.be/D0B7F5UbTOQ?t=8m6s)]
 

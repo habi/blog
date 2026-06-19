@@ -13,8 +13,6 @@ tags:
 - moblog
 ---
 
-![](http://ift.tt/1OdJqrw)  
-
-  
+![Ghetto Nerds](http://ift.tt/1OdJqrw)  
 
 from [Flickr](http://flic.kr/p/zotqvV) via [IFTTT](http://ift.tt/1c4nCfM).
