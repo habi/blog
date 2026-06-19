@@ -9,5 +9,7 @@ categories:
 ---
 
 you want them?
-[![](https://habi.gna.ch/blog/images/g2-tm.jpg)](https://habi.gna.ch/blog/images/g2.jpg)[![](https://habi.gna.ch/blog/images/g1-tm.jpg)](https://habi.gna.ch/blog/images/g1.jpg)[![](https://habi.gna.ch/blog/images/g3-tm.jpg)](https://habi.gna.ch/blog/images/g3.jpg)
+[![golden sneakers, stacked](https://habi.gna.ch/blog/images/g2-tm.jpg)](https://habi.gna.ch/blog/images/g2.jpg)
+[![golden sneakers, top view](https://habi.gna.ch/blog/images/g1-tm.jpg)](https://habi.gna.ch/blog/images/g1.jpg)
+[![golden sneakers, oblique view](https://habi.gna.ch/blog/images/g3-tm.jpg)](https://habi.gna.ch/blog/images/g3.jpg)
 [go get them](http://www.ricardo.ch/cgi-bin/auk?cmd=viewlot;lotid=308116075;) :-)
