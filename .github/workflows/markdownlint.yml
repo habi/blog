@@ -20,11 +20,9 @@ jobs:
             }
           }
           EOF
+
       - uses: DavidAnson/markdownlint-cli2-action@v23.2.0
         with:
-          globs: 'content/posts/**/*.md'
-          config: |
-            {
-            "MD013": false
-            "MD034": false
-            }
+          globs: |
+            content/posts/**/*.md
+          config: .markdownlint-cli2.json
